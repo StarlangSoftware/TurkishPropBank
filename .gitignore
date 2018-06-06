@@ -53,3 +53,5 @@ nb-configuration.xml
 release.properties
 pom.xml.releaseBackup
 pom.xml.tag
+out/artifacts/PropBank_jar/PropBank.jar
+out/production/PropBank/frameset.xml
