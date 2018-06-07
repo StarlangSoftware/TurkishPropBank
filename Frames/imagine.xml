@@ -1,0 +1,19 @@
+<frameset>
+  <predicate lemma="imagine">
+    <roleset id="imagine.01" name="imagine, conceptualization, dreaming">
+      <roles>
+        <role descr="thinker" f="PAG" n="0"/>
+        <role descr="object, thing under consideration" f="PPT" n="1"/>
+        <role descr="attribute" f="PRD" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="imaginable">
+    <roleset id="imaginable.02" name="able to be imagined">
+      <roles>
+        <role descr="imaginer" f="pag" n="0"/>
+        <role descr="imaginable" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

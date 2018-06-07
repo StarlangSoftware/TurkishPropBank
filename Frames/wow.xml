@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="wow">
+    <roleset id="wow.01" name="cause amazement">
+      <roles>
+        <role descr="Stimulus of amazement" f="pag" n="0"/>
+        <role descr="amazed entity" f="ppt" n="1"/>
+        <role descr="instrument, if separate from arg0" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="canalize">
+    <roleset id="canalize.101" name="create/install/develop into canals, surgically or otherwise">
+      <roles>
+        <role descr="Agent, creator of canals" f="pag" n="0"/>
+        <role descr="Entity canals are created in, patient" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

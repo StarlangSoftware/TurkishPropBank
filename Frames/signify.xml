@@ -1,0 +1,17 @@
+<frameset>
+  <predicate lemma="signify">
+    <roleset id="signify.01" name="denote, mean, stand for, be indicative of">
+      <roles>
+        <role descr="entity holding meaning, signaling" f="pag" n="0"/>
+        <role descr="what arg0 signifies, means" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="significant">
+    <roleset id="significant.02" name="notable in size or importance">
+      <roles>
+        <role descr="thing that is notable" f="pag" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

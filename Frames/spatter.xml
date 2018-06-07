@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="spatter">
+    <roleset id="spatter.01" name="cover in spots of">
+      <roles>
+        <role descr="spatterer" f="PAG" n="0"/>
+        <role descr="liquid being spattered" f="PPT" n="1"/>
+        <role descr="entity spattered" f="GOL" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

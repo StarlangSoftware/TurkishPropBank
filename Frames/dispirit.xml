@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="dispirit">
+    <roleset id="dispirit.01" name="bring down (mood)">
+      <roles>
+        <role descr="causer of depression" f="pag" n="0"/>
+        <role descr="entity getting depressed" f="ppt" n="1"/>
+        <role descr="instrument, if causer also present" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

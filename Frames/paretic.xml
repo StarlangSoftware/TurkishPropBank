@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="paretic">
+    <roleset id="paretic.01" name="experiencing partial paralysis">
+      <roles>
+        <role descr="cause of paralysis" f="pag" n="0"/>
+        <role descr="person/body part experiencing paralysis" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

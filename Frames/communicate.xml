@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="communicate">
+    <roleset id="communicate.01" name="communicate, discussing, passing information">
+      <roles>
+        <role descr="first (or all) communicator(s)" f="pag" n="0"/>
+        <role descr="utterance" f="ppt" n="1"/>
+        <role descr="other communicator(s), communicated with or to" f="com" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

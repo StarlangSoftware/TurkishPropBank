@@ -1,0 +1,17 @@
+<frameset>
+  <predicate lemma="lace">
+    <roleset id="lace.01" name="intertwine, connect via a lace">
+      <roles>
+        <role descr="lacer" f="pag" n="0"/>
+        <role descr="things connected or intertwined" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="lace.02" name="add to, garnish">
+      <roles>
+        <role descr="adder, agent" f="pag" n="0"/>
+        <role descr="thing added to, garnished" f="gol" n="1"/>
+        <role descr="special ingredient" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

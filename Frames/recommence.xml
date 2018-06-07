@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="recommence">
+    <roleset id="recommence.01" name="recommence">
+      <roles>
+        <role descr="Agent, recommencer" f="PAG" n="0"/>
+        <role descr="thing recommenced, theme" f="PPT" n="1"/>
+        <role descr="recommenced with what, instrument" f="MNR" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

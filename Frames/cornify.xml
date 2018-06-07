@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="cornify">
+    <roleset id="cornify.01" name="convert into a horny tissue">
+      <roles>
+        <role descr="cause of cornification" f="pag" n="0" />
+        <role descr="hardened tissue" f="ppt" n="1" />
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

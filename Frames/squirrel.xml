@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="squirrel_away">
+    <roleset id="squirrel_away.01" name="store up, as a squirrel does nuts for the winter">
+      <roles>
+        <role descr="squirrel, hider" f="pag" n="0"/>
+        <role descr="nut, thing hidden away" f="ppt" n="1"/>
+        <role descr="hiding spot" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,16 @@
+<frameset>
+  <predicate lemma="circle">
+    <roleset id="circle.01" name="to move in a circle">
+      <roles>
+        <role descr="entity moving" f="PAG" n="0"/>
+      </roles>
+    </roleset>
+    <roleset id="circle.02" name="to form a circle, enclose">
+      <roles>
+        <role descr="causer" f="PAG" n="0"/>
+        <role descr="entity forming a circle" f="PPT" n="1"/>
+        <role descr="entity within a circle" f="PPT" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

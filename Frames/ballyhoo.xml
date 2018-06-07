@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="ballyhoo">
+    <roleset id="ballyhoo.01" name="advertise noisily or blatantly">
+      <roles>
+        <role descr="advertiser" f="PAG" n="0"/>
+        <role descr="ad" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

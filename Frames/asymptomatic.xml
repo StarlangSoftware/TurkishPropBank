@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="asymptomatic">
+    <roleset id="asymptomatic.01" name="show no signs of, asymptomatic">
+      <roles>
+        <role descr="entity without symptoms" f="pag" n="0"/>
+        <role descr="lacking signs of what" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

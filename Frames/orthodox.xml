@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="orthodox">
+    <roleset id="orthodox.01" name="adhering to establishment/tradition">
+      <roles>
+        <role descr="orthodox entity" f="ppt" n="1"/>
+        <role descr="defining characteristic/name of the tradition" f="adj" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

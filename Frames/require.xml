@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="require">
+    <roleset id="require.01" name="need, obligation">
+      <roles>
+        <role descr="requirer" f="pag" n="0"/>
+        <role descr="thing required" f="ppt" n="1"/>
+        <role descr="required-of, required-from ('ablative')" f="dir" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

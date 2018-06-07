@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="transmogrify">
+    <roleset id="transmogrify.01" name="change, transform">
+      <roles>
+        <role descr="cause of change, agent" f="pag" n="0"/>
+        <role descr="thing changing" f="ppt" n="1"/>
+        <role descr="start state" f="vsp" n="2"/>
+        <role descr="end state" f="prd" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

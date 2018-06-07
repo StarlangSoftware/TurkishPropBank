@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="funduscopic">
+    <roleset id="funduscopic.01" name="seen using a funduscope (eye exam)">
+      <roles>
+        <role descr="funduscopic thing (exam)" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

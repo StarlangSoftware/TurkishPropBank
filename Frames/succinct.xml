@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="succinct">
+    <roleset id="succinct.01" name="clear and concise">
+      <roles>
+        <role descr="entity giving a clear, concise account" f="pag" n="0"/>
+        <role descr="the clear and concise account" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

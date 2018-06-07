@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="tympanic">
+    <roleset id="tympanic.01" name="sounding like a drum">
+      <roles>
+        <role descr="drum-like entity" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,17 @@
+<frameset>
+  <predicate lemma="jog">
+    <roleset id="jog.01" name="run slowly">
+      <roles>
+        <role descr="runner" f="ppt" n="0"/>
+        <role descr="path" f="loc" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="jog.02" name="jog one's memory- remind">
+      <roles>
+        <role descr="agent/cause of remembering" f="pag" n="0"/>
+        <role descr="usually &quot;__'s memory&quot;" f="gol" n="1"/>
+        <role descr="explicit thing being remembered" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="spawn">
+    <roleset id="spawn.01" name="to produce in large numbers, to give rise to">
+      <roles>
+        <role descr="causer" f="cau" n="0"/>
+        <role descr="thing spawned" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

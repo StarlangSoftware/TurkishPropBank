@@ -1,0 +1,16 @@
+<frameset>
+  <predicate lemma="loud">
+    <roleset id="loud.01" name="high volume">
+      <roles>
+        <role descr="Thing that produces a lot of sound" f="pag" n="0"/>
+        <role descr="Sound, message that is loud or loud about what?" f="ppt" n="1"/>
+        <role descr="Listener" f="gol" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="loud.02" name="tasteless, gaudy">
+      <roles>
+        <role descr="Tacky thing" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

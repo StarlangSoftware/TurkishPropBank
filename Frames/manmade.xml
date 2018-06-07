@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="manmade">
+    <roleset id="manmade.01" name="created by a human">
+      <roles>
+        <role descr="maker" f="pag" n="0"/>
+        <role descr="creation" f="ppt" n="1"/>
+        <role descr="materials" f="mnr" n="2"/>
+        <role descr="benefactive" f="gol" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="consist">
+    <roleset id="consist.01" name="be composed of pieces">
+      <roles>
+        <role descr="whole" f="ppt" n="1"/>
+        <role descr="parts" f="vsp" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

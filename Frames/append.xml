@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="append">
+    <roleset id="append.01" name="attach to">
+      <roles>
+        <role descr="attacher" f="pag" n="0"/>
+        <role descr="attached" f="ppt" n="1"/>
+        <role descr="attached to" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

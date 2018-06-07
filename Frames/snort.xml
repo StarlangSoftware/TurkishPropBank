@@ -1,0 +1,16 @@
+<frameset>
+  <predicate lemma="snort">
+    <roleset id="snort.01" name="emit a snorting sound, say snortingly">
+      <roles>
+        <role descr="snorter" f="PAG" n="0"/>
+        <role descr="snort itself, utterance" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="snort.02" name="ingest through the nose">
+      <roles>
+        <role descr="snorter" f="PAG" n="0"/>
+        <role descr="substance ingested" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

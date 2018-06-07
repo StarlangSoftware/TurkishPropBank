@@ -1,0 +1,19 @@
+<frameset>
+  <predicate lemma="size">
+    <roleset id="size.01" name="(cause to) have some size">
+      <roles>
+        <role descr="agent, sizer" f="PAG" n="0"/>
+        <role descr="thing whose size is important" f="PPT" n="1"/>
+        <role descr="size itself, attribute of arg1" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="size_up">
+    <roleset id="size_up.02" name="evaluate">
+      <roles>
+        <role descr="evaluator" f="PAG" n="0"/>
+        <role descr="evaluated" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

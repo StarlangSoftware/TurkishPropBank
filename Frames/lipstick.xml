@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="lipstick">
+    <roleset id="lipstick.01" name="cover with lipstick">
+      <roles>
+        <role descr="makeup artist, agent putting on lipstick" f="PAG" n="0"/>
+        <role descr="lips, or other entity being covered with lipstick" f="GOL" n="1"/>
+        <role descr="lipstick type, or art drawn with lipstick" f="PPT" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

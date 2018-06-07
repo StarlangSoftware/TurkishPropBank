@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="addle">
+    <roleset id="addle.01" name="(cause to) be confused">
+      <roles>
+        <role descr="agentive cause of confusion" f="pag" n="0"/>
+        <role descr="entity experiencing confusion" f="ppt" n="1"/>
+        <role descr="confused about or confused with what?" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,59 @@
+<frameset>
+  <predicate lemma="pay">
+    <roleset id="pay.01" name="cf buy and sell, pay for, pay for again">
+      <roles>
+        <role descr="payer or buyer" f="pag" n="0"/>
+        <role descr="money or attention" f="vsp" n="1"/>
+        <role descr="person being paid, destination of attention" f="gol" n="2"/>
+        <role descr="commodity, paid for what" f="ppt" n="3"/>
+      </roles>
+    </roleset>
+    <roleset id="pay.04" name="succeed, work out">
+      <roles>
+        <role descr="thing succeeding or working out" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="pay_off">
+    <roleset id="pay_off.02" name="pay off">
+      <roles>
+        <role descr="payer" f="pag" n="0"/>
+        <role descr="debt" f="ppt" n="1"/>
+        <role descr="owed to whom, person paid" f="gol" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="pay_off.05" name="succeed, work out (phrasal)">
+      <roles>
+        <role descr="thing succeeding, working out" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="pay_out">
+    <roleset id="pay_out.03" name="pay out">
+      <roles>
+        <role descr="payer or buyer" f="pag" n="0"/>
+        <role descr="money or attention" f="vsp" n="1"/>
+        <role descr="person being paid, destination of attention" f="gol" n="2"/>
+        <role descr="commodity, paid for what" f="ppt" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="pay_down">
+    <roleset id="pay_down.06" name="reduce indebtedness">
+      <roles>
+        <role descr="payer" f="pag" n="0"/>
+        <role descr="debt" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="pay_up">
+    <roleset id="pay_up.07" name="same as pay.01 but sounds tougher">
+      <roles>
+        <role descr="agent, payer" f="pag" n="0"/>
+        <role descr="money paid" f="ppt" n="1"/>
+        <role descr="person being paid, given the money" f="gol" n="2"/>
+        <role descr="commodity, money paid for what?" f="ppt" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

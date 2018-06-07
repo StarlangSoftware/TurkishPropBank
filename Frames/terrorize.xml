@@ -1,0 +1,30 @@
+<frameset>
+  <predicate lemma="terrorize">
+    <roleset id="terrorize.01" name="bully">
+      <roles>
+        <role descr="intentional agent of scaring" f="pag" n="0"/>
+        <role descr="scared entity" f="ppt" n="1"/>
+        <role descr="instrument, when separate from arg 0" f="mnr" n="2"/>
+        <role descr="intensifier, predication" f="prd" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="terror">
+    <roleset id="terror.02" name="panic, anxiety, and extreme fear rolled into one">
+      <roles>
+        <role descr="source or cause of terror" f="cau" n="0"/>
+        <role descr="scared entity" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="terrorism">
+    <roleset id="terrorism.03" name="use extreme violence to intimidate for political or idiological reasons">
+      <roles>
+        <role descr="intentional agent of scaring" f="pag" n="0"/>
+        <role descr="scared entity" f="ppt" n="1"/>
+        <role descr="instrument, when separate from arg 0" f="mnr" n="2"/>
+        <role descr="intensifier, predication" f="prd" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

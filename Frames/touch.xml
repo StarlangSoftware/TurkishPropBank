@@ -1,0 +1,84 @@
+<frameset>
+  <predicate lemma="touch">
+    <roleset id="touch.01" name="be or come into contact with, literally or metpahorically">
+      <roles>
+        
+        <role descr="toucher" f="pag" n="0"/>
+        <role descr="thing touched" f="ppt" n="1"/>
+        <role descr="touched with, if separate from agent" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="touch.07" name="cause an effect by touching">
+      <roles>
+        <role descr="causer" f="pag" n="0"/>
+        <role descr="start state, thing touched" f="ppt" n="1"/>
+        <role descr="end state" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="touch_off">
+    <roleset id="touch_off.02" name="touch off: start">
+      <roles>
+        <role descr="Agent" f="pag" n="0"/>
+        <role descr="thing starting" f="ppt" n="1"/>
+        <role descr="Instrument" f="mnr" n="2"/>
+        <role descr="secondary predication" f="prd" n="3"/>
+      </roles>
+    </roleset>
+    <roleset id="touch_off.06" name="touch off: ignite">
+      <roles>
+        <role descr="starter of fire" f="pag" n="0"/>
+        <role descr="(in)flammable substance" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="touch_up">
+    <roleset id="touch_up.03" name="touch up: repair, to repair">
+      <roles>
+        <role descr="repairer" f="pag" n="0"/>
+        <role descr="thing repaired" f="ppt" n="1"/>
+        <role descr="instrument" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="touch_on">
+    <roleset id="touch_on.04" name="touch on: be/get involved with">
+      <roles>
+        <role descr="focus" f="ppt" n="0"/>
+        <role descr="topic" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="touch_upon">
+    <roleset id="touch_upon.05" name="touch upon: same as touch on">
+      <roles>
+        <role descr="focus" f="pag" n="0"/>
+        <role descr="topic" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="touch_base">
+    <roleset id="touch_base.08" name="establish communication with someone abt smth">
+      <roles>
+        <role descr="contact-maker" f="pag" n="0"/>
+        <role descr="entity contacted" f="com" n="1"/>
+        <role descr="subject matter" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="touchy">
+    <roleset id="touchy.09" name="in need of careful handling">
+      <roles>
+        <role descr="stimulus, what arg1 is touchy about" f="pag" n="0"/>
+        <role descr="touchy one" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="touchy.10" name="handsy, unable to resist">
+      <roles>
+        <role descr="entity who wont' stop touching things" f="pag" n="0"/>
+        <role descr="entity touched" f="ppt" n="1"/>
+        <role descr="instrument (if in addition to arg0)" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

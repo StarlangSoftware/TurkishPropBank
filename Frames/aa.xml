@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="aa">
+    <roleset id="aa.01" name="awake and alert">
+      <roles>
+        <role descr="awake/alert entity" f="pag" n="0"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

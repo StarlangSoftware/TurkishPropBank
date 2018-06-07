@@ -1,0 +1,26 @@
+<frameset>
+  <predicate lemma="fatten">
+    <roleset id="fatten.01" name="make fatter">
+      <roles>
+        <role descr="causal agent" f="PAG" n="0"/>
+        <role descr="thing getting fatter" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="fatten_up">
+    <roleset id="fatten_up.02" name="fatten to a fully fat state">
+      <roles>
+        <role descr="Wicked witch in a candy house" f="PAG" n="0"/>
+        <role descr="Hansel and/or Gretel" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="fat">
+    <roleset id="fat.03" name="havnig an abundance of fat; full">
+      <roles>
+        <role descr="fat one, full container" f="pag" n="1"/>
+        <role descr="the fat, contents" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

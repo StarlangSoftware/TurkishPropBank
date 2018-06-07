@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="hypermetabolic">
+    <roleset id="hypermetabolic.01" name="having overly high metabolism">
+      <roles>
+        <role descr="hypermetabolic entity" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

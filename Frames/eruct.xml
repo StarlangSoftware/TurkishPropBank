@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="eruct">
+    <roleset id="eruct.01" name="belch">
+      <roles>
+        <role descr="belcher" f="PAG" n="0"/>
+        <role descr="cognate object, belch itself" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="consolidate">
+    <roleset id="consolidate.01" name="blend, mix, mixing together">
+      <roles>
+        <role descr="mixer, integrater" f="pag" n="0"/>
+        <role descr="figure, theme, topic" f="ppt" n="1"/>
+        <role descr="ground (into X)" f="ppt" n="2"/>
+        <role descr="explicit source" f="dir" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

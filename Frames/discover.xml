@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="discover">
+    <roleset id="discover.01" name="find (out)">
+      <roles>
+        <role descr="finder" f="pag" n="0"/>
+        <role descr="thing found, discovery" f="ppt" n="1"/>
+        <role descr="benefactive, found for" f="gol" n="2"/>
+        <role descr="attribute on arg1 (found out to be/as what)" f="prd" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

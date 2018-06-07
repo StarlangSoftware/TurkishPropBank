@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="shrill">
+    <roleset id="shrill.01" name="shrill">
+      <roles>
+        <role descr="shriller, agent" f="PAG" n="0"/>
+        <role descr="thing shrilled, actual sound or quotation" f="PPT" n="1"/>
+        <role descr="location of shrilling" f="LOC" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

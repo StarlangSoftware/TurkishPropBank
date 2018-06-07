@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="suffer">
+    <roleset id="suffer.01" name="suffer, endure/undergo something painful">
+      <roles>
+        <role descr="entity suffering" f="ppt" n="0"/>
+        <role descr="malady" f="pag" n="1"/>
+      </roles>
+    
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="hellish">
+    <roleset id="hellish.01" name="brutal, reminiscent of hell">
+      <roles>
+        <role descr="hellish entity" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

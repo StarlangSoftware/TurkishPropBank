@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="brainstorm">
+    <roleset id="brainstorm.01" name="come up with ideas">
+      <roles>
+        <role descr="Brainstormer, thinker" f="pag" n="0"/>
+        <role descr="thought, what was brainstormed about?" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

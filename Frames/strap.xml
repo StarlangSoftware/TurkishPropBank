@@ -1,0 +1,24 @@
+<frameset>
+  <predicate lemma="strap">
+    <roleset id="strap.01" name="fasten, bind">
+      <roles>
+        <role descr="fastener, agent" f="pag" n="0"/>
+        <role descr="thing strapped" f="ppt" n="1"/>
+        <role descr="location" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="strap.02" name="be in need of">
+      <roles>
+        <role descr="agent, needer" f="pag" n="0"/>
+        <role descr="needed thing" f="ppt" n="1"/>
+        <role descr="cause of need" f="cau" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="strap.03" name="to beat with a strap">
+      <roles>
+        <role descr="beater, hitter, agent" f="pag" n="0"/>
+        <role descr="thing strapped" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

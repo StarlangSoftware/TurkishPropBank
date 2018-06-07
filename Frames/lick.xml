@@ -1,0 +1,19 @@
+<frameset>
+  <predicate lemma="lick">
+    <roleset id="lick.01" name="touch with the tongue">
+      <roles>
+        <role descr="licker" f="PAG" n="0"/>
+        <role descr="licked" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="lick_up">
+    <roleset id="lick_up.02" name="remove by licking">
+      <roles>
+        <role descr="licker, remover" f="PAG" n="0"/>
+        <role descr="thing removed" f="PPT" n="1"/>
+        <role descr="removed from" f="DIR" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

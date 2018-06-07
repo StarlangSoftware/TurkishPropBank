@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="thwap">
+    <roleset id="thwap.01" name="hit with a thwapping sound">
+      <roles>
+        <role descr="agent, hitter - animate only!" f="pag" n="0"/>
+        <role descr="thing thwapped" f="ppt" n="1"/>
+        <role descr="instrument, thing thwapping arg 1; answers the question thwapped with what?" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="precaution">
+    <roleset id="precaution.01" name="warning">
+      <roles>
+        <role descr="Entity giving warning" f="pag" n="0"/>
+        <role descr="Topic of precaution" f="ppt" n="1"/>
+        <role descr="Precautioned entity" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

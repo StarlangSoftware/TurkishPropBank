@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="malodorous">
+    <roleset id="malodorous.01" name="smelling bad">
+      <roles>
+        <role descr="thing that smells bad" f="ppt" n="1"/>
+        <role descr="what arg1 smells like, source of bad smell" f="adj" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="prep">
+    <roleset id="prep.01" name="make ready">
+      <roles>
+        <role descr="preparer" f="pag" n="0"/>
+        <role descr="thing made ready" f="ppt" n="1"/>
+        <role descr="ready for" f="prp" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

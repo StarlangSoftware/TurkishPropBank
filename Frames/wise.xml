@@ -1,0 +1,24 @@
+<frameset>
+  <predicate lemma="wise">
+    <roleset id="wise.01" name="characterized by wisdom">
+      <roles>
+        <role descr="that characterized as wise (may require concatenation)" f="pag" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="wise.02" name="knowing about (&quot;wise to&quot;)">
+      <roles>
+        <role descr="knower" f="pag" n="0"/>
+        <role descr="known" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="wise_up">
+    <roleset id="wise_up.03" name="become wise (to something)">
+      <roles>
+        <role descr="outside agent or causer" f="pag" n="0"/>
+        <role descr="entity becoming wise" f="ppt" n="1"/>
+        <role descr="thing learned" f="vsp" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

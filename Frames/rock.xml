@@ -1,0 +1,30 @@
+<frameset>
+  <predicate lemma="rock">
+    <roleset id="rock.01" name="tremble">
+      <roles>
+        <role descr="causer of trembling motion" f="pag" n="0"/>
+        <role descr="thing trembling" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="rock.03" name="party">
+      <roles>
+        <role descr="rocker" f="pag" n="0"/>
+        <role descr="inspiration; rock on to what" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="rock.04" name="be hip or trendy">
+      <roles>
+        <role descr="causer of trendiness" f="pag" n="0"/>
+        <role descr="cool thing" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="rock_on">
+    <roleset id="rock_on.02" name="party on, wayne.">
+      <roles>
+        <role descr="rock star" f="pag" n="0"/>
+        <role descr="inspiration; rock on to what" f="cau" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

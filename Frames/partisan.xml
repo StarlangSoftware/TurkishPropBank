@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="partisan">
+    <roleset id="partisan.01" name="favoring one party">
+      <roles>
+        <role descr="partisan entity" f="ppt" n="1"/>
+        <role descr="towards whom" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

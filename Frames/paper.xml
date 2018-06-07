@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="paper">
+    <roleset id="paper.01" name="cover with paper.">
+      <roles>
+        <role descr="Agent, wrapper" f="PAG" n="0"/>
+        <role descr="Entity, object covered with paper" f="GOL" n="1"/>
+        <role descr="Paper itself, type of paper" f="PPT" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

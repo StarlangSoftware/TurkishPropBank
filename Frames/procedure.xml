@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="procedure">
+    <roleset id="procedure.01" name="process or operation">
+      <roles>
+        <role descr="agent" f="pag" n="0"/>
+        <role descr="process or operation" f="ppt" n="1"/>
+        <role descr="benefactive" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

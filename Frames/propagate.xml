@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="propagate">
+    <roleset id="propagate.01" name="trigger, breeding/reproduction">
+      <roles>
+        <role descr="Agent" f="pag" n="0"/>
+        <role descr="Theme(Creation)" f="ppt" n="1"/>
+        <role descr="Instrument" f="mnr" n="2"/>
+        <role descr="secondary predication" f="prd" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

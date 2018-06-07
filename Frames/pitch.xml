@@ -1,0 +1,35 @@
+<frameset>
+  <predicate lemma="pitch">
+    <roleset id="pitch.01" name="throw">
+      <roles>
+        <role descr="thrower" f="pag" n="0"/>
+        <role descr="thing thrown" f="ppt" n="1"/>
+        <role descr="thrown at, to, over, etc" f="gol" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="pitch.02" name="set a musical tone">
+      <roles>
+        <role descr="setter of tone, agent" f="pag" n="0"/>
+        <role descr="tone" f="ppt" n="1"/>
+        <role descr="value" f="vsp" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="pitch.04" name="advertise in strongly positive terms">
+      <roles>
+        <role descr="advertiser, agent" f="pag" n="0"/>
+        <role descr="thing touted" f="ppt" n="1"/>
+        <role descr="attribute of arg1" f="prd" n="2"/>
+        <role descr="recipient" f="gol" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="pitch_in">
+    <roleset id="pitch_in.03" name="pitch in: cooperate">
+      <roles>
+        <role descr="cooperators" f="pag" n="0"/>
+        <role descr="thing added to the cooperation" f="ppt" n="1"/>
+        <role descr="cooperative work" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

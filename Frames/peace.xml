@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="peace">
+    <roleset id="peace.01" name="state of peace">
+      <roles>
+        <role descr="maker, stimulus of peaceful state" f="pag" n="0"/>
+        <role descr="experiencer of peaceful state, peace made with whom?" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

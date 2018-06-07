@@ -1,0 +1,13 @@
+<frameset>
+  <predicate lemma="copay">
+    <roleset id="copay.01" name="pay a pre-determined portion of a bill that is otherwise covered by insurance">
+      <roles>
+        <role descr="patient paying a copay" f="pag" n="0"/>
+        <role descr="amount co-payed" f="ppt" n="1"/>
+        <role descr="payee" f="gol" n="2"/>
+        <role descr="services paid for" f="prp" n="3"/>
+        <role descr="insurance company paying the other portion" f="com" n="4"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

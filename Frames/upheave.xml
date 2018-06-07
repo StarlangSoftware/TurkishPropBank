@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="upheave">
+    <roleset id="upheave.01" name="heave upwards; turbulence, turmoil, agitation">
+      <roles>
+        <role descr="Causer of agitation" f="pag" n="0"/>
+        <role descr="entity disrupted" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

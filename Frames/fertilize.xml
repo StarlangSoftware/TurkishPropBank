@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="fertilize">
+    <roleset id="fertilize.01" name="bring male and female together">
+      <roles>
+        <role descr="male part, fertilizer" f="PAG" n="0"/>
+        <role descr="female part, fertilized" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

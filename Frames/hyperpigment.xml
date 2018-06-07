@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="hyperpigment">
+    <roleset id="hyperpigment.01" name="to darken, caused by increase melanin, darkening as a result of increased melanin">
+      <roles>
+        <role descr="Cause of hyperpigmenting (pathogen, chemical, etc.)" f="PAG" n="0"/>
+        <role descr="Entity hyperpigmenting" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

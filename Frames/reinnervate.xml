@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="reinnervate">
+    <roleset id="reinnervate.01" name="restore function by supplying with nerves">
+      <roles>
+        <role descr="thing being supplied with regrown or grafted nerves" f="ppt" n="1"/>
+        <role descr="manner, instrument, cause of regrowth" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

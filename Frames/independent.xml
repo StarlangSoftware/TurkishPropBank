@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="independent">
+    <roleset id="independent.01" name="not relying on, freestanding">
+      <roles>
+        <role descr="independet entity" f="ppt" n="0"/>
+        <role descr="standing separate from, indepedent of" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

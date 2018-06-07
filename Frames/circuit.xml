@@ -1,0 +1,16 @@
+<frameset>
+  <predicate lemma="circuit">
+    <roleset id="circuit.01" name="field">
+      <roles>
+        <role descr="tourist" f="pag" n="0"/>
+        <role descr="topic, thing toured" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="circuit.02" name="to move in a circle">
+      <roles>
+        <role descr="entity moving" f="pag" n="0"/>
+        <role descr="location/path" f="loc" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

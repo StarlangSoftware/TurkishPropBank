@@ -1,0 +1,14 @@
+<frameset>
+  <predicate lemma="hurricane">
+    <roleset id="hurricane.01" name="natural disaster: tropical cyclone">
+      <roles>
+        <role descr="mention of wind/element whirling" f="ppt" n="1"/>
+        <role descr="intensity" f="ext" n="2"/>
+        <role descr="death/injury toll" f="vsp" n="3"/>
+        <role descr="damages/cost" f="vsp" n="4"/>
+        <role descr="wind speed" f="mnr" n="5"/>
+        <role descr="radius" f="ext" n="6"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

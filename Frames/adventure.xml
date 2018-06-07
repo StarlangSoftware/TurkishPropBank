@@ -1,0 +1,17 @@
+<frameset>
+  <predicate lemma="adventure">
+    <roleset id="adventure.01" name="courageous expedition">
+      <roles>
+        <role descr="adventurer" f="pag" n="0"/>
+        <role descr="the adventure" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="adventurous">
+    <roleset id="adventurous.02" name="seeking, characterized by adventure">
+      <roles>
+        <role descr="adventurous thing" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

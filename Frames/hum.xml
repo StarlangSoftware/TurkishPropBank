@@ -1,0 +1,17 @@
+<frameset>
+  <predicate lemma="hum">
+    <roleset id="hum.02" name="make a continuous low sound, sing without words">
+      <roles>
+        <role descr="entity humming" f="pag" n="0"/>
+        <role descr="song or sound" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="hum_along">
+    <roleset id="hum_along.01" name="move along steadily">
+      <roles>
+        <role descr="entity in motion" f="pag" n="0"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

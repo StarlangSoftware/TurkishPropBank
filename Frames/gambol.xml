@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="gambol">
+    <roleset id="gambol.01" name="gambol">
+      <roles>
+        <role descr="entity moved, gamboler" f="ppt" n="1"/>
+        <role descr="path" f="dir" n="2"/>
+        <role descr="start point" f="loc" n="3"/>
+        <role descr="end point" f="loc" n="4"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

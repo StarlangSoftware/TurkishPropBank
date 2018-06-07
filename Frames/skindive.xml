@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="skindive">
+    <roleset id="skindive.01" name="like snorkelling">
+      <roles>
+        <role descr="diver" f="pag" n="0"/>
+        <role descr="location" f="ppt" n="1"/>
+        <role descr="in search of" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

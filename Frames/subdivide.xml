@@ -1,0 +1,13 @@
+<frameset>
+  <predicate lemma="subdivide">
+    <roleset id="subdivide.01" name="separate, divide into smaller units or divide again.">
+      <roles>
+        <role descr="entity causing separation" f="pag" n="0"/>
+        <role descr="thing being divided, again" f="ppt" n="1"/>
+        <role descr="divided among/between, if separate from arg1" f="gol" n="2"/>
+        <role descr="specific aspect of arg1 being used as criteria for subdivision" f="vsp" n="3"/>
+        <role descr="divided into what?  Smaller parcel, resulting state of arg 1" f="prd" n="4"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

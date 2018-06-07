@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="previous">
+    <roleset id="previous.01" name="the next most recent">
+      <roles>
+        <role descr="previous thing" f="pag" n="1"/>
+        <role descr="previous to, before what" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

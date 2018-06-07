@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="trifurcate">
+    <roleset id="trifurcate.01" name="splitting in three">
+      <roles>
+        <role descr="splitter" f="pag" n="0"/>
+        <role descr="thing split" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

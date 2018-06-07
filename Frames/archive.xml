@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="archive">
+    <roleset id="archive.01" name="to store in an archive">
+      <roles>
+        <role descr="storer" f="PAG" n="0"/>
+        <role descr="thing stored" f="PPT" n="1"/>
+        <role descr="building, location" f="GOL" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

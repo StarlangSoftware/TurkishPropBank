@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="bloom">
+    <roleset id="bloom.01" name="put forth flowers,">
+      <roles>
+        <role descr="bloom-v: bloomer (no, not like that!)" f="PPT" n="0"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

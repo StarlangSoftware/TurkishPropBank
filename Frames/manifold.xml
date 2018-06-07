@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="manifold">
+    <roleset id="manifold.01" name="varied, having many features or forms">
+      <roles>
+        <role descr="varied thing" f="ppt" n="1"/>
+        <role descr="specific aspect of arg1 that has many featurs/forms" f="vsp" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

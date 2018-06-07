@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="supple">
+    <roleset id="supple.01" name="pliant, easily movable">
+      <roles>
+        <role descr="supple entity" f="pag" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

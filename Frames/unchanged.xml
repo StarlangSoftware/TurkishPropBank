@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="unchanged">
+    <roleset id="unchanged.01" name="untransformed">
+      <roles>
+        <role descr="agent of transformation" f="pag" n="0"/>
+        <role descr="thing not transformed" f="ppt" n="1"/>
+        <role descr="start state" f="mnr" n="2"/>
+        <role descr="would-be end state" f="prd" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

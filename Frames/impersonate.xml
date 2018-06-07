@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="impersonate">
+    <roleset id="impersonate.01" name="behave like someone else">
+      <roles>
+        <role descr="impersonater, agent" f="PAG" n="0"/>
+        <role descr="original" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

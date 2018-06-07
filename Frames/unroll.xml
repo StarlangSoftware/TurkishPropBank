@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="unroll">
+    <roleset id="unroll.01" name="unroll">
+      <roles>
+        <role descr="unroller, agent" f="PAG" n="0"/>
+        <role descr="thing no longer rolled (up)" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

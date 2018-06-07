@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="healthy">
+    <roleset id="healthy.01" name="of or poviding sound physical condition">
+      <roles>
+        <role descr="thing providing health" f="ppt" n="1"/>
+        <role descr="entity enjoying good health (beneficiary)" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

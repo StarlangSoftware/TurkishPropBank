@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="occult">
+    <roleset id="occult.01" name="hide from view; eclipse">
+      <roles>
+        <role descr="covering" f="pag" n="1"/>
+        <role descr="thing covered" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

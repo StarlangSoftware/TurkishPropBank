@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="pounce">
+    <roleset id="pounce.01" name="to attack suddenly">
+      <roles>
+        <role descr="attacker, agent" f="PAG" n="0"/>
+        <role descr="thing pounced on" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

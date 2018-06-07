@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="coanchor">
+    <roleset id="coanchor.01" name="co-host (as a tv show)">
+      <roles>
+        <role descr="co-anchor(s)" f="PAG" n="0"/>
+        <role descr="the show" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

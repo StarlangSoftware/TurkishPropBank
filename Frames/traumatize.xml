@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="traumatize">
+    <roleset id="traumatize.01" name="affect deeply and negatively">
+      <roles>
+        <role descr="cause" f="pag" n="0"/>
+        <role descr="patient" f="ppt" n="1"/>
+        <role descr="instrument (only when in addition to arg0)" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

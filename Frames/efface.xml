@@ -1,0 +1,23 @@
+<frameset>
+  <predicate lemma="efface">
+    <roleset id="efface.01" name="remove by rubbing">
+      <roles>
+        <role descr="Causer of erasing" f="pag" n="0"/>
+        <role descr="Thing erased" f="ppt" n="1"/>
+        <role descr="Instrument" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="efface.02" name="remove from awareness">
+      <roles>
+        <role descr="remover" f="pag" n="0"/>
+        <role descr="thing removed" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="efface.03" name="make inconspicuous">
+      <roles>
+        <role descr="Causer of inconspicuousness" f="pag" n="0"/>
+        <role descr="Entity made inconspicuous" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

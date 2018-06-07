@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="corrode">
+    <roleset id="corrode.01" name="fade, fade; cause to be erroded">
+      <roles>
+        <role descr="agent, causing fading" f="pag" n="0"/>
+        <role descr="thing fading" f="ppt" n="1"/>
+        <role descr="end point" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

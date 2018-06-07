@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="nonadvantageous">
+    <roleset id="nonadvantageous.01" name="detrimental, or at least offering no advantage">
+      <roles>
+        <role descr="thing offering no advantage" f="pag" n="1"/>
+        <role descr="non-beneficiary" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

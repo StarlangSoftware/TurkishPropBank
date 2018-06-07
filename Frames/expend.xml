@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="expend">
+    <roleset id="expend.01" name="to spend, consume">
+      <roles>
+        <role descr="spender, agent" f="pag" n="0"/>
+        <role descr="entity expended" f="ppt" n="1"/>
+        <role descr="entity expended on" f="loc" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

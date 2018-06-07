@@ -1,0 +1,15 @@
+<frameset>
+  <predicate lemma="upright">
+    <roleset id="upright.01" name="standing">
+      <roles>
+        <role descr="entity standing up" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="upright.02" name="morally good">
+      <roles>
+        <role descr="upstanding entity" f="ppt" n="1"/>
+        <role descr="specific domain/aspect of arg1 that is upstanding" f="vsp" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

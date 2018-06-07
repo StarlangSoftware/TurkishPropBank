@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="quest">
+    <roleset id="quest.01" name="go on a quest searching for">
+      <roles>
+        <role descr="entity on a quest" f="pag" n="0"/>
+        <role descr="goal of the quest" f="prp" n="1"/>
+        <role descr="location" f="loc" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

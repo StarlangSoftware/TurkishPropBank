@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="xray">
+    <roleset id="xray.01" name="take a picture of the insides">
+      <roles>
+        <role descr="x-rayer" f="pag" n="0"/>
+        <role descr="subject" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

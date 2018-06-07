@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="puncture">
+    <roleset id="puncture.01" name="perforate">
+      <roles>
+        <role descr="agent, one making hole" f="pag" n="0"/>
+        <role descr="patient, thing being punctured" f="ppt" n="1"/>
+        <role descr="instrument" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

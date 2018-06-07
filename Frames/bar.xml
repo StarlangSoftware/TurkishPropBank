@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="bar">
+    <roleset id="bar.01" name="stop, prevent">
+      <roles>
+        <role descr="stopper, Agent" f="PAG" n="0"/>
+        <role descr="action or object being prevented" f="PPT" n="1"/>
+        <role descr="secondary predication on action" f="prd" n="2"/>
+        <role descr="instrument" f="mnr" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

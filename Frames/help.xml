@@ -1,0 +1,35 @@
+<frameset>
+  <predicate lemma="help">
+    <roleset id="help.01" name="help, aid">
+      <roles>
+        <role descr="helper" f="pag" n="0"/>
+        <role descr="project" f="ppt" n="1"/>
+        <role descr="benefactive, secondary agent  (when separate from arg1)" f="gol" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="help.02" name="avoid">
+      <roles>
+        <role descr="agent" f="pag" n="0"/>
+        <role descr="thing (not) avoided" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="help_out">
+    <roleset id="help_out.03" name="help, aid">
+      <roles>
+        <role descr="helper" f="pag" n="0"/>
+        <role descr="project" f="ppt" n="1"/>
+        <role descr="benefactive" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="helpful">
+    <roleset id="helpful.04" name="tending to, able to provide assistance">
+      <roles>
+        <role descr="helpful entity" f="pag" n="0"/>
+        <role descr="project helped" f="ppt" n="1"/>
+        <role descr="beneficiary" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

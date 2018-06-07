@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="autograph">
+    <roleset id="autograph.01" name="to sign">
+      <roles>
+        <role descr="celebrity, autographer, agent" f="PAG" n="0"/>
+        <role descr="entity autographed" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

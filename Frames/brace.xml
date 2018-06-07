@@ -1,0 +1,19 @@
+<frameset>
+  <predicate lemma="brace">
+    <roleset id="brace.01" name="to prepare">
+      <roles>
+        <role descr="preparer, agent" f="pag" n="0"/>
+        <role descr="patient" f="ppt" n="1"/>
+        <role descr="prepare for" f="prp" n="2"/>
+      </roles>
+    
+    </roleset>
+    <roleset id="brace.02" name="support, hold up, stabilize">
+      <roles>
+        <role descr="agent, cause of stability" f="pag" n="0"/>
+        <role descr="entity supported" f="ppt" n="1"/>
+        <role descr="instrument, if seperate from arg 0" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

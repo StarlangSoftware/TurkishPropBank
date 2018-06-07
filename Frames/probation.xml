@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="probation">
+    <roleset id="probation.01" name="a trial period">
+      <roles>
+        <role descr="causer of probation period" f="pag" n="0"/>
+        <role descr="thing on trial, entity probated" f="ppt" n="1"/>
+        <role descr="trial period" f="tmp" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

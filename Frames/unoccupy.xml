@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="unoccupy">
+    <roleset id="unoccupy.01" name="not be in a certain location">
+      <roles>
+        <role descr="non-occupant" f="pag" n="0"/>
+        <role descr="location not occupied" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

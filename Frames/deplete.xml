@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="deplete">
+    <roleset id="deplete.01" name="to use up or empty out">
+      <roles>
+        <role descr="user, emptier, agent" f="pag" n="0"/>
+        <role descr="source depleted" f="ppt" n="1"/>
+        <role descr="depleted of, thing removed" f="dir" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

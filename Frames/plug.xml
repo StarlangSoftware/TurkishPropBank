@@ -1,0 +1,34 @@
+<frameset>
+  <predicate lemma="plug">
+    <roleset id="plug.02" name="advertise, ">
+      <roles>
+        <role descr="advertiser" f="pag" n="0"/>
+        <role descr="advertised" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="plug.04" name="put plug in socket, non-phrasal">
+      <roles>
+        <role descr="plugger" f="pag" n="0"/>
+        <role descr="(thing with) plug" f="ppt" n="1"/>
+        <role descr="socket" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="plug_up">
+    <roleset id="plug_up.01" name="plug up: cause blockage, causing blockage">
+      <roles>
+        <role descr="causer of blockage" f="pag" n="0"/>
+        <role descr="thing becoming blocked" f="gol" n="1"/>
+        <role descr="plug" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="plug_in">
+    <roleset id="plug_in.03" name="plug in: put in socket">
+      <roles>
+        <role descr="plugger" f="pag" n="0"/>
+        <role descr="(thing with) plug" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

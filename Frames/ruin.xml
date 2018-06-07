@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="ruin">
+    <roleset id="ruin.01" name="destroy">
+      <roles>
+        <role descr="ruiner" f="pag" n="0"/>
+        <role descr="ruined thing" f="ppt" n="1"/>
+        <role descr="attribute of arg1 that is being ruined (if in addition to arg1)" f="vsp" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

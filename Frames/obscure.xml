@@ -1,0 +1,18 @@
+<frameset>
+  <predicate lemma="obscure">
+    <roleset id="obscure.01" name="to make dim or indistinct, to conceal">
+      <roles>
+        <role descr="agent, causer" f="pag" n="0"/>
+        <role descr="entity obscured" f="ppt" n="1"/>
+        <role descr="obscured from" f="vsp" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="obscure.02" name="be indistinct, concealed, dimmed">
+      <roles>
+        <role descr="agent, causer" f="pag" n="0"/>
+        <role descr="entity obscured" f="ppt" n="1"/>
+        <role descr="obscured from" f="vsp" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

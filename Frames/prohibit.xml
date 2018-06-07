@@ -1,0 +1,21 @@
+<frameset>
+  <predicate lemma="prohibit">
+    <roleset id="prohibit.01" name="prevent an action, forbidding">
+      <roles>
+        <role descr="Agent" f="pag" n="0"/>
+        <role descr="Theme (action or object being prevented)" f="ppt" n="1"/>
+        <role descr="secondary predication or action" f="ppt" n="2"/>
+        <role descr="instrument" f="mnr" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="prohibitive">
+    <roleset id="prohibitive.02" name="excessively high or likely so as to discourage another action">
+      <roles>
+        <role descr="Discouraging, prohibitive thing" f="pag" n="0"/>
+        <role descr="Theme (action or object being discouraged)" f="ppt" n="1"/>
+        <role descr="Attribute of Arg0 that discourages, when separate" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

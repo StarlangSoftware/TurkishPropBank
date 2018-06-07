@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="tubulate">
+    <roleset id="tubulate.01" name="acquire a tubular shape">
+      <roles>
+        <role descr="cause of tubulation" f="pag" n="0" />
+        <role descr="tubular entity" f="ppt" n="1" />
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

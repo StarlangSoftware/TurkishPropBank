@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="chinese">
+    <roleset id="chinese.01" name="characterized as of chinese origin">
+      <roles>
+        <role descr="Chinese entity" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

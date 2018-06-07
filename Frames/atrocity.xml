@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="atrocity">
+    <roleset id="atrocity.01" name="terrible, unjust act">
+      <roles>
+        <role descr="sinner" f="pag" n="0"/>
+        <role descr="sin" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

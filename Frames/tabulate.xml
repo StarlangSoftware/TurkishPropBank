@@ -1,0 +1,13 @@
+<frameset>
+  <predicate lemma="tabulate">
+    <roleset id="tabulate.01" name="arrange">
+      <roles>
+        <role descr="builder" f="pag" n="0"/>
+        <role descr="item being counted/organized" f="ppt" n="1"/>
+        <role descr="start state" f="dir" n="2"/>
+        <role descr="benefactive" f="gol" n="3"/>
+        <role descr="end state" f="prd" n="4"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

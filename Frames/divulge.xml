@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="divulge">
+    <roleset id="divulge.01" name="disclose something">
+      <roles>
+        <role descr="Sayer" f="PAG" n="0"/>
+        <role descr="Utterance" f="PPT" n="1"/>
+        <role descr="Hearer" f="GOL" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

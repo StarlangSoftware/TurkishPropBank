@@ -1,0 +1,17 @@
+<frameset>
+  <predicate lemma="hop">
+    <roleset id="hop.01" name="manner of motion, jumping">
+      <roles>
+        <role descr="hopper" f="PPT" n="0"/>
+        <role descr="Source" f="dir" n="3"/>
+        <role descr="Destination" f="gol" n="4"/>
+      </roles>
+    </roleset>
+    <roleset id="hop.02" name="catch a ride">
+      <roles>
+        <role descr="entity catching a ride" f="PAG" n="0"/>
+        <role descr="the ride" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

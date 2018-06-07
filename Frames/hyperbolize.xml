@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="hyperbolize">
+    <roleset id="hyperbolize.01" name="overstate">
+      <roles>
+        <role descr="hyperbolizer" f="pag" n="0"/>
+        <role descr="thing hyperbolized" f="ppt" n="1"/>
+        <role descr="attribute of arg1" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

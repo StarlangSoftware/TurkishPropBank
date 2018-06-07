@@ -1,0 +1,44 @@
+<frameset>
+  <predicate lemma="apply">
+    <roleset id="apply.01" name="ask for">
+      <roles>
+        <role descr="applier" f="pag" n="0"/>
+        <role descr="thing applied for" f="ppt" n="1"/>
+        <role descr="entity applied to" f="gol" n="2"/>
+      </roles>
+    
+    </roleset>
+    <roleset id="apply.02" name="associate with, work at or on">
+      <roles>
+        <role descr="applier" f="pag" n="0"/>
+        <role descr="thing applied, associated, worked" f="ppt" n="1"/>
+        <role descr="applied to" f="prd" n="2"/>
+      </roles>
+    
+    </roleset>
+    <roleset id="apply.03" name="painting">
+      <roles>
+        <role descr="painter, agent" f="pag" n="0"/>
+        <role descr="paint" f="ppt" n="1"/>
+        <role descr="surface" f="gol" n="2"/>
+        <role descr="instrument, brush" f="mnr" n="3"/>
+      </roles>
+    
+    </roleset>
+    <roleset id="apply.04" name="specialized: apply brakes">
+      <roles>
+        <role descr="driver" f="pag" n="0"/>
+        <role descr="brakes" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="applicable">
+    <roleset id="applicable.05" name="pertaining to, able to be applied (abstract)">
+      <roles>
+        <role descr="agent" f="pag" n="0"/>
+        <role descr="applicable thing" f="ppt" n="1"/>
+        <role descr="applicable to" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

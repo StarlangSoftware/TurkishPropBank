@@ -1,0 +1,212 @@
+<frameset>
+  <predicate lemma="come">
+    <roleset id="come.01" name="motion">
+      <roles>
+        <role descr="entity in motion / 'comer'" f="ppt" n="1"/>
+        <role descr="extent -- rare" f="ext" n="2"/>
+        <role descr="start point" f="dir" n="3"/>
+        <role descr="end point" f="gol" n="4"/>
+      </roles>
+    </roleset>
+    <roleset id="come.12" name="come to: speaking of">
+      <roles>
+        <role descr="topic" f="pag" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="come.02" name="pursue (often with after), pursuing">
+      <roles>
+        <role descr="pursuer" f="pag" n="0"/>
+        <role descr="goal" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="come.03" name="arise (from)">
+      <roles>
+        <role descr="thing (often state) arising" f="ppt" n="1"/>
+        <role descr="source, basis on which arg1 comes to be  (not start point of motion!)" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="come.04" name="become, various near-idioms">
+      <roles>
+        <role descr="object" f="ppt" n="1"/>
+        <role descr="attribute on arg1" f="prd" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="come.05" name="pertaining to a purchase">
+      <roles>
+        <role descr="commodity" f="pag" n="1"/>
+        <role descr="buyer" f="gol" n="2"/>
+        <role descr="price" f="vsp" n="3"/>
+      </roles>
+    </roleset>
+    <roleset id="come.14" name="idiom: come to terms with">
+      <roles>
+        <role descr="entity coming to terms" f="pag" n="0"/>
+        <role descr="terms" f="gol" n="1"/>
+        <role descr="with who/what" f="com" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="come.16" name="amount to">
+      <roles>
+        <role descr="thing(s) being counted" f="pag" n="1"/>
+        <role descr="sum, total, amount" f="gol" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="come.28" name="serial verb construction">
+      <roles>
+        <role descr="subject" f="pag" n="0"/>
+        <role descr="subsequent action" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="come_about">
+    <roleset id="come_about.06" name="come about: become">
+      <roles>
+        <role descr="object" f="ppt" n="1"/>
+        <role descr="attribute on arg1" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="come_in">
+    <roleset id="come_in.07" name="come in: become, arrive at state">
+      <roles>
+        <role descr="thing being described" f="pag" n="1"/>
+        <role descr="state, attribute" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="come_on">
+    <roleset id="come_on.08" name="come on: turn on">
+      <roles>
+        <role descr="thing being turned on" f="pag" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="come_on.25" name="discoursey, but based on motion">
+      <roles>
+        <role descr="entity who needs to get with the program (and maybe move)" f="pag" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="come_on.29" name="progress, develop, come across">
+      <roles>
+        <role descr="thing progressing, coming on" f="pag" n="1"/>
+        <role descr="attribute of arg1" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="come_out">
+    <roleset id="come_out.09" name="come out: appear">
+      <roles>
+        <role descr="agent, originator of arg1" f="pag" n="0"/>
+        <role descr="thing appearing" f="ppt" n="1"/>
+        <role descr="attribute of arg1" f="prd" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="come_out.10" name="come out: become publically gay">
+      <roles>
+        <role descr="person coming out" f="pag" n="0"/>
+        <role descr="the &quot;closet&quot;" f="dir" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="come_up">
+    <roleset id="come_up.11" name="come up: devise, bring forth">
+      <roles>
+        <role descr="deviser" f="pag" n="0"/>
+        <role descr="thing devised, brought forth, come up with" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="come_up.13" name="come up: arise unexpectedly">
+      <roles>
+        <role descr="thing arising" f="ppt" n="1"/>
+        <role descr="attribute of arg1" f="loc" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="come_across">
+    <roleset id="come_across.15" name="come across: seem">
+      <roles>
+        <role descr="thing coming across" f="ppt" n="1"/>
+        <role descr="viewer" f="gol" n="2"/>
+        <role descr="attribute- come across how/as what" f="prd" n="3"/>
+      </roles>
+    </roleset>
+    <roleset id="come_across.21" name="come across: find, discover, usually unintentionally">
+      <roles>
+        <role descr="finder" f="pag" n="0"/>
+        <role descr="thing found" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="come_through">
+    <roleset id="come_through.17" name="come through: fulfill, live up to">
+      <roles>
+        <role descr="fulfuller, agent" f="pag" n="0"/>
+        <role descr="plans,promises, etc" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="come_through.18" name="come through: become apparent">
+      <roles>
+        <role descr="thing becoming apparent" f="pag" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="come_along">
+    <roleset id="come_along.19" name="come along: progress">
+      <roles>
+        <role descr="thing progressing" f="pag" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="come_by">
+    <roleset id="come_by.20" name="come by: acquire">
+      <roles>
+        <role descr="acquirer" f="pag" n="0"/>
+        <role descr="acquired" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="come_down">
+    <roleset id="come_down.22" name="come down with an illness">
+      <roles>
+        <role descr="patient" f="pag" n="1"/>
+        <role descr="illness" f="gol" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="come_down.23" name="idiom, it comes down to x (results in/responsibility of)">
+      <roles>
+        <role descr="it, thing coming down" f="pag" n="1"/>
+        <role descr="person/summerization (what it comes down to)" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="come_off">
+    <roleset id="come_off.24" name="come across, be seen as">
+      <roles>
+        <role descr="Thing seeming, being seen in a particular way" f="pag" n="1"/>
+        <role descr="Attribute of arg1, seen as what?" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="come_upon">
+    <roleset id="come_upon.26" name="come_upon: find, discover, stumble upon">
+      <roles>
+        <role descr="finder" f="pag" n="0"/>
+        <role descr="thing found" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="come_to">
+    <roleset id="come_to.27" name="regain consciousness">
+      <roles>
+        <role descr="entity regaining consciousness" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="come_over">
+    <roleset id="come_over.30" name="come across, be seen as">
+      <roles>
+        <role descr="entity/thing seeming, coming across" f="ppt" n="1"/>
+        <role descr="attribute of arg1, coming across as __" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

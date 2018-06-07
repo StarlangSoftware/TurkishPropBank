@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="bewitch">
+    <roleset id="bewitch.01" name="entrance">
+      <roles>
+        <role descr="witch, agent" f="pag" n="0"/>
+        <role descr="victim" f="ppt" n="1"/>
+        <role descr="instrument, when separate from arg0" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

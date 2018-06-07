@@ -1,0 +1,39 @@
+<frameset>
+  <predicate lemma="sweeten">
+    <roleset id="sweeten.01" name="(cause to) become sweet(er) in flavor/scent, sugary">
+      <roles>
+        <role descr="agent, entity causing sweetness" f="pag" n="0"/>
+        <role descr="thing becoming sweet" f="ppt" n="1"/>
+        <role descr="explicit instrument" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="sweeten.02" name="improve, make more palatable">
+      <roles>
+        <role descr="improver" f="pag" n="0"/>
+        <role descr="thing improved" f="ppt" n="1"/>
+        <role descr="end state" f="prd" n="2"/>
+        <role descr="start state" f="dir" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="sweet">
+    <roleset id="sweet.03" name="extra nice to">
+      <roles>
+        <role descr="entity being nice" f="pag" n="1"/>
+        <role descr="target of niceness" f="gol" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="sweet.04" name="be sugary in flavor/scent">
+      <roles>
+        <role descr="causer of sweetness" f="pag" n="0"/>
+        <role descr="sweet thing" f="ppt" n="1"/>
+        <role descr="explicit instrument" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="sweet.05" name="awesome, cool, admirable">
+      <roles>
+        <role descr="awesome thing" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,19 @@
+<frameset>
+  <predicate lemma="quadrangulate">
+    <roleset id="quadrangulate.01" name="pinpoint the location of using 4 points (as opposed to 3 in triangulation)">
+      <roles>
+        <role descr="quadrangulator" f="pag" n="0"/>
+        <role descr="location searched for" f="ppt" n="1"/>
+        <role descr="based on, known info" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="quadrangulate.02" name="divide into quadrangles">
+      <roles>
+        <role descr="quadrangulator" f="pag" n="0"/>
+        <role descr="region divided into quadrangles" f="ppt" n="1"/>
+        <role descr="quadrangle side length measurement" f="vsp" n="2"/>
+        <role descr="number of nodes" f="vsp" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

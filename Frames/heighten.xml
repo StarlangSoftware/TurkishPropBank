@@ -1,0 +1,30 @@
+<frameset>
+  <predicate lemma="heighten">
+    <roleset id="heighten.01" name="make higher">
+      <roles>
+        <role descr="causal agent" f="pag" n="0"/>
+        <role descr="thing becoming higher" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="high">
+    <roleset id="high.02" name="in the upper ranges (altitude, pitch, etc)">
+      <roles>
+        <role descr="entity in the upper ranges" f="ppt" n="1"/>
+        <role descr="the upper ranges of what (domain)" f="vsp" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="high.03" name="elated, in good spirits">
+      <roles>
+        <role descr="cause of elation" f="cau" n="0"/>
+        <role descr="elated entity" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="high.04" name="stoned, intoxicated">
+      <roles>
+        <role descr="intoxicant" f="cau" n="0"/>
+        <role descr="stoner" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

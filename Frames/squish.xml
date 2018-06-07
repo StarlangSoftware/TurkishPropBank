@@ -1,0 +1,19 @@
+<frameset>
+  <predicate lemma="squish">
+    <roleset id="squish.01" name="squish">
+      <roles>
+        <role descr="agent, squisher" f="pag" n="0"/>
+        <role descr="patient, thing being squished" f="ppt" n="1"/>
+        <role descr="instrument used" f="mnr" n="2"/>
+        <role descr="resulting state of arg1, often prepositional" f="prd" n="3"/>
+      </roles>
+    </roleset>
+    <roleset id="squish.02" name="create by squishing">
+      <roles>
+        <role descr="squisher" f="pag" n="0"/>
+        <role descr="thing squished" f="vsp" n="1"/>
+        <role descr="squished into (entity created)" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

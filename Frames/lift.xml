@@ -1,0 +1,21 @@
+<frameset>
+  <predicate lemma="lift">
+    <roleset id="lift.01" name="cause increase in elevation">
+      <roles>
+        <role descr="elevator, Agent" f="pag" n="0"/>
+        <role descr="Logical subject, patient, thing rising" f="ppt" n="1"/>
+        <role descr="EXT, amount risen" f="ext" n="2"/>
+        <role descr="Start point" f="dir" n="3"/>
+        <role descr="End point" f="gol" n="4"/>
+        <role descr="Medium" f="loc" n="m"/>
+      </roles>
+    </roleset>
+    <roleset id="lift.02" name="acquire stealthily, remove">
+      <roles>
+        <role descr="agent, entity acquiring/removing something" f="pag" n="0"/>
+        <role descr="thing acquired/removed" f="ppt" n="1"/>
+        <role descr="acquired/removed-from" f="dir" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

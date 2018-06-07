@@ -1,0 +1,58 @@
+<frameset>
+  <predicate lemma="return">
+    <roleset id="return.01" name="come back">
+      <roles>
+        <role descr="entity in motion" f="ppt" n="1"/>
+        <role descr="(extent -- rare)" f="ext" n="2"/>
+        <role descr="start point" f="dir" n="3"/>
+        <role descr="end point" f="gol" n="4"/>
+        <role descr="medium" f="loc" n="m"/>
+      </roles>
+    </roleset>
+    <roleset id="return.02" name="give back">
+      <roles>
+        <role descr="giver" f="pag" n="0"/>
+        <role descr="thing given" f="ppt" n="1"/>
+        <role descr="entity given to" f="gol" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="return.03" name="bring back">
+      <roles>
+        <role descr="entity bring something back" f="pag" n="0"/>
+        <role descr="thing brought back" f="ppt" n="1"/>
+        <role descr="attribute of arg1, state arg1 is brought back to" f="gol" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="return.04" name="send back">
+      <roles>
+        <role descr="sender" f="pag" n="0"/>
+        <role descr="thing sent" f="ppt" n="1"/>
+        <role descr="sent-to" f="gol" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="return.05" name="exchange, trade">
+      <roles>
+        <role descr="agent, entity trading" f="pag" n="0"/>
+        <role descr="theme" f="ppt" n="1"/>
+        <role descr="other exchanger" f="com" n="2"/>
+        <role descr="secondary theme" f="ppt" n="3"/>
+      </roles>
+    </roleset>
+    <roleset id="return.06" name="give a dividend">
+      <roles>
+        <role descr="thing providing a dividend" f="pag" n="0"/>
+        <role descr="dividend, earnings" f="ppt" n="1"/>
+        <role descr="recipient" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="returnable">
+    <roleset id="returnable.07" name="eligible/able to be given back">
+      <roles>
+        <role descr="giver" f="pag" n="0"/>
+        <role descr="thing given back" f="ppt" n="1"/>
+        <role descr="recipient" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

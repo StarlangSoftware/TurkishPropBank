@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="undislodgeable">
+    <roleset id="undislodgeable.01" name="not able to be dislodged">
+      <roles>
+        <role descr="agent" f="pag" n="0"/>
+        <role descr="thing that can't be dislodged" f="ppt" n="1"/>
+        <role descr="location where arg1 is stuck" f="dir" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="unstructured">
+    <roleset id="unstructured.01" name="not having a structure">
+      <roles>
+        <role descr="agent of structuring" f="pag" n="0"/>
+        <role descr="thing not having a structure" f="ppt" n="1"/>
+        <role descr="attribute of the structure" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

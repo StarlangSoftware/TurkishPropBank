@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="unblock">
+    <roleset id="unblock.01" name="remove obstacles">
+      <roles>
+        <role descr="remover" f="PAG" n="0"/>
+        <role descr="thing blocked" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

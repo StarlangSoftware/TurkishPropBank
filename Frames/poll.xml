@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="poll">
+    <roleset id="poll.01" name="survey, as of voters">
+      <roles>
+        <role descr="poller" f="pag" n="0"/>
+        <role descr="people asked" f="ppt" n="1"/>
+        <role descr="topic" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

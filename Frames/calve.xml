@@ -1,0 +1,18 @@
+<frameset>
+  <predicate lemma="calve">
+    <roleset id="calve.01" name="give birth to a calf">
+      <roles>
+        <role descr="Mother cow" f="pag" n="0"/>
+        <role descr="Baby calf" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="calve.02" name="break away from a larger body">
+      <roles>
+        <role descr="cause of sepatation" f="pag" n="0" />
+        <role descr="entity separating" f="ppt" n="1" />
+        <role descr="source, broken off of" f="dir" n="2" />
+        <role descr="resulting state" f="prd" n="3" />
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

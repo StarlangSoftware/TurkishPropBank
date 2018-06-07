@@ -1,0 +1,25 @@
+<frameset>
+  <predicate lemma="root">
+    <roleset id="root.02" name="base, justify">
+      <roles>
+        <role descr="agent (rarely seen)" f="pag" n="0"/>
+        <role descr="thing having roots" f="ppt" n="1"/>
+        <role descr="rooted in what" f="loc" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="root.03" name="be an active fan">
+      <roles>
+        <role descr="fan" f="pag" n="0"/>
+        <role descr="rooted for" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="root_out">
+    <roleset id="root_out.01" name="search for and remove">
+      <roles>
+        <role descr="searcher" f="pag" n="0"/>
+        <role descr="thing removed" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

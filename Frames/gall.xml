@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="gall">
+    <roleset id="gall.01" name="to annoy, irritate, chafe">
+      <roles>
+        <role descr="causer of irritation" f="pag" n="0"/>
+        <role descr="galled entity" f="ppt" n="1"/>
+        <role descr="Instrument or Manner if separate from arg 0" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

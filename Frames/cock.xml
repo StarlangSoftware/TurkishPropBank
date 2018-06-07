@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="cock">
+    <roleset id="cock.01" name="set at an angle">
+      <roles>
+        <role descr="setter at upward angle" f="PAG" n="0"/>
+        <role descr="angled thing" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

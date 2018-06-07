@@ -1,0 +1,17 @@
+<frameset>
+  <predicate lemma="survive">
+    <roleset id="survive.01" name="live despite">
+      <roles>
+        <role descr="survivor" f="pag" n="0"/>
+        <role descr="adverse circumstances" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="survive.02" name="outlive">
+      <roles>
+        <role descr="survivor" f="pag" n="0"/>
+        <role descr="deceased" f="ppt" n="1"/>
+        <role descr="margin, extent" f="ext" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

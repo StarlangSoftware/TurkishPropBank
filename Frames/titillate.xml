@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="titillate">
+    <roleset id="titillate.01" name="pleasurably excite">
+      <roles>
+        <role descr="causer of titillation" f="PAG" n="0"/>
+        <role descr="experiencer of titillation" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

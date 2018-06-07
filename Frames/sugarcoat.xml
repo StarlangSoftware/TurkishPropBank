@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="sugarcoat">
+    <roleset id="sugarcoat.01" name="coat with candy shell of sugar">
+      <roles>
+        <role descr="coater, agent" f="pag" n="0"/>
+        <role descr="thing now candy-coated" f="ppt" n="1"/>
+        <role descr="sugar itself, coating usually unspecified or metaphorical" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

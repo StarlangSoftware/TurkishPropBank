@@ -1,0 +1,22 @@
+<frameset>
+  <predicate lemma="true">
+    <roleset id="true.01" name="truthful, factual, accurate, actual">
+      <roles>
+        <role descr="truthful thing" f="pag" n="1"/>
+        <role descr="attributive; pertaining to what" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="true.02" name="consistent, on target, adhering to">
+      <roles>
+        <role descr="consistent, on target thing" f="pag" n="1"/>
+        <role descr="consistent with what, target" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="true.03" name="loyal">
+      <roles>
+        <role descr="loyal one" f="ppt" n="1"/>
+        <role descr="target of loyalty" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

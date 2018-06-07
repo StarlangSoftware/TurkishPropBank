@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="constipate">
+    <roleset id="constipate.01" name="constipate">
+      <roles>
+        <role descr="causer of constipation" f="pag" n="0"/>
+        <role descr="experiencer of constipation" f="gol" n="1"/>
+        <role descr="constipated with what?" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

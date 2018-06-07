@@ -1,0 +1,14 @@
+<frameset>
+  <predicate lemma="tornado">
+    <roleset id="tornado.01" name="natural disaster: land based cyclone">
+      <roles>
+        <role descr="whirling element; mention of wind or fire" f="ppt" n="1"/>
+        <role descr="Fujita scale (F1-F5)" f="ext" n="2"/>
+        <role descr="death/injury toll" f="vsp" n="3"/>
+        <role descr="damages/cost" f="vsp" n="4"/>
+        <role descr="wind speed" f="mnr" n="5"/>
+        <role descr="diameter" f="ext" n="6"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

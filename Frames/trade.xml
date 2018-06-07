@@ -1,0 +1,43 @@
+<frameset>
+  <predicate lemma="trade">
+    <roleset id="trade.01" name="exchange">
+      <roles>
+        <role descr="agent, entity trading" f="pag" n="0"/>
+        <role descr="thing being traded (away)" f="ppt" n="1"/>
+        <role descr="other exchanger" f="com" n="2"/>
+        <role descr="other item in exchange, price, or premium, traded for or at" f="ppt" n="3"/>
+        <role descr="benefactive" f="gol" n="4"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="out_trade">
+    <roleset id="out_trade.02" name="to surpass another in trading">
+      <roles>
+        <role descr="first trader" f="pag" n="0"/>
+        <role descr="entity out-traded" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="trade_off">
+    <roleset id="trade_off.03" name="trade off, exchange">
+      <roles>
+        <role descr="agent" f="pag" n="0"/>
+        <role descr="thing being traded off" f="ppt" n="1"/>
+        <role descr="other exchanger" f="com" n="2"/>
+        <role descr="other item in exchange, price" f="ppt" n="3"/>
+        <role descr="beneficiary" f="gol" n="4"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="trade_in">
+    <roleset id="trade_in.04" name="trade in (probably to an entity like a dealer)">
+      <roles>
+        <role descr="trader" f="pag" n="0"/>
+        <role descr="traded" f="ppt" n="1"/>
+        <role descr="other exchanger, traded to" f="gol" n="2"/>
+        <role descr="other item in exchange, money" f="prp" n="3"/>
+        <role descr="benefactive" f="ppt" n="4"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

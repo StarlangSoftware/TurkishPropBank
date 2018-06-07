@@ -1,0 +1,15 @@
+<frameset>
+  <predicate lemma="derelict">
+    <roleset id="derelict.01" name="broken down, worn out">
+      <roles>
+        <role descr="broken thing" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="derelict.02" name="neglectful of duties">
+      <roles>
+        <role descr="neglectful one" f="pag" n="0"/>
+        <role descr="neglected (duties)" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

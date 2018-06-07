@@ -1,0 +1,19 @@
+<frameset>
+  <predicate lemma="arbitrate">
+    <roleset id="arbitrate.01" name="judge, decide">
+      <roles>
+        <role descr="agent" f="pag" n="0"/>
+        <role descr="conflict needing a decision" f="ppt" n="1"/>
+        <role descr="decision itself, often in favor or against..." f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="arbitrary">
+    <roleset id="arbitrary.02" name="determined by chance, based on individual preference">
+      <roles>
+        <role descr="thing that is determined by chance" f="ppt" n="1"/>
+        <role descr="whom it is arbitrary to, perceiver of arbtrariness" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

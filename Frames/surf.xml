@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="surf">
+    <roleset id="surf.01" name="ride waves or browse">
+      <roles>
+        <role descr="surfer" f="pag" n="0"/>
+        <role descr="waves or internet" f="loc" n="1"/>
+        <role descr="thing looked for, sought" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="relish">
+    <roleset id="relish.01" name="enjoy">
+      <roles>
+        <role descr="enjoyer" f="PPT" n="0"/>
+        <role descr="thing enjoyed" f="PAG" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

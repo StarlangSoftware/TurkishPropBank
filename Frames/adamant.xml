@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="adamant">
+    <roleset id="adamant.01" name="unyieldingly insistent">
+      <roles>
+        <role descr="entity who insists" f="pag" n="0"/>
+        <role descr="insisted upon" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

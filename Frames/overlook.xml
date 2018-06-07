@@ -1,0 +1,16 @@
+<frameset>
+  <predicate lemma="overlook">
+    <roleset id="overlook.01" name="fail to notice">
+      <roles>
+        <role descr="non-noticer, agent" f="PAG" n="0"/>
+        <role descr="thing overlooked" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="overlook.02" name="be oriented in a certain direction">
+      <roles>
+        <role descr="place" f="PAG" n="0"/>
+        <role descr="direction" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="prepossess">
+    <roleset id="prepossess.01" name="bias">
+      <roles>
+        <role descr="agent or cause of bias" f="pag" n="0"/>
+        <role descr="entity with the bias" f="ppt" n="1"/>
+        <role descr="the bias" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

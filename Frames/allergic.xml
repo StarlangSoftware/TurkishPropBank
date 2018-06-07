@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="allergic">
+    <roleset id="allergic.01" name="allergic">
+      <roles>
+        <role descr="sufferer, allergic one" f="PPT" n="1"/>
+        <role descr="cause of allergy" f="PAG" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="court">
+    <roleset id="court.01" name="pursue (romantically)">
+      <roles>
+        <role descr="suitor" f="PAG" n="0"/>
+        <role descr="courted" f="COM" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

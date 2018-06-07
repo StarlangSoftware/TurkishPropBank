@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="repass">
+    <roleset id="repass.01" name="pass into law, again">
+      <roles>
+        <role descr="legislative body repassing" f="pag" n="0"/>
+        <role descr="bill repassed" f="ppt" n="1"/>
+        <role descr="law that exists after bill's repassing" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

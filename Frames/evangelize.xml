@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="evangelize">
+    <roleset id="evangelize.01" name="(seek to) convert to christianity">
+      <roles>
+        <role descr="evangelist" f="PAG" n="0"/>
+        <role descr="Christianity (or other new faith/cause)" f="ppt" n="1"/>
+        <role descr="entity preached to" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

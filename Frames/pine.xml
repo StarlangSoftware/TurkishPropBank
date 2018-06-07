@@ -1,0 +1,18 @@
+<frameset>
+  <predicate lemma="pine">
+    <roleset id="pine.01" name="long for, expire for lack of">
+      <roles>
+        <role descr="piner" f="PAG" n="0"/>
+        <role descr="thing desired" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="pine_away">
+    <roleset id="pine_away.02" name="long for, expire for lack of">
+      <roles>
+        <role descr="piner" f="PAG" n="0"/>
+        <role descr="thing desired" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

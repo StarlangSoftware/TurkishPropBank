@@ -1,0 +1,18 @@
+<frameset>
+  <predicate lemma="terminate">
+    <roleset id="terminate.01" name="end, stop">
+      <roles>
+        <role descr="Intentional agent" f="pag" n="0"/>
+        <role descr="Thing ending" f="ppt" n="1"/>
+        <role descr="point at which something ends" f="tmp" n="m"/>
+      </roles>
+    </roleset>
+    <roleset id="terminate.02" name="cause to cease employment, firing">
+      <roles>
+        <role descr="employer" f="pag" n="0"/>
+        <role descr="ex-employee" f="ppt" n="1"/>
+        <role descr="job" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

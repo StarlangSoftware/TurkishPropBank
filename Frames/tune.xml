@@ -1,0 +1,28 @@
+<frameset>
+  <predicate lemma="tune">
+    <roleset id="tune.01" name="align with a certain frequency">
+      <roles>
+        <role descr="causer" f="pag" n="0"/>
+        <role descr="entity tuned" f="ppt" n="1"/>
+        <role descr="entity tuned for" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="tune_in">
+    <roleset id="tune_in.02" name="to adjust the controls on a radio or television">
+      <roles>
+        <role descr="adjuster of radio/tv" f="pag" n="0"/>
+        <role descr="entity tuned (radio, etc)" f="ppt" n="1"/>
+        <role descr="broadcast, channel, etc" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="tune_out">
+    <roleset id="tune_out.03" name="ignore, pay no heed to">
+      <roles>
+        <role descr="ignorer" f="pag" n="0"/>
+        <role descr="entity tuned out" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

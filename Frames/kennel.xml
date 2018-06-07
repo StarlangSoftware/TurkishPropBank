@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="kennel">
+    <roleset id="kennel.01" name="to keep in a kennel">
+      <roles>
+        <role descr="kenneler" f="PAG" n="0"/>
+        <role descr="thing kenneled" f="PPT" n="1"/>
+        <role descr="kennel, location" f="GOL" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

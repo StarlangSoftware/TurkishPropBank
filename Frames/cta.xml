@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="cta">
+    <roleset id="cta.01" name="clear to auscultation, cta- bilaterally">
+      <roles>
+        <role descr="lungs or other tissue, patient, that was clear when listened to." f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="decompensate">
+    <roleset id="decompensate.01" name="deteriorate, become unable to compensate for a deficiency">
+      <roles>
+        <role descr="causer of deterioration" f="pag" n="0"/>
+        <role descr="Entity deteriorating" f="ppt" n="1"/>
+        <role descr="End state (deteriorating into)" f="prd" n="2"/>
+        <role descr="start state (deteriorating from)" f="dir" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

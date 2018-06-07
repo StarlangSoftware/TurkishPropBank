@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="obviate">
+    <roleset id="obviate.01" name="to render unnecessary">
+      <roles>
+        <role descr="causer of unnecessariness, agent" f="PAG" n="0"/>
+        <role descr="entity obviated" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="ruthless">
+    <roleset id="ruthless.01" name="relentlessly merciless">
+      <roles>
+        <role descr="agent of ruthlessness" f="pag" n="0"/>
+        <role descr="ruthless action" f="ppt" n="1"/>
+        <role descr="target of ruthless behavior" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

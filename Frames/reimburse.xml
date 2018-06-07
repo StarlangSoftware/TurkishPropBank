@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="reimburse">
+    <roleset id="reimburse.01" name="pay back">
+      <roles>
+        <role descr="payer" f="pag" n="0"/>
+        <role descr="amount of cash" f="ppt" n="1"/>
+        <role descr="paid to" f="gol" n="2"/>
+        <role descr="in-exchange-for" f="prp" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

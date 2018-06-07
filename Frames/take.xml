@@ -1,0 +1,252 @@
+<frameset>
+  <predicate lemma="take">
+    <roleset id="take.01" name="take, acquire, come to have, choose, bring with you from somewhere, internalize, ingest">
+      <roles>
+        <role descr="Taker" f="pag" n="0"/>
+        <role descr="thing taken" f="ppt" n="1"/>
+        <role descr="taken FROM, SOURCE of thing taken" f="dir" n="2"/>
+        <role descr="destination" f="gol" n="3"/>
+      </roles>
+    </roleset>
+    <roleset id="take.02" name="tolerate">
+      <roles>
+        <role descr="tolerator" f="pag" n="0"/>
+        <role descr="thing tolerated" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="take.03" name="cause (to be)">
+      <roles>
+        <role descr="impeller to action" f="pag" n="0"/>
+        <role descr="impelled agent, topic" f="ppt" n="1"/>
+        <role descr="impelled action, attribute of arg1" f="gol" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="take.04" name="understand to be">
+      <roles>
+        <role descr="understander" f="pag" n="0"/>
+        <role descr="thing" f="ppt" n="1"/>
+        <role descr="attribute" f="prd" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="take.14" name="fixed phrase: take place">
+      <roles>
+        <role descr="thing occuring" f="ppt" n="1"/>
+        <role descr="fixed: place" f="prd" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="take.15" name="write-off, acknowledge a (financial) loss">
+      <roles>
+        <role descr="corporation, etc" f="pag" n="0"/>
+        <role descr="loss" f="ppt" n="1"/>
+        <role descr="current financial holdings?" f="vsp" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="take.10" name="need, requiring">
+      <roles>
+        <role descr="requirer" f="pag" n="0"/>
+        <role descr="thing required" f="ppt" n="1"/>
+        <role descr="required-of, required-from ('ablative')" f="gol" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="take.16" name="take by surprise, taking by surprise (or some other manner)">
+      <roles>
+        <role descr="causer of surprise" f="pag" n="0"/>
+        <role descr="experiencer of surprise" f="ppt" n="1"/>
+        <role descr="surprise" f="prd" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="take.17" name="become fond of">
+      <roles>
+        <role descr="entity becoming fond of something" f="pag" n="0"/>
+        <role descr="thing fond of" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="take.25" name="swindle/rob someone of something">
+      <roles>
+        <role descr="Swindler" f="pag" n="0"/>
+        <role descr="poor schmuck getting swindled" f="ppt" n="1"/>
+        <role descr="money/item being taken" f="vsp" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="take.LV" name="light verb">
+        <roles/>
+    </roleset>
+    <roleset id="take.32" name="take after; heredity, similarity">
+      <roles>
+        <role descr="similar entity" f="pag" n="1"/>
+        <role descr="entity taken after" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="take.34" name="opinion, perspective, position">
+      <roles>
+        <role descr="entity having an opinion/take" f="pag" n="0"/>
+        <role descr="opinion, perspective" f="ppt" n="1"/>
+        <role descr="attributive, subject matter" f="vsp" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="take_away">
+    <roleset id="take_away.05" name="take away: remove">
+      <roles>
+        <role descr="taker" f="pag" n="0"/>
+        <role descr="thing removed" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="take_in">
+    <roleset id="take_in.06" name="take in: give shelter">
+      <roles>
+        <role descr="entity giving shelter" f="pag" n="0"/>
+        <role descr="entity taking shelter" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="take_in.23" name="enjoy, experience, especially viewing, taking_in: enjoying sensory input (esp viewing)">
+      <roles>
+        <role descr="entity taking something in" f="pag" n="0"/>
+        <role descr="entity enjoyed, viewed, taken in" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="take_off">
+    <roleset id="take_off.07" name="take off: remove">
+      <roles>
+        <role descr="entity removing something" f="pag" n="0"/>
+        <role descr="thing being removed" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="take_off.08" name="take off: increase dramatically">
+      <roles>
+        <role descr="thing increasing" f="ppt" n="1"/>
+        <role descr="specific aspect of arg1 that is taking off" f="vsp" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="take_off.19" name="process of becoming airborne, as a plane">
+      <roles>
+        <role descr="airplane" f="ppt" n="1"/>
+        <role descr="airport" f="dir" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="take_off.18" name="take time off, like for vacation">
+      <roles>
+        <role descr="entity taking a vacation" f="pag" n="0"/>
+        <role descr="'time'" f="ppt" n="1"/>
+        <role descr="work, job, etc" f="dir" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="take_off.33" name="get going, hit the road">
+      <roles>
+        <role descr="entity leaving" f="pag" n="0"/>
+        <role descr="start point" f="dir" n="1"/>
+        <role descr="destination" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="take_on">
+    <roleset id="take_on.09" name="take on: acquire, hiring, undertaking">
+      <roles>
+        <role descr="entity acquiring something" f="pag" n="0"/>
+        <role descr="thing being acquired" f="ppt" n="1"/>
+        <role descr="seller" f="dir" n="2"/>
+        <role descr="price paid" f="vsp" n="3"/>
+        <role descr="benefactive" f="gol" n="4"/>
+      </roles>
+    </roleset>
+    <roleset id="take_on.21" name="take on: (prepare for) battle, taking_on: facing in battle">
+      <roles>
+        <role descr="hero" f="pag" n="0"/>
+        <role descr="adversary" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="take_out">
+    <roleset id="take_out.11" name="take out: obtain, draw (out)">
+      <roles>
+        <role descr="entity drawing something forth" f="pag" n="0"/>
+        <role descr="thing taken out" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="take_out.26" name="project anger on someone, idiomatic, taking_out: directing neg emotion towards someone (unfairly)">
+      <roles>
+        <role descr="angry person" f="pag" n="0"/>
+        <role descr="usually &quot;it&quot;, thing causing anger" f="ppt" n="1"/>
+        <role descr="person anger is projected on" f="gol" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="take_out.27" name="kill, taking_out: killing">
+      <roles>
+        <role descr="killer, person taking out someone or something" f="pag" n="0"/>
+        <role descr="person being attacked" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="take_out.28" name="take_out: vacation">
+      <roles>
+        <role descr="entity taking time off" f="pag" n="0"/>
+        <role descr="time taken" f="ppt" n="1"/>
+        <role descr="work, job, etc (taking a vacation from)" f="dir" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="take_over">
+    <roleset id="take_over.12" name="take over: become dominant, in charge">
+      <roles>
+        <role descr="entity becoming dominant" f="pag" n="0"/>
+        <role descr="entity being taken over" f="ppt" n="1"/>
+        <role descr="the old boss" f="dir" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="take_up">
+    <roleset id="take_up.13" name="occupy space">
+      <roles>
+        <role descr="entity taking up space" f="pag" n="0"/>
+        <role descr="space occupied" f="ppt" n="1"/>
+        <role descr="specific thing arg0 is using to take up space (if separate)" f="com" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="take_up.30" name="raise an issue/grievance">
+      <roles>
+        <role descr="entity taking" f="pag" n="0"/>
+        <role descr="thing being occupied" f="ppt" n="1"/>
+        <role descr="collaborator, interlocutor" f="com" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="take_up.31" name="start a habitual activity">
+      <roles>
+        <role descr="entity taking up a new activity" f="pag" n="0"/>
+        <role descr="the new activity" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="take_aback">
+    <roleset id="take_aback.20" name="take aback: different kind of surprise, taking_aback: surprising, offensively">
+      <roles>
+        <role descr="surprising entity" f="pag" n="0"/>
+        <role descr="surprised entity" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="take_down">
+    <roleset id="take_down.22" name="deconstruct, destroy, bringin an end to, defeat">
+      <roles>
+        <role descr="taker" f="pag" n="0"/>
+        <role descr="thing taken down" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="take_hold">
+    <roleset id="take_hold.24" name="grab, taking_hold: grabbing, physically or abstractly">
+      <roles>
+        <role descr="grabber" f="pag" n="0"/>
+        <role descr="grabbed" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="taking">
+    <roleset id="taking.29" name="nominal version of light verb">
+      <roles>
+        <role descr="taker, subject of ligh verbish noun" f="pag" n="0"/>
+        <role descr="true noun predicate" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

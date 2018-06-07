@@ -1,0 +1,25 @@
+<frameset>
+  <predicate lemma="wrestle">
+    <roleset id="wrestle.01" name="struggle with">
+      <roles>
+        <role descr="first wrestler" f="pag" n="0"/>
+        <role descr="second wrestler" f="com" n="1"/>
+        <role descr="topic, competition" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="wrestle.02" name="put with difficulty">
+      <roles>
+        <role descr="putter, agent" f="pag" n="0"/>
+        <role descr="patient, thing put" f="ppt" n="1"/>
+        <role descr="destination, put where" f="gol" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="wrestle.03" name="take with difficulty">
+      <roles>
+        <role descr="taker" f="pag" n="0"/>
+        <role descr="taken" f="ppt" n="1"/>
+        <role descr="taken from" f="dir" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

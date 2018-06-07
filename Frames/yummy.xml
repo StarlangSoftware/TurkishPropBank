@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="yummy">
+    <roleset id="yummy.01" name="delicious">
+      <roles>
+        <role descr="tasty morsel" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

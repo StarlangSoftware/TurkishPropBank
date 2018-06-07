@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="unresectable">
+    <roleset id="unresectable.01" name="unable to be surgically removed">
+      <roles>
+        <role descr="surgeon" f="pag" n="0"/>
+        <role descr="entity removed" f="ppt" n="1"/>
+        <role descr="from where" f="dir" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="enrage">
+    <roleset id="enrage.01" name="make very very angry">
+      <roles>
+        <role descr="causer of anger, agent" f="pag" n="0"/>
+        <role descr="angry entity" f="ppt" n="1"/>
+        <role descr="instrument, if separate from arg0" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

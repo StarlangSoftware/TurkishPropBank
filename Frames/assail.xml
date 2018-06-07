@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="assail">
+    <roleset id="assail.01" name="to attack viciously">
+      <roles>
+        <role descr="assailant, agent" f="pag" n="0"/>
+        <role descr="entity assailed" f="ppt" n="1"/>
+        <role descr="assailed for" f="cau" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="focus">
+    <roleset id="focus.01" name="focus, concentrate">
+      <roles>
+        <role descr="agent, focuser" f="pag" n="0"/>
+        <role descr="thing focused" f="ppt" n="1"/>
+        <role descr="focused-on" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

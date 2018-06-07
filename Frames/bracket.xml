@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="bracket">
+    <roleset id="bracket.01" name="lump">
+      <roles>
+        <role descr="Agent, entity causing bracketing" f="pag" n="0"/>
+        <role descr="Entity bracketed" f="ppt" n="1"/>
+        <role descr="Bracketed to, together with what? NOT instrument, other stuff in bracket" f="com" n="2"/>
+        <role descr="Bracket itself, type of bracket" f="mnr" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

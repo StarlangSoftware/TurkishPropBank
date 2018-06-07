@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="aberrate">
+    <roleset id="aberrate.01" name="diverge from what is expected">
+      <roles>
+        <role descr="thing diverging" f="ppt" n="1"/>
+        <role descr="the norm" f="dir" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

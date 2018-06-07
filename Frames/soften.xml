@@ -1,0 +1,18 @@
+<frameset>
+  <predicate lemma="soften">
+    <roleset id="soften.01" name="(cause to) become soft(er)">
+      <roles>
+        <role descr="cause of softening" f="pag" n="0"/>
+        <role descr="soft entity" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="soft">
+    <roleset id="soft.02" name="not hard">
+      <roles>
+        <role descr="causer of softness" f="pag" n="0"/>
+        <role descr="soft thing" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

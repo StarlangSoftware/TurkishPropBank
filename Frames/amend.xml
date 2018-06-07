@@ -1,0 +1,20 @@
+<frameset>
+  <predicate lemma="amend">
+    <roleset id="amend.01" name="add to or correct, adding to, correcting">
+      <roles>
+        <role descr="amender, corrector" f="PAG" n="0"/>
+        <role descr="thing amended" f="PPT" n="1"/>
+        <role descr="secondary predication on arg1" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="amendable">
+    <roleset id="amendable.02" name="able to be added to, edited">
+      <roles>
+        <role descr="amender, corrector" f="pag" n="0"/>
+        <role descr="thing amended" f="ppt" n="1"/>
+        <role descr="secondary predication on arg1" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

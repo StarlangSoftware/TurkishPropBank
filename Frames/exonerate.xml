@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="exonerate">
+    <roleset id="exonerate.01" name="to free from blame or a responsibility">
+      <roles>
+        <role descr="freer from blame, agent" f="CAU" n="0"/>
+        <role descr="entity exonerated" f="DIR" n="1"/>
+        <role descr="responsibility or blame" f="PPT" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

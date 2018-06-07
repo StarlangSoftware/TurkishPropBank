@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="mutiny">
+    <roleset id="mutiny.01" name="nautical coup d'?tat">
+      <roles>
+        <role descr="mutineers" f="pag" n="0"/>
+        <role descr="entity overthrown" f="ppt" n="1"/>
+        <role descr="ship" f="loc" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

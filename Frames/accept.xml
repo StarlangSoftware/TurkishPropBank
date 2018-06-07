@@ -1,0 +1,22 @@
+<frameset>
+  <predicate lemma="accept">
+    <roleset id="accept.01" name="take willingly">
+      <roles>
+        <role descr="acceptor" f="pag" n="0"/>
+        <role descr="thing accepted" f="ppt" n="1"/>
+        <role descr="accepted-from" f="dir" n="2"/>
+        <role descr="attribute" f="prd" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="acceptable">
+    <roleset id="acceptable.02" name="worthy of accepting">
+      <roles>
+        <role descr="acceptor" f="pag" n="0"/>
+        <role descr="thing accepted" f="ppt" n="1"/>
+        <role descr="accepted from" f="dir" n="2"/>
+        <role descr="attribute" f="prd" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

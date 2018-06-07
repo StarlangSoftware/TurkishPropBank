@@ -1,0 +1,57 @@
+<frameset>
+  <predicate lemma="throw">
+    <roleset id="throw.01" name="throw, sending through the air, manually, projection of an object through space">
+      <roles>
+        <role descr="thrower" f="pag" n="0"/>
+        <role descr="thing thrown" f="ppt" n="1"/>
+        <role descr="thrown at, to, over, etc" f="gol" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="throw.03" name="hold">
+      <roles>
+        <role descr="holder" f="pag" n="0"/>
+        <role descr="thing held" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="throw_away">
+    <roleset id="throw_away.07" name="toss, get rid of">
+      <roles>
+        <role descr="thrower" f="pag" n="0"/>
+        <role descr="thing gotten rid of" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="throw_in">
+    <roleset id="throw_in.02" name="include">
+      <roles>
+        <role descr="agent, entity causing some grouping" f="pag" n="0"/>
+        <role descr="theme, thing being included in some group" f="ppt" n="1"/>
+        <role descr="group" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="throw_out">
+    <roleset id="throw_out.04" name="say">
+      <roles>
+        <role descr="Sayer" f="pag" n="0"/>
+        <role descr="Utterance" f="ppt" n="1"/>
+        <role descr="Hearer" f="gol" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="throw_out.06" name="toss, get rid of">
+      <roles>
+        <role descr="thrower" f="pag" n="0"/>
+        <role descr="thing gotten rid of" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="throw_up">
+    <roleset id="throw_up.05" name="puke with object">
+      <roles>
+        <role descr="puker" f="pag" n="0"/>
+        <role descr="former contents of stomach" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

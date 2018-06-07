@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="intrude">
+    <roleset id="intrude.01" name="put into without invitation">
+      <roles>
+        <role descr="putter" f="PAG" n="0"/>
+        <role descr="thing put" f="PPT" n="1"/>
+        <role descr="where put" f="GOL" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

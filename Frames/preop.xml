@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="preop">
+    <roleset id="preop.01" name="in the stage preceding operation">
+      <roles>
+        <role descr="entity in the stage preceding operation" f="pag" n="1"/>
+        <role descr="the operation" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

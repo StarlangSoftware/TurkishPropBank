@@ -1,0 +1,31 @@
+<frameset>
+  <predicate lemma="last">
+    <roleset id="last.01" name="extend for some period of time; duration">
+      <roles>
+        <role descr="thing that lasts" f="PPT" n="1"/>
+        <role descr="period of time" f="VSP" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="last.02" name="later than/behind all other entities">
+      <roles>
+        <role descr="last one (may require concatenation)" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="last.03" name="of supplies or resources: be sufficient for a period of time">
+      <roles>
+        <role descr="supplies, resources" f="ppt" n="1"/>
+        <role descr="how long the supplies/resources will last" f="vsp" n="2"/>
+        <role descr="consumers of supplies/resources" f="gol" n="3"/>
+        <role descr="consumption rate" f="adv" n="4"/>
+      </roles>
+    </roleset>
+    <roleset id="last.04" name="of products or people: function, survive for a period of time">
+      <roles>
+        <role descr="product, person" f="ppt" n="1"/>
+        <role descr="how long the product/person will function/survive" f="vsp" n="2"/>
+        <role descr="attribute of product/person that has a duration" f="adv" n="3"/>
+        <role descr="beneficiary" f="gol" n="4"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

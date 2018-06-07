@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="undercut">
+    <roleset id="undercut.01" name="counteract, prevent">
+      <roles>
+        <role descr="preventer, agent" f="PAG" n="0"/>
+        <role descr="thing counteracted" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

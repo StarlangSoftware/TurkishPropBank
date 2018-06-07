@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="feudal">
+    <roleset id="feudal.01" name="relating to the feudal system">
+      <roles>
+        <role descr="feudal entity" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

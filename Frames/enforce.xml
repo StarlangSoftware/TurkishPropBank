@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="enforce">
+    <roleset id="enforce.01" name="make sure the rules are followed">
+      <roles>
+        <role descr="enforcer" f="PAG" n="0"/>
+        <role descr="rule(s)" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="hasten">
+    <roleset id="hasten.01" name="to speed up">
+      <roles>
+        <role descr="agent, causer" f="pag" n="0"/>
+        <role descr="thing hastened" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

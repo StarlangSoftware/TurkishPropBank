@@ -1,0 +1,16 @@
+<frameset>
+  <predicate lemma="particular">
+    <roleset id="particular.01" name="unique (to an entity/locale)">
+      <roles>
+        <role descr="unique thing" f="pag" n="1"/>
+        <role descr="unique to whom/what" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="particular.02" name="choosy, picky, expressing with great detail">
+      <roles>
+        <role descr="AGENTIVE picky entity" f="pag" n="0"/>
+        <role descr="subject matter arg0 is picky about" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="immunocompromise">
+    <roleset id="immunocompromise.01" name="cause to weaken or endanger the immune system">
+      <roles>
+        <role descr="causer of weakening/endangering" f="pag" n="0"/>
+        <role descr="entity being immunocompromised" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,18 @@
+<frameset>
+  <predicate lemma="stoke">
+    <roleset id="stoke.01" name="feed a fire">
+      <roles>
+        <role descr="stoker" f="PAG" n="0"/>
+        <role descr="fire" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="stoked">
+    <roleset id="stoked.02" name="excited, amped up">
+      <roles>
+        <role descr="causer of excitment" f="pag" n="0"/>
+        <role descr="excited entity" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

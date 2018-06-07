@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="sedentary">
+    <roleset id="sedentary.01" name="inactive, sitting for a long time">
+      <roles>
+        <role descr="sedentary one" f="pag" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

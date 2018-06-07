@@ -1,0 +1,13 @@
+<frameset>
+  <predicate lemma="downscale">
+    <roleset id="downscale.01" name="scale down">
+      <roles>
+        <role descr="agent, entity causing change in size" f="pag" n="0"/>
+        <role descr="thing becoming smaller" f="ppt" n="1"/>
+        <role descr="EXT, amount changed by" f="ext" n="2"/>
+        <role descr="start point" f="dir" n="3"/>
+        <role descr="end point" f="gol" n="4"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

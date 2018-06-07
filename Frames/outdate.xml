@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="outdate">
+    <roleset id="outdate.01" name="to make obsolete or out of date">
+      <roles>
+        <role descr="Causer of outdating" f="pag" n="0"/>
+        <role descr="Entity becoming outdated" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

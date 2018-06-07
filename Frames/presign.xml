@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="presign">
+    <roleset id="presign.01" name="affix a signature in advance">
+      <roles>
+        <role descr="signer" f="pag" n="0"/>
+        <role descr="document signed" f="gol" n="1"/>
+        <role descr="signature itself" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

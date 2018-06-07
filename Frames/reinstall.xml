@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="reinstall">
+    <roleset id="reinstall.01" name="to install again">
+      <roles>
+        <role descr="installer, agent" f="pag" n="0"/>
+        <role descr="entity reinstalled" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

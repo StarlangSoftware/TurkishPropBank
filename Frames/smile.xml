@@ -1,0 +1,18 @@
+<frameset>
+  <predicate lemma="smile">
+    <roleset id="smile.01" name="to have or form a smile">
+      <roles>
+        <role descr="agent smiling" f="PAG" n="0"/>
+        <role descr="cognate object" f="PPT" n="1"/>
+        <role descr="smiled at" f="cau" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="smile.02" name="manner of speaking">
+      <roles>
+        <role descr="smiling speaker" f="PAG" n="0"/>
+        <role descr="utterance" f="PPT" n="1"/>
+        <role descr="hearer" f="GOL" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

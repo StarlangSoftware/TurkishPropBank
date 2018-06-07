@@ -1,0 +1,19 @@
+<frameset>
+  <predicate lemma="sentence">
+    <roleset id="sentence.01" name="assign criminal punishment">
+      <roles>
+        <role descr="judge/jury" f="pag" n="0"/>
+        <role descr="criminal" f="ppt" n="1"/>
+        <role descr="punishment" f="ppt" n="2"/>
+        <role descr="crime" f="cau" n="3"/>
+        <role descr="duration of punishment" f="ext" n="4"/>
+      </roles>
+    </roleset>
+    <roleset id="sentence.02" name="what your english teacher made you write correctly and completely">
+      <roles>
+        <role descr="writer" f="pag" n="0"/>
+        <role descr="theme (topic/thing written)" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

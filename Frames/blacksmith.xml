@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="blacksmith">
+    <roleset id="blacksmith.01" name="process of forgeing metal, usually iron by hand">
+      <roles>
+        <role descr="blacksmith" f="pag" n="0"/>
+        <role descr="metal, material" f="ppt" n="1"/>
+        <role descr="start state" f="dir" n="2"/>
+        <role descr="end state" f="prd" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

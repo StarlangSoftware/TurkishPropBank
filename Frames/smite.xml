@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="smite">
+    <roleset id="smite.01" name="inflict with a blow causing pain, suffering, or strong emotion">
+      <roles>
+        <role descr="agent, smiter" f="cau" n="0"/>
+        <role descr="the blow" f="PPT" n="1"/>
+        <role descr="entity smitten" f="gol" n="2"/>
+        <role descr="with what" f="MNR" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

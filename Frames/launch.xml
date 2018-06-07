@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="launch">
+    <roleset id="launch.01" name="set off, introduce, bring up, start, take off">
+      <roles>
+        <role descr="starter, agent" f="PAG" n="0"/>
+        <role descr="thing being launched" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

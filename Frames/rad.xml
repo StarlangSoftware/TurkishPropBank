@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="rad">
+    <roleset id="rad.01" name="slangily good">
+      <roles>
+        <role descr="rad thing" f="pag" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

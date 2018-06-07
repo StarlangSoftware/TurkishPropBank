@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="evulse">
+    <roleset id="evulse.01" name="remove">
+      <roles>
+        <role descr="remover" f="pag" n="0"/>
+        <role descr="thing extracted" f="ppt" n="1"/>
+        <role descr="extracted from, source" f="dir" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

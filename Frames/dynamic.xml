@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="dynamic">
+    <roleset id="dynamic.01" name="changing, in motion">
+      <roles>
+        <role descr="dynamic thing" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

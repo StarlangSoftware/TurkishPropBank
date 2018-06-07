@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="reconsider">
+    <roleset id="reconsider.01" name="think about again">
+      <roles>
+        <role descr="considerer" f="PAG" n="0"/>
+        <role descr="thing thought about" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

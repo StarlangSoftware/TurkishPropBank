@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="prestate">
+    <roleset id="prestate.01" name="state before another occurence">
+      <roles>
+        <role descr="stater" f="pag" n="0"/>
+        <role descr="utterance" f="ppt" n="1"/>
+        <role descr="hearer" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

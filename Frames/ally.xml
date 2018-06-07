@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="ally">
+    <roleset id="ally.01" name="to unite or connect, ">
+      <roles>
+        <role descr="agent, causer" f="PAG" n="0"/>
+        <role descr="entity united" f="PPT" n="1"/>
+        <role descr="entity united with" f="COM" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

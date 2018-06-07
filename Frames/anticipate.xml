@@ -1,0 +1,16 @@
+<frameset>
+  <predicate lemma="anticipate">
+    <roleset id="anticipate.01" name="expect">
+      <roles>
+        <role descr="anticipater" f="PAG" n="0"/>
+        <role descr="thing anticipated" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="anticipate.02" name="come before">
+      <roles>
+        <role descr="thing coming before" f="PAG" n="0"/>
+        <role descr="thing coming after" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

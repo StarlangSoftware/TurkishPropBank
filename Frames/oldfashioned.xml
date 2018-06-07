@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="oldfashioned">
+    <roleset id="oldfashioned.01" name="Old school, Traditional">
+      <roles>
+        <role descr="entity with old ideas" f="ppt" n="1" />
+        <role descr="thought or idea that is old" f="prd" n="2" />
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

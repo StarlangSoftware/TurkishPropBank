@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="promiscuous">
+    <roleset id="promiscuous.01" name="indiscriminate, sluttish">
+      <roles>
+        <role descr="indiscriminate entity" f="pag" n="0"/>
+        <role descr="domain in which arg0 is indiscriminate" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

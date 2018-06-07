@@ -1,0 +1,38 @@
+<frameset>
+  <predicate lemma="roll">
+    <roleset id="roll.01" name="move in circular fashion, onward rotational motion">
+      <roles>
+        
+        <role descr="roller" f="pag" n="0"/>
+        <role descr="thing rolled or rolling" f="ppt" n="1"/>
+        <role descr="secondary attribute of arg1, end state/location" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="roll_out">
+    <roleset id="roll_out.02" name="bring out, cause to appear, introduce">
+      <roles>
+        <role descr="introducer" f="pag" n="0"/>
+        <role descr="thing appearing" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="roll_up">
+    <roleset id="roll_up.03" name="cause to be in a coil">
+      <roles>
+        <role descr="causer" f="pag" n="0"/>
+        <role descr="thing rolling up or being rolled up" f="ppt" n="1"/>
+        <role descr="secondary attribute of arg1" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="roll_back">
+    <roleset id="roll_back.04" name="move backwards, rollingly">
+      <roles>
+        
+        <role descr="roller-backer" f="pag" n="0"/>
+        <role descr="thing being rolled back" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

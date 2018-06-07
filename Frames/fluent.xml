@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="fluent">
+    <roleset id="fluent.01" name="flowing fully">
+      <roles>
+        <role descr="speaker" f="pag" n="0"/>
+        <role descr="language, speech, flowing thing" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

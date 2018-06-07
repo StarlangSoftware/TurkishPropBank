@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="broadcast">
+    <roleset id="broadcast.01" name="to transmit or announce">
+      <roles>
+        <role descr="transmitter, agent" f="pag" n="0"/>
+        <role descr="message" f="ppt" n="1"/>
+        <role descr="audience" f="gol" n="2"/>
+        <role descr="source" f="dir" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

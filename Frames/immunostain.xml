@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="immunostain">
+    <roleset id="immunostain.01" name="stain with an antibody">
+      <roles>
+        <role descr="stainer" f="pag" n="0"/>
+        <role descr="thing stained" f="ppt" n="1"/>
+        <role descr="stained with" f="mnr" n="2"/>
+        <role descr="what you are trying to detect (ie. protien)" f="prp" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

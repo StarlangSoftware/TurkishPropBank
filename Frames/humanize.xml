@@ -1,0 +1,17 @@
+<frameset>
+  <predicate lemma="humanize">
+    <roleset id="humanize.01" name="make seem human or fit for humans">
+      <roles>
+        <role descr="causer of kinder gentler thing" f="PAG" n="0"/>
+        <role descr="thing now seeming (fit for) human(s)" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="human">
+    <roleset id="human.02" name="characterized as a human being">
+      <roles>
+        <role descr="human" f="pag" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,17 @@
+<frameset>
+  <predicate lemma="authenticate">
+    <roleset id="authenticate.01" name="provide proof that a document is authentic">
+      <roles>
+        <role descr="verifier" f="pag" n="0"/>
+        <role descr="entity authenticated" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="authentic">
+    <roleset id="authentic.02" name="the real deal, genuine">
+      <roles>
+        <role descr="real entity (concatenation may be required)" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

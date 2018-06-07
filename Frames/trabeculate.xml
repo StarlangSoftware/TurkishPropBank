@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="trabeculate">
+    <roleset id="trabeculate.01" name="forming trabeculae">
+      <roles>
+        <role descr="Cause of solidification (pathogen/ process)" f="ppt" n="0"/>
+        <role descr="Entity trabeculae are forming on/from" f="loc" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

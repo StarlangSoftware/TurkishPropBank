@@ -1,0 +1,33 @@
+<frameset>
+  <predicate lemma="weigh">
+    <roleset id="weigh.01" name="determine the weight">
+      <roles>
+        <role descr="measurer" f="pag" n="0"/>
+        <role descr="thing measured" f="ppt" n="1"/>
+        <role descr="yardstick, standard of measurement" f="mnr" n="2"/>
+        <role descr="measurement" f="vsp" n="3"/>
+      </roles>
+    </roleset>
+    <roleset id="weigh.02" name="press heavily upon">
+      <roles>
+        <role descr="presser" f="pag" n="0"/>
+        <role descr="pressed (on)" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="weigh.04" name="compare x and y, consider carefully">
+      <roles>
+        <role descr="agent, comparer, considerer" f="pag" n="0"/>
+        <role descr="X, thing considered" f="ppt" n="1"/>
+        <role descr="Y, in comparison to" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="weigh_in">
+    <roleset id="weigh_in.03" name="enter, contribute to discussion">
+      <roles>
+        <role descr="contributor, agent" f="pag" n="0"/>
+        <role descr="entry, thing contributed" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,46 @@
+<frameset>
+  <predicate lemma="figure">
+    <roleset id="figure.01" name="think">
+      <roles>
+        <role descr="thinker" f="pag" n="0"/>
+        <role descr="thought" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="figure.02" name="plan">
+      <roles>
+        <role descr="planner" f="pag" n="0"/>
+        <role descr="thing planned" f="ppt" n="1"/>
+        <role descr="grounds for planning" f="cau" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="figure.03" name="play a role">
+      <roles>
+        <role descr="thing figuring in" f="ppt" n="0"/>
+        <role descr="role or event, act, what arg0 figures into" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="figure.04" name="determine, calculate">
+      <roles>
+        <role descr="decider" f="pag" n="0"/>
+        <role descr="thing determined" f="ppt" n="1"/>
+        <role descr="grounds" f="cau" n="2"/>
+        <role descr="attribute of arg1" f="prd" n="3"/>
+      </roles>
+    </roleset>
+    <roleset id="figure.06" name="to be expected (it figures)">
+      <roles>
+        <role descr="thing that is expected" f="pag" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="figure_out">
+    <roleset id="figure_out.05" name="determine">
+      <roles>
+        <role descr="decider" f="pag" n="0"/>
+        <role descr="thing determined" f="ppt" n="1"/>
+        <role descr="grounds" f="dir" n="2"/>
+        <role descr="attribute of arg1" f="prd" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

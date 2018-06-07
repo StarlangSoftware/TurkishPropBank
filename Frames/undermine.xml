@@ -1,0 +1,17 @@
+<frameset>
+  <predicate lemma="undermine">
+    <roleset id="undermine.01" name="weaken, not quantifiable, weaken from below">
+      <roles>
+        <role descr="causal agent" f="pag" n="0"/>
+        <role descr="thing weakening" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="undermine.02" name="surgically seperate from underlying structure">
+      <roles>
+        <role descr="entity causing seperation" f="pag" n="0"/>
+        <role descr="thing being divided" f="ppt" n="1"/>
+        <role descr="source, separated from" f="dir" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

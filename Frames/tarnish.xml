@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="tarnish">
+    <roleset id="tarnish.01" name="(cause to) get a stained surface">
+      <roles>
+        <role descr="agent/cause of tarnishing" f="pag" n="0"/>
+        <role descr="tarnished entity" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

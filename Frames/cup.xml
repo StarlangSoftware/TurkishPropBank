@@ -1,0 +1,23 @@
+<frameset>
+  <predicate lemma="cup">
+    <roleset id="cup.01" name="to shape into a cup or cup-like formation">
+      <roles>
+        <role descr="Shaper, creator of cup" f="pag" n="0"/>
+        <role descr="Entity, material shaped into cup" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="cup.02" name="to place in a cup">
+      <roles>
+        <role descr="agent placing something in cup" f="pag" n="0"/>
+        <role descr="liquid, entity placed in cup" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="cup.03" name="applying suction cups to the body">
+      <roles>
+        <role descr="agent, cupper" f="pag" n="0"/>
+        <role descr="customer, entity receiving treatment" f="ppt" n="1"/>
+        <role descr="body part cupped" f="loc" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

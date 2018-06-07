@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="brazen_out">
+    <roleset id="brazen_out.01" name="to face  with bold self-assurance">
+      <roles>
+        <role descr="facer of adversity, agent" f="PAG" n="0"/>
+        <role descr="adversity, theme" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

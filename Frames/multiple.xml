@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="multiple">
+    <roleset id="multiple.01" name="plural">
+      <roles>
+        <role descr="thing that there are multiple of" f="pag" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

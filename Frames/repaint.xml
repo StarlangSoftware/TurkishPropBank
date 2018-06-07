@@ -1,0 +1,18 @@
+<frameset>
+  <predicate lemma="repaint">
+    <roleset id="repaint.01" name="put paint on a surface, again">
+      <roles>
+        <role descr="agent, painter" f="pag" n="0"/>
+        <role descr="surface" f="ppt" n="1"/>
+        <role descr="explicit mention of paint" f="prd" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="repaint.02" name="create pictures with paint, again">
+      <roles>
+        <role descr="artist" f="pag" n="0"/>
+        <role descr="art" f="ppt" n="1"/>
+        <role descr="benefactive" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

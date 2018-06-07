@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="incite">
+    <roleset id="incite.01" name="to provoke">
+      <roles>
+        <role descr="causer of action, agent" f="PAG" n="0"/>
+        <role descr="action incited " f="PRD" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

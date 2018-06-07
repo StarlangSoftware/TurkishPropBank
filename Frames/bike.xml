@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="bike">
+    <roleset id="bike.01" name="travel by bicycle">
+      <roles>
+        <role descr="bicycler" f="PAG" n="0"/>
+        <role descr="path" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

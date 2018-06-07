@@ -1,0 +1,18 @@
+<frameset>
+  <predicate lemma="nick">
+    <roleset id="nick.01" name="cut slightly">
+      <roles>
+        <role descr="cutter" f="PAG" n="0"/>
+        <role descr="thing cut" f="ppt" n="1"/>
+        <role descr="instrument" f="mnr" n="3"/>
+      </roles>
+    </roleset>
+    <roleset id="nick.02" name="pocket, steal">
+      <roles>
+        <role descr="thief" f="pag" n="0"/>
+        <role descr="thing stolen" f="ppt" n="1"/>
+        <role descr="stolen from" f="dir" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

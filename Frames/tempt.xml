@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="tempt">
+    <roleset id="tempt.01" name="tempt, entice">
+      <roles>
+        <role descr="agent, tempter" f="pag" n="0"/>
+        <role descr="patient, tempted" f="ppt" n="1"/>
+        <role descr="instrument, tempted with or by" f="mnr" n="2"/>
+        <role descr="induced action of arg1" f="prd" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

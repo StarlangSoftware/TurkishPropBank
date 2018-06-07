@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="wealthy">
+    <roleset id="wealthy.01" name="rich">
+      <roles>
+        <role descr="entity having wealth" f="pag" n="1"/>
+        <role descr="wealth" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

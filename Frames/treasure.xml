@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="treasure">
+    <roleset id="treasure.01" name="cherish">
+      <roles>
+        <role descr="experiencer, treasurer" f="PPT" n="0"/>
+        <role descr="treasured" f="PAG" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

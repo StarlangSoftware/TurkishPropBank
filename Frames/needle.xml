@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="needle">
+    <roleset id="needle.01" name="annoy">
+      <roles>
+        <role descr="annoyer" f="pag" n="0"/>
+        <role descr="person annoyed" f="ppt" n="1"/>
+        <role descr="topic of annoyance" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

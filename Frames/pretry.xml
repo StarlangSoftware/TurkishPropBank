@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="pretry">
+    <roleset id="pretry.01" name="to try a lawsuit in advance">
+      <roles>
+        <role descr="litigant" f="pag" n="0"/>
+        <role descr="lawsuit" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

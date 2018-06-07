@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="thumbtack">
+    <roleset id="thumbtack.01" name="thumbtack">
+      <roles>
+        <role descr="thumbtacker, agent" f="PAG" n="0"/>
+        <role descr="patient, thing thumbtacked" f="PPT" n="1"/>
+        <role descr="thumbtacked to what, second patient" f="PPT" n="2"/>
+        <role descr="instrument, thumbtack proper" f="MNR" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

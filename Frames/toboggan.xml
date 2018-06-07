@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="toboggan">
+    <roleset id="toboggan.01" name="toboggan">
+      <roles>
+        <role descr="agent, driver (transitive subject)" f="PAG" n="0"/>
+        <role descr="thing moved (intransitive subject, transitive object)" f="PPT" n="1"/>
+        <role descr="locations, or start point" f="LOC" n="2"/>
+        <role descr="destination" f="LOC" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

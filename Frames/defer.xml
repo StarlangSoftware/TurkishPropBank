@@ -1,0 +1,24 @@
+<frameset>
+  <predicate lemma="defer">
+    <roleset id="defer.01" name="put off until a later time">
+      <roles>
+        <role descr="agent, causer of delay" f="pag" n="0"/>
+        <role descr="event delayed" f="ppt" n="1"/>
+        <role descr="delay itself, EXT, or new time" f="tmp" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="defer.02" name="acknowledge as superior">
+      <roles>
+        <role descr="inferior thing" f="pag" n="0"/>
+        <role descr="superior thing" f="com" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="defer.03" name="pass to">
+      <roles>
+        <role descr="Agent, passer" f="pag" n="0"/>
+        <role descr="thing passed off" f="ppt" n="1"/>
+        <role descr="passed to, beneficiary" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

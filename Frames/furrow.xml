@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="furrow">
+    <roleset id="furrow.01" name="become wrinkled">
+      <roles>
+        <role descr="brow, usually" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

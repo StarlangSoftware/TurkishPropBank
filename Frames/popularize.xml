@@ -1,0 +1,19 @@
+<frameset>
+  <predicate lemma="popularize">
+    <roleset id="popularize.01" name="make popular">
+      <roles>
+        <role descr="popularizer" f="PAG" n="0"/>
+        <role descr="thing now popular" f="PPT" n="1"/>
+        <role descr="instrument" f="MNR" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="popular">
+    <roleset id="popular.02" name="popular">
+      <roles>
+        <role descr="popular entity" f="PPT" n="1"/>
+        <role descr="audience, popular among/with whom?" f="PPT" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

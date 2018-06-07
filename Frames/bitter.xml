@@ -1,0 +1,15 @@
+<frameset>
+  <predicate lemma="bitter">
+    <roleset id="bitter.01" name="marked by strong resentment, cynicism">
+      <roles>
+        <role descr="stimulus, bitterness about/over what?" f="pag" n="0"/>
+        <role descr="experiencer of bitterness" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="bitter.02" name="acerbic, acidic flavor">
+      <roles>
+        <role descr="thing that is bitter tasting" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

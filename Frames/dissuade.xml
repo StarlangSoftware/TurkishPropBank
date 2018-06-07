@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="dissuade">
+    <roleset id="dissuade.01" name="persuade not to">
+      <roles>
+        <role descr="convincer" f="PAG" n="0"/>
+        <role descr="impelled (non)agent" f="PPT" n="1"/>
+        <role descr="impelled (non)action" f="PPT" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

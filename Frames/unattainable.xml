@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="unattainable">
+    <roleset id="unattainable.01" name="not able to be reached, gotten">
+      <roles>
+        <role descr="entity reaching" f="pag" n="0"/>
+        <role descr="goal not reached" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

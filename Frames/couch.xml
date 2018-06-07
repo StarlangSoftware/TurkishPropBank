@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="couch">
+    <roleset id="couch.01" name="to word in a certain manner">
+      <roles>
+        <role descr="speaker, agent" f="pag" n="0"/>
+        <role descr="utterance" f="ppt" n="1"/>
+        <role descr="manner" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

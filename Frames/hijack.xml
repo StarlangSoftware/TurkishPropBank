@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="hijack">
+    <roleset id="hijack.01" name="take control of something (often   transportation) by force, to seize control of a moving   vehicle by force in order to reach an alternate destination">
+      <roles>
+        <role descr="hijacker, agent" f="pag" n="0"/>
+        <role descr="airplane, entity hijacked" f="ppt" n="1"/>
+        <role descr="pilot, hijacked from" f="dir" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

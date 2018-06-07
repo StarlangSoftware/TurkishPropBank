@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="fulguration">
+    <roleset id="fulguration.01" name="destroy tissue with a high-frequency electric current">
+      <roles>
+        <role descr="remover" f="pag" n="0"/>
+        <role descr="tissues removed" f="ppt" n="1"/>
+        <role descr="removed from" f="dir" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

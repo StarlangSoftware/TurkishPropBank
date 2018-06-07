@@ -1,0 +1,16 @@
+<frameset>
+  <predicate lemma="skirt">
+    <roleset id="skirt.01" name="to surround, border">
+      <roles>
+        <role descr="entity surrounding" f="PPT" n="1"/>
+        <role descr="entity surrounded" f="loc" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="skirt.02" name="to evade, put off">
+      <roles>
+        <role descr="evader" f="PAG" n="0"/>
+        <role descr="entity skirted" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

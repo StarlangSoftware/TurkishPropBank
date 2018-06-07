@@ -1,0 +1,26 @@
+<frameset>
+  <predicate lemma="address">
+    <roleset id="address.01" name="put an address on, or speak to">
+      <roles>
+        <role descr="addresser" f="pag" n="0"/>
+        <role descr="item being addressed (letter, speech, etc)" f="gol" n="1"/>
+        <role descr="hearer/recipient" f="ppt" n="2"/>
+        <role descr="address as" f="prd" n="3"/>
+      </roles>
+    </roleset>
+    <roleset id="address.02" name="deal with">
+      <roles>
+        <role descr="agent" f="pag" n="0"/>
+        <role descr="dealing with what" f="ppt" n="1"/>
+        <role descr="answer, dealing how" f="prd" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="address.03" name="answer, pay attention to">
+      <roles>
+        <role descr="talker" f="pag" n="0"/>
+        <role descr="subject" f="ppt" n="1"/>
+        <role descr="hearer" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

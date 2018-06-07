@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="reinsert">
+    <roleset id="reinsert.01" name="to put into/between/among again">
+      <roles>
+        <role descr="Inserter" f="pag" n="0"/>
+        <role descr="Entity inserted" f="ppt" n="1"/>
+        <role descr="Location" f="loc" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

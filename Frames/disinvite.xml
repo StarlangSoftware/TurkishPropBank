@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="disinvite">
+    <roleset id="disinvite.01" name="uninvite, rescind an invitation">
+      <roles>
+        <role descr="disinviter" f="pag" n="0"/>
+        <role descr="entity disinvited" f="ppt" n="1"/>
+        <role descr="disinvited-to" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

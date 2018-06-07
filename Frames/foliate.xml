@@ -1,0 +1,17 @@
+<frameset>
+  <predicate lemma="foliate">
+    <roleset id="foliate.01" name="to paginate, number pages">
+      <roles>
+        <role descr="agent, numberer" f="pag" n="0"/>
+        <role descr="book, pages numbered" f="ppt" n="1"/>
+        <role descr="attribute, numbers themselves" f="prd" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="foliate.02" name="to grow leaves">
+      <roles>
+        <role descr="plant growing" f="ppt" n="1"/>
+        <role descr="leaves themselves" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

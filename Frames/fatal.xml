@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="fatal">
+    <roleset id="fatal.01" name="causing death">
+      <roles>
+        <role descr="causer of death" f="pag" n="0"/>
+        <role descr="dying entity" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

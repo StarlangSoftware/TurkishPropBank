@@ -1,0 +1,17 @@
+<frameset>
+  <predicate lemma="concentrate">
+    <roleset id="concentrate.01" name="affix attention on, focusing of attention">
+      <roles>
+        <role descr="agent, contrentrater" f="pag" n="0"/>
+        <role descr="contrentrated-on" f="ppt" n="1"/>
+        <role descr="thing contrentrated, if separate from agent" f="vsp" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="concentrate.02" name="cause a reduction in volume (as of a liquid)">
+      <roles>
+        <role descr="causer" f="pag" n="0"/>
+        <role descr="liquid" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

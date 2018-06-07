@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="subsaturation">
+    <roleset id="subsaturation.01" name="not being fully saturated, or saturated enough">
+      <roles>
+        <role descr="agent/causer" f="pag" n="0"/>
+        <role descr="location, thing saturated" f="gol" n="1"/>
+        <role descr="liquid" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

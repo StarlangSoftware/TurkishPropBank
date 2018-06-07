@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="lmk">
+    <roleset id="lmk.01" name="let me know">
+      <roles>
+        <role descr="Entity letting someone know something" f="pag" n="0"/>
+        <role descr="thing known" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

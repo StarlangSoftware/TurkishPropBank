@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="rob">
+    <roleset id="rob.01" name="to engage in or commit robbery">
+      <roles>
+        <role descr="robber, thief" f="PAG" n="0"/>
+        <role descr="person robbed" f="DIR" n="1"/>
+        <role descr="money or valuables, thing taken" f="PPT" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

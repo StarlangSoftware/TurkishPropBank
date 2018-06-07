@@ -1,0 +1,15 @@
+<frameset>
+  <predicate lemma="unfold">
+    <roleset id="unfold.01" name="cause to become unfolded">
+      <roles>
+        <role descr="unfolder" f="PAG" n="0"/>
+        <role descr="thing that used to be folded" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="unfold.02" name="progress, come about">
+      <roles>
+        <role descr="topic" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

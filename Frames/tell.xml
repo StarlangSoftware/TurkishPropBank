@@ -1,0 +1,26 @@
+<frameset>
+  <predicate lemma="tell">
+    <roleset id="tell.01" name="pass along information">
+      <roles>
+        <role descr="Speaker" f="PAG" n="0"/>
+        <role descr="Utterance" f="PPT" n="1"/>
+        <role descr="Hearer" f="GOL" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="tell.02" name="distinguish, determine">
+      <roles>
+        <role descr="entity causing separation" f="pag" n="0"/>
+        <role descr="thing(s) being divided" f="ppt" n="1"/>
+        <role descr="source, separated from, if separate from arg1" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="tell_on">
+    <roleset id="tell_on.03" name="squeal, be a tattletail">
+      <roles>
+        <role descr="stool pigeon" f="PAG" n="0"/>
+        <role descr="alleged perpetrator" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

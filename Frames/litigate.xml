@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="litigate">
+    <roleset id="litigate.01" name="engage in legal proceedings">
+      <roles>
+        <role descr="litigator" f="pag" n="0"/>
+        <role descr="case" f="ppt" n="1"/>
+        <role descr="defendant" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

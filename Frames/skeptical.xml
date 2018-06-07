@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="skeptical">
+    <roleset id="skeptical.01" name="suspicious, wary of belief">
+      <roles>
+        <role descr="stimulus, what arg1 is skeptical about" f="cau" n="0"/>
+        <role descr="skeptic" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

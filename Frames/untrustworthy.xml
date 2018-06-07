@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="untrustworthy">
+    <roleset id="untrustworthy.01" name="not worthy of trust">
+      <roles>
+        <role descr="(non) truster" f="pag" n="0"/>
+        <role descr="entity not worthy of trust" f="ppt" n="1"/>
+        <role descr="what is not upheld/preserved by arg1" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

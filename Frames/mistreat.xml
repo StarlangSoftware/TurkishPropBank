@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="mistreat">
+    <roleset id="mistreat.01" name="to treat badly or unfairly">
+      <roles>
+        <role descr="mistreater, agent" f="PAG" n="0"/>
+        <role descr="mistreated person" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

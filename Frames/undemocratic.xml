@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="undemocratic">
+    <roleset id="undemocratic.01" name="not of/for the people">
+      <roles>
+        <role descr="entity that is not democratic" f="pag" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

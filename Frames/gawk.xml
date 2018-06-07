@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="gawk">
+    <roleset id="gawk.01" name="gawk">
+      <roles>
+        <role descr="gawker" f="pag" n="0"/>
+        <role descr="gawk at" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

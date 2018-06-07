@@ -1,0 +1,20 @@
+<frameset>
+  <predicate lemma="become">
+    <roleset id="become.01" name="change of state">
+      <roles>
+        <role descr="entity changing" f="ppt" n="1"/>
+        <role descr="new state" f="prd" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="become.02" name="be attractive or well suited">
+      <roles>
+        <role descr="appealing or fetching thing" f="PPT" n="1"/>
+        <role descr="who or what it is become on/for?" f="GOL" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="become.03" name="auxiliary">
+      <roles>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,64 @@
+<frameset>
+  <predicate lemma="bind">
+    <roleset id="bind.01" name="attach tightly, physically or     metaphorically., constricting physically">
+      <roles>
+        <role descr="attacher, agent" f="pag" n="0"/>
+        <role descr="thing bound" f="ppt" n="1"/>
+        <role descr="bound to what" f="gol" n="2"/>
+        <role descr="with what" f="mnr" n="3"/>
+      </roles>
+    </roleset>
+    <roleset id="bind.02" name="be likely">
+      <roles>
+        <role descr="thing that is likely" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="bind_up">
+    <roleset id="bind_up.04" name="attach tightly">
+      <roles>
+        <role descr="attacher, agent" f="pag" n="0"/>
+        <role descr="thing bound" f="ppt" n="1"/>
+        <role descr="bound to what" f="gol" n="2"/>
+        <role descr="with what" f="mnr" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="bound">
+    <roleset id="bound.05" name="be destined for">
+      <roles>
+        <role descr="thing destined" f="ppt" n="1"/>
+        <role descr="destiny" f="prd" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="bound.08" name="mode of motion">
+      <roles>
+        <role descr="thing in motion" f="pag" n="0"/>
+      </roles>
+    </roleset>
+    <roleset id="bound.09" name="act as a boundary">
+      <roles>
+        <role descr="boundary" f="pag" n="0"/>
+        <role descr="thing bounded" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="bound_up">
+    <roleset id="bound_up.06" name="attach tightly">
+      <roles>
+        <role descr="attacher, agent" f="pag" n="0"/>
+        <role descr="thing bound" f="ppt" n="1"/>
+        <role descr="bound to what" f="gol" n="2"/>
+        <role descr="with what" f="mnr" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="binding">
+    <roleset id="binding.07" name="executed with proper legal authority">
+      <roles>
+        <role descr="contract, law" f="pag" n="0"/>
+        <role descr="whom contract, law binds, usually &quot;on&quot; phrase" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

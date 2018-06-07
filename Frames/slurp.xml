@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="slurp">
+    <roleset id="slurp.01" name="drink noisily with sucking sound">
+      <roles>
+        <role descr="agent" f="PAG" n="0"/>
+        <role descr="theme, entity slurped" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

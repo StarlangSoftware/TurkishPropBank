@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="underperform">
+    <roleset id="underperform.01" name="to perform not as well as smth else">
+      <roles>
+        <role descr="underperformer" f="PAG" n="0"/>
+        <role descr="entity compared to" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

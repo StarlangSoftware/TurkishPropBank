@@ -1,0 +1,18 @@
+<frameset>
+  <predicate lemma="hazard">
+    <roleset id="hazard.01" name="take a risk">
+      <roles>
+        <role descr="entity risking, at risk" f="pag" n="0"/>
+        <role descr="thing risked" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="hazardous">
+    <roleset id="hazardous.02" name="risky">
+      <roles>
+        <role descr="entity risking, at risk" f="pag" n="0"/>
+        <role descr="thing risked" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

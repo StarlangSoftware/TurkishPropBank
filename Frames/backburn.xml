@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="backburn">
+    <roleset id="backburn.01" name="light a controled fire in the path of a wild fire to gain control">
+      <roles>
+        <role descr="firemen" f="pag" n="0"/>
+        <role descr="fire" f="vsp" n="1"/>
+        <role descr="fuel being burned back" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

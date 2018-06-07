@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="dislocate">
+    <roleset id="dislocate.01" name="move out of position">
+      <roles>
+        <role descr="agent" f="PAG" n="0"/>
+        <role descr="thing dislocated" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

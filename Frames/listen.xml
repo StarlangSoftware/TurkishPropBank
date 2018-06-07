@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="listen">
+    <roleset id="listen.01" name="attend to a sound">
+      <roles>
+        <role descr="listener" f="pag" n="0"/>
+        <role descr="sound or speaker" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,30 @@
+<frameset>
+  <predicate lemma="pair">
+    <roleset id="pair.01" name="join two   things, matching, mating">
+      <roles>
+        <role descr="joiner" f="pag" n="0"/>
+        <role descr="first thing, or both things" f="ppt" n="1"/>
+        <role descr="second thing, if separate" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="pair_up">
+    <roleset id="pair_up.02" name="same as pair.01">
+      <roles>
+        <role descr="joiner" f="pag" n="0"/>
+        <role descr="first thing, or both things" f="ppt" n="1"/>
+        <role descr="second thing, if separate" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="pair_off">
+    <roleset id="pair_off.03" name="split off into a pair, pairs">
+      <roles>
+        <role descr="causal agent" f="pag" n="0"/>
+        <role descr="first entity (or both) forming a pair" f="ppt" n="1"/>
+        <role descr="second entity in the pair" f="ppt" n="2"/>
+        <role descr="secondary predication" f="prd" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="reappropriate">
+    <roleset id="reappropriate.01" name="retake possession">
+      <roles>
+        <role descr="entity reclaiming control" f="pag" n="0"/>
+        <role descr="item recovered" f="ppt" n="1"/>
+        <role descr="item taken from, entity relinquishing control" f="dir" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

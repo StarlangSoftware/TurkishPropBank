@@ -1,0 +1,17 @@
+<frameset>
+  <predicate lemma="recommend">
+    <roleset id="recommend.01" name="recommend, endorsing">
+      <roles>
+        <role descr="Recommender" f="pag" n="0">
+</role>
+        <role descr="recommendation" f="ppt" n="1">
+</role>
+        <role descr="Recommended to" f="gol" n="2">
+</role>
+        <role descr="Secondary attribute (recommended as...)" f="prd" n="3"/>
+        <role descr="subject matter of recommendation (if unclear what the recommendation is)" f="vsp" n="4"/>
+      </roles>
+    
+    </roleset>
+  </predicate>
+</frameset>

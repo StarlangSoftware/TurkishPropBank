@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="limber_up">
+    <roleset id="limber_up.01" name="to make more limber, flexible">
+      <roles>
+        <role descr="agent, person stretching, warming up the muscles" f="PAG" n="0"/>
+        <role descr="muscles, limbs made more flexible" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

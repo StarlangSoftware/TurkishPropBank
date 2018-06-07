@@ -1,0 +1,41 @@
+<frameset>
+  <predicate lemma="head">
+    <roleset id="head.01" name="lead">
+      <roles>
+        <role descr="leader" f="ppt" n="0"/>
+        <role descr="organization" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="head.02" name="moving towards">
+      <roles>
+        <role descr="mover" f="pag" n="0"/>
+        <role descr="destination" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="head_off">
+    <roleset id="head_off.03" name="bring pursuit to an end">
+      <roles>
+        <role descr="pursuer" f="pag" n="0"/>
+        <role descr="pursued" f="ppt" n="1"/>
+        <role descr="location to end pursuit" f="loc" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="head_up">
+    <roleset id="head_up.04" name="head up: lead">
+      <roles>
+        <role descr="leader" f="pag" n="0"/>
+        <role descr="organization" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="headed">
+    <roleset id="headed.05" name="having a head (with particular characteristics)">
+      <roles>
+        <role descr="entity having a head" f="pag" n="1"/>
+        <role descr="characteristic of the head" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="despotic">
+    <roleset id="despotic.01" name="tyrannical">
+      <roles>
+        <role descr="tyrant or tyrannical action" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

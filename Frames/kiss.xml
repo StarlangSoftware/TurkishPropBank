@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="kiss">
+    <roleset id="kiss.01" name="smooch">
+      <roles>
+        <role descr="kisser" f="pag" n="0"/>
+        <role descr="kissed" f="ppt" n="1"/>
+        <role descr="secondary predication, i.e. goodbye, goodnight, etc." f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

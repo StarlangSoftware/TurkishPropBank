@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="reside">
+    <roleset id="reside.01" name="to live for an extended period">
+      <roles>
+        <role descr="entity residing" f="PPT" n="0"/>
+        <role descr="location" f="LOC" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

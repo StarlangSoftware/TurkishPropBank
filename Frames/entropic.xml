@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="entropic">
+    <roleset id="entropic.01" name="characterized by entropy; inevitably deteriorating">
+      <roles>
+        <role descr="thing steadily losing energy" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

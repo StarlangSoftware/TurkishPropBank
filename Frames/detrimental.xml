@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="detrimental">
+    <roleset id="detrimental.01" name="affecting negatively, damaging">
+      <roles>
+        <role descr="detrimental thing" f="cau" n="0"/>
+        <role descr="entity damaged" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

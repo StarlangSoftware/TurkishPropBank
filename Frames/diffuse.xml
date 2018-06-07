@@ -1,0 +1,18 @@
+<frameset>
+  <predicate lemma="diffuse">
+    <roleset id="diffuse.01" name="spread thinly, dispersing or spreading thinly">
+      <roles>
+        <role descr="agent or cause" f="PAG" n="0"/>
+        <role descr="theme, thing diffused" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="diffusely">
+    <roleset id="diffusely.02" name="spread thinly">
+      <roles>
+        <role descr="agent/cause" f="pag" n="0"/>
+        <role descr="theme, thin thing" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

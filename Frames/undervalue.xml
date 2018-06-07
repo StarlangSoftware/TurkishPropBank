@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="undervalue">
+    <roleset id="undervalue.01" name="establish a cost, value that's too low">
+      <roles>
+        <role descr="entity establishing value" f="pag" n="0"/>
+        <role descr="commodity being valued" f="ppt" n="1"/>
+        <role descr="difference from proper value, EXT" f="ext" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

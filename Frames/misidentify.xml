@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="misidentify">
+    <roleset id="misidentify.01" name="identify incorrectly">
+      <roles>
+        <role descr="agent" f="pag" n="0"/>
+        <role descr="thing misidentified" f="ppt" n="1"/>
+        <role descr="misidentified as what" f="pag" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

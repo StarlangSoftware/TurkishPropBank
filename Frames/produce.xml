@@ -1,0 +1,28 @@
+<frameset>
+  <predicate lemma="produce">
+    <roleset id="produce.01" name="create, accomplishing">
+      <roles>
+        <role descr="creator" f="pag" n="0"/>
+        <role descr="creation" f="ppt" n="1"/>
+        <role descr="created-from, thing changed" f="vsp" n="2"/>
+        <role descr="benefactive" f="gol" n="3"/>
+      </roles>
+    </roleset>
+    <roleset id="produce.02" name="bring to light, show">
+      <roles>
+        <role descr="shower" f="pag" n="0"/>
+        <role descr="thing shown" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="productive">
+    <roleset id="productive.03" name="producing much">
+      <roles>
+        <role descr="producer" f="pag" n="0"/>
+        <role descr="product" f="ppt" n="1"/>
+        <role descr="created from, material" f="vsp" n="2"/>
+        <role descr="benefactive" f="gol" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

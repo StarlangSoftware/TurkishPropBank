@@ -1,0 +1,20 @@
+<frameset>
+  <predicate lemma="race">
+    <roleset id="race.01" name="run very fast, moving very quickly (non-competitive, manner motion)">
+      <roles>
+        <role descr="runner" f="ppt" n="0"/>
+        <role descr="path" f="loc" n="1"/>
+        <role descr="destination" f="gol" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="race.02" name="compete in a race">
+      <roles>
+        
+        <role descr="competitor" f="pag" n="0"/>
+        <role descr="opponent" f="ppt" n="1"/>
+        <role descr="prize" f="prp" n="2"/>
+        <role descr="competition, or type of competition" f="loc" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

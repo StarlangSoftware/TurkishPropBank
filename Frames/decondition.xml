@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="decondition">
+    <roleset id="decondition.01" name="lose muscle tone or fitness, becoming less adapted to">
+      <roles>
+        <role descr="Causer of deconditioning" f="pag" n="0"/>
+        <role descr="Entity un-adapted" f="ppt" n="1"/>
+        <role descr="no longer as adapted to" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

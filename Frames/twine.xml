@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="twine">
+    <roleset id="twine.01" name="wrap">
+      <roles>
+        <role descr="cause, agent" f="PAG" n="0"/>
+        <role descr="string-like object" f="PPT" n="1"/>
+        <role descr="hub, axis, ball" f="LOC" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

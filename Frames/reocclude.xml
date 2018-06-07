@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="reocclude">
+    <roleset id="reocclude.01" name="obstruct or block an opening again">
+      <roles>
+        <role descr="blocker" f="pag" n="0"/>
+        <role descr="opening blocked" f="ppt" n="1"/>
+        <role descr="blocked from what (2nd pred, action/flow blocked)" f="prd" n="2"/>
+        <role descr="instrument" f="mnr" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

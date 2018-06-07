@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="superheat">
+    <roleset id="superheat.01" name="heat past boiling/melting point without changing state">
+      <roles>
+        <role descr="agent/cause of heating" f="PAG" n="0"/>
+        <role descr="liquid being heated" f="ppt" n="1"/>
+        <role descr="start state/temp" f="dir" n="2"/>
+        <role descr="end state/temp" f="prd" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

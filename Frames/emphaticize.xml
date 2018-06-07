@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="emphaticize">
+    <roleset id="emphaticize.01" name="to make emphatic">
+      <roles>
+        <role descr="emphaticizer" f="pag" n="0"/>
+        <role descr="emphaticized" f="ppt" n="1"/>
+        <role descr="Listener, emphaticized-to" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

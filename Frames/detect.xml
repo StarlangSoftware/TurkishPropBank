@@ -1,0 +1,20 @@
+<frameset>
+  <predicate lemma="detect">
+    <roleset id="detect.01" name="find, notice">
+      <roles>
+        <role descr="detector" f="ppt" n="0"/>
+        <role descr="detected" f="pag" n="1"/>
+        <role descr="instrument(al process), if separate from arg0" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="detectible">
+    <roleset id="detectible.02" name="able to be detected">
+      <roles>
+        <role descr="agent" f="cau" n="0"/>
+        <role descr="thing detected" f="ppt" n="1"/>
+        <role descr="instrument" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

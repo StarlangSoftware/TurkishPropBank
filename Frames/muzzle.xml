@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="muzzle">
+    <roleset id="muzzle.01" name="make unable to speak">
+      <roles>
+        <role descr="causer of speaking inability" f="PAG" n="0"/>
+        <role descr="entity no longer able to speak" f="PPT" n="1"/>
+        <role descr="explicit mention of muzzle proper" f="PPT" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

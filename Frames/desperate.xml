@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="desperate">
+    <roleset id="desperate.01" name="urgent to the point of despair">
+      <roles>
+        <role descr="desperate one" f="pag" n="0"/>
+        <role descr="desparate for/to what" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

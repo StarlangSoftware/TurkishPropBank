@@ -1,0 +1,33 @@
+<frameset>
+  <predicate lemma="criticize">
+    <roleset id="criticize.01" name="criticize, blame, judging harshly and negatively">
+      <roles>
+        <role descr="critic" f="pag" n="0"/>
+        <role descr="entity being criticized" f="ppt" n="1"/>
+        <role descr="on what grounds?" f="cau" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="critical">
+    <roleset id="critical.02" name="of utmost importance, crucial to">
+      <roles>
+        <role descr="thing that is crucial" f="pag" n="1"/>
+        <role descr="situation that arg1 is critical to" f="ppt" n="2"/>
+        <role descr="beneficiary" f="gol" n="3"/>
+      </roles>
+    </roleset>
+    <roleset id="critical.03" name="in grave physical condition (medical)">
+      <roles>
+        <role descr="entity in critical condition" f="pag" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="criticism">
+    <roleset id="criticism.04" name="judge carefully, but not necessarily negatively, esp art/literature">
+      <roles>
+        <role descr="judge, critic" f="pag" n="0"/>
+        <role descr="work judged, critiqued" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

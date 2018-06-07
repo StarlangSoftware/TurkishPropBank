@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="finagle">
+    <roleset id="finagle.01" name="work out, arrange, get">
+      <roles>
+        <role descr="getter" f="pag" n="0"/>
+        <role descr="thing got" f="ppt" n="1"/>
+        <role descr="got from" f="dir" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

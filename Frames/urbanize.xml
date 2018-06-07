@@ -1,0 +1,18 @@
+<frameset>
+  <predicate lemma="urbanize">
+    <roleset id="urbanize.01" name="to make urban, like a city">
+      <roles>
+        <role descr="causer of urbanization" f="pag" n="0"/>
+        <role descr="entity urbanized" f="ppt" n="1"/>
+        <role descr="Instrument or Manner if separate from arg 0" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="urban">
+    <roleset id="urban.02" name="having big city characteristics">
+      <roles>
+        <role descr="urban entity" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

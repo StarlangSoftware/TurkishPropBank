@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="replaster">
+    <roleset id="replaster.01" name="put plaster on something again">
+      <roles>
+        <role descr="agent putting plaster on something" f="pag" n="0"/>
+        <role descr="thing put/plastered, plaster or thing serving as plaster itself" f="ppt" n="1"/>
+        <role descr="where plaster is put, thing getting covered in plaster" f="gol" n="2"/>
+        <role descr="instrument" f="mnr" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

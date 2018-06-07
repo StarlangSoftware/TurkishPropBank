@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="reincorporate">
+    <roleset id="reincorporate.01" name="make a corporation again">
+      <roles>
+        <role descr="causer of incorporation" f="pag" n="0"/>
+        <role descr="entity incorporated" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

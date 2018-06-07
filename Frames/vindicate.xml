@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="vindicate">
+    <roleset id="vindicate.01" name="to clear of accusation">
+      <roles>
+        <role descr="clearer, vindicator" f="pag" n="0"/>
+        <role descr="person vindicated" f="gol" n="1"/>
+        <role descr="accusation" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

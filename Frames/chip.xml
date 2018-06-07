@@ -1,0 +1,21 @@
+<frameset>
+  <predicate lemma="chip">
+    <roleset id="chip.01" name="break off small pieces">
+      <roles>
+        <role descr="breaker" f="pag" n="0"/>
+        <role descr="thing broken" f="ppt" n="1"/>
+        <role descr="instrument" f="mnr" n="2"/>
+        <role descr="pieces" f="prd" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="chip_in">
+    <roleset id="chip_in.02" name="contribute">
+      <roles>
+        <role descr="contributor" f="pag" n="0"/>
+        <role descr="thing contributed" f="ppt" n="1"/>
+        <role descr="contributed to" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

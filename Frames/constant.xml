@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="constant">
+    <roleset id="constant.01" name="regular, unchanging">
+      <roles>
+        <role descr="constant entity" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

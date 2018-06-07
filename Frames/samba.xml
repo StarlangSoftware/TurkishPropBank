@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="samba">
+    <roleset id="samba.01" name="samba">
+      <roles>
+        <role descr="causer of samba-ing (transitive uses only)" f="PAG" n="0"/>
+        <role descr="person(s) doing the samba (intransitive subject, transitive object)" f="PPT" n="1"/>
+        <role descr="location or path of samba-ing" f="LOC" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

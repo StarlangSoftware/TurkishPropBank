@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="benight">
+    <roleset id="benight.01" name="involve in moral darkness, ignorance">
+      <roles>
+        <role descr="agent of involvment" f="pag" n="0"/>
+        <role descr="thing involved in moral darkness, ignorance" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

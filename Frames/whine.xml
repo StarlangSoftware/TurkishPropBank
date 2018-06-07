@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="whine">
+    <roleset id="whine.01" name="emit high-pitched continuous sound">
+      <roles>
+        <role descr="whiner" f="pag" n="0"/>
+        <role descr="the whine itself" f="ppt" n="1"/>
+        <role descr="hearer" f="gol" n="2"/>
+        <role descr="subject matter of the whining (about _)" f="vsp" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

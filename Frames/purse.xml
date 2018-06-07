@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="purse">
+    <roleset id="purse.01" name="pucker">
+      <roles>
+        <role descr="causer of motion" f="PAG" n="0"/>
+        <role descr="thing pursing" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

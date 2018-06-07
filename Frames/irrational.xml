@@ -1,0 +1,14 @@
+<frameset>
+  <predicate lemma="irrational">
+    <roleset id="irrational.01" name="illogical, unreasonable">
+      <roles>
+        <role descr="irrational entity/action (may require concatenation)" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="irrational.02" name="not expressible as the quotient of two integers">
+      <roles>
+        <role descr="irrational number" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

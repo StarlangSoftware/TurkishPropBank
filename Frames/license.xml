@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="license">
+    <roleset id="license.01" name="give legal rights to property">
+      <roles>
+        <role descr="granter of license" f="pag" n="0"/>
+        <role descr="licensed thing" f="ppt" n="1"/>
+        <role descr="benefactive, licensed-to" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

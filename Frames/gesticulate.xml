@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="gesticulate">
+    <roleset id="gesticulate.01" name="express by waving">
+      <roles>
+        <role descr="expresser" f="PAG" n="0"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

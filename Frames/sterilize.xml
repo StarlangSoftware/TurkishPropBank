@@ -1,0 +1,19 @@
+<frameset>
+  <predicate lemma="sterilize">
+    <roleset id="sterilize.01" name="to make free from live bacteria, to make inoffensive, unable to reproduce, inoffensive">
+      <roles>
+        <role descr="sterilizer" f="pag" n="0"/>
+        <role descr="entity sterilized" f="gol" n="1"/>
+        <role descr="germs removed" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="sterile">
+    <roleset id="sterile.02" name="inhospitible to the growth of life">
+      <roles>
+        <role descr="sterile location/entity" f="loc" n="1"/>
+        <role descr="new life" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

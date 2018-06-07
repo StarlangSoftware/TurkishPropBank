@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="espy">
+    <roleset id="espy.01" name="catch sight of, discern">
+      <roles>
+        <role descr="viewer" f="ppt" n="0"/>
+        <role descr="thing discerned" f="pag" n="1"/>
+        <role descr="secondary attribute, described-as" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

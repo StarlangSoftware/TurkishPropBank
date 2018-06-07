@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="auscultate">
+    <roleset id="auscultate.01" name="listen to internal organs, listening to internal organs using stethoscope">
+      <roles>
+        <role descr="listener" f="pag" n="0"/>
+        <role descr="listened to (sound/organ/patient)" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

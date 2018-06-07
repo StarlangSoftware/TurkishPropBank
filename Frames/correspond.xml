@@ -1,0 +1,17 @@
+<frameset>
+  <predicate lemma="correspond">
+    <roleset id="correspond.01" name="exchange letters with or communicate generally, exchange of communication">
+      <roles>
+        <role descr="first (or all) correspondent(s)" f="pag" n="0"/>
+        <role descr="additional correspondent" f="ppt" n="1"/>
+        <role descr="subject matter of correspondence" f="vsp" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="correspond.02" name="be parallel/equivalent to">
+      <roles>
+        <role descr="topic, theme" f="ppt" n="1"/>
+        <role descr="compared with" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

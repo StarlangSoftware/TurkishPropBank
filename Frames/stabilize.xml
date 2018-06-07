@@ -1,0 +1,26 @@
+<frameset>
+  <predicate lemma="stabilize">
+    <roleset id="stabilize.01" name="to make stable, making/becoming stable">
+      <roles>
+        <role descr="cause of stability, agent" f="pag" n="0"/>
+        <role descr="thing stabilized" f="ppt" n="1"/>
+        <role descr="stabilized at" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="stable">
+    <roleset id="stable.02" name="to keep or put in a stable">
+      <roles>
+        <role descr="stabler" f="pag" n="0"/>
+        <role descr="thing stabled" f="ppt" n="1"/>
+        <role descr="stable, location" f="gol" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="stable.03" name="maintaining equilibrium">
+      <roles>
+        <role descr="stable entity" f="pag" n="1"/>
+        <role descr="position/attribute held in equilibrium" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

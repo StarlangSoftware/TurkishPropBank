@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="underlay">
+    <roleset id="underlay.01" name="put something under or beneath">
+      <roles>
+        <role descr="entity doing the laying" f="PAG" n="0"/>
+        <role descr="thing on top" f="GOL" n="1"/>
+        <role descr="thing being put underneath" f="PPT" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

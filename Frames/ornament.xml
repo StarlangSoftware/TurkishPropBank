@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="ornament">
+    <roleset id="ornament.01" name="decorate">
+      <roles>
+        <role descr="decorator" f="pag" n="0"/>
+        <role descr="thing ornamented" f="ppt" n="1"/>
+        <role descr="ornament" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

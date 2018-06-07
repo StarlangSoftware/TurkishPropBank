@@ -1,0 +1,26 @@
+<frameset>
+  <predicate lemma="thin">
+    <roleset id="thin.01" name="(cause to) become narrow or sparse">
+      <roles>
+        <role descr="cause, agent" f="pag" n="0"/>
+        <role descr="entity getting thin" f="ppt" n="1"/>
+        <role descr="component parts of arg1 that aren't close together" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="thin.03" name="have a low density, narrow width">
+      <roles>
+        <role descr="agent" f="pag" n="0"/>
+        <role descr="thin entity" f="ppt" n="1"/>
+        <role descr="component parts of arg1 that aren't close together" f="vsp" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="thin_out">
+    <roleset id="thin_out.02" name="thin_out: to make or become sparse or sparser">
+      <roles>
+        <role descr="cause, agent" f="pag" n="0"/>
+        <role descr="entity getting thin" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

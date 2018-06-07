@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="confess">
+    <roleset id="confess.01" name="mode of speaking">
+      <roles>
+        <role descr="speaker" f="pag" n="0"/>
+        <role descr="utterance" f="ppt" n="1"/>
+        <role descr="hearer" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

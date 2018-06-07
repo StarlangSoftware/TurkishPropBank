@@ -1,0 +1,13 @@
+<frameset>
+  <predicate lemma="slit">
+    <roleset id="slit.01" name="make a narrow cut">
+      <roles>
+        <role descr="agent, slitter" f="PAG" n="0"/>
+        <role descr="patient, thing cut" f="PPT" n="1"/>
+        <role descr="medium, source" f="dir" n="2"/>
+        <role descr="instrument" f="MNR" n="3"/>
+        <role descr="beneficiary" f="gol" n="4"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

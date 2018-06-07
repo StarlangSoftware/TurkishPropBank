@@ -1,0 +1,15 @@
+<frameset>
+  <predicate lemma="handy">
+    <roleset id="handy.01" name="handy">
+      <roles>
+        <role descr="skilled entity" f="pag" n="1"/>
+        <role descr="skill (tool, action)" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="handy.02" name="close at hand, useful">
+      <roles>
+        <role descr="useful, close at hand thing" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

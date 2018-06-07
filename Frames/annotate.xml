@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="annotate">
+    <roleset id="annotate.01" name="to supply with notes, comment upon">
+      <roles>
+        <role descr="commentor" f="PAG" n="0"/>
+        <role descr="thing commented on" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

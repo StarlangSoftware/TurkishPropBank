@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="sporadic">
+    <roleset id="sporadic.01" name="occur at irregular intervals">
+      <roles>
+        <role descr="thing that is irregular" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

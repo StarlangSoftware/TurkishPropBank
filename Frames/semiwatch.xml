@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="semiwatch">
+    <roleset id="semiwatch.01" name="watch partially">
+      <roles>
+        <role descr="(somewhat inattentive) watcher" f="pag" n="0"/>
+        <role descr="thing watched" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="vegetate">
+    <roleset id="vegetate.01" name="exist passively without using one's mind">
+      <roles>
+        <role descr="entity in vegetative state" f="PPT" n="1"/>
+        <role descr="place where they're vegetating" f="LOC" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

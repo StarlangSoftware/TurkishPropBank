@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="neigh">
+    <roleset id="neigh.01" name="like a horse">
+      <roles>
+        <role descr="neigher/horse" f="PAG" n="0"/>
+        <role descr="utterance" f="PPT" n="1"/>
+        <role descr="hearer" f="GOL" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

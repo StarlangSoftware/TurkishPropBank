@@ -1,0 +1,22 @@
+<frameset>
+  <predicate lemma="stem">
+    <roleset id="stem.01" name="arise (from)">
+      <roles>
+        <role descr="thing (state) arising" f="PPT" n="1"/>
+        <role descr="source (from or in or of)" f="dir" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="stem.02" name="cause to stop (often flowing, as a liquid)">
+      <roles>
+        <role descr="stopper" f="PAG" n="0"/>
+        <role descr="thing being stopped, (liquid)" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="stem.03" name="pointing skis inward in order to slow down">
+      <roles>
+        <role descr="skier" f="PAG" n="0"/>
+        <role descr="skis" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

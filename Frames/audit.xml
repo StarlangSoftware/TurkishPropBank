@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="audit">
+    <roleset id="audit.01" name="assess">
+      <roles>
+        <role descr="auditor" f="PAG" n="0"/>
+        <role descr="audited" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

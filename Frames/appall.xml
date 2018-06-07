@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="appall">
+    <roleset id="appall.01" name="strike with disgust">
+      <roles>
+        <role descr="Stimulus of appallment" f="pag" n="0"/>
+        <role descr="appalled entity" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

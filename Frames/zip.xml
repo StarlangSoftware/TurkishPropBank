@@ -1,0 +1,24 @@
+<frameset>
+  <predicate lemma="zip">
+    <roleset id="zip.01" name="to move very fast">
+      <roles>
+        <role descr="entity in motion" f="pag" n="0"/>
+      </roles>
+    </roleset>
+    <roleset id="zip.03" name="shut a zippered closure">
+      <roles>
+        <role descr="agent, one who zipps" f="pag" n="0"/>
+        <role descr="patient, entity being zipped up" f="ppt" n="1"/>
+        <role descr="co-patient, zipped to" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="zip_up">
+    <roleset id="zip_up.02" name="zip_up">
+      <roles>
+        <role descr="one who zips up, agent" f="pag" n="0"/>
+        <role descr="patient, entity being zipped up" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

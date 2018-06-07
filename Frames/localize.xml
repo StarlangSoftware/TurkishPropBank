@@ -1,0 +1,18 @@
+<frameset>
+  <predicate lemma="localize">
+    <roleset id="localize.01" name="make local, assigning to a specific place">
+      <roles>
+        <role descr="cause, agent" f="PAG" n="0"/>
+        <role descr="local thing" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="local">
+    <roleset id="local.02" name="belonging to a particular area">
+      <roles>
+        <role descr="entity belonging to a particular area" f="ppt" n="1"/>
+        <role descr="the particular area" f="loc" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

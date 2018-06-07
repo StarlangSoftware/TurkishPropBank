@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="hypervascular">
+    <roleset id="hypervascular.01" name="having high concentration/number of blood cells">
+      <roles>
+        <role descr="entity with many blood cells" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

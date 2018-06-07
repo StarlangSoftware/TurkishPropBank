@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="edify">
+    <roleset id="edify.01" name="build up physically, spiritually, or intellectually">
+      <roles>
+        <role descr="builder" f="pag" n="0"/>
+        <role descr="entity built up" f="ppt" n="1"/>
+        <role descr="attributive-- subject matter enlightened about" f="ppt" n="2"/>
+        <role descr="instrument" f="mnr" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

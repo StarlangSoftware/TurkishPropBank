@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="meld">
+    <roleset id="meld.01" name="to mix, merge">
+      <roles>
+        <role descr="mixer, agent" f="PAG" n="0"/>
+        <role descr="first ingredient, theme" f="PPT" n="1"/>
+        <role descr="melded with" f="PPT" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

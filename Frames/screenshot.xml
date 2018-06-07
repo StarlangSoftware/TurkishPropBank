@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="screenshot">
+    <roleset id="screenshot.01" name="take a picture of a screen using software">
+      <roles>
+        <role descr="screenshotter" f="PAG" n="0"/>
+        <role descr="thing captured on screen" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

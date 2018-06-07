@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="recuperate">
+    <roleset id="recuperate.01" name="get better">
+      <roles>
+        <role descr="that which was sick, now getting better" f="ppt" n="1"/>
+        <role descr="sickness" f="cau" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

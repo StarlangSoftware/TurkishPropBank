@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="hilarious">
+    <roleset id="hilarious.01" name="extremely funny">
+      <roles>
+        <role descr="hilarious thing" f="ppt" n="0"/>
+        <role descr="perceiver" f="adv" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="chemosensitive">
+    <roleset id="chemosensitive.01" name="sensitive to chemo">
+      <roles>
+        <role descr="entity who is chemosensitive" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

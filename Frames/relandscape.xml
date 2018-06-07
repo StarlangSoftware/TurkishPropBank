@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="relandscape">
+    <roleset id="relandscape.01" name="enhance appearance, again">
+      <roles>
+        <role descr="causer of enhancement, agent" f="pag" n="0"/>
+        <role descr="location enhanced" f="ppt" n="1"/>
+        <role descr="instrument" f="mnr" n="2"/>
+        <role descr="enhanced by how much, EXT or MNR" f="ext" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

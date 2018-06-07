@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="depend">
+    <roleset id="depend.01" name="rely">
+      <roles>
+        <role descr="depender" f="PAG" n="0"/>
+        <role descr="depended on" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

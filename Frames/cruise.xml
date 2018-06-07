@@ -1,0 +1,15 @@
+<frameset>
+  <predicate lemma="cruise">
+    <roleset id="cruise.01" name="travel at leisure">
+      <roles>
+        <role descr="traveller" f="PAG" n="0"/>
+      </roles>
+    </roleset>
+    <roleset id="cruise.02" name="look for a sexual partner in a   public place">
+      <roles>
+        <role descr="seeker" f="PAG" n="0"/>
+        <role descr="public place" f="LOC" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

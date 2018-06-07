@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="thorough">
+    <roleset id="thorough.01" name="comprehensive">
+      <roles>
+        <role descr="thorough entity/act (may require concatenation)" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

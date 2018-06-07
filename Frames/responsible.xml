@@ -1,0 +1,61 @@
+<frameset>
+  <predicate lemma="responsible">
+    <roleset id="responsible.01" name="being the cause of something">
+      <roles>
+        <role descr="responsible party, causer" f="pag" n="0"/>
+        <role descr="responsible for what, caused thing" f="ppt" n="1"/>
+      </roles>
+      <example name="Both args" src="web" type="">
+        <inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+        <text>Cleveland mayor apologizes for claiming Tamir Rice was
+        responsible for his own death.</text>
+        <arg f="" n="0">Tamir Rice</arg>
+        <rel f="">responsible</rel>
+        <arg f="" n="1">for his own death.</arg>
+      </example>
+    
+    </roleset>
+    <roleset id="responsible.02" name="character trait, worthy of trust">
+      <roles>
+        <role descr="entity/act characterized as worthy or inspiring of trust" f="pag" n="1"/>
+      </roles>
+      <example name="Responsible entity with reason for perception, concatenated" src="internet" type="">
+        <inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+        <text>It was responsible of him to help the old lady across the
+        street.</text>
+        <arg f="" n="1">[of him][to help the old lady acrossthe street]</arg>
+        <rel f="">responsible</rel>
+      </example>
+      <example name="Variant expressed as for-phrase" src="internet" type="">
+        <inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+        <text>It was responsible for him to help the old lady across the
+        street.</text>
+        <arg f="" n="1">[for him][to help the old lady acrossthe street]</arg>
+        <rel f="">responsible</rel>
+      </example>
+    <note>RESPONSIBLE-J NOTES: For usages that do not highlight
+      causation, nor an ongoing role/responsibility, instead a general character trait. Updated by Claire
+      (April 2015). Added by Julia based on WordNet. This frame may require
+      concatenation to capture hte entire action in Arg1; see examples. (from
+      responsible.02-j) AMR NOTE: This is the ONLY counterpart to
+      "irresponsible;" use this roleset with negative polarity.</note>
+    </roleset>
+    <roleset id="responsible.03" name="Having a particular role where one         is trusted with a duty">
+      <roles>
+        <role descr="entity entrusted with a role" f="pag" n="0"/>
+        <role descr="role, responsibility" f="ppt" n="1"/>
+        <role descr="responsible to whom?" f="gol" n="2"/>
+      </roles>
+      <example name="Noun Responsibility, drop empty it" src="web" type="">
+        <text>It is my daughter's responsibility to empty the dishwasher,
+        but I always have to ask her ten times.</text>
+        <arg f="" n="0">my daughter's</arg>
+        <rel f="">responsibility</rel>
+        <arg f="" n="1">to empty the dishwasher</arg>
+      </example>
+    <note>RESPONSIBLE-J NOTES: For usages that highlight a possibly generic,
+      ongoing responsibility or duty. Updated by Claire
+      (April 2015). Added by Julia based on WordNet. (from responsible.02-j)</note>
+    </roleset>
+  </predicate>
+</frameset>

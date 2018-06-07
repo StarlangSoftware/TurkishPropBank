@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="hanker">
+    <roleset id="hanker.01" name="desire, hungering">
+      <roles>
+        <role descr="desirer" f="PAG" n="0"/>
+        <role descr="desired" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

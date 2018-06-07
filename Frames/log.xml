@@ -1,0 +1,48 @@
+<frameset>
+  <predicate lemma="log">
+    <roleset id="log.01" name="to record or to navigate somewhere online">
+      <roles>
+        <role descr="recorder, logger, agent" f="pag" n="0"/>
+        <role descr="thing recorded, internet/software" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="log.03" name="do the job of cutting trees into logs">
+      <roles>
+        <role descr="logger" f="pag" n="0"/>
+        <role descr="location, thing logged" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="log_on">
+    <roleset id="log_on.02" name="to enter into a computer the information required to begin a session">
+      <roles>
+        <role descr="user, agent" f="pag" n="0"/>
+        <role descr="computer" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="log_off">
+    <roleset id="log_off.04" name="Exit a computer system">
+      <roles>
+        <role descr="user" f="pag" n="0"/>
+        <role descr="system exited, computer" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="log_in">
+    <roleset id="log_in.05" name="enter a secured computer system">
+      <roles>
+        <role descr="agent, user" f="pag" n="0"/>
+        <role descr="system, computer, program" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="log_out">
+    <roleset id="log_out.06" name="Exit a computer system">
+      <roles>
+        <role descr="agent, user" f="pag" n="0"/>
+        <role descr="system exited, computer" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

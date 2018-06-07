@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="dethrone">
+    <roleset id="dethrone.01" name="get rid of a king">
+      <roles>
+        <role descr="usurper, revolutionary force, agent" f="pag" n="0"/>
+        <role descr="king" f="ppt" n="1"/>
+        <role descr="kingdom, role" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

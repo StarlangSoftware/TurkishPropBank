@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="console">
+    <roleset id="console.01" name="make feel better">
+      <roles>
+        <role descr="consoler" f="PAG" n="0"/>
+        <role descr="consoled" f="PPT" n="1"/>
+        <role descr="consolation, instrument (if separate from arg0)" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

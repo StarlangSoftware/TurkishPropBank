@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="predetermine">
+    <roleset id="predetermine.01" name="determine ahead of time">
+      <roles>
+        <role descr="determiner" f="PAG" n="0"/>
+        <role descr="determination" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

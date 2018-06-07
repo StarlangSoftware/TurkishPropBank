@@ -1,0 +1,17 @@
+<frameset>
+  <predicate lemma="center">
+    <roleset id="center.01" name="focus (on)">
+      <roles>
+        <role descr="agent, focuser" f="pag" n="0"/>
+        <role descr="thing focused" f="ppt" n="1"/>
+        <role descr="focused-on" f="gol" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="center.02" name="politically/socially moderate">
+      <roles>
+        <role descr="politically/socially centrist entity" f="PPT" n="1"/>
+        <role descr="domain or topic of centrism" f="PPT" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

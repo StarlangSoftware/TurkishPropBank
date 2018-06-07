@@ -1,0 +1,19 @@
+<frameset>
+  <predicate lemma="lash">
+    <roleset id="lash.01" name="to tie">
+      <roles>
+        <role descr="tier, agent" f="PAG" n="0"/>
+        <role descr="entity lashed" f="PPT" n="1"/>
+        <role descr="entity lashed to" f="PPT" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="lash_out">
+    <roleset id="lash_out.02" name="to attack verbally">
+      <roles>
+        <role descr="attacker, agent" f="PAG" n="0"/>
+        <role descr="lash at" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

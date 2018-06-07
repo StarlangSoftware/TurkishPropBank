@@ -1,0 +1,26 @@
+<frameset>
+  <predicate lemma="cheat">
+    <roleset id="cheat.01" name="steal, remove illegally, stealing from a source">
+      <roles>
+        <role descr="entity removing" f="pag" n="0"/>
+        <role descr="thing being removed" f="ppt" n="1"/>
+        <role descr="removed from" f="dir" n="2"/>
+      </roles>
+    
+    </roleset>
+    <roleset id="cheat.02" name="engage in deceitful practices, not follow the rules for personal gain">
+      <roles>
+        <role descr="cheater" f="pag" n="0"/>
+        <role descr="domain in which the cheating occurs" f="ppt" n="1"/>
+      </roles>
+    
+    </roleset>
+    <roleset id="cheat.03" name="being unfaithful romantically (or metaphorically)">
+      <roles>
+        <role descr="cheater" f="pag" n="0"/>
+        <role descr="partner cheated on" f="ppt" n="1"/>
+        <role descr="home-wrecker" f="com" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="faze">
+    <roleset id="faze.01" name="disconcert, disturb">
+      <roles>
+        <role descr="Cause, fazer" f="pag" n="0"/>
+        <role descr="fazed" f="ppt" n="1"/>
+        <role descr="instrument, if separate from arg0" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

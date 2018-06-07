@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="gore">
+    <roleset id="gore.01" name="impale">
+      <roles>
+        <role descr="agent, gorer" f="pag" n="0"/>
+        <role descr="victim, entity gored" f="ppt" n="1"/>
+        <role descr="instrument, by default 'horn'" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

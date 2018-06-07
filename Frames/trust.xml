@@ -1,0 +1,26 @@
+<frameset>
+  <predicate lemma="trust">
+    <roleset id="trust.01" name="trust someone with something">
+      <roles>
+        <role descr="truster" f="PAG" n="0"/>
+        <role descr="something" f="PPT" n="1"/>
+        <role descr="someone" f="GOL" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="trust.02" name="put faith in">
+      <roles>
+        <role descr="truster" f="PPT" n="0"/>
+        <role descr="thing trusted" f="PAG" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="trustworthy">
+    <roleset id="trustworthy.03" name="worthy of trust">
+      <roles>
+        <role descr="truster" f="pag" n="0"/>
+        <role descr="entity worthy of trust" f="ppt" n="1"/>
+        <role descr="what arg1 upholds, preserves, carries through with" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

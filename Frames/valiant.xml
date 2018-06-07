@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="valiant">
+    <roleset id="valiant.01" name="brave, intrepid">
+      <roles>
+        <role descr="valiant one" f="pag" n="0"/>
+        <role descr="act of valor" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

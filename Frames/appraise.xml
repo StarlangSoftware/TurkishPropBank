@@ -1,0 +1,17 @@
+<frameset>
+  <predicate lemma="appraise">
+    <roleset id="appraise.01" name="set a price, value">
+      <roles>
+        <role descr="seller" f="PAG" n="0"/>
+        <role descr="commodity" f="PPT" n="1"/>
+        <role descr="price" f="VSP" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="appraise.02" name="come to understand">
+      <roles>
+        <role descr="understanding entity" f="PAG" n="0"/>
+        <role descr="knowledge, topic" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

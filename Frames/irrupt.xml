@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="irrupt">
+    <roleset id="irrupt.01" name="appear suddenly, explode, grow rapidly">
+      <roles>
+        <role descr="Irruptor, thing exploding/appearing/growing" f="ppt" n="1"/>
+        <role descr="Substance spewing forth from irruption" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="idiopathic">
+    <roleset id="idiopathic.01" name="of disease with no known cause">
+      <roles>
+        <role descr="idiopathic entity" f="pag" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

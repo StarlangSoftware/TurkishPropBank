@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="holiday">
+    <roleset id="holiday.01" name="vacation, taking a vacation, break (from something)">
+      <roles>
+        <role descr="vacationer" f="ppt" n="0"/>
+        <role descr="locaction" f="ppt" n="1"/>
+        <role descr="holiday away from what" f="vsp" n="2"/>
+        <role descr="holiday commemorating what" f="prp" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="proprioception">
+    <roleset id="proprioception.01" name="use of proprioceptors">
+      <roles>
+        <role descr="sensor" f="PAG" n="0"/>
+        <role descr="body part/thing sensed" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

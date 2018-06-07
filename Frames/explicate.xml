@@ -1,0 +1,25 @@
+<frameset>
+  <predicate lemma="explicate">
+    <roleset id="explicate.01" name="make clear or explicit">
+      <roles>
+        <role descr="causer of clarification" f="PAG" n="0"/>
+        <role descr="thing becoming clearer" f="PPT" n="1"/>
+        <role descr="explained to" f="GOL" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="explicit">
+    <roleset id="explicit.02" name="graphic to the point of being potentially offensive">
+      <roles>
+        <role descr="overly graphic thing" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="explicit.03" name="clear, detailed">
+      <roles>
+        <role descr="detail-giver" f="pag" n="0"/>
+        <role descr="clear thing" f="ppt" n="1"/>
+        <role descr="explained to" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

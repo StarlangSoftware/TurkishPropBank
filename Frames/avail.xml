@@ -1,0 +1,19 @@
+<frameset>
+  <predicate lemma="avail">
+    <roleset id="avail.01" name="provide, often 'take advantage of'">
+      <roles>
+        <role descr="one providing, taking advantage, includes causes" f="pag" n="0"/>
+        <role descr="recipient" f="gol" n="1"/>
+        <role descr="thing provided, taken advantage of" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="available">
+    <roleset id="available.02" name="ready for use">
+      <roles>
+        <role descr="available to whom/what? entity having access to arg2" f="gol" n="1"/>
+        <role descr="thing that is available" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

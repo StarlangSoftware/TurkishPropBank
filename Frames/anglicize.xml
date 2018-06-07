@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="anglicize">
+    <roleset id="anglicize.01" name="(cause to) become english in form or character">
+      <roles>
+        <role descr="causer, agent" f="PAG" n="0"/>
+        <role descr="entity anglicized" f="PPT" n="1"/>
+        <role descr="instrument" f="MNR" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

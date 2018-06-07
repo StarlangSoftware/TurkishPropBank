@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="friable">
+    <roleset id="friable.01" name="fragile, crumbly, easily broken">
+      <roles>
+        <role descr="causer of fragility" f="pag" n="0"/>
+        <role descr="friable thing" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

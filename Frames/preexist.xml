@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="preexist">
+    <roleset id="preexist.01" name="exist before">
+      <roles>
+        <role descr="thing coming before (pre-existing thing)" f="pag" n="1"/>
+        <role descr="thing coming after (transitive object)" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

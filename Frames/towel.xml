@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="towel">
+    <roleset id="towel.01" name="towel">
+      <roles>
+        <role descr="toweler, agent" f="pag" n="0"/>
+        <role descr="liquid" f="ppt" n="1"/>
+        <role descr="surface dried" f="dir" n="2"/>
+        <role descr="instrument, towel" f="mnr" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,30 @@
+<frameset>
+  <predicate lemma="measure">
+    <roleset id="measure.01" name="quantify">
+      <roles>
+        
+        <role descr="measurer" f="pag" n="0"/>
+        <role descr="thing measured" f="ppt" n="1"/>
+        <role descr="yardstick, standard of measurement" f="mnr" n="2"/>
+        <role descr="measurement" f="vsp" n="3"/>
+      </roles>
+    </roleset>
+    <roleset id="measure.02" name="action taken">
+      <roles>
+        <role descr="agent" f="pag" n="0"/>
+        <role descr="(purpose of) action taken" f="ppt" n="1"/>
+        <role descr="(anti)benefactive" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="measurable">
+    <roleset id="measurable.03" name="able to be measured">
+      <roles>
+        <role descr="measurer" f="pag" n="0"/>
+        <role descr="thing measured" f="ppt" n="1"/>
+        <role descr="yardstick, standard of measurement" f="mnr" n="2"/>
+        <role descr="measurement, value" f="prd" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

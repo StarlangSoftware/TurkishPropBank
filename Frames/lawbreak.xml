@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="lawbreak">
+    <roleset id="lawbreak.01" name="violate the law">
+      <roles>
+        <role descr="scofflaw" f="pag" n="0"/>
+        <role descr="law broken" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

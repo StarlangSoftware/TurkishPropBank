@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="surname">
+    <roleset id="surname.01" name="assign a last name to">
+      <roles>
+        <role descr="namer" f="pag" n="0"/>
+        <role descr="entity named" f="ppt" n="1"/>
+        <role descr="name itself, name of arg1" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

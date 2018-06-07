@@ -1,0 +1,14 @@
+<frameset>
+  <predicate lemma="sob">
+    <roleset id="sob.01" name="to weep,  cry">
+      <roles>
+        <role descr="weeper" f="PAG" n="0"/>
+      </roles>
+    </roleset>
+    <roleset id="sob.02" name="short of breath">
+      <roles>
+        <role descr="entity who can't catch their breath" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

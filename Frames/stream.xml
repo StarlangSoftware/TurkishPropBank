@@ -1,0 +1,24 @@
+<frameset>
+  <predicate lemma="stream">
+    <roleset id="stream.01" name="release liquids">
+      <roles>
+        <role descr="leaking container" f="dir" n="0"/>
+        <role descr="substance leaked" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="stream.02" name="move like water down a path">
+      <roles>
+        <role descr="substance (ie, water)" f="pag" n="1"/>
+        <role descr="path" f="dir" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="stream.03" name="send data in real time over the internet">
+      <roles>
+        <role descr="agent" f="pag" n="0"/>
+        <role descr="data" f="ppt" n="1"/>
+        <role descr="source of data" f="dir" n="2"/>
+        <role descr="end point of data" f="gol" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

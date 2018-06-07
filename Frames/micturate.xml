@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="micturate">
+    <roleset id="micturate.01" name="urination">
+      <roles>
+        <role descr="Agent" f="pag" n="0"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

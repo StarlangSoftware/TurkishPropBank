@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="unreel">
+    <roleset id="unreel.01" name="remove from a reel">
+      <roles>
+        <role descr="remover" f="PAG" n="0"/>
+        <role descr="thing removed" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="reemphasize">
+    <roleset id="reemphasize.01" name="emphasize again">
+      <roles>
+        <role descr="emphasizer" f="pag" n="0"/>
+        <role descr="utterance" f="ppt" n="1"/>
+        <role descr="hearer" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="suicidal">
+    <roleset id="suicidal.01" name="inclined to end one's own life">
+      <roles>
+        <role descr="stimulus" f="cau" n="0"/>
+        <role descr="suicidal entity" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

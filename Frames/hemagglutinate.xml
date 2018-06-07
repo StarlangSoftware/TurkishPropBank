@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="hemagglutinate">
+    <roleset id="hemagglutinate.01" name="agglutination of red blood cells">
+      <roles>
+        <role descr="Cause of hemagglutination" f="pag" n="0"/>
+        <role descr="Agglutinated entity, explicit mention of red blood cells" f="ppt" n="1"/>
+        <role descr="Instrument" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

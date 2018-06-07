@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="tickle">
+    <roleset id="tickle.01" name="to touch in such a way as to induce laughter   and/or crying">
+      <roles>
+        <role descr="tickler, agent" f="PAG" n="0"/>
+        <role descr="thing tickled, patient" f="PPT" n="1"/>
+        <role descr="instrument of tickling" f="MNR" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

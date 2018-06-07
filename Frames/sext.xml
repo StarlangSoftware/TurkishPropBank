@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="sext">
+    <roleset id="sext.01" name="send a sexy text message">
+      <roles>
+        <role descr="text sender" f="pag" n="0"/>
+        <role descr="message" f="ppt" n="1"/>
+        <role descr="recepient" f="gol" n="2"/>
+        <role descr="subject matter of text (about what)" f="vsp" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

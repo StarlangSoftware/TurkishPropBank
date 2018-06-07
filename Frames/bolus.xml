@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="bolus">
+    <roleset id="bolus.01" name="give a large one-time dose of drugs via iv">
+      <roles>
+        <role descr="doctor" f="pag" n="0"/>
+        <role descr="patient" f="ppt" n="1"/>
+        <role descr="medication" f="mnr" n="2"/>
+        <role descr="condition treated" f="prp" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="inconclusive">
+    <roleset id="inconclusive.01" name="undecided or unable to be decided">
+      <roles>
+        <role descr="source of not enough information" f="pag" n="0"/>
+        <role descr="non-conclusion" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

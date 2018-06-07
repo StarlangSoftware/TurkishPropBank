@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="subcutaneous">
+    <roleset id="subcutaneous.01" name="under the skin">
+      <roles>
+        <role descr="entity under the skin" f="ppt" n="1"/>
+        <role descr="in relation to" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

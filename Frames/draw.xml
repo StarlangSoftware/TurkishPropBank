@@ -1,0 +1,39 @@
+<frameset>
+  <predicate lemma="draw">
+    <roleset id="draw.01" name="art, the action of illustrating/making pictures with a writing implement">
+      <roles>
+        <role descr="artist" f="pag" n="0"/>
+        <role descr="art" f="ppt" n="1"/>
+        <role descr="benefactive" f="gol" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="draw.02" name="pull, extract, withdraw">
+      <roles>
+        <role descr="puller" f="pag" n="0"/>
+        <role descr="thing pulled" f="ppt" n="1"/>
+        <role descr="source" f="dir" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="draw.05" name="brandish a weapon">
+      <roles>
+        <role descr="armed one" f="pag" n="0"/>
+        <role descr="weapon" f="ppt" n="1"/>
+        <role descr="adversary" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="draw_up">
+    <roleset id="draw_up.03" name="art: compose">
+      <roles>
+        <role descr="artist" f="pag" n="0"/>
+        <role descr="thing drawn" f="ppt" n="1"/>
+        <role descr="benefactive" f="gol" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="draw_up.04" name="move">
+      <roles>
+        <role descr="entity in motion" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

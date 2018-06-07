@@ -1,0 +1,17 @@
+<frameset>
+  <predicate lemma="worth">
+    <roleset id="worth.01" name="economic value">
+      <roles>
+        <role descr="thing having value" f="pag" n="1"/>
+        <role descr="value (amount)" f="vsp" n="2"/>
+        <role descr="entity recognizing value" f="gol" n="3"/>
+      </roles>
+    </roleset>
+    <roleset id="worth.02" name="worthy of, deserving">
+      <roles>
+        <role descr="worthy thing" f="pag" n="1"/>
+        <role descr="worthy of what" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

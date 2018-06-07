@@ -1,0 +1,15 @@
+<frameset>
+  <predicate lemma="goof">
+    <roleset id="goof.01" name="mess up">
+      <roles>
+        <role descr="goofer" f="pag" n="0"/>
+      </roles>
+    </roleset>
+    <roleset id="goof.02" name="be silly, mess around, not be serious">
+      <roles>
+        <role descr="goofy one" f="pag" n="0"/>
+        <role descr="entity played with" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

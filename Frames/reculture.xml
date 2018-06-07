@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="reculture">
+    <roleset id="reculture.01" name="perform a culture again">
+      <roles>
+        <role descr="agent; lab tech" f="PAG" n="0"/>
+        <role descr="patient; bacteria grown" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

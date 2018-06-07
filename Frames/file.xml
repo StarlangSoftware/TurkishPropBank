@@ -1,0 +1,18 @@
+<frameset>
+  <predicate lemma="file">
+    <roleset id="file.01" name="paperwork, seek, claim, call for">
+      <roles>
+        <role descr="filer" f="pag" n="0"/>
+        <role descr="file" f="ppt" n="1"/>
+        <role descr="filed-with" f="gol" n="2"/>
+        <role descr="filed against" f="gol" n="3"/>
+        <role descr="purpose of filing" f="prp" n="4"/>
+      </roles>
+    </roleset>
+    <roleset id="file.03" name="walk in a straight line">
+      <roles>
+        <role descr="walker" f="ppt" n="0"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

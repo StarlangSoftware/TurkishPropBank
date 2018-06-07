@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="fuzz">
+    <roleset id="fuzz.01" name="make fuzzy, wooly, not having hard edges">
+      <roles>
+        <role descr="causer of fuzziness" f="pag" n="0"/>
+        <role descr="fuzzy thing" f="ppt" n="1"/>
+        <role descr="specific aspect of arg1 that is fuzzy" f="vsp" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="unreported">
+    <roleset id="unreported.01" name="not reported">
+      <roles>
+        <role descr="non-reporter" f="pag" n="0"/>
+        <role descr="information not reported" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

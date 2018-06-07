@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="scoot">
+    <roleset id="scoot.01" name="move moderately quickly">
+      <roles>
+        <role descr="causal agent" f="pag" n="0"/>
+        <role descr="entity being scooted" f="ppt" n="1"/>
+        <role descr="path" f="loc" n="2"/>
+        <role descr="destination" f="gol" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

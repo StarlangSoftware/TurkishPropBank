@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="laminate">
+    <roleset id="laminate.01" name="coat with plastic">
+      <roles>
+        <role descr="applier of plastic, agent" f="PAG" n="0"/>
+        <role descr="thing covered with plastic" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

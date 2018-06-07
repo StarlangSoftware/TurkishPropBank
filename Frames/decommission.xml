@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="decommission">
+    <roleset id="decommission.01" name="to revoke a commission or   authorization">
+      <roles>
+        <role descr="revoker, agent" f="pag" n="0"/>
+        <role descr="task" f="ppt" n="1"/>
+        <role descr="recepient" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

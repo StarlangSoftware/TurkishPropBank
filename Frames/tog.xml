@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="tog">
+    <roleset id="tog.01" name="tog">
+      <roles>
+        <role descr="entity putting on clothes" f="pag" n="0"/>
+        <role descr="entity dressed up, decorated, wearing clothes (often reflexive)" f="ppt" n="1"/>
+        <role descr="clothing itself or attribute; dressed up as what?" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

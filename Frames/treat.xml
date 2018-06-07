@@ -1,0 +1,49 @@
+<frameset>
+  <predicate lemma="treat">
+    <roleset id="treat.01" name="act towards an entity in a certain manner, assume that something has a particular attribute">
+      <roles>
+        <role descr="assumer of attribute" f="pag" n="0"/>
+        <role descr="entity treated" f="ppt" n="1"/>
+        <role descr="attribute" f="prd" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="treat.02" name="buy for someone">
+      <roles>
+        <role descr="buyer, treater" f="pag" n="0"/>
+        <role descr="treat" f="ppt" n="1"/>
+        <role descr="benefactive" f="gol" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="treat.03" name="medical treatment">
+      <roles>
+        <role descr="doctor (etc)" f="pag" n="0"/>
+        <role descr="patient" f="ppt" n="1"/>
+        <role descr="illness or injury" f="ppt" n="2"/>
+        <role descr="instrument" f="mnr" n="3"/>
+      </roles>
+    </roleset>
+    <roleset id="treat.04" name="affect a change in something by applying a substance">
+      <roles>
+        <role descr="cause of change, agent" f="pag" n="0"/>
+        <role descr="thing changing" f="ppt" n="1"/>
+        <role descr="substance, treatment" f="vsp" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="treat.05" name="handle (esp scholarly)">
+      <roles>
+        <role descr="author" f="pag" n="0"/>
+        <role descr="topic, subject" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="treatable">
+    <roleset id="treatable.06" name="able to be treated, medically">
+      <roles>
+        <role descr="doctor" f="pag" n="0"/>
+        <role descr="patient" f="ppt" n="1"/>
+        <role descr="illness or injury" f="ppt" n="2"/>
+        <role descr="instrument (treatment)" f="mnr" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

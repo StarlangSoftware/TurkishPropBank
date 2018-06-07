@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="enchant">
+    <roleset id="enchant.01" name="put under a spell">
+      <roles>
+        <role descr="cause, agent" f="pag" n="0"/>
+        <role descr="enchanted one" f="ppt" n="1"/>
+        <role descr="instrument, if agent is also present" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,16 @@
+<frameset>
+  <predicate lemma="mull">
+    <roleset id="mull.01" name="think">
+      <roles>
+        <role descr="thinker" f="PAG" n="0"/>
+        <role descr="thinking about" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="mull.02" name="simmer with spices">
+      <roles>
+        <role descr="cook" f="PAG" n="0"/>
+        <role descr="wine" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

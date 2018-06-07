@@ -1,0 +1,13 @@
+<frameset>
+  <predicate lemma="swap">
+    <roleset id="swap.01" name="exchange one thing for another">
+      <roles>
+        <role descr="agent, entity trading" f="pag" n="0"/>
+        <role descr="thing being traded (away)" f="ppt" n="1"/>
+        <role descr="other exchanger" f="com" n="2"/>
+        <role descr="other item in exchange, price, or premium; traded for or at" f="ppt" n="3"/>
+        <role descr="benefactive" f="gol" n="4"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

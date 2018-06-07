@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="reproach">
+    <roleset id="reproach.01" name="to find fault with, blame">
+      <roles>
+        <role descr="assigner of blame" f="PAG" n="0"/>
+        <role descr="guilty party" f="PPT" n="1"/>
+        <role descr="bad behavior reproached" f="CAU" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

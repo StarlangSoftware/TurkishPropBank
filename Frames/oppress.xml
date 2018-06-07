@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="oppress">
+    <roleset id="oppress.01" name="to burden with cruel or unjust impositions">
+      <roles>
+        <role descr="entity oppressing" f="PAG" n="0"/>
+        <role descr="entity oppressed" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

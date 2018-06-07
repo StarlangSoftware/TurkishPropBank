@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="overpay">
+    <roleset id="overpay.01" name="to pay too much, pay in excess">
+      <roles>
+        <role descr="payer or buyer" f="pag" n="0"/>
+        <role descr="money or attention" f="vsp" n="1"/>
+        <role descr="person being paid, destination of attention" f="gol" n="2"/>
+        <role descr="commodity, paid for what" f="ppt" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

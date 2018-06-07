@@ -1,0 +1,29 @@
+<frameset>
+  <predicate lemma="correlate">
+    <roleset id="correlate.01" name="to be mutually related">
+      <roles>
+        <role descr="causer of relation" f="PAG" n="0"/>
+        <role descr="topic, first entity in relation" f="PPT" n="1"/>
+        <role descr="with what? second entity in relation" f="PPT" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="autocorrelate">
+    <roleset id="autocorrelate.02" name="cross-correlation of something (a signal?) with itself">
+      <roles>
+        <role descr="agent/causer of correlation" f="pag" n="0"/>
+        <role descr="first (or all) instances correlated" f="ppt" n="1"/>
+        <role descr="second instance correlated" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="crosscorrelate">
+    <roleset id="crosscorrelate.03" name="compare one set of data against another">
+      <roles>
+        <role descr="agent/causer of correlation" f="pag" n="0"/>
+        <role descr="first (or all) set correlated" f="ppt" n="1"/>
+        <role descr="second set" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

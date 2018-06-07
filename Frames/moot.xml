@@ -1,0 +1,15 @@
+<frameset>
+  <predicate lemma="moot">
+    <roleset id="moot.01" name="consider, think carefully">
+      <roles>
+        <role descr="thinker" f="pag" n="0"/>
+        <role descr="object, thing under consideration" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="moot.02" name="irrelevant">
+      <roles>
+        <role descr="irrelevant thing" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

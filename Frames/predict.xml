@@ -1,0 +1,27 @@
+<frameset>
+  <predicate lemma="predict">
+    <roleset id="predict.01" name="tell the future">
+      <roles>
+        <role descr="fortune teller" f="CAU" n="0"/>
+        <role descr="prediction" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="predictable">
+    <roleset id="predictable.02" name="able to be forecast">
+      <roles>
+        <role descr="forecaster" f="pag" n="0"/>
+        <role descr="forecast" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="underpredict">
+    <roleset id="underpredict.03" name="predict to be less than is true">
+      <roles>
+        <role descr="predictor" f="pag" n="0"/>
+        <role descr="prediction" f="ppt" n="1"/>
+        <role descr="measure of difference between prediction and reality" f="ext" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="money">
+    <roleset id="money.01" name="provide money for">
+      <roles>
+        <role descr="provider" f="pag" n="0"/>
+        <role descr="project/person/cause given money" f="ppt" n="1"/>
+        <role descr="funds themselves?" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

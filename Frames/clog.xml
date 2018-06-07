@@ -1,0 +1,25 @@
+<frameset>
+  <predicate lemma="clog">
+    <roleset id="clog.01" name="style of dance">
+      <roles>
+        <role descr="dancer" f="ppt" n="0"/>
+      </roles>
+    </roleset>
+    <roleset id="clog.02" name="obstruct a passage">
+      <roles>
+        <role descr="agent (only!)" f="pag" n="0"/>
+        <role descr="passage" f="gol" n="1"/>
+        <role descr="substance blocking passage, clog itself" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="clog_up">
+    <roleset id="clog_up.03" name="obstruct a passage, phrasal">
+      <roles>
+        <role descr="agent (only!)" f="pag" n="0"/>
+        <role descr="passage" f="gol" n="1"/>
+        <role descr="substance blocking passage, clog itself" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

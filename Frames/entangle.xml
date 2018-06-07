@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="entangle">
+    <roleset id="entangle.01" name="cause to be tangled (in something)">
+      <roles>
+        <role descr="causer" f="pag" n="0"/>
+        <role descr="patient" f="ppt" n="1"/>
+        <role descr="trap, etc" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

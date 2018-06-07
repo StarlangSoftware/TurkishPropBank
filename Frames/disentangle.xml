@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="disentangle">
+    <roleset id="disentangle.01" name="end entanglement, cause to be separate">
+      <roles>
+        <role descr="causer of separation" f="PAG" n="0"/>
+        <role descr="First (or all when one constituent) thing disentangled" f="PPT" n="1"/>
+        <role descr="Second thing arg1 is disentangled from (when separate constituent)" f="PPT" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

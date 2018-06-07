@@ -1,0 +1,17 @@
+<frameset>
+  <predicate lemma="commit">
+    <roleset id="commit.01" name="pledge, designate to">
+      <roles>
+        <role descr="causal agent" f="PAG" n="0"/>
+        <role descr="entity committed" f="PPT" n="1"/>
+        <role descr="committed to" f="gol" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="commit.02" name="commit a crime">
+      <roles>
+        <role descr="criminal" f="PAG" n="0"/>
+        <role descr="crime" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

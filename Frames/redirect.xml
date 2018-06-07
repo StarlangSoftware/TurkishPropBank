@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="redirect">
+    <roleset id="redirect.01" name="to change the direction or course of">
+      <roles>
+        <role descr="director, agent" f="pag" n="0"/>
+        <role descr="entity redirected" f="ppt" n="1"/>
+        <role descr="new direction" f="dir" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

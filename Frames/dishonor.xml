@@ -1,0 +1,22 @@
+<frameset>
+  <predicate lemma="dishonor">
+    <roleset id="dishonor.01" name="bring shame upon">
+      <roles>
+        <role descr="causer of disgrace" f="PAG" n="0"/>
+        <role descr="entity dishonoured" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="dishonor.02" name="refuse to accept">
+      <roles>
+        <role descr="one rejecting" f="PAG" n="0"/>
+        <role descr="unexcepted item" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="dishonor.03" name="violate/rape">
+      <roles>
+        <role descr="assailant" f="PAG" n="0"/>
+        <role descr="victim" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

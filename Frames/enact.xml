@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="enact">
+    <roleset id="enact.01" name="pass legislation, put into practice as law">
+      <roles>
+        <role descr="legislative body, enactor" f="pag" n="0"/>
+        <role descr="thing enacted" f="ppt" n="1"/>
+        <role descr="redundant mention of law" f="vsp" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

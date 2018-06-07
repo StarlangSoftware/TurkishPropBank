@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="sulphur">
+    <roleset id="sulphur.01" name="sulphur">
+      <roles>
+        <role descr="causer of sulphuring, agent" f="PAG" n="0"/>
+        <role descr="sulphur proper, theme" f="PPT" n="1"/>
+        <role descr="thing sulphured, destination" f="GOL" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

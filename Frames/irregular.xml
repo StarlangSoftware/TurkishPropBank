@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="irregular">
+    <roleset id="irregular.01" name="contrary, unusual">
+      <roles>
+        <role descr="unusual thing" f="ppt" n="1"/>
+        <role descr="unusal to; unusal where/how" f="loc" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

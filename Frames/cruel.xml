@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="cruel">
+    <roleset id="cruel.01" name="inflicting suffering">
+      <roles>
+        <role descr="agent of cruel behavior" f="pag" n="0"/>
+        <role descr="cruel action/behavior" f="ppt" n="1"/>
+        <role descr="affected entity, target of cruel behavior" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

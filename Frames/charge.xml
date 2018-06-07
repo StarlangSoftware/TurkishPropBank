@@ -1,0 +1,60 @@
+<frameset>
+  <predicate lemma="charge">
+    <roleset id="charge.01" name="asking price">
+      <roles>
+        <role descr="seller" f="pag" n="0"/>
+        <role descr="asking price" f="vsp" n="1"/>
+        <role descr="buyer" f="gol" n="2"/>
+        <role descr="commodity" f="cau" n="3"/>
+      </roles>
+    </roleset>
+    <roleset id="charge.02" name="walk quickly">
+      <roles>
+        <role descr="entity in motion" f="ppt" n="0"/>
+        <role descr="path" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="charge.03" name="supply, as with electricity">
+      <roles>
+        <role descr="supplier" f="pag" n="0"/>
+        <role descr="battery, usually" f="gol" n="1"/>
+        <role descr="instrument (defaults to electricity)" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="charge.04" name="buy on credit">
+      <roles>
+        <role descr="buyer" f="pag" n="0"/>
+        <role descr="thing charged (amount, item)" f="ppt" n="1"/>
+        <role descr="credit" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="charge.05" name="make an allegation or criminal charge against someone">
+      <roles>
+        <role descr="assigner" f="pag" n="0"/>
+        <role descr="assigned" f="ppt" n="1"/>
+        <role descr="role or crime" f="prd" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="charge.06" name="allege (an utterance or complement clause)">
+      <roles>
+        <role descr="speaker" f="pag" n="0"/>
+        <role descr="utterance" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="charge.08" name="to be in charge of something, have a responsibility or role">
+      <roles>
+        <role descr="Person assigning responsibility (rare)" f="pag" n="0"/>
+        <role descr="Person that the responsibility is assigned to" f="ppt" n="1"/>
+        <role descr="responsibility itself, role" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="charge_off">
+    <roleset id="charge_off.07" name="charge off: emit hastily(?)">
+      <roles>
+        <role descr="sender" f="pag" n="0"/>
+        <role descr="thing sent" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

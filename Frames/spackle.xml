@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="spackle">
+    <roleset id="spackle.01" name="to fill or repair with plastic paste">
+      <roles>
+        <role descr="repair person applying spackle" f="pag" n="0"/>
+        <role descr="thing repaired, spackled (destination of paste)" f="gol" n="1"/>
+        <role descr="mention of spackle itself" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

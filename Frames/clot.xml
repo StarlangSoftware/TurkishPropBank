@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="clot">
+    <roleset id="clot.01" name="form into a solidified mass">
+      <roles>
+        <role descr="Cause of clotting" f="pag" n="0"/>
+        <role descr="Entity clotted" f="ppt" n="1"/>
+        <role descr="Instrument or manner" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

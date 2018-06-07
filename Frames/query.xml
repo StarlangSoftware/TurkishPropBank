@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="query">
+    <roleset id="query.01" name="ask">
+      <roles>
+        <role descr="asker, querier" f="pag" n="0"/>
+        <role descr="oracle, answerer" f="gol" n="1"/>
+        <role descr="question" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

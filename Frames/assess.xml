@@ -1,0 +1,19 @@
+<frameset>
+  <predicate lemma="assess">
+    <roleset id="assess.01" name="to evaluate, appraise, estimate the value of">
+      <roles>
+        <role descr="assessor, agent" f="pag" n="0"/>
+        <role descr="entity assessed" f="ppt" n="1"/>
+        <role descr="value or attribute" f="prd" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="assess.02" name="to charge with a tax, fine, or special payment">
+      <roles>
+        <role descr="entity fining/charging" f="pag" n="0"/>
+        <role descr="fine or money charged" f="ppt" n="1"/>
+        <role descr="entity fined/taxed" f="gol" n="2"/>
+        <role descr="cause or misdeed" f="cau" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

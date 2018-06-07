@@ -1,0 +1,18 @@
+<frameset>
+  <predicate lemma="tan">
+    <roleset id="tan.01" name="(cause to) become a darker brown color">
+      <roles>
+        <role descr="causer of tanning (eg sun)" f="pag" n="0"/>
+        <role descr="tan entity" f="ppt" n="1"/>
+        <role descr="description of tan, attribute of arg1" f="prd" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="tan.02" name="tan in color">
+      <roles>
+        <role descr="causer of tanning (eg sun)" f="pag" n="0"/>
+        <role descr="tan entity" f="ppt" n="1"/>
+        <role descr="description of tan, attribute of arg1" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

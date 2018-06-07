@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="decay">
+    <roleset id="decay.01" name="rot, become unwholesome">
+      <roles>
+        <role descr="thing decaying" f="ppt" n="0"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

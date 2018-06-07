@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="honest">
+    <roleset id="honest.01" name="forthright, truth-telling">
+      <roles>
+        <role descr="honest Abe" f="ppt" n="0"/>
+        <role descr="about what subject matter; the truth" f="ppt" n="1"/>
+        <role descr="listener" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

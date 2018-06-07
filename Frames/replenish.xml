@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="replenish">
+    <roleset id="replenish.01" name="refill">
+      <roles>
+        <role descr="agent of filling (animate only!)" f="PAG" n="0"/>
+        <role descr="container" f="GOL" n="1"/>
+        <role descr="substance" f="PPT" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

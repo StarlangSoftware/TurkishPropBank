@@ -1,0 +1,30 @@
+<frameset>
+  <predicate lemma="manage">
+    <roleset id="manage.01" name="supervise, control">
+      <roles>
+        <role descr="manager" f="pag" n="0"/>
+        <role descr="thing managed" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="manage.02" name="scrape by, accomplish by extraordinary means">
+      <roles>
+        <role descr="manager" f="pag" n="0"/>
+        <role descr="deed accomplished" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="manageable">
+    <roleset id="manageable.03" name="able to be controlled">
+      <roles>
+        <role descr="manager" f="pag" n="0"/>
+        <role descr="thing managed" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="manageable.04" name="accomplishable, but only by barely scraping by">
+      <roles>
+        <role descr="entity just scraping by" f="pag" n="0"/>
+        <role descr="deed accomplished" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

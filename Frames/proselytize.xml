@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="proselytize">
+    <roleset id="proselytize.01" name="convert">
+      <roles>
+        <role descr="proselytizer" f="pag" n="0"/>
+        <role descr="proselytized" f="ppt" n="1"/>
+        <role descr="new faith, party, institution, or cause" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,34 @@
+<frameset>
+  <predicate lemma="pile">
+    <roleset id="pile.01" name="make a pile">
+      <roles>
+        <role descr="piler" f="pag" n="0"/>
+        <role descr="substance being piled" f="ppt" n="1"/>
+        <role descr="explicit mention of pile, or destination/location" f="gol" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="pile.03" name="move in an untidy fashion">
+      <roles>
+        <role descr="entity in motion" f="ppt" n="1"/>
+        <role descr="destination" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="pile_up">
+    <roleset id="pile_up.02" name="make a pile">
+      <roles>
+        <role descr="agent of piling" f="pag" n="0"/>
+        <role descr="substance being piled" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="pile_on">
+    <roleset id="pile_on.04" name="add to a pile">
+      <roles>
+        <role descr="agent of piling" f="pag" n="0"/>
+        <role descr="substance being piled" f="ppt" n="1"/>
+        <role descr="explicit mention of pile" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

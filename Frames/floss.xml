@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="floss">
+    <roleset id="floss.01" name="cleaning with string for healthy gums, cleaning between with string">
+      <roles>
+        <role descr="Flosser" f="PAG" n="0"/>
+        <role descr="Teeth, gums" f="PPT" n="1"/>
+        <role descr="Floss itself, instrument" f="MNR" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

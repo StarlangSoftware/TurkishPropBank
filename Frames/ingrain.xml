@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="ingrain">
+    <roleset id="ingrain.01" name="etch, impress or mark">
+      <roles>
+        <role descr="etcher" f="pag" n="0"/>
+        <role descr="surface" f="gol" n="1"/>
+        <role descr="image, impression, ideas" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

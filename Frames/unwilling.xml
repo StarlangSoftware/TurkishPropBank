@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="unwilling">
+    <roleset id="unwilling.01" name="not agreeable to some state/action">
+      <roles>
+        <role descr="agent, stubborn one" f="pag" n="0"/>
+        <role descr="state/action not agreed to" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

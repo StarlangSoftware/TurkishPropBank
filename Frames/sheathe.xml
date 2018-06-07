@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="sheathe">
+    <roleset id="sheathe.01" name="to put into a sheath">
+      <roles>
+        <role descr="sheather" f="PAG" n="0"/>
+        <role descr="thing sheathed" f="PPT" n="1"/>
+        <role descr="sheath, location" f="GOL" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

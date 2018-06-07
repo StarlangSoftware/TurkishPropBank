@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="mosey">
+    <roleset id="mosey.01" name="mosey">
+      <roles>
+        <role descr="entity moseying" f="ppt" n="1"/>
+        <role descr="start point" f="dir" n="2"/>
+        <role descr="end point" f="loc" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

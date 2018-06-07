@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="inefficient">
+    <roleset id="inefficient.01" name="ineffective, wasteful of time and effort">
+      <roles>
+        <role descr="efficient entity" f="pag" n="1"/>
+        <role descr="action/effect completed efficiently" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

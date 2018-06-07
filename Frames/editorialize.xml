@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="editorialize">
+    <roleset id="editorialize.01" name="express an opinion in print">
+      <roles>
+        <role descr="author" f="pag" n="0"/>
+        <role descr="opinion" f="ppt" n="1"/>
+        <role descr="subject/source of opinion" f="ppt" n="2"/>
+        <role descr="medium: location/publication" f="loc" n="m"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

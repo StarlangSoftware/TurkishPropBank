@@ -1,0 +1,13 @@
+<frameset>
+  <predicate lemma="engineer">
+    <roleset id="engineer.01" name="make, devise, with some difficulty, planning technically">
+      <roles>
+        <role descr="engineer" f="pag" n="0"/>
+        <role descr="engineered" f="ppt" n="1"/>
+        <role descr="specific aspect of arg1 being engineered, if in addition to arg1" f="vsp" n="2"/>
+        <role descr="source material, if in addition to arg1" f="mnr" n="3"/>
+        <role descr="attribute/purpose of arg1" f="prd" n="4"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

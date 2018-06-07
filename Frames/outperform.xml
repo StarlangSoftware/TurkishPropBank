@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="outperform">
+    <roleset id="outperform.01" name="perform better">
+      <roles>
+        <role descr="better performer" f="pag" n="0"/>
+        <role descr="other performer" f="ppt" n="1"/>
+        <role descr="margin" f="ext" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

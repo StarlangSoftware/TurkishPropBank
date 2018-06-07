@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="auguster">
+    <roleset id="auguster.01" name="movement, interstellar?">
+      <roles>
+        <role descr="thing in motion" f="ppt" n="1"/>
+        <role descr="destination" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,18 @@
+<frameset>
+  <predicate lemma="swim">
+    <roleset id="swim.01" name="move through water">
+      <roles>
+        <role descr="swimmer" f="PPT" n="0"/>
+        <role descr="course (e.g. channel)" f="ppt" n="1"/>
+        <role descr="to where? destination, end state" f="gol" n="2"/>
+        <role descr="from where? source" f="dir" n="3"/>
+      </roles>
+    </roleset>
+    <roleset id="swim.02" name="feel dizzy">
+      <roles>
+        <role descr="head" f="PPT" n="1"/>
+        <role descr="cause" f="PAG" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

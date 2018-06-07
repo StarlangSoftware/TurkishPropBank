@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="immunosuppress">
+    <roleset id="immunosuppress.01" name="supressing of immune function, having immune function suppressed">
+      <roles>
+        <role descr="Causer of immunosuppression" f="pag" n="0"/>
+        <role descr="Entity suppressed" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

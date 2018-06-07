@@ -1,0 +1,18 @@
+<frameset>
+  <predicate lemma="process">
+    <roleset id="process.01" name="do something to, putting through the steps of a procedure">
+      <roles>
+        <role descr="processor" f="pag" n="0"/>
+        <role descr="thing processed" f="ppt" n="1"/>
+        <role descr="end state" f="prd" n="2"/>
+        <role descr="start state" f="vsp" n="3"/>
+      </roles>
+    </roleset>
+    <roleset id="process.02" name="logistics of doing something">
+      <roles>
+        <role descr="agent" f="PAG" n="0"/>
+        <role descr="(purpose of) the process" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

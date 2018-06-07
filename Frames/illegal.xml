@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="illegal">
+    <roleset id="illegal.01" name="against the law">
+      <roles>
+        <role descr="unlawful activity" f="pag" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

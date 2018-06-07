@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="stenose">
+    <roleset id="stenose.101" name="to grow bony tissue resulting in closing space between bony structures">
+      <roles>
+        <role descr="Causer of stenosis" f="pag" n="0"/>
+        <role descr="Tissue stenosing" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="superimportant">
+    <roleset id="superimportant.01" name="extremely important">
+      <roles>
+        <role descr="important entity" f="ppt" n="1"/>
+        <role descr="for/to whom/what; beneficiary" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,16 @@
+<frameset>
+  <predicate lemma="wiggle">
+    <roleset id="wiggle.01" name="mode of motion">
+      <roles>
+        <role descr="entity in motion" f="ppt" n="0"/>
+        <role descr="path" f="loc" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="wiggle.02" name="cause to wiggle">
+      <roles>
+        <role descr="causer" f="PAG" n="0"/>
+        <role descr="thing wiggling" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

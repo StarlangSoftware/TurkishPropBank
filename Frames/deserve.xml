@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="deserve">
+    <roleset id="deserve.01" name="deserve">
+      <roles>
+        <role descr="deserving entity (entity who is owed)" f="pag" n="0"/>
+        <role descr="thing deserved" f="ppt" n="1"/>
+        <role descr="in-exhange-for" f="prp" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

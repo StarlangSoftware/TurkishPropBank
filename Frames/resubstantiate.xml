@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="resubstantiate">
+    <roleset id="resubstantiate.01" name="reinforce or support again with proof">
+      <roles>
+        <role descr="agent, entity re-offering support/proof" f="pag" n="0"/>
+        <role descr="proposition re-supported" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

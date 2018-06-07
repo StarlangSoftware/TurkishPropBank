@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="irk">
+    <roleset id="irk.01" name="annoy slightly">
+      <roles>
+        <role descr="causer of annoyance" f="pag" n="0"/>
+        <role descr="entity getting annoyed" f="ppt" n="1"/>
+        <role descr="instrument, if separate from arg0" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

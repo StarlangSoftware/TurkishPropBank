@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="bubble">
+    <roleset id="bubble.01" name="emit in bubbly fashion">
+      <roles>
+        <role descr="emitter" f="dir" n="0"/>
+        <role descr="thing emit" f="ppt" n="1"/>
+        <role descr="particle describing motion of bubbles" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

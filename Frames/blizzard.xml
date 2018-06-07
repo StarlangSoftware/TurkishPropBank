@@ -1,0 +1,14 @@
+<frameset>
+  <predicate lemma="blizzard">
+    <roleset id="blizzard.01" name="natural disaster: severe blowing snow storm">
+      <roles>
+        
+        <role descr="mention of snow" f="ppt" n="1"/>
+        <role descr="depth of snow" f="ext" n="2"/>
+        <role descr="death/injury toll" f="vsp" n="3"/>
+        <role descr="damages/cost" f="vsp" n="4"/>
+        <role descr="wind speed" f="ext" n="5"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

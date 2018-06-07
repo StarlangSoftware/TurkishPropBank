@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="overpresent">
+    <roleset id="overpresent.01" name="overrepresent; present (statistically) more often than is true or fair">
+      <roles>
+        <role descr="agent of (re)presentation" f="PAG" n="0"/>
+        <role descr="entity (re)presented" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

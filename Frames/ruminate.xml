@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="ruminate">
+    <roleset id="ruminate.01" name="to reflect on over and over again">
+      <roles>
+        <role descr="thinker" f="ppt" n="0"/>
+        <role descr="topic, thing ruminated over" f="pag" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

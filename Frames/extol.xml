@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="extol">
+    <roleset id="extol.01" name="laud, praise">
+      <roles>
+        <role descr="agent, honorer" f="pag" n="0"/>
+        <role descr="entity extolled" f="ppt" n="1"/>
+        <role descr="for what,as what" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="understudy">
+    <roleset id="understudy.01" name="understudy">
+      <roles>
+        <role descr="understudy, agent" f="PAG" n="0"/>
+        <role descr="role understudied for, theme" f="GOL" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

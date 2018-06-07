@@ -1,0 +1,18 @@
+<frameset>
+  <predicate lemma="americanize">
+    <roleset id="americanize.01" name="make more american">
+      <roles>
+        <role descr="causer, agent" f="PAG" n="0"/>
+        <role descr="victim" f="PPT" n="1"/>
+        <role descr="instrument" f="MNR" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="american">
+    <roleset id="american.02" name="or origin in america">
+      <roles>
+        <role descr="American entity" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

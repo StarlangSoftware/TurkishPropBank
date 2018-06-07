@@ -1,0 +1,42 @@
+<frameset>
+  <predicate lemma="fit">
+    <roleset id="fit.01" name="CAUSE TO fit">
+      <roles>
+        <role descr="agent, causer of fitting; must be present for this sense to apply" f="pag" n="0"/>
+        <role descr="thing that fits" f="ppt" n="1"/>
+        <role descr="fits whom, what, where" f="gol" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="fit.03" name="ready, primed">
+      <roles>
+        <role descr="entity who is primed, ready" f="ppt" n="1"/>
+        <role descr="to what" f="prd" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="fit.04" name="have a paroxysm">
+      <roles>
+        <role descr="experiencer" f="ppt" n="1"/>
+        <role descr="type or nature of attack" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="fit.05" name="in good physical condition; healthy and athletic">
+      <roles>
+        <role descr="healthy one" f="pag" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="fit.06" name="be the right size; stative sense">
+      <roles>
+        <role descr="thing that fits" f="ppt" n="1"/>
+        <role descr="fits what, where" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="fit_in">
+    <roleset id="fit_in.02" name="fit in a specific place due to suitable features">
+      <roles>
+        <role descr="first or all things fitting in" f="ppt" n="1"/>
+        <role descr="second thing, fitting in with what" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

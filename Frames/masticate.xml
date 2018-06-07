@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="masticate">
+    <roleset id="masticate.01" name="chew">
+      <roles>
+        <role descr="chewer" f="PAG" n="0"/>
+        <role descr="meal" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

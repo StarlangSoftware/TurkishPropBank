@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="alkylate">
+    <roleset id="alkylate.01" name="introduce an alkyl radical into (a compound)">
+      <roles>
+        <role descr="Agent" f="pag" n="0"/>
+        <role descr="Compound alkylated" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

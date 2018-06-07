@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="japan">
+    <roleset id="japan.01" name="coat with lacquer">
+      <roles>
+        <role descr="causer of coloration" f="pag" n="0"/>
+        <role descr="thing with color" f="ppt" n="1"/>
+        <role descr="the color itself" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

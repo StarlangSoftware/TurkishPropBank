@@ -1,0 +1,30 @@
+<frameset>
+  <predicate lemma="book">
+    <roleset id="book.01" name="record charges, fees or records">
+      <roles>
+        <role descr="officer, agent doing booking" f="pag" n="0"/>
+        <role descr="criminal, person or value being booked" f="ppt" n="1"/>
+        <role descr="crime, what you are booked for or as" f="cau" n="2"/>
+        <role descr="prison, place booked into" f="gol" n="3"/>
+      </roles>
+    </roleset>
+    <roleset id="book.03" name="schedule (perhaps fully); purchase a ticker or appointment">
+      <roles>
+        <role descr="person buying/scheduling the activity/appointment" f="pag" n="0"/>
+        <role descr="activity/room booked; tickets" f="ppt" n="1"/>
+        <role descr="schedule owner" f="gol" n="2"/>
+        <role descr="the schedule itself" f="gol" n="3"/>
+        <role descr="booking agent, if different from arg0" f="mnr" n="4"/>
+        <role descr="itinerary, time of activity" f="tmp" n="5"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="book_up">
+    <roleset id="book_up.02" name="book completely">
+      <roles>
+        <role descr="booker, entity making reservation, etc" f="pag" n="0"/>
+        <role descr="booked, hotel, etc." f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

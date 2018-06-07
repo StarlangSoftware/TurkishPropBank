@@ -1,0 +1,18 @@
+<frameset>
+  <predicate lemma="reason">
+    <roleset id="reason.01" name="think logically">
+      <roles>
+        <role descr="thinker" f="pag" n="0"/>
+        <role descr="thought" f="ppt" n="1"/>
+        <role descr="with whom?" f="com" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="reasonable">
+    <roleset id="reasonable.02" name="being of moderate, prudent, or well-thought-out nature">
+      <roles>
+        <role descr="reasonable entity/act (may require concatenation)" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

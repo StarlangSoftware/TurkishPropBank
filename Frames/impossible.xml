@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="impossible">
+    <roleset id="impossible.01" name="not able to be accomplished">
+      <roles>
+        <role descr="impossible thing (may require concatenation)" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

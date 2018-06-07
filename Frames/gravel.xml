@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="gravel">
+    <roleset id="gravel.01" name="cover with gravel">
+      <roles>
+        <role descr="Landscaper, causer of gravel-covering" f="PAG" n="0"/>
+        <role descr="land covered in gravel" f="GOL" n="1"/>
+        <role descr="gravel itself, type of gravel" f="PPT" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

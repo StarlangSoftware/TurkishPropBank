@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="atraumatic">
+    <roleset id="atraumatic.01" name="not showing signs of trauma">
+      <roles>
+        <role descr="would-be causer of trauma" f="pag" n="0"/>
+        <role descr="entity showing signs of trauma" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

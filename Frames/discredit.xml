@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="discredit">
+    <roleset id="discredit.01" name="cause to lose prestige">
+      <roles>
+        <role descr="causal agent" f="PAG" n="0"/>
+        <role descr="thing losing prestige" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

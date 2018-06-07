@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="gunfire">
+    <roleset id="gunfire.06" name="shooting of a gun">
+      <roles>
+        <role descr="shooter" f="pag" n="0"/>
+        <role descr="gun/projectile" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

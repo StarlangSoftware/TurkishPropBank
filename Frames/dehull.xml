@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="dehull">
+    <roleset id="dehull.01" name="remove covering of a seed">
+      <roles>
+        <role descr="remover" f="PAG" n="0"/>
+        <role descr="seed" f="DIR" n="1"/>
+        <role descr="husk, thing removed" f="PPT" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,22 @@
+<frameset>
+  <predicate lemma="punish">
+    <roleset id="punish.01" name="to subject to a penalty for an offense">
+      <roles>
+        <role descr="punisher, agent" f="pag" n="0"/>
+        <role descr="punished" f="ppt" n="1"/>
+        <role descr="punished-for" f="cau" n="2"/>
+        <role descr="mention of punishment itself" f="mnr" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="punishable">
+    <roleset id="punishable.02" name="subject to penalty">
+      <roles>
+        <role descr="punisher, agent" f="pag" n="0"/>
+        <role descr="punished" f="ppt" n="1"/>
+        <role descr="punished-for" f="cau" n="2"/>
+        <role descr="mention of punishment itself" f="mnr" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

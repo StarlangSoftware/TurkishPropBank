@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="audacious">
+    <roleset id="audacious.01" name="bold, brazen">
+      <roles>
+        <role descr="bold entity/action (may require concatenation)" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

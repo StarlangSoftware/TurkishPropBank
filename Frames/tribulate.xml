@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="tribulate">
+    <roleset id="tribulate.01" name="(cause to) experience great troubles">
+      <roles>
+        <role descr="agent/causer of great trouble" f="pag" n="0"/>
+        <role descr="entity experiencing great trouble" f="ppt" n="1"/>
+        <role descr="domain/descriptor of trouble" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

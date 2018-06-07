@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="fear">
+    <roleset id="fear.01" name="fear, afraid">
+      <roles>
+        <role descr="scaredy cat" f="ppt" n="0"/>
+        <role descr="afraid of" f="ppt" n="1"/>
+        <role descr="afraid for" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

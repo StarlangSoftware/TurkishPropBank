@@ -1,0 +1,34 @@
+<frameset>
+  <predicate lemma="tease">
+    <roleset id="tease.01" name="discover bit by bit, get out">
+      <roles>
+        <role descr="agent, discoverer" f="pag" n="0"/>
+        <role descr="thing discovered" f="ppt" n="1"/>
+        <role descr="from where, source" f="dir" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="tease.02" name="tease, make fun of">
+      <roles>
+        <role descr="agent, teaser" f="pag" n="0"/>
+        <role descr="patient, teased" f="ppt" n="1"/>
+        <role descr="about what" f="cau" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="tease.03" name="do bad things to hair">
+      <roles>
+        <role descr="evildoer, agent" f="pag" n="0"/>
+        <role descr="hair" f="ppt" n="1"/>
+        <role descr="end result" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="tease_out">
+    <roleset id="tease_out.04" name="discover bit by bit, phrasal">
+      <roles>
+        <role descr="agent, discoverer" f="pag" n="0"/>
+        <role descr="thing discovered" f="ppt" n="1"/>
+        <role descr="from where, source" f="dir" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

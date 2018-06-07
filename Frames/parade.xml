@@ -1,0 +1,17 @@
+<frameset>
+  <predicate lemma="parade">
+    <roleset id="parade.01" name="walk showily">
+      <roles>
+        <role descr="agent" f="pag" n="0"/>
+        <role descr="entity being paraded" f="pag" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="parade.02" name="celebratory march/showing">
+      <roles>
+        <role descr="marching/celebrating entities" f="pag" n="1"/>
+        <role descr="party, occasion" f="prp" n="2"/>
+        <role descr="thing being displayed" f="loc" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

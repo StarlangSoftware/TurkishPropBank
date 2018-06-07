@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="experience">
+    <roleset id="experience.01" name="have a sensation or experience">
+      <roles>
+        <role descr="experiencer" f="ppt" n="0"/>
+        <role descr="experienced" f="cau" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

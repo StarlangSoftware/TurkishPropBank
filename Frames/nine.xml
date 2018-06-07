@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="nine">
+    <roleset id="nine.01" name="consisting of a quantity of 9">
+      <roles>
+        <role descr="thing that is nine" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

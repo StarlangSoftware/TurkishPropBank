@@ -1,0 +1,15 @@
+<frameset>
+  <predicate lemma="benchsitting">
+    <roleset id="benchsitting.01" name="hanging out on a bench, in a sitting position">
+      <roles>
+        <role descr="entity sitting on a bench" f="pag" n="0"/>
+      </roles>
+    </roleset>
+    <roleset id="benchsitting.02" name="on the team but not playing, in sports">
+      <roles>
+        <role descr="player on the bench" f="pag" n="0"/>
+        <role descr="team played for" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

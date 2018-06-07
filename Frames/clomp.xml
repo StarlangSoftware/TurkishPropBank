@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="clomp">
+    <roleset id="clomp.01" name="walk in a loud, exaggerated manner">
+      <roles>
+        <role descr="theme. entity in motion" f="PPT" n="1"/>
+        <role descr="destination" f="LOC" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

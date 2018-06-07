@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="acetylate">
+    <roleset id="acetylate.01" name="introduce an acetyl group into a compound">
+      <roles>
+        <role descr="agent of acetylation (e.g. scientist)" f="pag" n="0"/>
+        <role descr="thing acetylated (material/source)" f="ppt" n="1"/>
+        <role descr="instrument" f="mnr" n="2"/>
+        <role descr="product of acetylation" f="prd" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

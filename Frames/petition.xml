@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="petition">
+    <roleset id="petition.01" name="request support, to address a petition to,">
+      <roles>
+        <role descr="asker, agent" f="pag" n="0"/>
+        <role descr="request" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

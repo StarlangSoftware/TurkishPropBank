@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="embolize">
+    <roleset id="embolize.01" name="process by which a vessel is obstructed by an embolus, to introduce or cause embolism">
+      <roles>
+        <role descr="agent, if intentionally embolizing" f="pag" n="0"/>
+        <role descr="entity embolized" f="ppt" n="1"/>
+        <role descr="instrument, embolus itself" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

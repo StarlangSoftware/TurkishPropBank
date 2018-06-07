@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="divaricate">
+    <roleset id="divaricate.01" name="branch at a wide angle">
+      <roles>
+        <role descr="causer of branching" f="pag" n="0"/>
+        <role descr="thing splitting" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

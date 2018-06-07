@@ -1,0 +1,15 @@
+<frameset>
+  <predicate lemma="sluice_down">
+    <roleset id="sluice_down.01" name="clean as if by using a sluice">
+      <roles>
+        <role descr="sluicer" f="PAG" n="0"/>
+        <role descr="thing sluiced, location" f="loc" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="sluice_down.02" name="flow as if a sluice has opened">
+      <roles>
+        <role descr="substance" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

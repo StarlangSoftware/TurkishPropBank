@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="ubiquitous">
+    <roleset id="ubiquitous.01" name="omnipresent">
+      <roles>
+        <role descr="omnipresent thing" f="pag" n="1"/>
+        <role descr="ubiquitous to what condition/situation" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

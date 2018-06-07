@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="decongest">
+    <roleset id="decongest.01" name="cause to become unclogged">
+      <roles>
+        <role descr="Agent" f="pag" n="0"/>
+        <role descr="Passage" f="ppt" n="1"/>
+        <role descr="Substance previously blocking passage" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

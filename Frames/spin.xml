@@ -1,0 +1,34 @@
+<frameset>
+  <predicate lemma="spin">
+    <roleset id="spin.01" name="move in circular fashion, circular movement">
+      <roles>
+        <role descr="causative agent" f="pag" n="0"/>
+        <role descr="thing spinning" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="spin.03" name="tell tales, biased presentation">
+      <roles>
+        <role descr="storyteller" f="pag" n="0"/>
+        <role descr="story" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="spin.04" name="create through spinning">
+      <roles>
+        <role descr="creator" f="pag" n="0"/>
+        <role descr="creation" f="prd" n="1"/>
+        <role descr="raw material" f="vsp" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="spin_off">
+    <roleset id="spin_off.02" name="spin off: create a new entity based on an existing entity">
+      <roles>
+        <role descr="creator" f="pag" n="0"/>
+        <role descr="thing created" f="ppt" n="1"/>
+        <role descr="source" f="dir" n="2"/>
+        <role descr="benefactive" f="gol" n="3"/>
+        <role descr="attribute, secondary predication" f="prd" n="4"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

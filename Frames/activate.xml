@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="activate">
+    <roleset id="activate.01" name="make active">
+      <roles>
+        <role descr="activator" f="PAG" n="0"/>
+        <role descr="thing now active" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

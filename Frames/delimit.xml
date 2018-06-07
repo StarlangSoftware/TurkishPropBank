@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="delimit">
+    <roleset id="delimit.01" name="eastablish boundaries that define something">
+      <roles>
+        <role descr="causer of boundary divide" f="pag" n="0"/>
+        <role descr="boundary marker" f="mnr" n="1"/>
+        <role descr="item being defined" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

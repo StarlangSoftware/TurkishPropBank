@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="occur">
+    <roleset id="occur.01" name="occur, take place">
+      <roles>
+        <role descr="event" f="ppt" n="1"/>
+        <role descr="benefactive" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

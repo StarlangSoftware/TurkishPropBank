@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="flood">
+    <roleset id="flood.01" name="cover with a liquid, to fill with an excess, filling past capacity with liquid">
+      <roles>
+        <role descr="causer" f="pag" n="0"/>
+        <role descr="location flooded" f="gol" n="1"/>
+        <role descr="liquid" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,39 @@
+<frameset>
+  <predicate lemma="build">
+    <roleset id="build.01" name="construct">
+      <roles>
+        <role descr="builder" f="pag" n="0"/>
+        <role descr="construction" f="prd" n="1"/>
+        <role descr="material, start state" f="vsp" n="2"/>
+        <role descr="end state" f="prd" n="4"/>
+      </roles>
+    </roleset>
+    <roleset id="build.02" name="grow">
+      <roles>
+        <role descr="thing growing, building" f="pag" n="0"/>
+        <role descr="place grown, substrate, material" f="ppt" n="1"/>
+        <role descr="amount increased by, EXT or MNR" f="ext" n="2"/>
+        <role descr="start point" f="dir" n="3"/>
+        <role descr="end point" f="gol" n="4"/>
+      </roles>
+    </roleset>
+    <roleset id="build.03" name="include">
+      <roles>
+        <role descr="agent, entity causing some grouping" f="pag" n="0"/>
+        <role descr="theme, thing being included in some group" f="ppt" n="1"/>
+        <role descr="group" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="build_up">
+    <roleset id="build_up.05" name="build up: cause to be bigger">
+      <roles>
+        <role descr="builder" f="pag" n="0"/>
+        <role descr="construction, bigger thing" f="ppt" n="1"/>
+        <role descr="amount of change, EXT" f="ext" n="2"/>
+        <role descr="start point" f="dir" n="3"/>
+        <role descr="end point, end state of arg1" f="prd" n="4"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

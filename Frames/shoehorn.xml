@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="shoehorn">
+    <roleset id="shoehorn.01" name="put into a container with some difficulty">
+      <roles>
+        <role descr="putter" f="PAG" n="0"/>
+        <role descr="thing put" f="PPT" n="1"/>
+        <role descr="put in, container" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

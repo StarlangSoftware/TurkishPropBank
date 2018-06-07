@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="crest">
+    <roleset id="crest.01" name="come over the top of a hill, etc.">
+      <roles>
+        <role descr="entity in motion" f="PAG" n="0"/>
+        <role descr="hill" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

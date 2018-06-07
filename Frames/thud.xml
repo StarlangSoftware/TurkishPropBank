@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="thud">
+    <roleset id="thud.01" name="hit, make a thudding sound">
+      <roles>
+        <role descr="thing thudding" f="PPT" n="0"/>
+        <role descr="thing hit (NOT Location)" f="LOC" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

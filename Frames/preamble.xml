@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="preamble">
+    <roleset id="preamble.01" name="preliminary statement">
+      <roles>
+        <role descr="speaker" f="pag" n="0"/>
+        <role descr="subject matter, statement" f="ppt" n="1"/>
+        <role descr="preamble to what" f="dir" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

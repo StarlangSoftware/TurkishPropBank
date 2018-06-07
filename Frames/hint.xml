@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="hint">
+    <roleset id="hint.01" name="say, giving a clue, suggesting">
+      <roles>
+        <role descr="Sayer" f="PAG" n="0"/>
+        <role descr="Utterance (hint)" f="PPT" n="1"/>
+        <role descr="Hearer" f="GOL" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

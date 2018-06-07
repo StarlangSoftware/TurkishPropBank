@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="constrain">
+    <roleset id="constrain.01" name="prevent, hinder">
+      <roles>
+        <role descr="preventer, hinderer, Agent" f="cau" n="0"/>
+        <role descr="Theme (action or object being prevented)" f="ppt" n="1"/>
+        <role descr="secondary predication or action" f="gol" n="2"/>
+        <role descr="instrument" f="mnr" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

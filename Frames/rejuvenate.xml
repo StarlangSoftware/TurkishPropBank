@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="rejuvenate">
+    <roleset id="rejuvenate.01" name="to make fresh or new again">
+      <roles>
+        <role descr="agent, cause" f="pag" n="0"/>
+        <role descr="patient, entity freshened" f="ppt" n="1"/>
+        <role descr="instrument" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

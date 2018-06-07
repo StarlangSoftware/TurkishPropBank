@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="hamstring">
+    <roleset id="hamstring.01" name="to make ineffective or powerless">
+      <roles>
+        <role descr="causer of ineffectiveness, agent" f="PAG" n="0"/>
+        <role descr="entity made powerless" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

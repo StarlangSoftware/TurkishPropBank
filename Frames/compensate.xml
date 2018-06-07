@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="compensate">
+    <roleset id="compensate.01" name="pay back">
+      <roles>
+        <role descr="payer or buyer" f="PAG" n="0"/>
+        <role descr="thing bought or paid for, compensated for what?" f="PPT" n="1"/>
+        <role descr="seller or person being paid" f="gol" n="2"/>
+        <role descr="price paid (unlikely)" f="PPT" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

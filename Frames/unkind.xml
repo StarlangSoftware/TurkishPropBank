@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="unkind">
+    <roleset id="unkind.01" name="not nice to">
+      <roles>
+        <role descr="agent of unkindness" f="pag" n="0"/>
+        <role descr="unkind action/thing" f="ppt" n="1"/>
+        <role descr="target of unkind behavior" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

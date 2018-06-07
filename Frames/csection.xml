@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="csection">
+    <roleset id="csection.01" name="surgical birth">
+      <roles>
+        <role descr="doctor" f="pag" n="0"/>
+        <role descr="soon to be mother, patient" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

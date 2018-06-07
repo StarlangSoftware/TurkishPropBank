@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="panic">
+    <roleset id="panic.01" name="be all afluster, cause to be terrified">
+      <roles>
+        <role descr="stimulus" f="pag" n="0"/>
+        <role descr="poor fearful entity" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="careless">
+    <roleset id="careless.01" name="not careful">
+      <roles>
+        <role descr="careless entity/action" f="pag" n="0"/>
+        <role descr="with regards to what" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

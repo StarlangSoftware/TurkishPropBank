@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="reverse">
+    <roleset id="reverse.01" name="turn around, change direction, switch to the opposite direction/state">
+      <roles>
+        <role descr="agent of reversal" f="pag" n="0"/>
+        <role descr="thing being reversed" f="ppt" n="1"/>
+        <role descr="beneficiary of the reversal" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

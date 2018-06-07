@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="maroon">
+    <roleset id="maroon.01" name="abandon in a remote place, e.g. a desert island">
+      <roles>
+        <role descr="abandoner" f="pag" n="0"/>
+        <role descr="entity abandoned" f="ppt" n="1"/>
+        <role descr="desert island" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,24 @@
+<frameset>
+  <predicate lemma="buck">
+    <roleset id="buck.01" name="go against some trend">
+      <roles>
+        <role descr="bucker" f="PAG" n="0"/>
+        <role descr="trend" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="buck.02" name="strive for with determination">
+      <roles>
+        <role descr="striver" f="PAG" n="0"/>
+        <role descr="thing to be attained" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="buck_up">
+    <roleset id="buck_up.03" name="take courage, chin up">
+      <roles>
+        <role descr="entity taking courage" f="pag" n="0"/>
+        <role descr="about what" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

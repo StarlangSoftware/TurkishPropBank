@@ -1,0 +1,33 @@
+<frameset>
+  <predicate lemma="sound">
+    <roleset id="sound.01" name="seem, appear, to the ear">
+      <roles>
+        <role descr="thing seeming" f="pag" n="1"/>
+        <role descr="attribute of arg1" f="prd" n="2"/>
+        <role descr="viewer" f="ppt" n="3"/>
+      </roles>
+    </roleset>
+    <roleset id="sound.02" name="make a sound, production of noise">
+      <roles>
+        <role descr="agent who activates arg1" f="pag" n="0"/>
+        <role descr="noise-maker" f="ppt" n="1"/>
+        <role descr="the sound itself (the name of the sound/song, etc., not just a characteristic)" f="ppt" n="2"/>
+        <role descr="characteristic of the sound" f="adj" n="3"/>
+      </roles>
+    </roleset>
+    <roleset id="sound.04" name="do an ultrasound">
+      <roles>
+        <role descr="agent; doctor; technician" f="pag" n="0"/>
+        <role descr="subject" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="sound_off">
+    <roleset id="sound_off.03" name="offer an opinion or complaint about something">
+      <roles>
+        <role descr="speaker" f="pag" n="0"/>
+        <role descr="topic" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

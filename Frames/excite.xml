@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="excite">
+    <roleset id="excite.01" name="make excited, stimulating">
+      <roles>
+        <role descr="Stimulus of excitement" f="pag" n="0"/>
+        <role descr="excited entity" f="ppt" n="1"/>
+        <role descr="instrument, if separate from arg0" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

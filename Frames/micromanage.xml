@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="micromanage">
+    <roleset id="micromanage.01" name="control in a detailed, meddlesome manner">
+      <roles>
+        <role descr="manager" f="pag" n="0"/>
+        <role descr="thing managed" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

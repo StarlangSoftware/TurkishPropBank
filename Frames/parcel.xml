@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="parcel_out">
+    <roleset id="parcel_out.01" name="to divide into parts and distribute">
+      <roles>
+        <role descr="divider, agent" f="pag" n="0"/>
+        <role descr="entity parceled out" f="ppt" n="1"/>
+        <role descr="recipient" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

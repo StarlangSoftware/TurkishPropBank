@@ -1,0 +1,17 @@
+<frameset>
+  <predicate lemma="capitalize">
+    <roleset id="capitalize.01" name="provide with cash value">
+      <roles>
+        <role descr="assigner" f="pag" n="0"/>
+        <role descr="assigned to" f="ppt" n="1"/>
+        <role descr="value" f="prd" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="capitalize.02" name="take advantage of">
+      <roles>
+        <role descr="exploiter" f="pag" n="0"/>
+        <role descr="thing exploited" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

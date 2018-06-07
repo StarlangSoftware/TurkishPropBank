@@ -1,0 +1,83 @@
+<frameset>
+  <predicate lemma="start">
+    <roleset id="start.01" name="begin">
+      <roles>
+        <role descr="Agent" f="pag" n="0"/>
+        <role descr="Theme(-Creation)" f="ppt" n="1"/>
+        <role descr="Instrument" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="start.06" name="begin traveling toward">
+      <roles>
+        <role descr="traveler" f="pag" n="0"/>
+        <role descr="path" f="loc" n="1"/>
+        <role descr="destination" f="gol" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="start.101" name="to put someone on particular medicine or diet">
+      <roles>
+        <role descr="Doctor" f="pag" n="0"/>
+        <role descr="Patient" f="ppt" n="1"/>
+        <role descr="medicine/diet/course of treatment" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="start.03" name="be startled, reaction to surprise">
+      <roles>
+        <role descr="startled entity" f="pag" n="0"/>
+        <role descr="cause of startlement" f="cau" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="start.09" name="housing starts/attribute">
+      <roles>
+        <role descr="theme" f="ppt" n="1"/>
+        <role descr="value" f="vsp" n="2"/>
+        <role descr="secondary-theme" f="ppt" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="start_off">
+    <roleset id="start_off.02" name="phrasal aspectual">
+      <roles>
+        <role descr="causal agent" f="pag" n="0"/>
+        <role descr="event" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="start_up">
+    <roleset id="start_up.04" name="begin, phrasal">
+      <roles>
+        <role descr="Agent" f="pag" n="0"/>
+        <role descr="Theme(-Creation)" f="ppt" n="1"/>
+        <role descr="Instrument" f="mnr" n="2"/>
+        <role descr="secondary predication on arg1" f="prd" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="start_out">
+    <roleset id="start_out.05" name="begin, phrasal">
+      <roles>
+        <role descr="Agent" f="pag" n="0"/>
+        <role descr="Object" f="ppt" n="1"/>
+        <role descr="secondary predication (can be used on arg0 or arg1)" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="start_in">
+    <roleset id="start_in.07" name="begin to harangue">
+      <roles>
+        <role descr="speaker" f="pag" n="0"/>
+        <role descr="topic of the harangue" f="ppt" n="1"/>
+        <role descr="hearer" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="start_over">
+    <roleset id="start_over.08" name="start_over: once more, from the top">
+      <roles>
+        <role descr="agent/cause of starting" f="pag" n="0"/>
+        <role descr="thing starting again" f="ppt" n="1"/>
+        <role descr="starting point" f="dir" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

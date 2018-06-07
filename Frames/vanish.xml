@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="vanish">
+    <roleset id="vanish.01" name="disappear">
+      <roles>
+        <role descr="thing disappearing" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

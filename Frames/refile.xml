@@ -1,0 +1,19 @@
+<frameset>
+  <predicate lemma="refile">
+    <roleset id="refile.01" name="paperwork">
+      <roles>
+        <role descr="refiler" f="pag" n="0"/>
+        <role descr="file" f="ppt" n="1"/>
+        <role descr="refiled-with" f="com" n="2"/>
+        <role descr="refiled against" f="gol" n="3"/>
+        <role descr="purpose of filing" f="prp" n="4"/>
+      </roles>
+    </roleset>
+    <roleset id="refile.02" name="seek, claim, call for">
+      <roles>
+        <role descr="refiler" f="pag" n="0"/>
+        <role descr="claim" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

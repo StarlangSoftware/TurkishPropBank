@@ -1,0 +1,14 @@
+<frameset>
+  <predicate lemma="crude">
+    <roleset id="crude.01" name="vulgar">
+      <roles>
+        <role descr="vulgar entity/act" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="crude.02" name="unrefined, rough, unprocessed">
+      <roles>
+        <role descr="unrefined substance, entity" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

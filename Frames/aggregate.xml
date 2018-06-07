@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="aggregate">
+    <roleset id="aggregate.01" name="to bring together, collect into one sum, mass, or body">
+      <roles>
+        <role descr="entity aggregating something" f="pag" n="0"/>
+        <role descr="thing/stuff aggregated" f="ppt" n="1"/>
+        <role descr="attribute, descriptor of state where arg1 aggregates" f="loc" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

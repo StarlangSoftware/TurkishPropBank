@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="peacekeep">
+    <roleset id="peacekeep.01" name="maintain peace">
+      <roles>
+        <role descr="peacekeeper" f="pag" n="0"/>
+        <role descr="arg name" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

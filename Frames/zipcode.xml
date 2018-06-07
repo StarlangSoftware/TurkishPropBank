@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="zipcode">
+    <roleset id="zipcode.01" name="zipcode">
+      <roles>
+        <role descr="zip-coder, code-writer, agent" f="PAG" n="0"/>
+        <role descr="code itself, theme" f="PPT" n="1"/>
+        <role descr="thing zipcoded, destination" f="GOL" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

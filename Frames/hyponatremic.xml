@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="hyponatremic">
+    <roleset id="hyponatremic.01" name="having high blood sodium level">
+      <roles>
+        <role descr="entity with high blood sodium" f="ppt" n="1"/>
+        <role descr="sodium level" f="vsp" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

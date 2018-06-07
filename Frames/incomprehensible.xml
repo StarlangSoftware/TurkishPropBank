@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="incomprehensible">
+    <roleset id="incomprehensible.01" name="incapable of being explained, understood">
+      <roles>
+        <role descr="person, entity incapable of understanding X" f="pag" n="0"/>
+        <role descr="X, which can't be understood" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="nettle">
+    <roleset id="nettle.01" name="vex or irritate">
+      <roles>
+        <role descr="causer" f="pag" n="0"/>
+        <role descr="Nettled entity" f="ppt" n="1"/>
+        <role descr="Instrument or Manner if separate from arg 0" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

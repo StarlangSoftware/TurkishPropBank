@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="unopacified">
+    <roleset id="unopacified.01" name="not having become opaque (us. by absorption of dye)">
+      <roles>
+        <role descr="causer of lack of opacity (what causes dye not to reach arg1)" f="pag" n="0"/>
+        <role descr="thing that has not become opaque" f="gol" n="1"/>
+        <role descr="dye, opacifying substance" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

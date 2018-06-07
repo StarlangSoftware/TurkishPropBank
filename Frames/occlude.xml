@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="occlude">
+    <roleset id="occlude.01" name="to obstruct or block an opening, obstructing, blocking an opening">
+      <roles>
+        <role descr="Blocker, agent" f="pag" n="0"/>
+        <role descr="Theme (action or object blocked)" f="ppt" n="1"/>
+        <role descr="Secondary predication, Arg1 stopped from what" f="gol" n="2"/>
+        <role descr="Instrument" f="mnr" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

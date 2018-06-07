@@ -1,0 +1,13 @@
+<frameset>
+  <predicate lemma="degenerate">
+    <roleset id="degenerate.01" name="become bad, becoming bad or worse">
+      <roles>
+        <role descr="causer of something becoming bad (rarely or never occuring)" f="pag" n="0"/>
+        <role descr="thing getting worse" f="ppt" n="1"/>
+        <role descr="EXT" f="ext" n="2"/>
+        <role descr="start point" f="dir" n="3"/>
+        <role descr="end point" f="gol" n="4"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

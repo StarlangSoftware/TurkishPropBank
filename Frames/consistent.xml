@@ -1,0 +1,15 @@
+<frameset>
+  <predicate lemma="consistent">
+    <roleset id="consistent.01" name="be in parallel with, in accordance with">
+      <roles>
+        <role descr="topic, theme" f="ppt" n="1"/>
+        <role descr="compared with" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="consistent.02" name="frequent; regular; adhering to the same habit or principle">
+      <roles>
+        <role descr="action that is regularly done" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

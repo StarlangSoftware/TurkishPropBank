@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="understaff">
+    <roleset id="understaff.01" name="fail to provide enough staff support">
+      <roles>
+        <role descr="entity responsible for hiring staff" f="pag" n="0"/>
+        <role descr="event/job understaffed" f="gol" n="1"/>
+        <role descr="employees in short supply" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

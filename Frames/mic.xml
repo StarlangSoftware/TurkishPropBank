@@ -1,0 +1,19 @@
+<frameset>
+  <predicate lemma="mic">
+    <roleset id="mic.01" name="set up microphones">
+      <roles>
+        <role descr="Agent, setter up" f="pag" n="0"/>
+        <role descr="entity wired" f="ppt" n="1"/>
+        <role descr="other entity or end state" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="mic_up">
+    <roleset id="mic_up.02" name="attach a mic">
+      <roles>
+        <role descr="cause of attachment" f="pag" n="0"/>
+        <role descr="entity wired" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

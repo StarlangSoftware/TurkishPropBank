@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="nestle">
+    <roleset id="nestle.01" name="lie cozily">
+      <roles>
+        <role descr="causer of nestling" f="PAG" n="0"/>
+        <role descr="thing being cozy" f="PPT" n="1"/>
+        <role descr="location of nestling" f="LOC" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

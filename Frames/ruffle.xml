@@ -1,0 +1,16 @@
+<frameset>
+  <predicate lemma="ruffle">
+    <roleset id="ruffle.01" name="cause consternation">
+      <roles>
+        <role descr="causer of consternation" f="PAG" n="0"/>
+        <role descr="victim" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="ruffle.02" name="cause to be not smooth">
+      <roles>
+        <role descr="unsmoother" f="PAG" n="0"/>
+        <role descr="unsmooth thing" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

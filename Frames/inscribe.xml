@@ -1,0 +1,19 @@
+<frameset>
+  <predicate lemma="inscribe">
+    <roleset id="inscribe.01" name="engrave">
+      <roles>
+        <role descr="Agent, engraver" f="pag" n="0"/>
+        <role descr="surface" f="gol" n="1"/>
+        <role descr="message" f="ppt" n="2"/>
+      </roles>
+    
+    </roleset>
+    <roleset id="inscribe.02" name="enrollment">
+      <roles>
+        <role descr="agent" f="pag" n="0"/>
+        <role descr="entity enrolled" f="ppt" n="1"/>
+        <role descr="enrolled in what" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

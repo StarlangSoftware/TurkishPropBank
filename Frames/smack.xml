@@ -1,0 +1,24 @@
+<frameset>
+  <predicate lemma="smack">
+    <roleset id="smack.01" name="to give an indication, be suggestive of">
+      <roles>
+        <role descr="entity being suggestive" f="PAG" n="0"/>
+        <role descr="entity suggested of" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="smack.02" name="hit">
+      <roles>
+        <role descr="hitter" f="pag" n="0"/>
+        <role descr="thing hit" f="ppt" n="1"/>
+        <role descr="instrument, if separate from arg0" f="MNR" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="smack.03" name="smack the lips together, making a smacking sound">
+      <roles>
+        <role descr="smacker" f="pag" n="0"/>
+        <role descr="lips, or similar" f="ppt" n="1"/>
+        <role descr="recipient" f="MNR" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="kickoff">
+    <roleset id="kickoff.01" name="starting with a kick">
+      <roles>
+        <role descr="kicker" f="PAG" n="0"/>
+        <role descr="thing starting" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

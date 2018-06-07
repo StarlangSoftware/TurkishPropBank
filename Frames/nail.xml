@@ -1,0 +1,18 @@
+<frameset>
+  <predicate lemma="nail">
+    <roleset id="nail.01" name="pin down">
+      <roles>
+        <role descr="nailer" f="PAG" n="0"/>
+        <role descr="entity/entities nailed (each gets its own arg1)" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="nail_down">
+    <roleset id="nail_down.02" name="to narrow down, finalize">
+      <roles>
+        <role descr="finalizer" f="PAG" n="0"/>
+        <role descr="entity nailed down" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

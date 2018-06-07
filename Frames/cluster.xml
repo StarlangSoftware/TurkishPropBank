@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="cluster">
+    <roleset id="cluster.01" name="(cause to) be in a close group">
+      <roles>
+        <role descr="clusterer, agent" f="pag" n="0"/>
+        <role descr="things clustered" f="ppt" n="1"/>
+        <role descr="explicit mention of cluster" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

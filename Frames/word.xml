@@ -1,0 +1,17 @@
+<frameset>
+  <predicate lemma="word">
+    <roleset id="word.01" name="to express in words">
+      <roles>
+        <role descr="expresser, agent" f="pag" n="0"/>
+        <role descr="text" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="word.02" name="talk with">
+      <roles>
+        <role descr="talker" f="pag" n="0"/>
+        <role descr="subject" f="ppt" n="1"/>
+        <role descr="hearer" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

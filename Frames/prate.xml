@@ -1,0 +1,20 @@
+<frameset>
+  <predicate lemma="prate">
+    <roleset id="prate.01" name="talk endlessly and to little purpose (non-phrasal)">
+      <roles>
+        <role descr="talker" f="pag" n="0"/>
+        <role descr="subject matter" f="ppt" n="1"/>
+        <role descr="hearer" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="prate_on">
+    <roleset id="prate_on.02" name="prate_on: talk endlessly and to little purpose">
+      <roles>
+        <role descr="talker" f="pag" n="0"/>
+        <role descr="subject matter" f="ppt" n="1"/>
+        <role descr="hearer" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

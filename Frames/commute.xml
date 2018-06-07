@@ -1,0 +1,18 @@
+<frameset>
+  <predicate lemma="commute">
+    <roleset id="commute.01" name="go back and forth to/from work">
+      <roles>
+        <role descr="commuter" f="pag" n="0"/>
+        <role descr="one (or both) location(s), start point" f="dir" n="1"/>
+        <role descr="other location, destination" f="gol" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="commute.02" name="make a law sentence more lenient">
+      <roles>
+        <role descr="judge" f="pag" n="0"/>
+        <role descr="old sentence" f="vsp" n="1"/>
+        <role descr="new sentence" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

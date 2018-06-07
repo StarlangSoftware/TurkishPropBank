@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="astonish">
+    <roleset id="astonish.01" name="surprise, astound">
+      <roles>
+        <role descr="causer of astonishment" f="pag" n="0"/>
+        <role descr="experiencer of astonishment" f="ppt" n="1"/>
+        <role descr="instrument, if arg0 also present" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

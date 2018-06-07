@@ -1,0 +1,19 @@
+<frameset>
+  <predicate lemma="squall">
+    <roleset id="squall.01" name="utter a long loud cry">
+      <roles>
+        <role descr="One crying" f="PAG" n="0"/>
+      </roles>
+    </roleset>
+    <roleset id="squall.02" name="utter a sudden cry">
+      <roles>
+        <role descr="Yeller" f="PAG" n="0"/>
+      </roles>
+    </roleset>
+    <roleset id="squall.03" name="blow strongly">
+      <roles>
+        <role descr="Thing blowing" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

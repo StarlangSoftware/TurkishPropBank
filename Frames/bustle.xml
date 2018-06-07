@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="bustle">
+    <roleset id="bustle.01" name="to move quickly, busily">
+      <roles>
+        <role descr="entity bustling, entity in motion" f="ppt" n="0"/>
+        <role descr="location of bustling" f="loc" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

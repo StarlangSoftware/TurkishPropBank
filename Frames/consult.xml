@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="consult">
+    <roleset id="consult.01" name="get together with">
+      <roles>
+        <role descr="consulter" f="PAG" n="0"/>
+        <role descr="consulted with" f="COM" n="1"/>
+        <role descr="in regards to..." f="PPT" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

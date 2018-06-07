@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="refrigerate">
+    <roleset id="refrigerate.01" name="make cold by storing in a fridge">
+      <roles>
+        <role descr="Agent" f="pag" n="0"/>
+        <role descr="thing made cold" f="ppt" n="1"/>
+        <role descr="instrument, explicit mention of the fridge" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

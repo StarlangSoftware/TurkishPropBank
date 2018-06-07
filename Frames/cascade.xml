@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="cascade">
+    <roleset id="cascade.01" name="fall like water, flow downwards">
+      <roles>
+        <role descr="water-ish" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

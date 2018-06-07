@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="graduate">
+    <roleset id="graduate.01" name="move from one level to the next">
+      <roles>
+        <role descr="entity awarding degree" f="pag" n="0"/>
+        <role descr="graduate" f="ppt" n="1"/>
+        <role descr="old level" f="dir" n="2"/>
+        <role descr="new level" f="gol" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

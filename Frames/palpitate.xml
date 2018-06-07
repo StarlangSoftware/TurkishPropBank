@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="palpitate">
+    <roleset id="palpitate.01" name="beat or pound rapidly">
+      <roles>
+        <role descr="Palpitater" f="PPT" n="0"/>
+        <role descr="Thing beaten" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

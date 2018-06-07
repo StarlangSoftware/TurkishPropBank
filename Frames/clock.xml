@@ -1,0 +1,19 @@
+<frameset>
+  <predicate lemma="clock">
+    <roleset id="clock.01" name="measure the speed of something">
+      <roles>
+        <role descr="measurer" f="pag" n="0"/>
+        <role descr="thing measured" f="ppt" n="1"/>
+        <role descr="yardstick, standard of measurement (clock)" f="vsp" n="2"/>
+        <role descr="measurement" f="vsp" n="3"/>
+      </roles>
+    </roleset>
+    <roleset id="clock.02" name="hit (on the head?)">
+      <roles>
+        <role descr="agent, hitter - animate only!" f="pag" n="0"/>
+        <role descr="thing hit" f="ppt" n="1"/>
+        <role descr="instrument, thing hit by or with" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

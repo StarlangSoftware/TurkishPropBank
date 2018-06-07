@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="grab">
+    <roleset id="grab.01" name="to capture, obtain, taking hold of">
+      <roles>
+        <role descr="grabber" f="pag" n="0"/>
+        <role descr="entity grabbed" f="ppt" n="1"/>
+      </roles>
+    
+    </roleset>
+  </predicate>
+</frameset>

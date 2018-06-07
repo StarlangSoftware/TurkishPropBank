@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="hyperplastic">
+    <roleset id="hyperplastic.01" name="suffering abnormal excess cell growth">
+      <roles>
+        <role descr="hyperplastic entity" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

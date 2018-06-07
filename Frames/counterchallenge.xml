@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="counterchallenge">
+    <roleset id="counterchallenge.01" name="challenge in return">
+      <roles>
+        <role descr="challenger" f="pag" n="0"/>
+        <role descr="challenged (champion?)" f="gol" n="1"/>
+        <role descr="challenged-to, heroic task" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

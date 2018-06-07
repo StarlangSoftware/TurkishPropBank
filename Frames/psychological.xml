@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="psychological">
+    <roleset id="psychological.01" name="relating to the mind">
+      <roles>
+        <role descr="psychological entity" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

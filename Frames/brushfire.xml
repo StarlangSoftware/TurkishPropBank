@@ -1,0 +1,13 @@
+<frameset>
+  <predicate lemma="brushfire">
+    <roleset id="brushfire.01" name="natural disaster: wildfire in brush">
+      <roles>
+        
+        <role descr="explicit mention of vegetation burned" f="PPT" n="1"/>
+        <role descr="acre count/size" f="EXT" n="2"/>
+        <role descr="death/injury toll" f="GOL" n="3"/>
+        <role descr="damages/cost" f="GOL" n="4"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="noncontributory">
+    <roleset id="noncontributory.01" name="not adding to, giving">
+      <roles>
+        <role descr="non-giver" f="pag" n="0"/>
+        <role descr="thing not given" f="ppt" n="1"/>
+        <role descr="entity not given to" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

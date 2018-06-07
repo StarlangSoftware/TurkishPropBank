@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="misperceive">
+    <roleset id="misperceive.01" name="misunderstanding">
+      <roles>
+        <role descr="perceiver" f="pag" n="0"/>
+        <role descr="thing misperceived" f="ppt" n="1"/>
+        <role descr="as what, attribute of arg1" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

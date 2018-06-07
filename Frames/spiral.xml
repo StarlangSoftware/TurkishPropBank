@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="spiral">
+    <roleset id="spiral.01" name="move in spiral direction">
+      <roles>
+        <role descr="mover" f="pag" n="0"/>
+        <role descr="moved" f="ppt" n="1"/>
+        <role descr="destination" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

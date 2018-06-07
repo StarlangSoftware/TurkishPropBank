@@ -1,0 +1,19 @@
+<frameset>
+  <predicate lemma="peter">
+    <roleset id="peter.01" name="dwindle. (no particle)">
+      <roles>
+        <role descr="thing dwindling" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="peter_out">
+    <roleset id="peter_out.02" name="dwindle to nothing">
+      <roles>
+        <role descr="agent" f="PAG" n="0"/>
+        <role descr="thing dwindling" f="ppt" n="1"/>
+        <role descr="start state" f="dir" n="2"/>
+        <role descr="end state" f="prd" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

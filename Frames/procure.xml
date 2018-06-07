@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="procure">
+    <roleset id="procure.01" name="obtain">
+      <roles>
+        <role descr="receiver" f="pag" n="0"/>
+        <role descr="thing procured" f="ppt" n="1"/>
+        <role descr="procured from" f="DIR" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

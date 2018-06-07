@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="expert">
+    <roleset id="expert.01" name="expert">
+      <roles>
+        <role descr="capable entity, expert" f="PAG" n="1"/>
+        <role descr="expertise, expert at/in what?" f="PPT" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

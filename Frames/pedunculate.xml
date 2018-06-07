@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="pedunculate">
+    <roleset id="pedunculate.01" name="grow in a peduncle or stalk">
+      <roles>
+        <role descr="thing growing" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

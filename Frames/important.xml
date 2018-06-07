@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="important">
+    <roleset id="important.01" name="significant">
+      <roles>
+        <role descr="important thing (may require concatenation" f="ppt" n="1"/>
+        <role descr="to whom/what; beneficiary" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

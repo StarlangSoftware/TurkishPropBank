@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="affection">
+    <roleset id="affection.01" name="feel fondly towards">
+      <roles>
+        <role descr="entity feeling positive emotion" f="pag" n="0"/>
+        <role descr="target of affection" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

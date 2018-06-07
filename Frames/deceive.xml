@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="deceive">
+    <roleset id="deceive.01" name="lie to, trickery, fooling">
+      <roles>
+        <role descr="liar" f="pag" n="0"/>
+        <role descr="lied to" f="ppt" n="1"/>
+        <role descr="lied about" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

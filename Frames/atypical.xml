@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="atypical">
+    <roleset id="atypical.01" name="not usual">
+      <roles>
+        <role descr="usual thing" f="pag" n="1"/>
+        <role descr="entity arg1 is typical for/of" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="unemployed">
+    <roleset id="unemployed.01" name="not having a job">
+      <roles>
+        <role descr="employer" f="pag" n="0"/>
+        <role descr="employee" f="ppt" n="1"/>
+        <role descr="job" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

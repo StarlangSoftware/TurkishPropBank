@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="privy">
+    <roleset id="privy.01" name="allowed to know">
+      <roles>
+        <role descr="entity allowed to know" f="pag" n="1"/>
+        <role descr="special knowledge" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="purulent">
+    <roleset id="purulent.01" name="containing pus">
+      <roles>
+        <role descr="thing having pus" f="pag" n="1"/>
+        <role descr="the pus/discharge itself" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

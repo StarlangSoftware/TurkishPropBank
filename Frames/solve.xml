@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="solve">
+    <roleset id="solve.01" name="to find a solution to, solving">
+      <roles>
+        <role descr="solver" f="pag" n="0"/>
+        <role descr="the problem" f="ppt" n="1"/>
+        <role descr="manner, the solution itself" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

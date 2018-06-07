@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="debride">
+    <roleset id="debride.01" name="to remove necrotic tissue or foreign matter (f. ex. from a wound)">
+      <roles>
+        <role descr="Entity removing" f="pag" n="0"/>
+        <role descr="Thing being removed" f="ppt" n="1"/>
+        <role descr="Removed from" f="dir" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

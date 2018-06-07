@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="fortunate">
+    <roleset id="fortunate.01" name="lucky">
+      <roles>
+        <role descr="giver of luck (rare- see examples)" f="pag" n="0"/>
+        <role descr="receiver/haver of luck" f="ppt" n="1"/>
+        <role descr="lucky experience/situation-- result of luck" f="vsp" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

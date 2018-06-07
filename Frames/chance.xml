@@ -1,0 +1,17 @@
+<frameset>
+  <predicate lemma="chance">
+    <roleset id="chance.01" name="to take the risk">
+      <roles>
+        <role descr="taker of risk, agent" f="PAG" n="0"/>
+        <role descr="risk taken" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="chance.02" name="opportunity, possibility or probability">
+      <roles>
+        <role descr="entity having an opportunity" f="pag" n="0"/>
+        <role descr="the opportunity or event" f="ppt" n="1"/>
+        <role descr="likelihood" f="vsp" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

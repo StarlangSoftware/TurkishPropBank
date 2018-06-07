@@ -1,0 +1,17 @@
+<frameset>
+  <predicate lemma="will">
+    <roleset id="will.01" name="give in a will, bequeath">
+      <roles>
+        <role descr="bequeather, giver" f="pag" n="0"/>
+        <role descr="inheritance, gift" f="ppt" n="1"/>
+        <role descr="beneficiary" f="gol" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="will.02" name="desire some state/action, desiring, agreeing to">
+      <roles>
+        <role descr="desirer" f="pag" n="0"/>
+        <role descr="state/action desired" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="unable">
+    <roleset id="unable.01" name="not capable">
+      <roles>
+        <role descr="entity without ability" f="pag" n="1"/>
+        <role descr="disability itself; what is arg1 incapable of?" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

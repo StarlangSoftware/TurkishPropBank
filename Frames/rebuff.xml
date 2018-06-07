@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="rebuff">
+    <roleset id="rebuff.01" name="reject, spurn">
+      <roles>
+        <role descr="rejecter" f="PAG" n="0"/>
+        <role descr="thing rejected" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

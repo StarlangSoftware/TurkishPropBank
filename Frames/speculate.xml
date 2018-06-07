@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="speculate">
+    <roleset id="speculate.01" name="prognosticate">
+      <roles>
+        <role descr="speculator" f="pag" n="0"/>
+        <role descr="actual speculation" f="ppt" n="1"/>
+        <role descr="speculation on/about what" f="vsp" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

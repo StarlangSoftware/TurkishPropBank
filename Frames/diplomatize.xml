@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="diplomatize">
+    <roleset id="diplomatize.01" name="tactful conciliatory relations">
+      <roles>
+        <role descr="diplomat" f="pag" n="0"/>
+        <role descr="subject matter of relations" f="ppt" n="1"/>
+        <role descr="other party" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

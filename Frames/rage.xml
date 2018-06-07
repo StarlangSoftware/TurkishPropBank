@@ -1,0 +1,17 @@
+<frameset>
+  <predicate lemma="rage">
+    <roleset id="rage.01" name="speak angrily">
+      <roles>
+        <role descr="speaker" f="PAG" n="0"/>
+        <role descr="utterance" f="PPT" n="1"/>
+        <role descr="hearer" f="GOL" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="rage.02" name="be very angry, violent">
+      <roles>
+        <role descr="angry entity" f="PPT" n="0"/>
+        <role descr="target of anger" f="LOC" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

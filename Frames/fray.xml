@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="fray">
+    <roleset id="fray.01" name="to loosen, wear away">
+      <roles>
+        <role descr="causer of wear, agent" f="PAG" n="0"/>
+        <role descr="entity frayed" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

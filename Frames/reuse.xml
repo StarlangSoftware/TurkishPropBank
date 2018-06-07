@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="reuse">
+    <roleset id="reuse.01" name="take advantage of or utilise again">
+      <roles>
+        <role descr="User" f="pag" n="0"/>
+        <role descr="thing used again" f="ppt" n="1"/>
+        <role descr="purpose" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="categorize">
+    <roleset id="categorize.01" name="assign into a category">
+      <roles>
+        <role descr="assigner" f="pag" n="0"/>
+        <role descr="thing assigned" f="ppt" n="1"/>
+        <role descr="category" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

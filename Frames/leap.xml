@@ -1,0 +1,25 @@
+<frameset>
+  <predicate lemma="leap">
+    <roleset id="leap.01" name="stock prices, rise incrementally; especially for stock prices">
+      <roles>
+        <role descr="thing jumping" f="ppt" n="1"/>
+        <role descr="EXT, amount jumped by" f="ext" n="2"/>
+        <role descr="start point" f="dir" n="3"/>
+        <role descr="end point" f="gol" n="4"/>
+        <role descr="attribute, specific aspect of arg1 that is leaping" f="vsp" n="5"/>
+      </roles>
+    </roleset>
+    <roleset id="leap.02" name="be excited for an opportunity">
+      <roles>
+        <role descr="jumper" f="pag" n="0"/>
+        <role descr="opportunity" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="leap.03" name="physically leap">
+      <roles>
+        <role descr="jumper" f="ppt" n="0"/>
+        <role descr="obstacle" f="loc" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

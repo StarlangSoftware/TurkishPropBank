@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="unethical">
+    <roleset id="unethical.01" name="not morally upstanding">
+      <roles>
+        <role descr="unethical entity/act (may require concatenation)" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

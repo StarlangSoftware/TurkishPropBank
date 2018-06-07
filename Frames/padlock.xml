@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="padlock">
+    <roleset id="padlock.01" name="fasten with a padlock">
+      <roles>
+        <role descr="agent, fastener" f="pag" n="0"/>
+        <role descr="thing fastened" f="PPT" n="1"/>
+        <role descr="thing fastened to" f="PPT" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

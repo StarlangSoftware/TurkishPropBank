@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="wilt">
+    <roleset id="wilt.01" name="to become weak or droopy">
+      <roles>
+        <role descr="cause, agent" f="pag" n="0"/>
+        <role descr="patient, thing wilting" f="ppt" n="1"/>
+        <role descr="end state" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

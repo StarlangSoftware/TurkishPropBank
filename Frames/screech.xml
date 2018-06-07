@@ -1,0 +1,24 @@
+<frameset>
+  <predicate lemma="screech">
+    <roleset id="screech.01" name="(cause to) emit noise">
+      <roles>
+        <role descr="causer" f="pag" n="0"/>
+        <role descr="thing screeching" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="screech.02" name="stop">
+      <roles>
+        <role descr="agent" f="pag" n="0"/>
+        <role descr="thing stopping" f="ppt" n="1"/>
+        <role descr="explicit mention of stop" f="prd" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="screech.03" name="say, yell in a screeching manner">
+      <roles>
+        <role descr="screechy speaker" f="pag" n="0"/>
+        <role descr="Utterance" f="ppt" n="1"/>
+        <role descr="Hearer" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

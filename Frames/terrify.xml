@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="terrify">
+    <roleset id="terrify.01" name="scare very badly, scared">
+      <roles>
+        <role descr="cause of terrification" f="pag" n="0"/>
+        <role descr="terrified entity" f="ppt" n="1"/>
+        <role descr="prepositional argument" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

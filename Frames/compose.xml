@@ -1,0 +1,18 @@
+<frameset>
+  <predicate lemma="compose">
+    <roleset id="compose.01" name="to form,  constitute">
+      <roles>
+        <role descr="causer of group, agent" f="PAG" n="0"/>
+        <role descr="entity composed" f="PRD" n="1"/>
+        <role descr="composed of" f="VSP" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="compose.02" name="to create, produce art">
+      <roles>
+        <role descr="artist, agent" f="PAG" n="0"/>
+        <role descr="entity composed" f="PPT" n="1"/>
+        <role descr="beneficiary" f="GOL" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="congest">
+    <roleset id="congest.01" name="obstruct a passage, obstructed">
+      <roles>
+        <role descr="causal agent" f="pag" n="0"/>
+        <role descr="passage" f="gol" n="1"/>
+        <role descr="substance blocking passage, instrument" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

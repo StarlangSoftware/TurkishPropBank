@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="fed_up">
+    <roleset id="fed_up.01" name="frustrated, disgusted">
+      <roles>
+        <role descr="stimulus, fed up with whom/what" f="pag" n="0"/>
+        <role descr="entity experiencing frustration" f="ppt" n="1"/>
+        <role descr="for what reason" f="cau" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

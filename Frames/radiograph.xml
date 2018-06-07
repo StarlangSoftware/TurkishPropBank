@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="radiograph">
+    <roleset id="radiograph.01" name="take a picture of the insides, using xrays or other imaging techniques">
+      <roles>
+        <role descr="doctor, person running imaging system" f="pag" n="0"/>
+        <role descr="subject" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

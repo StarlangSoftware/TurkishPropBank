@@ -1,0 +1,39 @@
+<frameset>
+  <predicate lemma="trim">
+    <roleset id="trim.01" name="slice">
+      <roles>
+        <role descr="cutter" f="pag" n="0"/>
+        <role descr="thing cut" f="ppt" n="1"/>
+        <role descr="medium, source" f="dir" n="2"/>
+        <role descr="instrument" f="mnr" n="3"/>
+      </roles>
+    </roleset>
+    <roleset id="trim.02" name="reduce">
+      <roles>
+        <role descr="cutter" f="pag" n="0"/>
+        <role descr="thing reduced" f="ppt" n="1"/>
+        <role descr="amount reduced by" f="ext" n="2"/>
+        <role descr="start point" f="vsp" n="3"/>
+        <role descr="end point" f="prd" n="4"/>
+      </roles>
+    </roleset>
+    <roleset id="trim.03" name="adorn, decorate">
+      <roles>
+        <role descr="decorator" f="pag" n="0"/>
+        <role descr="thing decorated" f="gol" n="1"/>
+        <role descr="decorations" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="trim_down">
+    <roleset id="trim_down.04" name="trim down: reduce">
+      <roles>
+        <role descr="cutter" f="pag" n="0"/>
+        <role descr="thing reduced" f="ppt" n="1"/>
+        <role descr="amount reduced by" f="ext" n="2"/>
+        <role descr="start point" f="vsp" n="3"/>
+        <role descr="end point" f="prd" n="4"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="retrieve">
+    <roleset id="retrieve.01" name="get back">
+      <roles>
+        <role descr="receiver" f="pag" n="0"/>
+        <role descr="thing gotten" f="ppt" n="1"/>
+        <role descr="received from" f="dir" n="2"/>
+        <role descr="benefactive" f="gol" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="procreate">
+    <roleset id="procreate.01" name="create offspring">
+      <roles>
+        <role descr="first party" f="pag" n="0"/>
+        <role descr="second party, if separate" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,34 @@
+<frameset>
+  <predicate lemma="deepen">
+    <roleset id="deepen.01" name="make/become deeper">
+      <roles>
+        <role descr="agent, causer of deepening" f="PAG" n="0"/>
+        <role descr="thing getting deeper" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="deep">
+    <roleset id="deep.02" name="extending/located at a great distance (esp. downward)">
+      <roles>
+        <role descr="deep thing" f="ppt" n="1"/>
+        <role descr="extending/located where" f="loc" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="deep.03" name="rich in meaning, complex">
+      <roles>
+        <role descr="entity rich in meaning" f="pag" n="1"/>
+        <role descr="meaning/complexity arg1 is rich in" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="deep.04" name="low in pitch">
+      <roles>
+        <role descr="thing low in pitch" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="deep.05" name="aesthetically rich">
+      <roles>
+        <role descr="aesthetically rich thing" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

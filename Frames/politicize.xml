@@ -1,0 +1,18 @@
+<frameset>
+  <predicate lemma="politicize">
+    <roleset id="politicize.01" name="make into a political issue">
+      <roles>
+        <role descr="cause, agent" f="pag" n="0"/>
+        <role descr="issue" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="political">
+    <roleset id="political.02" name="make into a political issue, act in a political way">
+      <roles>
+        <role descr="politician" f="pag" n="0"/>
+        <role descr="political action, issue, thing" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

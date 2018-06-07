@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="delocalize">
+    <roleset id="delocalize.01" name="remove from a locality">
+      <roles>
+        <role descr="agent of delocalization (e.g. molecular process)" f="pag" n="0" />
+        <role descr="thing delocalized" f="ppt" n="1" />
+        <role descr="delocalized from, source" f="dir" n="2" />
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

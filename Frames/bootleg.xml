@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="bootleg">
+    <roleset id="bootleg.01" name="copy or manufacture illegally">
+      <roles>
+        <role descr="copier, agent" f="PAG" n="0"/>
+        <role descr="commodity" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

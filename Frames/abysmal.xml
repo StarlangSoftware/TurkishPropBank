@@ -1,0 +1,16 @@
+<frameset>
+  <predicate lemma="abysmal">
+    <roleset id="abysmal.01" name="generally terrible, in the absolute lowest ranges">
+      <roles>
+        <role descr="generally terrible entity" f="pag" n="1"/>
+        <role descr="value" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="abysmal.02" name="be extremely unskilled at">
+      <roles>
+        <role descr="unskilled entity" f="pag" n="1"/>
+        <role descr="non-skill" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="scotfree">
+    <roleset id="scotfree.01" name="without having to pay or be penalized">
+      <roles>
+        <role descr="entity getting away with something" f="ppt" n="1"/>
+        <role descr="punishment escaped" f="dir" n="2"/>
+        <role descr="action gotten away with" f="prd" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

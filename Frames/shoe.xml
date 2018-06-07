@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="shoe">
+    <roleset id="shoe.01" name="to cover with shoes">
+      <roles>
+        <role descr="Agent, person putting on shoes" f="PAG" n="0"/>
+        <role descr="Feet, entity covered with shoes" f="GOL" n="1"/>
+        <role descr="Shoes themselves, what type of shoes" f="PPT" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

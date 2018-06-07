@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="replace">
+    <roleset id="replace.01" name="substitute">
+      <roles>
+        <role descr="replacer" f="PAG" n="0"/>
+        <role descr="old thing" f="PPT" n="1"/>
+        <role descr="new thing" f="PPT" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

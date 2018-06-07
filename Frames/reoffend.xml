@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="reoffend">
+    <roleset id="reoffend.01" name="break the law/rule again, often after punishent/treatment">
+      <roles>
+        <role descr="offender" f="PAG" n="0"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

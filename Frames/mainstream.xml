@@ -1,0 +1,16 @@
+<frameset>
+  <predicate lemma="mainstream">
+    <roleset id="mainstream.01" name="incorporate into popular culture">
+      <roles>
+        <role descr="incorporator" f="pag" n="0"/>
+        <role descr="mainstream thing" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="mainstream.02" name="popularly accepted">
+      <roles>
+        <role descr="incorporator" f="pag" n="0"/>
+        <role descr="mainstream thing" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,18 @@
+<frameset>
+  <predicate lemma="hobble">
+    <roleset id="hobble.01" name="walk as if feet tied together">
+      <roles>
+        <role descr="walker" f="ppt" n="0"/>
+        <role descr="path" f="loc" n="1"/>
+        <role descr="destination" f="gol" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="hobble.02" name="tie the feet of,   metaphorically 'hinder'">
+      <roles>
+        <role descr="tier, hinderer" f="pag" n="0"/>
+        <role descr="tied, hindered" f="ppt" n="1"/>
+        <role descr="rope, instrument" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

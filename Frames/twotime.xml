@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="twotime">
+    <roleset id="twotime.01" name="simultaneous amorous affairs">
+      <roles>
+        <role descr="cheater" f="pag" n="0"/>
+        <role descr="victim" f="ppt" n="1"/>
+        <role descr="accomplice" f="com" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

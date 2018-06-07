@@ -1,0 +1,21 @@
+<frameset>
+  <predicate lemma="tag">
+    <roleset id="tag.01" name="to attach a label">
+      <roles>
+        <role descr="attacher of label, agent" f="pag" n="0"/>
+        <role descr="entity tagged" f="gol" n="1"/>
+        <role descr="label (or what the tag says)" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="tag_along">
+    <roleset id="tag_along.02" name="go along with">
+      <roles>
+        <role descr="subject accompanier" f="pag" n="0"/>
+        <role descr="object accompanier, tagged along with" f="ppt" n="1"/>
+        <role descr="start point" f="dir" n="3"/>
+        <role descr="end point" f="gol" n="4"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

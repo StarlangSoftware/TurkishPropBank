@@ -1,0 +1,37 @@
+<frameset>
+  <predicate lemma="meet">
+    <roleset id="meet.01" name="arrive at, achieve">
+      <roles>
+        <role descr="achiever, agent" f="pag" n="0"/>
+        <role descr="goal" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="meet.02" name="kennenlernen-- come upon, become acquainted with initially">
+      <roles>
+        <role descr="meeter" f="pag" n="0"/>
+        <role descr="person / entity / object being met" f="com" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="meet.03" name="get together (with), come together spatially, get together">
+      <roles>
+        <role descr="one party" f="pag" n="0"/>
+        <role descr="other party" f="com" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="meet.05" name="answer, respond to">
+      <roles>
+        <role descr="agentive answerer" f="pag" n="0"/>
+        <role descr="thing met/answered" f="ppt" n="1"/>
+        <role descr="with what" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="meet_up">
+    <roleset id="meet_up.04" name="get together">
+      <roles>
+        <role descr="first (or only mentioned plural) party" f="pag" n="0"/>
+        <role descr="other party (when separate mention)" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

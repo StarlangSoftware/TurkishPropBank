@@ -1,0 +1,20 @@
+<frameset>
+  <predicate lemma="clown">
+    <roleset id="clown.01" name="to act like a clown">
+      <roles>
+        <role descr="clown" f="pag" n="0"/>
+        <role descr="other party clowning, clown with" f="ppt" n="1"/>
+        <role descr="subject, joke, clowning about what" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="clown_around">
+    <roleset id="clown_around.02" name="to act like a clown">
+      <roles>
+        <role descr="first joker" f="pag" n="0"/>
+        <role descr="other joker, clowned-around-with" f="ppt" n="1"/>
+        <role descr="clowning around about what? subject, joke" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

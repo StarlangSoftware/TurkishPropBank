@@ -1,0 +1,14 @@
+<frameset>
+  <predicate lemma="surge">
+    <roleset id="surge.01" name="rise, move forwards">
+      <roles>
+        <role descr="agent of motion" f="pag" n="0"/>
+        <role descr="logical subject, patient, thing rising" f="ppt" n="1"/>
+        <role descr="extent, amount risen" f="ext" n="2"/>
+        <role descr="start point" f="dir" n="3"/>
+        <role descr="end point" f="gol" n="4"/>
+        <role descr="specific aspect of arg1 that is surging" f="vsp" n="5"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

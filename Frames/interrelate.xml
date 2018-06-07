@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="interrelate">
+    <roleset id="interrelate.01" name="relate">
+      <roles>
+        <role descr="causer" f="PAG" n="0"/>
+        <role descr="related item(s)" f="PPT" n="1"/>
+        <role descr="more related item(s)" f="PPT" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

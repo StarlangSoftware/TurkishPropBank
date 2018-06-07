@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="slope">
+    <roleset id="slope.01" name="to ascend or descend">
+      <roles>
+        <role descr="entity sloping" f="PPT" n="0"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

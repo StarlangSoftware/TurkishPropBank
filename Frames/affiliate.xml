@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="affiliate">
+    <roleset id="affiliate.01" name="to adopt or accept as a member, association with">
+      <roles>
+        <role descr="causer of affiliation, agent" f="PAG" n="0"/>
+        <role descr="entity affiliated" f="PPT" n="1"/>
+        <role descr="affiliated with" f="PPT" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

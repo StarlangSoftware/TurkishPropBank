@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="conjure_up">
+    <roleset id="conjure_up.01" name="create magically">
+      <roles>
+        <role descr="creator, magician" f="PAG" n="0"/>
+        <role descr="creation" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="text">
+    <roleset id="text.01" name="send a text message via cell phone">
+      <roles>
+        <role descr="text sender" f="pag" n="0"/>
+        <role descr="message" f="ppt" n="1"/>
+        <role descr="recipient" f="gol" n="2"/>
+        <role descr="subject matter of text (about what)" f="vsp" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

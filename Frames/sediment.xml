@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="sediment">
+    <roleset id="sediment.01" name="separating of a suspension of solid particles (such as red blood cells) in a concentrated solid and a supernatant liquid">
+      <roles>
+        <role descr="Agent, cause of sedimentation" f="pag" n="0"/>
+        <role descr="Entity sedimented (solid)" f="ppt" n="1"/>
+        <role descr="Source (liquid separated from)" f="dir" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

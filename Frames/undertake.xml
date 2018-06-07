@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="undertake">
+    <roleset id="undertake.01" name="to decide or agree to do, endeavor">
+      <roles>
+        <role descr="entity taking on the endeavor" f="pag" n="0"/>
+        <role descr="the endeavor" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

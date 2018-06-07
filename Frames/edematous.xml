@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="edematous">
+    <roleset id="edematous.01" name="swollen with accumulated fluid">
+      <roles>
+        <role descr="thing that is swollen" f="ppt" n="1"/>
+        <role descr="fluid" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

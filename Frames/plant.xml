@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="plant">
+    <roleset id="plant.01" name="to put or place, sewing in the ground">
+      <roles>
+        <role descr="putter, agent" f="pag" n="0"/>
+        <role descr="entity planted" f="ppt" n="1"/>
+        <role descr="location" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

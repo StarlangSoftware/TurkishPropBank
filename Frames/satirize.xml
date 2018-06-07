@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="satirize">
+    <roleset id="satirize.01" name="ridicule with satire">
+      <roles>
+        <role descr="satirizer" f="pag" n="0"/>
+        <role descr="satirized" f="ppt" n="1"/>
+        <role descr="satire" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="scarce">
+    <roleset id="scarce.01" name="in short supply">
+      <roles>
+        <role descr="entity that doesn't have very much" f="ppt" n="0"/>
+        <role descr="what there isn't very much of" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

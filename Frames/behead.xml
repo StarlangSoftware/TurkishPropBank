@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="behead">
+    <roleset id="behead.01" name="remove the head">
+      <roles>
+        <role descr="axeman, agent" f="pag" n="0"/>
+        <role descr="entity now without a head" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

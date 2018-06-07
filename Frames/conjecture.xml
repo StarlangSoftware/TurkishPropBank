@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="conjecture">
+    <roleset id="conjecture.01" name="beleive (uncertainly) something,   speculate">
+      <roles>
+        <role descr="conjecturer" f="PAG" n="0"/>
+        <role descr="belief" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

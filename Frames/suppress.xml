@@ -1,0 +1,18 @@
+<frameset>
+  <predicate lemma="suppress">
+    <roleset id="suppress.01" name="(attempt to) conceal, push down, concealing">
+      <roles>
+        <role descr="suppressor" f="PAG" n="0"/>
+        <role descr="suppressed" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="suppressible">
+    <roleset id="suppressible.02" name="able to be pushed down, attenuated">
+      <roles>
+        <role descr="suppressor" f="pag" n="0"/>
+        <role descr="suppressed" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

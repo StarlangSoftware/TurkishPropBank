@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="stirfry">
+    <roleset id="stirfry.01" name="fry by stirring">
+      <roles>
+        <role descr="chef" f="pag" n="0"/>
+        <role descr="thing cooked" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

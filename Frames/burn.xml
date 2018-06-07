@@ -1,0 +1,31 @@
+<frameset>
+  <predicate lemma="burn">
+    <roleset id="burn.01" name="(cause to) be on fire">
+      <roles>
+        <role descr="pyromaniac" f="pag" n="0"/>
+        <role descr="thing burning" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="burn_up">
+    <roleset id="burn_up.02" name="burn completely">
+      <roles>
+        <role descr="causer, agent" f="pag" n="0"/>
+        <role descr="thing burning" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="burn_out">
+    <roleset id="burn_out.03" name="burn and then be extinguished">
+      <roles>
+        <role descr="thing burning" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="burn_out.04" name="become tired of, failure/exhaustion due to overexertion">
+      <roles>
+        <role descr="experiencer" f="ppt" n="1"/>
+        <role descr="psych instrument" f="cau" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,13 @@
+<frameset>
+  <predicate lemma="fade">
+    <roleset id="fade.01" name="(cause to) become dim">
+      <roles>
+        <role descr="agent, causing fading" f="pag" n="0"/>
+        <role descr="thing fading" f="ppt" n="1"/>
+        <role descr="EXT, amount faded by" f="ext" n="2"/>
+        <role descr="start point" f="vsp" n="3"/>
+        <role descr="end point" f="prd" n="4"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

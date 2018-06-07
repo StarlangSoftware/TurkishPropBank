@@ -1,0 +1,16 @@
+<frameset>
+  <predicate lemma="early">
+    <roleset id="early.01" name="toward the beginning portion of a time period">
+      <roles>
+        <role descr="what is at the beginning of the time period" f="ppt" n="1"/>
+        <role descr="the time period" f="loc" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="early.02" name="arriving before the appointed/expected time">
+      <roles>
+        <role descr="early entity" f="ppt" n="1"/>
+        <role descr="destination, thing that was scheduled" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

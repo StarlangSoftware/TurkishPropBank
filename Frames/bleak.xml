@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="bleak">
+    <roleset id="bleak.01" name="desolate (often, of hope)">
+      <roles>
+        <role descr="desolate entity" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

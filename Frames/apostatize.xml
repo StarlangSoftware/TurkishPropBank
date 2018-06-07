@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="apostatize">
+    <roleset id="apostatize.01" name="sever or dissociate">
+      <roles>
+        <role descr="agent; the one willfully dissociating" f="pag" n="0"/>
+        <role descr="dissociated from" f="dir" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

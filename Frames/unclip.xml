@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="unclip">
+    <roleset id="unclip.01" name="unclip">
+      <roles>
+        <role descr="unclipper, agent" f="PAG" n="0"/>
+        <role descr="thing unclipped, patient" f="PPT" n="1"/>
+        <role descr="unclipped from, source" f="PPT" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

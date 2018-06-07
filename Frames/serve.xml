@@ -1,0 +1,50 @@
+<frameset>
+  <predicate lemma="serve">
+    <roleset id="serve.01" name="act, work, performance of a service">
+      <roles>
+        <role descr="worker, entity performing a service/acting in some capacity" f="pag" n="0"/>
+        <role descr="job, project, service performed" f="ppt" n="1"/>
+        <role descr="employer/recipient/beneficiary of service" f="gol" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="serve.02" name="cater (to someone or something), delivery of something concrete">
+      <roles>
+        <role descr="server" f="pag" n="0"/>
+        <role descr="thing served/delivered" f="ppt" n="1"/>
+        <role descr="served/delivered to" f="gol" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="serve.04" name="serve a sentence">
+      <roles>
+        <role descr="entity doing time" f="pag" n="0"/>
+        <role descr="sentence served (maybe given as a period of time)" f="ppt" n="1"/>
+        <role descr="crime, reason for sentence" f="cau" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="serve_up">
+    <roleset id="serve_up.03" name="provide, offer">
+      <roles>
+        <role descr="server" f="pag" n="0"/>
+        <role descr="served" f="ppt" n="1"/>
+        <role descr="served to" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="service">
+    <roleset id="service.05" name="do things to, like maintenance">
+      <roles>
+        <role descr="doer" f="pag" n="0"/>
+        <role descr="thing worked on" f="ppt" n="1"/>
+        <role descr="kind of service (thing done to arg1)" f="adj" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="service.06" name="religious service or ceremony">
+      <roles>
+        <role descr="honorer/attendees" f="pag" n="0"/>
+        <role descr="type of service" f="ppt" n="1"/>
+        <role descr="explicit mention of entity honored at the service" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

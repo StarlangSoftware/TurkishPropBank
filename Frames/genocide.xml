@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="genocide">
+    <roleset id="genocide.01" name="cause to undergo genocide">
+      <roles>
+        <role descr="agent, cause of genocide" f="pag" n="0"/>
+        <role descr="entity/people undergoing genocide" f="ppt" n="1"/>
+        <role descr="instrument of genocide" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

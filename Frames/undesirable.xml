@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="undesirable">
+    <roleset id="undesirable.01" name="not worthy of wanting">
+      <roles>
+        <role descr="non-wanter" f="pag" n="0"/>
+        <role descr="not wanted" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

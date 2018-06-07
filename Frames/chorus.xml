@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="chorus">
+    <roleset id="chorus.01" name="the act of singing in unison (not the group of singers or piece of music)">
+      <roles>
+        <role descr="singers" f="pag" n="0"/>
+        <role descr="utterance, thing sung/communicated" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

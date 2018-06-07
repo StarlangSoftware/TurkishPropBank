@@ -1,0 +1,21 @@
+<frameset>
+  <predicate lemma="common">
+    <roleset id="common.01" name="usual, average, widespread">
+      <roles>
+        <role descr="usual, average thing" f="ppt" n="1"/>
+        <role descr="entity observing, perceiving arg1 as common" f="vsp" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="common.02" name="negative connotation: course, lowly">
+      <roles>
+        <role descr="lowly thing" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="common.03" name="shared by">
+      <roles>
+        <role descr="shared thing" f="ppt" n="1"/>
+        <role descr="entities sharing arg1" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

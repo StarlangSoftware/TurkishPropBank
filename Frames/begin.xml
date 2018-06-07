@@ -1,0 +1,17 @@
+<frameset>
+  <predicate lemma="begin">
+    <roleset id="begin.01" name="start, with agent">
+      <roles>
+        <role descr="beginner, Agent" f="pag" n="0"/>
+        <role descr="Thing begun - NP, not S-node!" f="ppt" n="1"/>
+        <role descr="Instrument" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="begin.02" name="aspectual, beginning an action">
+      <roles>
+        <role descr="Action begun" f="ppt" n="1"/>
+        <role descr="Instrument, starting point" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

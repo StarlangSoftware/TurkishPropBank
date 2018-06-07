@@ -1,0 +1,19 @@
+<frameset>
+  <predicate lemma="publicize">
+    <roleset id="publicize.01" name="make widely-known">
+      <roles>
+        <role descr="publicist" f="pag" n="0"/>
+        <role descr="topic" f="ppt" n="1"/>
+        <role descr="secondary predication" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="public">
+    <roleset id="public.02" name="open/visible to general people">
+      <roles>
+        <role descr="public entity" f="ppt" n="1"/>
+        <role descr="audience arg1 is available to" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

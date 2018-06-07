@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="adjudicate">
+    <roleset id="adjudicate.01" name="to settle conflicts">
+      <roles>
+        <role descr="adjudicator" f="pag" n="0"/>
+        <role descr="decision or conflict" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

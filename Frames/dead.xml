@@ -1,0 +1,31 @@
+<frameset>
+  <predicate lemma="dead">
+    <roleset id="dead.01" name="no longer alive, active, in play">
+      <roles>
+        <role descr="agent" f="pag" n="0"/>
+        <role descr="dead entity" f="ppt" n="1"/>
+        <role descr="instrument" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="dead.02" name="'you are dead to me': sworn off, no longer acknowledged">
+      <roles>
+        <role descr="entity no longer acknowledged" f="pag" n="1"/>
+        <role descr="perciever, entity who has sworn off arg1" f="vsp" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="dead.03" name="numb, unresponsive to a stimulus">
+      <roles>
+        <role descr="stimulus to which arg1 doesn't respond" f="cau" n="0"/>
+        <role descr="numb, unresponsive entity" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="deadly">
+    <roleset id="deadly.04" name="deathly, toxic">
+      <roles>
+        <role descr="cause of death" f="pag" n="0"/>
+        <role descr="entity it is toxic for" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

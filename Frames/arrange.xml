@@ -1,0 +1,13 @@
+<frameset>
+  <predicate lemma="arrange">
+    <roleset id="arrange.01" name="build">
+      <roles>
+        <role descr="builder" f="PAG" n="0"/>
+        <role descr="construction, item/material being arranged" f="ppt" n="1"/>
+        <role descr="start state" f="VSP" n="2"/>
+        <role descr="benefactive" f="GOL" n="3"/>
+        <role descr="end state" f="PRD" n="4"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="alleviate">
+    <roleset id="alleviate.01" name="to make (pain, problems) less severe, making some problem less severe">
+      <roles>
+        <role descr="agent, causer" f="CAU" n="0"/>
+        <role descr="problems" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="besmirch">
+    <roleset id="besmirch.01" name="slander, defame">
+      <roles>
+        <role descr="causer" f="PAG" n="0"/>
+        <role descr="entity besmirched" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

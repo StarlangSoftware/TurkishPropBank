@@ -1,0 +1,38 @@
+<frameset>
+  <predicate lemma="gross">
+    <roleset id="gross.01" name="earn profits">
+      <roles>
+        <role descr="earner" f="pag" n="0"/>
+        <role descr="gross profits (not net)" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="gross.02" name="examine or study for tissue changes as a whole and without the use of an aid (ie a microscope)">
+      <roles>
+        <role descr="Doctor/ pathologist" f="pag" n="0"/>
+        <role descr="tissue studied" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="gross.03" name="complete, before deductions (financial sense)">
+      <roles>
+        <role descr="Income, thing that is complete" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="gross.04" name="visible to the naked eye; be able to see without a microscope">
+      <roles>
+        <role descr="viewer" f="pag" n="0"/>
+        <role descr="thing viewed" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="gross.05" name="disgusting, crude">
+      <roles>
+        <role descr="disgusting thing" f="ppt" n="1"/>
+        <role descr="perceiver of grossness, gross to whom?" f="gol" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="gross.06" name="conspicuous, flagrant">
+      <roles>
+        <role descr="Flagrant thing" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

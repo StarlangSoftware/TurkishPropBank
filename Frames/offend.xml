@@ -1,0 +1,29 @@
+<frameset>
+  <predicate lemma="offend">
+    <roleset id="offend.01" name="give offense, bother, take aback, insulted and in a huff">
+      <roles>
+        <role descr="offender" f="pag" n="0"/>
+        <role descr="offended" f="ppt" n="1"/>
+        <role descr="instrument, if separate from arg0" f="mnr" n="2"/>
+      </roles>
+    <note>OFFEND-V NOTES: Frames file for 'offend' based on sentences in wsj. Verbnet entry 31.1 (verbs of emotion). (from offend.01-vpredicate notes)
+OFFENSE-N NOTES: Added by Julia based on BOLT, WordNet,offend.01. Corresponds to VNcls amuse-31.1. (from offense.01-n)
+OFFENSIVE-J NOTES: Added by Julia based on BOLT-1, offend.01.Corresponds to VNcls amuse-31.1. (from offensive.01-j)
+OFFENDED-J NOTES: Added by Julia based on BOLT-1, offend.01.Corresponds to VNcls amuse-31.1. (from offended.01-j)</note>
+    </roleset>
+    <roleset id="offend.03" name="Commit an illegal act">
+      <roles>
+        <role descr="criminal" f="pag" n="0"/>
+        <role descr="crime" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="offense">
+    <roleset id="offense.02" name="making an attack">
+      <roles>
+        <role descr="the offense (attackers)" f="pag" n="0"/>
+        <role descr="the defense (victims/targets)" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

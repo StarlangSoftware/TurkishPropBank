@@ -1,0 +1,18 @@
+<frameset>
+  <predicate lemma="relieve">
+    <roleset id="relieve.01" name="help, ease, get rid of, make feel better">
+      <roles>
+        <role descr="thing relieving" f="PAG" n="0"/>
+        <role descr="thing being helped, eased, gotten rid of" f="DIR" n="1"/>
+        <role descr="benefactive" f="gol" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="relieve.02" name="make feel better">
+      <roles>
+        <role descr="reliever" f="PAG" n="0"/>
+        <role descr="patient, relieved" f="PPT" n="1"/>
+        <role descr="instrument or manner" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

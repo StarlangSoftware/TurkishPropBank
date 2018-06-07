@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="unscrupulous">
+    <roleset id="unscrupulous.01" name="not meticulous/principled">
+      <roles>
+        <role descr="unscrupulous one" f="pag" n="1"/>
+        <role descr="about what, in what domain" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

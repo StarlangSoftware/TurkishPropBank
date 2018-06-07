@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="rampage">
+    <roleset id="rampage.01" name="move wildly or violently">
+      <roles>
+        <role descr="entity in motion" f="pag" n="0"/>
+        <role descr="path" f="loc" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

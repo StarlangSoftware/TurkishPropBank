@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="linger">
+    <roleset id="linger.01" name="wait, stick around">
+      <roles>
+        <role descr="entity lingering" f="pag" n="1"/>
+        <role descr="location or state" f="loc" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

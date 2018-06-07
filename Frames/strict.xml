@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="strict">
+    <roleset id="strict.01" name="rigidly enforcing the rules">
+      <roles>
+        <role descr="enforcer" f="pag" n="0"/>
+        <role descr="rules enforced" f="ppt" n="1"/>
+        <role descr="entity subject to the rules, enforcement" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

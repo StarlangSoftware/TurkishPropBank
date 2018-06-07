@@ -1,0 +1,22 @@
+<frameset>
+  <predicate lemma="westernize">
+    <roleset id="westernize.01" name="make more western (new world), make more western (European-based cultures)">
+      <roles>
+        <role descr="agent" f="pag" n="0"/>
+        <role descr="patient" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="western">
+    <roleset id="western.02" name="relating to cultures that originated in Europe">
+      <roles>
+        <role descr="entity identified as western" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="western.03" name="relating to the old American west">
+      <roles>
+        <role descr="entity identified as of the old west" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

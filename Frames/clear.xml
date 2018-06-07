@@ -1,0 +1,75 @@
+<frameset>
+  <predicate lemma="clear">
+    <roleset id="clear.01" name="clean, make clear or open">
+      <roles>
+        <role descr="cleaner" f="pag" n="0"/>
+        <role descr="thing made clean" f="gol" n="1"/>
+        <role descr="dirt" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="clear.02" name="approve, permit">
+      <roles>
+        <role descr="agent, approver" f="pag" n="0"/>
+        <role descr="thing approved" f="ppt" n="1"/>
+        <role descr="semi-idiomatic: 'the way'" f="vsp" n="2"/>
+        <role descr="entity given permission for arg1" f="gol" n="3"/>
+      </roles>
+    </roleset>
+    <roleset id="clear.03" name="escape, avoid, get past or through">
+      <roles>
+        <role descr="escaper" f="pag" n="0"/>
+        <role descr="thing escaped" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="clear.06" name="apparent, obvious, well-explained, ">
+      <roles>
+        <role descr="Cause of clarification, evidence/facts" f="pag" n="0"/>
+        <role descr="Thing that is clear, obvious" f="ppt" n="1"/>
+        <role descr="whom it is obvious to" f="gol" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="clear.07" name="translucent">
+      <roles>
+        <role descr="thing that is translucent" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="clear.08" name="unobstructed, clean, open">
+      <roles>
+        <role descr="thing that is clear, open" f="dir" n="1"/>
+        <role descr="dirt, obstructions" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="clear.09" name="having avoided obstruction">
+      <roles>
+        <role descr="thing avoiding something else" f="pag" n="0"/>
+        <role descr="thing avoided" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="clear_up">
+    <roleset id="clear_up.04" name="become/make clear, clean, becoming, making clean or clear">
+      <roles>
+        <role descr="cleaner" f="pag" n="0"/>
+        <role descr="thing becoming clean" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="clear_out">
+    <roleset id="clear_out.05" name="remove, leave">
+      <roles>
+        <role descr="clearer, causer of leaving" f="pag" n="0"/>
+        <role descr="entity leaving or removed" f="ppt" n="1"/>
+        <role descr="place left" f="loc" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="clarify">
+    <roleset id="clarify.10" name="make clear(er)">
+      <roles>
+        <role descr="causer of clarification, agent" f="PAG" n="0"/>
+        <role descr="thing becoming clearer" f="PPT" n="1"/>
+        <role descr="benefactive" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

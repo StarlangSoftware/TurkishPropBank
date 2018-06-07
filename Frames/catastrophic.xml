@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="catastrophic">
+    <roleset id="catastrophic.01" name="extremely harmful">
+      <roles>
+        <role descr="Catastrophic thing, stimulus" f="pag" n="0"/>
+        <role descr="Catastrophic to whom? Affected entity" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

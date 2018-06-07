@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="import">
+    <roleset id="import.01" name="get a commodity in trade">
+      <roles>
+        <role descr="importer" f="pag" n="0"/>
+        <role descr="commodity" f="ppt" n="1"/>
+        <role descr="exporter" f="dir" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="digest">
+    <roleset id="digest.01" name="take in completely, like food, breaking down/processing of food">
+      <roles>
+        <role descr="eater" f="PAG" n="0"/>
+        <role descr="nutrients" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

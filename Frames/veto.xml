@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="veto">
+    <roleset id="veto.01" name="to forbid or prevent, cancel a proposition, reject">
+      <roles>
+        <role descr="agent, causer" f="PAG" n="0"/>
+        <role descr="entity vetoed" f="PPT" n="1"/>
+        <role descr="attribute" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

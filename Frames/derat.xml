@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="derat">
+    <roleset id="derat.01" name="remove rat">
+      <roles>
+        <role descr="remover" f="PAG" n="0"/>
+        <role descr="location" f="DIR" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

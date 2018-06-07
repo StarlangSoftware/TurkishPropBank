@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="outlying">
+    <roleset id="outlying.01" name="adjective, describes something   that is relatively far from a central location">
+      <roles>
+        <role descr="thing located far away" f="PAG" n="0"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

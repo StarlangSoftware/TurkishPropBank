@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="heatwave">
+    <roleset id="heatwave.01" name="natural disaster: stretch of very high temperatures">
+      <roles>
+        <role descr="temperature" f="ext" n="1"/>
+        <role descr="humidity" f="ext" n="2"/>
+        <role descr="death/injury toll" f="vsp" n="3"/>
+        <role descr="duration" f="tmp" n="4"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

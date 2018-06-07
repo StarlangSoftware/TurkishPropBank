@@ -1,0 +1,22 @@
+<frameset>
+  <predicate lemma="whiz">
+    <roleset id="whiz.01" name="whiz">
+      <roles>
+        <role descr="entity moving" f="ppt" n="1"/>
+        <role descr="EXT" f="ext" n="2"/>
+        <role descr="start point" f="dir" n="3"/>
+        <role descr="end point" f="loc" n="4"/>
+        <role descr="thing whizzed past, through" f="dir" n="m"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="whiz_away">
+    <roleset id="whiz_away.03" name="waste">
+      <roles>
+        <role descr="waster" f="pag" n="0"/>
+        <role descr="thing wasted" f="ppt" n="1"/>
+        <role descr="what arg1 is wasted on" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

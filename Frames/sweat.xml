@@ -1,0 +1,40 @@
+<frameset>
+  <predicate lemma="sweat">
+    <roleset id="sweat.01" name="perspire">
+      <roles>
+        <role descr="sweater (no, not like your grandmother made for you)" f="pag" n="0"/>
+        <role descr="the sweat itself" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="sweat.04" name="have anxiety about">
+      <roles>
+        <role descr="anxious entity" f="pag" n="0"/>
+        <role descr="cause of anxiety (often 'it')" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="sweat_out">
+    <roleset id="sweat_out.02" name="endure, last through">
+      <roles>
+        <role descr="experiencer" f="ppt" n="1"/>
+        <role descr="thing endured or period of time" f="tmp" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="sweat_off">
+    <roleset id="sweat_off.03" name="remove by sweating">
+      <roles>
+        <role descr="sweat-er" f="pag" n="0"/>
+        <role descr="thing sweat off" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="sweaty">
+    <roleset id="sweaty.05" name="covered in sweat">
+      <roles>
+        <role descr="sweater" f="pag" n="0"/>
+        <role descr="the sweat itself" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

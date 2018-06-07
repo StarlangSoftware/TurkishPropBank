@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="oscillate">
+    <roleset id="oscillate.01" name="move, swing, hover">
+      <roles>
+        <role descr="agent, cause" f="PAG" n="0"/>
+        <role descr="thing oscillating" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="extra">
+    <roleset id="extra.01" name="surplus, outide of what is required/expected">
+      <roles>
+        <role descr="surplus entity" f="pag" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

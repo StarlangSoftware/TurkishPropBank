@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="bungle">
+    <roleset id="bungle.01" name="mess up, botch">
+      <roles>
+        <role descr="bungler" f="PAG" n="0"/>
+        <role descr="thing tried" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

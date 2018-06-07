@@ -1,0 +1,15 @@
+<frameset>
+  <predicate lemma="blaze">
+    <roleset id="blaze.01" name="burn brightly">
+      <roles>
+        <role descr="thing burning" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="blaze.02" name="take on a trail like fire">
+      <roles>
+        <role descr="trail blazer" f="PAG" n="0"/>
+        <role descr="trail" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

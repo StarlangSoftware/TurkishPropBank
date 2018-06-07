@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="scam">
+    <roleset id="scam.01" name="cheat, swindle out of or into something">
+      <roles>
+        <role descr="scammer" f="pag" n="0"/>
+        <role descr="person, entity scammed" f="ppt" n="1"/>
+        <role descr="thing stolen, scammed-out of arg1 source" f="vsp" n="2"/>
+        <role descr="action arg1 is scammed, fooled into doing" f="prd" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="blue">
+    <roleset id="blue.01" name="characterized as the color blue">
+      <roles>
+        <role descr="causer of blueness" f="pag" n="0"/>
+        <role descr="blue thing" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

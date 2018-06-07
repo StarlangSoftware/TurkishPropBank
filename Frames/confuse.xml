@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="confuse">
+    <roleset id="confuse.01" name="(cause to) be confused, baffled, garbled, mistaken for another">
+      <roles>
+        <role descr="agentive cause of confusion" f="pag" n="0"/>
+        <role descr="entity experiencing confusion" f="ppt" n="1"/>
+        <role descr="confused about or over what? (first or all things)" f="vsp" n="2"/>
+        <role descr="second thing, confused arg2 with what" f="vsp" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

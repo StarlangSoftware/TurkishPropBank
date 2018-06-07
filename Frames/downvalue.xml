@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="downvalue">
+    <roleset id="downvalue.01" name="to lower the value of something">
+      <roles>
+        <role descr="cause of downvalueing" f="pag" n="0"/>
+        <role descr="thing losing value" f="ppt" n="1"/>
+        <role descr="final value" f="prd" n="2"/>
+        <role descr="original value, downvalued from what?" f="dir" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

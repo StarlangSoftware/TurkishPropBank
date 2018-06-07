@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="bleach">
+    <roleset id="bleach.01" name="whiten or blanch">
+      <roles>
+        <role descr="agent, bleacher" f="pag" n="0"/>
+        <role descr="patient, thing made lighter" f="ppt" n="1"/>
+        <role descr="end state" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

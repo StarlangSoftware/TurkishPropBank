@@ -1,0 +1,41 @@
+<frameset>
+  <predicate lemma="dig">
+    <roleset id="dig.01" name="turn over, remove soil, excavation">
+      <roles>
+        <role descr="digger" f="pag" n="0"/>
+        <role descr="hole" f="ppt" n="1"/>
+        <role descr="in what" f="loc" n="2"/>
+        <role descr="in search of" f="ppt" n="3"/>
+      </roles>
+    </roleset>
+    <roleset id="dig.04" name="to like">
+      <roles>
+        <role descr="liker" f="pag" n="0"/>
+        <role descr="thing liked" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="dig.05" name="make an aggressive remark about">
+      <roles>
+        <role descr="Speaker" f="pag" n="0"/>
+        <role descr="Comment" f="ppt" n="1"/>
+        <role descr="Recipient, hearer" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="dig_up">
+    <roleset id="dig_up.02" name="to excavate, turn up">
+      <roles>
+        <role descr="digger, agent" f="pag" n="0"/>
+        <role descr="entity turned up" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="dig_out">
+    <roleset id="dig_out.03" name="to remove">
+      <roles>
+        <role descr="digger, agent" f="pag" n="0"/>
+        <role descr="entity removed" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

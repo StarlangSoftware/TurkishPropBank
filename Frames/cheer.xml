@@ -1,0 +1,35 @@
+<frameset>
+  <predicate lemma="cheer">
+    <roleset id="cheer.01" name="make happy, cheerful">
+      <roles>
+        <role descr="causer of cheer, agent" f="pag" n="0"/>
+        <role descr="patient, made cheerful" f="ppt" n="1"/>
+        <role descr="instrument or manner, only when separate  from agent" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="cheer.02" name="applaud, cheer for">
+      <roles>
+        <role descr="clapper" f="pag" n="0"/>
+        <role descr="thing approved of" f="gol" n="1"/>
+        <role descr="grounds, reason for approval" f="cau" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="cheer_up">
+    <roleset id="cheer_up.03" name="make happy, cheerful">
+      <roles>
+        <role descr="comforter" f="pag" n="0"/>
+        <role descr="patient, comforted" f="ppt" n="1"/>
+        <role descr="instrument or manner" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="cheer_on">
+    <roleset id="cheer_on.04" name="encourage">
+      <roles>
+        <role descr="encourager" f="pag" n="0"/>
+        <role descr="thing encouraged" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

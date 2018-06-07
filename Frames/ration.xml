@@ -1,0 +1,21 @@
+<frameset>
+  <predicate lemma="ration">
+    <roleset id="ration.01" name="measure carefully, slow, measured distribution">
+      <roles>
+        <role descr="distributor" f="pag" n="0"/>
+        <role descr="thing distributed" f="ppt" n="1"/>
+        <role descr="ratio, measurement" f="ext" n="2"/>
+        <role descr="recipient" f="gol" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="ration_out">
+    <roleset id="ration_out.02" name="measure out carefully, with particle">
+      <roles>
+        <role descr="rationer" f="pag" n="0"/>
+        <role descr="thing rationed" f="ppt" n="1"/>
+        <role descr="recipient" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

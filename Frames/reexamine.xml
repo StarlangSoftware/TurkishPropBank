@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="reexamine">
+    <roleset id="reexamine.01" name="to review, retest">
+      <roles>
+        <role descr="examiner" f="pag" n="0"/>
+        <role descr="exam-taker" f="loc" n="1"/>
+        <role descr="the test/subject matter, examined in search of" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

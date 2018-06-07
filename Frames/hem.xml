@@ -1,0 +1,19 @@
+<frameset>
+  <predicate lemma="hem">
+    <roleset id="hem.01" name="fold over and sew together to provide with a hem">
+      <roles>
+        <role descr="agent, entity doing the sewing" f="pag" n="0"/>
+        <role descr="fabric being given a hem" f="ppt" n="1"/>
+        <role descr="description of the hem" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="hem_in">
+    <roleset id="hem_in.02" name="surround">
+      <roles>
+        <role descr="surrounding entity" f="ppt" n="1"/>
+        <role descr="entity being surrounded" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

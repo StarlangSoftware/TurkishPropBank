@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="salute">
+    <roleset id="salute.01" name="to greet or honor, greetings">
+      <roles>
+        <role descr="saluter" f="pag" n="0"/>
+        <role descr="entity saluted" f="ppt" n="1"/>
+        <role descr="attribute of arg1" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="repatriate">
+    <roleset id="repatriate.01" name="send one back to one's homeland">
+      <roles>
+        <role descr="sender" f="pag" n="0"/>
+        <role descr="expatriate" f="ppt" n="1"/>
+        <role descr="new homeland" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

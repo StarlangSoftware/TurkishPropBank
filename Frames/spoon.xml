@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="spoon">
+    <roleset id="spoon.01" name="make a spoon-like formation (cuddle?)">
+      <roles>
+        <role descr="Agent, Spooner" f="PAG" n="0"/>
+        <role descr="Spoonee, Thing Spooned" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

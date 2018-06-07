@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="suture">
+    <roleset id="suture.01" name="surgically stitch">
+      <roles>
+        <role descr="Agent, surgeon" f="pag" n="0"/>
+        <role descr="Entity sutured" f="ppt" n="1"/>
+        <role descr="Instrument" f="mnr" n="2"/>
+        <role descr="Attribute of Arg1, end state (shut, together)" f="prd" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

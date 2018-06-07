@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="restage">
+    <roleset id="restage.01" name="reassess the progression of a disease">
+      <roles>
+        <role descr="assessor of stage" f="PAG" n="0"/>
+        <role descr="tissue or organ examined" f="ppt" n="1"/>
+        <role descr="stage" f="ext" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

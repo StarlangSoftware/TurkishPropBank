@@ -1,0 +1,16 @@
+<frameset>
+  <predicate lemma="precious">
+    <roleset id="precious.01" name="treasured">
+      <roles>
+        <role descr="treasured entity" f="ppt" n="1"/>
+        <role descr="Entity who holds arg1 as precious (Gollum)" f="gol" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="precious.02" name="overwrought, tedious, contrived">
+      <roles>
+        <role descr="creator, perfectionist" f="pag" n="0"/>
+        <role descr="creation that is overwrought, contrived, tedious" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

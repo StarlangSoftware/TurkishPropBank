@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="meaningless">
+    <roleset id="meaningless.01" name="lack substance, meaning; useless">
+      <roles>
+        <role descr="(anti)beneficiary" f="pag" n="0"/>
+        <role descr="useless entity or action" f="gol" n="1"/>
+        <role descr="purpose for which arg 1 is useless" f="prp" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

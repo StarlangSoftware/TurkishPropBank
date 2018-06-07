@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="stray">
+    <roleset id="stray.01" name="wander">
+      <roles>
+        <role descr="entity in motion" f="PPT" n="0"/>
+        <role descr="source" f="DIR" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="cull">
+    <roleset id="cull.01" name="gather, collect, pluck">
+      <roles>
+        <role descr="collector" f="PAG" n="0"/>
+        <role descr="collected" f="PPT" n="1"/>
+        <role descr="group or source" f="DIR" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

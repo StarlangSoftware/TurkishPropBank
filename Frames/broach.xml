@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="broach">
+    <roleset id="broach.01" name="start up a topic">
+      <roles>
+        <role descr="Causer" f="PAG" n="0"/>
+        <role descr="Topic or theme" f="ppt" n="1"/>
+        <role descr="Instrument" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

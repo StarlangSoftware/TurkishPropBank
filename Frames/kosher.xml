@@ -1,0 +1,16 @@
+<frameset>
+  <predicate lemma="kosher">
+    <roleset id="kosher.01" name="conforming to specific dietary laws of judaism">
+      <roles>
+        <role descr="eater who follows Jewish dietary laws" f="pag" n="0"/>
+        <role descr="food" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="kosher.02" name="alright, allowable">
+      <roles>
+        <role descr="entity deeming it 'ok'" f="pag" n="0"/>
+        <role descr="thing that is 'ok'" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

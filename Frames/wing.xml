@@ -1,0 +1,17 @@
+<frameset>
+  <predicate lemma="wing">
+    <roleset id="wing.01" name="fly through the air, travel via air">
+      <roles>
+        <role descr="causal agent" f="pag" n="0"/>
+        <role descr="thing actually doing the flying" f="ppt" n="1"/>
+        <role descr="benefactive" f="gol" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="wing.02" name="make it up as you go">
+      <roles>
+        <role descr="innovator" f="pag" n="0"/>
+        <role descr="'it'" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

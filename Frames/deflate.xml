@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="deflate">
+    <roleset id="deflate.01" name="anti-inflate">
+      <roles>
+        <role descr="causer of deflation, agent" f="pag" n="0"/>
+        <role descr="balloon, etc." f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

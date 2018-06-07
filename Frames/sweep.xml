@@ -1,0 +1,54 @@
+<frameset>
+  <predicate lemma="sweep">
+    <roleset id="sweep.01" name="wipe, clean by sweeping, like with a broom">
+      <roles>
+        <role descr="agent" f="pag" n="0"/>
+        <role descr="the dirt itself" f="ppt" n="1"/>
+        <role descr="source, dirty location being cleaned" f="dir" n="2"/>
+        <role descr="instrument (ie, broom)" f="mnr" n="3"/>
+        <role descr="destination" f="dir" n="4"/>
+      </roles>
+    </roleset>
+    <roleset id="sweep.02" name="(cause to) move in a sweeping manner, smooth motion">
+      <roles>
+        
+        <role descr="cause of motion" f="pag" n="0"/>
+        <role descr="thing in motion" f="ppt" n="1"/>
+        <role descr="path" f="loc" n="2"/>
+        <role descr="destination" f="gol" n="3"/>
+      </roles>
+    </roleset>
+    <roleset id="sweep.05" name="win every game in a series, embarrassingly thorough win">
+      <roles>
+        <role descr="Sweeper, winner" f="pag" n="0"/>
+        <role descr="Swept, loser" f="ppt" n="1"/>
+        <role descr="swept in what? the competition in which sweeping occurred" f="vsp" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="sweep.06" name="thorough search of an area">
+      <roles>
+        <role descr="searcher" f="pag" n="0"/>
+        <role descr="area searched" f="loc" n="1"/>
+        <role descr="searched for" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="sweep_up">
+    <roleset id="sweep_up.03" name="sweep up: embrace as">
+      <roles>
+        <role descr="embracer, sweeper" f="pag" n="0"/>
+        <role descr="thing embraced, swept up" f="ppt" n="1"/>
+        <role descr="attribute on arg1" f="prd" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="sweep_up.04" name="sweep up: clean by sweeping">
+      <roles>
+        <role descr="agent" f="pag" n="0"/>
+        <role descr="thing being cleaned (ie dirt)" f="ppt" n="1"/>
+        <role descr="source (ie floor) or destination" f="dir" n="2"/>
+        <role descr="instrument (ie, broom)" f="mnr" n="3"/>
+        <role descr="destination" f="gol" n="4"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

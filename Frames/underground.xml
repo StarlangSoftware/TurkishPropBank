@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="underground">
+    <roleset id="underground.01" name="not widely known by the populace">
+      <roles>
+        <role descr="underground thing" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

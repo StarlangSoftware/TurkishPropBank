@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="lurch">
+    <roleset id="lurch.01" name="to move in an irregular way">
+      <roles>
+        <role descr="entity moving" f="PAG" n="0"/>
+        <role descr="path" f="LOC" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

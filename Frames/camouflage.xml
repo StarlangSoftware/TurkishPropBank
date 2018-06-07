@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="camouflage">
+    <roleset id="camouflage.01" name="disguise, hide">
+      <roles>
+        <role descr="disguiser, agent" f="pag" n="0"/>
+        <role descr="thing disguised" f="ppt" n="1"/>
+        <role descr="secondary predication" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

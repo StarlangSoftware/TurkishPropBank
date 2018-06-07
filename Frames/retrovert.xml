@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="retrovert">
+    <roleset id="retrovert.01" name="turn back">
+      <roles>
+        <role descr="agent, cause" f="pag" n="0"/>
+        <role descr="entity turned" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

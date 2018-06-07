@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="shunt">
+    <roleset id="shunt.01" name="move something or someone to, moving or diverting">
+      <roles>
+        <role descr="mover" f="PAG" n="0"/>
+        <role descr="thing moved" f="PPT" n="1"/>
+        <role descr="moved to or around amongst" f="GOL" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

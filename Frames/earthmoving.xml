@@ -1,0 +1,14 @@
+<frameset>
+  <predicate lemma="earthmoving">
+    <roleset id="earthmoving.01" name="for use in grading/digging/ground-shaping operations">
+      <roles>
+        <role descr="earth-moving equipment" f="pag" n="0"/>
+      </roles>
+    </roleset>
+    <roleset id="earthmoving.02" name="of great significance">
+      <roles>
+        <role descr="important things" f="pag" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

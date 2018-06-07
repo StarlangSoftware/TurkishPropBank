@@ -1,0 +1,18 @@
+<frameset>
+  <predicate lemma="shine">
+    <roleset id="shine.01" name="produce light">
+      <roles>
+        <role descr="cause of illumination, agent" f="PAG" n="0"/>
+        <role descr="light itself, thing shining" f="PPT" n="1"/>
+        <role descr="thing illuminated" f="LOC" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="shine_through">
+    <roleset id="shine_through.02" name="be very apparent">
+      <roles>
+        <role descr="apparent thing" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="detract">
+    <roleset id="detract.01" name="to divert">
+      <roles>
+        <role descr="causer of diversion, agent" f="pag" n="0"/>
+        <role descr="entity detracted" f="ppt" n="1"/>
+        <role descr="entity detracted from" f="dir" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

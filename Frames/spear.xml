@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="spear">
+    <roleset id="spear.01" name="spear">
+      <roles>
+        <role descr="agent, spearer" f="pag" n="0"/>
+        <role descr="entity being speared, patient" f="ppt" n="1"/>
+        <role descr="instrument used, spear" f="mnr" n="2"/>
+        <role descr="resulting state of arg1, often prepositional" f="prd" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

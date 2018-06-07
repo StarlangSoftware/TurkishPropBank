@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="perpetuate">
+    <roleset id="perpetuate.01" name="make last longer/forever">
+      <roles>
+        <role descr="causer of lasting long" f="pag" n="0"/>
+        <role descr="thing lasting long" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

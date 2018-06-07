@@ -1,0 +1,48 @@
+<frameset>
+  <predicate lemma="out">
+    <roleset id="out.01" name="expose, reveal something (often negative) about someone">
+      <roles>
+        <role descr="outter, exposer, revealer" f="pag" n="0"/>
+        <role descr="person, thing being outted" f="ppt" n="1"/>
+        <role descr="entity outted to" f="gol" n="2"/>
+        <role descr="attribute of arg 1" f="prd" n="3"/>
+      </roles>
+    </roleset>
+    <roleset id="out.02" name="extinguished (fire, lights, power, etc)">
+      <roles>
+        <role descr="thing formerly receiving power, fuel" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="out.03" name="eliminated from play">
+      <roles>
+        <role descr="former player" f="ppt" n="1"/>
+        <role descr="game, play, competition" f="loc" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="out.04" name="asleep, unconscious">
+      <roles>
+        <role descr="sleeping beauty" f="pag" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="out.05" name="having exhausted a resource/commodity">
+      <roles>
+        <role descr="entity who doesn't have any left" f="pag" n="1"/>
+        <role descr="what there isn't any left of" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="out.06" name="no longer in (state/location); away from">
+      <roles>
+        <role descr="entity that is no longer in (state/location)" f="pag" n="1"/>
+        <role descr="state or location not occupied" f="loc" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="outing">
+    <roleset id="outing.07" name="pleasure trip, junket">
+      <roles>
+        <role descr="traveler" f="ppt" n="0"/>
+        <role descr="destination" f="loc" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="reenroll">
+    <roleset id="reenroll.01" name="enroll again">
+      <roles>
+        <role descr="causer of re-enrollment; agent" f="pag" n="0"/>
+        <role descr="entity re-enrolled" f="ppt" n="1"/>
+        <role descr="enrolled in what" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

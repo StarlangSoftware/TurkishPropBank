@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="crossexamine">
+    <roleset id="crossexamine.01" name="question a witness (as if) after the opposition">
+      <roles>
+        <role descr="interrogator" f="pag" n="0"/>
+        <role descr="witness" f="gol" n="1"/>
+        <role descr="subject-matter of interrogation" f="ppt" n="2"/>
+        <role descr="witness's role in the proceedings" f="prd" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

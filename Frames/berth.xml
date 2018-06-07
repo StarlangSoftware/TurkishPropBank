@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="berth">
+    <roleset id="berth.01" name="to 'park' a ship">
+      <roles>
+        <role descr="docker" f="PAG" n="0"/>
+        <role descr="docked (boat)" f="PPT" n="1"/>
+        <role descr="shipyard, location" f="GOL" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

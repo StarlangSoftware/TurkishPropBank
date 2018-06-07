@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="chronicle">
+    <roleset id="chronicle.01" name="to record in a chronological order">
+      <roles>
+        <role descr="recorder, agent" f="PAG" n="0"/>
+        <role descr="thing recorded" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

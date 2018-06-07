@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="perplex">
+    <roleset id="perplex.01" name="confuse">
+      <roles>
+        <role descr="agent, cause" f="pag" n="0"/>
+        <role descr="experiencer, entity perplexed" f="ppt" n="1"/>
+        <role descr="instrument" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

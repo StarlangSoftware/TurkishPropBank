@@ -1,0 +1,17 @@
+<frameset>
+  <predicate lemma="deliver">
+    <roleset id="deliver.01" name="give, send">
+      <roles>
+        <role descr="sender" f="pag" n="0"/>
+        <role descr="sent" f="ppt" n="1"/>
+        <role descr="sent-to" f="gol" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="deliver.101" name="give birth, assist in giving birth, giving birth or assisting in giving birth">
+      <roles>
+        <role descr="Person delivering baby" f="pag" n="0"/>
+        <role descr="Baby" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

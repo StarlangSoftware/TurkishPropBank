@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="incontinent">
+    <roleset id="incontinent.01" name="unable to control flow of bodily waste">
+      <roles>
+        <role descr="incontinent one" f="pag" n="1"/>
+        <role descr="bodily waste not contained" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

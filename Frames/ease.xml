@@ -1,0 +1,48 @@
+<frameset>
+  <predicate lemma="ease">
+    <roleset id="ease.01" name="decline">
+      <roles>
+        <role descr="Logical subject, patient, thing declining" f="ppt" n="1"/>
+        <role descr="EXT, amount declined by" f="ext" n="2"/>
+        <role descr="start point" f="dir" n="3"/>
+        <role descr="end point, end state" f="gol" n="4"/>
+        <role descr="medium" f="loc" n="m"/>
+      </roles>
+    </roleset>
+    <roleset id="ease.02" name="help, aid, ameliorate">
+      <roles>
+        <role descr="thing helping" f="pag" n="0"/>
+        <role descr="thing being helped" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="ease.03" name="slide, move easily">
+      <roles>
+        <role descr="causer of motion, agent" f="pag" n="0"/>
+        <role descr="entity in motion" f="ppt" n="1"/>
+        <role descr="start point" f="dir" n="3"/>
+        <role descr="end point" f="gol" n="4"/>
+      </roles>
+    </roleset>
+    <roleset id="ease.06" name="banks purchasing longer term assets to keep inflation up">
+      <roles>
+        <role descr="agent, monetary authority responsible for QE" f="pag" n="0"/>
+        <role descr="monetary amount" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="ease_up">
+    <roleset id="ease_up.04" name="become easier">
+      <roles>
+        <role descr="thing helping" f="pag" n="0"/>
+        <role descr="thing being helped" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="easy">
+    <roleset id="easy.05" name="not difficult">
+      <roles>
+        <role descr="thing that is easy (may require concatenation)" f="pag" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

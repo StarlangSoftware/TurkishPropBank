@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="unheard">
+    <roleset id="unheard.01" name="unknown, rare to nonexistent, not perceived aurally">
+      <roles>
+        <role descr="(non)hearer" f="pag" n="0"/>
+        <role descr="rare thing, sound" f="ppt" n="1"/>
+        <role descr="source" f="dir" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

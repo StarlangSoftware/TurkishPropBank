@@ -1,0 +1,20 @@
+<frameset>
+  <predicate lemma="retain">
+    <roleset id="retain.01" name="keep">
+      <roles>
+        <role descr="Keeper" f="pag" n="0"/>
+        <role descr="thing kept" f="ppt" n="1"/>
+        <role descr="attributive" f="prd" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="retentive">
+    <roleset id="retentive.02" name="keep">
+      <roles>
+        <role descr="Keeper" f="pag" n="0"/>
+        <role descr="thing kept" f="ppt" n="1"/>
+        <role descr="attributive" f="prd" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

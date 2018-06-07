@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="iodinate">
+    <roleset id="iodinate.01" name="cause to combine with iodine">
+      <roles>
+        <role descr="Causer of combination" f="pag" n="0"/>
+        <role descr="thing added to iodine" f="ppt" n="1"/>
+        <role descr="explicit mention of iodine" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

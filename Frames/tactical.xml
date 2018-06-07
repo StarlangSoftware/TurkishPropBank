@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="tactical">
+    <roleset id="tactical.01" name="strategic">
+      <roles>
+        <role descr="strategizer, tactician" f="pag" n="0"/>
+        <role descr="strategy, tactic" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

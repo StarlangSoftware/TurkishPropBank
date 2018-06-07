@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="antiwar">
+    <roleset id="antiwar.01" name="against the idea of war">
+      <roles>
+        <role descr="antiwar entity" f="pag" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="steel">
+    <roleset id="steel.01" name="gird ones loins">
+      <roles>
+        <role descr="girder of loins" f="pag" n="0"/>
+        <role descr="person being girded" f="ppt" n="1"/>
+        <role descr="action or state" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

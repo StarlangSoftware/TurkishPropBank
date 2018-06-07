@@ -1,0 +1,35 @@
+<frameset>
+  <predicate lemma="wave">
+    <roleset id="wave.01" name="to signal (a person) or move back and forth, cause  waving movement">
+      <roles>
+        <role descr="agent, causer" f="pag" n="0"/>
+        <role descr="entity moving" f="ppt" n="1"/>
+        <role descr="person waved at" f="gol" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="wave.02" name="give directions via waving">
+      <roles>
+        <role descr="waver, giver of directions" f="pag" n="0"/>
+        <role descr="receiver of directions" f="ppt" n="1"/>
+        <role descr="directions" f="dir" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="wave.03" name="natural disaster: tidal wave">
+      <roles>
+        
+        <role descr="water surging (might be the name of the ocean, etc)" f="ppt" n="1"/>
+        <role descr="period length of the wave (usually ft or m)" f="ext" n="2"/>
+        <role descr="death/injury toll" f="vsp" n="3"/>
+        <role descr="damages/cost" f="vsp" n="4"/>
+        <role descr="run-up (height above sea level reached by the water)" f="ext" n="5"/>
+      </roles>
+    </roleset>
+    <roleset id="wave.04" name="movement (literally or as in an increase of a specific phenomenon)">
+      <roles>
+        <role descr="cause of movement" f="pag" n="0"/>
+        <role descr="theme" f="ppt" n="1"/>
+        <role descr="attribute of arg 1/ secondary theme" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

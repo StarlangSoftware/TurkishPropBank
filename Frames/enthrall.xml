@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="enthrall">
+    <roleset id="enthrall.01" name="captivate interest, fascinate">
+      <roles>
+        <role descr="agent, causer of interest" f="pag" n="0"/>
+        <role descr="interested entity" f="ppt" n="1"/>
+        <role descr="Manner or Instrument if separate from arg 0" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

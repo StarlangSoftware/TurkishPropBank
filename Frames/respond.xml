@@ -1,0 +1,19 @@
+<frameset>
+  <predicate lemma="respond">
+    <roleset id="respond.01" name="give an answer, reply">
+      <roles>
+        <role descr="replier" f="PAG" n="0"/>
+        <role descr="in response to" f="GOL" n="1"/>
+        <role descr="answer" f="PPT" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="responsive">
+    <roleset id="responsive.02" name="readily giving an answer">
+      <roles>
+        <role descr="readily responding thing" f="PAG" n="0"/>
+        <role descr="responsive to what?" f="GOL" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

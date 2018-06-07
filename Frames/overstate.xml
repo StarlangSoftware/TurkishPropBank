@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="overstate">
+    <roleset id="overstate.01" name="exaggerate">
+      <roles>
+        <role descr="speaker" f="pag" n="0"/>
+        <role descr="utterance" f="ppt" n="1"/>
+        <role descr="hearer" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

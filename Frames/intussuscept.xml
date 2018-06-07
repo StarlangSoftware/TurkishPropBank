@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="intussuscept">
+    <roleset id="intussuscept.01" name="enfolding of one segment of the intestine with another">
+      <roles>
+        <role descr="Cause (rare)" f="pag" n="0"/>
+        <role descr="first intestinal segment" f="ppt" n="1"/>
+        <role descr="second intestinal segment; intwined with; enfolded in (if seperate from arg 1)" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

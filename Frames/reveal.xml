@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="reveal">
+    <roleset id="reveal.01" name="say something that used to be not known,   show, presentation of new information">
+      <roles>
+        <role descr="speaker, revealer" f="pag" n="0"/>
+        <role descr="utterance, truth condition" f="PPT" n="1"/>
+        <role descr="hearer" f="GOL" n="2"/>
+        <role descr="attribute of arg1" f="PRD" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

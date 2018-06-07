@@ -1,0 +1,18 @@
+<frameset>
+  <predicate lemma="necessitate">
+    <roleset id="necessitate.01" name="require">
+      <roles>
+        <role descr="requirer" f="PAG" n="0"/>
+        <role descr="thing required" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="necessary">
+    <roleset id="necessary.02" name="essential">
+      <roles>
+        <role descr="essential thing (may require concatenation)" f="pag" n="1"/>
+        <role descr="necessary for/to what; dependent on arg1" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="mishandle">
+    <roleset id="mishandle.01" name="to deal with inefficiently">
+      <roles>
+        <role descr="mishandler, agent" f="PAG" n="0"/>
+        <role descr="entity mishandled" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

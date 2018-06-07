@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="isolate">
+    <roleset id="isolate.01" name="to set apart, (causing to be) solitary">
+      <roles>
+        <role descr="entity causing isolation" f="pag" n="0"/>
+        <role descr="entity isolated" f="ppt" n="1"/>
+        <role descr="entity that patient was isolated from" f="dir" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

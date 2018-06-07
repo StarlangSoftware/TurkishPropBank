@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="disgrace">
+    <roleset id="disgrace.01" name="bring shame upon">
+      <roles>
+        <role descr="causer of disgrace" f="pag" n="0"/>
+        <role descr="entity disgraced" f="ppt" n="1"/>
+        <role descr="Instrument or Manner if separate from Arg 0" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

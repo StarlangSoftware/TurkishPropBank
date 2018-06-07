@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="hydrogenate">
+    <roleset id="hydrogenate.01" name="combine with or treat with hydrogen">
+      <roles>
+        <role descr="Causer of hydrogenation agent" f="pag" n="0"/>
+        <role descr="substance undergoing hydrogenation" f="ppt" n="1"/>
+        <role descr="Instrument or manner if separate from arg 0" f="mnr" n="2"/>
+        <role descr="Resulting substance" f="prd" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

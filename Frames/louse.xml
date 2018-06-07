@@ -1,0 +1,18 @@
+<frameset>
+  <predicate lemma="louse">
+    <roleset id="louse.01" name="check for or remove lice">
+      <roles>
+        <role descr="checker or remover" f="pag" n="0"/>
+        <role descr="entity being checked or having lice removed" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="louse_up">
+    <roleset id="louse_up.02" name="mess up, spoil, ruin">
+      <roles>
+        <role descr="infester or spoiler" f="pag" n="0"/>
+        <role descr="entity being infested or spoiled" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="implement">
+    <roleset id="implement.01" name="bring about">
+      <roles>
+        <role descr="implementer" f="PAG" n="0"/>
+        <role descr="thing implemented" f="PPT" n="1"/>
+        <role descr="instrument" f="MNR" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

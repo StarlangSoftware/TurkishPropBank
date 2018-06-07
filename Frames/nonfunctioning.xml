@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="nonfunctioning">
+    <roleset id="nonfunctioning.01" name="not in working order">
+      <roles>
+        <role descr="non-worker" f="pag" n="0"/>
+        <role descr="job, project" f="prd" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

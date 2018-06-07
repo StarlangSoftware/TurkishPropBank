@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="purge">
+    <roleset id="purge.01" name="to free from impurities, purify">
+      <roles>
+        <role descr="remover, agent" f="PAG" n="0"/>
+        <role descr="entity purged" f="loc" n="1"/>
+        <role descr="purged of, impurity" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

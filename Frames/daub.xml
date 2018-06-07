@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="daub">
+    <roleset id="daub.01" name="to brush, touch with another substance">
+      <roles>
+        <role descr="dauber, agent" f="pag" n="0"/>
+        <role descr="thing touched,daubed" f="gol" n="1"/>
+        <role descr="daubed with what?" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

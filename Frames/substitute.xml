@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="substitute">
+    <roleset id="substitute.01" name="exchange one thing for another">
+      <roles>
+        <role descr="agent, entity trading" f="pag" n="0"/>
+        <role descr="thing being preferred, new thing" f="ppt" n="1"/>
+        <role descr="other item in exchange, old thing" f="ppt" n="2"/>
+        <role descr="benefactive" f="gol" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

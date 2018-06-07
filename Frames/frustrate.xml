@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="frustrate">
+    <roleset id="frustrate.01" name="cause angst, experiencing angst">
+      <roles>
+        <role descr="Stimulus, frustrater" f="pag" n="0"/>
+        <role descr="entity frustrated" f="ppt" n="1"/>
+        <role descr="target of frustration (if in addition to arg0)" f="cau" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

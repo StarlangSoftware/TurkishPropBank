@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="tachycardic">
+    <roleset id="tachycardic.01" name="having a heartbeat above normal range, characterized by/suffering from tachycardia">
+      <roles>
+        <role descr="entity experiencing tachycardia" f="ppt" n="1"/>
+        <role descr="measurment of heartrate" f="vsp" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

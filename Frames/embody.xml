@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="embody">
+    <roleset id="embody.01" name="to represent in bodily form or incorporate">
+      <roles>
+        <role descr="entity embodied" f="ppt" n="1"/>
+        <role descr="embodied in" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="openminded">
+    <roleset id="openminded.01" name="mentally accepting towards">
+      <roles>
+        <role descr="entity with an open mind" f="ppt" n="1"/>
+        <role descr="towards what" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

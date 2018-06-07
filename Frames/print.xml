@@ -1,0 +1,26 @@
+<frameset>
+  <predicate lemma="print">
+    <roleset id="print.01" name="put pen to paper, publish">
+      <roles>
+        <role descr="printer" f="pag" n="0"/>
+        <role descr="document" f="ppt" n="1"/>
+        <role descr="benefactive" f="gol" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="print.03" name="make an art print, making an art print (stamp method)">
+      <roles>
+        <role descr="artist" f="pag" n="0"/>
+        <role descr="printed" f="ppt" n="1"/>
+        <role descr="printing instrument/method (screen, intaglio, lithograph, etc)" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="print_out">
+    <roleset id="print_out.02" name="print, generally on a computer printer">
+      <roles>
+        <role descr="agent" f="pag" n="0"/>
+        <role descr="document" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

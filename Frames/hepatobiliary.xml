@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="hepatobiliary">
+    <roleset id="hepatobiliary.01" name="of the liver, gall bladder and bile ducts">
+      <roles>
+        <role descr="hepatobiliary entity" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

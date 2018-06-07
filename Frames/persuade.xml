@@ -1,0 +1,20 @@
+<frameset>
+  <predicate lemma="persuade">
+    <roleset id="persuade.01" name="impelled action-- convince">
+      <roles>
+        <role descr="convincer" f="pag" n="0"/>
+        <role descr="impelled agent" f="ppt" n="1"/>
+        <role descr="impelled action, proposition" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="persuasive">
+    <roleset id="persuasive.02" name="capable of persuasion">
+      <roles>
+        <role descr="persuasive entity" f="pag" n="0"/>
+        <role descr="entity persuaded" f="ppt" n="1"/>
+        <role descr="idea/action arg1 is persuaded into" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

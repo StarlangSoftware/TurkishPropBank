@@ -1,0 +1,13 @@
+<frameset>
+  <predicate lemma="unify">
+    <roleset id="unify.01" name="join together, joining into a unified whole">
+      <roles>
+        <role descr="joiner, agent" f="pag" n="0"/>
+        <role descr="first (or all) thing(s) unified" f="ppt" n="1"/>
+        <role descr="second thing unified, if separate from arg1" f="ppt" n="2"/>
+        <role descr="unification in what domain" f="adj" n="3"/>
+        <role descr="unified whole" f="prd" n="4"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

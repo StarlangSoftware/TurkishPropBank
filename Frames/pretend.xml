@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="pretend">
+    <roleset id="pretend.01" name="make-believe">
+      <roles>
+        <role descr="pretender" f="PAG" n="0"/>
+        <role descr="premise" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

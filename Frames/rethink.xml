@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="rethink">
+    <roleset id="rethink.01" name="revise an opinion">
+      <roles>
+        <role descr="rethinker" f="PAG" n="0"/>
+        <role descr="opinion" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

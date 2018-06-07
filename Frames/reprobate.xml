@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="reprobate">
+    <roleset id="reprobate.01" name="condemn">
+      <roles>
+        <role descr="condemner" f="PAG" n="0"/>
+        <role descr="condemned" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

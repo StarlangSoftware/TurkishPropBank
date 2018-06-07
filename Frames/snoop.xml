@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="snoop">
+    <roleset id="snoop.01" name="to pry into the private affairs of others">
+      <roles>
+        <role descr="nosy entity" f="pag" n="0"/>
+        <role descr="private affairs" f="loc" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

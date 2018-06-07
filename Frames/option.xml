@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="option">
+    <roleset id="option.01" name="to purchase an option on something">
+      <roles>
+        <role descr="Seller, entity offering option" f="pag" n="0"/>
+        <role descr="Thing optioned" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

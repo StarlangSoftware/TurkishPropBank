@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="condone">
+    <roleset id="condone.01" name="to excuse">
+      <roles>
+        <role descr="excuser, agent" f="PAG" n="0"/>
+        <role descr="thing condoned" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

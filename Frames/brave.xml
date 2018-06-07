@@ -1,0 +1,16 @@
+<frameset>
+  <predicate lemma="brave">
+    <roleset id="brave.01" name="to brave something; face courageously; verb frame only">
+      <roles>
+        <role descr="courageous one" f="pag" n="0"/>
+        <role descr="challenge" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="brave.02" name="be characterized as brave, courageous; adjective/noun frame only">
+      <roles>
+        <role descr="brave one" f="pag" n="0"/>
+        <role descr="fearsome activity faced" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

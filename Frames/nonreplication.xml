@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="nonreplication">
+    <roleset id="nonreplication.01" name="failure to replicate">
+      <roles>
+        <role descr="agent/cause" f="cau" n="0"/>
+        <role descr="thing not replicating" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

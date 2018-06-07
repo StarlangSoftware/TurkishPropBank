@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="scowl">
+    <roleset id="scowl.01" name="dirty look">
+      <roles>
+        <role descr="scowler" f="PAG" n="0"/>
+        <role descr="cognate object (very rare)" f="PPT" n="1"/>
+        <role descr="reason" f="CAU" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

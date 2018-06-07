@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="underachieve">
+    <roleset id="underachieve.01" name="achieve less than some benchmark">
+      <roles>
+        <role descr="underachiever" f="PAG" n="0"/>
+        <role descr="thing underachieved (or domain of underachievement)" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

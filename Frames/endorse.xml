@@ -1,0 +1,17 @@
+<frameset>
+  <predicate lemma="endorse">
+    <roleset id="endorse.01" name="support for a position">
+      <roles>
+        <role descr="supporter" f="pag" n="0"/>
+        <role descr="thing/person supported" f="ppt" n="1"/>
+        <role descr="for what" f="prp" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="endorse.02" name="sign on the backside">
+      <roles>
+        <role descr="signer" f="pag" n="0"/>
+        <role descr="thing signed" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

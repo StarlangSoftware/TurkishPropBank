@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="barcode">
+    <roleset id="barcode.01" name="mark with a barcode">
+      <roles>
+        <role descr="agent, one marking with a barcode" f="pag" n="0"/>
+        <role descr="entity marked" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

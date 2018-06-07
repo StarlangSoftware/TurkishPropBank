@@ -1,0 +1,42 @@
+<frameset>
+  <predicate lemma="present">
+    <roleset id="present.01" name="give">
+      <roles>
+        <role descr="giver" f="pag" n="0"/>
+        <role descr="thing given" f="ppt" n="1"/>
+        <role descr="given to" f="gol" n="2"/>
+        <role descr="secondary attribute of thing given" f="prd" n="3"/>
+      </roles>
+    </roleset>
+    <roleset id="present.101" name="to emerge during birth">
+      <roles>
+        <role descr="infant" f="pag" n="1"/>
+        <role descr="body part initially emerging" f="ppt" n="2"/>
+        <role descr="orientation of infant: breech, vertex, transversely, etc" f="mnr" n="3"/>
+      </roles>
+    </roleset>
+    <roleset id="present.102" name="to appear in a clinical setting">
+      <roles>
+        <role descr="Patient presenting" f="pag" n="0"/>
+        <role descr="Disorder presenting" f="ppt" n="1"/>
+        <role descr="Manner of presentation (symptoms, illness)" f="prd" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="present.02" name="in attendance">
+      <roles>
+        <role descr="entity present" f="pag" n="1"/>
+        <role descr="where" f="loc" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="presentable">
+    <roleset id="presentable.03" name="suitable for presentation">
+      <roles>
+        <role descr="presenter" f="pag" n="0"/>
+        <role descr="thing given" f="ppt" n="1"/>
+        <role descr="given to" f="gol" n="2"/>
+        <role descr="secondary attribute of thing given" f="prd" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="vigorous">
+    <roleset id="vigorous.01" name="strong, full of life">
+      <roles>
+        <role descr="strong entity" f="pag" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

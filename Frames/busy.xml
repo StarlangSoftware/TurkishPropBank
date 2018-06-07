@@ -1,0 +1,15 @@
+<frameset>
+  <predicate lemma="busy">
+    <roleset id="busy.01" name="engaged, occupied">
+      <roles>
+        <role descr="engaged, occupied thing" f="ppt" n="1"/>
+        <role descr="busy with what?" f="cau" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="busy.02" name="artistic -- pattern characterized by too much going on!">
+      <roles>
+        <role descr="Headache-inducing pattern" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

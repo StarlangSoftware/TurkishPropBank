@@ -1,0 +1,33 @@
+<frameset>
+  <predicate lemma="fuck">
+    <roleset id="fuck.01" name="engage in sexual relations, having been the recipient of sexual relations">
+      <roles>
+        <role descr="party the first" f="pag" n="0"/>
+        <role descr="party the second" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="fuck_up">
+    <roleset id="fuck_up.02" name="botch, mess up, make a hash of, short for 'fuck up', screwed up">
+      <roles>
+        <role descr="cause, agent" f="pag" n="0"/>
+        <role descr="big mistake" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="fuck_off">
+    <roleset id="fuck_off.03" name="go away and leave me alone">
+      <roles>
+        <role descr="one who should go away" f="pag" n="0"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="fuck_around">
+    <roleset id="fuck_around.04" name="screw around, goof off, not be serious (could also be sexual)">
+      <roles>
+        <role descr="entity screwing around" f="pag" n="0"/>
+        <role descr="entity screwed around with, non-serious activity" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

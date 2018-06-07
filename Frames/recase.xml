@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="recase">
+    <roleset id="recase.01" name="to put or enclose in a case, again">
+      <roles>
+        <role descr="packer" f="pag" n="0"/>
+        <role descr="thing packed, again" f="ppt" n="1"/>
+        <role descr="case, location" f="loc" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

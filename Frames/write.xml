@@ -1,0 +1,69 @@
+<frameset>
+  <predicate lemma="write">
+    <roleset id="write.01" name="set pen to paper">
+      <roles>
+        <role descr="writer" f="pag" n="0"/>
+        <role descr="thing written" f="ppt" n="1"/>
+        <role descr="benefactive" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="write_off">
+    <roleset id="write_off.02" name="acknowledge a (financial) loss">
+      <roles>
+        <role descr="corporation, etc" f="pag" n="0"/>
+        <role descr="loss" f="ppt" n="1"/>
+        <role descr="current financial holdings?" f="vsp" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="write_off.08" name="concede as a loss">
+      <roles>
+        <role descr="entity acknowledging the loss" f="pag" n="0"/>
+        <role descr="thing written off; loss; damaged item" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="write_down">
+    <roleset id="write_down.03" name="record on paper">
+      <roles>
+        <role descr="writer" f="pag" n="0"/>
+        <role descr="written, recorded" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="write_down.04" name="lower monetary value">
+      <roles>
+        <role descr="changer of monetary value" f="pag" n="0"/>
+        <role descr="thing with value" f="ppt" n="1"/>
+        <role descr="amount of change" f="ext" n="2"/>
+        <role descr="old high value" f="dir" n="3"/>
+        <role descr="new lower value" f="gol" n="4"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="write_in">
+    <roleset id="write_in.05" name="fill out form">
+      <roles>
+        <role descr="writer" f="pag" n="0"/>
+        <role descr="entry on form" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="write_out">
+    <roleset id="write_out.06" name="issue">
+      <roles>
+        <role descr="writer" f="pag" n="0"/>
+        <role descr="thing issued" f="ppt" n="1"/>
+        <role descr="beneficiary" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="write_up">
+    <roleset id="write_up.07" name="completely write a document, sumarizing, writing completely">
+      <roles>
+        <role descr="writer" f="pag" n="0"/>
+        <role descr="Thing written" f="ppt" n="1"/>
+        <role descr="Benefactive" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

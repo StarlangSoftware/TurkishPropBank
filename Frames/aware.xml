@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="aware">
+    <roleset id="aware.01" name="knowledgeable">
+      <roles>
+        <role descr="knowledgeable entity" f="pag" n="0"/>
+        <role descr="knowledge, aware of what?" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

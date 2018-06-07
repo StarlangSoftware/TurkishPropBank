@@ -1,0 +1,17 @@
+<frameset>
+  <predicate lemma="legalize">
+    <roleset id="legalize.01" name="make legal">
+      <roles>
+        <role descr="legislative body, agent" f="pag" n="0"/>
+        <role descr="thing now legal" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="legal">
+    <roleset id="legal.02" name="allowed by law, not illegal">
+      <roles>
+        <role descr="legal thing" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="descend">
+    <roleset id="descend.01" name="to come down, lower oneself, or arrive, lowering">
+      <roles>
+        <role descr="entity descending" f="PPT" n="0"/>
+        <role descr="location/goal, descend on or to" f="dir" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

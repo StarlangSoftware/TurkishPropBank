@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="rasp">
+    <roleset id="rasp.01" name="rasp">
+      <roles>
+        <role descr="rasper, speaker, agent" f="PAG" n="0"/>
+        <role descr="rasped about what, topic, quotation" f="ppt" n="1"/>
+        <role descr="rasped to whom, recipient" f="GOL" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

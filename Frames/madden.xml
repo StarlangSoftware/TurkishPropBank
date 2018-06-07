@@ -1,0 +1,31 @@
+<frameset>
+  <predicate lemma="madden">
+    <roleset id="madden.01" name="(cause to) become angry/crazed">
+      <roles>
+        <role descr="cause of anger" f="pag" n="0"/>
+        <role descr="experiencer" f="ppt" n="1"/>
+        <role descr="Instrument or Manner if separate from arg 0" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="mad">
+    <roleset id="mad.02" name="crazy">
+      <roles>
+        <role descr="crazy entity/action (may require concatenation)" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="mad.03" name="mad about: really really like">
+      <roles>
+        <role descr="liker" f="pag" n="0"/>
+        <role descr="liked" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="mad.04" name="angry">
+      <roles>
+        <role descr="causer of anger" f="pag" n="0"/>
+        <role descr="angry entity" f="ppt" n="1"/>
+        <role descr="angry at arg0 for what (if separate from arg0)" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,33 @@
+<frameset>
+  <predicate lemma="track">
+    <roleset id="track.01" name="follow">
+      <roles>
+        <role descr="thing following" f="pag" n="0"/>
+        <role descr="thing followed" f="ppt" n="1"/>
+        <role descr="benefactive" f="gol" n="2"/>
+        <role descr="instrument" f="mnr" n="3"/>
+      </roles>
+    </roleset>
+    <roleset id="track.03" name="be on track in relation to">
+      <roles>
+        <role descr="thing on track" f="ppt" n="1"/>
+        <role descr="track itself (loosely speaking)" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="track.04" name="leave a trail of particulates/debris from one's feet">
+      <roles>
+        <role descr="entity bringing in debris" f="pag" n="0"/>
+        <role descr="debris tracked in" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="track_down">
+    <roleset id="track_down.02" name="find">
+      <roles>
+        <role descr="finder" f="pag" n="0"/>
+        <role descr="thing found" f="ppt" n="1"/>
+        <role descr="benefactive, found for" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,44 @@
+<frameset>
+  <predicate lemma="refer">
+    <roleset id="refer.01" name="call, label, refer to">
+      <roles>
+        <role descr="labeller" f="pag" n="0"/>
+        <role descr="labelled" f="ppt" n="1"/>
+        <role descr="label" f="prd" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="refer.02" name="recommend, send">
+      <roles>
+        <role descr="recommender, sender" f="pag" n="0"/>
+        <role descr="recommended thing" f="ppt" n="1"/>
+        <role descr="recipient of the referal" f="gol" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="refer.03" name="consult, direct one's attention to">
+      <roles>
+        <role descr="referrer" f="pag" n="0"/>
+        <role descr="referred to" f="gol" n="1"/>
+        <role descr="in regards to, purpose" f="ppt" n="2"/>
+      </roles>
+      <example name="reference-n: cryo data" src="" type="">
+        <inflection aspect="ns" form="ns" person="ns" tense="ns"
+        voice="ns"/>
+        <text>This period is of particular importance as reference for
+        studying the impact of ice shelf disintegration on tributary
+        glaciers.</text>
+        <rel f="">reference</rel>
+        <arg f="" n="2">for studying the impact of ice shelf
+        disintegration on tributary glaciers</arg>
+      </example>
+    </roleset>
+  </predicate>
+  <predicate lemma="reference">
+    <roleset id="reference.04" name="refer to">
+      <roles>
+        <role descr="person making reference" f="pag" n="0"/>
+        <role descr="thing referenced" f="ppt" n="1"/>
+        <role descr="secondary attribute, referenced-as" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,21 @@
+<frameset>
+  <predicate lemma="severe">
+    <roleset id="severe.01" name="extreme, ext">
+      <roles>
+        <role descr="thing graded as extreme" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="severe.02" name="strict, harsh (behavior)">
+      <roles>
+        <role descr="strict one" f="pag" n="0"/>
+        <role descr="strict action/thing, strict about what" f="ppt" n="1"/>
+        <role descr="target of strict behavior" f="gol" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="severe.03" name="aesthetically harsh, austere">
+      <roles>
+        <role descr="harsh/austere thing" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

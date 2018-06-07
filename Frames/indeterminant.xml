@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="indeterminant">
+    <roleset id="indeterminant.01" name="not determined, variable">
+      <roles>
+        <role descr="indeterminant thing" f="ppt" n="1"/>
+        <role descr="grounds" f="dir" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

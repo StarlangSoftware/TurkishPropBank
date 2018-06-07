@@ -1,0 +1,19 @@
+<frameset>
+  <predicate lemma="crowbar">
+    <roleset id="crowbar.01" name="force a thing into a destination">
+      <roles>
+        <role descr="agent, wielder of crowbar" f="pag" n="0"/>
+        <role descr="entity allowed in (theme)" f="ppt" n="1"/>
+        <role descr="destination" f="gol" n="2"/>
+        <role descr="the crowbar" f="mnr" n="3"/>
+      </roles>
+    </roleset>
+    <roleset id="crowbar.02" name="attack/ pry at with a crowbar, potentially with resulting state">
+      <roles>
+        <role descr="agent, wielder of crowbar" f="pag" n="0"/>
+        <role descr="thing attacked/pried/damaged with a crowbar (patient)" f="ppt" n="1"/>
+        <role descr="resulting state of arg1" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

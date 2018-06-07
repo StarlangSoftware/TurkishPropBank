@@ -1,0 +1,58 @@
+<frameset>
+  <predicate lemma="buy">
+    <roleset id="buy.01" name="purchase">
+      <roles>
+        <role descr="buyer" f="pag" n="0"/>
+        <role descr="thing bought" f="ppt" n="1"/>
+        <role descr="seller" f="dir" n="2"/>
+        <role descr="price paid" f="vsp" n="3"/>
+        <role descr="benefactive" f="gol" n="4"/>
+      </roles>
+    </roleset>
+    <roleset id="buy.05" name="accept as truth">
+      <roles>
+        <role descr="believer" f="pag" n="0"/>
+        <role descr="thing believed" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="buy_up">
+    <roleset id="buy_up.02" name="purchase extensively">
+      <roles>
+        <role descr="buyer" f="pag" n="0"/>
+        <role descr="thing bought" f="ppt" n="1"/>
+        <role descr="seller" f="dir" n="2"/>
+        <role descr="price paid" f="vsp" n="3"/>
+        <role descr="benefactive" f="gol" n="4"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="buy_out">
+    <roleset id="buy_out.03" name="purchase completely">
+      <roles>
+        <role descr="buyer" f="pag" n="0"/>
+        <role descr="thing bought" f="ppt" n="1"/>
+        <role descr="seller" f="dir" n="2"/>
+        <role descr="price paid" f="vsp" n="3"/>
+        <role descr="benefactive" f="gol" n="4"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="buy_into">
+    <roleset id="buy_into.04" name="subscribe to an idea/fad">
+      <roles>
+        <role descr="entity buying in" f="pag" n="0"/>
+        <role descr="idea/fad" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="buy_off">
+    <roleset id="buy_off.06" name="tranfer money to someone in exchange for a favor">
+      <roles>
+        <role descr="briber" f="pag" n="0"/>
+        <role descr="entity bribed" f="ppt" n="1"/>
+        <role descr="payment" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

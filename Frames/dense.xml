@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="dense">
+    <roleset id="dense.01" name="composed of bits that are crowded together">
+      <roles>
+        <role descr="dense entity" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

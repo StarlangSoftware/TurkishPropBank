@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="denote">
+    <roleset id="denote.01" name="serve as indication of">
+      <roles>
+        <role descr="thing denoting" f="pag" n="0"/>
+        <role descr="thing denoted" f="ppt" n="1"/>
+        <role descr="intrument" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="unconstrain">
+    <roleset id="unconstrain.01" name="not restricted">
+      <roles>
+        <role descr="Agent, entity allowing or causing unhindered action" f="pag" n="0"/>
+        <role descr="Theme (unhindered action or object)" f="ppt" n="1"/>
+        <role descr="secondary predication or action, unconstrained from X" f="prd" n="2"/>
+        <role descr="instrument, when seperate from arg0" f="mnr" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

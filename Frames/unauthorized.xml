@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="unauthorized">
+    <roleset id="unauthorized.01" name="not having permission">
+      <roles>
+        <role descr="authority" f="pag" n="0"/>
+        <role descr="unauthorized activity/thing" f="ppt" n="1"/>
+        <role descr="secondary agent not having permission" f="ppt" n="2"/>
+        <role descr="arg1 unauthorized for what purpose" f="prp" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

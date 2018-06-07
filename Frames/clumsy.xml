@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="clumsy">
+    <roleset id="clumsy.01" name="uncoordinated">
+      <roles>
+        <role descr="clumsy entity (may require concatenation)" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

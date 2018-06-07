@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="transfuse">
+    <roleset id="transfuse.101" name="transferring blood/marrow into a patient">
+      <roles>
+        <role descr="Doctor" f="pag" n="0"/>
+        <role descr="Patient" f="ppt" n="1"/>
+        <role descr="Substance" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

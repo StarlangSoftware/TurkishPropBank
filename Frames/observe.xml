@@ -1,0 +1,18 @@
+<frameset>
+  <predicate lemma="observe">
+    <roleset id="observe.01" name="look at, mark">
+      <roles>
+        <role descr="observer" f="ppt" n="0"/>
+        <role descr="thing looked at" f="pag" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="observe.02" name="say, state">
+      <roles>
+        <role descr="Sayer" f="pag" n="0"/>
+        <role descr="Utterance" f="ppt" n="1"/>
+        <role descr="Hearer" f="gol" n="2"/>
+        <role descr="Attributive" f="prd" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

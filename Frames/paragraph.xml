@@ -1,0 +1,15 @@
+<frameset>
+  <predicate lemma="paragraph">
+    <roleset id="paragraph.01" name="divide into paragraphs">
+      <roles>
+        <role descr="Agent defining paragraph boundaries" f="PAG" n="0"/>
+      </roles>
+    </roleset>
+    <roleset id="paragraph.02" name="write paragraphs">
+      <roles>
+        <role descr="writer" f="PAG" n="0"/>
+        <role descr="topic" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

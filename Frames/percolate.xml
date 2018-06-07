@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="percolate">
+    <roleset id="percolate.01" name="pass or ooze through">
+      <roles>
+        <role descr="agent of percolation" f="pag" n="0"/>
+        <role descr="liquid substance" f="ppt" n="1"/>
+        <role descr="passing through what" f="loc" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

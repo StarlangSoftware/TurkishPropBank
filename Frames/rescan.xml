@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="rescan">
+    <roleset id="rescan.01" name="reimage">
+      <roles>
+        <role descr="doctor/radiologist" f="pag" n="0"/>
+        <role descr="patient" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

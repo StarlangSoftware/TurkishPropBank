@@ -1,0 +1,14 @@
+<frameset>
+  <predicate lemma="precut">
+    <roleset id="precut.01" name="cut beforehand">
+      <roles>
+        <role descr="cutter" f="pag" n="0"/>
+        <role descr="thing cut" f="ppt" n="1"/>
+        <role descr="medium, source" f="dir" n="2"/>
+        <role descr="instrument" f="mnr" n="3"/>
+        <role descr="beneficiary" f="gol" n="4"/>
+        <role descr="pieces" f="prd" n="5"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

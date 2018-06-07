@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="evert">
+    <roleset id="evert.01" name="turning inside out">
+      <roles>
+        <role descr="agent, turner" f="pag" n="0"/>
+        <role descr="thing now inside out" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

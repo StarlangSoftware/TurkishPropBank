@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="email">
+    <roleset id="email.01" name="send a message electronically">
+      <roles>
+        <role descr="emailer" f="pag" n="0"/>
+        <role descr="message, email" f="ppt" n="1"/>
+        <role descr="recipient, mailed-to" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

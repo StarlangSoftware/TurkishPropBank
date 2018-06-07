@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="span">
+    <roleset id="span.01" name="to extend across in space or time">
+      <roles>
+        <role descr="thing extending" f="PPT" n="0"/>
+        <role descr="entity spanned" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

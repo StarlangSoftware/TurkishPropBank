@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="insufficient">
+    <roleset id="insufficient.01" name="inadequate">
+      <roles>
+        <role descr="inadequate entity" f="pag" n="0"/>
+        <role descr="entity not satisfied by arg0" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

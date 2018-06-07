@@ -1,0 +1,15 @@
+<frameset>
+  <predicate lemma="precipitate">
+    <roleset id="precipitate.01" name="to cause to happen">
+      <roles>
+        <role descr="cause" f="PAG" n="0"/>
+        <role descr="precipitated action" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="precipitate.02" name="rain/snow/etc.">
+      <roles>
+        <role descr="the watery substance falling from the sky" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

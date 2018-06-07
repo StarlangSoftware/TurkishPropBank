@@ -1,0 +1,20 @@
+<frameset>
+  <predicate lemma="progress">
+    <roleset id="progress.01" name="move forwards">
+      <roles>
+        <role descr="thing moving" f="pag" n="1"/>
+        <role descr="aspect of arg1 that is actually progressing" f="vsp" n="2"/>
+        <role descr="start point" f="dir" n="3"/>
+        <role descr="end point" f="gol" n="4"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="progressive">
+    <roleset id="progressive.02" name="supporting progressive politics/ideology">
+      <roles>
+        <role descr="ideologically progressive entity" f="pag" n="1"/>
+        <role descr="domain in which progressive ideas apply" f="vsp" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

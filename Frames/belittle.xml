@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="belittle">
+    <roleset id="belittle.01" name="make seem insignificant">
+      <roles>
+        <role descr="causer of apparent insignificance, agent" f="PAG" n="0"/>
+        <role descr="apparently insignificant thing" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

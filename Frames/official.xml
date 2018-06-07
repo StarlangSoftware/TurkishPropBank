@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="official">
+    <roleset id="official.01" name="properly sanctioned">
+      <roles>
+        <role descr="official entity" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,29 @@
+<frameset>
+  <predicate lemma="mix">
+    <roleset id="mix.01" name="mix, combine">
+      <roles>
+        <role descr="agent, mixer" f="PAG" n="0"/>
+        <role descr="ingredient one" f="PPT" n="1"/>
+        <role descr="ingredient two" f="PPT" n="2"/>
+        <role descr="end product" f="prd" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="mix_up">
+    <roleset id="mix_up.02" name="phrasal mix, combine">
+      <roles>
+        <role descr="agent, mixer" f="PAG" n="0"/>
+        <role descr="ingredient one" f="ppt" n="1"/>
+        <role descr="ingredient two" f="ppt" n="2"/>
+        <role descr="end product" f="prd" n="3"/>
+      </roles>
+    </roleset>
+    <roleset id="mix_up.03" name="confuse">
+      <roles>
+        <role descr="agent, mixer" f="PAG" n="0"/>
+        <role descr="first thing confused" f="ppt" n="1"/>
+        <role descr="confused with what" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

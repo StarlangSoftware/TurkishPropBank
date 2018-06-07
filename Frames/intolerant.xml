@@ -1,0 +1,18 @@
+<frameset>
+  <predicate lemma="intolerant">
+    <roleset id="intolerant.01" name="having no tolerance">
+      <roles>
+        <role descr="non-tolerator" f="pag" n="0"/>
+        <role descr="thing not tolerated" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="intolerable">
+    <roleset id="intolerable.02" name="not able to be tolerated">
+      <roles>
+        <role descr="non-tolerator" f="pag" n="0"/>
+        <role descr="thing not tolerated" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

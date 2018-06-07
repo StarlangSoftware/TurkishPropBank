@@ -1,0 +1,19 @@
+<frameset>
+  <predicate lemma="familiarize">
+    <roleset id="familiarize.01" name="make familiar, recognizable, known">
+      <roles>
+        <role descr="agent, causer of familiarity" f="pag" n="0"/>
+        <role descr="recognizer" f="gol" n="1"/>
+        <role descr="recognizable thing, familiar with" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="familiar">
+    <roleset id="familiar.02" name="overly friendly, personal">
+      <roles>
+        <role descr="overly personal one" f="pag" n="0"/>
+        <role descr="target of familiarity" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

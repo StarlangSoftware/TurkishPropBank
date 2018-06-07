@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="putty">
+    <roleset id="putty.01" name="secure or cover with putty">
+      <roles>
+        <role descr="agent, putty-er" f="PAG" n="0"/>
+        <role descr="location/entity covered in putty" f="GOL" n="1"/>
+        <role descr="putty itself, type of putty" f="PPT" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

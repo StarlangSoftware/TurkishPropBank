@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="airstrike">
+    <roleset id="airstrike.12" name="attack from the air">
+      <roles>
+        <role descr="striker" f="pag" n="0"/>
+        <role descr="target struck/attacked" f="ppt" n="1"/>
+        <role descr="weapon" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

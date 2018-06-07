@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="sessile">
+    <roleset id="sessile.01" name="fixed in place, immobile">
+      <roles>
+        <role descr="immobile entity" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

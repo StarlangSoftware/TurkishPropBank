@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="shortcoming">
+    <roleset id="shortcoming.01" name="coming up short">
+      <roles>
+        <role descr="entity coming up short" f="PAG" n="0"/>
+        <role descr="domain in which arg1 is coming up short" f="vsp" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

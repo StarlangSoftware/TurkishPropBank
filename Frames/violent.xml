@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="violent">
+    <roleset id="violent.01" name="behaving violently">
+      <roles>
+        <role descr="agent of violent behavior" f="pag" n="0"/>
+        <role descr="non-agentive thing/action characterized by violence" f="ppt" n="1"/>
+        <role descr="target of violent behavior; victim" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

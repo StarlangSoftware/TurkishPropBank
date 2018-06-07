@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="undock">
+    <roleset id="undock.01" name="unsecure/release a boat from the dock">
+      <roles>
+        <role descr="agent, sailor" f="pag" n="0"/>
+        <role descr="boat" f="ppt" n="1"/>
+        <role descr="dock" f="dir" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,185 @@
+<frameset>
+  <predicate lemma="run">
+    <roleset id="run.01" name="operate, proceed, operate or proceed">
+      <roles>
+        <role descr="operator" f="pag" n="0"/>
+        <role descr="machine, operation, procedure" f="ppt" n="1"/>
+        <role descr="employer" f="gol" n="2"/>
+        <role descr="coworker" f="com" n="3"/>
+        <role descr="instrumental" f="mnr" n="4"/>
+      </roles>
+    </roleset>
+    <roleset id="run.02" name="walk quickly, a course or contest, run/jog, run for office">
+      <roles>
+        <role descr="runner" f="ppt" n="0"/>
+        <role descr="course, race, distance" f="loc" n="1"/>
+        <role descr="opponent" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="run.03" name="cost">
+      <roles>
+        <role descr="commodity" f="ppt" n="1"/>
+        <role descr="price" f="vsp" n="2"/>
+        <role descr="buyer" f="gol" n="3"/>
+      </roles>
+    </roleset>
+    <roleset id="run.04" name="range, extend">
+      <roles>
+        <role descr="agent (rare)" f="pag" n="0"/>
+        <role descr="logical subject, thing ranging" f="ppt" n="1"/>
+        <role descr="EXT, distance run" f="ext" n="2"/>
+        <role descr="start point" f="dir" n="3"/>
+        <role descr="end point" f="gol" n="4"/>
+        <role descr="medium" f="mnr" n="m"/>
+      </roles>
+    </roleset>
+    <roleset id="run.07" name="encounter">
+      <roles>
+        <role descr="encounterer" f="ppt" n="0"/>
+        <role descr="thing encountered" f="loc" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="run.08" name="caused motion">
+      <roles>
+        <role descr="causer of motion" f="pag" n="0"/>
+        <role descr="entity in motion" f="ppt" n="1"/>
+        <role descr="destination" f="gol" n="2"/>
+        <role descr="source" f="dir" n="3"/>
+      </roles>
+    </roleset>
+    <roleset id="run.09" name="cause to appear in media, broadcasting">
+      <roles>
+        <role descr="advertiser" f="pag" n="0"/>
+        <role descr="advertisement, series, etc" f="ppt" n="1"/>
+        <role descr="medium" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="run.10" name="various idioms/multi-word expressions, various idioms, multi-word expressions">
+      <roles>
+        <role descr="runner, agent" f="pag" n="0"/>
+        <role descr="idiom; deficit, risk, etc." f="ppt" n="1"/>
+        <role descr="attribute of arg 1" f="prd" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="run.13" name="progression over a specific (maybe time) span">
+      <roles>
+        <role descr="instigator/ agent/ causer of run" f="pag" n="0"/>
+        <role descr="thing progressing" f="ppt" n="1"/>
+        <role descr="time span" f="ext" n="2"/>
+        <role descr="secondary theme" f="vsp" n="3"/>
+      </roles>
+    </roleset>
+    <roleset id="run.14" name="earn points (on exam/competition)">
+      <roles>
+        <role descr="athlete, scorer" f="pag" n="0"/>
+      </roles>
+    </roleset>
+    <roleset id="run.15" name="defect or hole">
+      <roles>
+        <role descr="damaged item or location of the run" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="run.16" name="nomlike-run-away">
+      <roles>
+        <role descr="entity escaping" f="pag" n="0"/>
+        <role descr="place or thing escaped" f="ppt" n="1"/>
+        <role descr="running from" f="dir" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="run.17" name="mass mad dash to take money out of the banks">
+      <roles>
+        <role descr="scared bank customers" f="pag" n="0"/>
+        <role descr="bank" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="run.23" name="check information against a database">
+      <roles>
+        <role descr="agent" f="pag" n="0"/>
+        <role descr="information checked" f="ppt" n="1"/>
+        <role descr="database run against" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="run_out">
+    <roleset id="run_out.05" name="run out: exhaust, exhausting, running out">
+      <roles>
+        <role descr="commodity" f="ppt" n="1"/>
+        <role descr="benefactive" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="run_up">
+    <roleset id="run_up.06" name="run up: accumulate, accumulating">
+      <roles>
+        <role descr="entity accumulating something" f="pag" n="0"/>
+        <role descr="thing/stuff accumulated" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="run_up.19" name="progression (maybe time span) leading up to a deadline">
+      <roles>
+        <role descr="agent of running-up" f="pag" n="0"/>
+        <role descr="thing progressing" f="ppt" n="1"/>
+        <role descr="deadline" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="run_down">
+    <roleset id="run_down.11" name="run_down: wear out, tire">
+      <roles>
+        <role descr="agent/cause of tiredness" f="pag" n="0"/>
+        <role descr="entity becoming tired" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="run_down.21" name="explain">
+      <roles>
+        <role descr="explainer" f="pag" n="0"/>
+        <role descr="thing explained" f="ppt" n="1"/>
+        <role descr="explained to" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="run_over">
+    <roleset id="run_over.12" name="drive over somebody/something">
+      <roles>
+        <role descr="agent, driver" f="pag" n="0"/>
+        <role descr="victim, smashed thing" f="ppt" n="1"/>
+        <role descr="vehicle" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="run_off">
+    <roleset id="run_off.18" name="final round of voting between remaining candidates">
+      <roles>
+        <role descr="voters" f="pag" n="0"/>
+        <role descr="candidates" f="ppt" n="1"/>
+        <role descr="position candidate will be elected to, subject matter of election" f="prd" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="run_off.24" name="run away, abscond">
+      <roles>
+        <role descr="runaway" f="pag" n="0"/>
+        <role descr="thing taken" f="ppt" n="1"/>
+        <role descr="destination" f="gol" n="2"/>
+        <role descr="entity accompanied" f="com" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="run_in">
+    <roleset id="run_in.20" name="encounter">
+      <roles>
+        <role descr="entity doing the encountering" f="pag" n="0"/>
+        <role descr="subject-matter of the encounter" f="ppt" n="1"/>
+        <role descr="entity encountered" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="runaround">
+    <roleset id="runaround.22" name="evasive or avoiding behavior">
+      <roles>
+        <role descr="causer" f="pag" n="0"/>
+        <role descr="delayed or deceived entity" f="ppt" n="1"/>
+        <role descr="topic, decieved about/delayed in" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

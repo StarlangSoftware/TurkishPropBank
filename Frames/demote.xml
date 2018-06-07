@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="demote">
+    <roleset id="demote.01" name="diminish in rank">
+      <roles>
+        <role descr="causer of motion, employer" f="pag" n="0"/>
+        <role descr="thing in motion, employee" f="ppt" n="1"/>
+        <role descr="destination, new job" f="gol" n="2"/>
+        <role descr="source, old job" f="dir" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

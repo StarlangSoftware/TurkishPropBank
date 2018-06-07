@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="codeletion">
+    <roleset id="codeletion.01" name="delete two genes simultaniously">
+      <roles>
+        <role descr="entity removing" f="pag" n="0"/>
+        <role descr="thing being removed" f="ppt" n="1"/>
+        <role descr="removed from" f="dir" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

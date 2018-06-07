@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="erase">
+    <roleset id="erase.01" name="remove marks">
+      <roles>
+        <role descr="eraser" f="pag" n="0"/>
+        <role descr="thing erased, mark" f="ppt" n="1"/>
+        <role descr="medium, surface" f="dir" n="2"/>
+        <role descr="instrument, if separate from arg0" f="mnr" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

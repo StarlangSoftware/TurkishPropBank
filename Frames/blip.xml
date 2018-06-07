@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="blip">
+    <roleset id="blip.01" name="move in a small, fast increment">
+      <roles>
+        <role descr="entity in motion" f="pag" n="1"/>
+        <role descr="amount moved" f="ext" n="2"/>
+        <role descr="start point" f="dir" n="3"/>
+        <role descr="end point" f="gol" n="4"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

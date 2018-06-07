@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="medicate">
+    <roleset id="medicate.01" name="give medicine to, giving medicine to (not medicine itself)">
+      <roles>
+        <role descr="doctor" f="pag" n="0"/>
+        <role descr="patient" f="gol" n="1"/>
+        <role descr="medication" f="ppt" n="2"/>
+        <role descr="illness" f="cau" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

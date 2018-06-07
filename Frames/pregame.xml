@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="pregame">
+    <roleset id="pregame.01" name="drink or celebrate, before an event or outing">
+      <roles>
+        <role descr="partier" f="pag" n="0"/>
+        <role descr="party with" f="ppt" n="1"/>
+        <role descr="occasion (ie football game)" f="cau" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

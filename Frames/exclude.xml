@@ -1,0 +1,20 @@
+<frameset>
+  <predicate lemma="exclude">
+    <roleset id="exclude.01" name="exclude, except">
+      <roles>
+        <role descr="agent, excluder" f="pag" n="0"/>
+        <role descr="patient, thing excluded" f="ppt" n="1"/>
+        <role descr="excluded-from" f="vsp" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="exclusive">
+    <roleset id="exclusive.02" name="snobbish, reserved for a select elite group">
+      <roles>
+        <role descr="exclusive entity/location/organization" f="pag" n="0"/>
+        <role descr="elite group reserved for" f="ppt" n="1"/>
+        <role descr="group excluded" f="vsp" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

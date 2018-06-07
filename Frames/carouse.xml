@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="carouse">
+    <roleset id="carouse.01" name="drunken, riotous merrymaking">
+      <roles>
+        <role descr="first carouser" f="PAG" n="0"/>
+        <role descr="other party carousing, carousing with" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="comprehensive">
+    <roleset id="comprehensive.01" name="all inclusive">
+      <roles>
+        <role descr="comprehensive entity" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

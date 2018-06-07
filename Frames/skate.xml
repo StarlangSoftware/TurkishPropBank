@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="skate">
+    <roleset id="skate.01" name="move on, or as if on, skates">
+      <roles>
+        <role descr="skater" f="pag" n="0"/>
+        <role descr="Path" f="loc" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

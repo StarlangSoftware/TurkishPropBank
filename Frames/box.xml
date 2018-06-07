@@ -1,0 +1,42 @@
+<frameset>
+  <predicate lemma="box">
+    <roleset id="box.01" name="to store in a box, put in a box to store">
+      <roles>
+        <role descr="storer" f="pag" n="0"/>
+        <role descr="thing stored" f="ppt" n="1"/>
+        <role descr="box" f="gol" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="box.02" name="enclosing (/being enclosed), forming an enclosure">
+      <roles>
+        <role descr="cause" f="pag" n="0"/>
+        <role descr="entity forming a box" f="ppt" n="1"/>
+        <role descr="enclosed area" f="gol" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="box.03" name="fight, boxing style">
+      <roles>
+        <role descr="First fighter" f="pag" n="0"/>
+        <role descr="Second fighter" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="box_in">
+    <roleset id="box_in.04" name="trap, enclose">
+      <roles>
+        <role descr="agent/cause of entrapment" f="pag" n="0"/>
+        <role descr="the walls, trap (if separate from arg1)" f="ppt" n="1"/>
+        <role descr="entity trapped, enclosed" f="ppt" n="2"/>
+        <role descr="in regards to what" f="vsp" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="kickbox">
+    <roleset id="kickbox.05" name="Fight primarily with one's feet, often as a form of exercise.">
+      <roles>
+        <role descr="kickboxer, agent, first fighter" f="pag" n="0"/>
+        <role descr="second fighter" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

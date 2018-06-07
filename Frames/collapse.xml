@@ -1,0 +1,22 @@
+<frameset>
+  <predicate lemma="collapse">
+    <roleset id="collapse.01" name="fall down, lower">
+      <roles>
+        <role descr="agent, outside causer of collapse" f="pag" n="0"/>
+        <role descr="thing collapsing" f="ppt" n="1"/>
+        <role descr="extent of collapse" f="ext" n="2"/>
+        <role descr="starting point" f="dir" n="3"/>
+        <role descr="ending point" f="gol" n="4"/>
+      </roles>
+    </roleset>
+    <roleset id="collapse.02" name="stock reportage">
+      <roles>
+        <role descr="agent, outside causer of collapse" f="pag" n="0"/>
+        <role descr="thing collapsing" f="ppt" n="1"/>
+        <role descr="extent of collapse" f="ext" n="2"/>
+        <role descr="starting point" f="dir" n="3"/>
+        <role descr="ending point" f="gol" n="4"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

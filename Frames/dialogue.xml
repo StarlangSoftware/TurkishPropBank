@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="dialogue">
+    <roleset id="dialogue.01" name="talk about">
+      <roles>
+        <role descr="agent/discussant" f="pag" n="0"/>
+        <role descr="theme/topic" f="ppt" n="1"/>
+        <role descr="second actor" f="com" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="secondary">
+    <roleset id="secondary.01" name="coming after (temporally or importance, etc)">
+      <roles>
+        <role descr="secondary thing" f="pag" n="1"/>
+        <role descr="second to what" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

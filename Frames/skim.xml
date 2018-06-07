@@ -1,0 +1,26 @@
+<frameset>
+  <predicate lemma="skim">
+    <roleset id="skim.01" name="move lightly over the surface of">
+      <roles>
+        <role descr="thing in motion" f="PAG" n="0"/>
+        <role descr="surface of what" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="skim.02" name="remove from the very top">
+      <roles>
+        <role descr="agent, remover" f="PAG" n="0"/>
+        <role descr="thing removed, skimmed" f="PPT" n="1"/>
+        <role descr="top of what, source" f="DIR" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="skim_off">
+    <roleset id="skim_off.03" name="remove from the very top, phrasal">
+      <roles>
+        <role descr="agent, remover" f="PAG" n="0"/>
+        <role descr="thing removed, skimmed" f="PPT" n="1"/>
+        <role descr="top of what, source" f="DIR" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

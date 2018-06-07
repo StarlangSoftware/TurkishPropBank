@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="perjure">
+    <roleset id="perjure.01" name="legally swear to something false">
+      <roles>
+        <role descr="liar" f="pag" n="0"/>
+        <role descr="enitity perjured (usually self)" f="ppt" n="1"/>
+        <role descr="the lie, oath" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

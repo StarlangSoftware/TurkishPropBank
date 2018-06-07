@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="overheat">
+    <roleset id="overheat.01" name="(cause to) get overly hot">
+      <roles>
+        <role descr="agent (rare)" f="PAG" n="0"/>
+        <role descr="hot thing" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

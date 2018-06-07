@@ -1,0 +1,28 @@
+<frameset>
+  <predicate lemma="suspend">
+    <roleset id="suspend.01" name="put a stop to, temporarily, temporarily halt a process">
+      <roles>
+        <role descr="agent" f="pag" n="0"/>
+        <role descr="action or object being stopped" f="ppt" n="1"/>
+        <role descr="attribute/function of arg1" f="prd" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="suspend.02" name="hang">
+      <roles>
+        <role descr="agent, entity causing something to be suspended" f="PAG" n="0"/>
+        <role descr="thing suspended" f="PPT" n="1"/>
+        <role descr="suspended from" f="GOL" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="suspension">
+    <roleset id="suspension.03" name="receive a punitive suspension">
+      <roles>
+        <role descr="agent/authority capable of administering suspension" f="pag" n="0"/>
+        <role descr="entity getting suspended (might be a person, or their license, etc)" f="ppt" n="1"/>
+        <role descr="position/place/activity suspended from" f="prd" n="2"/>
+        <role descr="crime" f="cau" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

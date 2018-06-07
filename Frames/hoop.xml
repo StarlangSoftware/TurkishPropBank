@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="hoop">
+    <roleset id="hoop.01" name="play basketball">
+      <roles>
+        <role descr="player" f="pag" n="0"/>
+        <role descr="mention of the game" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

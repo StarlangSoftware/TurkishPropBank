@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="browse">
+    <roleset id="browse.01" name="look at or through casually">
+      <roles>
+        <role descr="brows-er" f="pag" n="0"/>
+        <role descr="thing browsed" f="loc" n="1"/>
+        <role descr="thing looked for, sought" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

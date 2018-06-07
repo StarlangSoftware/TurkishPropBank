@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="pinpoint">
+    <roleset id="pinpoint.01" name="determine quite detailedly">
+      <roles>
+        <role descr="decider" f="PAG" n="0"/>
+        <role descr="thing decided" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

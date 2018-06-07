@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="vascularize">
+    <roleset id="vascularize.01" name="supply with blood vessels">
+      <roles>
+        <role descr="intentional agent of vascularization(e.g. scientist)" f="pag" n="0" />
+        <role descr="vascular entity" f="GOL" n="1" />
+        <role descr="vessels" f="PPT" n="2" />
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

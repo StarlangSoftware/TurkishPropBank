@@ -1,0 +1,17 @@
+<frameset>
+  <predicate lemma="struggle">
+    <roleset id="struggle.01" name="engage in a battle with someone">
+      <roles>
+        <role descr="first struggler" f="pag" n="0"/>
+        <role descr="second struggler" f="com" n="1"/>
+        <role descr="topic or prize" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="struggle.02" name="try very hard">
+      <roles>
+        <role descr="entity trying" f="pag" n="0"/>
+        <role descr="predicative action" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

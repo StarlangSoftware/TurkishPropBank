@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="subsume">
+    <roleset id="subsume.01" name="include, incorporate">
+      <roles>
+        <role descr="thing included" f="ppt" n="1"/>
+        <role descr="included in, subsumed by" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

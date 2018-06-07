@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="skydive">
+    <roleset id="skydive.01" name="to jump from a plane with a parachute">
+      <roles>
+        <role descr="skydiver" f="PAG" n="0"/>
+        <role descr="thing jumped from or off" f="loc" n="1"/>
+        <role descr="jumping with" f="com" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

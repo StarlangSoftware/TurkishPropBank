@@ -1,0 +1,19 @@
+<frameset>
+  <predicate lemma="incline">
+    <roleset id="incline.01" name="want to, (cause to be) tending towards, prone to,">
+      <roles>
+        <role descr="entity feeling inclined; wanter" f="pag" n="0"/>
+        <role descr="toward what; specific thing wanted" f="ppt" n="1"/>
+        <role descr="domain of arg1" f="vsp" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="inclined">
+    <roleset id="inclined.02" name="angled, at a slope">
+      <roles>
+        <role descr="thing at an angle" f="ppt" n="1"/>
+        <role descr="angle measurment" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

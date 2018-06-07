@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="foster">
+    <roleset id="foster.01" name="to promote the growth of">
+      <roles>
+        <role descr="promoter of growth, agent" f="pag" n="0"/>
+        <role descr="thing growing" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

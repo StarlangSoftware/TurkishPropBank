@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="iterate">
+    <roleset id="iterate.01" name="repeat, utter again">
+      <roles>
+        <role descr="speaker" f="pag" n="0"/>
+        <role descr="utterance or action that is repeated" f="ppt" n="1"/>
+        <role descr="listener when arg 1 is an utterance" f="gol" n="2"/>
+        <role descr="number of repetitions" f="ext" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

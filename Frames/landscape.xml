@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="landscape">
+    <roleset id="landscape.01" name="enhance appearance, enhancing appearance (of outdoor spaces, etc)">
+      <roles>
+        
+        <role descr="agent" f="PAG" n="0"/>
+        <role descr="location enhanced" f="ppt" n="1"/>
+        <role descr="instrument" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

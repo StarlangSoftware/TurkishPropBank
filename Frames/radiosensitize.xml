@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="radiosensitize">
+    <roleset id="radiosensitize.01" name="make cells more senstive to radiation">
+      <roles>
+        <role descr="cause of sensitivity" f="pag" n="0"/>
+        <role descr="entity becoming senstive" f="ppt" n="1"/>
+        <role descr="senstive to what" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

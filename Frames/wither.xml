@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="wither">
+    <roleset id="wither.01" name="like an unwatered plant">
+      <roles>
+        <role descr="cause of withering" f="PAG" n="0"/>
+        <role descr="plant" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

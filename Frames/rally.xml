@@ -1,0 +1,20 @@
+<frameset>
+  <predicate lemma="rally">
+    <roleset id="rally.01" name="summon to a cause">
+      <roles>
+        <role descr="summoner" f="PAG" n="0"/>
+        <role descr="summoned" f="PPT" n="1"/>
+        <role descr="cause" f="cau" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="rally.02" name="(cause to) suddenly show better performance">
+      <roles>
+        <role descr="causative agent" f="PAG" n="0"/>
+        <role descr="performer" f="PPT" n="1"/>
+        <role descr="EXT, amount risen" f="ext" n="2"/>
+        <role descr="start point" f="dir" n="3"/>
+        <role descr="end point" f="gol" n="4"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

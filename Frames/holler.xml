@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="holler">
+    <roleset id="holler.01" name="to shout, yell">
+      <roles>
+        <role descr="speaker" f="PAG" n="0"/>
+        <role descr="utterance, holler about" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

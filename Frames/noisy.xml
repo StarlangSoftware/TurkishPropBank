@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="noisy">
+    <roleset id="noisy.01" name="loud">
+      <roles>
+        <role descr="noisy entity, place" f="pag" n="1"/>
+        <role descr="explicit mention of the noise, if in addition to arg1" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

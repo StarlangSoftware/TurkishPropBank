@@ -1,0 +1,16 @@
+<frameset>
+  <predicate lemma="decent">
+    <roleset id="decent.01" name="generally acceptable, sufficient">
+      <roles>
+        <role descr="generally sufficient entity" f="ppt" n="1"/>
+        <role descr="target of decent behavior" f="gol" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="decent.02" name="adequately skilled at">
+      <roles>
+        <role descr="adequately skilled entity" f="pag" n="1"/>
+        <role descr="skill" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,18 @@
+<frameset>
+  <predicate lemma="tweet">
+    <roleset id="tweet.01" name="make the noise 'tweet', make tweety sounds">
+      <roles>
+        <role descr="bird" f="pag" n="0"/>
+        <role descr="message conveyed" f="ppt" n="1"/>
+        <role descr="recipient, tweeted-to" f="gol" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="tweet.02" name="post a short message on twitter">
+      <roles>
+        <role descr="tweet-er, composer of message" f="PAG" n="0"/>
+        <role descr="message" f="ppt" n="1"/>
+        <role descr="tweeted to; followers or blog" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

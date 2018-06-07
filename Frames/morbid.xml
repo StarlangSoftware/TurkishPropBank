@@ -1,0 +1,16 @@
+<frameset>
+  <predicate lemma="morbid">
+    <roleset id="morbid.01" name="pathological, diseased">
+      <roles>
+        <role descr="tissue having a pathology" f="pag" n="1"/>
+        <role descr="disease" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="morbid.02" name="gruesome, preoccupied with the gruesome">
+      <roles>
+        <role descr="morbid entity" f="pag" n="1"/>
+        <role descr="aspect/subject matter about which arg1 is morbid" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

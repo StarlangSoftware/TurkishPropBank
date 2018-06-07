@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="handle">
+    <roleset id="handle.01" name="hold, metaphorically deal with">
+      <roles>
+        <role descr="handler" f="pag" n="0"/>
+        <role descr="thing handled" f="ppt" n="1"/>
+        <role descr="handled for" f="gol" n="2"/>
+        <role descr="handled with" f="prd" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

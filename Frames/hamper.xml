@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="hamper">
+    <roleset id="hamper.01" name="obstruct, hinder">
+      <roles>
+        <role descr="obstruction" f="pag" n="0"/>
+        <role descr="effort" f="ppt" n="1"/>
+        <role descr="secondary agent, agent of arg1" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

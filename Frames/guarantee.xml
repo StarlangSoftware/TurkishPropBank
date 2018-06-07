@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="guarantee">
+    <roleset id="guarantee.01" name="promise">
+      <roles>
+        <role descr="entity making guarantee" f="pag" n="0"/>
+        <role descr="guarantee" f="ppt" n="1"/>
+        <role descr="benefactive, guaranteed-to" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

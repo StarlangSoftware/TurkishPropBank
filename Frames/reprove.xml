@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="reprove">
+    <roleset id="reprove.01" name="chastise, blame">
+      <roles>
+        <role descr="blamer" f="pag" n="0"/>
+        <role descr="blamed" f="ppt" n="1"/>
+        <role descr="cause" f="cau" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

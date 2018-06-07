@@ -1,0 +1,18 @@
+<frameset>
+  <predicate lemma="halt">
+    <roleset id="halt.01" name="stop">
+      <roles>
+        <role descr="causer of stopping" f="pag" n="0"/>
+        <role descr="Theme (action or object being stopped)" f="ppt" n="1"/>
+        <role descr="Instrument, if separate from arg0" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="halt.02" name="halt from">
+      <roles>
+        <role descr="primary agent, preventer" f="pag" n="0"/>
+        <role descr="secondary agent, entity coming to to a halt" f="ppt" n="1"/>
+        <role descr="action secondary agent is kept from" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

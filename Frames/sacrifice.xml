@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="sacrifice">
+    <roleset id="sacrifice.01" name="give, as to a god/dess">
+      <roles>
+        <role descr="sacrificer" f="PAG" n="0"/>
+        <role descr="thing sacrificed" f="PPT" n="1"/>
+        <role descr="thing sacrificed to" f="GOL" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

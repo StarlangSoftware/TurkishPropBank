@@ -1,0 +1,17 @@
+<frameset>
+  <predicate lemma="grate">
+    <roleset id="grate.01" name="scrape">
+      <roles>
+        <role descr="agent/cause of grating" f="PAG" n="0"/>
+        <role descr="entity being grated" f="PPT" n="1"/>
+        <role descr="instrument used" f="MNR" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="grate.02" name="irritate">
+      <roles>
+        <role descr="thing that grates" f="PAG" n="1"/>
+        <role descr="entity grated" f="PPT" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="pickle">
+    <roleset id="pickle.01" name="preserve in vinegar">
+      <roles>
+        <role descr="agent, pickler" f="pag" n="0"/>
+        <role descr="thing becoming pickled" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

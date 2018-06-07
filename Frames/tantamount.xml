@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="tantamount">
+    <roleset id="tantamount.01" name="essentially equivalent">
+      <roles>
+        <role descr="first thing" f="ppt" n="1"/>
+        <role descr="second thing" f="ppt" n="2"/>
+        <role descr="domain in which the two things are equivalent" f="prd" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

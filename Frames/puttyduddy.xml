@@ -1,0 +1,18 @@
+<frameset>
+  <predicate lemma="puttyduddy">
+    <roleset id="puttyduddy.01" name="passing time unimaginatively">
+      <roles>
+        <role descr="putty-duddy person moving through time/space" f="pag" n="0"/>
+        <role descr="mention of activity done in putty-duddy fashion" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="puttyduddy_around">
+    <roleset id="puttyduddy_around.02" name="phrasal usage of acting like putty-duddy (variant of fuddy-duddy?)">
+      <roles>
+        <role descr="putty-duddy person moving through time/space" f="pag" n="0"/>
+        <role descr="mention of activity done in putty-duddy fashion" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

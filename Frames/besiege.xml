@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="besiege">
+    <roleset id="besiege.01" name="to surround or harass (as with questions or requests)">
+      <roles>
+        <role descr="causer" f="pag" n="0"/>
+        <role descr="entity besieged" f="gol" n="1"/>
+        <role descr="entity besieged with" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

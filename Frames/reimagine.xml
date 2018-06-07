@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="reimagine">
+    <roleset id="reimagine.01" name="imagine, again">
+      <roles>
+        <role descr="thinker" f="pag" n="0"/>
+        <role descr="object, thing under consideration" f="ppt" n="1"/>
+        <role descr="attribute" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

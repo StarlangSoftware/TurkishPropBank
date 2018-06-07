@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="endanger">
+    <roleset id="endanger.01" name="to expose to harm or danger, having potential to harm">
+      <roles>
+        <role descr="exposer to danger, agent" f="pag" n="0"/>
+        <role descr="entity endangered" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

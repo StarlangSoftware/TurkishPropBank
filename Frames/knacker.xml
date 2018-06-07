@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="knacker">
+    <roleset id="knacker.01" name="wear out, ruin">
+      <roles>
+        <role descr="agent/cause" f="PAG" n="0"/>
+        <role descr="thing becoming worn out, non-functional" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

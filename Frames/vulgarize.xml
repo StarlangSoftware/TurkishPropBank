@@ -1,0 +1,16 @@
+<frameset>
+  <predicate lemma="vulgarize">
+    <roleset id="vulgarize.01" name="make base or common">
+      <roles>
+        <role descr="agent, cause" f="PAG" n="0"/>
+        <role descr="thing becoming base, common" f="PPT" n="1"/>
+        <role descr="instrument" f="MNR" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="vulgarize.02" name="act in a vulgar way">
+      <roles>
+        <role descr="entity acting vulgar" f="PAG" n="0"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="catalogue">
+    <roleset id="catalogue.01" name="to make an itemized list of, classify, ">
+      <roles>
+        <role descr="creator of catalogue, agent" f="PAG" n="0"/>
+        <role descr="thing catalogued, entry" f="PPT" n="1"/>
+        <role descr="catalogue itself, or category arg1 is placed in" f="GOL" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

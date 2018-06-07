@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="hypersalivate">
+    <roleset id="hypersalivate.01" name="excessively watering at the mouth">
+      <roles>
+        <role descr="Entity experiencing hypersalivation" f="pag" n="0"/>
+        <role descr="Salivated at or because of" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="titter">
+    <roleset id="titter.01" name="laugh in a somewhat supressed manner">
+      <roles>
+        <role descr="laugher" f="pag" n="0"/>
+        <role descr="cognate object, laugh itself when mentioned" f="ppt" n="1"/>
+        <role descr="source of amusement" f="gol" n="2"/>
+        <role descr="end state of Arg0, result of snickering, into a tizzy, etc." f="prd" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

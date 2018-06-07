@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="remunerate">
+    <roleset id="remunerate.01" name="to make a payment, compensate">
+      <roles>
+        <role descr="payer, agent" f="pag" n="0"/>
+        <role descr="entity remunerated" f="ppt" n="1"/>
+        <role descr="compensation" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

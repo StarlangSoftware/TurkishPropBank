@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="pester">
+    <roleset id="pester.01" name="to bother, harass">
+      <roles>
+        <role descr="causer" f="PAG" n="0"/>
+        <role descr="person pestered" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

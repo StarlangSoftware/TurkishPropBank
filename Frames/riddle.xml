@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="riddle">
+    <roleset id="riddle.01" name="be filled with">
+      <roles>
+        <role descr="causer of riddling" f="PAG" n="0"/>
+        <role descr="entity riddled" f="GOL" n="1"/>
+        <role descr="entity riddling Arg1" f="PPT" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

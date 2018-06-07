@@ -1,0 +1,27 @@
+<frameset>
+  <predicate lemma="confer">
+    <roleset id="confer.01" name="meet with, have a conference with">
+      <roles>
+        <role descr="one party" f="pag" n="0"/>
+        <role descr="other party" f="com" n="1"/>
+      </roles>
+    
+    </roleset>
+    <roleset id="confer.02" name="grant, give, convey">
+      <roles>
+        <role descr="giver" f="pag" n="0"/>
+        <role descr="gift" f="ppt" n="1"/>
+        <role descr="given to" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="conference_in">
+    <roleset id="conference_in.03" name="join a conference remotely">
+      <roles>
+        <role descr="conference chair, one organizing call" f="pag" n="0"/>
+        <role descr="entity joining" f="ppt" n="1"/>
+        <role descr="meeting, event joined" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="outlaw">
+    <roleset id="outlaw.01" name="make illegal">
+      <roles>
+        <role descr="judicial body, agent" f="PAG" n="0"/>
+        <role descr="criminal activity" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="misinform">
+    <roleset id="misinform.01" name="give incorrect information">
+      <roles>
+        <role descr="misinformer" f="pag" n="0"/>
+        <role descr="misinformed" f="gol" n="1"/>
+        <role descr="misinformation" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

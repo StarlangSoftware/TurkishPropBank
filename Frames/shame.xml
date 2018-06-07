@@ -1,0 +1,19 @@
+<frameset>
+  <predicate lemma="shame">
+    <roleset id="shame.01" name="impel through shame, assign shame as punishment">
+      <roles>
+        <role descr="entity assigning shame/impelling through shame" f="pag" n="0"/>
+        <role descr="shamed/impelled agent" f="ppt" n="1"/>
+        <role descr="action impelled through shame" f="prd" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="shame.02" name="bring shame to another by acting shamefully oneself, causing shame">
+      <roles>
+        
+        <role descr="shameful actor/actions bringing shame to arg1" f="pag" n="0"/>
+        <role descr="entity feeling shame for arg0" f="ppt" n="1"/>
+        <role descr="shameful behavior/thing, if separate from arg0" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

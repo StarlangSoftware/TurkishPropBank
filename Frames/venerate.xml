@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="venerate">
+    <roleset id="venerate.01" name="admire, revere">
+      <roles>
+        <role descr="admirer" f="PPT" n="0"/>
+        <role descr="admired" f="CAU" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

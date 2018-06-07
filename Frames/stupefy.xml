@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="stupefy">
+    <roleset id="stupefy.01" name="astound, cause stupor in">
+      <roles>
+        <role descr="causer of stupor" f="pag" n="0"/>
+        <role descr="stupefied entity" f="ppt" n="1"/>
+        <role descr="instrument, if separate from cause" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

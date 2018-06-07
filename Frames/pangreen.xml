@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="pangreen">
+    <roleset id="pangreen.01" name="taiwanese political party">
+      <roles>
+        <role descr="pan green entity" f="pag" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

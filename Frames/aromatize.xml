@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="aromatize">
+    <roleset id="aromatize.01" name="feather">
+      <roles>
+        <role descr="causer of aromitization" f="PAG" n="0"/>
+        <role descr="destination, room, thing made aromatic" f="GOL" n="1"/>
+        <role descr="aroma itself" f="PPT" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

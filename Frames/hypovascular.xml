@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="hypovascular">
+    <roleset id="hypovascular.01" name="containing fewer than normal blood vessels">
+      <roles>
+        <role descr="hypovascular entity" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,17 @@
+<frameset>
+  <predicate lemma="prescribe">
+    <roleset id="prescribe.01" name="to establish rules">
+      <roles>
+        <role descr="establisher of rules, agent" f="pag" n="0"/>
+        <role descr="rule" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="prescribe.02" name="to order a medicine or other treatment">
+      <roles>
+        <role descr="doctor" f="pag" n="0"/>
+        <role descr="medicine" f="ppt" n="1"/>
+        <role descr="prescribed for" f="prp" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

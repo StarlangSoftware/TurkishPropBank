@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="syndicate">
+    <roleset id="syndicate.01" name="distribute by proxy">
+      <roles>
+        <role descr="giver, distributor, syndicator" f="pag" n="0"/>
+        <role descr="thing given" f="ppt" n="1"/>
+        <role descr="given to" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

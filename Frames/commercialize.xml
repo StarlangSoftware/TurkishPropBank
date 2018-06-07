@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="commercialize">
+    <roleset id="commercialize.01" name="to make commercial">
+      <roles>
+        <role descr="causer, agent" f="PAG" n="0"/>
+        <role descr="thing commercialized" f="PPT" n="1"/>
+        <role descr="instrument" f="MNR" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

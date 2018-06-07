@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="ratify">
+    <roleset id="ratify.01" name="to approve">
+      <roles>
+        <role descr="approver, agent" f="pag" n="0"/>
+        <role descr="entity ratified" f="ppt" n="1"/>
+        <role descr="beneficiary" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

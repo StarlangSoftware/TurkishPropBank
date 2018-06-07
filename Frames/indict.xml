@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="indict">
+    <roleset id="indict.01" name="accuse of a crime">
+      <roles>
+        <role descr="accuser" f="pag" n="0"/>
+        <role descr="accused" f="ppt" n="1"/>
+        <role descr="crime" f="cau" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

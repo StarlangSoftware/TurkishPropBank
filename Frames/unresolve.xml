@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="unresolve">
+    <roleset id="unresolve.01" name="be unable to solve">
+      <roles>
+        <role descr="agent, solution searcher" f="pag" n="0"/>
+        <role descr="thing not resolved" f="ppt" n="1"/>
+        <role descr="comitative, unresolved with" f="com" n="2"/>
+        <role descr="attribute, unresolved to or at" f="prd" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

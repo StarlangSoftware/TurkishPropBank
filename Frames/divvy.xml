@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="divvy_up">
+    <roleset id="divvy_up.01" name="divide, distribute">
+      <roles>
+        <role descr="divider, agent" f="pag" n="0"/>
+        <role descr="thing divided" f="ppt" n="1"/>
+        <role descr="portions, recipients" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

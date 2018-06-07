@@ -1,0 +1,20 @@
+<frameset>
+  <predicate lemma="seal">
+    <roleset id="seal.01" name="to close with or as if with a seal">
+      <roles>
+        <role descr="agent, causer" f="pag" n="0"/>
+        <role descr="entity sealed" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="seal_off">
+    <roleset id="seal_off.02" name="separate one entity from another by seal">
+      <roles>
+        <role descr="causer of separation, sealing" f="pag" n="0"/>
+        <role descr="focused entity sealed off" f="ppt" n="1"/>
+        <role descr="entity arg1 is sealed off from" f="gol" n="2"/>
+        <role descr="seal itself, instrument" f="mnr" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

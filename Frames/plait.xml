@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="plait">
+    <roleset id="plait.01" name="braid">
+      <roles>
+        <role descr="agent" f="pag" n="0"/>
+        <role descr="hair,lace" f="ppt" n="1"/>
+        <role descr="end result" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="instagram">
+    <roleset id="instagram.01" name="use the photography app instagram">
+      <roles>
+        <role descr="instagram user" f="pag" n="0"/>
+        <role descr="image submitted" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

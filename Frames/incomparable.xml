@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="incomparable">
+    <roleset id="incomparable.01" name="not able to be compared (for better or worse)">
+      <roles>
+        <role descr="agent of comparison" f="pag" n="0"/>
+        <role descr="first item in comparison" f="ppt" n="1"/>
+        <role descr="second item in comparison" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

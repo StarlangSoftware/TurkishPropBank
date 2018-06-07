@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="prolapse">
+    <roleset id="prolapse.01" name="to fall or slip out of place">
+      <roles>
+        <role descr="entity out of place" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

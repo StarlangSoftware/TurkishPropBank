@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="cuban_out">
+    <roleset id="cuban_out.01" name="oversatiate with cuban food/culture">
+      <roles>
+        <role descr="oversatiator" f="pag" n="0"/>
+        <role descr="oversatiated one" f="ppt" n="1"/>
+        <role descr="instrument" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

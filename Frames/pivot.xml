@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="pivot">
+    <roleset id="pivot.01" name="turn, rotating">
+      <roles>
+        <role descr="agent, causer of rotation (rare)" f="pag" n="0"/>
+        <role descr="thing turning" f="ppt" n="1"/>
+        <role descr="pivot point" f="loc" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

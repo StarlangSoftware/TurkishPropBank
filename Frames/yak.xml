@@ -1,0 +1,15 @@
+<frameset>
+  <predicate lemma="yak">
+    <roleset id="yak.01" name="yak, talk loudly">
+      <roles>
+        <role descr="talker" f="pag" n="0"/>
+        <role descr="talked about" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="yak.02" name="vomit">
+      <roles>
+        <role descr="Vomiter, Cougher" f="pag" n="0"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

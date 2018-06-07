@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="stride">
+    <roleset id="stride.01" name="manner of motion, advance">
+      <roles>
+        <role descr="strider, entity in motion" f="pag" n="0"/>
+        <role descr="domain, field in which advances are made" f="vsp" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

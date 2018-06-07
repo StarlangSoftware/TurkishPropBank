@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="motion">
+    <roleset id="motion.01" name="to direct with a gesture">
+      <roles>
+        <role descr="gesturer" f="pag" n="0"/>
+        <role descr="gestured at" f="ppt" n="1"/>
+        <role descr="for what" f="prp" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

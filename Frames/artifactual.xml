@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="artifactual">
+    <roleset id="artifactual.01" name="the result of fluke/error">
+      <roles>
+        <role descr="thing that is an artifact, fluke" f="pag" n="1"/>
+        <role descr="artifact of what" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

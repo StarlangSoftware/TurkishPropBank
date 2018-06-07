@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="hibernate">
+    <roleset id="hibernate.01" name="be in an dormant state">
+      <roles>
+        <role descr="sleeper" f="PAG" n="0"/>
+        <role descr="season missed, reason for hibernation" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

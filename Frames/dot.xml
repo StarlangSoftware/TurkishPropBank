@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="dot">
+    <roleset id="dot.01" name="to mark or cover with or as if with dots">
+      <roles>
+        <role descr="who put the dots there" f="pag" n="0"/>
+        <role descr="entity dotted" f="gol" n="1"/>
+        <role descr="dots" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

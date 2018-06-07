@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="denominate">
+    <roleset id="denominate.01" name="give a name, assign a designation to">
+      <roles>
+        <role descr="assigner of name/value, agent" f="pag" n="0"/>
+        <role descr="entity named" f="ppt" n="1"/>
+        <role descr="name, attribute" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

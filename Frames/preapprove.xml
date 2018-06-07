@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="preapprove">
+    <roleset id="preapprove.01" name="to approve in advance">
+      <roles>
+        <role descr="approver" f="pag" n="0"/>
+        <role descr="thing approved" f="ppt" n="1"/>
+        <role descr="secondary attribute, arg1 approved for/as" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,30 @@
+<frameset>
+  <predicate lemma="haul">
+    <roleset id="haul.01" name="carry a load">
+      <roles>
+        <role descr="carrier" f="pag" n="0"/>
+        <role descr="thing carried" f="ppt" n="1"/>
+        <role descr="instrument" f="mnr" n="2"/>
+        <role descr="'with' reflecting back on arg0" f="com" n="3"/>
+        <role descr="benefactive (predicted but not seen)" f="gol" n="4"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="haul_in">
+    <roleset id="haul_in.02" name="acquire, make (money)">
+      <roles>
+        <role descr="acquirer" f="pag" n="0"/>
+        <role descr="thing acquired" f="ppt" n="1"/>
+        <role descr="from" f="dir" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="haul_out">
+    <roleset id="haul_out.03" name="cause to appear">
+      <roles>
+        <role descr="causer" f="pag" n="0"/>
+        <role descr="thing appearing" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,16 @@
+<frameset>
+  <predicate lemma="pool">
+    <roleset id="pool.01" name="collect together">
+      <roles>
+        <role descr="collector(s), agent(s)" f="pag" n="0"/>
+        <role descr="thing collected" f="ppt" n="1"/>
+        <role descr="secondary attribute of arg1" f="gol" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="pool.02" name="form a puddle">
+      <roles>
+        <role descr="thing forming a puddle" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="beware">
+    <roleset id="beware.01" name="look out (for)!">
+      <roles>
+        <role descr="wary entity" f="PPT" n="0"/>
+        <role descr="thing wary of" f="PAG" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

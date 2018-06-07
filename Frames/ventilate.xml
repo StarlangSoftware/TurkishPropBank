@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="ventilate">
+    <roleset id="ventilate.01" name="allow air circulation, circulate air">
+      <roles>
+        <role descr="allower, agent" f="PAG" n="0"/>
+        <role descr="stuffy room" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

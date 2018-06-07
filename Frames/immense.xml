@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="immense">
+    <roleset id="immense.01" name="huge">
+      <roles>
+        <role descr="huge entity" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

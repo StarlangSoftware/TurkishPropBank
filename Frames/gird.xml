@@ -1,0 +1,18 @@
+<frameset>
+  <predicate lemma="gird">
+    <roleset id="gird.01" name="encircle">
+      <roles>
+        <role descr="entity putting something around something else" f="pag" n="0"/>
+        <role descr="thing encircled" f="gol" n="1"/>
+        <role descr="thing going around" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="gird.02" name="prepare, get ready for">
+      <roles>
+        <role descr="preparer" f="pag" n="0"/>
+        <role descr="thing made ready" f="ppt" n="1"/>
+        <role descr="ready for" f="prp" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="acute">
+    <roleset id="acute.01" name="severe">
+      <roles>
+        <role descr="acute illness" f="ppt" n="1"/>
+        <role descr="patient" f="loc" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

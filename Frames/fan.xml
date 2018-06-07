@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="fan">
+    <roleset id="fan.01" name="to stir up">
+      <roles>
+        <role descr="causer, agent" f="PAG" n="0"/>
+        <role descr="entity fanned" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

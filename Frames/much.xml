@@ -1,0 +1,16 @@
+<frameset>
+  <predicate lemma="much">
+    <roleset id="much.01" name="great in quantity/extent/degree">
+      <roles>
+        <role descr="thing that is much" f="pag" n="1"/>
+        <role descr="what arg1 is much of" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="much.02" name="relative cost (above average)">
+      <roles>
+        <role descr="commodity" f="ppt" n="1"/>
+        <role descr="cost" f="vsp" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

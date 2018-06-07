@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="gentrify">
+    <roleset id="gentrify.01" name="turning into the gentry">
+      <roles>
+        <role descr="agent of gentrification" f="pag" n="0"/>
+        <role descr="gentrified entity" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

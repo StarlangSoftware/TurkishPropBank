@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="expose">
+    <roleset id="expose.01" name="cause to be visible">
+      <roles>
+        <role descr="exposer" f="pag" n="0"/>
+        <role descr="exposed entity" f="ppt" n="1"/>
+        <role descr="exposed to (second entity)" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

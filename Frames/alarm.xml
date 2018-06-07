@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="alarm">
+    <roleset id="alarm.01" name="to give warning to, frighten">
+      <roles>
+        <role descr="warning" f="PAG" n="0"/>
+        <role descr="entity alarmed" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

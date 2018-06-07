@@ -1,0 +1,18 @@
+<frameset>
+  <predicate lemma="legitimize">
+    <roleset id="legitimize.01" name="to make legal or valid, valid">
+      <roles>
+        <role descr="cause of legitimacy" f="PAG" n="0"/>
+        <role descr="entity legitimized" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="legitimate">
+    <roleset id="legitimate.02" name="legal or valid">
+      <roles>
+        <role descr="cause of legitimacy" f="PAG" n="0"/>
+        <role descr="entity legitimized" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

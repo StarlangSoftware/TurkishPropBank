@@ -1,0 +1,19 @@
+<frameset>
+  <predicate lemma="power">
+    <roleset id="power.01" name="to supply with power">
+      <roles>
+        <role descr="source of power" f="pag" n="0"/>
+        <role descr="entity supplied with power" f="gol" n="1"/>
+        <role descr="entity powered with" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="powerful">
+    <roleset id="powerful.02" name="having great power, influence">
+      <roles>
+        <role descr="powerful entity/action (may require concatenation" f="ppt" n="1"/>
+        <role descr="what the power is used for-- secondary action" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

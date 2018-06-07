@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="handcuff">
+    <roleset id="handcuff.01" name="attach with handcuffs">
+      <roles>
+        <role descr="cop" f="PAG" n="0"/>
+        <role descr="criminal, first thing being hancuffed" f="ppt" n="1"/>
+        <role descr="second thing, handcuffed to what" f="ppt" n="2"/>
+        <role descr="handcuffs" f="MNR" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

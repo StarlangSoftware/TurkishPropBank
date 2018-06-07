@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="patrol">
+    <roleset id="patrol.01" name="to monitor while in motion">
+      <roles>
+        <role descr="patroller, agent" f="PAG" n="0"/>
+        <role descr="area, place " f="LOC" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

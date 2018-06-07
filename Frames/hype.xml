@@ -1,0 +1,20 @@
+<frameset>
+  <predicate lemma="hype">
+    <roleset id="hype.01" name="publicize in exaggerated or misleading manner">
+      <roles>
+        <role descr="publicist" f="pag" n="0"/>
+        <role descr="topic" f="ppt" n="1"/>
+        <role descr="secondary predication" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="hype_up">
+    <roleset id="hype_up.02" name="hype_up: hype, completive">
+      <roles>
+        <role descr="publicist" f="pag" n="0"/>
+        <role descr="topic" f="ppt" n="1"/>
+        <role descr="secondary predication" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

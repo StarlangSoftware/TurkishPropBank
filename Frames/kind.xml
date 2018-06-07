@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="kind">
+    <roleset id="kind.01" name="kind">
+      <roles>
+        <role descr="agent of kindness" f="pag" n="0"/>
+        <role descr="kind action, thing" f="ppt" n="1"/>
+        <role descr="recipient of kindness" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

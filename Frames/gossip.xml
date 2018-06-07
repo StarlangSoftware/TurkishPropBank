@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="gossip">
+    <roleset id="gossip.01" name="to engage in or spread gossip">
+      <roles>
+        <role descr="gossiper(s)" f="pag" n="0"/>
+        <role descr="gossip about" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

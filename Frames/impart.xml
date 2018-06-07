@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="impart">
+    <roleset id="impart.01" name="give">
+      <roles>
+        <role descr="giver" f="pag" n="0"/>
+        <role descr="gift" f="ppt" n="1"/>
+        <role descr="given-to" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

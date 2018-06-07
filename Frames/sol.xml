@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="sol">
+    <roleset id="sol.01" name="s.o.l.: shit out of luck">
+      <roles>
+        <role descr="entity who is out of luck" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

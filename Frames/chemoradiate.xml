@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="chemoradiate">
+    <roleset id="chemoradiate.01" name="name">
+      <roles>
+        <role descr="agent, doctor" f="pag" n="0"/>
+        <role descr="patient, entity undergoing chemoradiation" f="ppt" n="1"/>
+        <role descr="disease" f="vsp" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

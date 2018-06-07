@@ -1,0 +1,19 @@
+<frameset>
+  <predicate lemma="audition">
+    <roleset id="audition.01" name="try to get a role">
+      <roles>
+        <role descr="auditionee" f="pag" n="0"/>
+        <role descr="role" f="ppt" n="1"/>
+        <role descr="casting agency" f="com" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="audible">
+    <roleset id="audible.02" name="able to be heard">
+      <roles>
+        <role descr="hearer" f="pag" n="0"/>
+        <role descr="thing that can be heard" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

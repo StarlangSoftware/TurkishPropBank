@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="supply">
+    <roleset id="supply.01" name="provide">
+      <roles>
+        <role descr="provider" f="PAG" n="0"/>
+        <role descr="thing provided" f="PPT" n="1"/>
+        <role descr="entity provided for (benefactive)" f="GOL" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

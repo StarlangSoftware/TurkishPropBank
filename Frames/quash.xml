@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="quash">
+    <roleset id="quash.01" name="squash">
+      <roles>
+        <role descr="squasher" f="PAG" n="0"/>
+        <role descr="thing squashed" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

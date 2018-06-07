@@ -1,0 +1,32 @@
+<frameset>
+  <predicate lemma="brush">
+    <roleset id="brush.01" name="to rub, clean, or remove with or as if with a brush, rubbing">
+      <roles>
+        <role descr="entity with brush, agent" f="PAG" n="0"/>
+        <role descr="entity brushed" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="brush_off">
+    <roleset id="brush_off.02" name="brush off: to dismiss, push away">
+      <roles>
+        <role descr="dismisser, agent" f="PAG" n="0"/>
+        <role descr="entity dismissed" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="brush_up">
+    <roleset id="brush_up.03" name="brush up: to review, refresh">
+      <roles>
+        <role descr="review, agent" f="PAG" n="0"/>
+        <role descr="entity brushed up" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="brush_up.05" name="brush up: touch lightly">
+      <roles>
+        <role descr="toucher" f="PAG" n="0"/>
+        <role descr="thing brushed up against" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

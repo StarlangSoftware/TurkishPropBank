@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="partial">
+    <roleset id="partial.01" name="partial">
+      <roles>
+        <role descr="partial entity" f="PPT" n="1"/>
+        <role descr="partial to what?" f="PPT" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

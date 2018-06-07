@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="appose">
+    <roleset id="appose.01" name="place side by side">
+      <roles>
+        <role descr="placer" f="pag" n="0"/>
+        <role descr="thing placed" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

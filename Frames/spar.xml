@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="spar">
+    <roleset id="spar.01" name="to fight">
+      <roles>
+        <role descr="agent fighting" f="PAG" n="0"/>
+        <role descr="other person fighting" f="COM" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

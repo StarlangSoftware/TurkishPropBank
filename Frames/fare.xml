@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="fare">
+    <roleset id="fare.01" name="fare, manage, get along">
+      <roles>
+        <role descr="thing faring, managing" f="PAG" n="0"/>
+        <role descr="how?" f="MNR" n="m"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

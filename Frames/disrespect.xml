@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="disrespect">
+    <roleset id="disrespect.01" name="show no respect or regard for">
+      <roles>
+        <role descr="agent" f="PAG" n="0"/>
+        <role descr="theme, thing no respect shown for" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

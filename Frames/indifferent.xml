@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="indifferent">
+    <roleset id="indifferent.01" name="indifferent">
+      <roles>
+        <role descr="indifferent entity" f="PPT" n="1"/>
+        <role descr="scorned thing, indifferent to what?" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

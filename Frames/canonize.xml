@@ -1,0 +1,18 @@
+<frameset>
+  <predicate lemma="canonize">
+    <roleset id="canonize.01" name="actually officially declare to be a saint">
+      <roles>
+        <role descr="entity declaring sainthood" f="PAG" n="0"/>
+        <role descr="entity being sainted" f="ppt" n="1"/>
+        <role descr="canonized as" f="prd" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="canonize.02" name="treat like a saint (metaphorically)">
+      <roles>
+        <role descr="glorifier" f="PAG" n="0"/>
+        <role descr="glorified" f="ppt" n="1"/>
+        <role descr="blessed with (gift)" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

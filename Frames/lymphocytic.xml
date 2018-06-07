@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="lymphocytic">
+    <roleset id="lymphocytic.01" name="of or containing lymphocytes">
+      <roles>
+        <role descr="lymphocytic entity" f="pag" n="1"/>
+        <role descr="mention of lymphocytes" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

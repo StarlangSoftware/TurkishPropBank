@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="budge">
+    <roleset id="budge.01" name="(cause to) alter a position or attitude, move slightly">
+      <roles>
+        <role descr="causer, agent" f="pag" n="0"/>
+        <role descr="entity budging" f="ppt" n="1"/>
+        <role descr="position, budged from" f="dir" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

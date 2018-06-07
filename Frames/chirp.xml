@@ -1,0 +1,14 @@
+<frameset>
+  <predicate lemma="chirp">
+    <roleset id="chirp.01" name="sharp, short sounds, as that of certain birds   and insects">
+      <roles>
+        <role descr="chirp-er" f="PAG" n="0"/>
+      </roles>
+    </roleset>
+    <roleset id="chirp.02" name="to make a similar sound in speech">
+      <roles>
+        <role descr="chirp=er" f="PAG" n="0"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

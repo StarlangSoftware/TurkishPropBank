@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="convenient">
+    <roleset id="convenient.01" name="suited to comfort/needs">
+      <roles>
+        <role descr="provider of convenience" f="pag" n="0"/>
+        <role descr="experiencer of convenience" f="ppt" n="1"/>
+        <role descr="needs suited" f="prp" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="dovetail">
+    <roleset id="dovetail.01" name="fit neatly/tightly">
+      <roles>
+        <role descr="thing dovetailing" f="ppt" n="1"/>
+        <role descr="with what" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="incur">
+    <roleset id="incur.01" name="incur, unwillingly take on">
+      <roles>
+        <role descr="entity taking something on" f="pag" n="0"/>
+        <role descr="penalty" f="ppt" n="1"/>
+        <role descr="reason for penalty" f="prp" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

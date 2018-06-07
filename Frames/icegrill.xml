@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="icegrill">
+    <roleset id="icegrill.01" name="stare down in cold blood">
+      <roles>
+        <role descr="starer" f="pag" n="0"/>
+        <role descr="entity stared down" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

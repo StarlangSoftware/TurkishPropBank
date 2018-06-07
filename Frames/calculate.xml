@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="calculate">
+    <roleset id="calculate.01" name="plot, think, solve a problem, come up with an answer, calculate, reckon">
+      <roles>
+        <role descr="Thinker" f="pag" n="0"/>
+        <role descr="Thought/calculation" f="ppt" n="1"/>
+        <role descr="the answer, result; attribute" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

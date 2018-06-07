@@ -1,0 +1,20 @@
+<frameset>
+  <predicate lemma="hurry">
+    <roleset id="hurry.01" name="to move or act at a high speed">
+      <roles>
+        <role descr="causer" f="pag" n="0"/>
+        <role descr="entity in motion" f="ppt" n="1"/>
+        <role descr="secondary predicate, purpose" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="hurry_up">
+    <roleset id="hurry_up.02" name="hurry_up">
+      <roles>
+        <role descr="causer of hurrying" f="pag" n="0"/>
+        <role descr="entity in a hurry" f="ppt" n="1"/>
+        <role descr="secondary predicate, purpose, hurried action" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

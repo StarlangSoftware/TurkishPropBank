@@ -1,0 +1,25 @@
+<frameset>
+  <predicate lemma="marginalize">
+    <roleset id="marginalize.01" name="make unimportant">
+      <roles>
+        <role descr="causer" f="pag" n="0"/>
+        <role descr="unimportant thing" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="marginal">
+    <roleset id="marginal.02" name="in the margin, almost not making a cut-off">
+      <roles>
+        <role descr="marginal thing" f="pag" n="1"/>
+        <role descr="domain" f="vsp" n="2"/>
+        <role descr="actual measurment" f="vsp" n="3"/>
+      </roles>
+    </roleset>
+    <roleset id="marginal.03" name="hardly skilled at">
+      <roles>
+        <role descr="unskilled entity" f="pag" n="1"/>
+        <role descr="skill" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

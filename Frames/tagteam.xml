@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="tag_team">
+    <roleset id="tag_team.01" name="name">
+      <roles>
+        <role descr="tag-teamer" f="pag" n="0"/>
+        <role descr="project/target worked on together" f="ppt" n="1"/>
+        <role descr="partner" f="com" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

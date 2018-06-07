@@ -1,0 +1,95 @@
+<frameset>
+  <predicate lemma="play">
+    <roleset id="play.01" name="play a game">
+      <roles>
+        <role descr="player" f="pag" n="0"/>
+        <role descr="game" f="ppt" n="1"/>
+        <role descr="instrument/equipment used to play game" f="mnr" n="2"/>
+        <role descr="opponent, play against whom" f="com" n="3"/>
+      </roles>
+    </roleset>
+    <roleset id="play.02" name="play a role">
+      <roles>
+        <role descr="actor" f="pag" n="0"/>
+        <role descr="role" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="play.08" name="play into: be a factor">
+      <roles>
+        <role descr="thing factoring in, subject in active clauses" f="pag" n="0"/>
+        <role descr="thing being factored into" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="play.10" name="play a trick on someone">
+      <roles>
+        <role descr="Trickster" f="pag" n="0"/>
+        <role descr="mention of trick" f="ppt" n="1"/>
+        <role descr="tricked, who trick was played on" f="gol" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="play.11" name="play/perform music">
+      <roles>
+        <role descr="performer, player" f="pag" n="0"/>
+        <role descr="thing performed (song, etc)" f="ppt" n="1"/>
+        <role descr="musical instrument/style" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="play.12" name="musical/theatrical performance">
+      <roles>
+        <role descr="performer" f="pag" n="0"/>
+        <role descr="thing performed (song, play, etc)" f="ppt" n="1"/>
+        <role descr="musical instrument/style" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="play_out">
+    <roleset id="play_out.03" name="play out: come to completion">
+      <roles>
+        <role descr="agent, entity causing something to complete" f="pag" n="0"/>
+        <role descr="thing coming to completion" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="play_up">
+    <roleset id="play_up.04" name="play up: emphasize, make sound better">
+      <roles>
+        <role descr="emphasizer, agent" f="pag" n="0"/>
+        <role descr="topic of discussion" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="play_down">
+    <roleset id="play_down.07" name="play down: deemphasize, make sound less important">
+      <roles>
+        <role descr="deemphasizer, agent" f="pag" n="0"/>
+        <role descr="topic of discussion" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="play_off">
+    <roleset id="play_off.05" name="play off: manipulate">
+      <roles>
+        <role descr="manipulator" f="pag" n="0"/>
+        <role descr="one victim" f="ppt" n="1"/>
+        <role descr="the other victim" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="play_to">
+    <roleset id="play_to.06" name="play to: butter up to, try to please">
+      <roles>
+        <role descr="causer of pleasing, agent" f="pag" n="0"/>
+        <role descr="entity being pleased" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="play_on">
+    <roleset id="play_on.09" name="play on: manipulate, take advantage">
+      <roles>
+        <role descr="manipulator" f="pag" n="0"/>
+        <role descr="one victim" f="ppt" n="1"/>
+        <role descr="the other victim" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

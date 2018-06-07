@@ -1,0 +1,17 @@
+<frameset>
+  <predicate lemma="fulfill">
+    <roleset id="fulfill.01" name="bring about, complete, carry out">
+      <roles>
+        <role descr="fulfiller" f="pag" n="0"/>
+        <role descr="promise, contract, unresolved issue" f="ppt" n="1"/>
+      </roles>
+    
+    </roleset>
+    <roleset id="fulfill.02" name="feeling satisfaction at achievement of desires">
+      <roles>
+        <role descr="experiencer" f="pag" n="1"/>
+        <role descr="cause of satisfaction" f="cau" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

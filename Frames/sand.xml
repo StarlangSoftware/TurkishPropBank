@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="sand">
+    <roleset id="sand.01" name="make smooth by sanding">
+      <roles>
+        <role descr="handyman, agent" f="PAG" n="0"/>
+        <role descr="location/entity made smooth" f="GOL" n="1"/>
+        <role descr="sandpaper, entity used to sand arg1" f="PPT" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

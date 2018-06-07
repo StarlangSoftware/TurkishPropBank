@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="heavy">
+    <roleset id="heavy.01" name="having much weight">
+      <roles>
+        <role descr="heavy entity" f="loc" n="1"/>
+        <role descr="specific substance (may be abstract) weighing arg1 down" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

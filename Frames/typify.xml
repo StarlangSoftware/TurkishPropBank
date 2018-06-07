@@ -1,0 +1,18 @@
+<frameset>
+  <predicate lemma="typify">
+    <roleset id="typify.01" name="serve as an example of a class">
+      <roles>
+        <role descr="example" f="pag" n="0"/>
+        <role descr="class" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="typical">
+    <roleset id="typical.02" name="usual">
+      <roles>
+        <role descr="usual thing" f="pag" n="1"/>
+        <role descr="entity arg1 is typical for/of" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

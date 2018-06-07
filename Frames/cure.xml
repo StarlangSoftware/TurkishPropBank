@@ -1,0 +1,28 @@
+<frameset>
+  <predicate lemma="cure">
+    <roleset id="cure.01" name="treat an illness completely">
+      <roles>
+        <role descr="doctor (etc)" f="pag" n="0"/>
+        <role descr="patient" f="dir" n="1"/>
+        <role descr="illness or injury" f="ppt" n="2"/>
+        <role descr="instrument, treatment" f="mnr" n="3"/>
+      </roles>
+    </roleset>
+    <roleset id="cure.02" name="preserve (as in meat or hide)">
+      <roles>
+        <role descr="agent" f="pag" n="0"/>
+        <role descr="patient" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="curable">
+    <roleset id="curable.03" name="able to be cured">
+      <roles>
+        <role descr="doctor (etc)" f="pag" n="0"/>
+        <role descr="patient" f="dir" n="1"/>
+        <role descr="illness or injury" f="ppt" n="2"/>
+        <role descr="instrument, treatment" f="mnr" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

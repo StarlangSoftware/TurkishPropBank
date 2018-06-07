@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="weather">
+    <roleset id="weather.01" name="live through rocky situation,   survive">
+      <roles>
+        <role descr="survivor" f="PAG" n="0"/>
+        <role descr="situation" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

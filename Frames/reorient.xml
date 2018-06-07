@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="reorient">
+    <roleset id="reorient.01" name="orient again">
+      <roles>
+        <role descr="adjuster, focusser, agent" f="PAG" n="0"/>
+        <role descr="thing oriented" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

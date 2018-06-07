@@ -1,0 +1,52 @@
+<frameset>
+  <predicate lemma="shut">
+    <roleset id="shut.01" name="close">
+      <roles>
+        <role descr="person doing the closing" f="pag" n="0"/>
+        <role descr="thing closing" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="shut_out">
+    <roleset id="shut_out.02" name="exclude, except">
+      <roles>
+        <role descr="agent, excluder" f="pag" n="0"/>
+        <role descr="patient, thing excluded" f="ppt" n="1"/>
+        <role descr="excluded-from" f="dir" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="shut_off">
+    <roleset id="shut_off.03" name="exclude, except">
+      <roles>
+        <role descr="agent, excluder" f="pag" n="0"/>
+        <role descr="patient, thing excluded" f="ppt" n="1"/>
+        <role descr="excluded-from" f="dir" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="shut_off.04" name="turn off, as a light">
+      <roles>
+        <role descr="flipper of the switch, agent" f="pag" n="0"/>
+        <role descr="light" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="shut_down">
+    <roleset id="shut_down.05" name="cause to end, cause to come to a stop">
+      <roles>
+        <role descr="Intentional agent" f="pag" n="0"/>
+        <role descr="Thing ending" f="ppt" n="1"/>
+        <role descr="Explicit instrument, thing ended with" f="mnr" n="2"/>
+        <role descr="point at which something ends" f="tmp" n="m"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="shut_up">
+    <roleset id="shut_up.06" name="stop talking">
+      <roles>
+        <role descr="causer" f="pag" n="0"/>
+        <role descr="person becoming quiet" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

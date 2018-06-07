@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="tortuous">
+    <roleset id="tortuous.01" name="having many twists and turns">
+      <roles>
+        <role descr="thing having many twists and turns" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="reinvent">
+    <roleset id="reinvent.01" name="create, again">
+      <roles>
+        <role descr="creator" f="PAG" n="0"/>
+        <role descr="thing created" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

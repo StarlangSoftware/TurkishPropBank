@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="evidence">
+    <roleset id="evidence.01" name="provide proof for, proven/proving">
+      <roles>
+        <role descr="proof" f="pag" n="0"/>
+        <role descr="thing proved" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

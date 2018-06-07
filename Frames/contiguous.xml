@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="contiguous">
+    <roleset id="contiguous.01" name="abut, be on the edge of">
+      <roles>
+        <role descr="first entity" f="ppt" n="1"/>
+        <role descr="next to what?" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

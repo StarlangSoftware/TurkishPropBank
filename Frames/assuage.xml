@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="assuage">
+    <roleset id="assuage.01" name="mend someone's hurt feelings">
+      <roles>
+        <role descr="mender, Stimulus, agent" f="PAG" n="0"/>
+        <role descr="hurt feelings, or person with hurt feelings" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="adjacent">
+    <roleset id="adjacent.01" name="neighbor, be side by side">
+      <roles>
+        <role descr="first neighboring enity" f="pag" n="1"/>
+        <role descr="second neighboring entity, neighbors what/whom" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="cosign">
+    <roleset id="cosign.01" name="be accountable for someone else's debt by signing an agreement with them and being jointly responcible">
+      <roles>
+        <role descr="signer with low income who requires help" f="pag" n="0"/>
+        <role descr="loan, lease, mortgage, or other agreement entered" f="ppt" n="1"/>
+        <role descr="signer with higher income who's credit is used to qualify for loan" f="pag" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

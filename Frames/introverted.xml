@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="introverted">
+    <roleset id="introverted.01" name="reserved, energized by solitude rather than socializing">
+      <roles>
+        <role descr="introvert" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

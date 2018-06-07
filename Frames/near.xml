@@ -1,0 +1,16 @@
+<frameset>
+  <predicate lemma="near">
+    <roleset id="near.01" name="to approach">
+      <roles>
+        <role descr="entity in motion" f="ppt" n="1"/>
+        <role descr="destination" f="gol" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="near.02" name="spatially close">
+      <roles>
+        <role descr="near entity" f="pag" n="1"/>
+        <role descr="in relation to, near to what" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

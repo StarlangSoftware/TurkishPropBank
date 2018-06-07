@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="unaware">
+    <roleset id="unaware.01" name="not cognizant">
+      <roles>
+        <role descr="unaware entity" f="pag" n="0"/>
+        <role descr="of what" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

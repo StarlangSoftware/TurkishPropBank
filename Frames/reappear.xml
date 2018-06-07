@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="reappear">
+    <roleset id="reappear.01" name="come to be visible, again">
+      <roles>
+        <role descr="thing becoming visible" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

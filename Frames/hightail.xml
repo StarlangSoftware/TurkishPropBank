@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="hightail">
+    <roleset id="hightail.01" name="leave in a hurry">
+      <roles>
+        <role descr="entity leaving" f="pag" n="0"/>
+        <role descr="place left" f="ppt" n="1"/>
+        <role descr="fixed: 'it'" f="vsp" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

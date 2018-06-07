@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="eager">
+    <roleset id="eager.01" name="eager">
+      <roles>
+        <role descr="beaver, eager entity" f="pag" n="0"/>
+        <role descr="desired thing or outcome, eager for what?" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

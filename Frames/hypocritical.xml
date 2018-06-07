@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="hypocritical">
+    <roleset id="hypocritical.01" name="not practicing what one preaches">
+      <roles>
+        <role descr="hypocrite" f="pag" n="0"/>
+        <role descr="hypocritical action" f="ppt" n="1"/>
+        <role descr="target of hypocritical behavior" f="gol" n="2"/>
+        <role descr="what is preached but not practiced" f="vsp" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

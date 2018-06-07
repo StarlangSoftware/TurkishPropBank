@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="overstretch">
+    <roleset id="overstretch.01" name="stretch excessively">
+      <roles>
+        <role descr="agent, or cause of something overstretching" f="pag" n="0"/>
+        <role descr="thing overstretched" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

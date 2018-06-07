@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="vest">
+    <roleset id="vest.01" name="to provide with power and authority">
+      <roles>
+        <role descr="provider" f="pag" n="0"/>
+        <role descr="entity vested" f="ppt" n="1"/>
+        <role descr="vested with" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

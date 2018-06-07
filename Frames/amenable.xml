@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="amenable">
+    <roleset id="amenable.01" name="open to being acted upon in a certain way">
+      <roles>
+        <role descr="acceptor" f="pag" n="0"/>
+        <role descr="amenable to; thing tried" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="stubborn">
+    <roleset id="stubborn.01" name="obstinate, inflexible">
+      <roles>
+        <role descr="stubborn one" f="pag" n="1"/>
+        <role descr="subject matter arg1 is stubborn about" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

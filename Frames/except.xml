@@ -1,0 +1,17 @@
+<frameset>
+  <predicate lemma="except">
+    <roleset id="except.01" name="to leave out, exclude">
+      <roles>
+        <role descr="Entity causing/making exception" f="pag" n="0"/>
+        <role descr="Entity excepted, excluded" f="ppt" n="1"/>
+        <role descr="Excluded/excepted from what?" f="dir" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="except.02" name="to object, legal domain">
+      <roles>
+        <role descr="Lawyer, entity objecting" f="pag" n="0"/>
+        <role descr="Thing objected-to" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

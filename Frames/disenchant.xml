@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="disenchant">
+    <roleset id="disenchant.01" name="no longer interested in">
+      <roles>
+        <role descr="causer of lack of interest, agent" f="pag" n="0"/>
+        <role descr="entity no longer interested" f="ppt" n="1"/>
+        <role descr="interested in what" f="vsp" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

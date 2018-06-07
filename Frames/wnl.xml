@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="wnl">
+    <roleset id="wnl.01" name="&quot;within normal limits&quot;">
+      <roles>
+        <role descr="entity within normal limits" f="pag" n="1"/>
+        <role descr="&quot;normal&quot; as applies to what group:" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

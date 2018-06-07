@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="eddy">
+    <roleset id="eddy.01" name="move in a circular motion against the main current">
+      <roles>
+        <role descr="Water, liquid in motion" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

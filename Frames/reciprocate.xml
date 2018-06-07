@@ -1,0 +1,16 @@
+<frameset>
+  <predicate lemma="reciprocate">
+    <roleset id="reciprocate.01" name="respond in kind, building a relationship of mutual dependency">
+      <roles>
+        <role descr="entity responding" f="pag" n="0"/>
+        <role descr="reciprocated to, mutually exchanged act" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="reciprocate.02" name="move back and forth alternately">
+      <roles>
+        <role descr="agent" f="pag" n="0"/>
+        <role descr="thing moving back and forth" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

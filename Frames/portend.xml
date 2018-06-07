@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="portend">
+    <roleset id="portend.01" name="to indicate by signs">
+      <roles>
+        <role descr="thing portending" f="pag" n="0"/>
+        <role descr="sign" f="ppt" n="1"/>
+        <role descr="portend for" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

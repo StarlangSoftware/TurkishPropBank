@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="dignify">
+    <roleset id="dignify.01" name="give worth to">
+      <roles>
+        <role descr="giver of worth" f="pag" n="0"/>
+        <role descr="recipient" f="ppt" n="1"/>
+        <role descr="how" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,35 @@
+<frameset>
+  <predicate lemma="allow">
+    <roleset id="allow.01" name="let">
+      <roles>
+        <role descr="allower" f="pag" n="0"/>
+        <role descr="action allowed" f="ppt" n="1"/>
+      </roles>
+
+    </roleset>
+    <roleset id="allow.02" name="allocate">
+      <roles>
+        <role descr="allocator" f="pag" n="0">
+</role>
+        <role descr="thing allocated (us. time)" f="ppt" n="1">
+</role>
+        <role descr="to some task" f="gol" n="2">
+</role>
+      </roles>
+    </roleset>
+    <roleset id="allow.03" name="admit truth of proposition">
+      <roles>
+        <role descr="admitter" f="pag" n="0"/>
+        <role descr="true proposition" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="allowable">
+    <roleset id="allowable.04" name="permissable">
+      <roles>
+        <role descr="allower" f="pag" n="0"/>
+        <role descr="action allowed (may require concatenation)" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

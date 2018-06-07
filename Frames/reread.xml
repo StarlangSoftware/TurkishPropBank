@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="reread">
+    <roleset id="reread.01" name="read again">
+      <roles>
+        <role descr="reader" f="pag" n="0"/>
+        <role descr="book" f="ppt" n="1"/>
+        <role descr="benefactive or direction" f="gol" n="2"/>
+        <role descr="text, content" f="vsp" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

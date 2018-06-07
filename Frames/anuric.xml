@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="anuric">
+    <roleset id="anuric.01" name="unable to urinate">
+      <roles>
+        <role descr="entity who cannot unrinate" f="pag" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

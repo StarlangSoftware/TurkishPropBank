@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="abet">
+    <roleset id="abet.01" name="aid">
+      <roles>
+        <role descr="agent of abetting" f="PAG" n="0"/>
+        <role descr="thing helped, action" f="GOL" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

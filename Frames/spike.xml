@@ -1,0 +1,39 @@
+<frameset>
+  <predicate lemma="spike">
+    <roleset id="spike.01" name="destroy, kill">
+      <roles>
+        <role descr="killer" f="pag" n="0"/>
+        <role descr="corpse" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="spike.02" name="pierce with a spike-like object">
+      <roles>
+        <role descr="piercer" f="pag" n="0"/>
+        <role descr="thing pierced" f="ppt" n="1"/>
+        <role descr="instrument" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="spike.03" name="add alcohol to innocuous beverage">
+      <roles>
+        <role descr="adder of alcohol" f="pag" n="0"/>
+        <role descr="innocuous beverage" f="ppt" n="1"/>
+        <role descr="alcohol" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="spike.04" name="sudden peak in quantity/number, ">
+      <roles>
+        <role descr="entity peaking" f="pag" n="1"/>
+        <role descr="extent" f="ext" n="2"/>
+        <role descr="start point" f="dir" n="3"/>
+        <role descr="end point" f="gol" n="4"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="spike_out">
+    <roleset id="spike_out.05" name="botanical: to bring forth spikes">
+      <roles>
+        <role descr="flower" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

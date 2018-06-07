@@ -1,0 +1,23 @@
+<frameset>
+  <predicate lemma="upscale">
+    <roleset id="upscale.01" name="upgrade; make higher-end">
+      <roles>
+        <role descr="agent" f="pag" n="0"/>
+        <role descr="thing upgraded" f="ppt" n="1"/>
+        <role descr="start state" f="dir" n="2"/>
+        <role descr="end state" f="prd" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="upscale">
+    <roleset id="upscale.02" name="increase the scale of, enlarge">
+      <roles>
+        <role descr="agent" f="pag" n="0"/>
+        <role descr="thing enlarged" f="ppt" n="1"/>
+        <role descr="amount enlarged" f="ext" n="2"/>
+        <role descr="start scale" f="dir" n="3"/>
+        <role descr="end scale" f="prd" n="4"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

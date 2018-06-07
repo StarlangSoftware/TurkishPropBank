@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="intelligible">
+    <roleset id="intelligible.01" name="discernable, able to be understood">
+      <roles>
+        <role descr="understander" f="pag" n="0"/>
+        <role descr="understood" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

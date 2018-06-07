@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="lawsuit">
+    <roleset id="lawsuit.04" name="legal action">
+      <roles>
+        <role descr="prosecutor" f="pag" n="0"/>
+        <role descr="defendant" f="ppt" n="1"/>
+        <role descr="type/grounds/accusation" f="vsp" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

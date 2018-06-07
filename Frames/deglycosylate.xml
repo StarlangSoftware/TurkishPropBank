@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="deglycosylate">
+    <roleset id="deglycosylate.01" name="remove the sugar entity from a glycogen (but especially from a glycoprotein)">
+      <roles>
+        <role descr="intentional agent of deglycosylation (e.g. scientist)" f="pag" n="0" />
+        <role descr="thing deglycosylated (e.g. protein)" f="ppt" n="1" />
+        <role descr="instrument" f="mnr" n="2" />
+        <role descr="result of deglycosylation" f="prd" n="3" />
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

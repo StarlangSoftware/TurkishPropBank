@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="deviate">
+    <roleset id="deviate.01" name="stray from the path, not following a straight path">
+      <roles>
+        <role descr="entity in motion" f="PPT" n="0"/>
+        <role descr="path" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

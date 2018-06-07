@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="bombard">
+    <roleset id="bombard.01" name="to attack or assail persistently">
+      <roles>
+        <role descr="attacker, agent" f="PAG" n="0"/>
+        <role descr="entity (e.g. region) bombarded" f="GOL" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

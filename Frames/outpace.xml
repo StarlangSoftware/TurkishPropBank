@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="outpace">
+    <roleset id="outpace.01" name="move more quickly">
+      <roles>
+        <role descr="entity moving faster" f="pag" n="0"/>
+        <role descr="entity moving slower" f="ppt" n="1"/>
+        <role descr="margin" f="ext" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

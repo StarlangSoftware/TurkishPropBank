@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="supervene">
+    <roleset id="supervene.01" name="supervene">
+      <roles>
+        <role descr="thing appearing, supervening" f="PPT" n="0"/>
+        <role descr="location of appearance" f="LOC" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

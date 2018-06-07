@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="gibe">
+    <roleset id="gibe.01" name="utter mocking or scoffing words, jeer, taunt">
+      <roles>
+        <role descr="taunter, agent" f="PAG" n="0"/>
+        <role descr="entity taunted" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

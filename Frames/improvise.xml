@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="improvise">
+    <roleset id="improvise.01" name="to perform or create without preparation">
+      <roles>
+        <role descr="improviser" f="PAG" n="0"/>
+        <role descr="thing improvised" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

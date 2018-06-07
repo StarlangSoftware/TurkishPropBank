@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="outmanned">
+    <roleset id="outmanned.01" name="outnumber, or exceed in manpower">
+      <roles>
+        <role descr="entity with more manpower" f="ppt" n="0"/>
+        <role descr="entity with less manpower" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

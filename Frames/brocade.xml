@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="brocade">
+    <roleset id="brocade.01" name="to sew a design into textiles">
+      <roles>
+        <role descr="artist,agent" f="pag" n="0"/>
+        <role descr="entity brocade" f="ppt" n="1"/>
+        <role descr="entity brocade into" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

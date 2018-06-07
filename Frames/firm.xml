@@ -1,0 +1,27 @@
+<frameset>
+  <predicate lemma="firm">
+    <roleset id="firm.01" name="(make) become firm">
+      <roles>
+        <role descr="agent, entity making something else become firm" f="pag" n="0"/>
+        <role descr="thing becoming firm" f="ppt" n="1"/>
+        <role descr="EXT, amount risen" f="ext" n="2"/>
+        <role descr="start point" f="dir" n="3"/>
+        <role descr="end point" f="gol" n="4"/>
+      </roles>
+    </roleset>
+    <roleset id="firm.03" name="secure, steadfast, resilient">
+      <roles>
+        <role descr="causer of firmness" f="pag" n="0"/>
+        <role descr="firm entity" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="firm_up">
+    <roleset id="firm_up.02" name="make/become firm">
+      <roles>
+        <role descr="agent, entity making something else become firm" f="pag" n="0"/>
+        <role descr="thing becoming firm" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

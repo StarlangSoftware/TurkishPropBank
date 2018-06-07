@@ -1,0 +1,16 @@
+<frameset>
+  <predicate lemma="blister">
+    <roleset id="blister.01" name="Cause blisters to form">
+      <roles>
+        <role descr="agent/causer of blisters" f="pag" n="0"/>
+        <role descr="thing becoming blistered" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="blister.02" name="Scald, verbally or in writting">
+      <roles>
+        <role descr="Scalder" f="pag" n="0"/>
+        <role descr="Recipient of scalding" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

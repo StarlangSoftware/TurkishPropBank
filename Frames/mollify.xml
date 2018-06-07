@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="mollify">
+    <roleset id="mollify.01" name="cause to be happy">
+      <roles>
+        <role descr="Stimulus" f="pag" n="0"/>
+        <role descr="patient, made happy" f="ppt" n="1"/>
+        <role descr="instrument or manner" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

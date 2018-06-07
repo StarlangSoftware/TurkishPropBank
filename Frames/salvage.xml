@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="salvage">
+    <roleset id="salvage.01" name="to save or rescue">
+      <roles>
+        <role descr="saver, salvager" f="PAG" n="0"/>
+        <role descr="entity salvaged" f="PPT" n="1"/>
+        <role descr="entity salvaged from" f="DIR" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="nuance">
+    <roleset id="nuance.01" name="to detail something">
+      <roles>
+        <role descr="person providing details, nuances" f="pag" n="0"/>
+        <role descr="thing nuanced" f="ppt" n="1"/>
+        <role descr="nuances themselves, nuanced with what?" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

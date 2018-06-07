@@ -1,0 +1,26 @@
+<frameset>
+  <predicate lemma="reassert">
+    <roleset id="reassert.01" name="stand up for again">
+      <roles>
+        <role descr="asserter" f="pag" n="0"/>
+        <role descr="thing asserted" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="reassert.02" name="say forcefully again (actual utterance sense)">
+      <roles>
+        <role descr="Sayer" f="pag" n="0"/>
+        <role descr="Utterance" f="ppt" n="1"/>
+        <role descr="Hearer" f="gol" n="2"/>
+        <role descr="Attribute of arg1" f="prd" n="3"/>
+      </roles>
+    </roleset>
+    <roleset id="reassert.03" name="claim again">
+      <roles>
+        <role descr="claimer, asserter" f="pag" n="0"/>
+        <role descr="thing claimed, asserted" f="ppt" n="1"/>
+        <role descr="benefactive, claimed/asserted for" f="gol" n="2"/>
+        <role descr="attribute of arg1" f="prd" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

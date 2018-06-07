@@ -1,0 +1,19 @@
+<frameset>
+  <predicate lemma="dramatic">
+    <roleset id="dramatic.01" name="over-acted, exaggerated in manner">
+      <roles>
+        <role descr="over-actor" f="pag" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="dramatic.02" name="specifically related to the theatrical arts">
+      <roles>
+        <role descr="dramatic entity" f="pag" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="dramatic.03" name="pertaining to a drastic change">
+      <roles>
+        <role descr="change that is drastic" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

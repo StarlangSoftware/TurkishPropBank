@@ -1,0 +1,17 @@
+<frameset>
+  <predicate lemma="splice">
+    <roleset id="splice.01" name="join or weave together">
+      <roles>
+        <role descr="Splicer" f="PAG" n="0"/>
+        <role descr="First entity joined together (or all entities)" f="PPT" n="1"/>
+        <role descr="second entity joined together" f="PPT" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="splice.02" name="perform a merriage ceremony.">
+      <roles>
+        <role descr="Minister" f="PAG" n="0"/>
+        <role descr="Party married" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="aerate">
+    <roleset id="aerate.01" name="exchange of carbon dioxide for oxygen">
+      <roles>
+        <role descr="cause of exchange (blood, lungs)" f="pag" n="0"/>
+        <role descr="thing, gas exchange" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

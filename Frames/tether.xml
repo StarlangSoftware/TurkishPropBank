@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="tether">
+    <roleset id="tether.01" name="attach, tie to">
+      <roles>
+        <role descr="attacher, agent" f="PAG" n="0"/>
+        <role descr="thing(s) being tied together" f="PPT" n="1"/>
+        <role descr="other things" f="PPT" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

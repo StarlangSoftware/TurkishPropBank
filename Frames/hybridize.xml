@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="hybridize">
+    <roleset id="hybridize.01" name="to make a hybrid">
+      <roles>
+        <role descr="cause of hybridization" f="pag" n="0"/>
+        <role descr="entity now a hybrid" f="ppt" n="1"/>
+        <role descr="hybridized with what? If separate" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="scamper">
+    <roleset id="scamper.01" name="to move or proceed hurriedly">
+      <roles>
+        <role descr="entity in motion" f="PPT" n="0"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

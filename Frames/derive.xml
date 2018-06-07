@@ -1,0 +1,13 @@
+<frameset>
+  <predicate lemma="derive">
+    <roleset id="derive.01" name="create">
+      <roles>
+        <role descr="creator" f="pag" n="0"/>
+        <role descr="thing created" f="ppt" n="1"/>
+        <role descr="source" f="vsp" n="2"/>
+        <role descr="benefactive" f="gol" n="3"/>
+        <role descr="attribute, secondary predication" f="prd" n="4"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

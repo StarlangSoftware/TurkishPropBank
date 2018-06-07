@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="coexpress">
+    <roleset id="coexpress.01" name="express two or more genes simultaneously">
+      <roles>
+        <role descr="gene(s), expressor(s)" f="pag" n="1" />
+        <role descr="protein(s), expressed material" f="ppt" n="2" />
+        <role descr="cell, organ, location" f="loc" n="3" />
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

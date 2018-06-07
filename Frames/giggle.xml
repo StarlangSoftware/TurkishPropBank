@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="giggle">
+    <roleset id="giggle.01" name="laugh nervously">
+      <roles>
+        <role descr="giggler" f="PAG" n="0"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

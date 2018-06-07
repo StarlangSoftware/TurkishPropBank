@@ -1,0 +1,22 @@
+<frameset>
+  <predicate lemma="osculate">
+    <roleset id="osculate.01" name="kiss by pressing lips together">
+      <roles>
+        <role descr="couple, or first kisser" f="PAG" n="0"/>
+        <role descr="other half of the couple if listed separately" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="osculate.02" name="share at least three common points">
+      <roles>
+        <role descr="first point of a curve" f="pag" n="1"/>
+        <role descr="second piece of a curve; thing sharing common points" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="osculate.03" name="fall between two taxonomic groups">
+      <roles>
+        <role descr="species" f="pag" n="1"/>
+        <role descr="taxonomic groups it falls between" f="loc" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

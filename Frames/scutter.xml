@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="scutter">
+    <roleset id="scutter.01" name="scutter">
+      <roles>
+        <role descr="entity moved, scutterer" f="pag" n="1"/>
+        <role descr="path" f="loc" n="2"/>
+        <role descr="start point" f="dir" n="3"/>
+        <role descr="end point" f="gol" n="4"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

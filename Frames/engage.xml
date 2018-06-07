@@ -1,0 +1,20 @@
+<frameset>
+  <predicate lemma="engage">
+    <roleset id="engage.01" name="cause to get involved, involvement">
+      <roles>
+        <role descr="causer of engagement" f="pag" n="0"/>
+        <role descr="entity sucked in" f="ppt" n="1"/>
+        <role descr="thing involved in" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="engagement">
+    <roleset id="engagement.02" name="betrothal, engaged to be married">
+      <roles>
+        <role descr="first betrothed entity" f="ppt" n="1"/>
+        <role descr="second betrothed entity" f="ppt" n="2"/>
+        <role descr="explicit mention of marriage" f="prp" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="overcome">
+    <roleset id="overcome.01" name="conquer, get past">
+      <roles>
+        <role descr="overcomer" f="PPT" n="0"/>
+        <role descr="difficulty" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

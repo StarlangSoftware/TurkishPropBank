@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="fluster">
+    <roleset id="fluster.01" name="cause to be nervous, discombobulated">
+      <roles>
+        <role descr="Stimulus of nervousness" f="PAG" n="0"/>
+        <role descr="nervous person" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

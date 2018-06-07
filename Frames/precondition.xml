@@ -1,0 +1,18 @@
+<frameset>
+  <predicate lemma="precondition">
+    <roleset id="precondition.01" name="stipulation prior to an agreement">
+      <roles>
+        <role descr="causer of stipulation, agent" f="pag" n="0"/>
+        <role descr="stipulation" f="ppt" n="1"/>
+        <role descr="purpose of condition" f="prp" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="precondition.02" name="cause to be in the required         condition beforehand">
+      <roles>
+        <role descr="agent; causer of conditioning" f="pag" n="0"/>
+        <role descr="entity conditioned" f="gol" n="1"/>
+        <role descr="topic, preconditioned to, for, or about" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

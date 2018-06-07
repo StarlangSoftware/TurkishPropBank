@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="inquire">
+    <roleset id="inquire.01" name="to ask about">
+      <roles>
+        <role descr="inquirer" f="PAG" n="0"/>
+        <role descr="thing wondered about/investigated" f="PPT" n="1"/>
+        <role descr="entity being asked" f="GOL" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

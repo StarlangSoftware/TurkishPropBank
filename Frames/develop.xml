@@ -1,0 +1,21 @@
+<frameset>
+  <predicate lemma="develop">
+    <roleset id="develop.01" name="come about, arisen">
+      <roles>
+        <role descr="location" f="loc" n="1"/>
+        <role descr="theme" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="develop.02" name="create, having been intentionally grown, built up">
+      <roles>
+        
+        <role descr="creator" f="pag" n="0"/>
+        <role descr="thing created" f="prd" n="1"/>
+        <role descr="source" f="vsp" n="2"/>
+        <role descr="benefactive" f="gol" n="3"/>
+        <role descr="attribute, secondary predication" f="prd" n="4"/>
+        <role descr="specific aspect of arg1 being developed, if in addition to arg1" f="vsp" n="5"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

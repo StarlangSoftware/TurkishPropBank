@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="swab">
+    <roleset id="swab.01" name="to polish or soften">
+      <roles>
+        <role descr="polisher, agent" f="PAG" n="0"/>
+        <role descr="stain, thing swabbed" f="PPT" n="1"/>
+        <role descr="source, swabbed from" f="DIR" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

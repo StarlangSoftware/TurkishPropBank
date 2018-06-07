@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="undetectable">
+    <roleset id="undetectable.01" name="not able to be found">
+      <roles>
+        <role descr="detector" f="pag" n="0"/>
+        <role descr="detected" f="ppt" n="1"/>
+        <role descr="instruemtn, process" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

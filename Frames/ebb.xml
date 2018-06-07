@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="ebb">
+    <roleset id="ebb.01" name="become smaller/lower">
+      <roles>
+        <role descr="thing getting smaller" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

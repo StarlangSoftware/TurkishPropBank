@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="microfilm">
+    <roleset id="microfilm.01" name="film">
+      <roles>
+        <role descr="recorder, filmer" f="PAG" n="0"/>
+        <role descr="thing recorded, filmed" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,36 @@
+<frameset>
+  <predicate lemma="pimp">
+    <roleset id="pimp.01" name="act as a pimp, selling the sexual service of prostitutes (or metaphorical extension)">
+      <roles>
+        <role descr="pimp" f="pag" n="0"/>
+        <role descr="prostitute" f="ppt" n="1"/>
+        <role descr="price paid" f="vsp" n="2"/>
+        <role descr="sex buyer" f="gol" n="3"/>
+      </roles>
+    </roleset>
+    <roleset id="pimp.02" name="embellish with amazing, outrageous and stylish features/decorations">
+      <roles>
+        <role descr="decorator, agent" f="pag" n="0"/>
+        <role descr="thing decorated" f="ppt" n="1"/>
+        <role descr="embellishments" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="pimp_out">
+    <roleset id="pimp_out.03" name="act as a pimp, selling the sexual services of prostitutes (or metaphorical extension)">
+      <roles>
+        <role descr="pimp" f="pag" n="0"/>
+        <role descr="prostitute" f="ppt" n="1"/>
+        <role descr="price paid" f="vsp" n="2"/>
+        <role descr="buyer of services" f="gol" n="3"/>
+      </roles>
+    </roleset>
+    <roleset id="pimp_out.04" name="embellish with outrageous and amazing decorations/features">
+      <roles>
+        <role descr="decorator, agent" f="pag" n="0"/>
+        <role descr="thing decorated" f="ppt" n="1"/>
+        <role descr="embellishments" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

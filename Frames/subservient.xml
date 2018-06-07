@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="subservient">
+    <roleset id="subservient.01" name="subordinate">
+      <roles>
+        <role descr="subservient one" f="pag" n="0"/>
+        <role descr="master" f="ppt" n="1"/>
+        <role descr="domain of servitude" f="vsp" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

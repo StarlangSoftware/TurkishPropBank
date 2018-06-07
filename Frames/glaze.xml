@@ -1,0 +1,17 @@
+<frameset>
+  <predicate lemma="glaze">
+    <roleset id="glaze.01" name="(cause to) have a sheen">
+      <roles>
+        <role descr="glazer, agent" f="PAG" n="0"/>
+        <role descr="thing now shiny" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="glaze_over">
+    <roleset id="glaze_over.02" name="come to have a glaze">
+      <roles>
+        <role descr="thing now glazed" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

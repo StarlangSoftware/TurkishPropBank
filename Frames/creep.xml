@@ -1,0 +1,38 @@
+<frameset>
+  <predicate lemma="creep">
+    <roleset id="creep.01" name="manner of motion">
+      <roles>
+        <role descr="creeper" f="ppt" n="0"/>
+        <role descr="path" f="loc" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="creep_up">
+    <roleset id="creep_up.02" name="approach">
+      <roles>
+        <role descr="creeper" f="pag" n="0"/>
+        <role descr="target" f="gol" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="creep_out">
+    <roleset id="creep_out.03" name="scare">
+      <roles>
+        <role descr="scary entity" f="pag" n="0"/>
+        <role descr="scared entity" f="ppt" n="1"/>
+        <role descr="instrument (if seperate from arg0)" f="mnr" n="2"/>
+        <role descr="intensifier, extent" f="ext" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="creepy">
+    <roleset id="creepy.04" name="scary, unsettling">
+      <roles>
+        <role descr="creepy entity" f="pag" n="0"/>
+        <role descr="creeped out entity" f="ppt" n="1"/>
+        <role descr="instrument (if separate from arg0)" f="mnr" n="2"/>
+        <role descr="intensifier" f="ext" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

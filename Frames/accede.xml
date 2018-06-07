@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="accede">
+    <roleset id="accede.01" name="agree, adhere">
+      <roles>
+        <role descr="acceder, agent" f="PAG" n="0"/>
+        <role descr="entity acceded to" f="COM" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="station">
+    <roleset id="station.01" name="put military people in a place">
+      <roles>
+        <role descr="high command, agent" f="PAG" n="0"/>
+        <role descr="military people" f="PPT" n="1"/>
+        <role descr="place" f="loc" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="darn">
+    <roleset id="darn.01" name="repair by sewing">
+      <roles>
+        <role descr="agent, repairer" f="pag" n="0"/>
+        <role descr="patient, thing(s) being darned" f="ppt" n="1"/>
+        <role descr="instrument, thread" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

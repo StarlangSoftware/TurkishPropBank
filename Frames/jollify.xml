@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="jollify">
+    <roleset id="jollify.01" name="cause to be jolly">
+      <roles>
+        <role descr="comforter, cause of jolliness" f="pag" n="0"/>
+        <role descr="patient, comforted" f="ppt" n="1"/>
+        <role descr="instrument or manner, if separate from arg 0" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

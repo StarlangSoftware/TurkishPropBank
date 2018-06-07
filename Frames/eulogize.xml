@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="eulogize">
+    <roleset id="eulogize.01" name="praise highly">
+      <roles>
+        <role descr="agent, honorer" f="pag" n="0"/>
+        <role descr="entity eulogized" f="ppt" n="1"/>
+        <role descr="for what,as what" f="cau" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

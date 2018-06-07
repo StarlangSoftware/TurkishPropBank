@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="abnegate">
+    <roleset id="abnegate.01" name="to give up, renounce">
+      <roles>
+        <role descr="person giving something up" f="pag" n="0"/>
+        <role descr="entity given up, renounced" f="ppt" n="1"/>
+        <role descr="Benefactive/ Malefactive, often reflexive" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

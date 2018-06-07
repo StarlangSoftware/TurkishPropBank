@@ -1,0 +1,19 @@
+<frameset>
+  <predicate lemma="soak">
+    <roleset id="soak.01" name="cause to become very very wet">
+      <roles>
+        <role descr="causer" f="pag" n="0"/>
+        <role descr="thing getting wet" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="soak_up">
+    <roleset id="soak_up.02" name="absorb">
+      <roles>
+        <role descr="absorber, agent" f="pag" n="0"/>
+        <role descr="liquid" f="ppt" n="1"/>
+        <role descr="instrument, if separate from agent" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

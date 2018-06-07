@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="spook">
+    <roleset id="spook.01" name="scare">
+      <roles>
+        <role descr="cause of fright" f="pag" n="0"/>
+        <role descr="scared entity" f="ppt" n="1"/>
+        <role descr="instrument, if arg0 is also present" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

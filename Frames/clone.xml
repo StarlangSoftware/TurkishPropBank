@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="clone">
+    <roleset id="clone.01" name="copy">
+      <roles>
+        <role descr="cloner, agent" f="PAG" n="0"/>
+        <role descr="original" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

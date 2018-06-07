@@ -1,0 +1,27 @@
+<frameset>
+  <predicate lemma="tangle">
+    <roleset id="tangle.01" name="to mix or twist together, drag in">
+      <roles>
+        <role descr="causer" f="pag" n="0"/>
+        <role descr="entity tangled" f="ppt" n="1"/>
+        <role descr="location" f="loc" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="tangle.03" name="tussle, fight">
+      <roles>
+        <role descr="first (or all) tangler" f="pag" n="0"/>
+        <role descr="other tangler" f="com" n="1"/>
+        <role descr="subject matter of the fight" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="tangle_up">
+    <roleset id="tangle_up.02" name="phrasal variant of tangle.01">
+      <roles>
+        <role descr="causer" f="pag" n="0"/>
+        <role descr="entity tangled" f="ppt" n="1"/>
+        <role descr="location" f="loc" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

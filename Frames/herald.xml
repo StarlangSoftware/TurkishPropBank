@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="herald">
+    <roleset id="herald.01" name="to proclaim, announce">
+      <roles>
+        <role descr="announcer" f="pag" n="0"/>
+        <role descr="thing announced" f="ppt" n="1"/>
+        <role descr="attribute, announced as" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

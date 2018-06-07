@@ -1,0 +1,17 @@
+<frameset>
+  <predicate lemma="can">
+    <roleset id="can.01" name="put into tins">
+      <roles>
+        <role descr="canner, agent" f="PAG" n="0"/>
+        <role descr="substance" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="can.02" name="fire (metphorical extension of 'throw away')">
+      <roles>
+        <role descr="employer" f="PAG" n="0"/>
+        <role descr="ex-employee (thing thrown away)" f="ppt" n="1"/>
+        <role descr="job" f="dir" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

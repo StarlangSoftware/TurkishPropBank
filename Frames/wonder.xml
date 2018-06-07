@@ -1,0 +1,38 @@
+<frameset>
+  <predicate lemma="wonder">
+    <roleset id="wonder.01" name="think about, ponder">
+      <roles>
+        
+        <role descr="thinker" f="ppt" n="0"/>
+        <role descr="thought" f="pag" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="wonder.02" name="experience a sense of wonder, experience wonder/awe, inspire awe, wonder">
+      <roles>
+        
+        <role descr="experiencer" f="ppt" n="0"/>
+        <role descr="wonderful, awe-inspiring thing" f="pag" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="wonderful">
+    <roleset id="wonderful.03" name="generally positive, admirable">
+      <roles>
+        <role descr="wonderful thing" f="pag" n="1"/>
+        <role descr="beneficiary, wonderful to whom?" f="gol" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="wonderful.04" name="very skilled at">
+      <roles>
+        <role descr="skilled entity" f="pag" n="1"/>
+        <role descr="skilled at" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="wonderful.05" name="beneficial, useful, possibly for health">
+      <roles>
+        <role descr="thing that is beneficial" f="pag" n="1"/>
+        <role descr="beneficial for whom, what?" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

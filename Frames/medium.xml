@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="medium">
+    <roleset id="medium.01" name="mid-grade">
+      <roles>
+        <role descr="mid-grade thing" f="ppt" n="1"/>
+        <role descr="domain, scale that arg1 is in the middle of" f="vsp" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,26 @@
+<frameset>
+  <predicate lemma="cough">
+    <roleset id="cough.01" name="cough, hack, quickly pushing air from the lungs">
+      <roles>
+        <role descr="cougher" f="PAG" n="0"/>
+        <role descr="the cough itself" f="ppt" n="1"/>
+        <role descr="sputum or other entity expelled from/through respiratory tract" f="vsp" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="cough.02" name="say in a coughing manner">
+      <roles>
+        <role descr="speaker" f="PAG" n="0"/>
+        <role descr="utterance" f="PPT" n="1"/>
+        <role descr="hearer" f="GOL" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="cough_up">
+    <roleset id="cough_up.03" name="give under duress">
+      <roles>
+        <role descr="giver" f="PAG" n="0"/>
+        <role descr="thing given" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

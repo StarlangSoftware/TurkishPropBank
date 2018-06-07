@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="blonde">
+    <roleset id="blonde.01" name="having light yellow pigmentation of hair/fur">
+      <roles>
+        <role descr="blondie" f="pag" n="1"/>
+        <role descr="specific body part, if mentioned separately from arg1" f="vsp" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

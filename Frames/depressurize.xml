@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="depressurize">
+    <roleset id="depressurize.01" name="to cause to lose pressure">
+      <roles>
+        <role descr="causer of depressurization, agent" f="PAG" n="0"/>
+        <role descr="entity losing pressure" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

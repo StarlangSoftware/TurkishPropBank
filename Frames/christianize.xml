@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="christianize">
+    <roleset id="christianize.01" name="make christian">
+      <roles>
+        <role descr="agent, christianizing entity" f="PAG" n="0"/>
+        <role descr="entity christianized" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

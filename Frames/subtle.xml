@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="subtle">
+    <roleset id="subtle.01" name="inconspicuous">
+      <roles>
+        <role descr="subtle entity/action" f="pag" n="0"/>
+        <role descr="about what" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

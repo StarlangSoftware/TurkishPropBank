@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="scaly">
+    <roleset id="scaly.01" name="having skin with hard plates">
+      <roles>
+        <role descr="scaly entity" f="ppt" n="1"/>
+        <role descr="scales" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

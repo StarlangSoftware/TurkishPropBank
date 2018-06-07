@@ -1,0 +1,17 @@
+<frameset>
+  <predicate lemma="gasp">
+    <roleset id="gasp.01" name="breathe hard">
+      <roles>
+        <role descr="breather" f="PAG" n="0"/>
+        <role descr="air, hopefully" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="gasp.02" name="say breathily">
+      <roles>
+        <role descr="speaker" f="PAG" n="0"/>
+        <role descr="utterance" f="PPT" n="1"/>
+        <role descr="hearer" f="GOL" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

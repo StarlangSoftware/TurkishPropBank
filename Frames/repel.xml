@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="repel">
+    <roleset id="repel.01" name="fight or scare off">
+      <roles>
+        <role descr="repeller" f="pag" n="0"/>
+        <role descr="repelled entity" f="ppt" n="1"/>
+        <role descr="instrument" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

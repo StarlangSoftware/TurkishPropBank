@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="band">
+    <roleset id="band.01" name="attach">
+      <roles>
+        <role descr="causer of banding together, agent" f="pag" n="0"/>
+        <role descr="first (or all) thing(s) attached" f="ppt" n="1"/>
+        <role descr="other things, if present/separate" f="ppt" n="2"/>
+        <role descr="attribute of patients" f="prd" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

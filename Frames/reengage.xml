@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="reengage">
+    <roleset id="reengage.01" name="cause to get involved again">
+      <roles>
+        <role descr="causer of engagement" f="pag" n="0"/>
+        <role descr="entity sucked in" f="ppt" n="1"/>
+        <role descr="thing involved in" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

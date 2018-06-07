@@ -1,0 +1,13 @@
+<frameset>
+  <predicate lemma="seesaw">
+    <roleset id="seesaw.01" name="teeter or move up and down">
+      <roles>
+        <role descr="thing moving" f="ppt" n="1"/>
+        <role descr="EXT or MNR" f="ext" n="2"/>
+        <role descr="one side" f="dir" n="3"/>
+        <role descr="other side" f="gol" n="4"/>
+        <role descr="medium/range" f="prd" n="5"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

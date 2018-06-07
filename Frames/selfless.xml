@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="selfless">
+    <roleset id="selfless.01" name="thinking of others first; giving">
+      <roles>
+        <role descr="agent of selfless behavior" f="pag" n="0"/>
+        <role descr="selfless act" f="ppt" n="1"/>
+        <role descr="beneficiary" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

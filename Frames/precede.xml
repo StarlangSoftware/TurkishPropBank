@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="precede">
+    <roleset id="precede.01" name="go before">
+      <roles>
+        <role descr="causal agent" f="pag" n="0"/>
+        <role descr="thing preceding (thing that comes first)" f="ppt" n="1"/>
+        <role descr="thing preceded (thing that comes second)" f="ppt" n="2"/>
+        <role descr="domain in which priority occurs" f="vsp" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

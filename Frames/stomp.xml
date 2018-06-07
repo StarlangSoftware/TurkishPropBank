@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="stomp">
+    <roleset id="stomp.01" name="to tread or trample heavily">
+      <roles>
+        <role descr="entity with heavy feet, agent" f="ppt" n="0"/>
+        <role descr="entity stomped (on)" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

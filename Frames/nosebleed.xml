@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="nosebleed">
+    <roleset id="nosebleed.01" name="bleed from the nose">
+      <roles>
+        <role descr="entity bleeding" f="pag" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

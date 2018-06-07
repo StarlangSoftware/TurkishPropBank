@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="anticorruption">
+    <roleset id="anticorruption.01" name="combatting corruption">
+      <roles>
+        <role descr="entity combatting corruption" f="pag" n="0"/>
+        <role descr="entity freed from corruption" f="ppt" n="1"/>
+        <role descr="the corruption itself, which is removed" f="vsp" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

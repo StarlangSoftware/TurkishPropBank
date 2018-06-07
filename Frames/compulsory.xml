@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="compulsory">
+    <roleset id="compulsory.01" name="mandatory, required">
+      <roles>
+        <role descr="Thing that is required" f="ppt" n="1"/>
+        <role descr="Required-of, compulsory for whom?" f="dir" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

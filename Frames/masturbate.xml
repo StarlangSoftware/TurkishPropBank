@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="masturbate">
+    <roleset id="masturbate.01" name="physically induce sexual gratification (often of the self)">
+      <roles>
+        <role descr="masturbator" f="pag" n="0"/>
+        <role descr="entity receiving stimulation" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

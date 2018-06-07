@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="strand">
+    <roleset id="strand.01" name="to leave stranded, left high and dry">
+      <roles>
+        <role descr="leaver, agent" f="PAG" n="0"/>
+        <role descr="entity stranded" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

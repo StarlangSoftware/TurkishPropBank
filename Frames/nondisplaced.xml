@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="nondisplaced">
+    <roleset id="nondisplaced.01" name="not moved out of place">
+      <roles>
+        <role descr="mover" f="pag" n="0"/>
+        <role descr="moved" f="ppt" n="1"/>
+        <role descr="place" f="loc" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="belong">
+    <roleset id="belong.01" name="be owned by">
+      <roles>
+        <role descr="possession" f="pag" n="0"/>
+        <role descr="owner or group" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

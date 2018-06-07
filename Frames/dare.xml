@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="dare">
+    <roleset id="dare.01" name="impelled action, brave">
+      <roles>
+        <role descr="urger" f="pag" n="0"/>
+        <role descr="impelled agent" f="ppt" n="1"/>
+        <role descr="impelled action" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

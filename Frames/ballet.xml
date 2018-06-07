@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="ballet">
+    <roleset id="ballet.01" name="dance ballet">
+      <roles>
+        <role descr="dancer (s)" f="pag" n="0"/>
+        <role descr="explicit mention of dance itself (rare, impossible?)" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

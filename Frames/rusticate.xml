@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="rusticate">
+    <roleset id="rusticate.01" name="make rustic?">
+      <roles>
+        <role descr="rusticator" f="PAG" n="0"/>
+        <role descr="thing rusticated" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

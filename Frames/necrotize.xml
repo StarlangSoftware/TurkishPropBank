@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="necrotize">
+    <roleset id="necrotize.101" name="cause tissue to die">
+      <roles>
+        <role descr="Causer of necrosis" f="pag" n="0"/>
+        <role descr="Dying tissue" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

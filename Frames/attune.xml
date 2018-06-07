@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="attune">
+    <roleset id="attune.01" name="to bring into accord">
+      <roles>
+        <role descr="causer" f="pag" n="0"/>
+        <role descr="entity adjusted, attuned" f="ppt" n="1"/>
+        <role descr="attuned to what?" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

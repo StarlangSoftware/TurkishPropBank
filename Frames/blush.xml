@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="blush">
+    <roleset id="blush.01" name="turn red">
+      <roles>
+        <role descr="blusher" f="PAG" n="0"/>
+        <role descr="blushed-at, cause" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

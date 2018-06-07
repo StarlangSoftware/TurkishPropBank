@@ -1,0 +1,21 @@
+<frameset>
+  <predicate lemma="taper_off">
+    <roleset id="taper_off.01" name="become slender">
+      <roles>
+        <role descr="agent   (rare)" f="pag" n="0"/>
+        <role descr="thing becoming slender" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="taper">
+    <roleset id="taper.02" name="gradually diminish">
+      <roles>
+        <role descr="Agent" f="pag" n="0"/>
+        <role descr="Logical subject, patient, thing being diminished" f="ppt" n="1"/>
+        <role descr="EXT, amount diminished by" f="ext" n="2"/>
+        <role descr="Start point" f="vsp" n="3"/>
+        <role descr="End point" f="prd" n="4"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

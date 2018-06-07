@@ -1,0 +1,13 @@
+<frameset>
+  <predicate lemma="malform">
+    <roleset id="malform.01" name="abnormal formation">
+      <roles>
+        <role descr="Agent or cause of malformation" f="pag" n="0"/>
+        <role descr="Entity malformed" f="ppt" n="1"/>
+        <role descr="Beneficiary (likely rare)" f="gol" n="2"/>
+        <role descr="Source/materials" f="vsp" n="3"/>
+        <role descr="Secondary attribute of Arg1" f="prd" n="4"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

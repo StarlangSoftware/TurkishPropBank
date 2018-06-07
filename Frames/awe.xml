@@ -1,0 +1,25 @@
+<frameset>
+  <predicate lemma="awe">
+    <roleset id="awe.01" name="inspire fear/awe in someone, inspiring of awe, generally positive">
+      <roles>
+        <role descr="cause of awe, stupefication" f="pag" n="0"/>
+        <role descr="awed entity" f="ppt" n="1"/>
+        <role descr="instrument, if separate from arg0" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="awesome">
+    <roleset id="awesome.02" name="really skilled at">
+      <roles>
+        <role descr="skilled entity" f="pag" n="0"/>
+        <role descr="at what (skill)" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="awesome.03" name="extremely beneficial for">
+      <roles>
+        <role descr="beneficial thing" f="pag" n="1"/>
+        <role descr="beneficiary" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

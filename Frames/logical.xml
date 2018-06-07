@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="logical">
+    <roleset id="logical.01" name="well reasoned according to the rules of logic">
+      <roles>
+        <role descr="logical entity/act (may require concatenation)" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

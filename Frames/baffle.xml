@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="baffle">
+    <roleset id="baffle.01" name="to bewilder, perplex">
+      <roles>
+        <role descr="cause of bewilderment, stupefication" f="pag" n="0"/>
+        <role descr="baffled entity" f="ppt" n="1"/>
+        <role descr="instrument, if separate from arg0" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

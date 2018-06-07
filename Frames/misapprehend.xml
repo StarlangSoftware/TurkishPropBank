@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="misapprehend">
+    <roleset id="misapprehend.01" name="misinterpret">
+      <roles>
+        <role descr="interpreter" f="PPT" n="0"/>
+        <role descr="misinterpreted message" f="PAG" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

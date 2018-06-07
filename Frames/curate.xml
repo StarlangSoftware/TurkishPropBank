@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="curate">
+    <roleset id="curate.01" name="select art, food or other items for display">
+      <roles>
+        <role descr="curator" f="pag" n="0"/>
+        <role descr="show" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

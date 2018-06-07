@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="sidle">
+    <roleset id="sidle.01" name="to walk sideways,ingratiate oneself to">
+      <roles>
+        <role descr="agent, rider (use only if arg1 is present)" f="PAG" n="0"/>
+        <role descr="thing sidled, walker" f="PPT" n="1"/>
+        <role descr="path, thing  sidled up to" f="LOC" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

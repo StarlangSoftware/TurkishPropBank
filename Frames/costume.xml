@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="costume">
+    <roleset id="costume.01" name="put into a costume">
+      <roles>
+        <role descr="costumer, wardrobe designer" f="pag" n="0"/>
+        <role descr="person wearing costume" f="ppt" n="1"/>
+        <role descr="costume" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

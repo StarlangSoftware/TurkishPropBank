@@ -1,0 +1,37 @@
+<frameset>
+  <predicate lemma="bleed">
+    <roleset id="bleed.01" name="to emit or lose blood, to be wounded">
+      <roles>
+        <role descr="causer of bloodshed, agent" f="dir" n="0"/>
+        <role descr="entity bleeding" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="bleed.02" name="to take money from">
+      <roles>
+        <role descr="causer of bleeding, agent" f="pag" n="0"/>
+        <role descr="entity losing money" f="dir" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="bleed.03" name="to feel sympathetic grief">
+      <roles>
+        <role descr="experiencer" f="ppt" n="0"/>
+        <role descr="thing bleeding for" f="pag" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="bleed_off">
+    <roleset id="bleed_off.04" name="to remove">
+      <roles>
+        <role descr="decreaser, agent" f="pag" n="0"/>
+        <role descr="stuff being removed" f="dir" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="bleed_out">
+    <roleset id="bleed_out.05" name="bleed to death">
+      <roles>
+        <role descr="one who is bleeding" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

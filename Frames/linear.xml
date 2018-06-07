@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="linear">
+    <roleset id="linear.01" name="consisting of a line">
+      <roles>
+        <role descr="linear thing" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

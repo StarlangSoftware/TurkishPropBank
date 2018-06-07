@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="discontinue">
+    <roleset id="discontinue.01" name="to stop doing or manufacturing">
+      <roles>
+        <role descr="entity ending something, agent" f="PAG" n="0"/>
+        <role descr="thing discontinued" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

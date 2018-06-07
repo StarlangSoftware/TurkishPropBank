@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="heal">
+    <roleset id="heal.01" name="to cure or repair">
+      <roles>
+        <role descr="entity causing cure" f="pag" n="0"/>
+        <role descr="entity healed" f="ppt" n="1"/>
+        <role descr="healed of what? illness" f="dir" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

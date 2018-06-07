@@ -1,0 +1,17 @@
+<frameset>
+  <predicate lemma="protest">
+    <roleset id="protest.01" name="object to something, demonstrating against, participate in a protest">
+      <roles>
+        <role descr="protester" f="pag" n="0"/>
+        <role descr="objectionable thing, topic of protest" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="protest.02" name="manner of speaking">
+      <roles>
+        <role descr="speaker" f="pag" n="0"/>
+        <role descr="utterance" f="ppt" n="1"/>
+        <role descr="hearer" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

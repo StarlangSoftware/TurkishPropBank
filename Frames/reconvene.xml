@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="reconvene">
+    <roleset id="reconvene.01" name="call a meeting again">
+      <roles>
+        <role descr="agent, entity calling the meeting" f="PAG" n="0"/>
+        <role descr="theme, the meeting itself" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

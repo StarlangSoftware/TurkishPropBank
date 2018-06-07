@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="boggle">
+    <roleset id="boggle.01" name="wonder or be confused">
+      <roles>
+        <role descr="experiencer of confusion or wonder" f="PPT" n="0"/>
+        <role descr="cause of confusion or wonder" f="PAG" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

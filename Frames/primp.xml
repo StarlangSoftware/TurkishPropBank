@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="primp">
+    <roleset id="primp.01" name="primp">
+      <roles>
+        <role descr="primper, agent" f="pag" n="0"/>
+        <role descr="thing primped (e.g., hair), patient" f="ppt" n="1"/>
+        <role descr="instrument of primping" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

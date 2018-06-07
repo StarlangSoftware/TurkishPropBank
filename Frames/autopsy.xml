@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="autopsy">
+    <roleset id="autopsy.01" name="perform a post-mortem dissection in search of cause of death">
+      <roles>
+        <role descr="agent, entity performing or responsible for autopsy" f="pag" n="0"/>
+        <role descr="the body" f="ppt" n="1"/>
+        <role descr="in search of" f="prp" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

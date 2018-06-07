@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="dismount">
+    <roleset id="dismount.01" name="get off a horse">
+      <roles>
+        <role descr="former rider" f="PAG" n="0"/>
+        <role descr="horse (or other vehicle)" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

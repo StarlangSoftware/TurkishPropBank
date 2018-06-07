@@ -1,0 +1,17 @@
+<frameset>
+  <predicate lemma="stunt">
+    <roleset id="stunt.01" name="to check the growth or development of">
+      <roles>
+        <role descr="preventer of growth, agent" f="PAG" n="0"/>
+        <role descr="growth" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="stunt.02" name="unusual feat">
+      <roles>
+        <role descr="actor, stunt-puller" f="pag" n="0"/>
+        <role descr="purpose, cause, reason for stunt" f="prp" n="1"/>
+        <role descr="beneficiary (when clearly seperate from arg 1)" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="overgrow">
+    <roleset id="overgrow.01" name="wild growth">
+      <roles>
+        <role descr="garden" f="loc" n="1"/>
+        <role descr="growth" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

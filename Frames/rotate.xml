@@ -1,0 +1,18 @@
+<frameset>
+  <predicate lemma="rotate">
+    <roleset id="rotate.01" name="(make) go around, causing to go or going around">
+      <roles>
+        <role descr="causer of rotation" f="pag" n="0"/>
+        <role descr="thing rotating" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="rotate.02" name="shift from one thing to another">
+      <roles>
+        <role descr="causer of shift" f="pag" n="0"/>
+        <role descr="thing being changed" f="ppt" n="1"/>
+        <role descr="old thing" f="vsp" n="2"/>
+        <role descr="new thing" f="prd" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

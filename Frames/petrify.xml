@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="petrify">
+    <roleset id="petrify.01" name="harden">
+      <roles>
+        <role descr="causer of hardening" f="pag" n="0"/>
+        <role descr="entity becoming hard" f="ppt" n="1"/>
+        <role descr="resulting rock-like state" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

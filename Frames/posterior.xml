@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="posterior">
+    <roleset id="posterior.01" name="behind, at the back">
+      <roles>
+        <role descr="posterior thing" f="pag" n="1"/>
+        <role descr="what arg1 is behind (posterior to)" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

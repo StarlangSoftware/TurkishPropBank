@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="impractical">
+    <roleset id="impractical.01" name="not realizable">
+      <roles>
+        <role descr="impractical thing" f="ppt" n="1"/>
+        <role descr="impractical to/for whom?" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

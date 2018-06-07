@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="pioneer">
+    <roleset id="pioneer.01" name="come up with a new idea">
+      <roles>
+        <role descr="thinker" f="pag" n="0"/>
+        <role descr="new idea" f="gol" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

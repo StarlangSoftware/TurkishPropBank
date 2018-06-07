@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="undecided">
+    <roleset id="undecided.01" name="not resolved">
+      <roles>
+        <role descr="agent/cause of decision" f="pag" n="0"/>
+        <role descr="thing not decided" f="ppt" n="1"/>
+        <role descr="benefactive" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

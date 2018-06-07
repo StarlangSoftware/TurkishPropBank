@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="unveil">
+    <roleset id="unveil.01" name="display, show, reveal, introduction of something new">
+      <roles>
+        <role descr="agent, entity revealing" f="PAG" n="0"/>
+        <role descr="thing shown" f="PPT" n="1"/>
+        <role descr="viewer" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

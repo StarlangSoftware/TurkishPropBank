@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="barrack">
+    <roleset id="barrack.01" name="to house in barracks">
+      <roles>
+        <role descr="Agent, builder of barracks" f="PAG" n="0"/>
+        <role descr="Entity housed in barracks" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

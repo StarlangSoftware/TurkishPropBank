@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="snowball">
+    <roleset id="snowball.01" name="to increase rapidly">
+      <roles>
+        <role descr="thing increased" f="PPT" n="1"/>
+        <role descr="endstate" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,18 @@
+<frameset>
+  <predicate lemma="individualistic">
+    <roleset id="individualistic.01" name="focused on, set apart as an individual">
+      <roles>
+        <role descr="individual" f="pag" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="individualize">
+    <roleset id="individualize.02" name="tailor to an individual">
+      <roles>
+        <role descr="agent" f="pag" n="0"/>
+        <role descr="thing tailored" f="ppt" n="1"/>
+        <role descr="to whom; the individual" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

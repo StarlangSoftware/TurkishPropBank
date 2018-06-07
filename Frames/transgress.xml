@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="transgress">
+    <roleset id="transgress.01" name="to violate a command or law">
+      <roles>
+        <role descr="Transgressor, Agent" f="PAG" n="0"/>
+        <role descr="Thing transgressed, law or command violated" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

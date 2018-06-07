@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="unconcerned">
+    <roleset id="unconcerned.01" name="not worried">
+      <roles>
+        <role descr="potential causer of concern" f="pag" n="0"/>
+        <role descr="entity who isn't worried" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

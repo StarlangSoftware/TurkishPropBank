@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="tamp_down">
+    <roleset id="tamp_down.01" name="strike">
+      <roles>
+        <role descr="agent, hitter - animate only!" f="pag" n="0"/>
+        <role descr="thing hit" f="ppt" n="1"/>
+        <role descr="instrument, thing hit by or with" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

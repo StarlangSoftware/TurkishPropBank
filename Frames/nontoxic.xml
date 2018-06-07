@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="nontoxic">
+    <roleset id="nontoxic.01" name="not poisonous">
+      <roles>
+        <role descr="non-poison" f="ppt" n="1"/>
+        <role descr="entity not susceptible to arg1 as a poison" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

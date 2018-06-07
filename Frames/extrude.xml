@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="extrude">
+    <roleset id="extrude.01" name="thrust, force, or press out">
+      <roles>
+        <role descr="extruder, agent" f="PAG" n="0"/>
+        <role descr="entity extruded" f="PPT" n="1"/>
+        <role descr="extruded from" f="DIR" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

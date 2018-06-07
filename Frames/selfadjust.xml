@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="selfadjust">
+    <roleset id="selfadjust.01" name="change oneself">
+      <roles>
+        <role descr="causer of transformation" f="pag" n="0"/>
+        <role descr="end state" f="gol" n="2"/>
+        <role descr="start state" f="dir" n="3"/>
+        <role descr="purpose, reason for adjustment" f="prp" n="4"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

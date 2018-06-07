@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="reprioritize">
+    <roleset id="reprioritize.01" name="reorganize the priority hierarchy">
+      <roles>
+        <role descr="agent" f="pag" n="0"/>
+        <role descr="thing given new priority status/hierarchy" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

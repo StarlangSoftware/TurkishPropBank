@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="nonexistent">
+    <roleset id="nonexistent.01" name="doesn't exist">
+      <roles>
+        <role descr="thing that doesn't exist" f="pag" n="1"/>
+        <role descr="secondary attribute" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

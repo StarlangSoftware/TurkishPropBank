@@ -1,0 +1,17 @@
+<frameset>
+  <predicate lemma="craft">
+    <roleset id="craft.01" name="to make by hand and with much skill, capable as a craftsman">
+      <roles>
+        <role descr="crafts(wo)man, agent" f="PAG" n="0"/>
+        <role descr="theme" f="PRD" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="crafty">
+    <roleset id="crafty.02" name="devious, conniving">
+      <roles>
+        <role descr="devious entity/act" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

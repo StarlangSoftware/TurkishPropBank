@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="tranquilize">
+    <roleset id="tranquilize.01" name="(cause to) calm down">
+      <roles>
+        <role descr="agent" f="PAG" n="0"/>
+        <role descr="patient" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

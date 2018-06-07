@@ -1,0 +1,25 @@
+<frameset>
+  <predicate lemma="type">
+    <roleset id="type.01" name="use a typewriter">
+      <roles>
+        <role descr="writer" f="pag" n="0"/>
+        <role descr="text" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="type.03" name="identify as belonging to a certain category, determining type of (e.g. blood type)">
+      <roles>
+        <role descr="agent, one categorizing" f="pag" n="0"/>
+        <role descr="thing placed in a category" f="ppt" n="1"/>
+        <role descr="category itself" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="type_up">
+    <roleset id="type_up.02" name="phrasal typing, using a typewriter">
+      <roles>
+        <role descr="writer" f="pag" n="0"/>
+        <role descr="text" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

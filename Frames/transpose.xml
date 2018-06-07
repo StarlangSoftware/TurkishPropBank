@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="transpose">
+    <roleset id="transpose.01" name="move or switch (written) elements, moving or switching">
+      <roles>
+        <role descr="transposer, agent" f="pag" n="0"/>
+        <role descr="thing(s) transposed" f="ppt" n="1"/>
+        <role descr="source, initial state/place" f="dir" n="2"/>
+        <role descr="destination, final state/place" f="gol" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

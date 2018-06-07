@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="spay">
+    <roleset id="spay.01" name="take the female bits">
+      <roles>
+        <role descr="vet" f="pag" n="0"/>
+        <role descr="animal missing her bits" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

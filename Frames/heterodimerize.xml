@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="heterodimerize">
+    <roleset id="heterodimerize.01" name="form a dimer from two different monomers">
+      <roles>
+        <role descr="agent of heterodimerization" f="pag" n="0" />
+        <role descr="monomer 1" f="ppt" n="1" />
+        <role descr="monomer 2" f="ppt" n="2" />
+        <role descr="result, heterodimer" f="prd" n="3" />
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

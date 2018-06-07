@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="tow">
+    <roleset id="tow.01" name="(try to) cause motion, cause motion">
+      <roles>
+        <role descr="puller" f="pag" n="0"/>
+        <role descr="thing pulled" f="ppt" n="1"/>
+        <role descr="DIR, GOL or attribute of arg1" f="gol" n="2"/>
+        <role descr="EXT, distance moved" f="ext" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

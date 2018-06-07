@@ -1,0 +1,32 @@
+<frameset>
+  <predicate lemma="romance">
+    <roleset id="romance.01" name="woo">
+      <roles>
+        <role descr="romancer" f="PAG" n="0"/>
+        <role descr="romanced" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="romantic">
+    <roleset id="romantic.02" name="idealized (but not pertaining to amour)">
+      <roles>
+        <role descr="perceiver" f="ppt" n="0"/>
+        <role descr="idealized thing" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="romantic.03" name="amorous, pertaining to romance">
+      <roles>
+        <role descr="romancer (may be animate, inanimate, or actions)" f="pag" n="0"/>
+        <role descr="recipient of romantic acts" f="gol" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="romanticize">
+    <roleset id="romanticize.04" name="fit to a romantic ideal">
+      <roles>
+        <role descr="romantic fool" f="PAG" n="0"/>
+        <role descr="romanticized thing" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

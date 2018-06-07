@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="nonulcerated">
+    <roleset id="nonulcerated.01" name="not having ulcers">
+      <roles>
+        <role descr="entity without an ulcer" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

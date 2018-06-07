@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="apartheidize">
+    <roleset id="apartheidize.01" name="installing apartheid; segregating">
+      <roles>
+        <role descr="agent of apartheidization" f="PAG" n="0"/>
+        <role descr="nation/region being inflicted with apartheid" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

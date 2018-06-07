@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="veil">
+    <roleset id="veil.01" name="to conceal or disguise">
+      <roles>
+        <role descr="concealer, agent" f="PAG" n="0"/>
+        <role descr="entity concealed" f="GOL" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

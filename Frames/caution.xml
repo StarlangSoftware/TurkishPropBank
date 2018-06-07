@@ -1,0 +1,19 @@
+<frameset>
+  <predicate lemma="caution">
+    <roleset id="caution.01" name="say, warn">
+      <roles>
+        <role descr="Sayer" f="PAG" n="0"/>
+        <role descr="Utterance" f="PPT" n="1"/>
+        <role descr="Hearer" f="GOL" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="cautious">
+    <roleset id="cautious.02" name="full of caution">
+      <roles>
+        <role descr="careful one" f="pag" n="0"/>
+        <role descr="cautious of what? regarding what?" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

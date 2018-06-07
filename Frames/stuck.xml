@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="stuck">
+    <roleset id="stuck.01" name="unable to get free, move forward">
+      <roles>
+        <role descr="captive" f="ppt" n="1"/>
+        <role descr="situation/location arg1 is not free of" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

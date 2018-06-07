@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="recalcitrant">
+    <roleset id="recalcitrant.01" name="stubbornly resisting authority/treatment">
+      <roles>
+        <role descr="stubborn entity" f="pag" n="0"/>
+        <role descr="in response to" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

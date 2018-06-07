@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="unobscured">
+    <roleset id="unobscured.01" name="not obscured, allowing a clear view">
+      <roles>
+        <role descr="would-be causer of unclear view" f="pag" n="0"/>
+        <role descr="entity not obscured" f="ppt" n="1"/>
+        <role descr="not obscured from (entity able to see, usually)" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

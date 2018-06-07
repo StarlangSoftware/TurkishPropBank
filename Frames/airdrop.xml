@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="airdrop">
+    <roleset id="airdrop.09" name="delivery via aircraft">
+      <roles>
+        <role descr="deliverer" f="pag" n="0"/>
+        <role descr="thing delivered" f="ppt" n="1"/>
+        <role descr="recipient" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

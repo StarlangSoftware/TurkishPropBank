@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="babble">
+    <roleset id="babble.01" name="make babbling sounds">
+      <roles>
+        <role descr="babbler" f="pag" n="0"/>
+        <role descr="utterance babbled, babbled about what?" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

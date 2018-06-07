@@ -1,0 +1,64 @@
+<frameset>
+  <predicate lemma="snap">
+    <roleset id="snap.01" name="bite at viciously, perhaps as an utterance">
+      <roles>
+        <role descr="speaker, snapper" f="PAG" n="0"/>
+        <role descr="utterance" f="PPT" n="1"/>
+        <role descr="hearer, entity being snapped at" f="GOL" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="snap.03" name="snap the fingers">
+      <roles>
+        <role descr="snapper" f="PAG" n="0"/>
+        <role descr="fingers" f="PPT" n="1"/>
+        <role descr="at whom/what" f="cau" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="snap.04" name="make snapping noises">
+      <roles>
+        <role descr="maker of sounds" f="PPT" n="0"/>
+      </roles>
+    </roleset>
+    <roleset id="snap.05" name="break into pieces">
+      <roles>
+        <role descr="breaker" f="PAG" n="0"/>
+        <role descr="thing broken" f="PPT" n="1"/>
+        <role descr="instrument" f="MNR" n="2"/>
+        <role descr="pieces" f="prd" n="3"/>
+      </roles>
+    </roleset>
+    <roleset id="snap.07" name="move quickly">
+      <roles>
+        <role descr="mover" f="PAG" n="0"/>
+        <role descr="thing in motion" f="PPT" n="1"/>
+        <role descr="destination" f="gol" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="snap.09" name="take pictures with snapping noise">
+      <roles>
+        <role descr="Photographer" f="PAG" n="0"/>
+        <role descr="Shots/ pictures" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="snap_off">
+    <roleset id="snap_off.06" name="break into pieces">
+      <roles>
+        <role descr="breaker" f="PAG" n="0"/>
+        <role descr="piece(s)" f="PPT" n="1"/>
+        <role descr="whole" f="dir" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="snap_up">
+    <roleset id="snap_up.08" name="acquire quickly">
+      <roles>
+        <role descr="agent, entity acquiring something" f="PAG" n="0"/>
+        <role descr="thing acquired" f="PPT" n="1"/>
+        <role descr="seller" f="dir" n="2"/>
+        <role descr="price paid" f="prp" n="3"/>
+        <role descr="benefactive" f="gol" n="4"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

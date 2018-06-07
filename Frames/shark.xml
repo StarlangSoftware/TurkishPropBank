@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="shark">
+    <roleset id="shark.01" name="to hunt shark">
+      <roles>
+        <role descr="agent or causer" f="pag" n="0"/>
+        <role descr="entity gathered" f="ppt" n="1"/>
+        <role descr="gathered into" f="vsp" n="2"/>
+        <role descr="beneficiary" f="gol" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

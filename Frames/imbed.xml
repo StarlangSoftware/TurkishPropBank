@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="imbed">
+    <roleset id="imbed.01" name="to fix or enclose">
+      <roles>
+        <role descr="causer, agent" f="pag" n="0"/>
+        <role descr="entity embedded" f="ppt" n="1"/>
+        <role descr="embedded into" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

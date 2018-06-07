@@ -1,0 +1,14 @@
+<frameset>
+  <predicate lemma="reorganize">
+    <roleset id="reorganize.01" name="make organized again, resorting, restruucturing">
+      <roles>
+        <role descr="organizer" f="pag" n="0"/>
+        <role descr="thing organized" f="ppt" n="1"/>
+        <role descr="previous state" f="mnr" n="2"/>
+        <role descr="benefactive" f="gol" n="3"/>
+        <role descr="end state" f="prd" n="4"/>
+        <role descr="specific aspect of arg1 that is being reorganized" f="vsp" n="5"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="selfestablish">
+    <roleset id="selfestablish.01" name="establish for yourself">
+      <roles>
+        <role descr="agent, establisher" f="pag" n="0"/>
+        <role descr="thing established" f="ppt" n="1"/>
+        <role descr="attribute" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

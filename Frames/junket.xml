@@ -1,0 +1,16 @@
+<frameset>
+  <predicate lemma="junket">
+    <roleset id="junket.01" name="go on a pleasure trip">
+      <roles>
+        <role descr="traveler" f="PPT" n="0"/>
+        <role descr="travel destination" f="LOC" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="junket.02" name="provide or partake in a feast">
+      <roles>
+        <role descr="Feaster or caterer" f="PAG" n="0"/>
+        <role descr="smorgasbord" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

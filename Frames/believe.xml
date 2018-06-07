@@ -1,0 +1,20 @@
+<frameset>
+  <predicate lemma="believe">
+    <roleset id="believe.01" name="believe">
+      <roles>
+        <role descr="believer" f="pag" n="0"/>
+        <role descr="believed" f="ppt" n="1"/>
+        <role descr="attribute, arg1 is believed to be what?" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="believable">
+    <roleset id="believable.02" name="able to be believed">
+      <roles>
+        <role descr="believer" f="pag" n="0"/>
+        <role descr="belief" f="ppt" n="1"/>
+        <role descr="secondary predication on arg1" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

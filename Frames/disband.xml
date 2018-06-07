@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="disband">
+    <roleset id="disband.01" name="take/come apart">
+      <roles>
+        <role descr="causer of not-together-ness, agent" f="PAG" n="0"/>
+        <role descr="thing coming apart" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

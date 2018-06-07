@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="overstress">
+    <roleset id="overstress.01" name="place too much emphasis">
+      <roles>
+        <role descr="overstresser" f="pag" n="0"/>
+        <role descr="thing overstressed" f="ppt" n="1"/>
+        <role descr="attribute of arg1" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

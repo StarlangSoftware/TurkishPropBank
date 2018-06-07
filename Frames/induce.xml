@@ -1,0 +1,20 @@
+<frameset>
+  <predicate lemma="induce">
+    <roleset id="induce.01" name="to cause, impell, persuade">
+      <roles>
+        <role descr="Causal agent" f="cau" n="0"/>
+        <role descr="Impelled person" f="ppt" n="1"/>
+        <role descr="Action or Proposition (ex. labor)" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="induct">
+    <roleset id="induct.02" name="placing into an office formally">
+      <roles>
+        <role descr="Agent" f="pag" n="0"/>
+        <role descr="Entity inducted" f="ppt" n="1"/>
+        <role descr="Inducted into what (Hall of Fame, etc.)" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,17 @@
+<frameset>
+  <predicate lemma="indispose">
+    <roleset id="indispose.01" name="make unfit or unwilling">
+      <roles>
+        <role descr="cause of unwillingness" f="cau" n="1"/>
+        <role descr="unfit one" f="ppt" n="2"/>
+        <role descr="unwilling to do this" f="ppt" n="3"/>
+      </roles>
+    </roleset>
+    <roleset id="indispose.02" name="cause to feel unwell">
+      <roles>
+        <role descr="cause of illness" f="cau" n="1"/>
+        <role descr="ill person" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

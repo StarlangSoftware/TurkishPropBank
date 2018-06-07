@@ -1,0 +1,122 @@
+<frameset>
+  <predicate lemma="put">
+    <roleset id="put.01" name="location">
+      <roles>
+        <role descr="putter" f="pag" n="0"/>
+        <role descr="thing put" f="ppt" n="1"/>
+        <role descr="where put" f="gol" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="put.02" name="say">
+      <roles>
+        <role descr="speaker" f="pag" n="0"/>
+        <role descr="thing said" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="put.03" name="result, attributive">
+      <roles>
+        <role descr="putter" f="pag" n="0"/>
+        <role descr="thing put" f="ppt" n="1"/>
+        <role descr="attribute of arg1" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="put_in">
+    <roleset id="put_in.05" name="contribute, submit">
+      <roles>
+        <role descr="contributor" f="pag" n="0"/>
+        <role descr="contribution" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="put_off">
+    <roleset id="put_off.06" name="delay">
+      <roles>
+        <role descr="delayer" f="pag" n="0"/>
+        <role descr="delayed" f="ppt" n="1"/>
+        <role descr="delay itself, EXT, time period" f="ext" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="put_off.07" name="offended">
+      <roles>
+        <role descr="offender" f="pag" n="0"/>
+        <role descr="offended" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="put_on">
+    <roleset id="put_on.08" name="assume, acquire, wear, stage">
+      <roles>
+        <role descr="wearer" f="pag" n="0"/>
+        <role descr="clothing/role/act" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="put_out">
+    <roleset id="put_out.09" name="extinguish">
+      <roles>
+        <role descr="extinguisher" f="pag" n="0"/>
+        <role descr="fire" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="put_out.10" name="disseminate, put out, produce">
+      <roles>
+        <role descr="distributor, producer" f="pag" n="0"/>
+        <role descr="product, thing distributed" f="ppt" n="1"/>
+        <role descr="destination" f="gol" n="2"/>
+        <role descr="new state of the product" f="prd" n="3"/>
+      </roles>
+    </roleset>
+    <roleset id="put_out.14" name="cause inconvenience or discomfort">
+      <roles>
+        <role descr="cause/agent" f="pag" n="0"/>
+        <role descr="entity inconvenienced" f="ppt" n="1"/>
+        <role descr="about what" f="vsp" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="put_up">
+    <roleset id="put_up.11" name="furnish, supply">
+      <roles>
+        <role descr="supplier" f="pag" n="0"/>
+        <role descr="supply, equipment" f="ppt" n="1"/>
+        <role descr="recipient, benefactive" f="gol" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="put_up.12" name="tolerate, put up with">
+      <roles>
+        <role descr="tolerater" f="pag" n="0"/>
+        <role descr="thing tolerated" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="put_up.13" name="build, institute">
+      <roles>
+        <role descr="builder" f="pag" n="0"/>
+        <role descr="thing built, instituted, or established" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="hard_put">
+    <roleset id="hard_put.04" name="idiomatic: hard put">
+      <roles>
+        <role descr="causer, usually infinitival" f="pag" n="0"/>
+        <role descr="experiencer" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="put_down">
+    <roleset id="put_down.15" name="put_down: insult, demean, devalue">
+      <roles>
+        <role descr="insulter" f="pag" n="0"/>
+        <role descr="insulted" f="ppt" n="1"/>
+        <role descr="for what" f="cau" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="put_down.16" name="euthanize">
+      <roles>
+        <role descr="Agent, entity responsible for decision to euthanize" f="pag" n="0"/>
+        <role descr="entity euthanized" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

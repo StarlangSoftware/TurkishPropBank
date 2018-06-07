@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="mutter">
+    <roleset id="mutter.01" name="speak unclearly, under one's breath">
+      <roles>
+        <role descr="speaker" f="PAG" n="0"/>
+        <role descr="utterance" f="PPT" n="1"/>
+        <role descr="listener" f="GOL" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

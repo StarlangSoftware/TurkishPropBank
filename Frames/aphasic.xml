@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="aphasic">
+    <roleset id="aphasic.01" name="be affected by aphasia">
+      <roles>
+        <role descr="cause" f="pag" n="0"/>
+        <role descr="thing or aspect affected by aphasic (Ie speech)" f="ppt" n="1"/>
+        <role descr="aphasia sufferer" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

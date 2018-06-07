@@ -1,0 +1,17 @@
+<frameset>
+  <predicate lemma="bullock">
+    <roleset id="bullock.01" name="fool">
+      <roles>
+        <role descr="trickster, agent" f="PAG" n="0"/>
+        <role descr="entity deceived" f="PPT" n="1"/>
+        <role descr="proposition, deceived into believing/doing what?" f="PRD" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="bullock.02" name="to push through, acting like a bull">
+      <roles>
+        <role descr="Bull-like entity, pusher" f="PAG" n="0"/>
+        <role descr="&quot;way&quot; or other thing pushed" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

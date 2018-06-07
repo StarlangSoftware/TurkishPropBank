@@ -1,0 +1,18 @@
+<frameset>
+  <predicate lemma="mellow">
+    <roleset id="mellow.01" name="become mellow, relaxed">
+      <roles>
+        <role descr="entity become mellow" f="PPT" n="1"/>
+        <role descr="instrument" f="MNR" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="mellow_out">
+    <roleset id="mellow_out.02" name="mellow_out: relax into a stable state">
+      <roles>
+        <role descr="entity becoming mellow" f="pag" n="1"/>
+        <role descr="instrument" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

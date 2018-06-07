@@ -1,0 +1,23 @@
+<frameset>
+  <predicate lemma="howl">
+    <roleset id="howl.01" name="emit howl, speak   howlingly">
+      <roles>
+        <role descr="howler" f="PAG" n="0"/>
+        <role descr="utterance, cognate object" f="ppt" n="1"/>
+        <role descr="listener" f="gol" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="howl.02" name="make howling noises while moving">
+      <roles>
+        <role descr="entity in motion" f="PPT" n="0"/>
+        <role descr="path" f="LOC" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="howl.03" name="bad weather">
+      <roles>
+        <role descr="wind, etc." f="PAG" n="0"/>
+        <role descr="cognate object (gusts, a gale, etc.)" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

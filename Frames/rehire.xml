@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="rehire">
+    <roleset id="rehire.01" name="initiate employment again">
+      <roles>
+        <role descr="employer" f="pag" n="0"/>
+        <role descr="return employee" f="ppt" n="1"/>
+        <role descr="job" f="prp" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

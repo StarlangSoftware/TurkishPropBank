@@ -1,0 +1,18 @@
+<frameset>
+  <predicate lemma="overweight">
+    <roleset id="overweight.01" name="weigh down too heavily, overload">
+      <roles>
+        <role descr="loader, entity loading/weighing down something" f="pag" n="0"/>
+        <role descr="destination, thing being loaded/overweighted" f="gol" n="1"/>
+        <role descr="entity weighing arg1 down, cargo" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="overweight.02" name="weighing more than what is healthy">
+      <roles>
+        <role descr="overweight entity" f="ppt" n="1"/>
+        <role descr="amount over weight" f="ext" n="2"/>
+        <role descr="weight measurement" f="prd" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

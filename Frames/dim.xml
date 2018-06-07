@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="dim">
+    <roleset id="dim.01" name="(cause to) decrease in intensity or brightness,   lessen the effect of something">
+      <roles>
+        <role descr="agent" f="PAG" n="0"/>
+        <role descr="patient" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

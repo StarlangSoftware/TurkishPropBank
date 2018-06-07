@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="ubiquitinate">
+    <roleset id="ubiquitinate.01" name="ubiquitinate">
+      <roles>
+        <role descr="agent of ubiquitination (e.g. scientist)" f="pag" n="0"></role>
+        <role descr="thing ubiquitinated" f="ppt" n="1"></role>
+        <role descr="instrument" f="mnr" n="2"></role>
+        <role descr="result of ubiquitination" f="prd" n="3"></role>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

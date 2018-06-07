@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="extravasate">
+    <roleset id="extravasate.01" name="flowing or being forced from a vessel">
+      <roles>
+        <role descr="Cause of extravasation (forcer)" f="pag" n="0"/>
+        <role descr="Entity flowing out" f="ppt" n="1"/>
+        <role descr="Source, flowing from what" f="dir" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

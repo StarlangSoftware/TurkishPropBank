@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="combat">
+    <roleset id="combat.01" name="fight">
+      <roles>
+        <role descr="first fighter" f="PAG" n="0"/>
+        <role descr="second fighter, if separate" f="COM" n="1"/>
+        <role descr="spoils" f="PPT" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

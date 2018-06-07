@@ -1,0 +1,17 @@
+<frameset>
+  <predicate lemma="utilize">
+    <roleset id="utilize.01" name="to put to use">
+      <roles>
+        <role descr="user, agent" f="PAG" n="0"/>
+        <role descr="entity utilized" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="utilitarian">
+    <roleset id="utilitarian.02" name="designed for use">
+      <roles>
+        <role descr="utilitarian entity" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

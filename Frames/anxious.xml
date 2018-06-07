@@ -1,0 +1,16 @@
+<frameset>
+  <predicate lemma="anxious">
+    <roleset id="anxious.01" name="experiencing nervousness">
+      <roles>
+        <role descr="cause of anxiety -- anxious over/about what?" f="cau" n="0"/>
+        <role descr="nervous entity" f="cau" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="anxious.02" name="antsy, impatient, eager to do something">
+      <roles>
+        <role descr="impatient one" f="pag" n="1"/>
+        <role descr="to do what" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

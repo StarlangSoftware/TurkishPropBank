@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="clamor">
+    <roleset id="clamor.01" name="call for noisily, demand">
+      <roles>
+        <role descr="demander" f="PAG" n="0"/>
+        <role descr="demanded" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,16 @@
+<frameset>
+  <predicate lemma="abduct">
+    <roleset id="abduct.01" name="to carry someone off by force">
+      <roles>
+        <role descr="agent" f="pag" n="0"/>
+        <role descr="person kidnapped" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="abduct.02" name="move away from a central axis">
+      <roles>
+        <role descr="mover" f="pag" n="0"/>
+        <role descr="thing moved" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

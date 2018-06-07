@@ -1,0 +1,43 @@
+<frameset>
+  <predicate lemma="know">
+    <roleset id="know.01" name="be cognizant of, realize">
+      <roles>
+        <role descr="knower" f="pag" n="0"/>
+        <role descr="fact that is known" f="ppt" n="1"/>
+        <role descr="entity that arg1 is known ABOUT" f="prd" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="know.02" name="kennen; be familiar with, have experienced">
+      <roles>
+        <role descr="knower, person familiar with something" f="pag" n="0"/>
+        <role descr="what arg0 is familiar with" f="ppt" n="1"/>
+        <role descr="what arg1 is known AS, or TO be, do, attribute" f="prd" n="2"/>
+        <role descr="what arg1 is known FOR" f="cau" n="3"/>
+      </roles>
+    </roleset>
+    <roleset id="know.03" name="have an ability, skill, or know-how">
+      <roles>
+        <role descr="knower, person with an ability/skill" f="pag" n="0"/>
+        <role descr="ability or skill" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="know.04" name="recognize, differentiate">
+      <roles>
+        <role descr="knower, entity with ability to recognize/differentiate" f="pag" n="0"/>
+        <role descr="thing recognized, first thing differentiated" f="ppt" n="1"/>
+        <role descr="differentiated-from, when separate mention" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="know.05" name="Biblical sense, to have sex with">      
+      <roles>
+        <role descr="Knower, first sexual partner" f="pag" n="0"/>
+        <role descr="Known, second sexual partner" f="pag" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="know.06" name="discourse usage">
+      <roles>
+        <role descr="you, addressee" f="pag" n="0"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

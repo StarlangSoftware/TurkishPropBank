@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="supinate">
+    <roleset id="supinate.01" name="rotate to face upwards">
+      <roles>
+        <role descr="agent, turner" f="pag" n="0"/>
+        <role descr="thing or body part turned" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="photocopy">
+    <roleset id="photocopy.01" name="to make a photographic reproduction of">
+      <roles>
+        <role descr="copier, agent" f="PAG" n="0"/>
+        <role descr="thing copied" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

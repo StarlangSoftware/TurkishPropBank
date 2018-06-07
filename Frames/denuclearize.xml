@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="denuclearize">
+    <roleset id="denuclearize.01" name="undo, eliminte nuclearization">
+      <roles>
+        <role descr="causer of de-nuclearization" f="PAG" n="0"/>
+        <role descr="entity, institution de-nuclearized " f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

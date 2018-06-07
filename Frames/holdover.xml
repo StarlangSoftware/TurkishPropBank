@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="holdover">
+    <roleset id="holdover.01" name="keep">
+      <roles>
+        <role descr="causer of stay" f="pag" n="0"/>
+        <role descr="entity remaining" f="ppt" n="1"/>
+        <role descr="kept where" f="loc" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

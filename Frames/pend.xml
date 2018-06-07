@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="pend">
+    <roleset id="pend.01" name="remain unsettled; wait">
+      <roles>
+        <role descr="waiting entity" f="ppt" n="1"/>
+        <role descr="waited for" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

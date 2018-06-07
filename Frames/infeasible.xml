@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="infeasible">
+    <roleset id="infeasible.01" name="not possible to carry out, put into practice">
+      <roles>
+        <role descr="thing that is not possible, feasible" f="ppt" n="1"/>
+        <role descr="whom it is infeasible for" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

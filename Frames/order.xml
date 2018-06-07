@@ -1,0 +1,34 @@
+<frameset>
+  <predicate lemma="order">
+    <roleset id="order.01" name="impelled action">
+      <roles>
+        <role descr="forcer" f="pag" n="0"/>
+        <role descr="impelled agent" f="gol" n="1"/>
+        <role descr="impelled action" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="order.02" name="request to be delivered">
+      <roles>
+        <role descr="orderer" f="pag" n="0"/>
+        <role descr="thing ordered" f="ppt" n="1"/>
+        <role descr="benefactive, ordered-for" f="gol" n="2"/>
+        <role descr="source" f="dir" n="3"/>
+      </roles>
+    </roleset>
+    <roleset id="order.03" name="placement">
+      <roles>
+        <role descr="agent, setter" f="pag" n="0"/>
+        <role descr="thing set" f="ppt" n="1"/>
+        <role descr="location or position" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="orderly">
+    <roleset id="orderly.04" name="neat">
+      <roles>
+        <role descr="agent creating order" f="pag" n="0"/>
+        <role descr="neat, ordered thing" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

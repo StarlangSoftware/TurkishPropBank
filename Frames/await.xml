@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="await">
+    <roleset id="await.01" name="wait for">
+      <roles>
+        <role descr="wait-er (not waiter, that's a different sense)" f="ppt" n="1"/>
+        <role descr="thing waited for" f="ppt" n="2"/>
+        <role descr="period of time waited through" f="tmp" n="m"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

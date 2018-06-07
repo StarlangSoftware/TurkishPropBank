@@ -1,0 +1,19 @@
+<frameset>
+  <predicate lemma="idealize">
+    <roleset id="idealize.01" name="to regard as ideal.">
+      <roles>
+        <role descr="entity idealizing something" f="pag" n="0"/>
+        <role descr="entity idealized" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="ideal">
+    <roleset id="ideal.02" name="(hold as) a paragon, perfect">
+      <roles>
+        <role descr="entity holding arg1 as perfect" f="ppt" n="0"/>
+        <role descr="perfect thing" f="ppt" n="1"/>
+        <role descr="perfect for what; suited for" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

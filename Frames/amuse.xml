@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="amuse">
+    <roleset id="amuse.01" name="cause mirth">
+      <roles>
+        <role descr="causer of mirth" f="pag" n="0"/>
+        <role descr="mirthful entity" f="ppt" n="1"/>
+        <role descr="instrument" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

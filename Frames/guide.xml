@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="guide">
+    <roleset id="guide.01" name="to direct">
+      <roles>
+        <role descr="guide, agent" f="pag" n="0"/>
+        <role descr="entity guided" f="ppt" n="1"/>
+        <role descr="guided in/through" f="gol" n="2"/>
+        <role descr="signposts along the way" f="prd" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="bide">
+    <roleset id="bide.01" name="idiom, most other usages archaic">
+      <roles>
+        <role descr="agent, person biding time" f="PAG" n="0"/>
+        <role descr="time" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

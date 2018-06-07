@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="dj">
+    <roleset id="dj.01" name="disc jockey- currate and present a musical selection">
+      <roles>
+        <role descr="dj" f="pag" n="0"/>
+        <role descr="event in need of a musical host" f="loc" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

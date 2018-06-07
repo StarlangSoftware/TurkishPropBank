@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="discourse">
+    <roleset id="discourse.01" name="converse">
+      <roles>
+        <role descr="speaker" f="pag" n="0"/>
+        <role descr="subject" f="ppt" n="1"/>
+        <role descr="hearer" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

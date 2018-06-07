@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="simulate">
+    <roleset id="simulate.01" name="make believe, imitating, pretending">
+      <roles>
+        <role descr="agent, simulator" f="PAG" n="0"/>
+        <role descr="thing simulated, mimicked" f="PPT" n="1"/>
+        <role descr="instrumental" f="MNR" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

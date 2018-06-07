@@ -1,0 +1,26 @@
+<frameset>
+  <predicate lemma="net">
+    <roleset id="net.02" name="give, cause to have (as profit)">
+      <roles>
+        <role descr="source, giver" f="pag" n="0"/>
+        <role descr="gift" f="ppt" n="1"/>
+        <role descr="destination, benefactive" f="gol" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="net.03" name="get">
+      <roles>
+        <role descr="getter" f="pag" n="0"/>
+        <role descr="gotten" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="net_out">
+    <roleset id="net_out.01" name="net out: total">
+      <roles>
+        <role descr="thing being counted" f="ppt" n="1"/>
+        <role descr="count" f="prd" n="2"/>
+        <role descr="benefactive" f="gol" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="relent">
+    <roleset id="relent.01" name="not be so harsh anymore">
+      <roles>
+        <role descr="relenter" f="PAG" n="0"/>
+        <role descr="with respect to what?" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

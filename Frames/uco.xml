@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="uco">
+    <roleset id="uco.01" name="take a urinary catheter out">
+      <roles>
+        <role descr="Remover of catheter" f="PAG" n="0"/>
+        <role descr="patient or place relieved of catheter" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

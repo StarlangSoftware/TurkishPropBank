@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="lobotomize">
+    <roleset id="lobotomize.01" name="perform a lobotomy on">
+      <roles>
+        <role descr="surgeon" f="PAG" n="0"/>
+        <role descr="entity undergoing lobotomy" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="reauthorize">
+    <roleset id="reauthorize.01" name="allow again">
+      <roles>
+        <role descr="allower" f="pag" n="0"/>
+        <role descr="action allowed" f="ppt" n="1"/>
+        <role descr="explicit allowed agent, when separate constituent" f="vsp" n="2"/>
+        <role descr="purpose, authorized for what?" f="prp" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

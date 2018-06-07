@@ -1,0 +1,42 @@
+<frameset>
+  <predicate lemma="walk">
+    <roleset id="walk.01" name="walk, be a pedestrian, forward motion, one foot in front of the other">
+      <roles>
+        <note>Arg 2 is for underspecifed locations (e.g. "around the campus")
+        or Paths realized as objects: "he walked a mile/the plank."  For
+        more semantically specific realizations of DIR and GOL, use the
+        ARGM.</note>
+        <role descr="walker, thing in motion" f="pag" n="0"/>
+        <role descr="entity being walked, where there is outside Agent" f="ppt" n="1"/>
+        <role descr="path/ underspecified location walked" f="loc" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="walk.02" name="baseball, walk the batter in baseball">
+      <roles>
+        <role descr="pitcher" f="pag" n="0"/>
+        <role descr="batter" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="walk.03" name="achieve a result through walking">
+      <roles>
+        <role descr="walker" f="pag" n="0"/>
+        <role descr="thing affected" f="ppt" n="1"/>
+        <role descr="desired result" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="walk_in">
+    <roleset id="walk_in.04" name="in a free, non-appointment-having manner">
+      <roles>
+        <role descr="entity characterized as 'walk-in'" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="walk_in.05" name="walk_in on someone; interrupt">
+      <roles>
+        <role descr="interrupter" f="pag" n="0"/>
+        <role descr="entity interrupted" f="ppt" n="1"/>
+        <role descr="while arg1 is doing what" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

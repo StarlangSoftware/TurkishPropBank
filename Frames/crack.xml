@@ -1,0 +1,53 @@
+<frameset>
+  <predicate lemma="crack">
+    <roleset id="crack.01" name="make a cracking noise, making a joke, cracking sound">
+      <roles>
+        <role descr="shaker" f="pag" n="0"/>
+        <role descr="thing shaking" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="crack.02" name="break, but not into pieces">
+      <roles>
+        <role descr="breaker" f="pag" n="0"/>
+        <role descr="thing broken" f="ppt" n="1"/>
+        <role descr="instrument" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="crack.05" name="hit">
+      <roles>
+        <role descr="hitter" f="pag" n="0"/>
+        <role descr="hit" f="ppt" n="1"/>
+        <role descr="instrument of hitting" f="mnr" n="2"/>
+        <role descr="location, usually with 'across'" f="loc" n="3"/>
+      </roles>
+    </roleset>
+    <roleset id="crack.07" name="try">
+      <roles>
+        <role descr="entity trying" f="pag" n="0"/>
+        <role descr="thing tried" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="crack_up">
+    <roleset id="crack_up.03" name="crack up: cause hilarity, causing hilarity">
+      <roles>
+        <role descr="joker" f="pag" n="0"/>
+        <role descr="laugher" f="ppt" n="1"/>
+        <role descr="joke" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="crack_up.04" name="crack up: go crazy, go crazy">
+      <roles>
+        <role descr="lunatic" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="crack_down">
+    <roleset id="crack_down.06" name="punish something more harshly, suppress, harsher punishment, becoming strict">
+      <roles>
+        <role descr="punisher, enforcer" f="pag" n="0"/>
+        <role descr="crime/entity being suppressed, punished" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

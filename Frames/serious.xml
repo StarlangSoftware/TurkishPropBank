@@ -1,0 +1,15 @@
+<frameset>
+  <predicate lemma="serious">
+    <roleset id="serious.01" name="focused, not joking around">
+      <roles>
+        <role descr="serious entity" f="pag" n="1"/>
+        <role descr="serious about what?" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="serious.02" name="grave, of great importance">
+      <roles>
+        <role descr="grave thing/condition" f="pag" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

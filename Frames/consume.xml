@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="consume">
+    <roleset id="consume.01" name="eat, use up, devouring">
+      <roles>
+        <role descr="consumer" f="pag" n="0"/>
+        <role descr="consumed" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

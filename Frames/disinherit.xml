@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="disinherit">
+    <roleset id="disinherit.01" name="deprive of an inheritance">
+      <roles>
+        <role descr="entity denying inheritance" f="pag" n="0"/>
+        <role descr="deprived inheritance" f="ppt" n="1"/>
+        <role descr="entity no longer receiving inheritance" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

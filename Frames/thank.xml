@@ -1,0 +1,20 @@
+<frameset>
+  <predicate lemma="thank">
+    <roleset id="thank.01" name="thank">
+      <roles>
+        <role descr="thanker" f="pag" n="0"/>
+        <role descr="thanked" f="ppt" n="1"/>
+        <role descr="for what?" f="cau" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="thankful">
+    <roleset id="thankful.02" name="thank">
+      <roles>
+        <role descr="thanker" f="pag" n="0"/>
+        <role descr="thanked" f="ppt" n="1"/>
+        <role descr="for what?" f="cau" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="minute">
+    <roleset id="minute.01" name="small">
+      <roles>
+        <role descr="small entity" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

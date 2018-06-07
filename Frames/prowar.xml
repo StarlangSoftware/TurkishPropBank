@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="prowar">
+    <roleset id="prowar.01" name="in favor of war">
+      <roles>
+        <role descr="entity in favor of war" f="pag" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

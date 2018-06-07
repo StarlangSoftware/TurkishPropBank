@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="disregard">
+    <roleset id="disregard.01" name="never mind">
+      <roles>
+        <role descr="entity not paying attention" f="PAG" n="0"/>
+        <role descr="non-focus" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

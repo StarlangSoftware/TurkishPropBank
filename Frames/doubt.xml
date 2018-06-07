@@ -1,0 +1,18 @@
+<frameset>
+  <predicate lemma="doubt">
+    <roleset id="doubt.01" name="doubt, disbelieve">
+      <roles>
+        <role descr="disbeliever" f="pag" n="0"/>
+        <role descr="disbelief" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="dubious">
+    <roleset id="dubious.02" name="skeptical/hard to believe">
+      <roles>
+        <role descr="skeptic" f="pag" n="0"/>
+        <role descr="hard to believe thing" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

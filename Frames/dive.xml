@@ -1,0 +1,19 @@
+<frameset>
+  <predicate lemma="dive">
+    <roleset id="dive.01" name="to plunge into water">
+      <roles>
+        <role descr="diver" f="pag" n="0"/>
+        <role descr="area" f="loc" n="1"/>
+        <role descr="dive for" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="dive.02" name="to drop, plunge">
+      <roles>
+        <role descr="thing falling" f="ppt" n="1"/>
+        <role descr="extent" f="ext" n="2"/>
+        <role descr="start point" f="dir" n="3"/>
+        <role descr="end point" f="prd" n="4"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

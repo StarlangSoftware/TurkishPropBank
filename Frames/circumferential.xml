@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="circumferential">
+    <roleset id="circumferential.01" name="involving the circumference">
+      <roles>
+        <role descr="circumferential entity" f="ppt" n="1"/>
+        <role descr="to what (interior)" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

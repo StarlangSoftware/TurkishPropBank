@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="riff">
+    <roleset id="riff.01" name="make fun of">
+      <roles>
+        <role descr="so-called comedian" f="PAG" n="0"/>
+        <role descr="victim" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

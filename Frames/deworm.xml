@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="deworm">
+    <roleset id="deworm.01" name="remove worm">
+      <roles>
+        <role descr="remover" f="PAG" n="0"/>
+        <role descr="dewormed entity" f="DIR" n="1"/>
+        <role descr="worm, thing removed" f="PPT" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

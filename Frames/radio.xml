@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="radio">
+    <roleset id="radio.01" name="to transmit by radio">
+      <roles>
+        <role descr="transmitter, agent" f="PAG" n="0"/>
+        <role descr="entity transmitted" f="PPT" n="1"/>
+        <role descr="destination" f="GOL" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

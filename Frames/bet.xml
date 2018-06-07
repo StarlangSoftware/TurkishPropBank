@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="bet">
+    <roleset id="bet.01" name="wager, making a wager">
+      <roles>
+        <role descr="better" f="pag" n="0"/>
+        <role descr="amount of bet" f="ppt" n="1"/>
+        <role descr="basis, proposition, bet-on" f="ppt" n="2"/>
+        <role descr="co-better" f="gol" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

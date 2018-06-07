@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="ooh">
+    <roleset id="ooh.01" name="express admiration or pleasure">
+      <roles>
+        <role descr="ooh-er" f="PAG" n="0"/>
+        <role descr="cause of awe" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

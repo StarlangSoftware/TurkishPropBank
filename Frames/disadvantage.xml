@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="disadvantage">
+    <roleset id="disadvantage.01" name="cause to be in a less fortunate position">
+      <roles>
+        <role descr="Agent/ causer" f="PAG" n="0"/>
+        <role descr="Entity at a disadvantage" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

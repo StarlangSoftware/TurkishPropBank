@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="revive">
+    <roleset id="revive.01" name="bring back to life from death, sleep or dormancy">
+      <roles>
+        <role descr="The Reanimator" f="PAG" n="0"/>
+        <role descr="thing or system being brought back" f="PPT" n="1"/>
+        <role descr="specifica aspect of arg1 being revived" f="VSP" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="extrafamilial">
+    <roleset id="extrafamilial.01" name="outside of the family">
+      <roles>
+        <role descr="extrafamilial entity" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

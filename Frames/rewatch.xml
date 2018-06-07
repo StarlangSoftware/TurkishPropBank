@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="rewatch">
+    <roleset id="rewatch.01" name="watch again">
+      <roles>
+        <role descr="watcher" f="pag" n="0"/>
+        <role descr="watched" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

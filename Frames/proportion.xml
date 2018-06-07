@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="proportion">
+    <roleset id="proportion.01" name="divvy up">
+      <roles>
+        <role descr="divider" f="pag" n="0"/>
+        <role descr="thing divided" f="ppt" n="1"/>
+        <role descr="thing divided into" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

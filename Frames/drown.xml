@@ -1,0 +1,24 @@
+<frameset>
+  <predicate lemma="drown">
+    <roleset id="drown.01" name="to cover completely or make imperceptible">
+      <roles>
+        <role descr="entity covering" f="PAG" n="0"/>
+        <role descr="entity covered" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="drown.02" name="to die or kill by submerging in water">
+      <roles>
+        <role descr="killer" f="PAG" n="0"/>
+        <role descr="person drowned" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="drown_out">
+    <roleset id="drown_out.03" name="to make imperceptible">
+      <roles>
+        <role descr="a louder sound" f="PAG" n="0"/>
+        <role descr="an imperceptible sound" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

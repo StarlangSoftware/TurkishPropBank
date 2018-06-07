@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="revote">
+    <roleset id="revote.01" name="cast ballot again">
+      <roles>
+        <role descr="voter" f="pag" n="0"/>
+        <role descr="candidate or ballot issue" f="ppt" n="1"/>
+        <role descr="numerical count of vote, margin" f="vsp" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

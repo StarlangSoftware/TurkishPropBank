@@ -1,0 +1,16 @@
+<frameset>
+  <predicate lemma="racket">
+    <roleset id="racket.01" name="make loud noises">
+      <roles>
+        <role descr="thing making loud noises" f="PAG" n="0"/>
+      </roles>
+    </roleset>
+    <roleset id="racket.02" name="engage in an illegal scheme">
+      <roles>
+        <role descr="agent, con artist" f="pag" n="0"/>
+        <role descr="domain of scheme" f="ppt" n="1"/>
+        <role descr="victim" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

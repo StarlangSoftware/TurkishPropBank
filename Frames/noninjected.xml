@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="noninjected">
+    <roleset id="noninjected.01" name="x not having been put into y">
+      <roles>
+        <role descr="injector" f="pag" n="0"/>
+        <role descr="stuff (not) being put in (X)" f="ppt" n="1"/>
+        <role descr="(not) injected into what? (Y)" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

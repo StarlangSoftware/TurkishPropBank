@@ -1,0 +1,29 @@
+<frameset>
+  <predicate lemma="dress">
+    <roleset id="dress.01" name="to put on clothes, decorate, covering, wearing clothes">
+      <roles>
+        <role descr="person putting on clothes" f="PAG" n="0"/>
+        <role descr="person wearing clothes" f="PPT" n="1"/>
+        <role descr="attribute" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="dress_up">
+    <roleset id="dress_up.02" name="to put on or wear formal or fancy clothes, to decorate, wearing formal clothes/adornments">
+      <roles>
+        <role descr="entity putting on clothes" f="PAG" n="0"/>
+        <role descr="entity dressed up, decorated, wearing clothes" f="PPT" n="1"/>
+        <role descr="clothing itself or attribute; dressed up as what?" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="dress_down">
+    <roleset id="dress_down.03" name="to censure severely or angrily">
+      <roles>
+        <role descr="angry entity, agent" f="PAG" n="0"/>
+        <role descr="entity dressed down" f="PPT" n="1"/>
+        <role descr="dress down for" f="cau" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

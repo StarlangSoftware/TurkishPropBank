@@ -1,0 +1,26 @@
+<frameset>
+  <predicate lemma="impress">
+    <roleset id="impress.01" name="wow someone by exceeding expectations, be impressive">
+      <roles>
+        <role descr="agent, thing making an impression" f="pag" n="0"/>
+        <role descr="thing impressed" f="ppt" n="1"/>
+        <role descr="instrument or manner, if in addition to arg0" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="impress.02" name="convince of importance">
+      <roles>
+        <role descr="agent of convincing" f="pag" n="0"/>
+        <role descr="entity convinced" f="gol" n="1"/>
+        <role descr="proposition" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="impression">
+    <roleset id="impression.03" name="mental image, understanding, notion">
+      <roles>
+        <role descr="entity having an understanding, notion" f="pag" n="0"/>
+        <role descr="the notion, understanding" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

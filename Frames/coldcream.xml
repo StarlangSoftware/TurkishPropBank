@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="coldcream">
+    <roleset id="coldcream.01" name="coldcream">
+      <roles>
+        <role descr="applier" f="PAG" n="0"/>
+        <role descr="applied area" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

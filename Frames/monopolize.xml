@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="monopolize">
+    <roleset id="monopolize.01" name="to acquire or maintain a monopoly of">
+      <roles>
+        <role descr="monopolist, agent" f="PAG" n="0"/>
+        <role descr="entity monopolized" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="rebandage">
+    <roleset id="rebandage.01" name="re-apply bandage to a wound">
+      <roles>
+        <role descr="Applier" f="PAG" n="0"/>
+        <role descr="Wound" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

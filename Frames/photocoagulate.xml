@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="photocoagulate">
+    <roleset id="photocoagulate.01" name="destroy tissue with an intense laser beam">
+      <roles>
+        <role descr="doctor/surgeon" f="pag" n="0"/>
+        <role descr="patient, tissues, entity destroyed" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

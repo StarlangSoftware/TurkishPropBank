@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="spice">
+    <roleset id="spice.01" name="put spices into, spice up!">
+      <roles>
+        <role descr="Chef, agent" f="PAG" n="0"/>
+        <role descr="Food made spicy" f="GOL" n="1"/>
+        <role descr="Spices themselves, what kind of spices" f="PPT" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

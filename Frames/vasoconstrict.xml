@@ -1,0 +1,13 @@
+<frameset>
+  <predicate lemma="vasoconstrict">
+    <roleset id="vasoconstrict.01" name="constricting of a blood vessel">
+      <roles>
+        <role descr="causal agent" f="pag" n="0"/>
+        <role descr="entity constricted (explicit blood vessel or patient)" f="ppt" n="1"/>
+        <role descr="EXT, amount constricted by" f="ext" n="2"/>
+        <role descr="start point" f="dir" n="3"/>
+        <role descr="end point" f="gol" n="4"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

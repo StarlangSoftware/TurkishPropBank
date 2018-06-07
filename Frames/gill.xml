@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="gill">
+    <roleset id="gill.01" name="remove gills">
+      <roles>
+        <role descr="gutter" f="pag" n="0"/>
+        <role descr="entity being gutted" f="dir" n="1"/>
+        <role descr="what is removed (usually guts or entrails)" f="ppt" n="2"/>
+        <role descr="instrument (usually a knife)" f="mnr" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

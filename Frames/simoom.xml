@@ -1,0 +1,13 @@
+<frameset>
+  <predicate lemma="simoom">
+    <roleset id="simoom.01" name="natural disaster: extremely hot dust storm">
+      <roles>
+        <role descr="dust" f="PPT" n="1"/>
+        <role descr="wind speed" f="EXT" n="2"/>
+        <role descr="death/injury toll" f="VSP" n="3"/>
+        <role descr="damages/cost" f="VSP" n="4"/>
+        <role descr="temperature of wind" f="VSP" n="5"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

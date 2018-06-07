@@ -1,0 +1,17 @@
+<frameset>
+  <predicate lemma="indicate">
+    <roleset id="indicate.01" name="show, suggesting, pointing to">
+      <roles>
+        <role descr="indicator" f="cau" n="0"/>
+        <role descr="thing indicated" f="ppt" n="1"/>
+        <role descr="indicated to" f="gol" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="indicate.101" name="recommend a course of action">
+      <roles>
+        <role descr="Indicating item (often a symptom or situation)" f="ppt" n="1"/>
+        <role descr="Indicated item (often a medication or treatment)" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

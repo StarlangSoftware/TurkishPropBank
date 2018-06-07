@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="unchain">
+    <roleset id="unchain.01" name="unchain">
+      <roles>
+        <role descr="unchainer, agent" f="PAG" n="0"/>
+        <role descr="thing unchained, patient" f="PPT" n="1"/>
+        <role descr="unchained from, source" f="PPT" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

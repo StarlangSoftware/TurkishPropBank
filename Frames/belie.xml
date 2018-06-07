@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="belie">
+    <roleset id="belie.01" name="to show to be false">
+      <roles>
+        <role descr="demonstrator of falseness, agent" f="PAG" n="0"/>
+        <role descr="entity shown to be false" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

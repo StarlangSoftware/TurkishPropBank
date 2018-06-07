@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="unfortunate">
+    <roleset id="unfortunate.01" name="experiencing misfortune, bad luck">
+      <roles>
+        <role descr="experiencer of misfortune" f="ppt" n="1"/>
+        <role descr="misfortune; unfortunate turn of events" f="vsp" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

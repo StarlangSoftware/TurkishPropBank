@@ -1,0 +1,16 @@
+<frameset>
+  <predicate lemma="squeak">
+    <roleset id="squeak.01" name="to make a screeching noise">
+      <roles>
+        <role descr="causal agent" f="PAG" n="0"/>
+        <role descr="entity squeaking" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="squeak.02" name="struggle to reach an end/goal">
+      <roles>
+        <role descr="entity struggling" f="PAG" n="0"/>
+        <role descr="path" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

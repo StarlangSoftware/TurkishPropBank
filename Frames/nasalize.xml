@@ -1,0 +1,19 @@
+<frameset>
+  <predicate lemma="nasalize">
+    <roleset id="nasalize.01" name="pronounce normally oral sounds as nasal">
+      <roles>
+        <role descr="causer, agent" f="PAG" n="0"/>
+        <role descr="sound nasalized" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="nasal">
+    <roleset id="nasal.02" name="speak nasally">
+      <roles>
+        <role descr="speaker" f="pag" n="0"/>
+        <role descr="utterance" f="ppt" n="1"/>
+        <role descr="hearer" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

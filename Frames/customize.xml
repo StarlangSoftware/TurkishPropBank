@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="customize">
+    <roleset id="customize.01" name="adapt for a specific purpose/person">
+      <roles>
+        <role descr="adaptor, agent" f="pag" n="0"/>
+        <role descr="thing customized" f="ppt" n="1"/>
+        <role descr="purpose/beneficiary/target" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,16 @@
+<frameset>
+  <predicate lemma="moon">
+    <roleset id="moon.01" name="daydream">
+      <roles>
+        <role descr="dreamer" f="PPT" n="0"/>
+        <role descr="dream" f="PAG" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="moon.02" name="expose buttocks">
+      <roles>
+        <role descr="mooner" f="PAG" n="0"/>
+        <role descr="mooned" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

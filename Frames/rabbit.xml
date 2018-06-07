@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="rabbit">
+    <roleset id="rabbit.01" name="to hunt fowl">
+      <roles>
+        <role descr="agent or causer" f="pag" n="0"/>
+        <role descr="entity gathered" f="ppt" n="1"/>
+        <role descr="gathered into" f="loc" n="2"/>
+        <role descr="beneficiary" f="gol" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

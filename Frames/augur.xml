@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="augur">
+    <roleset id="augur.01" name="foretell or be an omen of a future event">
+      <roles>
+        <role descr="omen, thing foretelling future event" f="pag" n="0"/>
+        <role descr="thing prophecied" f="ppt" n="1"/>
+        <role descr="recipient, hearer" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

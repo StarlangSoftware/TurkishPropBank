@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="rereview">
+    <roleset id="rereview.01" name="look at again; review another time">
+      <roles>
+        <role descr="reviewer" f="pag" n="0"/>
+        <role descr="thing reviewed" f="ppt" n="1"/>
+        <role descr="benefactive" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

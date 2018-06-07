@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="stalemate">
+    <roleset id="stalemate.01" name="(cause to) be at an impasse, as in chess">
+      <roles>
+        <role descr="agent, causer, first player" f="pag" n="0"/>
+        <role descr="acts, game that cannot proceed" f="ppt" n="1"/>
+        <role descr="opponent" f="com" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

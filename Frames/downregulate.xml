@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="downregulate">
+    <roleset id="downregulate.01" name="reduce a cellular response to a molecular stimulus">
+      <roles>
+        <role descr="intentional agent of downregulation (e.g. scientist)" f="pag" n="0"></role>
+        <role descr="thing downregulated (e.g. protein or another molecule)" f="ppt" n="1"></role>
+        <role descr="instrument (e.g. enzyme)" f="mnr" n="2"></role>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

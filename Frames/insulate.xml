@@ -1,0 +1,19 @@
+<frameset>
+  <predicate lemma="insulate">
+    <roleset id="insulate.01" name="protect from heat, cold, etc">
+      <roles>
+        <role descr="agentive protector" f="pag" n="0"/>
+        <role descr="protected" f="ppt" n="1"/>
+        <role descr="protected from" f="cau" n="2"/>
+        <role descr="instrument, insulation itself" f="mnr" n="3"/>
+      </roles>
+    </roleset>
+    <roleset id="insulate.02" name="isolate">
+      <roles>
+        <role descr="causer of isolation" f="pag" n="0"/>
+        <role descr="isolated" f="ppt" n="1"/>
+        <role descr="isolated from" f="dir" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

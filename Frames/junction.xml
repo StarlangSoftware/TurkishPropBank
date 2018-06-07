@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="junction">
+    <roleset id="junction.01" name="the act of joining/intersecting">
+      <roles>
+        <role descr="outside agent" f="pag" n="0"/>
+        <role descr="first entity joined/intersecting" f="ppt" n="1"/>
+        <role descr="second entity joined/intersecting" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

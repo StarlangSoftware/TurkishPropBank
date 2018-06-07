@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="monetize">
+    <roleset id="monetize.01" name="purchase a debt so as to free money that would have been used for debt service for other uses">
+      <roles>
+        <role descr="agent, Mr. Nice Guy" f="PAG" n="0"/>
+        <role descr="theme, debt" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

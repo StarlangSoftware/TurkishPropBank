@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="enrapture">
+    <roleset id="enrapture.01" name="fill with pleasure, entrance">
+      <roles>
+        <role descr="cause of rapture, agent" f="pag" n="0"/>
+        <role descr="Rapt entity" f="ppt" n="1"/>
+        <role descr="instrument, when separate from arg0" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

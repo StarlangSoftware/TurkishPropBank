@@ -1,0 +1,18 @@
+<frameset>
+  <predicate lemma="caddy">
+    <roleset id="caddy.01" name="act as golf caddy">
+      <roles>
+        <role descr="caddy" f="pag" n="0"/>
+        <role descr="player(s)" f="gol" n="1"/>
+        <role descr="game/course/play" f="vsp" n="2"/>
+        <role descr="tours" f="vsp" n="3"/>
+      </roles>
+    </roleset>
+    <roleset id="caddy.02" name="carry">
+      <roles>
+        <role descr="carrier" f="pag" n="0"/>
+        <role descr="entity carried" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

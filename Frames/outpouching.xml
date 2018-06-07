@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="outpouching">
+    <roleset id="outpouching.01" name="forming into an outward pouch">
+      <roles>
+        <role descr="Entity pouching outward" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

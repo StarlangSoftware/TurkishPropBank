@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="intrathoracic">
+    <roleset id="intrathoracic.01" name="within the thorax">
+      <roles>
+        <role descr="thing inside the thorax" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

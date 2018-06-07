@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="classic">
+    <roleset id="classic.01" name="canonical, of a long established/typical form">
+      <roles>
+        <role descr="classic thing" f="pag" n="1"/>
+        <role descr="specific aspect of arg1 that is classic" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="decamp">
+    <roleset id="decamp.01" name="to leave (camp or more generic place)">
+      <roles>
+        <role descr="entity leaving, agent" f="ppt" n="0"/>
+        <role descr="place leaving" f="loc" n="1"/>
+        <role descr="destination" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

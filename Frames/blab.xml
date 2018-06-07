@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="blab">
+    <roleset id="blab.01" name="talk about incautiously">
+      <roles>
+        <role descr="talker" f="PAG" n="0"/>
+        <role descr="subject" f="PPT" n="1"/>
+        <role descr="listener" f="GOL" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

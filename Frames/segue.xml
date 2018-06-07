@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="segue">
+    <roleset id='segue.01' name="transition smoothly to the next subject">
+      <roles>
+        <role descr="agent, transitioner" f="pag" n="0"/>
+        <role descr="start subject/condition" f="dir" n="1"/>
+        <role descr="end subject/condition" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

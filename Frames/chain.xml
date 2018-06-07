@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="chain">
+    <roleset id="chain.01" name="connect with chain">
+      <roles>
+        <role descr="causer of connection, agent" f="pag" n="0"/>
+        <role descr="(first) thing being chained" f="ppt" n="1"/>
+        <role descr="subsequent things, if separate" f="ppt" n="2"/>
+        <role descr="attribute on arg1" f="prd" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

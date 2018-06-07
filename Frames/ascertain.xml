@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="ascertain">
+    <roleset id="ascertain.01" name="figure out">
+      <roles>
+        <role descr="ascertainer" f="pag" n="0"/>
+        <role descr="thing figured out" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

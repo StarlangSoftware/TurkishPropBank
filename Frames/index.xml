@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="index">
+    <roleset id="index.01" name="to provide an index">
+      <roles>
+        <role descr="provider of index" f="pag" n="0"/>
+        <role descr="entity indexed" f="ppt" n="1"/>
+        <role descr="attribute of arg1, index value" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

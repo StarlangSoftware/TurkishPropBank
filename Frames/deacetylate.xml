@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="deacetylate">
+    <roleset id="deacetylate.01" name="remove the acetyl group from a compound">
+      <roles>
+        <role descr="agent of deacetylation (e.g. scientist)" f="pag" n="0"></role>
+        <role descr="thing deacetylated" f="ppt" n="1"></role>
+        <role descr="instrument" f="mnr" n="2"></role>
+        <role descr="product of deacetylation" f="prd" n="3"></role>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

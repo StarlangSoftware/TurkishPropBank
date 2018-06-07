@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="relocate">
+    <roleset id="relocate.01" name="to change residence, move from one place to another">
+      <roles>
+        <role descr="agent, causer" f="pag" n="0"/>
+        <role descr="entity relocated" f="ppt" n="1"/>
+        <role descr="destination" f="gol" n="2"/>
+        <role descr="source" f="dir" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

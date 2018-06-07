@@ -1,0 +1,18 @@
+<frameset>
+  <predicate lemma="foresee">
+    <roleset id="foresee.01" name="see into the future">
+      <roles>
+        <role descr="seer" f="PAG" n="0"/>
+        <role descr="thing seen" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="foreseeable">
+    <roleset id="foreseeable.02" name="able to be predicted">
+      <roles>
+        <role descr="foreseer" f="pag" n="0"/>
+        <role descr="forecast" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

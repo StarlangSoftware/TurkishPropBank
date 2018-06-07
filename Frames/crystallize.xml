@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="crystallize">
+    <roleset id="crystallize.01" name="bring together, solidfy (physically or metaphorically)">
+      <roles>
+        <role descr="agent" f="pag" n="0"/>
+        <role descr="patient" f="ppt" n="1"/>
+        <role descr="source, materials" f="dir" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,16 @@
+<frameset>
+  <predicate lemma="profound">
+    <roleset id="profound.01" name="extensive">
+      <roles>
+        <role descr="extensive entity" f="ppt" n="1"/>
+        <role descr="aspect of arg1 that is extensive (if in addition" f="vsp" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="profound.02" name="rich in meaning, philosophically deep">
+      <roles>
+        <role descr="philosophically deep entity" f="ppt" n="1"/>
+        <role descr="elaboration on the profundity conveyed by arg1" f="vsp" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

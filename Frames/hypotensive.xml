@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="hypotensive">
+    <roleset id="hypotensive.01" name="having low blood pressure">
+      <roles>
+        <role descr="entity with low blood pressure" f="pag" n="1"/>
+        <role descr="blood pressure reading" f="vsp" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

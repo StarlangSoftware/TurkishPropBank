@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="telecast">
+    <roleset id="telecast.01" name="telecast">
+      <roles>
+        <role descr="telecaster, agent" f="PAG" n="0"/>
+        <role descr="thing telecasted" f="PPT" n="1"/>
+        <role descr="telecasted to, recipient" f="GOL" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

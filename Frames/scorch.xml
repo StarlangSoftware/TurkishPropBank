@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="scorch">
+    <roleset id="scorch.01" name="burn with fire">
+      <roles>
+        <role descr="fire" f="PAG" n="0"/>
+        <role descr="thing burning" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

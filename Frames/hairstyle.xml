@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="hairstyle">
+    <roleset id="hairstyle.01" name="creating a hairdo">
+      <roles>
+        <role descr="stylist" f="pag" n="0"/>
+        <role descr="entity getting a new do" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

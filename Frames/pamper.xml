@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="pamper">
+    <roleset id="pamper.01" name="indulge, treat (excessively?) nicely">
+      <roles>
+        <role descr="pamperer" f="PAG" n="0"/>
+        <role descr="pampered" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

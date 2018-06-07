@@ -1,0 +1,21 @@
+<frameset>
+  <predicate lemma="widen">
+    <roleset id="widen.01" name="make wider">
+      <roles>
+        <role descr="causal agent" f="PAG" n="0"/>
+        <role descr="thing becoming wider" f="PPT" n="1"/>
+        <role descr="EXT" f="ext" n="2"/>
+        <role descr="start point" f="dir" n="3"/>
+        <role descr="end point" f="gol" n="4"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="wide">
+    <roleset id="wide.02" name="spanning a great breadth">
+      <roles>
+        <role descr="wide entity" f="ppt" n="1"/>
+        <role descr="specific aspect of arg1 that is wide (if in addition)" f="vsp" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

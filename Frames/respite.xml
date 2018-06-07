@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="respite">
+    <roleset id="respite.01" name="rest or relief from">
+      <roles>
+        <role descr="cause or instigator of break, agent" f="pag" n="0"/>
+        <role descr="entity granted a break" f="gol" n="1"/>
+        <role descr="break from" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

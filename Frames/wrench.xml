@@ -1,0 +1,23 @@
+<frameset>
+  <predicate lemma="wrench">
+    <roleset id="wrench.01" name="twist suddenly and violently">
+      <roles>
+        <role descr="agent, entity/thing doing the wrenching" f="PAG" n="0"/>
+        <role descr="thing wrenched" f="PPT" n="1"/>
+        <role descr="from where" f="dir" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="wrench.02" name="wring one's hands">
+      <roles>
+        <role descr="hand-wringer" f="pag" n="0"/>
+        <role descr="hands" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="wrench.03" name="twist and sprain a body part">
+      <roles>
+        <role descr="injured person" f="ppt" n="0"/>
+        <role descr="body part, or self" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

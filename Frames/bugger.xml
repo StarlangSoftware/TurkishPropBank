@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="bugger">
+    <roleset id="bugger.01" name="sodomize (or metaphorical extension)">
+      <roles>
+        <role descr="party 1" f="PAG" n="0"/>
+        <role descr="party 2" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

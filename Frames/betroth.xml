@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="betroth">
+    <roleset id="betroth.01" name="arrange engagement">
+      <roles>
+        <role descr="agent" f="PAG" n="0"/>
+        <role descr="person one" f="PPT" n="1"/>
+        <role descr="person two" f="GOL" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="demur">
+    <roleset id="demur.01" name="to object politely">
+      <roles>
+        <role descr="objector, agent" f="PAG" n="0"/>
+        <role descr="objection" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

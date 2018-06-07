@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="epoxy">
+    <roleset id="epoxy.01" name="glue with epoxy">
+      <roles>
+        <role descr="agent, linker" f="pag" n="0"/>
+        <role descr="thing linked" f="PPT" n="1"/>
+        <role descr="thing linked to" f="PPT" n="2"/>
+        <role descr="explicit mention of epoxy" f="mnr" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

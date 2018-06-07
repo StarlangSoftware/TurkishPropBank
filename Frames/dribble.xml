@@ -1,0 +1,19 @@
+<frameset>
+  <predicate lemma="dribble">
+    <roleset id="dribble.01" name="to let fall in drops, dripping">
+      <roles>
+        <role descr="dribbler" f="PAG" n="0"/>
+        <role descr="thing being dribbled" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="dribble.02" name="bounce a ball">
+      <roles>
+        <role descr="Causer of bouncing, basketball player" f="pag" n="0"/>
+        <role descr="Thing bouncing, basketball" f="ppt" n="1"/>
+        <role descr="Extent" f="ext" n="2"/>
+        <role descr="Start point" f="dir" n="3"/>
+        <role descr="End point" f="gol" n="4"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

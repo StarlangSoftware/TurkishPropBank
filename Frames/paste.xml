@@ -1,0 +1,17 @@
+<frameset>
+  <predicate lemma="paste">
+    <roleset id="paste.01" name="attach using paste">
+      <roles>
+        <role descr="agent, entity doing the tying" f="PAG" n="0"/>
+        <role descr="patient, thing(s) being tied" f="PPT" n="1"/>
+        <role descr="instrument, string" f="PPT" n="2"/>
+        <role descr="attribute of arg1" f="PRD" n="3"/>
+      </roles>
+    </roleset>
+    <roleset id="paste.02" name="get beat up">
+      <roles>
+        <role descr="entity suffering" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

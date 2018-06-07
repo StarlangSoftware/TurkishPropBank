@@ -1,0 +1,24 @@
+<frameset>
+  <predicate lemma="pan">
+    <roleset id="pan.01" name="to wash dirt in a pan to separate out the  precious metals">
+      <roles>
+        <role descr="(gold)panner, agent" f="pag" n="0"/>
+        <role descr="precious metals" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="pan.03" name="sweep slowly across">
+      <roles>
+        <role descr="cause, agent" f="pag" n="0"/>
+        <role descr="camera, view" f="ppt" n="1"/>
+        <role descr="across what" f="loc" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="pan_out">
+    <roleset id="pan_out.02" name="to turn out well">
+      <roles>
+        <role descr="entity panning out" f="pag" n="0"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="nervous">
+    <roleset id="nervous.01" name="nervous">
+      <roles>
+        <role descr="nervous entity" f="PPT" n="1"/>
+        <role descr="cause of nerves, nervous about/at what?" f="CAU" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

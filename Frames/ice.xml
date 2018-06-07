@@ -1,0 +1,18 @@
+<frameset>
+  <predicate lemma="ice">
+    <roleset id="ice.01" name="decorate with frosting">
+      <roles>
+        <role descr="pastry chef" f="pag" n="0"/>
+        <role descr="the cake" f="gol" n="1"/>
+        <role descr="the frosting" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="ice.02" name="make colder (or icy) using ice">
+      <roles>
+        <role descr="agent, person holding the ice" f="pag" n="0"/>
+        <role descr="patient, thing being made icy" f="ppt" n="1"/>
+        <role descr="the ice" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

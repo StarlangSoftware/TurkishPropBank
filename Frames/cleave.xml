@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="cleave">
+    <roleset id="cleave.01" name="split into two, split into two - not eventive when refering to breasts">
+      <roles>
+        <role descr="agent, cleaver" f="pag" n="0"/>
+        <role descr="patient, thing cleaved" f="ppt" n="1"/>
+        <role descr="result of cleaving" f="prd" n="2"/>
+        <role descr="benefactive" f="gol" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

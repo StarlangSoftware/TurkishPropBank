@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="mitigate">
+    <roleset id="mitigate.01" name="reduce the impact of">
+      <roles>
+        <role descr="reducer" f="PAG" n="0"/>
+        <role descr="thing reduced" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

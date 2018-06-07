@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="columnar">
+    <roleset id="columnar.01" name="column-shaped">
+      <roles>
+        <role descr="columnar entity" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

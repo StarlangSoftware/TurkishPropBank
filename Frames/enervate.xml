@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="enervate">
+    <roleset id="enervate.01" name="weaken">
+      <roles>
+        <role descr="Stimulus of weakening" f="PAG" n="0"/>
+        <role descr="entity becoming weak" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

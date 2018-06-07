@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="complicit">
+    <roleset id="complicit.01" name="associated with questionable/criminal actions">
+      <roles>
+        <role descr="thing that is complicit" f="ppt" n="1"/>
+        <role descr="complicit with what/whom? in what actions?" f="com" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

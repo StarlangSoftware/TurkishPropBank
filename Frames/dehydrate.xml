@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="dehydrate">
+    <roleset id="dehydrate.01" name="remove moisture from">
+      <roles>
+        <role descr="agent, causer of loss of moisture" f="PAG" n="0"/>
+        <role descr="patient, thing losing moisture" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

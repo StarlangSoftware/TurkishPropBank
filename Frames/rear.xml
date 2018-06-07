@@ -1,0 +1,16 @@
+<frameset>
+  <predicate lemma="rear">
+    <roleset id="rear.01" name="raise a child">
+      <roles>
+        <role descr="parent" f="PAG" n="0"/>
+        <role descr="child" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="rear.02" name="jump (like an animal)">
+      <roles>
+        <role descr="rearing animal" f="PAG" n="0"/>
+        <role descr="body part reared" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

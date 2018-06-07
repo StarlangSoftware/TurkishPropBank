@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="underpenetrate">
+    <roleset id="underpenetrate.01" name="not enter far enough">
+      <roles>
+        <role descr="entity entering" f="pag" n="0"/>
+        <role descr="place or thing entered" f="pag" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,13 @@
+<frameset>
+  <predicate lemma="stricture">
+    <roleset id="stricture.01" name="abnormally narrow, abnormal narrowing of a canal or duct in the body">
+      <roles>
+        <role descr="causal agent" f="pag" n="0"/>
+        <role descr="thing becomng narrower" f="ppt" n="1"/>
+        <role descr="extent, amount narrowed by" f="ext" n="2"/>
+        <role descr="start point" f="dir" n="3"/>
+        <role descr="end point" f="gol" n="4"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

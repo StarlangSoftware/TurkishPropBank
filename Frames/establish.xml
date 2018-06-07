@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="establish">
+    <roleset id="establish.01" name="establish, setting up">
+      <roles>
+        <role descr="agent, setter" f="pag" n="0"/>
+        <role descr="thing set" f="ppt" n="1"/>
+        <role descr="attribute" f="prd" n="2"/>
+        <role descr="benefactive" f="gol" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

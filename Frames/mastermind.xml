@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="mastermind">
+    <roleset id="mastermind.01" name="develop and carry out complex plans">
+      <roles>
+        <role descr="planner" f="pag" n="0"/>
+        <role descr="thing planned" f="ppt" n="1"/>
+        <role descr="grounds for planning" f="cau" n="2"/>
+        <role descr="beneficiary" f="gol" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

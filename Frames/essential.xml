@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="essential">
+    <roleset id="essential.01" name="required">
+      <roles>
+        <role descr="essential thing" f="ppt" n="1"/>
+        <role descr="essential for/to what" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

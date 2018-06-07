@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="associate">
+    <roleset id="associate.01" name="include in some group, group together">
+      <roles>
+        <role descr="agent, entity causing some grouping, making an   association" f="PAG" n="0"/>
+        <role descr="theme, thing being included in some group" f="PPT" n="1"/>
+        <role descr="group, associated-with" f="PPT" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

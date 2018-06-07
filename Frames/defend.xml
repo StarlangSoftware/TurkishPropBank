@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="defend">
+    <roleset id="defend.01" name="defend">
+      <roles>
+        <role descr="defender" f="pag" n="0"/>
+        <role descr="defended" f="ppt" n="1"/>
+        <role descr="instrument" f="mnr" n="2"/>
+        <role descr="entity defended against" f="gol" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="grasp">
+    <roleset id="grasp.01" name="to take hold of, comprehend">
+      <roles>
+        <role descr="grasper" f="pag" n="0"/>
+        <role descr="thing grasped" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

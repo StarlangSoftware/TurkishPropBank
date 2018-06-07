@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="jurisdiction">
+    <roleset id="jurisdiction.01" name="having legal authority over">
+      <roles>
+        <role descr="entity having authority" f="ppt" n="0"/>
+        <role descr="over what domain" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

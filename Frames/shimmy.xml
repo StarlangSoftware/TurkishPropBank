@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="shimmy">
+    <roleset id="shimmy.01" name="move or dance in a particular way.">
+      <roles>
+        <role descr="dancer, thing doing the shimmy" f="pag" n="0"/>
+        <role descr="path of shimmy when referring to movement" f="ppt" n="1"/>
+        <role descr="partner when referring to the dance" f="com" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

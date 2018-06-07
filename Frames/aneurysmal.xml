@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="aneurysmal">
+    <roleset id="aneurysmal.01" name="relating to an aneurysm">
+      <roles>
+        <role descr="aneurysmal entity" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

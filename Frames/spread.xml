@@ -1,0 +1,33 @@
+<frameset>
+  <predicate lemma="spread">
+    <roleset id="spread.01" name="smear, apply, physical smearing of a substance on a surface">
+      <roles>
+        <role descr="applier, intentional agent" f="pag" n="0"/>
+        <role descr="substance" f="ppt" n="1"/>
+        <role descr="surface" f="gol" n="2"/>
+        <role descr="instrument, brush" f="mnr" n="3"/>
+      </roles>
+    </roleset>
+    <roleset id="spread.02" name="extend, ranging">
+      <roles>
+        <role descr="substance" f="ppt" n="1"/>
+        <role descr="diretion or location (for location use loc)" f="dir" n="m"/>
+      </roles>
+    </roleset>
+    <roleset id="spread.03" name="cause to be widely located or distributed">
+      <roles>
+        <role descr="distributor, agent" f="pag" n="0"/>
+        <role descr="things distributed" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="spread_out">
+    <roleset id="spread_out.04" name="spread_out">
+      <roles>
+        <role descr="agent" f="pag" n="0"/>
+        <role descr="thing spread out" f="ppt" n="1"/>
+        <role descr="location, spread amongst" f="loc" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

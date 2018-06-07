@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="mother">
+    <roleset id="mother.01" name="do as mothers do">
+      <roles>
+        <role descr="mother-er" f="PAG" n="0"/>
+        <role descr="mothered" f="GOL" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

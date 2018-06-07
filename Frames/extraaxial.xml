@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="extraaxial">
+    <roleset id="extraaxial.01" name="within the skull/vertebrae, but outside the brain/spine">
+      <roles>
+        <role descr="extra-axial lesion/hemorrhage" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

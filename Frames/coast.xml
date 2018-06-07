@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="coast">
+    <roleset id="coast.01" name="to move effortlessly">
+      <roles>
+        <role descr="entity in motion" f="PPT" n="0"/>
+        <role descr="path" f="LOC" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

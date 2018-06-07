@@ -1,0 +1,18 @@
+<frameset>
+  <predicate lemma="clump">
+    <roleset id="clump.02" name="gather into a cluster">
+      <roles>
+        <role descr="causal agent" f="PAG" n="0"/>
+        <role descr="thing becoming clumped" f="ppt" n="1"/>
+        <role descr="end state (the clump)" f="prd" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="clump.03" name="walk clumsily and heavily">
+      <roles>
+        <role descr="clomper" f="PAG" n="0"/>
+        <role descr="clomped" f="ppt" n="1"/>
+        <role descr="location, direction or path" f="loc" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

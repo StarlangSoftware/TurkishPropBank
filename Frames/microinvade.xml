@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="microinvade">
+    <roleset id="microinvade.01" name="very slight invasion of malignant cells into adjacent tissue">
+      <roles>
+        <role descr="invader" f="pag" n="0"/>
+        <role descr="place invaded" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,27 @@
+<frameset>
+  <predicate lemma="shake">
+    <roleset id="shake.01" name="tremble, moving vigorously back and forth">
+      <roles>
+        <role descr="causer of trembling motion" f="pag" n="0"/>
+        <role descr="thing trembling" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="shake_off">
+    <roleset id="shake_off.02" name="lose">
+      <roles>
+        <role descr="entity losing something" f="pag" n="0"/>
+        <role descr="thing lost" f="ppt" n="1"/>
+        <role descr="benefactive, entity gaining thing lost" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="shake_up">
+    <roleset id="shake_up.03" name="tremble very badly">
+      <roles>
+        <role descr="cause of shaking" f="pag" n="0"/>
+        <role descr="thing trembling" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

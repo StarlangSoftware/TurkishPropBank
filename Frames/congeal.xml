@@ -1,0 +1,13 @@
+<frameset>
+  <predicate lemma="congeal">
+    <roleset id="congeal.01" name="to solidify or thicken">
+      <roles>
+        <role descr="cause of solidification" f="pag" n="0"/>
+        <role descr="entity congealed" f="ppt" n="1"/>
+        <role descr="instrument of congealing when separate from arg 0" f="mnr" n="2"/>
+        <role descr="start material, when separate mention from arg 1 (unlikely to occur)" f="vsp" n="3"/>
+        <role descr="end state, congealed into what? when separate mention from arg 1" f="prd" n="4"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

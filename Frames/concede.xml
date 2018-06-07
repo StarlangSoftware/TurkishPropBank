@@ -1,0 +1,25 @@
+<frameset>
+  <predicate lemma="concede">
+    <roleset id="concede.01" name="admit">
+      <roles>
+        <role descr="entity admitting/giving something" f="PAG" n="0"/>
+        <role descr="thing admitted or given" f="PPT" n="1"/>
+        <role descr="recipient or listener, admitted or given to" f="GOL" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="concede.02" name="acknowledge loss of a contest before it's official">
+      <roles>
+        <role descr="Loser" f="PAG" n="0"/>
+        <role descr="Contest lost" f="ppt" n="1"/>
+        <role descr="Winner, conceded to whom?" f="gol" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="concede.03" name="to grant as right or privilege.">
+      <roles>
+        <role descr="Giver" f="PAG" n="0"/>
+        <role descr="Thing given" f="PPT" n="1"/>
+        <role descr="Given to whom? Recipient" f="GOL" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

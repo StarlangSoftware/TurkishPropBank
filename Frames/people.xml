@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="people">
+    <roleset id="people.01" name="populate">
+      <roles>
+        <role descr="area" f="ppt" n="1"/>
+        <role descr="population" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="heartbreak">
+    <roleset id="heartbreak.01" name="overwhelming sorrow">
+      <roles>
+        <role descr="agent/cause/stimulus of heartbreak" f="pag" n="0"/>
+        <role descr="entity with a broken heart" f="ppt" n="1"/>
+        <role descr="instrument, if in addition to arg0" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

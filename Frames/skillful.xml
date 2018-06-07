@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="skillful">
+    <roleset id="skillful.01" name="skillful">
+      <roles>
+        <role descr="skill holder, skillful entity" f="PPT" n="1"/>
+        <role descr="skill, skillful at/in what?" f="PPT" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

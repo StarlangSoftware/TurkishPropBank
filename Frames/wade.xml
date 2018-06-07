@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="wade">
+    <roleset id="wade.01" name="walk through water">
+      <roles>
+        <role descr="wader" f="PPT" n="0"/>
+        <role descr="water" f="LOC" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,33 @@
+<frameset>
+  <predicate lemma="bank">
+    <roleset id="bank.01" name="put (money) in the bank">
+      <roles>
+        <role descr="putter, agent" f="pag" n="0"/>
+        <role descr="money" f="ppt" n="1"/>
+        <role descr="bank" f="gol" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="bank.02" name="turn like an airplane">
+      <roles>
+        <role descr="pilot" f="pag" n="0"/>
+        <role descr="aeroplane" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="bank.04" name="rely, depend, bet, take for granted">
+      <roles>
+        <role descr="relier, better" f="pag" n="0"/>
+        <role descr="thing depeded, banked on" f="ppt" n="1"/>
+        <role descr="for, in order to" f="prp" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="bank_up">
+    <roleset id="bank_up.03" name="create an embankment">
+      <roles>
+        <role descr="creator" f="pag" n="0"/>
+        <role descr="embankment or location" f="ppt" n="1"/>
+        <role descr="substance of embankment" f="vsp" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

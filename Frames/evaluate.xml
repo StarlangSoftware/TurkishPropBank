@@ -1,0 +1,18 @@
+<frameset>
+  <predicate lemma="evaluate">
+    <roleset id="evaluate.01" name="make a judgement about, assessment">
+      <roles>
+        <role descr="evaluator" f="pag" n="0"/>
+        <role descr="thing evaluated" f="ppt" n="1"/>
+        <role descr="the assessment itself" f="prd" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="evaluate.101" name="monitor or measure a medical condition">
+      <roles>
+        <role descr="Monitorer" f="PAG" n="0"/>
+        <role descr="Patient" f="PPT" n="1"/>
+        <role descr="Condition" f="vsp" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

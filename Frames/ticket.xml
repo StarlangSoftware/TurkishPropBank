@@ -1,0 +1,18 @@
+<frameset>
+  <predicate lemma="ticket">
+    <roleset id="ticket.01" name="to designate for a specified use">
+      <roles>
+        <role descr="designator, agent" f="pag" n="0"/>
+        <role descr="entity ticketed" f="gol" n="1"/>
+        <role descr="use" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="ticket.02" name="give a ticket to someone">
+      <roles>
+        <role descr="Agent, ticketer" f="pag" n="0"/>
+        <role descr="Entity ticketed, given ticket" f="gol" n="1"/>
+        <role descr="Mention of ticket itself (probably rare), ticketed with what?" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

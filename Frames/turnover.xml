@@ -1,0 +1,17 @@
+<frameset>
+  <predicate lemma="turnover">
+    <roleset id="turnover.01" name="upset, knock over, turn turtle">
+      <roles>
+        <role descr="agent, causer" f="pag" n="0"/>
+        <role descr="thing upset" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="turnover.02" name="give to someone">
+      <roles>
+        <role descr="giver" f="pag" n="0"/>
+        <role descr="thing given" f="ppt" n="1"/>
+        <role descr="entity given to" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

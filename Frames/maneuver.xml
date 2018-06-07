@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="maneuver">
+    <roleset id="maneuver.01" name="to direct the course">
+      <roles>
+        <role descr="director, agent" f="pag" n="0"/>
+        <role descr="entity maneuvered" f="ppt" n="1"/>
+        <role descr="destination" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

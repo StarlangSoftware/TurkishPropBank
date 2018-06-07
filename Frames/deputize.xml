@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="deputize">
+    <roleset id="deputize.01" name="empower, as with an appointment as deputy">
+      <roles>
+        <role descr="agent (sheriff?)" f="pag" n="0"/>
+        <role descr="deputy" f="ppt" n="1"/>
+        <role descr="role/title appointed" f="prd" n="2"/>
+        <role descr="task in need of doing" f="prp" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

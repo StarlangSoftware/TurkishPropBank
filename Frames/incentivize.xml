@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="incentivize">
+    <roleset id="incentivize.01" name="create incentives for, motivate">
+      <roles>
+        <role descr="cause, provider of incentives" f="pag" n="0"/>
+        <role descr="impelled agent, incentives provided to whom?" f="ppt" n="1"/>
+        <role descr="incentivized action, arg1 now has incentives to do what?" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

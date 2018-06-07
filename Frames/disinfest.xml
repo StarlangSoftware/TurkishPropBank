@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="disinfest">
+    <roleset id="disinfest.01" name="eliminate insects, vermin, or pests">
+      <roles>
+        <role descr="Agent, remover of pests" f="pag" n="0"/>
+        <role descr="Container, space, or entity currently infested" f="gol" n="1"/>
+        <role descr="Contaminants/vermin/pests being eliminated from Arg1" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

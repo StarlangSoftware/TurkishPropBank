@@ -1,0 +1,47 @@
+<frameset>
+  <predicate lemma="bust">
+    <roleset id="bust.01" name="break, breaking (up), terminating">
+      <roles>
+        <role descr="breaker" f="pag" n="0"/>
+        <role descr="thing broken" f="ppt" n="1"/>
+        <role descr="instrument" f="mnr" n="2"/>
+        <role descr="pieces" f="prd" n="3"/>
+      </roles>
+    </roleset>
+    <roleset id="bust.06" name="fizzle, fail">
+      <roles>
+        <role descr="thing failing" f="ppt" n="0"/>
+        <role descr="specific aspect of arg0 failing" f="vsp" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="bust.02" name="catch a criminal">
+      <roles>
+        <role descr="cop(s)" f="pag" n="0"/>
+        <role descr="criminal(s)" f="ppt" n="1"/>
+        <role descr="crime" f="cau" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="bust.05" name="catch ghosts">
+      <roles>
+        <role descr="ghostbuster" f="pag" n="0"/>
+        <role descr="ghost" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="bust_out">
+    <roleset id="bust_out.03" name="escape">
+      <roles>
+        <role descr="escapee" f="pag" n="0"/>
+        <role descr="escaped from" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="bust_up">
+    <roleset id="bust_up.04" name="break up">
+      <roles>
+        <role descr="causative agent" f="pag" n="0"/>
+        <role descr="thing in pieces" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

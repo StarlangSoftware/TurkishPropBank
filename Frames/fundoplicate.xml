@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="fundoplicate">
+    <roleset id="fundoplicate.01" name="mobilization of the lower end of the esophagus and plication of the fundus of the stomach up around it">
+      <roles>
+        <role descr="Agent, surgeon performing fundoplication" f="pag" n="0"/>
+        <role descr="Fundoplicated entity" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

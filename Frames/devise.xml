@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="devise">
+    <roleset id="devise.01" name="come up with">
+      <roles>
+        <role descr="deviser" f="pag" n="0"/>
+        <role descr="thing dreamed up" f="ppt" n="1"/>
+        <role descr="secondary predication on arg1" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

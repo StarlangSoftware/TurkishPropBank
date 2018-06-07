@@ -1,0 +1,24 @@
+<frameset>
+  <predicate lemma="even">
+    <roleset id="even.02" name="equalize, make uniform, equal, without variation">
+      <roles>
+        <role descr="first equal/unvaried thing" f="ppt" n="1"/>
+        <role descr="second equal thing, even in comparison to what" f="ppt" n="2"/>
+        <role descr="domain of evenness" f="vsp" n="3"/>
+      </roles>
+    </roleset>
+    <roleset id="even.03" name="divisible by 2">
+      <roles>
+        <role descr="number divisible by 2" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="even_out">
+    <roleset id="even_out.01" name="to make or become even">
+      <roles>
+        <role descr="causer of evenness, agent" f="pag" n="0"/>
+        <role descr="entity evened" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

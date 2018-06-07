@@ -1,0 +1,27 @@
+<frameset>
+  <predicate lemma="explode">
+    <roleset id="explode.01" name="go boom">
+      <roles>
+        <role descr="bomber, agent/cause" f="pag" n="0"/>
+        <role descr="bomb, thing exploding" f="ppt" n="1"/>
+        <role descr="attribute, end state" f="prd" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="explode.02" name="get bigger very quickly">
+      <roles>
+        <role descr="causer of rapid growth, agent (rare)" f="pag" n="0"/>
+        <role descr="thing getting bigger" f="ppt" n="1"/>
+        <role descr="amount increased by, EXT or MNR" f="ext" n="2"/>
+        <role descr="start point" f="dir" n="3"/>
+        <role descr="end point" f="gol" n="4"/>
+      </roles>
+    </roleset>
+    <roleset id="explode.03" name="overflow, overflow/ erupt">
+      <roles>
+        <role descr="agent" f="pag" n="0"/>
+        <role descr="the container" f="dir" n="1"/>
+        <role descr="the substance" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

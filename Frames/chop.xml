@@ -1,0 +1,29 @@
+<frameset>
+  <predicate lemma="chop">
+    <roleset id="chop.01" name="cut up, (attempt to) cut with a chopping motion">
+      <roles>
+        <role descr="chopper" f="PAG" n="0"/>
+        <role descr="chopped" f="PPT" n="1"/>
+        <role descr="instrument" f="MNR" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="chop_down">
+    <roleset id="chop_down.02" name="fell, as a tree">
+      <roles>
+        <role descr="chopper" f="PAG" n="0"/>
+        <role descr="chopped" f="PPT" n="1"/>
+        <role descr="instrument" f="MNR" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="chop_up">
+    <roleset id="chop_up.03" name="render into pieces">
+      <roles>
+        <role descr="chopper" f="PAG" n="0"/>
+        <role descr="chopped" f="PPT" n="1"/>
+        <role descr="instrument" f="MNR" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

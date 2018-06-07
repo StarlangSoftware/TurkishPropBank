@@ -1,0 +1,35 @@
+<frameset>
+  <predicate lemma="spend">
+    <roleset id="spend.01" name="use money">
+      <roles>
+        <role descr="spender, buyer" f="pag" n="0"/>
+        <role descr="thing bought, commodity" f="ppt" n="1"/>
+        <role descr="seller" f="dir" n="2"/>
+        <role descr="price paid, money" f="vsp" n="3"/>
+        <role descr="benefactive" f="gol" n="4"/>
+      </roles>
+    </roleset>
+    <roleset id="spend.02" name="bide time">
+      <roles>
+        <role descr="bider, waiter" f="pag" n="0"/>
+        <role descr="unit of time" f="vsp" n="1"/>
+        <role descr="activity" f="gol" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="spend.04" name="be used up">
+      <roles>
+        <role descr="thing used up" f="ppt" n="1"/>
+        <role descr="cause" f="cau" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="spend_down">
+    <roleset id="spend_down.03" name="spend money so that one is eligible for medicaid, services for poor">
+      <roles>
+        <role descr="spender" f="pag" n="0"/>
+        <role descr="money spent down" f="ppt" n="1"/>
+        <role descr="limit spent down to" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

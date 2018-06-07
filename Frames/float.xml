@@ -1,0 +1,19 @@
+<frameset>
+  <predicate lemma="float">
+    <roleset id="float.01" name="not sink in water">
+      <roles>
+        <role descr="causative agent" f="pag" n="0"/>
+        <role descr="thing floating" f="ppt" n="1"/>
+        <role descr="benefactive, destination" f="gol" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="float.02" name="give, usually money, sometimes as a loan">
+      <roles>
+        <role descr="giver" f="pag" n="0"/>
+        <role descr="thing given" f="ppt" n="1"/>
+        <role descr="recipient" f="gol" n="2"/>
+        <role descr="in exchange for/ purpose of loan" f="prp" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,100 @@
+<frameset>
+  <predicate lemma="cut">
+    <roleset id="cut.01" name="slice, injure">
+      <roles>
+        <role descr="intentional cutter" f="pag" n="0"/>
+        <role descr="thing cut" f="ppt" n="1"/>
+        <role descr="medium, source" f="dir" n="2"/>
+        <role descr="instrument, unintentional cutter" f="mnr" n="3"/>
+        <role descr="beneficiary" f="gol" n="4"/>
+      </roles>
+    </roleset>
+    <roleset id="cut.02" name="reduce">
+      <roles>
+        <role descr="cutter" f="pag" n="0"/>
+        <role descr="thing reduced" f="ppt" n="1"/>
+        <role descr="amount reduced by" f="ext" n="2"/>
+        <role descr="start point" f="dir" n="3"/>
+        <role descr="end point" f="gol" n="4"/>
+      </roles>
+    </roleset>
+    <roleset id="cut.03" name="various idiomatic usages">
+      <roles>
+        <role descr="cutter" f="pag" n="0"/>
+        <role descr="thing cut (deal, corners, class, etc)" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="cut_off">
+    <roleset id="cut_off.04" name="slice off">
+      <roles>
+        <role descr="cutter" f="pag" n="0"/>
+        <role descr="thing cut" f="ppt" n="1"/>
+        <role descr="medium, source" f="dir" n="2"/>
+        <role descr="instrument" f="mnr" n="3"/>
+        <role descr="beneficiary" f="gol" n="4"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="cut_back">
+    <roleset id="cut_back.05" name="cut back: reduce, reduction">
+      <roles>
+        <role descr="cutter" f="pag" n="0"/>
+        <role descr="thing reduced" f="ppt" n="1"/>
+        <role descr="amount reduced by" f="ext" n="2"/>
+        <role descr="start point" f="dir" n="3"/>
+        <role descr="end point" f="gol" n="4"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="cut_out">
+    <roleset id="cut_out.06" name="eliminate">
+      <roles>
+        <role descr="eliminator" f="pag" n="0"/>
+        <role descr="thing eliminated" f="ppt" n="1"/>
+        <role descr="source" f="dir" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="cut_out.09" name="arrange">
+      <roles>
+        <role descr="thing arranged" f="pag" n="1"/>
+        <role descr="arranged for whom" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="cut_loose">
+    <roleset id="cut_loose.07" name="cut loose: set or become free">
+      <roles>
+        <role descr="causer of freedom" f="pag" n="0"/>
+        <role descr="entity undergoing freedom" f="ppt" n="1"/>
+        <role descr="source, cause of unfreedom" f="dir" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="cut_up">
+    <roleset id="cut_up.08" name="cut completely">
+      <roles>
+        <role descr="cutter" f="pag" n="0"/>
+        <role descr="thing now in pieces" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="cut_up.10" name="laugh and joke">
+      <roles>
+        <role descr="first or all jokers" f="pag" n="0"/>
+        <role descr="other entity cutting up with" f="com" n="1"/>
+        <role descr="joke, cutting up about what?" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="cut_down">
+    <roleset id="cut_down.11" name="reduce">
+      <roles>
+        <role descr="cutter" f="pag" n="0"/>
+        <role descr="thing reduced" f="ppt" n="1"/>
+        <role descr="amount reduced by" f="ext" n="2"/>
+        <role descr="start point" f="dir" n="3"/>
+        <role descr="end point" f="gol" n="4"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,24 @@
+<frameset>
+  <predicate lemma="hope">
+    <roleset id="hope.01" name="wish- verb frame only">
+      <roles>
+        <role descr="hoper" f="pag" n="0"/>
+        <role descr="thing hoped (for)" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="hopeful">
+    <roleset id="hopeful.02" name="be promising, have good prospects">
+      <roles>
+        <role descr="thing that inspires hope" f="gol" n="0"/>
+        <role descr="entity offered hope" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="hopeful.03" name="be hopeful, have hope-- noun and adjective only">
+      <roles>
+        <role descr="hoper" f="pag" n="0"/>
+        <role descr="thing hoped (for)" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

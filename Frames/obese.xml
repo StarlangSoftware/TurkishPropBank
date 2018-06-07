@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="obese">
+    <roleset id="obese.01" name="overweight, officially at a bmi of 30">
+      <roles>
+        <role descr="overweight one" f="pag" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

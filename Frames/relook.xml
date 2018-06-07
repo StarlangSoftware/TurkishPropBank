@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="relook">
+    <roleset id="relook.01" name="look at again">
+      <roles>
+        <role descr="looker" f="pag" n="0"/>
+        <role descr="thing looked at/for/on" f="ppt" n="1"/>
+        <role descr="attribute of arg 1" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

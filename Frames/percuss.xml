@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="percuss">
+    <roleset id="percuss.01" name="striking, knocking, tapping">
+      <roles>
+        <role descr="Agent, percusser" f="pag" n="0"/>
+        <role descr="Entity percussed" f="ppt" n="1"/>
+        <role descr="Instrument, thing percussed by or with" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

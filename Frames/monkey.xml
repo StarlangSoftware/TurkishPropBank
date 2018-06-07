@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="monkey_around">
+    <roleset id="monkey_around.01" name="waste time (often by) fiddling with something idly">
+      <roles>
+        <role descr="entity wasting time, fiddling" f="PAG" n="0"/>
+        <role descr="cause, manner, thing arg 1 fiddling around with" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

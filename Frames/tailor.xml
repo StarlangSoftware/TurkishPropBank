@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="tailor">
+    <roleset id="tailor.01" name="make fit nicely">
+      <roles>
+        <role descr="tailor" f="pag" n="0"/>
+        <role descr="clothes" f="gol" n="1"/>
+        <role descr="target audience" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="border">
+    <roleset id="border.01" name="(cause to) be one the edge of">
+      <roles>
+        <role descr="causer, outside agent" f="pag" n="0"/>
+        <role descr="thing on the edge" f="ppt" n="1"/>
+        <role descr="on the edge of what" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

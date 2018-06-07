@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="speechless">
+    <roleset id="speechless.01" name="unable to speak">
+      <roles>
+        <role descr="entity who can't speak" f="pag" n="0"/>
+        <role descr="topic" f="ppt" n="1"/>
+        <role descr="would-be hearer" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

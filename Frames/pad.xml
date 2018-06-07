@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="pad">
+    <roleset id="pad.01" name="to fill">
+      <roles>
+        <role descr="agent, causer" f="PAG" n="0"/>
+        <role descr="container" f="GOL" n="1"/>
+        <role descr="substance" f="PPT" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

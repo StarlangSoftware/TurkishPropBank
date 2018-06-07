@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="curtain">
+    <roleset id="curtain.01" name="hide">
+      <roles>
+        <role descr="hider" f="PAG" n="0"/>
+        <role descr="thing hidden" f="PPT" n="1"/>
+        <role descr="hidden from" f="GOL" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

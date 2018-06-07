@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="codename">
+    <roleset id="codename.01" name="give a false name to hide real name">
+      <roles>
+        <role descr="codename giver" f="pag" n="0"/>
+        <role descr="entity receiving the code name" f="ppt" n="1"/>
+        <role descr="the codename" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

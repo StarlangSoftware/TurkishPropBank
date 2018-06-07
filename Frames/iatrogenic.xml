@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="iatrogenic">
+    <roleset id="iatrogenic.01" name="induced by a doctor's words or actions">
+      <roles>
+        <role descr="iatrogenic thing" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

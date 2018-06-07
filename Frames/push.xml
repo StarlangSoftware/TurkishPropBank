@@ -1,0 +1,43 @@
+<frameset>
+  <predicate lemma="push">
+    <roleset id="push.01" name="(try to) cause motion">
+      <roles>
+        <role descr="pusher" f="pag" n="0"/>
+        <role descr="thing pushed" f="ppt" n="1"/>
+        <role descr="direction, destination" f="dir" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="push.02" name="force, impelled action">
+      <roles>
+        <role descr="forcer, pusher" f="pag" n="0"/>
+        <role descr="impelled agent" f="ppt" n="1"/>
+        <role descr="impelled action" f="prd" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="push.03" name="quasi-idiomatic: pushing some age">
+      <roles>
+        <role descr="aging person" f="ppt" n="1"/>
+        <role descr="age they're nearing" f="prd" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="push.05" name="quasi-idiomatic: testing limit">
+      <roles>
+        <role descr="agent, cause, actor" f="pag" n="0"/>
+        <role descr="thing pushed" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="push.04" name="advocate or advertise, advocate">
+      <roles>
+        <role descr="advocate" f="pag" n="0"/>
+        <role descr="thing pushed, goal arg0 is striving to achieve" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="push_up">
+    <roleset id="push_up.06" name="arm strengthening exercise">
+      <roles>
+        <role descr="exerciser" f="pag" n="0"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

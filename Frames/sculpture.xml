@@ -1,0 +1,13 @@
+<frameset>
+  <predicate lemma="sculpture">
+    <roleset id="sculpture.01" name="sculpture">
+      <roles>
+        <role descr="sculptor, agent" f="PAG" n="0"/>
+        <role descr="sculpted into what, product" f="PRD" n="1"/>
+        <role descr="sculpted with what, material" f="VSP" n="2"/>
+        <role descr="sculpted for whom, beneficiary" f="GOL" n="3"/>
+        <role descr="price paid for sculpture, asset (e.g., for $100)" f="VSP" n="4"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

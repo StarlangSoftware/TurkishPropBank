@@ -1,0 +1,22 @@
+<frameset>
+  <predicate lemma="beef_up">
+    <roleset id="beef_up.01" name="make greater">
+      <roles>
+        <role descr="entity causing beefiness, agent" f="pag" n="0"/>
+        <role descr="thing enhanced" f="ppt" n="1"/>
+        <role descr="instrument" f="mnr" n="2"/>
+        <role descr="enhanced by how much, EXT or MNR" f="ext" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="beef">
+    <roleset id="beef.02" name="problem">
+      <roles>
+        <role descr="entity with a problem" f="pag" n="0"/>
+        <role descr="a problem with what/whom" f="ppt" n="1"/>
+        <role descr="subject matter of the problem; attributive" f="vsp" n="2"/>
+        <role descr="the problem itself" f="vsp" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

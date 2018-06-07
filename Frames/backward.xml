@@ -1,0 +1,16 @@
+<frameset>
+  <predicate lemma="backward">
+    <roleset id="backward.01" name="slow in progress, feeble-minded in some aspect">
+      <roles>
+        <role descr="entity that is slow on the uptake" f="pag" n="1"/>
+        <role descr="subject that arg1 is slow in, backward on" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="backward.02" name="directed or facing backward">
+      <roles>
+        <role descr="backward facing thing" f="ppt" n="1"/>
+        <role descr="backward from what -- correctly oriented point of comparison" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

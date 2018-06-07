@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="unclog">
+    <roleset id="unclog.01" name="remove an obstruction to a passage">
+      <roles>
+        <role descr="Agent" f="pag" n="0"/>
+        <role descr="Passage" f="gol" n="1"/>
+        <role descr="Substance previously blocking passage" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

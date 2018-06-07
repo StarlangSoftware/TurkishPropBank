@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="chink">
+    <roleset id="chink.01" name="fill in holes">
+      <roles>
+        <role descr="agent" f="pag" n="0"/>
+        <role descr="container" f="gol" n="1"/>
+        <role descr="subtance" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

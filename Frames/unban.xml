@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="unban">
+    <roleset id="unban.01" name="to undo a ban">
+      <roles>
+        <role descr="person, cause undoing ban" f="pag" n="0"/>
+        <role descr="action currently prohibited by ban, soon to be unbanned action" f="ppt" n="1"/>
+        <role descr="secondary agent, person unbanned from doing arg1 when separate" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

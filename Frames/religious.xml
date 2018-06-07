@@ -1,0 +1,15 @@
+<frameset>
+  <predicate lemma="religious">
+    <roleset id="religious.01" name="conforming to a religion">
+      <roles>
+        <role descr="entity conforming to a religion, adhering to rules" f="pag" n="0"/>
+      </roles>
+    </roleset>
+    <roleset id="religious.02" name="doing something with zealous consistency">
+      <roles>
+        <role descr="agent, doer" f="pag" n="0"/>
+        <role descr="thing done (or domain) with zealous consistency" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

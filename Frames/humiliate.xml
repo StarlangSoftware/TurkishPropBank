@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="humiliate">
+    <roleset id="humiliate.01" name="cause shame in, hurt the pride of">
+      <roles>
+        <role descr="Stimulus of humiliation" f="PAG" n="0"/>
+        <role descr="humiliated entity" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

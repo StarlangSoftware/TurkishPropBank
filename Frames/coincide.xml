@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="coincide">
+    <roleset id="coincide.01" name="occur at the same time">
+      <roles>
+        <role descr="first thing happening" f="pag" n="1"/>
+        <role descr="second thing, at the same time as what" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

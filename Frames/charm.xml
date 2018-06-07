@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="charm">
+    <roleset id="charm.01" name="to attract or delight">
+      <roles>
+        <role descr="charmer" f="pag" n="0"/>
+        <role descr="charmed thing(s) or person" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

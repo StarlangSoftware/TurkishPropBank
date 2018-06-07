@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="boast">
+    <roleset id="boast.01" name="be loudly proud of">
+      <roles>
+        <role descr="boaster" f="PAG" n="0"/>
+        <role descr="thing proud of" f="PPT" n="1"/>
+        <role descr="hearer" f="GOL" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

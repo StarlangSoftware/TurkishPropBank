@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="despair">
+    <roleset id="despair.01" name="to give up hope">
+      <roles>
+        <role descr="experiencer" f="PPT" n="0"/>
+        <role descr="entity despaired of" f="PAG" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

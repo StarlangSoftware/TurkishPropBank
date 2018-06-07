@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="entice">
+    <roleset id="entice.01" name="attract">
+      <roles>
+        <role descr="attractor" f="pag" n="0"/>
+        <role descr="thing attracted" f="ppt" n="1"/>
+        <role descr="thing attracted to, if separate from attractor" f="gol" n="2"/>
+        <role descr="instrument, if separate from attractor" f="mnr" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

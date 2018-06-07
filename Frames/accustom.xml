@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="accustom">
+    <roleset id="accustom.01" name="make used to">
+      <roles>
+        <role descr="cause or agent" f="pag" n="0"/>
+        <role descr="thing getting used to something" f="ppt" n="1"/>
+        <role descr="thing getting used to" f="GOL" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

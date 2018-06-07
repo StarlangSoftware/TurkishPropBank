@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="goosestep">
+    <roleset id="goosestep.01" name="goose step">
+      <roles>
+        <role descr="entity moving, goose-stepper" f="ppt" n="1"/>
+        <role descr="start point" f="dir" n="2"/>
+        <role descr="end point" f="loc" n="3"/>
+        <role descr="path" f="dir" n="4"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

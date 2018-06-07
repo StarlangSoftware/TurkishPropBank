@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="transfer">
+    <roleset id="transfer.01" name="send">
+      <roles>
+        <role descr="sender" f="PAG" n="0"/>
+        <role descr="sent" f="PPT" n="1"/>
+        <role descr="sent-to" f="GOL" n="2"/>
+        <role descr="sent-from" f="DIR" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

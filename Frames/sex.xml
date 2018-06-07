@@ -1,0 +1,23 @@
+<frameset>
+  <predicate lemma="sex">
+    <roleset id="sex.01" name="the act of sex">
+      <roles>
+        <role descr="first (or all when in one mention) partner" f="pag" n="0"/>
+        <role descr="second partner (when separate mention)" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="sex.03" name="determine the gender of">
+      <roles>
+        <role descr="Entity investigating gender" f="pag" n="0"/>
+        <role descr="Entity whose gender is being examined" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="sexy">
+    <roleset id="sexy.02" name="alluring, sexually">
+      <roles>
+        <role descr="sexy beast" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

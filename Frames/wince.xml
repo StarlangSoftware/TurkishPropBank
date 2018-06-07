@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="wince">
+    <roleset id="wince.01" name="to shrink or start involuntarily, as in pain or distress">
+      <roles>
+        <role descr="wincer" f="PPT" n="0"/>
+        <role descr="reason for wincing" f="PAG" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="misstate">
+    <roleset id="misstate.01" name="to state wrongly">
+      <roles>
+        <role descr="speaker, agent" f="PAG" n="0"/>
+        <role descr="entity misstated" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

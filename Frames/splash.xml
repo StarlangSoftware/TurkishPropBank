@@ -1,0 +1,31 @@
+<frameset>
+  <predicate lemma="splash">
+    <roleset id="splash.01" name="apply water">
+      <roles>
+        <role descr="splasher" f="pag" n="0"/>
+        <role descr="water" f="ppt" n="1"/>
+        <role descr="splashed" f="gol" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="splash.03" name="spend money (extravagantly)">
+      <roles>
+        <role descr="spender" f="pag" n="0"/>
+        <role descr="thing bought, money spent on" f="prp" n="1"/>
+        <role descr="seller" f="dir" n="2"/>
+        <role descr="money, price paid" f="ppt" n="3"/>
+        <role descr="benefactive" f="gol" n="4"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="splash_out">
+    <roleset id="splash_out.02" name="spend money on, splurge">
+      <roles>
+        <role descr="spender" f="pag" n="0"/>
+        <role descr="thing bought" f="ppt" n="1"/>
+        <role descr="seller" f="gol" n="2"/>
+        <role descr="price paid" f="vsp" n="3"/>
+        <role descr="benefactive" f="gol" n="4"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

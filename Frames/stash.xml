@@ -1,0 +1,19 @@
+<frameset>
+  <predicate lemma="stash">
+    <roleset id="stash.01" name="hide">
+      <roles>
+        <role descr="agent, stasher" f="PAG" n="0"/>
+        <role descr="thing stashed" f="PPT" n="1"/>
+        <role descr="location or position, or attribute" f="GOL" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="stash_away">
+    <roleset id="stash_away.02" name="hide without location">
+      <roles>
+        <role descr="hider" f="PAG" n="0"/>
+        <role descr="thing hidden" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

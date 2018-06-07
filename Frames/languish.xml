@@ -1,0 +1,16 @@
+<frameset>
+  <predicate lemma="languish">
+    <roleset id="languish.01" name="rest">
+      <roles>
+        <role descr="entity languishing" f="PPT" n="1"/>
+        <role descr="location or state" f="LOC" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="languish.02" name="crave">
+      <roles>
+        <role descr="craver" f="PAG" n="0"/>
+        <role descr="thing craved" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

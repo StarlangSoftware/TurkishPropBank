@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="preconceive">
+    <roleset id="preconceive.01" name="forming an early idea, conception of">
+      <roles>
+        <role descr="conceiver, thinker" f="pag" n="0"/>
+        <role descr="thought" f="ppt" n="1"/>
+        <role descr="attribute" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

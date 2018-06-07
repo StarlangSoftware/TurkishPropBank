@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="coach">
+    <roleset id="coach.01" name="lead an athletic team">
+      <roles>
+        <role descr="leader, coach" f="pag" n="0"/>
+        <role descr="team" f="gol" n="1"/>
+        <role descr="sport, endeavor, purpose" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

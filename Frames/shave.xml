@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="shave">
+    <roleset id="shave.01" name="to cut, cutting">
+      <roles>
+        <role descr="agent, cutter" f="PAG" n="0"/>
+        <role descr="thing or amount cut" f="PPT" n="1"/>
+        <role descr="source" f="DIR" n="2"/>
+        <role descr="instrument" f="MNR" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

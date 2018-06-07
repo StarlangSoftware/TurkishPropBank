@@ -1,0 +1,29 @@
+<frameset>
+  <predicate lemma="lessen">
+    <roleset id="lessen.01" name="make less">
+      <roles>
+        <role descr="cause, agent" f="pag" n="0"/>
+        <role descr="Logical subject, patient, thing falling" f="ppt" n="1"/>
+        <role descr="EXT, amount fallen" f="ext" n="2"/>
+        <role descr="Start point" f="dir" n="3"/>
+        <role descr="End point, end state of arg1" f="gol" n="4"/>
+        <role descr="Medium" f="loc" n="m"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="less">
+    <roleset id="less.02" name="not as much as">
+      <roles>
+        <role descr="thing that is less" f="pag" n="1"/>
+        <role descr="thing that is more" f="ppt" n="2"/>
+        <role descr="less of what" f="ppt" n="3"/>
+      </roles>
+    </roleset>
+    <roleset id="less.03" name="akin to &quot;not&quot;: i'm less than impressed!">
+      <roles>
+        <role descr="Topic" f="ppt" n="1"/>
+        <role descr="Comment that is NOT quite true of Arg1" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

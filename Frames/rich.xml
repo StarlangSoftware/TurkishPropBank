@@ -1,0 +1,16 @@
+<frameset>
+  <predicate lemma="rich">
+    <roleset id="rich.01" name="wealthy, abundant (in money or other), add value">
+      <roles>
+        <role descr="entity having wealth, abundance" f="gol" n="1"/>
+        <role descr="money, vitamins, other form of wealth" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="rich.02" name="sensorilly intense (as of color of flavor, etc)">
+      <roles>
+        <role descr="intense stimulus" f="ppt" n="1"/>
+        <role descr="modality, sensory domain in which arg0 is rich" f="vsp" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

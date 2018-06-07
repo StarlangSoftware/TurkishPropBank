@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="jihad">
+    <roleset id="jihad.01" name="holy war">
+      <roles>
+        <role descr="fighter, warmonger" f="pag" n="0"/>
+        <role descr="against, entity fought" f="gol" n="1"/>
+        <role descr="topic or cause of fight" f="cau" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

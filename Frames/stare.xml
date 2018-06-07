@@ -1,0 +1,18 @@
+<frameset>
+  <predicate lemma="stare">
+    <roleset id="stare.01" name="look intently, gazing fixedly">
+      <roles>
+        <role descr="looker" f="pag" n="0"/>
+        <role descr="looked at" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="stare_down">
+    <roleset id="stare_down.02" name="intimidate by staring">
+      <roles>
+        <role descr="intimidator" f="pag" n="0"/>
+        <role descr="intimidated" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

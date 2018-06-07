@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="dishonest">
+    <roleset id="dishonest.01" name="deceptive, fraudulent">
+      <roles>
+        <role descr="fraudulent entity" f="ppt" n="1"/>
+        <role descr="dishonest about what?" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

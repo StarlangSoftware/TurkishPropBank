@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="demineralize">
+    <roleset id="demineralize.01" name="(cause to) lose minerals">
+      <roles>
+        <role descr="cause of demineralization" f="pag" n="0"/>
+        <role descr="entity losing minerals" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

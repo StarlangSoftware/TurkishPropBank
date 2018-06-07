@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="exist">
+    <roleset id="exist.01" name="be, exists ('non-existent' has its own frame, fyi)">
+      <roles>
+        <role descr="thing existing" f="pag" n="1"/>
+        <role descr="secondary attribute of arg1" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

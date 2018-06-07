@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="irrelevant">
+    <roleset id="irrelevant.01" name="not related/significant to">
+      <roles>
+        <role descr="irrelevant thing" f="pag" n="1"/>
+        <role descr="what arg1 isn't related/significant to" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

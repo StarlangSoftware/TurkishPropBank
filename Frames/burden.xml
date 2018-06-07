@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="burden">
+    <roleset id="burden.01" name="put a load on someone/thing, the act of putting a load on someone (the act!!!)">
+      <roles>
+        <role descr="loader" f="PAG" n="0"/>
+        <role descr="carrier" f="GOL" n="1"/>
+        <role descr="load" f="PPT" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,25 @@
+<frameset>
+  <predicate lemma="flash">
+    <roleset id="flash.01" name="shine, show quickly, shine or show quickly">
+      <roles>
+        <role descr="shower, agent" f="pag" n="0"/>
+        <role descr="thing shining" f="ppt" n="1"/>
+        <role descr="location, such as screen" f="loc" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="flash.02" name="move quickly">
+      <roles>
+        <role descr="causer of motion, agent" f="pag" n="0"/>
+        <role descr="thing moving" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="flash_back">
+    <roleset id="flash_back.03" name="return in time">
+      <roles>
+        <role descr="entity returning" f="ppt" n="1"/>
+        <role descr="returning to" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

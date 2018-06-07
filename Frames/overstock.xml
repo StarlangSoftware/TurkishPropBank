@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="overstock">
+    <roleset id="overstock.01" name="stock again">
+      <roles>
+        <role descr="agent, overstocker" f="pag" n="0"/>
+        <role descr="theme, thing being stocked" f="ppt" n="1"/>
+        <role descr="destination (e.g. a shelf)" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

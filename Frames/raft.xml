@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="raft">
+    <roleset id="raft.01" name="raft">
+      <roles>
+        <role descr="agent, driver (transitive subject)" f="PAG" n="0"/>
+        <role descr="thing moved (intransitive subject, transitive object)" f="PPT" n="1"/>
+        <role descr="locations, or start point" f="LOC" n="2"/>
+        <role descr="destination" f="LOC" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

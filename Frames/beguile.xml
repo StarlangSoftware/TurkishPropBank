@@ -1,0 +1,25 @@
+<frameset>
+  <predicate lemma="beguile">
+    <roleset id="beguile.01" name="to amuse or charm">
+      <roles>
+        <role descr="causer of amusement" f="pag" n="0"/>
+        <role descr="amused entity" f="ppt" n="1"/>
+        <role descr="instrument" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="beguile.02" name="deprive, cheat someone out of something">
+      <roles>
+        <role descr="entity depriving" f="pag" n="0"/>
+        <role descr="thing taken by trickery" f="ppt" n="1"/>
+        <role descr="taken from who?" f="dir" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="beguile.03" name="deceive">
+      <roles>
+        <role descr="liar" f="pag" n="0"/>
+        <role descr="deceived" f="gol" n="1"/>
+        <role descr="subject, deceived about" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

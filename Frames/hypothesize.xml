@@ -1,0 +1,17 @@
+<frameset>
+  <predicate lemma="hypothesize">
+    <roleset id="hypothesize.01" name="make an educated guess">
+      <roles>
+        <role descr="guesser" f="PAG" n="0"/>
+        <role descr="hypothesis" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="hypothetical">
+    <roleset id="hypothetical.02" name="theoretical, suppositional">
+      <roles>
+        <role descr="theory, hypothesis" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

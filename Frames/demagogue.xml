@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="demagogue">
+    <roleset id="demagogue.01" name="behave as a demagogue, stirring up people's emotions to win them over on an issue">
+      <roles>
+        <role descr="person stirring up emotions" f="PAG" n="0"/>
+        <role descr="issue, thing being made emotionally charged" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

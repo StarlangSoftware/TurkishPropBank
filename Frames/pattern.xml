@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="pattern">
+    <roleset id="pattern.01" name="copy, as if following a pattern">
+      <roles>
+        <role descr="copier, agent" f="pag" n="0"/>
+        <role descr="copy" f="ppt" n="1"/>
+        <role descr="original" f="dir" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

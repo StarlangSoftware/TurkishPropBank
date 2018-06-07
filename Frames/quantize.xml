@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="quantize">
+    <roleset id="quantize.01" name="quantize">
+      <roles>
+        <role descr="quantizer(s), agent" f="pag" n="0"/>
+        <role descr="thing quantized, theme" f="ppt" n="1"/>
+        <role descr="value/amount of quantization" f="vsp" n="2"/>
+        <role descr="quantized into what, destination" f="gol" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

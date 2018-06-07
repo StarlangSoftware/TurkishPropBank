@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="quickstep">
+    <roleset id="quickstep.01" name="quickstep">
+      <roles>
+        <role descr="causer of quickstepping, agent (transitive clauses only)" f="PAG" n="0"/>
+        <role descr="quickstepper(s), theme (intransitive subject, transitive object)" f="PPT" n="1"/>
+        <role descr="location of quickstepping" f="LOC" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

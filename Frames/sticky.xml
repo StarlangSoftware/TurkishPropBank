@@ -1,0 +1,15 @@
+<frameset>
+  <predicate lemma="sticky">
+    <roleset id="sticky.01" name="gooey, adhesive">
+      <roles>
+        <role descr="destination of stickiness" f="gol" n="1"/>
+        <role descr="stickum" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="sticky.02" name="hazardous, sketchy">
+      <roles>
+        <role descr="hazardous thing/situation" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

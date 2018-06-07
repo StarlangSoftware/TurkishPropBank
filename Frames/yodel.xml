@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="yodel">
+    <roleset id="yodel.01" name="yodel">
+      <roles>
+        <role descr="yodeler" f="PAG" n="0"/>
+        <role descr="song" f="PPT" n="1"/>
+        <role descr="hearer" f="GOL" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

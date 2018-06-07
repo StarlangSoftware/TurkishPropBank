@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="byelect">
+    <roleset id="byelect.01" name="elect in a by-election (special election held between general elections), special election held between general elections">
+      <roles>
+        <role descr="Voters" f="pag" n="0"/>
+        <role descr="Candidate" f="ppt" n="1"/>
+        <role descr="Office or Position" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

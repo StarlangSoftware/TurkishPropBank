@@ -1,0 +1,18 @@
+<frameset>
+  <predicate lemma="differ">
+    <roleset id="differ.01" name="disagree, argue">
+      <roles>
+        <role descr="first arguer" f="pag" n="0"/>
+        <role descr="second arguer" f="ppt" n="1"/>
+        <role descr="topic" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="differ.02" name="be different, distinct, separate, unalike">
+      <roles>
+        <role descr="first thing that is different" f="pag" n="1"/>
+        <role descr="from what" f="ppt" n="2"/>
+        <role descr="domain in which args 1 and 2 are different" f="vsp" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="titrate">
+    <roleset id="titrate.01" name="measure the amount of a constituent in a solution">
+      <roles>
+        <role descr="Measurer (chemist, doctor)" f="pag" n="0"/>
+        <role descr="Chemical/Drugs" f="ppt" n="1"/>
+        <role descr="Starting point before titration" f="dir" n="2"/>
+        <role descr="Endpoint after titration" f="gol" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

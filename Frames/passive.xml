@@ -1,0 +1,15 @@
+<frameset>
+  <predicate lemma="passive">
+    <roleset id="passive.01" name="inactive, nonviolent">
+      <roles>
+        <role descr="Passive entity" f="pag" n="1"/>
+        <role descr="Target of passive nature: passive about who/what?" f="gol" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="passive.02" name="in the passive voice">
+      <roles>
+        <role descr="Verb, sentence, clause" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

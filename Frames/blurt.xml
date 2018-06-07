@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="blurt_out">
+    <roleset id="blurt_out.01" name="say suddenly and inelegantly">
+      <roles>
+        <role descr="speaker" f="PAG" n="0"/>
+        <role descr="utterance" f="PPT" n="1"/>
+        <role descr="hearer" f="GOL" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

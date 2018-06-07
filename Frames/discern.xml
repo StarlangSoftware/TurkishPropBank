@@ -1,0 +1,18 @@
+<frameset>
+  <predicate lemma="discern">
+    <roleset id="discern.01" name="to perceive">
+      <roles>
+        <role descr="perceiver" f="PPT" n="0"/>
+        <role descr="entity perceived" f="PAG" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="discernable">
+    <roleset id="discernable.02" name="be able to perceive">
+      <roles>
+        <role descr="perceiver" f="pag" n="0"/>
+        <role descr="entity able to be seen" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

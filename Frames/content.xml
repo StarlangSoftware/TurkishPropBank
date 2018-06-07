@@ -1,0 +1,17 @@
+<frameset>
+  <predicate lemma="content">
+    <roleset id="content.01" name="cause contentment; verb frame">
+      <roles>
+        <role descr="causer of contentment" f="pag" n="0"/>
+        <role descr="contented entity, us REC" f="ppt" n="1"/>
+        <role descr="with what, how, if in addition to arg0" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="content.02" name="be content; noun and adjective frame">
+      <roles>
+        <role descr="source of contentment" f="pag" n="0"/>
+        <role descr="contented entity, us REC" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

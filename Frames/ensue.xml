@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="ensue">
+    <roleset id="ensue.01" name="come about as a result of   some other action">
+      <roles>
+        <role descr="event" f="ppt" n="1"/>
+        <role descr="other action, cause" f="cau" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

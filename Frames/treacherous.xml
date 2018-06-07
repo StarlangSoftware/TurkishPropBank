@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="treacherous">
+    <roleset id="treacherous.01" name="dangerous and deceptive">
+      <roles>
+        <role descr="treacherous entity (may require concatenation)" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

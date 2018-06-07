@@ -1,0 +1,18 @@
+<frameset>
+  <predicate lemma="subtitle">
+    <roleset id="subtitle.01" name="provide translation">
+      <roles>
+        <role descr="translator (rare)" f="pag" n="0"/>
+        <role descr="movie, etc" f="ppt" n="1"/>
+        <role descr="target language" f="prd" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="subtitle.02" name="give a secondary title">
+      <roles>
+        <role descr="author (rare)" f="pag" n="0"/>
+        <role descr="magnum opus" f="ppt" n="1"/>
+        <role descr="secondary title" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

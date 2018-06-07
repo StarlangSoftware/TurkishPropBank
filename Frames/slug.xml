@@ -1,0 +1,34 @@
+<frameset>
+  <predicate lemma="slug">
+    <roleset id="slug.01" name="hit heavily">
+      <roles>
+        <role descr="hitter" f="pag" n="0"/>
+        <role descr="hit" f="ppt" n="1"/>
+        <role descr="hit with" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="slug.02" name="shoot">
+      <roles>
+        <role descr="shooter" f="pag" n="0"/>
+        <role descr="weapon" f="mnr" n="1"/>
+        <role descr="target" f="gol" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="slug.04" name="swallow in a single shot">
+      <roles>
+        <role descr="swallower" f="pag" n="0"/>
+        <role descr="thing swallowed" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="slug_out">
+    <roleset id="slug_out.03" name="(cause to) bear through blows">
+      <roles>
+        <role descr="first arguer" f="pag" n="0"/>
+        <role descr="second arguer" f="com" n="1"/>
+        <role descr="topic at issue" f="ppt" n="2"/>
+        <role descr="usually 'it'" f="vsp" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

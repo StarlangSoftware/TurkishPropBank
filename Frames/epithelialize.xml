@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="epithelialize">
+    <roleset id="epithelialize.01" name="process of becoming covered in epithelial cells, usually during wound healing">
+      <roles>
+        <role descr="thing becoming covered in epithelial cells" f="ppt" n="1"/>
+        <role descr="instrument, medication, aid in healing process" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

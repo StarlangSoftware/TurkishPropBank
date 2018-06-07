@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="implant">
+    <roleset id="implant.01" name="put in">
+      <roles>
+        <role descr="putter" f="PAG" n="0"/>
+        <role descr="thing implanted" f="PPT" n="1"/>
+        <role descr="implanted into" f="GOL" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

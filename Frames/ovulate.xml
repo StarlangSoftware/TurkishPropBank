@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="ovulate">
+    <roleset id="ovulate.01" name="produce and discharge eggs">
+      <roles>
+        <role descr="ovulator" f="pag" n="0"/>
+        <role descr="egg, thing ovulated" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

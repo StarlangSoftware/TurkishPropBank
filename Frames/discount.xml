@@ -1,0 +1,20 @@
+<frameset>
+  <predicate lemma="discount">
+    <roleset id="discount.01" name="reduce in price">
+      <roles>
+        <role descr="discounter" f="pag" n="0"/>
+        <role descr="commodity" f="ppt" n="1"/>
+        <role descr="EXT, amount of reduction" f="ext" n="2"/>
+        <role descr="start point" f="dir" n="3"/>
+        <role descr="end point" f="gol" n="4"/>
+      </roles>
+    </roleset>
+    <roleset id="discount.02" name="identify as unimportant">
+      <roles>
+        <role descr="identifier" f="pag" n="0"/>
+        <role descr="unimportant thing" f="ppt" n="1"/>
+        <role descr="secondary attribute" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

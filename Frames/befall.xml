@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="befall">
+    <roleset id="befall.01" name="to happen">
+      <roles>
+        <role descr="event" f="PPT" n="0"/>
+        <role descr="experiencer" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

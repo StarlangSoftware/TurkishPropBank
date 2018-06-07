@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="misroute">
+    <roleset id="misroute.01" name="to route incorrectly">
+      <roles>
+        <role descr="person assigning route" f="pag" n="0"/>
+        <role descr="entity being misrouted" f="ppt" n="1"/>
+        <role descr="incorrect destination" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

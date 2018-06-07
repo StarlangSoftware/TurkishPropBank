@@ -1,0 +1,17 @@
+<frameset>
+  <predicate lemma="pry">
+    <roleset id="pry.01" name="pull loose with some difficulty">
+      <roles>
+        <role descr="agent, pry-er" f="pag" n="0"/>
+        <role descr="thing pried" f="ppt" n="1"/>
+        <role descr="end state/attribute of arg1" f="prd" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="pry.02" name="look at, illicitly">
+      <roles>
+        <role descr="looker" f="pag" n="0"/>
+        <role descr="looked at" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,17 @@
+<frameset>
+  <predicate lemma="inaugurate">
+    <roleset id="inaugurate.01" name="swear into office">
+      <roles>
+        <role descr="agent (rare)" f="pag" n="0"/>
+        <role descr="new officer" f="ppt" n="1"/>
+        <role descr="office, role" f="prd" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="inaugurate.02" name="mark the beginning of">
+      <roles>
+        <role descr="marker" f="pag" n="0"/>
+        <role descr="thing beginning" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="overvalue">
+    <roleset id="overvalue.01" name="to assign too high a value to">
+      <roles>
+        <role descr="assigner of value, agent" f="PAG" n="0"/>
+        <role descr="entity overvalued" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

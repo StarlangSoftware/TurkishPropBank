@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="pall">
+    <roleset id="pall.01" name="become less interesting or attractive">
+      <roles>
+        <role descr="thing becoming less interesting" f="ppt" n="1"/>
+        <role descr="experiencer" f="vsp" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

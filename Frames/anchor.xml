@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="anchor">
+    <roleset id="anchor.01" name="to hold by or as if by an anchor or to form an anchor store">
+      <roles>
+        <role descr="causer of anchorment, agent" f="PAG" n="0"/>
+        <role descr="thing anchored" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="zing">
+    <roleset id="zing.01" name="zing">
+      <roles>
+        <role descr="Thing Zinging/Zinger" f="PPT" n="0"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

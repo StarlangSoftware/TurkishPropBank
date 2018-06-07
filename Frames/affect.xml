@@ -1,0 +1,41 @@
+<frameset>
+  <predicate lemma="affect">
+    <roleset id="affect.01" name="have an effect on, have an effect on">
+      <roles>
+        <role descr="thing affecting" f="pag" n="0">
+				</role>
+        <role descr="thing affected" f="ppt" n="1">
+				</role>
+        <role descr="instrument, effect had" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="affect.02" name="assume, take on">
+			
+			
+      <roles>
+        <role descr="agent, assumer" f="pag" n="0"/>
+        <role descr="characteristic" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+	
+  <predicate lemma="effect">
+    <roleset id="effect.03" name="bring into existence, bring about, enact">
+			
+      <roles>
+        <role descr="cause" f="pag" n="0"/>
+        <role descr="effect, usually a change" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+	
+  <predicate lemma="effective">
+    <roleset id="effective.04" name="cause an effect, successful in creating a desired effect">
+			
+      <roles>
+        <role descr="cause" f="pag" n="0"/>
+        <role descr="domain in which arg0 is effective; outcome effected" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

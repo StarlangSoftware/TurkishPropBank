@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="idle">
+    <roleset id="idle.01" name="to cause to be inactive or idle">
+      <roles>
+        <role descr="causer of inactivity" f="PAG" n="0"/>
+        <role descr="entity becoming idle" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

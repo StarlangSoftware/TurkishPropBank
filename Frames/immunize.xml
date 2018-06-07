@@ -1,0 +1,19 @@
+<frameset>
+  <predicate lemma="immunize">
+    <roleset id="immunize.01" name="guard against disease">
+      <roles>
+        <role descr="immunizer" f="pag" n="0"/>
+        <role descr="immunized" f="ppt" n="1"/>
+        <role descr="against what, disease" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="immune">
+    <roleset id="immune.02" name="not susceptible to">
+      <roles>
+        <role descr="entity who is immune" f="pag" n="1"/>
+        <role descr="to what" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

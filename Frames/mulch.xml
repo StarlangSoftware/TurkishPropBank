@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="mulch">
+    <roleset id="mulch.01" name="apply, add much to">
+      <roles>
+        <role descr="Gardener, agent adding mulch" f="pag" n="0"/>
+        <role descr="Garden/soil, entity receiving mulch" f="ppt" n="1"/>
+        <role descr="Mulch itself, type of mulch" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

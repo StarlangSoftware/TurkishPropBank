@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="fruitful">
+    <roleset id="fruitful.01" name="bear fruit, offspring">
+      <roles>
+        <role descr="fruit bearer" f="pag" n="1"/>
+        <role descr="fruit" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

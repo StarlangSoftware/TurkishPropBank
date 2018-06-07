@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="globetrot">
+    <roleset id="globetrot.01" name="mode of motion">
+      <roles>
+        <role descr="trotter" f="PPT" n="0"/>
+        <role descr="path" f="LOC" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="controversial">
+    <roleset id="controversial.01" name="arouse controversy">
+      <roles>
+        <role descr="Agent, cause of controversy" f="pag" n="0"/>
+        <role descr="topic, thing that is controversial" f="ppt" n="1"/>
+        <role descr="controversial to who?" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

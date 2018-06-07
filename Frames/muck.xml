@@ -1,0 +1,16 @@
+<frameset>
+  <predicate lemma="muck_up">
+    <roleset id="muck_up.01" name="mess up, ruin, make a mistake">
+      <roles>
+        <role descr="causer of the bad situation, person mucking things up" f="PAG" n="0"/>
+        <role descr="thing messed up, damaged" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="muck_up.02" name="clean out">
+      <roles>
+        <role descr="cleaner" f="PAG" n="0"/>
+        <role descr="thing cleaned" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

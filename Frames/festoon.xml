@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="festoon">
+    <roleset id="festoon.01" name="decorate">
+      <roles>
+        <role descr="decorator" f="PAG" n="0"/>
+        <role descr="thing decorated" f="GOL" n="1"/>
+        <role descr="decorations" f="PPT" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

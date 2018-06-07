@@ -1,0 +1,20 @@
+<frameset>
+  <predicate lemma="balance">
+    <roleset id="balance.01" name="establish a balance">
+      <roles>
+        <role descr="balancer, agent" f="pag" n="0"/>
+        <role descr="thing balanced" f="ppt" n="1"/>
+        <role descr="in comparison to" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="balance_out">
+    <roleset id="balance_out.02" name="balance completely over time">
+      <roles>
+        <role descr="balancer, agent doing balancing" f="pag" n="0"/>
+        <role descr="focus, first thing balanced" f="ppt" n="1"/>
+        <role descr="arg1 balances out with what?  Point of comparison when separate mention" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

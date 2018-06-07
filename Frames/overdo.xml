@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="overdo">
+    <roleset id="overdo.01" name="prepare to excess">
+      <roles>
+        <role descr="maker, preparer" f="PAG" n="0"/>
+        <role descr="thing prepared, done" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

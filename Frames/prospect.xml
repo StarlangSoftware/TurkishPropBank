@@ -1,0 +1,17 @@
+<frameset>
+  <predicate lemma="prospect">
+    <roleset id="prospect.01" name="search for minerals">
+      <roles>
+        <role descr="searcher" f="pag" n="0"/>
+        <role descr="thing searched for" f="ppt" n="1"/>
+        <role descr="area prospected" f="loc" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="prospect.02" name="expectation of">
+      <roles>
+        <role descr="entity with expectations" f="pag" n="0"/>
+        <role descr="thing expected" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

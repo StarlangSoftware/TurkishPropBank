@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="unconscionable">
+    <roleset id="unconscionable.01" name="enacted (as if) without a conscience">
+      <roles>
+        <role descr="entity without a conscience" f="ppt" n="0"/>
+        <role descr="unconscionable act" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

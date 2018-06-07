@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="pulpation">
+    <roleset id="pulpation.01" name="cause to be reduced to a pulp">
+      <roles>
+        <role descr="agent" f="pag" n="0"/>
+        <role descr="entity turning to pulp" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

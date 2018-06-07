@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="uppercut">
+    <roleset id="uppercut.01" name="an upward blow to opponent's chin">
+      <roles>
+        <role descr="pugilist" f="PAG" n="0"/>
+        <role descr="opponent" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

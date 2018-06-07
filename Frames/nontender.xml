@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="nontender">
+    <roleset id="nontender.01" name="not inclined toward feeling pain easily">
+      <roles>
+        <role descr="causer of pain" f="pag" n="0"/>
+        <role descr="entity not feeling pain" f="ppt" n="1"/>
+        <role descr="more specific body part, if in addition to arg1" f="vsp" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

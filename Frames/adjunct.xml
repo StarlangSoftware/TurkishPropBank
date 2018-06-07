@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="adjunct">
+    <roleset id="adjunct.01" name="being joined in a subordinate manner, acting as a subordinate associate">
+      <roles>
+        <role descr="subordinate entity, adjunct" f="ppt" n="1"/>
+        <role descr="superordinate entity" f="ppt" n="2"/>
+        <role descr="domain, role of arg1" f="vsp" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

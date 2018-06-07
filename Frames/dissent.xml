@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="dissent">
+    <roleset id="dissent.01" name="to disagree, diverging from popular opinion">
+      <roles>
+        <role descr="disagreer, agent" f="pag" n="0"/>
+        <role descr="disagreement, dissent from" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

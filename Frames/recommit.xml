@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="recommit">
+    <roleset id="recommit.01" name="commit again">
+      <roles>
+        <role descr="recommitter" f="PAG" n="0"/>
+        <role descr="committed" f="PPT" n="1"/>
+        <role descr="committed to" f="GOL" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,16 @@
+<frameset>
+  <predicate lemma="scant">
+    <roleset id="scant.01" name="cut short, skimp">
+      <roles>
+        <role descr="cause or skimper" f="PAG" n="0"/>
+        <role descr="thing skimped on" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="scant.02" name="spare in quality or quantity">
+      <roles>
+        <role descr="causer" f="PAG" n="0"/>
+        <role descr="thing skimped on" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

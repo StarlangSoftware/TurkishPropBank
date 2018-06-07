@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="sashay">
+    <roleset id="sashay.01" name="sashay">
+      <roles>
+        <role descr="entity sashaying" f="ppt" n="1"/>
+        <role descr="path" f="loc" n="2"/>
+        <role descr="start point" f="dir" n="3"/>
+        <role descr="end point" f="gol" n="4"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

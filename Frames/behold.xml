@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="behold">
+    <roleset id="behold.01" name="look attentively">
+      <roles>
+        <role descr="beholder" f="PPT" n="0"/>
+        <role descr="beheld" f="PAG" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

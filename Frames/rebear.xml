@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="rebear">
+    <roleset id="rebear.01" name="bear again (most often occurs with arg1 only to indicate spiritual awakening)">
+      <roles>
+        <role descr="mother" f="PAG" n="0"/>
+        <role descr="child" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

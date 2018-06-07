@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="perm">
+    <roleset id="perm.01" name="perm hair">
+      <roles>
+        <role descr="permer" f="pag" n="0"/>
+        <role descr="hair" f="ppt" n="1"/>
+        <role descr="end state" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

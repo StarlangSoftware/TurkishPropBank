@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="remain">
+    <roleset id="remain.01" name="be left behind">
+      <roles>
+        <role descr="Thing remaining" f="ppt" n="1"/>
+        <role descr="benefactive, entity who gets the remainder" f="gol" n="2"/>
+        <role descr="attribute of arg1" f="prd" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

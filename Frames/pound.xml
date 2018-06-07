@@ -1,0 +1,37 @@
+<frameset>
+  <predicate lemma="pound">
+    <roleset id="pound.02" name="hit hard and repeatedly">
+      <roles>
+        <role descr="agent, hitter" f="PAG" n="0"/>
+        <role descr="thing hit" f="PPT" n="1"/>
+        <role descr="instrument, thing hit by or with" f="MNR" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="pound.03" name="create a substance by pounding">
+      <roles>
+        <role descr="creator" f="PAG" n="0"/>
+        <role descr="thing pounded, raw material" f="VSP" n="1"/>
+        <role descr="end product" f="PRD" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="pound.04" name="move quickly but heavily">
+      <roles>
+        <role descr="entity in motion" f="PAG" n="0"/>
+        <role descr="path" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="pound.05" name="pulsating outwardly">
+      <roles>
+        <role descr="Entity pulsating" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="pound_out">
+    <roleset id="pound_out.01" name="extract, produce">
+      <roles>
+        <role descr="pounder, extractor" f="PAG" n="0"/>
+        <role descr="thing extracted" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

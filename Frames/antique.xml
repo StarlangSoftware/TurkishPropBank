@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="antique">
+    <roleset id="antique.01" name="shop specifically for antiques">
+      <roles>
+        <role descr="shopper" f="pag" n="0"/>
+        <role descr="thing sought" f="ppt" n="1"/>
+        <role descr="benefactive" f="gol" n="4"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

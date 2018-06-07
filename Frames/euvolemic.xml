@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="euvolemic">
+    <roleset id="euvolemic.01" name="having a normal volume of bodily fluids">
+      <roles>
+        <role descr="entity with a normal volume of fluids" f="pag" n="1"/>
+        <role descr="volume measurement" f="vsp" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

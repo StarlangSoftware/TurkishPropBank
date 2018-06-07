@@ -1,0 +1,29 @@
+<frameset>
+  <predicate lemma="strain">
+    <roleset id="strain.01" name="injure, put stress on, violent exertion">
+      <roles>
+        <role descr="agent, entity causing damage" f="pag" n="0"/>
+        <role descr="patient, entity experiencing hurt/damage" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="strain.02" name="separate solids from liquid">
+      <roles>
+        <role descr="separator, filter, agent" f="pag" n="0"/>
+        <role descr="solids, thing removed" f="ppt" n="1"/>
+        <role descr="liquid, source, removed-from" f="dir" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="strain.03" name="try hard">
+      <roles>
+        <role descr="Agent/Entity Trying" f="pag" n="0"/>
+        <role descr="thing tried" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="strain.04" name="adjectival: hurting">
+      <roles>
+        <role descr="thing hurting" f="ppt" n="1"/>
+        <role descr="for what" f="prp" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

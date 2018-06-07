@@ -1,0 +1,17 @@
+<frameset>
+  <predicate lemma="jealous">
+    <roleset id="jealous.01" name="fearful of losing something one already has">
+      <roles>
+        <role descr="jealous entity" f="pag" n="0"/>
+        <role descr="carefully guarded possession" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="jealous.02" name="wanting what someone else has">
+      <roles>
+        <role descr="jealous entity" f="pag" n="0"/>
+        <role descr="entity who has what arg1 wants" f="pag" n="1"/>
+        <role descr="what arg1 wants" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

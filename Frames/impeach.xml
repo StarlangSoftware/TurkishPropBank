@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="impeach">
+    <roleset id="impeach.01" name="try an elected official for   a crime, remove same">
+      <roles>
+        <role descr="impeacher" f="PAG" n="0"/>
+        <role descr="impeached" f="PPT" n="1"/>
+        <role descr="crime" f="PRD" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

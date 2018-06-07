@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="defile">
+    <roleset id="defile.01" name="corrupt or taint">
+      <roles>
+        <role descr="cause/source of defilement" f="pag" n="0"/>
+        <role descr="thing becoming defiled" f="ppt" n="1"/>
+        <role descr="instrument if separate from ARG 0" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,29 @@
+<frameset>
+  <predicate lemma="criminalize">
+    <roleset id="criminalize.01" name="make into a crime">
+      <roles>
+        <role descr="agent, legislative body" f="pag" n="0"/>
+        <role descr="crime" f="ppt" n="1"/>
+        <role descr="criminal" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="crime">
+    <roleset id="crime.02" name="a violent or evil act">
+      <roles>
+        <role descr="criminal" f="pag" n="0"/>
+        <role descr="act" f="ppt" n="1"/>
+        <role descr="crime against, (anti)benefactive" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="criminal">
+    <roleset id="criminal.03" name="characterized by crime (as a crime, or as capable of committing crime)">
+      <roles>
+        <role descr="agent, legislative body" f="pag" n="0"/>
+        <role descr="crime" f="ppt" n="1"/>
+        <role descr="criminal" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

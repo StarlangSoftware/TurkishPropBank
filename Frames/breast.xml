@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="breast">
+    <roleset id="breast.01" name="face, move up against, move abreast another entity">
+      <roles>
+        <role descr="Focus, entity in motion" f="ppt" n="1"/>
+        <role descr="Entity arg1 moves abreast of" f="loc" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,21 @@
+<frameset>
+  <predicate lemma="sum_up">
+    <roleset id="sum_up.01" name="summarize">
+      <roles>
+        <role descr="summarizer" f="pag" n="0"/>
+        <role descr="thing summarized" f="ppt" n="1"/>
+        <role descr="as, if syntactically neat" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="sum">
+    <roleset id="sum.02" name="combine, add, cummulate">
+      <roles>
+        <role descr="agent" f="pag" n="0"/>
+        <role descr="first thing added or all things" f="ppt" n="1"/>
+        <role descr="combined with" f="ppt" n="2"/>
+        <role descr="cummulative result" f="prd" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

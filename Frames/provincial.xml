@@ -1,0 +1,14 @@
+<frameset>
+  <predicate lemma="provincial">
+    <roleset id="provincial.01" name="relating to a province">
+      <roles>
+        <role descr="provincial entity" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="provincial.02" name="unsophisticated">
+      <roles>
+        <role descr="unsoffisticated entity" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

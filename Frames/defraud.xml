@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="defraud">
+    <roleset id="defraud.01" name="to take something from by fraud">
+      <roles>
+        <role descr="thief, fraud, agent" f="pag" n="0"/>
+        <role descr="entity defrauded" f="ppt" n="1"/>
+        <role descr="contract" f="dir" n="2"/>
+        <role descr="amount" f="ext" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

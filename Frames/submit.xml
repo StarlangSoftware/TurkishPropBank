@@ -1,0 +1,20 @@
+<frameset>
+  <predicate lemma="submit">
+    <roleset id="submit.01" name="turn in">
+      <roles>
+        
+        <role descr="giver" f="pag" n="0"/>
+        <role descr="given" f="ppt" n="1"/>
+        <role descr="given-to" f="gol" n="2"/>
+        <role descr="purpose" f="prp" n="3"/>
+      </roles>
+    </roleset>
+    <roleset id="submit.02" name="give in, be submissive, subservient, meek">
+      <roles>
+        <role descr="submissive entity" f="pag" n="0"/>
+        <role descr="given: explicit mention of will, or similar" f="ppt" n="1"/>
+        <role descr="dominant entity submitted to" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

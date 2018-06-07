@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="pique">
+    <roleset id="pique.01" name="spark interest">
+      <roles>
+        <role descr="causative agent" f="pag" n="0"/>
+        <role descr="thing piqued (usually interest)" f="ppt" n="1"/>
+        <role descr="causative instrument (if agent already present)" f="cau" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

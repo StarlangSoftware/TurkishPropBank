@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="debulk">
+    <roleset id="debulk.01" name="remove as much of a malignant tumor as possible">
+      <roles>
+        <role descr="doctor" f="pag" n="0"/>
+        <role descr="tumor" f="ppt" n="1"/>
+        <role descr="patient/benefactive" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

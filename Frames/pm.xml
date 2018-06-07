@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="pm">
+    <roleset id="pm.01" name="send a private message on social media">
+      <roles>
+        <role descr="message sender" f="pag" n="0"/>
+        <role descr="the message" f="ppt" n="1"/>
+        <role descr="message recipient" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

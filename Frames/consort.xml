@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="consort">
+    <roleset id="consort.01" name="to associate, be in agreement">
+      <roles>
+        <role descr="person whose behavior we care about" f="PAG" n="0"/>
+        <role descr="entity consorted with" f="COM" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

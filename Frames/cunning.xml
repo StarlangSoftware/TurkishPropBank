@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="cunning">
+    <roleset id="cunning.01" name="crafty, clever">
+      <roles>
+        <role descr="clever one" f="pag" n="1"/>
+        <role descr="area of cleverness" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

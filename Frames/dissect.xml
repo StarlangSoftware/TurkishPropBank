@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="dissect">
+    <roleset id="dissect.01" name="to examine or analyze, to take apart for examination or analysis">
+      <roles>
+        <role descr="mad scientist, agent" f="PAG" n="0"/>
+        <role descr="entity dissected" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

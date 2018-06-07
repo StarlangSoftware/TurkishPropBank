@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="globalize">
+    <roleset id="globalize.01" name="make global, bring to the whole globe">
+      <roles>
+        <role descr="agent" f="PAG" n="0"/>
+        <role descr="entity made global" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

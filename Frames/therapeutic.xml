@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="therapeutic">
+    <roleset id="therapeutic.01" name="offering relief via therapy">
+      <roles>
+        <role descr="therapeutic thing" f="pag" n="1"/>
+        <role descr="patient/condition teated" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

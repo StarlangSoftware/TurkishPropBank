@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="loyal">
+    <roleset id="loyal.01" name="loyal">
+      <roles>
+        <role descr="entity that is loyal" f="PPT" n="1"/>
+        <role descr="recipient of loyalty" f="GOL" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

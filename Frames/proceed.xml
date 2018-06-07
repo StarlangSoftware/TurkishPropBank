@@ -1,0 +1,19 @@
+<frameset>
+  <predicate lemma="proceed">
+    <roleset id="proceed.01" name="keep on, continuing on">
+      <roles>
+        <role descr="causer of continuing event" f="PAG" n="0"/>
+        <role descr="thing continuing" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="proceeding">
+    <roleset id="proceeding.02" name="legal hearing">
+      <roles>
+        <role descr="entity having a hearing" f="pag" n="1"/>
+        <role descr="subject matter of the hearing" f="ppt" n="2"/>
+        <role descr="court/officiant appeared before" f="loc" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,25 @@
+<frameset>
+  <predicate lemma="subject">
+    <roleset id="subject.01" name="cause, required to undergo, contingent upon some procedure, experience">
+      <roles>
+        <role descr="causer" f="pag" n="0"/>
+        <role descr="induced experiencer" f="ppt" n="1"/>
+        <role descr="procedure" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="subject.02" name="prone, likely to be affected by">
+      <roles>
+        <role descr="likely undergoer" f="ppt" n="1"/>
+        <role descr="thing often undergone" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="subjective">
+    <roleset id="subjective.03" name="particular to person experience">
+      <roles>
+        <role descr="subjective entity" f="ppt" n="1"/>
+        <role descr="perceiver" f="pag" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

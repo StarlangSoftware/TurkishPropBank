@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="flit">
+    <roleset id="flit.01" name="flit">
+      <roles>
+        <role descr="entity moving, flitter" f="PPT" n="1"/>
+        <role descr="path" f="loc" n="2"/>
+        <role descr="start point" f="dir" n="3"/>
+        <role descr="end point" f="gol" n="4"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

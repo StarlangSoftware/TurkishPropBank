@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="protrude">
+    <roleset id="protrude.01" name="stick out">
+      <roles>
+        <role descr="thing protruding" f="PPT" n="1"/>
+        <role descr="source, sticking out of what" f="LOC" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

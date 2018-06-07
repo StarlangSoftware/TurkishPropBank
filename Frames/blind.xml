@@ -1,0 +1,18 @@
+<frameset>
+  <predicate lemma="blind">
+    <roleset id="blind.01" name="cause to be unable to see">
+      <roles>
+        <role descr="cause of blindness" f="pag" n="0"/>
+        <role descr="blind one" f="ppt" n="1"/>
+        <role descr="blind to what? specific thing arg1 cannot see" f="GOL" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="blind.02" name="be unable to see">
+      <roles>
+        <role descr="cause of blindness" f="pag" n="0"/>
+        <role descr="blind one" f="ppt" n="1"/>
+        <role descr="blind to what? specific thing arg1 cannot see" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

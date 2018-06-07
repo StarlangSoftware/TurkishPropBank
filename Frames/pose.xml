@@ -1,0 +1,17 @@
+<frameset>
+  <predicate lemma="pose">
+    <roleset id="pose.01" name="adopt an attitude, role">
+      <roles>
+        <role descr="player" f="pag" n="0"/>
+        <role descr="role" f="prd" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="pose.02" name="pose a question, problem, etc">
+      <roles>
+        <role descr="poser" f="pag" n="0"/>
+        <role descr="question, etc" f="ppt" n="1"/>
+        <role descr="hearer" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

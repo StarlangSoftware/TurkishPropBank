@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="reenforce">
+    <roleset id="reenforce.01" name="to strengthen">
+      <roles>
+        <role descr="strengthener" f="pag" n="0"/>
+        <role descr="thing reinforced" f="ppt" n="1"/>
+        <role descr="instrument" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

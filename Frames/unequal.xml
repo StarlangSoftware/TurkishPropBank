@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="unequal">
+    <roleset id="unequal.01" name="not the same as, unbalanced">
+      <roles>
+        <role descr="one side of the equation" f="ppt" n="1"/>
+        <role descr="other side of the equation" f="ppt" n="2"/>
+        <role descr="attribute, quality in which 2 things are not equal" f="vsp" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

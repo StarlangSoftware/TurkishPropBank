@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="foxtrot">
+    <roleset id="foxtrot.01" name="tango">
+      <roles>
+        <role descr="Dancer (or dancers in one constituent)" f="PPT" n="0"/>
+        <role descr="Entity made to dance, move (feet, partner, etc)" f="LOC" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

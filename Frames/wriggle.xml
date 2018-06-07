@@ -1,0 +1,16 @@
+<frameset>
+  <predicate lemma="wriggle">
+    <roleset id="wriggle.01" name="move part of the body slightly">
+      <roles>
+        <role descr="cause of motion, agent" f="PAG" n="0"/>
+        <role descr="body part" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="wriggle.02" name="move with wriggling motion">
+      <roles>
+        <role descr="mover" f="PAG" n="0"/>
+        <role descr="path" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

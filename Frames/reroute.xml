@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="reroute">
+    <roleset id="reroute.01" name="route again">
+      <roles>
+        <role descr="router" f="pag" n="0"/>
+        <role descr="thing routed" f="ppt" n="1"/>
+        <role descr="new destination" f="loc" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

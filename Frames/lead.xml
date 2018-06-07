@@ -1,0 +1,45 @@
+<frameset>
+  <predicate lemma="lead">
+    <roleset id="lead.01" name="directed motion, be ahead of">
+      <roles>
+        <role descr="leader" f="pag" n="0"/>
+        <role descr="in the lead of" f="ppt" n="1"/>
+        <role descr="extent" f="ext" n="2"/>
+        <role descr="start point" f="dir" n="3"/>
+        <role descr="end point" f="gol" n="4"/>
+      </roles>
+    </roleset>
+    <roleset id="lead.02" name="act as project leader, be the leader">
+      <roles>
+        <role descr="leader" f="pag" n="0"/>
+        <role descr="entity lead" f="ppt" n="1"/>
+        <role descr="proposition" f="prd" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="lead.03" name="cause a result">
+      <roles>
+        <role descr="factors" f="pag" n="0"/>
+        <role descr="led entity" f="ppt" n="1"/>
+        <role descr="result, action or attribute on arg1" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="lead_off">
+    <roleset id="lead_off.04" name="begin">
+      <roles>
+        <role descr="creator, beginner, Agent" f="pag" n="0"/>
+        <role descr="Theme(-Creation)" f="ppt" n="1"/>
+        <role descr="Instrument" f="mnr" n="2"/>
+        <role descr="secondary predication of arg1" f="prd" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="lead_up">
+    <roleset id="lead_up.05" name="precede, spatially or temporally, terminating at a determined point">
+      <roles>
+        <role descr="thing leading up" f="ppt" n="1"/>
+        <role descr="terminus" f="cau" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

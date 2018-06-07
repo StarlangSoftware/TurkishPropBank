@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="reactivate">
+    <roleset id="reactivate.01" name="make active again">
+      <roles>
+        <role descr="reactivator" f="PAG" n="0"/>
+        <role descr="thing now active" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

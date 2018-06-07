@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="hyperventilate">
+    <roleset id="hyperventilate.01" name="breathe too quickly">
+      <roles>
+        <role descr="breather" f="loc" n="0"/>
+        <role descr="air, we hope" f="ppt" n="1"/>
+        <role descr="direction" f="dir" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

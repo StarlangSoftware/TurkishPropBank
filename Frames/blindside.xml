@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="blindside">
+    <roleset id="blindside.01" name="to take by surprise">
+      <roles>
+        <role descr="agent/cause of surprise" f="pag" n="0"/>
+        <role descr="surprised entity" f="ppt" n="1"/>
+        <role descr="surprised with what?" f="vsp" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

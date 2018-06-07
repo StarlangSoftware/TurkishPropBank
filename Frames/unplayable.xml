@@ -1,0 +1,25 @@
+<frameset>
+  <predicate lemma="unplayable">
+    <roleset id="unplayable.01" name="game play: not able to be played">
+      <roles>
+        <role descr="Player" f="pag" n="0"/>
+        <role descr="Game that can't be played" f="ppt" n="1"/>
+        <role descr="instrument used to play game (or not)" f="mnr" n="2"/>
+        <role descr="opponent" f="com" n="3"/>
+      </roles>
+    </roleset>
+    <roleset id="unplayable.02" name="not able to be performed, musically">
+      <roles>
+        <role descr="musician" f="pag" n="0"/>
+        <role descr="piece performed" f="ppt" n="1"/>
+        <role descr="instrument" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="unplayable.03" name="role not able to be played, theatrically">
+      <roles>
+        <role descr="Actor" f="pag" n="0"/>
+        <role descr="role" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

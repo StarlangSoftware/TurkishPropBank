@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="upstart">
+    <roleset id="upstart.01" name="rise, start suddenly">
+      <roles>
+        <role descr="sudden starter" f="pag" n="0"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

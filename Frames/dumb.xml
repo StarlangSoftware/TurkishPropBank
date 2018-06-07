@@ -1,0 +1,14 @@
+<frameset>
+  <predicate lemma="dumb">
+    <roleset id="dumb.01" name="not smart or wise">
+      <roles>
+        <role descr="thing described as dumb (may require concatenation- see exs)" f="pag" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="dumb.02" name="unable to speak">
+      <roles>
+        <role descr="entity unable to speak" f="pag" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

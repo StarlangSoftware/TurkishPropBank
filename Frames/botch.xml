@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="botch">
+    <roleset id="botch.01" name="to make a mess of">
+      <roles>
+        <role descr="inept individual, agent" f="PAG" n="0"/>
+        <role descr="entity botched" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

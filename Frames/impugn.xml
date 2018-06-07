@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="impugn">
+    <roleset id="impugn.01" name="to attack or challenge in argument">
+      <roles>
+        <role descr="attacker, slanderer, agent" f="PAG" n="0"/>
+        <role descr="entity impugned" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

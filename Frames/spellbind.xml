@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="spellbind">
+    <roleset id="spellbind.01" name="hold as if by a spell">
+      <roles>
+        <role descr="Stimulus of fascination" f="pag" n="0"/>
+        <role descr="spellbound entity" f="ppt" n="1"/>
+        <role descr="instrument, if separate from arg0" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

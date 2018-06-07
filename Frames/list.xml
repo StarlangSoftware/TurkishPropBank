@@ -1,0 +1,23 @@
+<frameset>
+  <predicate lemma="list">
+    <roleset id="list.01" name="enumerate">
+      <roles>
+        <role descr="lister" f="pag" n="0"/>
+        <role descr="item" f="ppt" n="1"/>
+        <role descr="list" f="gol" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="list.02" name="give a price">
+      <roles>
+        <role descr="pricer" f="pag" n="0"/>
+        <role descr="item" f="ppt" n="1"/>
+        <role descr="price" f="vsp" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="list.03" name="lean, be at an angle">
+      <roles>
+        <role descr="thing at an angle" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="incise">
+    <roleset id="incise.01" name="cut, carve">
+      <roles>
+        <role descr="carver" f="PAG" n="0"/>
+        <role descr="surface carved" f="GOL" n="1"/>
+        <role descr="thing created on the surface" f="PPT" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,27 @@
+<frameset>
+  <predicate lemma="accord">
+    <roleset id="accord.01" name="to give">
+      <roles>
+        <role descr="giver" f="pag" n="0"/>
+        <role descr="gift" f="ppt" n="1"/>
+        <role descr="given-to" f="gol" n="2"/>
+      </roles>
+    
+    </roleset>
+    <roleset id="accord.02" name="follow a procedure; be in line with expectations or other facts">
+      <roles>
+        <role descr="follower of procedure" f="pag" n="0"/>
+        <role descr="action done" f="ppt" n="1"/>
+        <role descr="regulations, procedure, or expectations accorded with" f="com" n="2"/>
+      </roles>
+    
+    </roleset>
+    <roleset id="accord.03" name="create or agree to a pact">
+      <roles>
+        <role descr="first party in agreement, both parties when mentioned together" f="pag" n="0"/>
+        <role descr="subject of promise, subject/topic pact involves" f="ppt" n="1"/>
+        <role descr="second party in agreement" f="com" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="lambaste">
+    <roleset id="lambaste.01" name="to give a thrashing to">
+      <roles>
+        <role descr="angry entity, agent" f="pag" n="0"/>
+        <role descr="entity lambasted" f="ppt" n="1"/>
+        <role descr="entity lambasted for" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

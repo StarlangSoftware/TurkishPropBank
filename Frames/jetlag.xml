@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="jetlag">
+    <roleset id="jetlag.01" name="fatigue from changing time zones quickly">
+      <roles>
+        <role descr="causer of jet lag (often a trip)" f="pag" n="0"/>
+        <role descr="sufferer" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="elaborate">
+    <roleset id="elaborate.01" name="go into detail">
+      <roles>
+        <role descr="speaker" f="PAG" n="0"/>
+        <role descr="subject gone into detail on" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

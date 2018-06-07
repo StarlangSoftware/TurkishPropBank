@@ -1,0 +1,18 @@
+<frameset>
+  <predicate lemma="nt">
+    <roleset id="nt.01" name="not tested">
+      <roles>
+        <role descr="examiner" f="pag" n="0"/>
+        <role descr="examined" f="loc" n="1"/>
+        <role descr="in search of, for what" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="nt.02" name="nontender">
+      <roles>
+        <role descr="causer of pain" f="pag" n="0"/>
+        <role descr="nontender entity" f="ppt" n="1"/>
+        <role descr="more specific body part, if in addition to arg1" f="vsp" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

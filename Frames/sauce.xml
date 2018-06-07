@@ -1,0 +1,17 @@
+<frameset>
+  <predicate lemma="sauce">
+    <roleset id="sauce.01" name="add zest to">
+      <roles>
+        <role descr="Chef" f="PAG" n="0"/>
+        <role descr="Base food" f="GOL" n="1"/>
+        <role descr="Sauce or topping" f="PPT" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="sauce.02" name="be saucy! (sassy)">
+      <roles>
+        <role descr="Impudent one" f="PAG" n="0"/>
+        <role descr="recipient of impudence" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

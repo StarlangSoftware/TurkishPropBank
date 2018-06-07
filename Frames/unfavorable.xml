@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="unfavorable">
+    <roleset id="unfavorable.01" name="choosen as less desirable">
+      <roles>
+        <role descr="entity bestowing favor" f="pag" n="0"/>
+        <role descr="entity not receiving favor" f="ppt" n="1"/>
+        <role descr="compared to what" f="gol" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

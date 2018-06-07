@@ -1,0 +1,53 @@
+<frameset>
+  <predicate lemma="loosen">
+    <roleset id="loosen.01" name="(cause to) become loose">
+      <roles>
+        <role descr="causer of loosening" f="PAG" n="0"/>
+        <role descr="thing becoming loose" f="PPT" n="1"/>
+        <role descr="instrument, if separate from arg0" f="MNR" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="loosen_up">
+    <roleset id="loosen_up.02" name="make loose">
+      <roles>
+        <role descr="causer of loosening" f="PAG" n="0"/>
+        <role descr="thing becoming loose" f="PPT" n="1"/>
+        <role descr="instrument, if separate from arg0" f="MNR" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="loose">
+    <roleset id="loose.03" name="free, on the lamb">
+      <roles>
+        <role descr="free entity" f="ppt" n="1"/>
+        <role descr="source" f="dir" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="loose.04" name="not tight fitting or compacted">
+      <roles>
+        <role descr="causer of looseness" f="pag" n="0"/>
+        <role descr="non-compact substance (may be abstract)" f="ppt" n="1"/>
+        <role descr="instrument of loosening, if in addition to arg0" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="loose.05" name="free; release from captivity, particularly with intent to harm another">
+      <roles>
+        <role descr="releaser" f="PAG" n="0"/>
+        <role descr="thing released" f="PPT" n="1"/>
+        <role descr="released upon; maleficiary" f="GOL" n="2"/>
+      </roles>
+            <example name="Evil" src="on" type="">
+                <text>
+                    I have been loathe to believe that any nation, even our present enemies,
+                    could or would be willing *PRO*-2 to loose upon mankind such terrible and
+                    inhumane weapons.
+                </text>
+                <arg n="0">*PRO*-2</arg>
+                <rel>loose</rel>
+                <arg n="2">upon mankind</arg>
+                <arg n="1">such terrible and inhumane weapons</arg>
+            </example>
+    </roleset>
+  </predicate>
+</frameset>

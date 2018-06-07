@@ -1,0 +1,21 @@
+<frameset>
+  <predicate lemma="price">
+    <roleset id="price.01" name="assign/identify the price of, cf cost">
+      <roles>
+        <role descr="seller, pricer" f="pag" n="0"/>
+        <role descr="commodity" f="ppt" n="1"/>
+        <role descr="price" f="vsp" n="2"/>
+        <role descr="potential buyer" f="gol" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="price_out">
+    <roleset id="price_out.02" name="price_out: assign/identify prices for">
+      <roles>
+        <role descr="agent, pricer" f="pag" n="0"/>
+        <role descr="commodity" f="ppt" n="1"/>
+        <role descr="price" f="vsp" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

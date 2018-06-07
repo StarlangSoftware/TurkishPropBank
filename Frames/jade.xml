@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="jade">
+    <roleset id="jade.01" name="(make) become tired, weary of something">
+      <roles>
+        <role descr="causer of jadedness" f="PAG" n="0"/>
+        <role descr="jaded entity" f="PPT" n="1"/>
+        <role descr="Instrument or Manner if separate from arg 0" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

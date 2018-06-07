@@ -1,0 +1,17 @@
+<frameset>
+  <predicate lemma="dunk">
+    <roleset id="dunk.01" name="briefly immerse in a liquid">
+      <roles>
+        <role descr="dunker" f="pag" n="0"/>
+        <role descr="thing dunked" f="ppt" n="1"/>
+        <role descr="destination (dunked in)" f="gol" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="dunk.02" name="make a dunk shot in basketball">
+      <roles>
+        <role descr="basketball player" f="pag" n="0"/>
+        <role descr="ball" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

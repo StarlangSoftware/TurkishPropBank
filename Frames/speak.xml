@@ -1,0 +1,41 @@
+<frameset>
+  <predicate lemma="speak">
+    <roleset id="speak.01" name="speak, lecturing, talking">
+      <roles>
+        <role descr="talker" f="pag" n="0"/>
+        <role descr="subject" f="ppt" n="1"/>
+        <role descr="hearer" f="gol" n="2"/>
+        <role descr="language" f="ppt" n="3"/>
+      </roles>
+    </roleset>
+    <roleset id="speak.04" name="speak_to: give evidence of or comments on; address an issue">
+      <roles>
+        <role descr="commenter" f="pag" n="0"/>
+        <role descr="commented on, issue addressed" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="speak_up">
+    <roleset id="speak_up.02" name="speak up: make yourself heard">
+      <roles>
+        <role descr="speaker" f="pag" n="0"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="speak_out">
+    <roleset id="speak_out.03" name="speak out: make yourself heard">
+      <roles>
+        <role descr="speaker" f="pag" n="0"/>
+        <role descr="topic" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="speak_for">
+    <roleset id="speak_for.05" name="claim">
+      <roles>
+        <role descr="claimer" f="pag" n="0"/>
+        <role descr="thing claimed" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

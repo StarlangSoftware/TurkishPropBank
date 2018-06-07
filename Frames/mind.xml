@@ -1,0 +1,34 @@
+<frameset>
+  <predicate lemma="mind">
+    <roleset id="mind.01" name="be bothered by">
+      <roles>
+        <role descr="entity being bothered" f="ppt" n="0"/>
+        <role descr="bothered by" f="cau" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="mind.02" name="take care of, tend to">
+      <roles>
+        <role descr="caregiver" f="pag" n="0"/>
+        <role descr="patient" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="mind.03" name="make a note of, watch yourself!">
+      <roles>
+        <role descr="noter" f="pag" n="0"/>
+        <role descr="yourself" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="mind.04" name="intend">
+      <roles>
+        <role descr="intender" f="pag" n="0"/>
+        <role descr="intention" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="mind.05" name="opinion">
+      <roles>
+        <role descr="thinker" f="pag" n="0"/>
+        <role descr="thought" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

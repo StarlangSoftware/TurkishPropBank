@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="disseminate">
+    <roleset id="disseminate.01" name="to scatter widely, spread">
+      <roles>
+        <role descr="scatterer, agent" f="PAG" n="0"/>
+        <role descr="thing spread" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="rivet">
+    <roleset id="rivet.01" name="to focus or hold one's attention">
+      <roles>
+        <role descr="cause of focussing" f="pag" n="0"/>
+        <role descr="entity riveted" f="ppt" n="1"/>
+        <role descr="target of attention" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

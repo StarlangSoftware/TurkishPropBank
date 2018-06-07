@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="graphic">
+    <roleset id="graphic.01" name="visually explicit">
+      <roles>
+        <role descr="graphic entity" f="pag" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

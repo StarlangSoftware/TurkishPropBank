@@ -1,0 +1,22 @@
+<frameset>
+  <predicate lemma="protect">
+    <roleset id="protect.01" name="shield from danger">
+      <roles>
+        <role descr="protector" f="pag" n="0"/>
+        <role descr="protected" f="ppt" n="1"/>
+        <role descr="danger" f="ppt" n="2"/>
+        <role descr="instrument" f="mnr" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="protective">
+    <roleset id="protective.02" name="acting defensively for the safety/preservation of something dear">
+      <roles>
+        <role descr="protector" f="pag" n="0"/>
+        <role descr="protected" f="ppt" n="1"/>
+        <role descr="danger" f="ppt" n="2"/>
+        <role descr="instrument" f="mnr" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

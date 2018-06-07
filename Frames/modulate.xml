@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="modulate">
+    <roleset id="modulate.01" name="change, modify">
+      <roles>
+        <role descr="composer" f="pag" n="0"/>
+        <role descr="music" f="ppt" n="1"/>
+        <role descr="from" f="dir" n="2"/>
+        <role descr="to" f="prd" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="implode">
+    <roleset id="implode.01" name="collapse inward, violently">
+      <roles>
+        <role descr="cause of implosion" f="pag" n="0"/>
+        <role descr="thing imploding" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

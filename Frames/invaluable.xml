@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="invaluable">
+    <roleset id="invaluable.01" name="having incalculable worth">
+      <roles>
+        <role descr="invaluable thing" f="ppt" n="1"/>
+        <role descr="to whom it is invaluable" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

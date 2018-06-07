@@ -1,0 +1,19 @@
+<frameset>
+  <predicate lemma="humidify">
+    <roleset id="humidify.01" name="cause to be humid">
+      <roles>
+        <role descr="causer of humidity" f="pag" n="0"/>
+        <role descr="humid entity" f="ppt" n="1"/>
+        <role descr="instrument or method" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="humid">
+    <roleset id="humid.02" name="having a relatively high water content in the air">
+      <roles>
+        <role descr="causer of humidity" f="pag" n="0"/>
+        <role descr="humid entity" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

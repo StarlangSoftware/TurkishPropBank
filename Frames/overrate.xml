@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="overrate">
+    <roleset id="overrate.01" name="rate higher than worth">
+      <roles>
+        <role descr="entity establishing value" f="pag" n="0"/>
+        <role descr="commodity or entity being evaluated" f="ppt" n="1"/>
+        <role descr="value, worth, grade" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

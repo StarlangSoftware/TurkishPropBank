@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="misguide">
+    <roleset id="misguide.01" name="to misdirect, foolhardy">
+      <roles>
+        <role descr="agent, causer of misdirection" f="pag" n="0"/>
+        <role descr="misguided one" f="ppt" n="1"/>
+        <role descr="misguided actions" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

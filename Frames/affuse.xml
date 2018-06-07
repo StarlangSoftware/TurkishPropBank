@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="affuse">
+    <roleset id="affuse.01" name="pour">
+      <roles>
+        <role descr="causal agent" f="pag" n="0"/>
+        <role descr="thing affused, poured" f="ppt" n="1"/>
+        <role descr="destination" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

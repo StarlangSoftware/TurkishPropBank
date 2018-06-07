@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="detour">
+    <roleset id="detour.01" name="travel out of one's way, by detour">
+      <roles>
+        <role descr="agent, causer of detouring" f="pag" n="0"/>
+        <role descr="entity put off original path" f="ppt" n="1"/>
+        <role descr="detour itself, new path" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

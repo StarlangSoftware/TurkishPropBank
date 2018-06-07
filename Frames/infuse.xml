@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="infuse">
+    <roleset id="infuse.01" name="to fill with something or put into">
+      <roles>
+        <role descr="putter" f="pag" n="0"/>
+        <role descr="thing infused" f="ppt" n="1"/>
+        <role descr="thing infused with or into" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

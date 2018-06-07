@@ -1,0 +1,18 @@
+<frameset>
+  <predicate lemma="train">
+    <roleset id="train.01" name="teach a skill">
+      <roles>
+        <role descr="trainer" f="pag" n="0"/>
+        <role descr="skill" f="prd" n="1"/>
+        <role descr="trainee" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="train.02" name="aim, focus">
+      <roles>
+        <role descr="agent, focusser" f="pag" n="0"/>
+        <role descr="thing focussed" f="ppt" n="1"/>
+        <role descr="focussed-on" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,18 @@
+<frameset>
+  <predicate lemma="palpate">
+    <roleset id="palpate.01" name="physically feel or handle">
+      <roles>
+        <role descr="Palpator" f="PAG" n="0"/>
+        <role descr="Entity palpated" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="palpable">
+    <roleset id="palpable.02" name="able to be felt by palpation">
+      <roles>
+        <role descr="palpator" f="pag" n="0"/>
+        <role descr="entity palpated" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

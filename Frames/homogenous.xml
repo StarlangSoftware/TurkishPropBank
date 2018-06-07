@@ -1,0 +1,17 @@
+<frameset>
+  <predicate lemma="homogenous">
+    <roleset id="homogenous.01" name="uniform in consistency/structure">
+      <roles>
+        <role descr="homogenous entity" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="homogenize">
+    <roleset id="homogenize.02" name="CAUSE to become uniform in consistency/structure">
+      <roles>
+        <role descr="causer of homogenization" f="pag" n="0"/>
+        <role descr="entity becoming uniform" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

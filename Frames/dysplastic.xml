@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="dysplastic">
+    <roleset id="dysplastic.01" name="suffering dysplasia">
+      <roles>
+        <role descr="dysplastic entity" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

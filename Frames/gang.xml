@@ -1,0 +1,30 @@
+<frameset>
+  <predicate lemma="gang">
+    <roleset id="gang.01" name="group components together to work in coordiation">
+      <roles>
+        <role descr="external agent" f="pag" n="0"/>
+        <role descr="first item joined" f="ppt" n="1"/>
+        <role descr="second item joined" f="com" n="2"/>
+        <role descr="instrument of joinery" f="mnr" n="3"/>
+      </roles>
+    </roleset>
+    <roleset id="gang.03" name="gang up (often against), non-phrasal">
+      <roles>
+        <role descr="first team member" f="pag" n="0"/>
+        <role descr="co-conspirator" f="com" n="1"/>
+        <role descr="against whom" f="gol" n="2"/>
+        <role descr="shared endeavor" f="prp" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="gang_up">
+    <roleset id="gang_up.02" name="team up (often against)">
+      <roles>
+        <role descr="first team member" f="pag" n="0"/>
+        <role descr="co-conspirator" f="com" n="1"/>
+        <role descr="against whom" f="gol" n="2"/>
+        <role descr="shared endeavor" f="prp" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

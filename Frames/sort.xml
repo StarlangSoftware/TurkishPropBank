@@ -1,0 +1,20 @@
+<frameset>
+  <predicate lemma="sort">
+    <roleset id="sort.01" name="put into order">
+      <roles>
+        <role descr="sorter" f="pag" n="0"/>
+        <role descr="thing being sorted" f="ppt" n="1"/>
+        <role descr="order, criterion" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="sort_out">
+    <roleset id="sort_out.02" name="make sense of, distinguish">
+      <roles>
+        <role descr="entity trying to understand" f="pag" n="0"/>
+        <role descr="subject of confusion" f="ppt" n="1"/>
+        <role descr="in distinction to" f="vsp" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

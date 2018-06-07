@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="muggy">
+    <roleset id="muggy.01" name="humid">
+      <roles>
+        <role descr="moist air/atmosphere" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

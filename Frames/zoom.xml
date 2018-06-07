@@ -1,0 +1,44 @@
+<frameset>
+  <predicate lemma="zoom">
+    <roleset id="zoom.01" name="move quickly">
+      <roles>
+        <role descr="entity moved" f="ppt" n="1"/>
+        <role descr="EXT" f="ext" n="2"/>
+        <role descr="start point" f="dir" n="3"/>
+        <role descr="end point" f="loc" n="4"/>
+        <role descr="medium" f="mnr" n="m"/>
+      </roles>
+    </roleset>
+    <roleset id="zoom.02" name="change the detail with which an image is viewed, for the larger or the smaller; non-VPC">
+      <roles>
+        <role descr="agent, entity making arg1 larger or smaller" f="pag" n="0"/>
+        <role descr="thing zoomed in or out- screen, display, device" f="ppt" n="1"/>
+        <role descr="zoomed in on or from what- image enlarged or shrunk" f="vsp" n="2"/>
+        <role descr="start resolution/size" f="dir" n="3"/>
+        <role descr="end resolution/size" f="prd" n="4"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="zoom_in">
+    <roleset id="zoom_in.03" name="look at a small section in larger detail">
+      <roles>
+        <role descr="agent, entity making arg1 larger" f="pag" n="0"/>
+        <role descr="thing zoomed in- screen, display, device" f="ppt" n="1"/>
+        <role descr="zoomed in on what- image enlarged" f="vsp" n="2"/>
+        <role descr="start resolution/size" f="dir" n="3"/>
+        <role descr="end resolution/size" f="prd" n="4"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="zoom_out">
+    <roleset id="zoom_out.04" name="look at a larger section with less detail">
+      <roles>
+        <role descr="agent, entity making arg1 larger" f="pag" n="0"/>
+        <role descr="thing zoomed in- screen, dispaly, device" f="ppt" n="1"/>
+        <role descr="zoomed out from what- image shrunk" f="vsp" n="2"/>
+        <role descr="start resolution/size" f="dir" n="3"/>
+        <role descr="end resolution/size" f="prd" n="4"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

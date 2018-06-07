@@ -1,0 +1,19 @@
+<frameset>
+  <predicate lemma="promote">
+    <roleset id="promote.01" name="raise in rank/position, move forward/up">
+      <roles>
+        <role descr="causer of motion, employer" f="pag" n="0"/>
+        <role descr="thing in motion, employee" f="ppt" n="1"/>
+        <role descr="destination, new job" f="gol" n="2"/>
+        <role descr="source, old job" f="dir" n="3"/>
+      </roles>
+    </roleset>
+    <roleset id="promote.02" name="advertise">
+      <roles>
+        <role descr="advertiser" f="pag" n="0"/>
+        <role descr="thing being pitched, advertised" f="ppt" n="1"/>
+        <role descr="audience" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,23 @@
+<frameset>
+  <predicate lemma="galvanize">
+    <roleset id="galvanize.01" name="motivate to do something">
+      <roles>
+        <role descr="agent, galvanizer" f="pag" n="0"/>
+        <role descr="impelled agent" f="ppt" n="1"/>
+        <role descr="impelled action" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="galvanize.02" name="cause a response">
+      <roles>
+        <role descr="action" f="pag" n="0"/>
+        <role descr="reaction" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="galvanize.03" name="coat iron/steel with zinc">
+      <roles>
+        <role descr="galvanizer" f="pag" n="0"/>
+        <role descr="iron/steel thing" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

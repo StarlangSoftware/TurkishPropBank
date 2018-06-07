@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="invoke">
+    <roleset id="invoke.01" name="call upon">
+      <roles>
+        <role descr="invoker" f="PAG" n="0"/>
+        <role descr="invoked" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

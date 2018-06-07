@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="nonpalpable">
+    <roleset id="nonpalpable.01" name="unable to examine by feel">
+      <roles>
+        <role descr="doctor" f="pag" n="0"/>
+        <role descr="thing/patient/area not felt" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

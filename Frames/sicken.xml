@@ -1,0 +1,34 @@
+<frameset>
+  <predicate lemma="sicken">
+    <roleset id="sicken.01" name="make feel disgust, ill, disgusted">
+      <roles>
+        <role descr="illness, stimulus" f="pag" n="0"/>
+        <role descr="experiencer, entity feeling sick" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="sick">
+    <roleset id="sick.02" name="macabre, gruesome, disgusting">
+      <roles>
+        <role descr="gruesome thing" f="pag" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="sick.03" name="really amazingly cool. dude.">
+      <roles>
+        <role descr="cool thing" f="pag" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="sick.04" name="sick and tired of">
+      <roles>
+        <role descr="stimulus arg1 is tired of" f="cau" n="0"/>
+        <role descr="experiencer of sick and tiredness" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="sick.05" name="ill, disgusted">
+      <roles>
+        <role descr="illness, affliction" f="pag" n="0"/>
+        <role descr="patient (haha)" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

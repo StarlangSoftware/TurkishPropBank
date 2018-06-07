@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="redefine">
+    <roleset id="redefine.01" name="assign a label or attribute again">
+      <roles>
+        <role descr="describer" f="pag" n="0"/>
+        <role descr="thing redefined" f="ppt" n="1"/>
+        <role descr="secondary attribute, described-as, definition" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,18 @@
+<frameset>
+  <predicate lemma="trace">
+    <roleset id="trace.01" name="make a physical copy on an over-laid transparent surface">
+      <roles>
+        <role descr="copier, agent" f="pag" n="0"/>
+        <role descr="thing traced" f="ppt" n="1"/>
+        <role descr="transparent surface" f="gol" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="trace.02" name="follow to the source">
+      <roles>
+        <role descr="follower" f="pag" n="0"/>
+        <role descr="thing followed" f="ppt" n="1"/>
+        <role descr="the thing's source  (actually destination)" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

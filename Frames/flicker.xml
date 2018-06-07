@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="flicker">
+    <roleset id="flicker.01" name="emit light randomly">
+      <roles>
+        <role descr="source of light" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

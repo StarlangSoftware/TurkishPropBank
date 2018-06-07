@@ -1,0 +1,15 @@
+<frameset>
+  <predicate lemma="insignificant">
+    <roleset id="insignificant.01" name="not indicative of anything">
+      <roles>
+        <role descr="non-signifier" f="pag" n="1"/>
+        <role descr="non-signified" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="insignificant.02" name="not notable in size or importance">
+      <roles>
+        <role descr="thing that is not notable" f="pag" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

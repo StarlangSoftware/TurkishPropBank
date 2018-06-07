@@ -1,0 +1,23 @@
+<frameset>
+  <predicate lemma="cinch">
+    <roleset id="cinch.01" name="manipulate a belt">
+      <roles>
+        <role descr="manipulator of belt, agent" f="pag" n="0"/>
+        <role descr="belt" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="cinch.02" name="attach with a belt">
+      <roles>
+        <role descr="attacher" f="pag" n="0"/>
+        <role descr="thing(s) attached" f="ppt" n="1"/>
+        <role descr="'together' or other attribute of arg1" f="prd" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="cinch.03" name="make into a sure thing">
+      <roles>
+        <role descr="cause of sureness" f="pag" n="0"/>
+        <role descr="sure thing" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="emblazon">
+    <roleset id="emblazon.01" name="decorate with heraldic arms, flashy words">
+      <roles>
+        <role descr="artisan, decorator" f="PAG" n="0"/>
+        <role descr="words emblazoned" f="PPT" n="1"/>
+        <role descr="location, surface emblazoned" f="GOL" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

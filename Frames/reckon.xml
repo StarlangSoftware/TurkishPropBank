@@ -1,0 +1,17 @@
+<frameset>
+  <predicate lemma="reckon">
+    <roleset id="reckon.01" name="figure, think, count">
+      <roles>
+        <role descr="thinker" f="pag" n="0"/>
+        <role descr="object, thing under consideration, thought" f="ppt" n="1"/>
+        <role descr="attribute" f="prd" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="reckon.02" name="respect, take into consideration">
+      <roles>
+        <role descr="reckoner" f="pag" n="0"/>
+        <role descr="thing to be reckoned with" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

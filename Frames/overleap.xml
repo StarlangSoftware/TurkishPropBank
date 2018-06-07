@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="overleap">
+    <roleset id="overleap.01" name="leap past or overlook">
+      <roles>
+        <role descr="jumper" f="pag" n="0"/>
+        <role descr="obstacle" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

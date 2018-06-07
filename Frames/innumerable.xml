@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="innumerable">
+    <roleset id="innumerable.01" name="not able to be counted (because there are so many)">
+      <roles>
+        <role descr="counter" f="pag" n="0"/>
+        <role descr="counted" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

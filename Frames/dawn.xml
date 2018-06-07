@@ -1,0 +1,15 @@
+<frameset>
+  <predicate lemma="dawn">
+    <roleset id="dawn.01" name="to become known">
+      <roles>
+        <role descr="thing becoming known" f="ppt" n="1"/>
+        <role descr="experiencer" f="gol" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="dawn.02" name="to begin to become light in the morning, an opening time period">
+      <roles>
+        <role descr="day dawning, thing beginning" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

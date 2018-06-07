@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="wage">
+    <roleset id="wage.01" name="wage war">
+      <roles>
+        <role descr="combatant" f="pag" n="0"/>
+        <role descr="war" f="ppt" n="1"/>
+        <role descr="foe, if separate from arg0" f="com" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

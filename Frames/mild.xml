@@ -1,0 +1,18 @@
+<frameset>
+  <predicate lemma="mild">
+    <roleset id="mild.01" name="not extreme">
+      <roles>
+        <role descr="mild thing" f="ppt" n="1"/>
+        <role descr="specific aspect of arg1 that is mild" f="vsp" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="mildly">
+    <roleset id="mildly.02" name="not extremely">
+      <roles>
+        <role descr="mild thing" f="ppt" n="1"/>
+        <role descr="specific aspect of arg 1 that is mild" f="vsp" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

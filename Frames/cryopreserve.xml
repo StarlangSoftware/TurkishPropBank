@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="cryopreserve">
+    <roleset id="cryopreserve.01" name="preserve by freezing">
+      <roles>
+        <role descr="agent, causer of freezing" f="pag" n="0"/>
+        <role descr="thing being preserved" f="ppt" n="1"/>
+        <role descr="instrument used to freeze, preserved in/with" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

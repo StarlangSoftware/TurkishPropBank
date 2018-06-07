@@ -1,0 +1,23 @@
+<frameset>
+  <predicate lemma="vary">
+    <roleset id="vary.01" name="experience changes in scale, variety, changing">
+      <roles>
+        <role descr="causer of motion" f="pag" n="0"/>
+        <role descr="thing moving" f="ppt" n="1"/>
+        <role descr="EXT or MNR" f="ext" n="2"/>
+        <role descr="start point" f="dir" n="3"/>
+        <role descr="end point" f="gol" n="4"/>
+        <role descr="medium" f="prd" n="5"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="variance">
+    <roleset id="variance.02" name="allow to act contrary to a rule or regulation,">
+      <roles>
+        <role descr="allower" f="pag" n="0"/>
+        <role descr="entity allowed to break the rule" f="ppt" n="1"/>
+        <role descr="rule allowed to be broken" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

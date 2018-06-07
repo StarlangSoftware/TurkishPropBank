@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="notorious">
+    <roleset id="notorious.01" name="notorious">
+      <roles>
+        <role descr="infamous/notorious entity" f="PPT" n="1"/>
+        <role descr="role or crime, notorious for/as what?" f="PPT" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="bury">
+    <roleset id="bury.01" name="put in the ground">
+      <roles>
+        <role descr="burier" f="PAG" n="0"/>
+        <role descr="buried" f="PPT" n="1"/>
+        <role descr="ground (usually understood)" f="GOL" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="research">
+    <roleset id="research.01" name="study very hard">
+      <roles>
+        <role descr="student" f="PAG" n="0"/>
+        <role descr="subject" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

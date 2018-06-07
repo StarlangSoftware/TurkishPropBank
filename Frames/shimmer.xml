@@ -1,0 +1,15 @@
+<frameset>
+  <predicate lemma="shimmer">
+    <roleset id="shimmer.01" name="emit light, sparkle">
+      <roles>
+        <role descr="source of light" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="shimmer.02" name="verb of motion?">
+      <roles>
+        <role descr="entity in motion" f="PAG" n="0"/>
+        <role descr="path" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

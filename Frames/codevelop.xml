@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="codevelop">
+    <roleset id="codevelop.01" name="develop in conjuction with another developer or project">
+      <roles>
+        <role descr="developer" f="pag" n="0"/>
+        <role descr="thing developed" f="ppt" n="1"/>
+        <role descr="co-developer" f="com" n="2"/>
+        <role descr="other thing developed at the same time" f="ppt" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

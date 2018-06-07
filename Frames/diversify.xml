@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="diversify">
+    <roleset id="diversify.01" name="become diverse, (cause to) become more diverse">
+      <roles>
+        <role descr="causal agent" f="pag" n="0"/>
+        <role descr="thing becoming diverse" f="ppt" n="1"/>
+        <role descr="destination" f="gol" n="2"/>
+        <role descr="source, start point" f="dir" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

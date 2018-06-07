@@ -1,0 +1,94 @@
+<frameset>
+  <predicate lemma="close">
+    <roleset id="close.01" name="shut, closure of an entity, not open">
+      <roles>
+        <role descr="person doing the closing" f="pag" n="0"/>
+        <role descr="thing closing" f="ppt" n="1"/>
+        <role descr="anti-beneficiary" f="gol" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="close.02" name="terminate">
+      <roles>
+        <role descr="thing closing" f="ppt" n="1"/>
+        <role descr="MNR- up, down, or unchanged" f="mnr" n="m"/>
+        <role descr="EXT- end point" f="ext" n="m"/>
+      </roles>
+    </roleset>
+    <roleset id="close.03" name="come about, come to completion (as of deals)">
+      <roles>
+        <role descr="entity making the deal" f="pag" n="0"/>
+        <role descr="the deal" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="close.06" name="become nearer">
+      <roles>
+        <role descr="entity in motion" f="ppt" n="1"/>
+        <role descr="target" f="gol" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="close.10" name="spatially close, of concrete or abstract things">
+      <roles>
+        <role descr="entity located near something, close thing" f="ppt" n="1"/>
+        <role descr="location, close to what?" f="loc" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="close.11" name="similar, a near approximation,">
+      <roles>
+        <role descr="copy, thing that is similar" f="ppt" n="1"/>
+        <role descr="original, what arg1 is similar-to" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="close.12" name="evenly matched, difficult to decide">
+      <roles>
+        <role descr="case, vote, decision" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="close.13" name="affectionate">
+      <roles>
+        <role descr="affectionate entity/ies" f="pag" n="1"/>
+        <role descr="affectionate with whom?" f="com" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="close_down">
+    <roleset id="close_down.04" name="close down: terminate">
+      <roles>
+        <role descr="person doing the closing" f="pag" n="0"/>
+        <role descr="thing closing" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="close_off">
+    <roleset id="close_off.05" name="close off: shut">
+      <roles>
+        <role descr="person doing the closing" f="pag" n="0"/>
+        <role descr="thing closing" f="ppt" n="1"/>
+        <role descr="anti-beneficiary" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="close_in">
+    <roleset id="close_in.07" name="close in: become nearer">
+      <roles>
+        <role descr="entity in motion" f="ppt" n="1"/>
+        <role descr="target" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="close_over">
+    <roleset id="close_over.08" name="seal from the top">
+      <roles>
+        <role descr="agent" f="pag" n="0"/>
+        <role descr="thing becoming sealed" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="close_up">
+    <roleset id="close_up.09" name="close_up: shut completely">
+      <roles>
+        <role descr="closer" f="pag" n="0"/>
+        <role descr="place/thing being closed up" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

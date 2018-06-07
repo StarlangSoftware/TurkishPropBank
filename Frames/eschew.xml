@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="eschew">
+    <roleset id="eschew.01" name="avoid, shun">
+      <roles>
+        <role descr="avoider" f="PAG" n="0"/>
+        <role descr="thing avoided" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

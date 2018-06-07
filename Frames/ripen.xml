@@ -1,0 +1,18 @@
+<frameset>
+  <predicate lemma="ripen">
+    <roleset id="ripen.01" name="(make) become ripe, becoming ripe">
+      <roles>
+        <role descr="causer of ripening" f="PAG" n="0"/>
+        <role descr="thing becoming ripe" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="ripe">
+    <roleset id="ripe.02" name="ready, mature">
+      <roles>
+        <role descr="fruit (or other)" f="ppt" n="1"/>
+        <role descr="ready for what" f="prp" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="antedate">
+    <roleset id="antedate.01" name="to precede, come before something else">
+      <roles>
+        <role descr="Preceder, thing antedating/coming before sth else" f="PAG" n="0"/>
+        <role descr="Thing preceded, following arg0." f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

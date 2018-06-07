@@ -1,0 +1,19 @@
+<frameset>
+  <predicate lemma="slice">
+    <roleset id="slice.01" name="to cut into slices or from a larger piece">
+      <roles>
+        <role descr="cutter, agent" f="PAG" n="0"/>
+        <role descr="entity sliced" f="PPT" n="1"/>
+        <role descr="larger piece" f="dir" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="slice_up">
+    <roleset id="slice_up.02" name="to cut into slices">
+      <roles>
+        <role descr="cutter, agent" f="PAG" n="0"/>
+        <role descr="entity sliced" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,40 @@
+<frameset>
+  <predicate lemma="wind">
+    <roleset id="wind.01" name="move in circular fashion, cause to be coiled">
+      <roles>
+        <role descr="roller" f="pag" n="0"/>
+        <role descr="thing rolled or rolling, wound" f="ppt" n="1"/>
+        <role descr="secondary attribute of arg1, end state/position" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="wind_up">
+    <roleset id="wind_up.02" name="wind up: result in a condition">
+      <roles>
+        <role descr="who/what's coming into a condition" f="ppt" n="1"/>
+        <role descr="the condition" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="wind_up.03" name="wind up: move in circular fashion, cause to be coiled, tightly coild, stressed, anxious">
+      <roles>
+        <role descr="roller" f="pag" n="0"/>
+        <role descr="thing rolled or rolling" f="ppt" n="1"/>
+        <role descr="secondary attribute of arg1" f="prd" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="wind_up.05" name="wind up: bring to an end">
+      <roles>
+        <role descr="entity causing something else to stop" f="pag" n="0"/>
+        <role descr="thing stopping" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="wind_down">
+    <roleset id="wind_down.04" name="wind down: come/bring to a stop">
+      <roles>
+        <role descr="entity causing something else to stop" f="pag" n="0"/>
+        <role descr="thing stopping" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

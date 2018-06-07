@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="flap">
+    <roleset id="flap.01" name="move back and forth randomly">
+      <roles>
+        <role descr="causer of motion" f="PAG" n="0"/>
+        <role descr="thing flapping" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

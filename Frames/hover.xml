@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="hover">
+    <roleset id="hover.01" name="be in a position (usually just above some referent)">
+      <roles>
+        <role descr="thing hovering" f="PPT" n="1"/>
+        <role descr="location or position" f="LOC" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,20 @@
+<frameset>
+  <predicate lemma="jot">
+    <roleset id="jot.01" name="write quickly">
+      <roles>
+        <role descr="writer" f="pag" n="0"/>
+        <role descr="thing written" f="ppt" n="1"/>
+        <role descr="benefactive" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="jot_down">
+    <roleset id="jot_down.02" name="write quickly">
+      <roles>
+        <role descr="writer" f="pag" n="0"/>
+        <role descr="thing written" f="ppt" n="1"/>
+        <role descr="benefactive" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,39 @@
+<frameset>
+  <predicate lemma="roughen">
+    <roleset id="roughen.01" name="make rough">
+      <roles>
+        <role descr="agent, cause" f="PAG" n="0"/>
+        <role descr="thing made rough" f="PPT" n="1"/>
+        <role descr="instrument or method" f="MNR" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="rough_up">
+    <roleset id="rough_up.02" name="commit violence on, rough_up: manhandled, battered">
+      <roles>
+        <role descr="committer of violence" f="pag" n="0"/>
+        <role descr="victim" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="rough_in">
+    <roleset id="rough_in.03" name="drawn in a sketchy form">
+      <roles>
+        <role descr="artist" f="pag" n="0"/>
+        <role descr="figure" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="rough">
+    <roleset id="rough.04" name="bumpy, coarse, unrefined">
+      <roles>
+        <role descr="bumpy, unrefined thing" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="rough.05" name="difficult, harsh">
+      <roles>
+        <role descr="difficult thing (may require concatenation)" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

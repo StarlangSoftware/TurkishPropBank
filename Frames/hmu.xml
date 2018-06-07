@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="hmu">
+    <roleset id="hmu.01" name="'hit me up'; get ahold of me, possibly with a request">
+      <roles>
+        <role descr="hitter upper" f="pag" n="0"/>
+        <role descr="subject matter of contact" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="pond">
+    <roleset id="pond.01" name="collect into large puddle (pond)">
+      <roles>
+        <role descr="thing collecting (ie water)" f="ppt" n="1"/>
+        <role descr="source" f="dir" n="3"/>
+        <role descr="end point, location of new pond" f="gol" n="4"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

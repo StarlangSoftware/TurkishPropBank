@@ -1,0 +1,18 @@
+<frameset>
+  <predicate lemma="tally">
+    <roleset id="tally.01" name="count, enumerate, come to a total">
+      <roles>
+        <role descr="counter, agent" f="pag" n="0"/>
+        <role descr="thing counted, summed" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="tally_up">
+    <roleset id="tally_up.02" name="tally completely">
+      <roles>
+        <role descr="counter, agent" f="pag" n="0"/>
+        <role descr="thing counted, summed" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

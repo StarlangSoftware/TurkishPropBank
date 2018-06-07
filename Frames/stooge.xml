@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="stooge">
+    <roleset id="stooge.01" name="be used for the benefit of another">
+      <roles>
+        <role descr="stooge" f="PAG" n="0"/>
+        <role descr="one who benefits" f="gol" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

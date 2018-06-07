@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="cardiac">
+    <roleset id="cardiac.01" name="relating to the heart">
+      <roles>
+        <role descr="cardiac entity" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

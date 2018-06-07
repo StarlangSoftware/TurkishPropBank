@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="undefined">
+    <roleset id="undefined.01" name="not defined">
+      <roles>
+        <role descr="describer" f="pag" n="0"/>
+        <role descr="thing defined" f="ppt" n="1"/>
+        <role descr="attribute, defined-as" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

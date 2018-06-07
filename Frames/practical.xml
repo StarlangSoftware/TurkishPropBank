@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="practical">
+    <roleset id="practical.01" name="realistic, applied">
+      <roles>
+        <role descr="practical entity" f="ppt" n="1"/>
+        <role descr="practical to/for whom?" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

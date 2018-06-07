@@ -1,0 +1,13 @@
+<frameset>
+  <predicate lemma="slink">
+    <roleset id="slink.01" name="slink">
+      <roles>
+        <role descr="agent, transitive subject" f="PAG" n="0"/>
+        <role descr="theme, intransitive subject, transitive object" f="PPT" n="1"/>
+        <role descr="start point" f="DIR" n="2"/>
+        <role descr="end point" f="GOL" n="3"/>
+        <role descr="path" f="LOC" n="4"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

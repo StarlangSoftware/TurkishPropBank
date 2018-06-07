@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="fondle">
+    <roleset id="fondle.01" name="touch-rub-grab">
+      <roles>
+        <role descr="fondler, agent" f="pag" n="0"/>
+        <role descr="thing fondled, patient" f="ppt" n="1"/>
+        <role descr="instrument of fondling (rare)" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

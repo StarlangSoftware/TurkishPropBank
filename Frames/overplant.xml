@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="overplant">
+    <roleset id="overplant.01" name="to plant too abundantly">
+      <roles>
+        <role descr="planter" f="pag" n="0"/>
+        <role descr="crop/seed/entity overplanted" f="ppt" n="1"/>
+        <role descr="land overplanted, where planted" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

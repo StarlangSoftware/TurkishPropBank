@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="inoperable">
+    <roleset id="inoperable.01" name="able to be operated on, surgery-wise">
+      <roles>
+        <role descr="surgeon" f="pag" n="0"/>
+        <role descr="inoperable thing//entity" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,20 @@
+<frameset>
+  <predicate lemma="dredge">
+    <roleset id="dredge.01" name="dig up">
+      <roles>
+        <role descr="agent, dredger" f="pag" n="0"/>
+        <role descr="location dredged" f="loc" n="1"/>
+        <role descr="entity dredged up" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="dredge_up">
+    <roleset id="dredge_up.02" name="dig up">
+      <roles>
+        <role descr="Agent, dredger" f="pag" n="0"/>
+        <role descr="Location dredged, dug" f="loc" n="1"/>
+        <role descr="Entity dredged up from ground (arg1)" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

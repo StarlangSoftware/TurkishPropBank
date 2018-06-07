@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="unsuccessful">
+    <roleset id="unsuccessful.01" name="not accomplishing some task">
+      <roles>
+        <role descr="non-achiever" f="pag" n="0"/>
+        <role descr="task not achieved" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

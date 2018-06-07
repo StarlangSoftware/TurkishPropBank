@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="wimp">
+    <roleset id="wimp.01" name="to lose courage to do something">
+      <roles>
+        <role descr="entity losing courage" f="pag" n="0"/>
+        <role descr="task that arg0 fails to do" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

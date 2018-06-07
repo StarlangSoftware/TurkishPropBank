@@ -1,0 +1,17 @@
+<frameset>
+  <predicate lemma="unhinge">
+    <roleset id="unhinge.01" name="to disrupt, confuse">
+      <roles>
+        <role descr="cause, agent" f="PAG" n="0"/>
+        <role descr="entity unhinged" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="unhinge.02" name="disconnect">
+      <roles>
+        <role descr="agent, causer of disconnection" f="PAG" n="0"/>
+        <role descr="topic, focus" f="PPT" n="1"/>
+        <role descr="disconnected from, if separate from arg1" f="PPT" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

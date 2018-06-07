@@ -1,0 +1,20 @@
+<frameset>
+  <predicate lemma="scalp">
+    <roleset id="scalp.01" name="scalp">
+      <roles>
+        <role descr="scalper, agent" f="pag" n="0"/>
+        <role descr="scalped from what/whom, source" f="dir" n="1"/>
+        <role descr="thing removed/scalped, theme" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="scalp.02" name="sell illegally">
+      <roles>
+        <role descr="seller" f="pag" n="0"/>
+        <role descr="thing sold" f="ppt" n="1"/>
+        <role descr="buyer" f="gol" n="2"/>
+        <role descr="price paid" f="vsp" n="3"/>
+        <role descr="benefactive" f="gol" n="4"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

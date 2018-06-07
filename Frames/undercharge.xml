@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="undercharge">
+    <roleset id="undercharge.01" name="undercharge">
+      <roles>
+        <role descr="undercharger, receiver of money" f="PAG" n="0"/>
+        <role descr="undercharge, money" f="VSP" n="1"/>
+        <role descr="undercharged, giver of money" f="GOL" n="2"/>
+        <role descr="cause, product" f="CAU" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

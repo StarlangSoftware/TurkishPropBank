@@ -1,0 +1,18 @@
+<frameset>
+  <predicate lemma="sledge">
+    <roleset id="sledge.01" name="travel in a sled, sledge or sleigh">
+      <roles>
+        <role descr="agent, sled driver" f="pag" n="0"/>
+        <role descr="the sled, or cargo/passengers" f="ppt" n="1"/>
+        <role descr="location/path" f="loc" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="sledge.02" name="hit with a sledgehammer">
+      <roles>
+        <role descr="hitter" f="pag" n="0"/>
+        <role descr="thing hit" f="ppt" n="1"/>
+        <role descr="instrument" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

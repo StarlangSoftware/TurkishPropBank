@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="foretell">
+    <roleset id="foretell.01" name="make an event known before it happens">
+      <roles>
+        <role descr="speaker" f="pag" n="0"/>
+        <role descr="thing prophecied" f="ppt" n="1"/>
+        <role descr="recipient, hearer" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

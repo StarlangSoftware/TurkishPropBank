@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="poise">
+    <roleset id="poise.01" name="to balance">
+      <roles>
+        <role descr="causer of balancing, agent" f="pag" n="0"/>
+        <role descr="entity poised" f="ppt" n="1"/>
+        <role descr="poised for" f="prp" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

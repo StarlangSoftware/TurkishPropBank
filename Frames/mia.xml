@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="mia">
+    <roleset id="mia.01" name="missing in action">
+      <roles>
+        <role descr="entity/place/source that lacks arg1" f="pag" n="0"/>
+        <role descr="missing entity" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

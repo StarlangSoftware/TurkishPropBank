@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="caravan">
+    <roleset id="caravan.01" name="caravan">
+      <roles>
+        <role descr="agent, driver" f="PAG" n="0"/>
+        <role descr="thing moved" f="PPT" n="1"/>
+        <role descr="locations, or start point" f="LOC" n="2"/>
+        <role descr="destination" f="LOC" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

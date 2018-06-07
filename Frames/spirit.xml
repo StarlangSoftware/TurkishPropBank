@@ -1,0 +1,24 @@
+<frameset>
+  <predicate lemma="spirited">
+    <roleset id="spirited.01" name="passionate, lively">
+      <roles>
+        <role descr="entity with high spirits" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="spirits">
+    <roleset id="spirits.02" name="a particular transient mood/state">
+      <roles>
+        <role descr="entity in a particular mood/state" f="pag" n="1"/>
+        <role descr="characteristic of the mood" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="spirit">
+    <roleset id="spirit.03" name="a causative, inspiring or essential mood, matching, modeled after or characterized by a particular entity/time">
+      <roles>
+        <role descr="definining characteristic of the spirit, inspiring entity" f="pag" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

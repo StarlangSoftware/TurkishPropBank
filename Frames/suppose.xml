@@ -1,0 +1,17 @@
+<frameset>
+  <predicate lemma="suppose">
+    <roleset id="suppose.01" name="think, assume">
+      <roles>
+        <role descr="Thinker" f="pag" n="0"/>
+        <role descr="Thing thought about" f="ppt" n="1"/>
+        <role descr="Attributive, how arg1 is thought about" f="prd" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="suppose.02" name="s'pos'ta">
+      <roles>
+        <role descr="thing seeming" f="ppt" n="1"/>
+        <role descr="attribute" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

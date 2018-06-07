@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="flounce">
+    <roleset id="flounce.01" name="walk emphatically">
+      <roles>
+        <role descr="walker" f="PAG" n="0"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

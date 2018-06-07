@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="translocate">
+    <roleset id="translocate.01" name="transport to the appropriate destinations in the cell or outside of it">
+      <roles>
+        <role descr="agent of translocation" f="pag" n="0" />
+        <role descr="thing translocated (e.g. protein)" f="ppt" n="1" />
+        <role descr="destination" f="gol" n="2" />
+        <role descr="source" f="dir" n="3" />
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

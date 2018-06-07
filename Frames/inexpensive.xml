@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="inexpensive">
+    <roleset id="inexpensive.01" name="not costing much, reasonably priced">
+      <roles>
+        <role descr="commodity" f="ppt" n="1"/>
+        <role descr="price" f="prd" n="2"/>
+        <role descr="buyer" f="gol" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

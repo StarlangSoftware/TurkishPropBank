@@ -1,0 +1,21 @@
+<frameset>
+  <predicate lemma="weaken">
+    <roleset id="weaken.01" name="make or become weaker, making or becoming weaker">
+      <roles>
+        <role descr="causal agent" f="pag" n="0"/>
+        <role descr="thing weakening" f="ppt" n="1"/>
+        <role descr="EXT" f="ext" n="2"/>
+        <role descr="start point" f="dir" n="3"/>
+        <role descr="end point" f="gol" n="4"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="weak">
+    <roleset id="weak.02" name="lacking skill, intensity">
+      <roles>
+        <role descr="unskilled/weak entity" f="pag" n="1"/>
+        <role descr="skill, intensity lacked" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

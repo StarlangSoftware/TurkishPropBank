@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="colonize">
+    <roleset id="colonize.01" name="to found or establish a colony, establish a colony">
+      <roles>
+        <role descr="colonizer, imperial power" f="PAG" n="0"/>
+        <role descr="territory colonized" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,17 @@
+<frameset>
+  <predicate lemma="hotspot">
+    <roleset id="hotspot.01" name="turn into a wifi hotspot">
+      <roles>
+        <role descr="agent" f="pag" n="0"/>
+        <role descr="location becoming a hotspot" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="hotspot.02" name="create a web link in a certain location (the location being the hotspot)">
+      <roles>
+        <role descr="web designer" f="pag" n="0"/>
+        <role descr="location/word turned into a link" f="ppt" n="1"/>
+        <role descr="what the link directs to" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

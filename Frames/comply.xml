@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="comply">
+    <roleset id="comply.01" name="cooperate, meet requirements">
+      <roles>
+        <role descr="complier" f="PAG" n="0"/>
+        <role descr="complied-with (ie, rule)" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

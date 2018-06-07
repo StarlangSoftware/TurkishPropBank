@@ -1,0 +1,35 @@
+<frameset>
+  <predicate lemma="great">
+    <roleset id="great.01" name="generally very positive, pleasing, better than 'good'">
+      <roles>
+        <role descr="generally positive/pleasing entity (concation may be required)" f="pag" n="1"/>
+        <role descr="recipient of goodness (behavior directed toward)" f="gol" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="great.02" name="very skilled at">
+      <roles>
+        <role descr="skilled entity" f="pag" n="1"/>
+        <role descr="skill" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="great.03" name="large, physically or metaphorically">
+      <roles>
+        <role descr="large one" f="pag" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="great.04" name="beneficial, possibly for health">
+      <roles>
+        <role descr="thing that is beneficial" f="pag" n="1"/>
+        <role descr="beneficiary" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="greater_than_symbol">
+    <roleset id="greater_than_symbol.05" name="the greater than symbol '&gt;'. mathematical equation., greater than">
+      <roles>
+        <role descr="left side of the mathematical equation" f="pag" n="1"/>
+        <role descr="right side of the mathematical equation" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

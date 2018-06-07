@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="replay">
+    <roleset id="replay.01" name="play again">
+      <roles>
+        <role descr="player" f="pag" n="0"/>
+        <role descr="music/video" f="ppt" n="1"/>
+        <role descr="instrument" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

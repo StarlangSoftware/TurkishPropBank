@@ -1,0 +1,16 @@
+<frameset>
+  <predicate lemma="unremarkable">
+    <roleset id="unremarkable.01" name="not worthy of being noted, remarked on">
+      <roles>
+        <role descr="entity taking note" f="pag" n="0"/>
+        <role descr="unremarkable thing" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="unremarkable.02" name="not indicating a particular condition or outcome">
+      <roles>
+        <role descr="unremarkable entity" f="pag" n="1"/>
+        <role descr="condition or outcome not indicated" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

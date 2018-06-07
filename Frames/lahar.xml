@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="lahar">
+    <roleset id="lahar.01" name="natural disaster: volcanic mud flow">
+      <roles>
+        <role descr="pyroclastic material (volcanic mud)" f="ppt" n="1"/>
+        <role descr="volume/weight" f="ext" n="2"/>
+        <role descr="casualties/injuries" f="vsp" n="3"/>
+        <role descr="damages/cost" f="vsp" n="4"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

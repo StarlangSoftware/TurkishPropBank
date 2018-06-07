@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="hyperlink">
+    <roleset id="hyperlink.01" name="provide an active link to a website">
+      <roles>
+        <role descr="agent, entity providing hyperlink" f="pag" n="0"/>
+        <role descr="focus of linking, document containing the hyperlink" f="ppt" n="1"/>
+        <role descr="site hyperlink leads to" f="gol" n="2"/>
+        <role descr="hyperlink itself, URL (probably unlikely?)" f="vsp" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

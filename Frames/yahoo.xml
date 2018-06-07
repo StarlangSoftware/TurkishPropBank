@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="yahoo">
+    <roleset id="yahoo.01" name="use the Yahoo search engine or website">
+      <roles>
+        <role descr="Yahoo user" f="pag" n="0"/>
+        <role descr="thing searched" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

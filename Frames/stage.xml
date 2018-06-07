@@ -1,0 +1,17 @@
+<frameset>
+  <predicate lemma="stage">
+    <roleset id="stage.01" name="to perform or carry out, perform, carry out, set up">
+      <roles>
+        <role descr="performer" f="pag" n="0"/>
+        <role descr="performance" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="stage.02" name="determine the progression of a disease">
+      <roles>
+        <role descr="assessor of stage" f="pag" n="0"/>
+        <role descr="tissue or organ examined" f="ppt" n="1"/>
+        <role descr="stage" f="ext" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="spectate">
+    <roleset id="spectate.01" name="watch but not participate (esp. games)">
+      <roles>
+        <role descr="spectator" f="pag" n="0"/>
+        <role descr="thing watched" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

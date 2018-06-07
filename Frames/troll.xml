@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="troll">
+    <roleset id="troll.01" name="troll">
+      <roles>
+        <role descr="troller, agent" f="PAG" n="0"/>
+        <role descr="area trolled, location" f="LOC" n="1"/>
+        <role descr="thing trolled for, theme" f="PPT" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

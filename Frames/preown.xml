@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="preown">
+    <roleset id="preown.01" name="be a previous owner">
+      <roles>
+        <role descr="owner" f="pag" n="0"/>
+        <role descr="possession" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

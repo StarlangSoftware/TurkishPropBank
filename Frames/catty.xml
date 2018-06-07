@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="catty">
+    <roleset id="catty.01" name="bitchy, petty and mean">
+      <roles>
+        <role descr="agent of catty behavior; the cat" f="pag" n="0"/>
+        <role descr="catty action/behavior" f="ppt" n="1"/>
+        <role descr="affected entity, target of catty behavior" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

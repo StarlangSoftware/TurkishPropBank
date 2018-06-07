@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="immunoblot">
+    <roleset id="immunoblot.01" name="analyse or identify proteins via antigen-antibody specific reactions">
+      <roles>
+        <role descr="intentional agent of immunoblotting (e.g. scientist)" f="pag" n="0" />
+        <role descr="target of immunoblotting, antigens/proteins checked for" f="ppt" n="1" />
+        <role descr="source tissue being immunoblotted" f="ppt" n="2" />
+        <role descr="instrument, antibody, stain" f="mnr" n="3" />
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

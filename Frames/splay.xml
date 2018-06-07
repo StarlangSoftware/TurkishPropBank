@@ -1,0 +1,13 @@
+<frameset>
+  <predicate lemma="splay">
+    <roleset id="splay.01" name="(cause to) spread out or apart">
+      <roles>
+        <role descr="causer of growth, agent" f="pag" n="0"/>
+        <role descr="thing splayed" f="ppt" n="1"/>
+        <role descr="amount increased by, EXT or MNR" f="ext" n="2"/>
+        <role descr="start point" f="dir" n="3"/>
+        <role descr="end point" f="prd" n="4"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

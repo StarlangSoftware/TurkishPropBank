@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="methylate">
+    <roleset id="methylate.01" name="addition of a methyl group to an atom or group">
+      <roles>
+        <role descr="agent/causer of methylation (e.g. scientist)" f="pag" n="0"/>
+        <role descr="entity methylated" f="ppt" n="1"/>
+        <role descr="instrument (e.g. enzyme)" f="prd" n="2"/>
+        <role descr="resulting state of modification" f="prd" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

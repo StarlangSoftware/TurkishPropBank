@@ -1,0 +1,18 @@
+<frameset>
+  <predicate lemma="gloss_over">
+    <roleset id="gloss_over.01" name="discretely ignore">
+      <roles>
+        <role descr="glosser over" f="PAG" n="0"/>
+        <role descr="thing glossed over" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="gloss">
+    <roleset id="gloss.02" name="have a lustre">
+      <roles>
+        <role descr="causer of glossiness" f="PAG" n="0"/>
+        <role descr="glossy thing" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

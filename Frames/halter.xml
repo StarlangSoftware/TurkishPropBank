@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="halter">
+    <roleset id="halter.01" name="place a halter on, restrain by halter">
+      <roles>
+        <role descr="causer of haltering" f="PAG" n="0"/>
+        <role descr="halter, headstall itself" f="PPT" n="1"/>
+        <role descr="horse, entity restrained by halter" f="GOL" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

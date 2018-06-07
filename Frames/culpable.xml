@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="culpable">
+    <roleset id="culpable.01" name="blameworthy, responsible for">
+      <roles>
+        <role descr="entity worthy of blame" f="ppt" n="1"/>
+        <role descr="for what" f="cau" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

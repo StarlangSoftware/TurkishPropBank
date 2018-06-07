@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="bucket">
+    <roleset id="bucket.01" name="rain really hard">
+      <roles>
+        <role descr="the rain itself (cognate object)" f="pag" n="1"/>
+        <role descr="DIR: direction (usually 'down')" f="dir" n="m"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="recount">
+    <roleset id="recount.01" name="to describe or enumerate">
+      <roles>
+        <role descr="teller of tale" f="PAG" n="0"/>
+        <role descr="tale" f="PPT" n="1"/>
+        <role descr="listener" f="GOL" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

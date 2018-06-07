@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="relevant">
+    <roleset id="relevant.01" name="relevant">
+      <roles>
+        <role descr="thing that's relevant" f="pag" n="1"/>
+        <role descr="relevant to what?" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,30 @@
+<frameset>
+  <predicate lemma="drive">
+    <roleset id="drive.01" name="drive or be driven around in a vehicle">
+      <roles>
+        <role descr="driver" f="pag" n="0"/>
+        <role descr="vehicle or path" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="drive.02" name="cause to move or become, impelled, inspired">
+      <roles>
+        <role descr="driver" f="pag" n="0"/>
+        <role descr="thing in motion" f="ppt" n="1"/>
+        <role descr="secondary predication on arg1" f="prd" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="drive.03" name="desire for something">
+      <roles>
+        <role descr="Desirer, driven person" f="pag" n="0"/>
+        <role descr="desired thing, driven to/for what?" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="drive.04" name="Cause, effort, campaign">
+      <roles>
+        <role descr="cause, campaigner" f="pag" n="0"/>
+        <role descr="cause, campaign beneficiary" f="gol" n="1"/>
+        <role descr="type of drive, attribute" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

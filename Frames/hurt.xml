@@ -1,0 +1,30 @@
+<frameset>
+  <predicate lemma="hurt">
+    <roleset id="hurt.01" name="cause damage to (transitive), causing damage to">
+      <roles>
+        <role descr="agent, entity causing damage" f="pag" n="0"/>
+        <role descr="patient, entity experiencing hurt/damage" f="ppt" n="1"/>
+        <role descr="instrument (if in addition to arg0)" f="mnr" n="2"/>
+        <role descr="benefactive" f="gol" n="3"/>
+      </roles>
+    
+    </roleset>
+    <roleset id="hurt.02" name="be experiencing pain (intransitive), experiencing pain">
+      <roles>
+        <role descr="patient, entity experiencing pain" f="pag" n="1">
+</role>
+      </roles>
+    
+    </roleset>
+  </predicate>
+  <predicate lemma="hurtful">
+    <roleset id="hurtful.03" name="tending to, able to cause damage to">
+      <roles>
+        <role descr="entity causing damage" f="pag" n="0"/>
+        <role descr="entity experiencing hurt/damage" f="ppt" n="1"/>
+        <role descr="instrument (if in addition to arg0)" f="mnr" n="2"/>
+        <role descr="benefactive" f="gol" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

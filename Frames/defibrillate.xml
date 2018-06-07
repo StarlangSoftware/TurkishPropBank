@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="defibrillate">
+    <roleset id="defibrillate.01" name="to restore normal contractions in the heart, stopping fibrillation of the heart; restoring normal contractions">
+      <roles>
+        <role descr="agent, cause of defibrillation" f="pag" n="0"/>
+        <role descr="entity defibrillated, patient" f="ppt" n="1"/>
+        <role descr="instrument of defibrillation" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

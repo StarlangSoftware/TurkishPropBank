@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="hyperdynamic">
+    <roleset id="hyperdynamic.01" name="increase in blood pressure and pulse pressure">
+      <roles>
+        <role descr="hyperdynamic thing" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

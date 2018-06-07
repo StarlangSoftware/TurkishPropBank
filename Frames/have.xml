@@ -1,0 +1,77 @@
+<frameset>
+  <predicate lemma="have">
+    <roleset id="have.01" name="auxiliary">
+        <roles/>
+    </roleset>
+    <roleset id="have.02" name="modal">
+        <roles/>
+    </roleset>
+	
+    <roleset id="have.03" name="own, possess">
+      <roles>
+        <role descr="owner" f="pag" n="0">
+	    </role>
+        <role descr="possession" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+	
+    <roleset id="have.04" name="caused action">
+      <roles>
+        <role descr="causer" f="pag" n="0"/>
+        <role descr="action" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+	
+    <roleset id="have.05" name="birthing sense">
+      <roles>
+        <role descr="entity giving birth to something" f="pag" n="0">
+		</role>
+        <role descr="entity birthed" f="ppt" n="1">
+	  </role>
+      </roles>
+    </roleset>
+	
+    <roleset id="have.06" name="light verb-- FOR AMR USE ONLY">
+      <roles>
+        <role descr="true subject" f="pag" n="0"/>
+        <role descr="true predicate" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="have.11" name="have yet to">
+      <roles>
+        <role descr="subject, entity having not yet done arg2" f="pag" n="0"/>
+        <role descr="fixed: 'yet'" f="vsp" n="1"/>
+        <role descr="have yet to what (infinitival S-node complement)" f="prd" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="have.07" name="semi-modal: had better/best">
+      <roles>
+        <role descr="entity that should" f="pag" n="0"/>
+        <role descr="fixed: better/best" f="vsp" n="1"/>
+        <role descr="what arg0 had better/best do (main verb clause)" f="prd" n="2"/>
+      </roles>
+    </roleset>
+	
+    <roleset id="have.08" name="have at you! (tackle)">
+      <roles>
+        <role descr="agent, tackler" f="pag" n="0"/>
+        <role descr="thing tackled ('at' what)" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+	
+    <roleset id="have.09" name="have_one's_way_with: have sex with, possibly rape-ily">
+      <roles>
+        <role descr="agent, agressor" f="pag" n="0"/>
+        <role descr="fixed: (arg0's) way" f="vsp" n="1"/>
+        <role descr="victim/patient" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+	
+    <roleset id="have.10" name="have a go at; attempt, try out">
+      <roles>
+        <role descr="agent" f="pag" n="0"/>
+        <role descr="action attempted. &quot;a go at __&quot;" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

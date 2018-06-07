@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="abate">
+    <roleset id="abate.01" name="to decrease,  become less strong">
+      <roles>
+        <role descr="causer" f="PAG" n="0"/>
+        <role descr="entity decreased" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

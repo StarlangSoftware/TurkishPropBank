@@ -1,0 +1,40 @@
+<frameset>
+  <predicate lemma="mean">
+    <roleset id="mean.01" name="signal, convey">
+      <roles>
+        <role descr="agent" f="pag" n="0"/>
+        <role descr="element containing meaning" f="mnr" n="1"/>
+        <role descr="meaning" f="ppt" n="2"/>
+        <role descr="perceiver, beneficiary" f="gol" n="3"/>
+      </roles>
+    </roleset>
+    <roleset id="mean.02" name="intend">
+      <roles>
+        <role descr="agent" f="pag" n="0"/>
+        <role descr="thing intended" f="ppt" n="1"/>
+        <role descr="beneficiary, meant for" f="gol" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="mean.03" name="stingy, meager">
+      <roles>
+        <role descr="miser" f="pag" n="0"/>
+        <role descr="meager thing" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="mean.04" name="mean, unkind">
+      <roles>
+        <role descr="giver of misery, mean entity" f="pag" n="0"/>
+        <role descr="target of meanness" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="meaningful">
+    <roleset id="meaningful.05" name="intend, explain, is equivalent to">
+      <roles>
+        <role descr="agent, element containing or conveying meaning" f="pag" n="0"/>
+        <role descr="thing meant, explanation" f="ppt" n="1"/>
+        <role descr="meant for/to" f="prp" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

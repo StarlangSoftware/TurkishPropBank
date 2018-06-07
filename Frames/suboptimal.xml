@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="suboptimal">
+    <roleset id="suboptimal.01" name="less than ideal">
+      <roles>
+        <role descr="thing that is less than ideal" f="ppt" n="1"/>
+        <role descr="situation/entity requiring/benefitting from optimal arg1" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

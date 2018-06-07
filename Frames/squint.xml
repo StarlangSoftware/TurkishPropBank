@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="squint">
+    <roleset id="squint.01" name="to look with the eyes partly closed">
+      <roles>
+        <role descr="looker" f="pag" n="0"/>
+        <role descr="looked at" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

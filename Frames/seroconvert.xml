@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="seroconvert">
+    <roleset id="seroconvert.01" name="develop specific antibodies as a result of infection or immunization">
+      <roles>
+        <role descr="Causer" f="pag" n="0"/>
+        <role descr="Entity seroconverted" f="ppt" n="1"/>
+        <role descr="Instrument, manner" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

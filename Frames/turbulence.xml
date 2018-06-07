@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="turbulence">
+    <roleset id="turbulence.01" name="instability in airflow, bumpy, roiling, rough">
+      <roles>
+        <role descr="substance flowing roughly" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

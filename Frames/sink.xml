@@ -1,0 +1,23 @@
+<frameset>
+  <predicate lemma="sink">
+    <roleset id="sink.01" name="(cause to) go down, esp into water, downward motion">
+      <roles>
+        <role descr="causer of sinking" f="pag" n="0"/>
+        <role descr="thing sinking" f="ppt" n="1"/>
+        <role descr="EXT" f="ext" n="2"/>
+        <role descr="start point" f="dir" n="3"/>
+        <role descr="end point, destination" f="gol" n="4"/>
+        <role descr="instrument" f="mnr" n="5"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="sinkex">
+    <roleset id="sinkex.02" name="military ship sinking exercise">
+      <roles>
+        <role descr="agent" f="PAG" n="0"/>
+        <role descr="target ship" f="ppt" n="1"/>
+        <role descr="instrument/weapon used" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

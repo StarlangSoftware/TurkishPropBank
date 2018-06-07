@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="altercation">
+    <roleset id="altercation.01" name="hostile encounter, quarrel">
+      <roles>
+        <role descr="first participant" f="pag" n="0"/>
+        <role descr="second participant" f="com" n="1"/>
+        <role descr="spoils, over what?" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

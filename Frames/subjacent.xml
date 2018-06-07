@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="subjacent">
+    <roleset id="subjacent.01" name="at a lower level, not immediatly underneath">
+      <roles>
+        <role descr="thing lying below" f="pag" n="1"/>
+        <role descr="below what" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

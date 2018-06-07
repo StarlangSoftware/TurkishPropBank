@@ -1,0 +1,24 @@
+<frameset>
+  <predicate lemma="regularize">
+    <roleset id="regularize.01" name="to make regular">
+      <roles>
+        <role descr="agent, cause of regularization" f="PAG" n="0"/>
+        <role descr="entity regularized" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="regular">
+    <roleset id="regular.02" name="occuring on a consistent schedule; periodic">
+      <roles>
+        <role descr="thing occuring regularly" f="pag" n="1"/>
+        <role descr="specific activity/aspect of arg1 that occurs regularly (if in addition)" f="vsp" n="2"/>
+        <role descr="measurement of the period" f="vsp" n="3"/>
+      </roles>
+    </roleset>
+    <roleset id="regular.03" name="average, ordinary, of the norm">
+      <roles>
+        <role descr="ordinary thing" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

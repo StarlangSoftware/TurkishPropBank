@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="redraw">
+    <roleset id="redraw.01" name="redraw">
+      <roles>
+        <role descr="redrawer, agent" f="PAG" n="0"/>
+        <role descr="thing redrawn, theme" f="PPT" n="1"/>
+        <role descr="redrawn as what, predicate" f="PRD" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="beg">
+    <roleset id="beg.01" name="beg">
+      <roles>
+        <role descr="begger, appealer" f="PAG" n="0"/>
+        <role descr="appealed to, begged from" f="GOL" n="1"/>
+        <role descr="begged/appealed for" f="PPT" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

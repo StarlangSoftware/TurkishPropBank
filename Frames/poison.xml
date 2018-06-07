@@ -1,0 +1,26 @@
+<frameset>
+  <predicate lemma="poison">
+    <roleset id="poison.01" name="kill via poison, kill or make sick via poison">
+      <roles>
+        <role descr="killer" f="PAG" n="0"/>
+        <role descr="corpse" f="PPT" n="1"/>
+        <role descr="poison" f="MNR" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="poison.02" name="put poison on/in something">
+      <roles>
+        <role descr="applier" f="PAG" n="0"/>
+        <role descr="poisoned substance" f="GOL" n="1"/>
+        <role descr="poison" f="PPT" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="poisonous">
+    <roleset id="poisonous.03" name="venomous, toxic">
+      <roles>
+        <role descr="entity susceptible to poison" f="ppt" n="1"/>
+        <role descr="poison" f="pag" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

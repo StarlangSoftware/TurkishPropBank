@@ -1,0 +1,20 @@
+<frameset>
+  <predicate lemma="remove">
+    <roleset id="remove.01" name="remove">
+      <roles>
+        <role descr="entity removing" f="pag" n="0"/>
+        <role descr="thing being removed" f="ppt" n="1"/>
+        <role descr="removed from" f="dir" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="removable">
+    <roleset id="removable.02" name="able to be taken away">
+      <roles>
+        <role descr="agent of removal" f="pag" n="0"/>
+        <role descr="thing removed" f="ppt" n="1"/>
+        <role descr="source, removed from" f="dir" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

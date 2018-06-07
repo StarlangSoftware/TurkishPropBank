@@ -1,0 +1,19 @@
+<frameset>
+  <predicate lemma="snuff">
+    <roleset id="snuff.01" name="snuff, sniffle">
+      <roles>
+        <role descr="snuffer" f="pag" n="0"/>
+        <role descr="thing snuffed" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="snuff_out">
+    <roleset id="snuff_out.02" name="extinguish">
+      <roles>
+        <role descr="agent of extinguishing" f="pag" n="0"/>
+        <role descr="thing extinguished" f="ppt" n="1"/>
+        <role descr="instrument" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

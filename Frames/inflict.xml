@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="inflict">
+    <roleset id="inflict.01" name="cause injury">
+      <roles>
+        <role descr="inflicter" f="pag" n="0"/>
+        <role descr="injury" f="ppt" n="1"/>
+        <role descr="injured" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

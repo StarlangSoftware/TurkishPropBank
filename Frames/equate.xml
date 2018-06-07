@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="equate">
+    <roleset id="equate.01" name="declare equal">
+      <roles>
+        <role descr="agent, declarer" f="pag" n="0"/>
+        <role descr="first equal thing (or both)" f="ppt" n="1"/>
+        <role descr="second equal thing" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

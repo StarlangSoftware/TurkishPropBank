@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="gestate">
+    <roleset id="gestate.01" name="gestate, carry offspring, enabling/ allowing to develop">
+      <roles>
+        <role descr="agent, mother" f="PAG" n="0"/>
+        <role descr="offspring" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

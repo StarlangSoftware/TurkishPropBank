@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="need">
+    <roleset id="need.01" name="need, required, necessary">
+      <roles>
+        <role descr="needer" f="PAG" n="0"/>
+        <role descr="thing needed" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

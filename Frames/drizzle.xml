@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="drizzle">
+    <roleset id="drizzle.01" name="load">
+      <roles>
+        <role descr="loader, agent" f="pag" n="0"/>
+        <role descr="beast of burden" f="gol" n="1"/>
+        <role descr="things that gets loaded" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="digitize">
+    <roleset id="digitize.01" name="put into digital format">
+      <roles>
+        <role descr="digitizer" f="pag" n="0"/>
+        <role descr="thing digitized" f="ppt" n="1"/>
+        <role descr="former format" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

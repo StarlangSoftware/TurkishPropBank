@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="denigrate">
+    <roleset id="denigrate.01" name="minimize, play down">
+      <roles>
+        <role descr="speaker" f="PAG" n="0"/>
+        <role descr="subject" f="PPT" n="1"/>
+        <role descr="grounds, reason" f="CAU" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

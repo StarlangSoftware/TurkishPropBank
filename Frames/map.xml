@@ -1,0 +1,17 @@
+<frameset>
+  <predicate lemma="map">
+    <roleset id="map.01" name="describe, as on a map">
+      <roles>
+        <role descr="mapper" f="pag" n="0"/>
+        <role descr="thing mapped" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="map.02" name="make one-to-one correspondence">
+      <roles>
+        <role descr="drawer of comparison, agent" f="pag" n="0"/>
+        <role descr="first thing" f="ppt" n="1"/>
+        <role descr="thing(s) mapped onto" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

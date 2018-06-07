@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="cauterize">
+    <roleset id="cauterize.01" name="burn, sear">
+      <roles>
+        <role descr="agent, cause" f="PAG" n="0"/>
+        <role descr="entity being cauterized" f="PPT" n="1"/>
+        <role descr="instrument" f="MNR" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

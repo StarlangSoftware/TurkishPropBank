@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="spool">
+    <roleset id="spool.01" name="to cover or coat with tin">
+      <roles>
+        <role descr="spooler" f="PAG" n="0"/>
+        <role descr="thing spooled" f="PPT" n="1"/>
+        <role descr="spool, location" f="GOL" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

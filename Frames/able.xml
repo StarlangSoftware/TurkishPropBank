@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="able">
+    <roleset id="able.01" name="have an ability, skill, being able">
+      <roles>
+        <role descr="entity with ability" f="ppt" n="1"/>
+        <role descr="ability itself, what is arg1 able to do?" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

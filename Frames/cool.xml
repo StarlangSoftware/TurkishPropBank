@@ -1,0 +1,43 @@
+<frameset>
+  <predicate lemma="cool">
+    <roleset id="cool.01" name="cause to be cool">
+      <roles>
+        <role descr="person doing the cooling" f="pag" n="0"/>
+        <role descr="thing cooling" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="cool.04" name="hip, trendy">
+      <roles>
+        <role descr="trendy thing" f="pag" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="cool.05" name="unfriendly, aloof">
+      <roles>
+        <role descr="unfriendly entity" f="pag" n="0"/>
+        <role descr="recipient/target of unfriendly behavior" f="gol" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="cool.06" name="having a temperature between luke warm and very cold">
+      <roles>
+        <role descr="thing with fewer degrees (cool temp-wise)" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="cool_down">
+    <roleset id="cool_down.02" name="cause to be cool">
+      <roles>
+        <role descr="person doing the cooling" f="pag" n="0"/>
+        <role descr="thing cooling" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="cool_off">
+    <roleset id="cool_off.03" name="cause to be cool">
+      <roles>
+        <role descr="person doing the cooling" f="pag" n="0"/>
+        <role descr="thing cooling" f="ppt" n="1"/>
+        <role descr="start point" f="dir" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

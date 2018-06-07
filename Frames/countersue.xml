@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="countersue">
+    <roleset id="countersue.01" name="call to court">
+      <roles>
+        <role descr="litigant" f="pag" n="0"/>
+        <role descr="defender" f="ppt" n="1"/>
+        <role descr="crime" f="cau" n="2"/>
+        <role descr="intended prize" f="prp" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

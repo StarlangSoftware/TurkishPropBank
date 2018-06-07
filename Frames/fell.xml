@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="fell">
+    <roleset id="fell.01" name="cause to fall down">
+      <roles>
+        <role descr="causer" f="pag" n="0"/>
+        <role descr="faller (us. trees)" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

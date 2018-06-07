@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="rumble">
+    <roleset id="rumble.01" name="to move or proceed with a long rolling sound">
+      <roles>
+        <role descr="entity rumbling" f="ppt" n="0"/>
+        <role descr="sound/utterance" f="ppt" n="1"/>
+        <role descr="hearer" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

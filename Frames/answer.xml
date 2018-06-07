@@ -1,0 +1,20 @@
+<frameset>
+  <predicate lemma="answer">
+    <roleset id="answer.01" name="give an answer, reply">
+      <roles>
+        <role descr="replier" f="pag" n="0"/>
+        <role descr="in response to" f="gol" n="1"/>
+        <role descr="answer" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="answerable">
+    <roleset id="answerable.02" name="answerable">
+      <roles>
+        <role descr="perpetrator, answerable one" f="PPT" n="1"/>
+        <role descr="role or crime, answerable for what?" f="PPT" n="2"/>
+        <role descr="judge, answerable to whom?" f="GOL" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

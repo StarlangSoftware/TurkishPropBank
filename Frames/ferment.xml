@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="ferment">
+    <roleset id="ferment.01" name="cause to undergo fermentation">
+      <roles>
+        <role descr="cause, agent" f="pag" n="0"/>
+        <role descr="patient, thing undergoing fermentation" f="ppt" n="1"/>
+        <role descr="end state" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

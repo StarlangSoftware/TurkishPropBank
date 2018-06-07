@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="twig">
+    <roleset id="twig.01" name="branch out (like a twig)">
+      <roles>
+        <role descr="thing branching" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

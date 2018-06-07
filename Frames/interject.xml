@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="interject">
+    <roleset id="interject.01" name="insert into a conversation">
+      <roles>
+        <role descr="interjector, speaker" f="pag" n="0"/>
+        <role descr="utterance" f="ppt" n="1"/>
+        <role descr="context" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

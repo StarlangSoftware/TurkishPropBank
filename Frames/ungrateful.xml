@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="ungrateful">
+    <roleset id="ungrateful.01" name="not thankful">
+      <roles>
+        <role descr="ingrate" f="pag" n="0"/>
+        <role descr="entity not thanked" f="ppt" n="1"/>
+        <role descr="for what" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

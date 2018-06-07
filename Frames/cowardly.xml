@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="cowardly">
+    <roleset id="cowardly.01" name="lily livered scaredy cat">
+      <roles>
+        <role descr="entity/act that is cowardly (my require concatenation)" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

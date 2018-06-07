@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="blockade">
+    <roleset id="blockade.01" name="impede">
+      <roles>
+        <role descr="impeder, Agent" f="pag" n="0"/>
+        <role descr="impeded, Theme" f="gol" n="1"/>
+        <role descr="Instrument" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

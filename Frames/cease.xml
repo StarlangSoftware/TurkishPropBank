@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="cease">
+    <roleset id="cease.01" name="stop">
+      <roles>
+        <role descr="causer of ceasing, Agent" f="pag" n="0"/>
+        <role descr="Theme (action or object being stopped)" f="ppt" n="1"/>
+        <role descr="Instrument" f="mnr" n="2"/>
+      </roles>
+    
+    </roleset>
+  </predicate>
+</frameset>

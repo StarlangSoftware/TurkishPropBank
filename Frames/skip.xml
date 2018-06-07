@@ -1,0 +1,22 @@
+<frameset>
+  <predicate lemma="skip">
+    <roleset id="skip.01" name="to miss, omit or avoid">
+      <roles>
+        <role descr="omiter, skipper" f="PAG" n="0"/>
+        <role descr="thing skipped" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="skip.02" name="to move lighly, to jump">
+      <roles>
+        <role descr="one in motion" f="PPT" n="0"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="skip_off">
+    <roleset id="skip_off.03" name="to leave quickly">
+      <roles>
+        <role descr="one in motion" f="PAG" n="0"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

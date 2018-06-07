@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="vow">
+    <roleset id="vow.01" name="to promise">
+      <roles>
+        <role descr="promiser, agent" f="pag" n="0"/>
+        <role descr="promised action" f="ppt" n="1"/>
+        <role descr="promised to whom?" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

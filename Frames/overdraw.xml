@@ -1,0 +1,18 @@
+<frameset>
+  <predicate lemma="overdraw">
+    <roleset id="overdraw.01" name="overstate, exaggerate">
+      <roles>
+        <role descr="overdrawer" f="pag" n="0"/>
+        <role descr="thing overdrawn" f="ppt" n="1"/>
+        <role descr="attribute of arg1" f="prd" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="overdraw.02" name="remove beyond means">
+      <roles>
+        <role descr="remover" f="pag" n="0"/>
+        <role descr="thing removed" f="ppt" n="1"/>
+        <role descr="source, removed from" f="dir" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

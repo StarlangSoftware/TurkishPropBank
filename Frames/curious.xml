@@ -1,0 +1,15 @@
+<frameset>
+  <predicate lemma="curious">
+    <roleset id="curious.01" name="curious">
+      <roles>
+        <role descr="stimulus-- what intrigues arg1" f="ppt" n="0"/>
+        <role descr="curious/intrigued entity" f="pag" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="curious.02" name="strange; 'curiouser and curiouser'">
+      <roles>
+        <role descr="thing that is strange (may require concatenation" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

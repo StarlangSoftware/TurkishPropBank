@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="fame">
+    <roleset id="fame.01" name="well known, popular, renowned">
+      <roles>
+        <role descr="honorer" f="pag" n="0"/>
+        <role descr="famous entity" f="ppt" n="1"/>
+        <role descr="for what reason" f="cau" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

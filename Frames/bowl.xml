@@ -1,0 +1,17 @@
+<frameset>
+  <predicate lemma="bowl">
+    <roleset id="bowl.01" name="throw heavy balls at pins">
+      <roles>
+        <role descr="bowler (not the hat)" f="PPT" n="0"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="bowl_over">
+    <roleset id="bowl_over.02" name="astonish">
+      <roles>
+        <role descr="causer of astonishment" f="PAG" n="0"/>
+        <role descr="astonished entity" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

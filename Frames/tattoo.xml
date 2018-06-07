@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="tattoo">
+    <roleset id="tattoo.01" name="to mark the skin with permanent colors and patterns">
+      <roles>
+        <role descr="tattooer, applier of design" f="pag" n="0"/>
+        <role descr="tattooed, person design is applied to" f="gol" n="1"/>
+        <role descr="the design" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

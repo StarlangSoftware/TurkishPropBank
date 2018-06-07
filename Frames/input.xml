@@ -1,0 +1,18 @@
+<frameset>
+  <predicate lemma="input">
+    <roleset id="input.01" name="put data into a system, to put or set into, between, or among">
+      <roles>
+        <role descr="inserter" f="pag" n="0"/>
+        <role descr="entity inserted" f="ppt" n="1"/>
+        <role descr="location" f="loc" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="input.02" name="put your two cents in">
+      <roles>
+        <role descr="commentor" f="pag" n="0"/>
+        <role descr="thing commented on" f="ppt" n="1"/>
+        <role descr="the comment itself" f="vsp" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

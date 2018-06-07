@@ -1,0 +1,149 @@
+<frameset>
+  <predicate lemma="turn">
+    <roleset id="turn.01" name="rotation, motion in a new direction">
+      <roles>
+        
+        <role descr="turner" f="pag" n="0"/>
+        <role descr="thing turning" f="ppt" n="1"/>
+        <role descr="direction, location, destination" f="loc" n="m"/>
+      </roles>
+    </roleset>
+    <roleset id="turn.02" name="transformation, becoming">
+      <roles>
+        <role descr="causer of transformation" f="pag" n="0"/>
+        <role descr="thing changing" f="ppt" n="1"/>
+        <role descr="end state" f="prd" n="2"/>
+        <role descr="start state" f="vsp" n="3"/>
+      </roles>
+    </roleset>
+    <roleset id="turn.03" name="idiomatic: turn thumbs down on = reject">
+      <roles>
+        <role descr="rejecter" f="pag" n="0"/>
+        <role descr="thumbs" f="ppt" n="1"/>
+        <role descr="thing rejected" f="gol" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="turn.14" name="depend, hang">
+      <roles>
+        <role descr="depender" f="pag" n="0"/>
+        <role descr="depended on" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="turn.16" name="produce, nonphrasal">
+      <roles>
+        <role descr="producer" f="pag" n="0"/>
+        <role descr="us. 'profit'" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="turn.18" name="turn 'one's back' or 'a blind eye': ignore purposefully">
+      <roles>
+        <role descr="Turner" f="pag" n="0"/>
+        <role descr="Back/Blind eye" f="ppt" n="1"/>
+        <role descr="entity ignored" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="turn_away">
+    <roleset id="turn_away.04" name="reject">
+      <roles>
+        <role descr="turner" f="pag" n="0"/>
+        <role descr="thing turned away" f="ppt" n="1"/>
+        <role descr="turned-away-from" f="dir" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="turn_down">
+    <roleset id="turn_down.05" name="reject">
+      <roles>
+        <role descr="rejecter" f="pag" n="0"/>
+        <role descr="thing rejected" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="turn_in">
+    <roleset id="turn_in.06" name="give, hand in">
+      <roles>
+        <role descr="giver" f="pag" n="0"/>
+        <role descr="thing given" f="ppt" n="1"/>
+        <role descr="entity given to" f="gol" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="turn_in.22" name="surrender to authorities, as a criminal/rule violator">
+      <roles>
+        <role descr="agent" f="pag" n="0"/>
+        <role descr="entity turned in; criminal/rule violator" f="ppt" n="1"/>
+        <role descr="authorities" f="gol" n="2"/>
+        <role descr="crime/violation" f="vsp" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="turn_on">
+    <roleset id="turn_on.13" name="cause to be on">
+      <roles>
+        <role descr="cause of on-ness" f="pag" n="0"/>
+        <role descr="lamp, etc" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="turn_off">
+    <roleset id="turn_off.07" name="cause to be off">
+      <roles>
+        <role descr="turner off" f="pag" n="0"/>
+        <role descr="thing which becomes off" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="turn_off.08" name="cause to reject">
+      <roles>
+        <role descr="causer" f="pag" n="0"/>
+        <role descr="rejecter" f="ppt" n="1"/>
+        <role descr="thing rejected" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="turn_out">
+    <roleset id="turn_out.09" name="cause to be off">
+      <roles>
+        <role descr="turner out" f="pag" n="0"/>
+        <role descr="thing turned out" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="turn_out.10" name="produce, create">
+      <roles>
+        <role descr="creator" f="pag" n="0"/>
+        <role descr="creation" f="ppt" n="1"/>
+        <role descr="created-from, thing changed" f="dir" n="2"/>
+        <role descr="benefactive" f="gol" n="3"/>
+      </roles>
+    </roleset>
+    <roleset id="turn_out.11" name="seem">
+      <roles>
+        <role descr="thing seeming" f="ppt" n="1"/>
+        <role descr="attribute" f="prd" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="turn_out.17" name="(cause to) turn out: appear, show up">
+      <roles>
+        <role descr="cause" f="pag" n="0"/>
+        <role descr="those appearing" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="turn_over">
+    <roleset id="turn_over.12" name="submit, give, exchange">
+      <roles>
+        <role descr="giver" f="pag" n="0"/>
+        <role descr="thing given" f="ppt" n="1"/>
+        <role descr="entity given to" f="gol" n="2"/>
+        <role descr="in-exhange-for" f="ppt" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="turn_up">
+    <roleset id="turn_up.15" name="(cause to) appear">
+      <roles>
+        <role descr="agent, causer of appearance" f="pag" n="0"/>
+        <role descr="thing appearing" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,19 @@
+<frameset>
+  <predicate lemma="improve">
+    <roleset id="improve.01" name="make better">
+      <roles>
+        <role descr="improver" f="pag" n="0"/>
+        <role descr="thing improving" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="improve.02" name="add, rise">
+      <roles>
+        <role descr="Logical subject, patient, thing rising" f="ppt" n="1"/>
+        <role descr="EXT, amount risen" f="ext" n="2"/>
+        <role descr="start point" f="dir" n="3"/>
+        <role descr="end point" f="gol" n="4"/>
+        <role descr="medium" f="loc" n="m"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

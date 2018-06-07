@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="resonate">
+    <roleset id="resonate.01" name="sound robustly">
+      <roles>
+        <role descr="sound" f="ppt" n="1"/>
+        <role descr="additional description of sound" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

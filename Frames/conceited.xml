@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="conceited">
+    <roleset id="conceited.01" name="vain">
+      <roles>
+        <role descr="vain one" f="pag" n="1"/>
+        <role descr="trait that arg1 is vain about" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

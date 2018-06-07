@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="downsize">
+    <roleset id="downsize.01" name="reduce in size">
+      <roles>
+        <role descr="agent, evil corporate monolith" f="PAG" n="0"/>
+        <role descr="theme, peon or company" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

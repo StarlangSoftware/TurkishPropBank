@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="outdo">
+    <roleset id="outdo.01" name="to do something to a greater degree">
+      <roles>
+        <role descr="entity doing better" f="PAG" n="0"/>
+        <role descr="entity outdone" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

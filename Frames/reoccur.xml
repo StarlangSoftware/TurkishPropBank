@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="reoccur">
+    <roleset id="reoccur.01" name="occur, take place again, occur again">
+      <roles>
+        <role descr="event" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="moisturize">
+    <roleset id="moisturize.01" name="(cause to) become moist, especially the skin">
+      <roles>
+        <role descr="agent of moisturizing, entity putting lotion on" f="pag" n="0"/>
+        <role descr="thing moisturized, skin" f="ppt" n="1"/>
+        <role descr="instrument, lotion or other liquid put on arg 1" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

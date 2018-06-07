@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="surefire">
+    <roleset id="surefire.01" name="certain">
+      <roles>
+        <role descr="thing that is certain" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

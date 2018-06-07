@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="wikipedia">
+    <roleset id="wikipedia.01" name="look up on wikipedia">
+      <roles>
+        <role descr="agent of search" f="PAG" n="0"/>
+        <role descr="target of search" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

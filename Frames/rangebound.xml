@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="rangebound">
+    <roleset id="rangebound.01" name="priced between and upper and a lower limit">
+      <roles>
+        <role descr="rangebound entity" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

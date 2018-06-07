@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="repent">
+    <roleset id="repent.01" name="regret, feel penitence">
+      <roles>
+        <role descr="repenter" f="pag" n="0"/>
+        <role descr="thing regretted, shameful act" f="ppt" n="1"/>
+        <role descr="listener, repent to whom?" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

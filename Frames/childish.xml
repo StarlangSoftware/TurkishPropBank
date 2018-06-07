@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="childish">
+    <roleset id="childish.01" name="lacking in maturity">
+      <roles>
+        <role descr="childish entity" f="ppt" n="1"/>
+        <role descr="childish about what?" f="cau" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

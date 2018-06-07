@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="reconnoitre">
+    <roleset id="reconnoitre.01" name="covertly gathering intelligence">
+      <roles>
+        <role descr="spy" f="pag" n="0"/>
+        <role descr="location searched, infiltrated" f="loc" n="1"/>
+        <role descr="intelligence sought" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

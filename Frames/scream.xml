@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="scream">
+    <roleset id="scream.01" name="speak very loudly, loud, screechy utterance">
+      <roles>
+        <role descr="screamer" f="pag" n="0"/>
+        <role descr="the scream" f="ppt" n="1"/>
+        <role descr="hearer" f="gol" n="2"/>
+        <role descr="reason (cause) for screaming" f="cau" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

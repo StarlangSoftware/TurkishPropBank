@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="dismay">
+    <roleset id="dismay.01" name="bewilder with disappointment">
+      <roles>
+        <role descr="agent, causer" f="pag" n="0"/>
+        <role descr="entity dismayed" f="ppt" n="1"/>
+        <role descr="entity dismayed at" f="cau" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

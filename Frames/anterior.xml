@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="anterior">
+    <roleset id="anterior.01" name="be towards the front plane of the body">
+      <roles>
+        <role descr="thing that is more forward" f="ppt" n="1"/>
+        <role descr="in reference to what" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

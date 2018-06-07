@@ -1,0 +1,20 @@
+<frameset>
+  <predicate lemma="slough">
+    <roleset id="slough.01" name="shedding, remove in flaky chunks">
+      <roles>
+        <role descr="shedder" f="pag" n="0"/>
+        <role descr="thing shed" f="ppt" n="1"/>
+        <role descr="source, if separate from arg0" f="dir" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="slough_off">
+    <roleset id="slough_off.02" name="removing in flaky chunks">
+      <roles>
+        <role descr="shedder" f="pag" n="0"/>
+        <role descr="thing shed" f="ppt" n="1"/>
+        <role descr="source, if separate from arg0" f="dir" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

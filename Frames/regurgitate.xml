@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="regurgitate">
+    <roleset id="regurgitate.01" name="puke, throw up, (involuntarily) purge, vomit, purge">
+      <roles>
+        <role descr="puker" f="PAG" n="0"/>
+        <role descr="former contents of stomach" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

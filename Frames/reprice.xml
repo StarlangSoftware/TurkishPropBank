@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="reprice">
+    <roleset id="reprice.01" name="to put a price on something, again">
+      <roles>
+        <role descr="seller" f="pag" n="0"/>
+        <role descr="commodity" f="ppt" n="1"/>
+        <role descr="price" f="vsp" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

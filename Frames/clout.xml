@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="clout">
+    <roleset id="clout.01" name="to strike (often a ball) hard">
+      <roles>
+        <role descr="hitter" f="PAG" n="0"/>
+        <role descr="victim or ball" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,15 @@
+<frameset>
+  <predicate lemma="clatter">
+    <roleset id="clatter.01" name="make rattling noises">
+      <roles>
+        <role descr="noisy thing" f="PPT" n="0"/>
+      </roles>
+    </roleset>
+    <roleset id="clatter.02" name="move while clattering">
+      <roles>
+        <role descr="thing in motion" f="PAG" n="0"/>
+        <role descr="path" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

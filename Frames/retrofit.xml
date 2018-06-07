@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="retrofit">
+    <roleset id="retrofit.01" name="adapt for older technology">
+      <roles>
+        <role descr="adapter" f="pag" n="0"/>
+        <role descr="thing adapted" f="gol" n="1"/>
+        <role descr="for what, technology" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

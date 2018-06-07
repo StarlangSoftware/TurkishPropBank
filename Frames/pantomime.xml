@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="pantomime">
+    <roleset id="pantomime.01" name="communicate with gestures">
+      <roles>
+        <role descr="gesturer" f="pag" n="0"/>
+        <role descr="gesture itself" f="ppt" n="1"/>
+        <role descr="gestered to" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

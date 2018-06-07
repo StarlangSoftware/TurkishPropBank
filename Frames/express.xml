@@ -1,0 +1,25 @@
+<frameset>
+  <predicate lemma="express">
+    <roleset id="express.01" name="say">
+      <roles>
+        <role descr="speaker" f="pag" n="0"/>
+        <role descr="utterance" f="ppt" n="1"/>
+        <role descr="hearer" f="gol" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="express.02" name="send very quickly">
+      <roles>
+        <role descr="sender" f="pag" n="0"/>
+        <role descr="thing sent" f="ppt" n="1"/>
+        <role descr="sent-to" f="gol" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="express.03" name="biological expression (usually of a gene)">
+      <roles>
+        <role descr="gene, expressor" f="pag" n="1"/>
+        <role descr="protein, expressed material" f="ppt" n="2"/>
+        <role descr="cell, organ, location" f="loc" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

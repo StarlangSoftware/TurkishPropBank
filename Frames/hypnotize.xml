@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="hypnotize">
+    <roleset id="hypnotize.01" name="ahed says 'fascinate by hypnosis'">
+      <roles>
+        <role descr="hypnotist" f="PAG" n="0"/>
+        <role descr="subject, victim" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

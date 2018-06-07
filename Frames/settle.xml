@@ -1,0 +1,42 @@
+<frameset>
+  <predicate lemma="settle">
+    <roleset id="settle.01" name="decide">
+      <roles>
+        <role descr="decider" f="pag" n="0"/>
+        <role descr="decision" f="gol" n="1"/>
+        <role descr="benefactive" f="gol" n="2"/>
+        <role descr="instrument" f="mnr" n="3"/>
+      </roles>
+    </roleset>
+    <roleset id="settle.02" name="resolve, resolution of dispute">
+      <roles>
+        <role descr="entity making resolution" f="pag" n="0"/>
+        <role descr="thing being resolved" f="gol" n="1"/>
+        <role descr="comitative, resolved with" f="com" n="2"/>
+        <role descr="what the settlement is (value or decision)" f="prd" n="3"/>
+      </roles>
+    </roleset>
+    <roleset id="settle.03" name="come to rest, or approach a steady state">
+      <roles>
+        <role descr="entity causing something/someone to settle" f="pag" n="0"/>
+        <role descr="entity settling" f="ppt" n="1"/>
+        <role descr="EXT, amount declined by" f="ext" n="2"/>
+        <role descr="start point" f="dir" n="3"/>
+        <role descr="end point" f="loc" n="4"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="settle_down">
+    <roleset id="settle_down.04" name="and be quiet!">
+      <roles>
+        <role descr="one who should be quiet" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="settle_down.05" name="put down roots, plan to reside somewhere for the long run">
+      <roles>
+        <role descr="resident" f="ppt" n="0"/>
+        <role descr="location" f="loc" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

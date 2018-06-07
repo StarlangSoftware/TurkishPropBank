@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="anniversary">
+    <roleset id="anniversary.01" name="honor with memorial, be a memorial">
+      <roles>
+        <role descr="agent, honorer" f="pag" n="0"/>
+        <role descr="thing remembered" f="ppt" n="1"/>
+        <role descr="times celebrated" f="tmp" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

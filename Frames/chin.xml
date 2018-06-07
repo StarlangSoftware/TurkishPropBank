@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="chin">
+    <roleset id="chin.01" name="the violent act of punching someone in the face/chin">
+      <roles>
+        <role descr="puncher" f="pag" n="0"/>
+        <role descr="entity punched" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

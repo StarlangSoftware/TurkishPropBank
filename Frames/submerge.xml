@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="submerge">
+    <roleset id="submerge.01" name="plunge under water or fluid">
+      <roles>
+        <role descr="placer, causer of underwater-ness" f="pag" n="0"/>
+        <role descr="thing being put under water" f="ppt" n="1"/>
+        <role descr="location or fluid" f="loc" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

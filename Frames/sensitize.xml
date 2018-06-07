@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="sensitize">
+    <roleset id="sensitize.01" name="make sensitive, making or becoming sensitive">
+      <roles>
+        <role descr="cause of sensitivity" f="pag" n="0"/>
+        <role descr="entity becoming sensitive" f="ppt" n="1"/>
+        <role descr="sensitive to what" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

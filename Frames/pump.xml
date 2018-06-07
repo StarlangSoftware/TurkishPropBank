@@ -1,0 +1,35 @@
+<frameset>
+  <predicate lemma="pump">
+    <roleset id="pump.01" name="fill, filling/emptying with/of liquid">
+      <roles>
+        <role descr="pumper" f="pag" n="0"/>
+        <role descr="container" f="gol" n="1"/>
+        <role descr="liquid" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="pump.04" name="move up and down">
+      <roles>
+        <role descr="causer of movement" f="pag" n="0"/>
+        <role descr="thing moving up and down" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="pump_up">
+    <roleset id="pump_up.02" name="inflate, pumping_up: inflating">
+      <roles>
+        <role descr="pumper" f="pag" n="0"/>
+        <role descr="thing inflated" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="pump_out">
+    <roleset id="pump_out.03" name="drain">
+      <roles>
+        <role descr="pumper" f="pag" n="0"/>
+        <role descr="thing drained" f="ppt" n="1"/>
+        <role descr="liquid" f="ppt" n="2"/>
+        <role descr="instrument" f="mnr" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

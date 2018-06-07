@@ -1,0 +1,43 @@
+<frameset>
+  <predicate lemma="cry">
+    <roleset id="cry.01" name="speak loudly, yell, demand, possibly while weeping">
+      <roles>
+        <role descr="speaker" f="pag" n="0"/>
+        <role descr="utterance, demand" f="ppt" n="1"/>
+        <role descr="hearer" f="gol" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="cry.02" name="cry, weep">
+      <roles>
+        <role descr="cryer" f="pag" n="0"/>
+        <role descr="cognate object" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="cry_out">
+    <roleset id="cry_out.03" name="speak loudly, yell, speak   while weeping">
+      <roles>
+        <role descr="speaker" f="pag" n="0"/>
+        <role descr="utterance, demand" f="ppt" n="1"/>
+        <role descr="hearer" f="gol" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="cry_out.05" name="fixed: cry (one's) eyes out">
+      <roles>
+        <role descr="crier" f="PAG" n="0"/>
+        <role descr="fixed: arg0's 'eyes'" f="ppt" n="1"/>
+        <role descr="over what" f="vsp" n="2"/>
+        <role descr="to whom" f="gol" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="cry_down">
+    <roleset id="cry_down.04" name="decry, express low opinion of">
+      <roles>
+        <role descr="agent, decrier" f="PAG" n="0"/>
+        <role descr="devalued entity" f="ppt" n="1"/>
+        <role descr="reason for low opinion" f="cau" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,20 @@
+<frameset>
+  <predicate lemma="conceptualize">
+    <roleset id="conceptualize.01" name="to form a concept">
+      <roles>
+        <role descr="Conceptualizer, thinker" f="pag" n="0"/>
+        <role descr="Concept" f="ppt" n="1"/>
+        <role descr="Attribute" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="conceptual">
+    <roleset id="conceptual.02" name="to form a concept">
+      <roles>
+        <role descr="Conceptualizer, thinker" f="pag" n="0"/>
+        <role descr="Concept" f="ppt" n="1"/>
+        <role descr="Attribute" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

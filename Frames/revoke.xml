@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="revoke">
+    <roleset id="revoke.01" name="to void or annul">
+      <roles>
+        <role descr="revoker, agent" f="PAG" n="0"/>
+        <role descr="entity revoked" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

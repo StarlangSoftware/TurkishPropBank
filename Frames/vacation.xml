@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="vacation">
+    <roleset id="vacation.01" name="go on holiday, go on vacation">
+      <roles>
+        <role descr="vacationers" f="ppt" n="0"/>
+        <role descr="location of vacation" f="loc" n="1"/>
+        <role descr="vacation away from what" f="vsp" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

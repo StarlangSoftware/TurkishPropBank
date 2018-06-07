@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="latinamerican">
+    <roleset id="latinamerican.01" name="american, of latin decent">
+      <roles>
+        <role descr="latin american entity" f="pag" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

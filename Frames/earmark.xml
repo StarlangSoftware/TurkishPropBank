@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="earmark">
+    <roleset id="earmark.01" name="to reserve or set aside for a particular purpose">
+      <roles>
+        <role descr="setter aside, agent" f="pag" n="0"/>
+        <role descr="entity earmarked" f="ppt" n="1"/>
+        <role descr="earmarked for" f="prp" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

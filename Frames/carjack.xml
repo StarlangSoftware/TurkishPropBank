@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="carjack">
+    <roleset id="carjack.01" name="to commit theft of a vehicle   from its users">
+      <roles>
+        <role descr="carjacker, agent" f="PAG" n="0"/>
+        <role descr="car, entity hijacked" f="PPT" n="1"/>
+        <role descr="people, carjacked from" f="DIR" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

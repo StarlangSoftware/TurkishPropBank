@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="network">
+    <roleset id="network.01" name="connect into a network, metaphorical or otherwise">
+      <roles>
+        <role descr="creator of network" f="pag" n="0"/>
+        <role descr="first item networked" f="ppt" n="1"/>
+        <role descr="thing arg1 is connected/networked to" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

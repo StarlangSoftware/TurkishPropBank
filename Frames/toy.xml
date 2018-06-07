@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="toy">
+    <roleset id="toy.01" name="to experiment or play with something">
+      <roles>
+        <role descr="Agent, toyer" f="PAG" n="0"/>
+        <role descr="Thing toyed with" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

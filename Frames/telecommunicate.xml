@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="telecommunicate">
+    <roleset id="telecommunicate.01" name="communication over distance">
+      <roles>
+        <role descr="first communicator" f="pag" n="0"/>
+        <role descr="message, correspondance" f="ppt" n="1"/>
+        <role descr="other communicator" f="com" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

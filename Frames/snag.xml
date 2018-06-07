@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="snag">
+    <roleset id="snag.01" name="get, capture">
+      <roles>
+        <role descr="capturer" f="PAG" n="0"/>
+        <role descr="captured" f="PPT" n="1"/>
+        <role descr="instrument, hook" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

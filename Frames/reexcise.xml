@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="reexcise">
+    <roleset id="reexcise.01" name="remove by or as if by cutting again, remove again by cutting">
+      <roles>
+        <role descr="remover" f="pag" n="0"/>
+        <role descr="entity excised again" f="ppt" n="1"/>
+        <role descr="excised from" f="dir" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

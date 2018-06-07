@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="potentiate">
+    <roleset id="potentiate.01" name="enhance or increase potency of">
+      <roles>
+        <role descr="Agent, Cause of increased potency" f="pag" n="0"/>
+        <role descr="Thing enhanced/improved" f="ppt" n="1"/>
+        <role descr="Instrument (if separate from Arg0)" f="mnr" n="2"/>
+        <role descr="Enhanced by how much, EXT or MNR" f="ext" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

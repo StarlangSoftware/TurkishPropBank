@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="weasel_out">
+    <roleset id="weasel_out.01" name="weasel out">
+      <roles>
+        <role descr="agent, weaseler" f="PAG" n="0"/>
+        <role descr="thing weaseled out (&quot;his/her way&quot;)" f="PPT" n="1"/>
+        <role descr="weaseled from--prepositional compliment" f="DIR" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

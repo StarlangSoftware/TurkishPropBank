@@ -1,0 +1,23 @@
+<frameset>
+  <predicate lemma="liberalize">
+    <roleset id="liberalize.01" name="become more liberal">
+      <roles>
+        <role descr="agent of liberalization" f="PAG" n="0"/>
+        <role descr="thing becoming more liberal (if separate from arg0)" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="liberal">
+    <roleset id="liberal.02" name="politically/socially liberal">
+      <roles>
+        <role descr="politically/socially liberal entity" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="liberal.03" name="generous">
+      <roles>
+        <role descr="entity giving generously" f="PAG" n="1"/>
+        <role descr="generous with what, thing given generously" f="PPT" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

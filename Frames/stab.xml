@@ -1,0 +1,13 @@
+<frameset>
+  <predicate lemma="stab">
+    <roleset id="stab.01" name="poke with sharp object, perhaps fatally, metaphorically try something">
+      <roles>
+        <role descr="stabber" f="pag" n="0"/>
+        <role descr="victim, thing stabbed" f="ppt" n="1"/>
+        <role descr="sharp implement" f="mnr" n="2"/>
+        <role descr="specific location of wound" f="loc" n="3"/>
+        <role descr="result of stabbing" f="prd" n="4"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

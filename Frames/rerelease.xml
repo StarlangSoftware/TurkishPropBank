@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="rerelease">
+    <roleset id="rerelease.01" name="release again">
+      <roles>
+        <role descr="re-releaser" f="pag" n="0"/>
+        <role descr="entity released again" f="ppt" n="1"/>
+        <role descr="re-release from" f="dir" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

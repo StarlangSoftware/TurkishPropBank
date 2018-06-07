@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="ragged">
+    <roleset id="ragged.01" name="tattered, irregular">
+      <roles>
+        <role descr="raggedy one" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="indecipherable">
+    <roleset id="indecipherable.01" name="impossible to determine the meaning of">
+      <roles>
+        <role descr="unsuccessful code-breaker" f="pag" n="0"/>
+        <role descr="encrypted data" f="ppt" n="1"/>
+        <role descr="decoded data, what couldn't be gleaned from Arg1" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

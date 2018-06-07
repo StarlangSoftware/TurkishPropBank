@@ -1,0 +1,21 @@
+<frameset>
+  <predicate lemma="late">
+    <roleset id="late.01" name="existing in the latter portion of a time period">
+      <roles>
+        <role descr="late thing" f="ppt" n="1"/>
+        <role descr="the larger time period" f="loc" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="late.02" name="tardy">
+      <roles>
+        <role descr="late entity" f="ppt" n="1"/>
+        <role descr="destination, thing that was scheduled" f="prd" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="late.03" name="deceased">
+      <roles>
+        <role descr="deceased entity" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,19 @@
+<frameset>
+  <predicate lemma="remit">
+    <roleset id="remit.01" name="make payment, give (perhaps for consideration)">
+      <roles>
+        <role descr="agent, payer" f="pag" n="0"/>
+        <role descr="theme, thing given/paid" f="ppt" n="1"/>
+        <role descr="recipient, person receiving payment" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="remission">
+    <roleset id="remission.02" name="abate in intensity">
+      <roles>
+        <role descr="cause of remission" f="pag" n="0"/>
+        <role descr="thing abating" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

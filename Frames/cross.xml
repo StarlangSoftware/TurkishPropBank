@@ -1,0 +1,42 @@
+<frameset>
+  <predicate lemma="cross">
+    <roleset id="cross.01" name="(cause) two things to intersect">
+      <roles>
+        <role descr="crosser" f="pag" n="0"/>
+        <role descr="two things" f="ppt" n="1"/>
+      </roles>
+    
+    </roleset>
+    <roleset id="cross.02" name="move perpendicularly to some barrier">
+      <roles>
+        <role descr="entity in motion" f="ppt" n="0"/>
+        <role descr="barrier" f="ppt" n="1"/>
+      </roles>
+    
+    </roleset>
+    <roleset id="cross.04" name="eliminate from a list">
+      <roles>
+        <role descr="crosser" f="pag" n="0"/>
+        <role descr="item" f="ppt" n="1"/>
+        <role descr="list" f="dir" n="2"/>
+      </roles>
+    
+    </roleset>
+    <roleset id="cross.05" name="make angry">
+      <roles>
+        <role descr="maker" f="pag" n="0"/>
+        <role descr="angry entity" f="ppt" n="1"/>
+      </roles>
+    
+    </roleset>
+  </predicate>
+  <predicate lemma="cross_out">
+    <roleset id="cross_out.03" name="eliminate">
+      <roles>
+        <role descr="eliminator" f="pag" n="0"/>
+        <role descr="eliminated" f="ppt" n="1"/>
+      </roles>
+    
+    </roleset>
+  </predicate>
+</frameset>

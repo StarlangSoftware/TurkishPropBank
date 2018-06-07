@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="remand">
+    <roleset id="remand.01" name="send (a case) back to a lower   court, or a prisoner back to prison">
+      <roles>
+        <role descr="agent, sender-back" f="pag" n="0"/>
+        <role descr="thing sent" f="ppt" n="1"/>
+        <role descr="sent to" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

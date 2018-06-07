@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="leverage">
+    <roleset id="leverage.01" name="use position as an advantage, positional advantage">
+      <roles>
+        <role descr="agent" f="pag" n="0"/>
+        <role descr="thing leveraged" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

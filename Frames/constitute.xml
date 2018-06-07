@@ -1,0 +1,29 @@
+<frameset>
+  <predicate lemma="constitute">
+    <roleset id="constitute.01" name="comprise">
+      <roles>
+        <role descr="components (almost always plural)" f="PAG" n="0"/>
+        <role descr="whole" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="constitutionalize">
+    <roleset id="constitutionalize.03" name="make constitutional">
+      <roles>
+        <role descr="legislative body, agent" f="PAG" n="0"/>
+        <role descr="newly constitutional thing" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="constitutionalize.04" name="take a digestion-aiding walk after a meal">
+      <roles>
+        <role descr="Person going for a walk" f="PAG" n="0"/>
+      </roles>
+    </roleset>
+    <roleset id="constitutionalize.05" name="provide with a constitution">
+      <roles>
+        <role descr="group providing constitution" f="PAG" n="0"/>
+        <role descr="group receiving constitution" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="barbaric">
+    <roleset id="barbaric.01" name="act like a barbarian">
+      <roles>
+        <role descr="barbarian" f="pag" n="0"/>
+        <role descr="barbaric act" f="ppt" n="1"/>
+        <role descr="target of barbaric behavior" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,65 @@
+<frameset>
+  <predicate lemma="keep">
+    <roleset id="keep.01" name="maintain possession">
+      <roles>
+        <role descr="Keeper" f="pag" n="0"/>
+        <role descr="thing kept" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="keep.02" name="aspectual">
+      <roles>
+        <role descr="causer of continued action" f="pag" n="0"/>
+        <role descr="continued entity" f="ppt" n="1"/>
+        <role descr="continued state or action" f="prd" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="keep.03" name="light verb-- FOR AMR USE ONLY">
+      <roles>
+        <role descr="agenty thing" f="pag" n="0"/>
+        <role descr="noun" f="ppt" n="1"/>
+        <role descr="perpositional object" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="keep.04" name="maintain some prepositional relationship">
+      <roles>
+        <role descr="causer of separation" f="pag" n="0"/>
+        <role descr="one noun" f="ppt" n="1"/>
+        <role descr="other noun" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="keep.06" name="prepositional, comforming (only annotated by amr), prepositional (keeping with)">
+      <roles>
+        
+        <role descr="thing conforming" f="ppt" n="1"/>
+        <role descr="conformed-to" f="gol" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="keep.LV" name="light verb">
+        <roles/>
+    </roleset>
+  </predicate>
+  <predicate lemma="keep_up">
+    <roleset id="keep_up.05" name="keep up: maintain one's position, maintaining one's position (relatively)">
+      <roles>
+        <role descr="maintainer of position" f="pag" n="0"/>
+        <role descr="relative to what" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="keep_up.10" name="sustain">
+      <roles>
+        <role descr="agent" f="pag" n="0"/>
+        <role descr="thing maintained/sustained" f="ppt" n="1"/>
+        <role descr="instrument" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="keep_on">
+    <roleset id="keep_on.08" name="keep on: aspectual, aspectual">
+      <roles>
+        <role descr="causer of continuation, volitional" f="pag" n="0"/>
+        <role descr="continued entity" f="ppt" n="1"/>
+        <role descr="continued event or state" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

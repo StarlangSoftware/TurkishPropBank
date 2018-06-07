@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="circulate">
+    <roleset id="circulate.01" name="(cause to) go around">
+      <roles>
+        <role descr="causer" f="PAG" n="0"/>
+        <role descr="thing going 'round" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

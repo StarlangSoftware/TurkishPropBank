@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="acknowledge">
+    <roleset id="acknowledge.01" name="admit">
+      <roles>
+        <role descr="admitter, claimer, speaker" f="PAG" n="0"/>
+        <role descr="proposition, claim, utterance" f="ppt" n="1"/>
+        <role descr="hearer" f="GOL" n="2"/>
+        <role descr="secondary predication, attribute of arg 1 acknowledged" f="PRD" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

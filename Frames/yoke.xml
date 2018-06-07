@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="yoke">
+    <roleset id="yoke.01" name="yoke">
+      <roles>
+        <role descr="yoker, joiner" f="pag" n="0"/>
+        <role descr="first thing(s) yoked" f="ppt" n="1"/>
+        <role descr="yoked to what" f="gol" n="2"/>
+        <role descr="yoked with what, instrument" f="mnr" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

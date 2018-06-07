@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="lapse">
+    <roleset id="lapse.01" name="cease">
+      <roles>
+        <role descr="thing ceasing" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

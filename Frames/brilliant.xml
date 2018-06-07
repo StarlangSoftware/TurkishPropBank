@@ -1,0 +1,15 @@
+<frameset>
+  <predicate lemma="brilliant">
+    <roleset id="brilliant.01" name="very smart, skilled">
+      <roles>
+        <role descr="smartie, brilliant one (may require concatenation)" f="pag" n="1"/>
+        <role descr="skill, brilliant at what?" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="brilliant.02" name="extremely reflective, bright">
+      <roles>
+        <role descr="bright thing" f="pag" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

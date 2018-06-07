@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="clasp">
+    <roleset id="clasp.01" name="hold, as by hands">
+      <roles>
+        <role descr="holder" f="pag" n="0"/>
+        <role descr="thing held, canonically hands" f="ppt" n="1"/>
+        <role descr="second thing held, or attribute of arg1" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

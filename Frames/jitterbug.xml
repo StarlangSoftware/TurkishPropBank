@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="jitterbug">
+    <roleset id="jitterbug.01" name="tango">
+      <roles>
+        <role descr="dancers" f="PPT" n="0"/>
+        <role descr="explicit mention of dance itself (rare), or path" f="LOC" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,17 @@
+<frameset>
+  <predicate lemma="dance">
+    <roleset id="dance.01" name="dance!, dance">
+      <roles>
+        <role descr="dancer" f="PAG" n="0"/>
+        <role descr="dance" f="PPT" n="1"/>
+        <role descr="partner" f="PPT" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="dance.02" name="move dancingly">
+      <roles>
+        <role descr="mover" f="PPT" n="0"/>
+        <role descr="path" f="LOC" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

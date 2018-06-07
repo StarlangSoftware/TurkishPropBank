@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="alligator">
+    <roleset id="alligator.01" name="make rough (to resemble the hide of an alligator)">
+      <roles>
+        <role descr="alligatorer, Agent" f="PAG" n="0"/>
+        <role descr="thing made scaly, Patient" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

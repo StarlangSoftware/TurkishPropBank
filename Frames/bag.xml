@@ -1,0 +1,17 @@
+<frameset>
+  <predicate lemma="bag">
+    <roleset id="bag.01" name="to gain something and/or place in a location (bag)">
+      <roles>
+        <role descr="gainer/placer" f="PAG" n="0"/>
+        <role descr="thing gained/placed" f="PPT" n="1"/>
+        <role descr="bag, location" f="GOL" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="bag.02" name="discard or abandon">
+      <roles>
+        <role descr="abandoner" f="PAG" n="0"/>
+        <role descr="thing abandoned" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

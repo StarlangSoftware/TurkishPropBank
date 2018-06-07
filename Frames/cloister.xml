@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="cloister">
+    <roleset id="cloister.01" name="to confine in a monastery or convent">
+      <roles>
+        <role descr="stabler" f="PAG" n="0"/>
+        <role descr="thing stabled" f="PPT" n="1"/>
+        <role descr="stable, location" f="GOL" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

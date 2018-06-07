@@ -1,0 +1,22 @@
+<frameset>
+  <predicate lemma="lease">
+    <roleset id="lease.01" name="be a renter">
+      <roles>
+        <role descr="renter" f="pag" n="0"/>
+        <role descr="thing rented (eg, apartment)" f="ppt" n="1"/>
+        <role descr="landlord" f="dir" n="2"/>
+        <role descr="rent" f="vsp" n="3"/>
+        <role descr="term" f="ext" n="4"/>
+      </roles>
+    </roleset>
+    <roleset id="lease.02" name="be a landlord">
+      <roles>
+        <role descr="landlord" f="pag" n="0"/>
+        <role descr="thing rented (eg, apartment)" f="ppt" n="1"/>
+        <role descr="renter" f="gol" n="2"/>
+        <role descr="rent" f="vsp" n="3"/>
+        <role descr="term" f="ext" n="4"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

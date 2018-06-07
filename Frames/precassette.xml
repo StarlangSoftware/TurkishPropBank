@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="precassette">
+    <roleset id="precassette.01" name="have previously transfered to a cassette">
+      <roles>
+        <role descr="Cause of transfer to cassette" f="PAG" n="0"/>
+        <role descr="thing now on cassette" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

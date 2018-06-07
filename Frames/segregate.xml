@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="segregate">
+    <roleset id="segregate.01" name="separate">
+      <roles>
+        <role descr="agent, segregator" f="pag" n="0"/>
+        <role descr="first or all entities being segregated" f="ppt" n="1"/>
+        <role descr="segregated from what/whom" f="ppt" n="2"/>
+        <role descr="characteristic of arg1 being segregated" f="mnr" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

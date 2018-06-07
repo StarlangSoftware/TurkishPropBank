@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="relapse">
+    <roleset id="relapse.01" name="fall or slip back into a previous state">
+      <roles>
+        <role descr="thing experiencing a relapse" f="ppt" n="1"/>
+        <role descr="previous state, usually prepositional complement, relapsed into what?" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

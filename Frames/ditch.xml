@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="ditch">
+    <roleset id="ditch.01" name="run out on, leave behind">
+      <roles>
+        <role descr="ditcher" f="pag" n="0"/>
+        <role descr="entity left behind, run out on" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

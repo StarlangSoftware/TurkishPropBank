@@ -1,0 +1,86 @@
+<frameset>
+  <predicate lemma="look">
+    <roleset id="look.01" name="vision, look">
+      <roles>
+        <role descr="looker" f="ppt" n="0"/>
+        <role descr="thing looked at or for or on" f="gol" n="1"/>
+        <role descr="attribute of arg1" f="prd" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="look.02" name="seeming, appear/seem">
+      <roles>
+        <role descr="seemer" f="pag" n="0"/>
+        <role descr="seemed like, attribute of arg0" f="ppt" n="1"/>
+        <role descr="seemed to" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="look.04" name="expect">
+      <roles>
+        <role descr="expecter" f="pag" n="0"/>
+        <role descr="thing expected" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="look.09" name="discourse: attend to this">
+      <roles>
+        <role descr="you" f="pag" n="0"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="look_forward">
+    <roleset id="look_forward.03" name="look_forward">
+      <roles>
+        <role descr="looker forward" f="pag" n="0"/>
+        <role descr="thing looked forward to" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="look_up">
+    <roleset id="look_up.05" name="look up: seek">
+      <roles>
+        <role descr="agent, seeker" f="pag" n="0"/>
+        <role descr="thing sought" f="ppt" n="1"/>
+        <role descr="sought in, from" f="dir" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="look_over">
+    <roleset id="look_over.06" name="look over: examine idly">
+      <roles>
+        <role descr="looker, examiner" f="pag" n="0"/>
+        <role descr="thing examined, looked at" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="look_after">
+    <roleset id="look_after.07" name="mind, take care of">
+      <roles>
+        <role descr="minder, tender, taker-care-of" f="pag" n="0"/>
+        <role descr="thing minded, taken care of" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="look_out">
+    <roleset id="look_out.08" name="mind, take care of">
+      <roles>
+        <role descr="minder, tender, taker-care-of" f="pag" n="0"/>
+        <role descr="thing minded, taken care of" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="look_down">
+    <roleset id="look_down.10" name="regard with contempt">
+      <roles>
+        <role descr="Disdainful viewer" f="pag" n="0"/>
+        <role descr="Thing looked down upon" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="look_into">
+    <roleset id="look_into.11" name="investigate">
+      <roles>
+        <role descr="investigator" f="pag" n="0"/>
+        <role descr="investigated" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

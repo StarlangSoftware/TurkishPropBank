@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="bottleneck">
+    <roleset id="bottleneck.01" name="hamper or confine as if in a bottleneck">
+      <roles>
+        <role descr="cause of confinement" f="pag" n="0"/>
+        <role descr="entity confined, stuck in the bottleneck" f="ppt" n="1"/>
+        <role descr="confined-to, thing acting as the bottleneck itself" f="loc" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

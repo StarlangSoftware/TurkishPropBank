@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="premature">
+    <roleset id="premature.01" name="early, preceding">
+      <roles>
+        <role descr="entity that is early" f="pag" n="1"/>
+        <role descr="preceding what" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

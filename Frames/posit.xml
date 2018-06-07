@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="posit">
+    <roleset id="posit.01" name="propose or set down as fact">
+      <roles>
+        <role descr="entity proposing" f="PAG" n="0"/>
+        <role descr="thing proposed, proposition" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

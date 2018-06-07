@@ -1,0 +1,25 @@
+<frameset>
+  <predicate lemma="behind">
+    <roleset id="behind.01" name="not keeping up with a schedule">
+      <roles>
+        <role descr="entity/accomplishment behind schedule" f="pag" n="1"/>
+        <role descr="by how much" f="ext" n="2"/>
+        <role descr="schedule, goal" f="ppt" n="3"/>
+      </roles>
+    </roleset>
+    <roleset id="behind.02" name="be spatially located in the back">
+      <roles>
+        <role descr="entity in the back" f="pag" n="1"/>
+        <role descr="entity in the front" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="behind.03" name="be losing">
+      <roles>
+        <role descr="entity losing" f="pag" n="1"/>
+        <role descr="entity winning" f="ppt" n="2"/>
+        <role descr="by how much" f="ext" n="3"/>
+        <role descr="competition" f="vsp" n="4"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,20 @@
+<frameset>
+  <predicate lemma="joke">
+    <roleset id="joke.01" name="to tell jokes, to tell funnies (jokes!)">
+      <roles>
+        <role descr="joker" f="pag" n="0"/>
+        <role descr="other party joking, joke with" f="ppt" n="1"/>
+        <role descr="joke" f="com" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="joke_around">
+    <roleset id="joke_around.02" name="having a laugh together">
+      <roles>
+        <role descr="joker" f="pag" n="0"/>
+        <role descr="other party joking, joke with" f="ppt" n="1"/>
+        <role descr="joke" f="com" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

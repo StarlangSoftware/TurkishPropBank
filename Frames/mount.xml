@@ -1,0 +1,25 @@
+<frameset>
+  <predicate lemma="mount">
+    <roleset id="mount.01" name="intentional climber">
+      <roles>
+        <role descr="climber" f="pag" n="0"/>
+        <role descr="thing climbed (clomb?)" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="mount.02" name="non-intentional climber; cf rise">
+      <roles>
+        <role descr="climber" f="ppt" n="1"/>
+        <role descr="EXT, amount risen" f="ext" n="2"/>
+        <role descr="start point" f="dir" n="3"/>
+        <role descr="end point" f="gol" n="4"/>
+        <role descr="medium" f="loc" n="m"/>
+      </roles>
+    </roleset>
+    <roleset id="mount.03" name="erect, construct">
+      <roles>
+        <role descr="erector" f="pag" n="0"/>
+        <role descr="thing erected" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

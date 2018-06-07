@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="paraphrase">
+    <roleset id="paraphrase.01" name="summarize, rephrase someone else's words">
+      <roles>
+        <role descr="speaker, writer, agent" f="pag" n="0"/>
+        <role descr="old statment, thing paraphrased" f="ppt" n="1"/>
+        <role descr="new statement" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

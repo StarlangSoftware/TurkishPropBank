@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="sod">
+    <roleset id="sod.01" name="cover with sod">
+      <roles>
+        <role descr="Gardener, landscaper, agent" f="PAG" n="0"/>
+        <role descr="Yard, location/entity covered" f="GOL" n="1"/>
+        <role descr="Sod itself, what kind of sod" f="PPT" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

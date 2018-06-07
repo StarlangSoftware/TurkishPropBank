@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="tread">
+    <roleset id="tread.01" name="to step through, create footstep in something">
+      <roles>
+        <role descr="entity treading" f="PAG" n="0"/>
+        <role descr="entity tread (usually water)" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

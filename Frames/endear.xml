@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="endear">
+    <roleset id="endear.01" name="make lovable">
+      <roles>
+        <role descr="Cause of attraction" f="PAG" n="0"/>
+        <role descr="beloved entity" f="ppt" n="1"/>
+        <role descr="endeared by" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

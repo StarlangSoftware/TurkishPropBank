@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="calendar">
+    <roleset id="calendar.01" name="add to a calendar">
+      <roles>
+        <role descr="agent, one adding to the schedule" f="pag" n="0"/>
+        <role descr="appointment" f="ppt" n="1"/>
+        <role descr="specific schedule or calender added to" f="loc" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

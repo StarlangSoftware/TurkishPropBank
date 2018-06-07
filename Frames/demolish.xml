@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="demolish">
+    <roleset id="demolish.01" name="destroy">
+      <roles>
+        <role descr="destroyer" f="PAG" n="0"/>
+        <role descr="thing destroyed" f="PPT" n="1"/>
+        <role descr="instrument of destruction" f="MNR" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

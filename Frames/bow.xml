@@ -1,0 +1,37 @@
+<frameset>
+  <predicate lemma="bow">
+    <roleset id="bow.01" name="bend at waist (or neck), possibly in deference">
+      <roles>
+        <role descr="bower" f="pag" n="0"/>
+        <role descr="bowed to" f="gol" n="1"/>
+        <role descr="body part bowed" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="bow.02" name="bend, bending as a spatial configuration">
+      <roles>
+        <role descr="thing bending" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="bow.03" name="fail">
+      <roles>
+        <role descr="thing failing" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="bow_down">
+    <roleset id="bow_down.04" name="bend at waist, more emphatically">
+      <roles>
+        <role descr="bower" f="pag" n="0"/>
+        <role descr="bowed to" f="gol" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="bow_out">
+    <roleset id="bow_out.06" name="exit, leave">
+      <roles>
+        <role descr="entity leaving" f="pag" n="0"/>
+        <role descr="place left" f="dir" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

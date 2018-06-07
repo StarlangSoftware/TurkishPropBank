@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="fieldwork">
+    <roleset id="fieldwork.01" name="work">
+      <roles>
+        <role descr="worker" f="pag" n="0"/>
+        <role descr="job, project, research" f="ppt" n="1"/>
+        <role descr="employer" f="gol" n="2"/>
+        <role descr="coworker" f="com" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

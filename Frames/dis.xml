@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="dis">
+    <roleset id="dis.01" name="insult, dishonor">
+      <roles>
+        <role descr="dishonorer" f="pag" n="0"/>
+        <role descr="entity dishonored" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

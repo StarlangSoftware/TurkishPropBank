@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="arson">
+    <roleset id="arson.01" name="criminal fire-setting">
+      <roles>
+        <role descr="fire-setter" f="pag" n="0"/>
+        <role descr="property burned" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

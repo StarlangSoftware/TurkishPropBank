@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="espouse">
+    <roleset id="espouse.01" name="adopt/have a belief">
+      <roles>
+        <role descr="haver of belief" f="PAG" n="0"/>
+        <role descr="belief" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

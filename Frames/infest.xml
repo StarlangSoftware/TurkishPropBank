@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="infest">
+    <roleset id="infest.01" name="fill with contaminants">
+      <roles>
+        <role descr="agent of infesting" f="PAG" n="0"/>
+        <role descr="container, space" f="GOL" n="1"/>
+        <role descr="contaminants" f="PPT" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

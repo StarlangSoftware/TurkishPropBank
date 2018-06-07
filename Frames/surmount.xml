@@ -1,0 +1,17 @@
+<frameset>
+  <predicate lemma="surmount">
+    <roleset id="surmount.01" name="(cause to) be atop">
+      <roles>
+        <role descr="cause, agent" f="PAG" n="0"/>
+        <role descr="thing on top" f="PPT" n="1"/>
+        <role descr="on top of what" f="PPT" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="surmount.02" name="overcome">
+      <roles>
+        <role descr="victorious one, agent" f="PAG" n="0"/>
+        <role descr="challenge" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

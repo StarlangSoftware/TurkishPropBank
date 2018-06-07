@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="chair">
+    <roleset id="chair.01" name="to preside over as a chairperson">
+      <roles>
+        <role descr="chair" f="PAG" n="0"/>
+        <role descr="institution" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

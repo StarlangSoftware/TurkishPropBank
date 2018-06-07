@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="growl">
+    <roleset id="growl.01" name="produce growling sounds, perhaps as speech">
+      <roles>
+        <role descr="growler" f="PAG" n="0"/>
+        <role descr="utterance" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

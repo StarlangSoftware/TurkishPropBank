@@ -1,0 +1,18 @@
+<frameset>
+  <predicate lemma="contrive">
+    <roleset id="contrive.01" name="to plan, to bring about a process or activity">
+      <roles>
+        <role descr="Planner, contriver" f="PAG" n="0"/>
+        <role descr="Action or event planned, caused" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="contrive.02" name="to invent, create">
+      <roles>
+        <role descr="inventor" f="PAG" n="0"/>
+        <role descr="thing invented" f="PRD" n="1"/>
+        <role descr="source material, contrived from what?" f="VSP" n="2"/>
+        <role descr="benefactive, contrived for whom?" f="GOL" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

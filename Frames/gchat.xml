@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="gchat">
+    <roleset id="gchat.01" name="instant message service via google/gmail">
+      <roles>
+        <role descr="first communicator" f="pag" n="0"/>
+        <role descr="subject matter" f="ppt" n="1"/>
+        <role descr="second communicatory" f="com" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

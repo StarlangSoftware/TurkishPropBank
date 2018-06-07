@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="humanitarian">
+    <roleset id="humanitarian.01" name="acting to preserve human welfare">
+      <roles>
+        <role descr="the human-itarian (agent)" f="ppt" n="0"/>
+        <role descr="human welfare-preserving act" f="ppt" n="1"/>
+        <role descr="affected entity, target of humanitarian behavior" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="crossbreed">
+    <roleset id="crossbreed.01" name="breeding different varieties">
+      <roles>
+        <role descr="agent, cause or breeder" f="pag" n="0"/>
+        <role descr="first or all breeds if in one plural mention" f="ppt" n="1"/>
+        <role descr="second thing cross-bred WITH" f="ppt" n="2"/>
+        <role descr="product, offspring" f="gol" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

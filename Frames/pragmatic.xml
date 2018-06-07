@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="pragmatic">
+    <roleset id="pragmatic.01" name="practical (may require concatenation)">
+      <roles>
+        <role descr="pragmatic entity" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

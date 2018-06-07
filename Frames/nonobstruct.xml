@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="nonobstruct">
+    <roleset id="nonobstruct.01" name="not block">
+      <roles>
+        <role descr="entity not causing a block" f="pag" n="0"/>
+        <role descr="thing not obstructed" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

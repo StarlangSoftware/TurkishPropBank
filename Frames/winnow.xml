@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="winnow">
+    <roleset id="winnow.01" name="winnow">
+      <roles>
+        <role descr="Winnower, agent" f="PAG" n="0"/>
+        <role descr="Thing Winnowed" f="PPT" n="1"/>
+        <role descr="prepositional complement of Arg1" f="DIR" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

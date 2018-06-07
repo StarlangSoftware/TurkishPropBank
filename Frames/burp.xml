@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="burp">
+    <roleset id="burp.01" name="burp, a little noise coming from the heart, belching">
+      <roles>
+        <role descr="expeller" f="PAG" n="0"/>
+        <role descr="cognate object, description of type of burp itself" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

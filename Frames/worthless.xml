@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="worthless">
+    <roleset id="worthless.01" name="not having any value">
+      <roles>
+        <role descr="thing having no value" f="ppt" n="1"/>
+        <role descr="to whom" f="gol" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

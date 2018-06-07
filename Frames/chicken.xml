@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="chicken_out">
+    <roleset id="chicken_out.01" name="chicken out">
+      <roles>
+        <role descr="chicken" f="pag" n="0"/>
+        <role descr="chickened out of" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

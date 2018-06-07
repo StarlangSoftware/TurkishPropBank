@@ -1,0 +1,15 @@
+<frameset>
+  <predicate lemma="illegitimate">
+    <roleset id="illegitimate.01" name="invalid">
+      <roles>
+        <role descr="causer of illegitimacy" f="pag" n="0"/>
+        <role descr="invalid entity" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="illegitimate.02" name="born out of wedlock">
+      <roles>
+        <role descr="child" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

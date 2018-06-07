@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="selfish">
+    <roleset id="selfish.01" name="possessive and self serving">
+      <roles>
+        <role descr="agent of selfish behavior" f="PAG" n="0"/>
+        <role descr="selfish behavior" f="prd" n="1"/>
+        <role descr="possession closely guarded" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

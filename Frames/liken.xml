@@ -1,0 +1,46 @@
+<frameset>
+  <predicate lemma="like">
+    <roleset id="like.01" name="have affection towards, be fond of, enjoy (habitually)">
+      <roles>
+        <role descr="liker" f="pag" n="0"/>
+        <role descr="object of affection" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="like.02" name="would like, wish, want (polite)">
+      <roles>
+        <role descr="subject" f="PAG" n="0"/>
+        <role descr="phrasal complement" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="like.04" name="similar">
+      <roles>
+        <role descr="first item in comparison" f="pag" n="1"/>
+        <role descr="second item in comparison" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="liken">
+    <roleset id="liken.03" name="draw a similarity">
+      <roles>
+        <role descr="entity making comparison, agent" f="pag" n="0"/>
+        <role descr="topic" f="ppt" n="1"/>
+        <role descr="thing it's similar to" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="alike">
+    <roleset id="alike.05" name="similar">
+      <roles>
+        <role descr="things that are alike" f="pag" n="1"/>
+        <role descr="domain of likeness" f="vsp" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="liking">
+    <roleset id="liking.06" name="likely, appearing">
+      <roles>
+        <role descr="likely, appearing thing" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

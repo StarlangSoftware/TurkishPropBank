@@ -1,0 +1,57 @@
+<frameset>
+  <predicate lemma="stop">
+    <roleset id="stop.01" name="stop, putting a stop to">
+      <roles>
+        <role descr="Agent/cause" f="pag" n="0"/>
+        <role descr="Theme (action or object being stopped)" f="ppt" n="1"/>
+        <role descr="Instrument (when separate from arg0)" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="stop.03" name="stop from">
+      <roles>
+        <role descr="preventer, stopper" f="pag" n="0"/>
+        <role descr="stopped agent" f="ppt" n="1"/>
+        <role descr="stopped action" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="stop.05" name="plug up (non-phrasal)">
+      <roles>
+        <role descr="stopper (agent)" f="pag" n="0"/>
+        <role descr="thing stopped up" f="gol" n="1"/>
+        <role descr="stopped up with what? entity crammed in space" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="stop_by">
+    <roleset id="stop_by.02" name="visit briefly">
+      <roles>
+        <role descr="visitor" f="pag" n="0"/>
+        <role descr="place visited" f="loc" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="stop_up">
+    <roleset id="stop_up.04" name="plug, plugging up">
+      <roles>
+        <role descr="stopper" f="pag" n="0"/>
+        <role descr="thing stopped up" f="gol" n="1"/>
+        <role descr="stopped up with what? entity crammed in space" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="stop_off">
+    <roleset id="stop_off.06" name="make a short visit">
+      <roles>
+        <role descr="visitor" f="pag" n="0"/>
+        <role descr="visited" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="stop_over">
+    <roleset id="stop_over.07" name="make a short visit on the way to somewhere else">
+      <roles>
+        <role descr="visitor" f="pag" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

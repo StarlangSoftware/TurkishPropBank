@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="restructure">
+    <roleset id="restructure.01" name="reorganize">
+      <roles>
+        <role descr="organizer, agent" f="pag" n="0"/>
+        <role descr="thing reorganized" f="ppt" n="1"/>
+        <role descr="start state" f="dir" n="2"/>
+        <role descr="end state" f="gol" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

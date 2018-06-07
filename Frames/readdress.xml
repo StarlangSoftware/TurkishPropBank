@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="readdress">
+    <roleset id="readdress.01" name="deal with again">
+      <roles>
+        <role descr="agent" f="pag" n="0"/>
+        <role descr="dealing with what" f="ppt" n="1"/>
+        <role descr="answer, dealing how" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

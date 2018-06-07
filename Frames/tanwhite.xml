@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="tanwhite">
+    <roleset id="tanwhite.01" name="having a tannish whitish color">
+      <roles>
+        <role descr="tannish whitish thing" f="ppt" n="1"/>
+        <role descr="aspect of/domain in which arg1 is tan-white" f="vsp" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

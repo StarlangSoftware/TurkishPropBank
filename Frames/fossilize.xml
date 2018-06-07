@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="fossilize">
+    <roleset id="fossilize.01" name="(cause to) petrify, make rigid">
+      <roles>
+        <role descr="cause of fossilization" f="pag" n="0"/>
+        <role descr="entity made into fossil" f="ppt" n="1"/>
+        <role descr="result, attribe of arg 1" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="expect">
+    <roleset id="expect.01" name="look forward to, anticipate, anticipating (not thing antipated), in expectation">
+      <roles>
+        <role descr="expecter" f="pag" n="0"/>
+        <role descr="thing expected" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

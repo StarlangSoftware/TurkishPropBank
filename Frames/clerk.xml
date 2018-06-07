@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="clerk">
+    <roleset id="clerk.01" name="act as a clerk">
+      <roles>
+        <role descr="clerk" f="PAG" n="0"/>
+        <role descr="person, organization, event arg0 is acting as clerk for" f="GOL" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

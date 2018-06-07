@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="nonstenotic">
+    <roleset id="nonstenotic.01" name="not having undergone stenosis">
+      <roles>
+        <role descr="nonstenotic entity" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

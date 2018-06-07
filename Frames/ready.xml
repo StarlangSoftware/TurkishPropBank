@@ -1,0 +1,18 @@
+<frameset>
+  <predicate lemma="ready">
+    <roleset id="ready.01" name="prepare, state of preparation">
+      <roles>
+        <role descr="preparer" f="pag" n="0"/>
+        <role descr="thing made ready" f="ppt" n="1"/>
+        <role descr="ready for" f="prp" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="ready.02" name="prepared">
+      <roles>
+        <role descr="preparer" f="pag" n="0"/>
+        <role descr="entity made ready" f="ppt" n="1"/>
+        <role descr="ready for" f="prp" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

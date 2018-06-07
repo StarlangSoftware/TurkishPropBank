@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="isomerize">
+    <roleset id="isomerize.01" name="tranform a molecule into another with the same atoms, but a different arrangement">
+      <roles>
+        <role descr="intentional agent of isomerization (e.g. scientist)" f="pag" n="0" />
+        <role descr="thing isomerized" f="ppt" n="1" />
+        <role descr="instrument" f="mnr" n="2" />
+        <role descr="resulting isomer" f="prd" n="3" />
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

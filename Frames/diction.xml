@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="diction">
+    <roleset id="diction.01" name="speech: enunciation, wording">
+      <roles>
+        <role descr="speaker" f="pag" n="0"/>
+        <role descr="utterance" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

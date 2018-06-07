@@ -1,0 +1,16 @@
+<frameset>
+  <predicate lemma="fancy">
+    <roleset id="fancy.01" name="suppose to be, take as">
+      <roles>
+        <role descr="supposer" f="PAG" n="0"/>
+        <role descr="sentential arg" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="fancy.02" name="want, like">
+      <roles>
+        <role descr="wanter" f="pag" n="0"/>
+        <role descr="wanted" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

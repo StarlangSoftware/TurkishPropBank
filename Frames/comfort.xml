@@ -1,0 +1,19 @@
+<frameset>
+  <predicate lemma="comfort">
+    <roleset id="comfort.01" name="(cause to) become comfortable or happy">
+      <roles>
+        <role descr="comforter" f="pag" n="0"/>
+        <role descr="patient, comforted" f="ppt" n="1"/>
+        <role descr="instrument or manner" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="comfortable">
+    <roleset id="comfortable.02" name="be physically or emotionally at ease">
+      <roles>
+        <role descr="comforter, comfortable thing" f="pag" n="0"/>
+        <role descr="patient, comforted, comfortable to whom?" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

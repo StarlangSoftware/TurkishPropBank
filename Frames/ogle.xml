@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="ogle">
+    <roleset id="ogle.01" name="to stare at">
+      <roles>
+        <role descr="ogler, agent" f="PPT" n="0"/>
+        <role descr="entity ogled" f="PAG" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="landlock">
+    <roleset id="landlock.01" name="surround with land">
+      <roles>
+        <role descr="Causative agent" f="pag" n="0"/>
+        <role descr="thing surrounded with land" f="ppt" n="1"/>
+        <role descr="the land, what is surrounding arg1" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

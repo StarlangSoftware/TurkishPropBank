@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="reinvigorate">
+    <roleset id="reinvigorate.01" name="to give new life or energy to">
+      <roles>
+        <role descr="causer" f="PAG" n="0"/>
+        <role descr="entity reinvigorated" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

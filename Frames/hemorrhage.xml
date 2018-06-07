@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="hemorrhage">
+    <roleset id="hemorrhage.01" name="lose (blood) quickly">
+      <roles>
+        <role descr="bleeder" f="pag" n="0"/>
+        <role descr="blood (or metaphorical)" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

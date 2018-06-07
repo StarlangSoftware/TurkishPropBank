@@ -1,0 +1,15 @@
+<frameset>
+  <predicate lemma="flock">
+    <roleset id="flock.01" name="to congregate">
+      <roles>
+        <role descr="entity coming together" f="PPT" n="0"/>
+      </roles>
+    </roleset>
+    <roleset id="flock.02" name="to travel in a crowd">
+      <roles>
+        <role descr="birds of a feather, entity in motion" f="PAG" n="0"/>
+        <role descr="direction" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

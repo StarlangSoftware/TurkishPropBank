@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="efflux">
+    <roleset id="efflux.01" name="flow outward">
+      <roles>
+        <role descr="agent" f="pag" n="0"/>
+        <role descr="liquid, thing flowing" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

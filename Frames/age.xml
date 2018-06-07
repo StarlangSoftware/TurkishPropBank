@@ -1,0 +1,20 @@
+<frameset>
+  <predicate lemma="age">
+    <roleset id="age.01" name="to make or become old or older, having grown older">
+      <roles>
+        <role descr="causer of aging, agent" f="pag" n="0"/>
+        <role descr="entity getting old" f="ppt" n="1"/>
+        <role descr="attribute (how old)" f="ext" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="age_out">
+    <roleset id="age_out.02" name="become too old for">
+      <roles>
+        <role descr="entity determining what the age cap is" f="pag" n="0"/>
+        <role descr="entity getting older" f="ppt" n="1"/>
+        <role descr="thing arg1 is too old for" f="dir" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

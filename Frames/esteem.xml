@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="esteem">
+    <roleset id="esteem.01" name="regard as valuable">
+      <roles>
+        <role descr="experiencer, esteemer" f="ppt" n="0"/>
+        <role descr="theme, thing esteemed" f="pag" n="1"/>
+        <role descr="attribute" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

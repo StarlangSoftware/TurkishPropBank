@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="etch">
+    <roleset id="etch.01" name="draw or engrave an image">
+      <roles>
+        <role descr="etcher" f="PAG" n="0"/>
+        <role descr="surface" f="GOL" n="1"/>
+        <role descr="image" f="PPT" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

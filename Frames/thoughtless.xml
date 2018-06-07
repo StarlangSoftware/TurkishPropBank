@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="thoughtless">
+    <roleset id="thoughtless.01" name="inconsiderate">
+      <roles>
+        <role descr="thoughtless entity/act (may require concatenation)" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

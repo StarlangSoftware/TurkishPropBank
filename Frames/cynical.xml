@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="cynical">
+    <roleset id="cynical.01" name="jaded">
+      <roles>
+        <role descr="stimulus of cynicism-- what arg1 is cynical about/in response to" f="pag" n="0"/>
+        <role descr="cynic, entity/action characterized as cynical" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

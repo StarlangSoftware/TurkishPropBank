@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="unrevealing">
+    <roleset id="unrevealing.01" name="not presenting new info">
+      <roles>
+        <role descr="cause of revelation" f="pag" n="0"/>
+        <role descr="thing (not) revealed" f="ppt" n="1"/>
+        <role descr="not revealed to whom? audience" f="gol" n="2"/>
+        <role descr="attribute of arg1, not revealed-as" f="prd" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

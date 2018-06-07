@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="buff">
+    <roleset id="buff.01" name="to polish or soften">
+      <roles>
+        <role descr="polisher, agent" f="PAG" n="0"/>
+        <role descr="entity buffed" f="DIR" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

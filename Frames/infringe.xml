@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="infringe">
+    <roleset id="infringe.01" name="go where you don't have the right, overstepping boundaries">
+      <roles>
+        <role descr="infringer" f="PAG" n="0"/>
+        <role descr="infringed (up)on" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="unexpected">
+    <roleset id="unexpected.01" name="not anticipated">
+      <roles>
+        <role descr="expecter" f="pag" n="0"/>
+        <role descr="thing not expected" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

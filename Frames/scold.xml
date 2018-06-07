@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="scold">
+    <roleset id="scold.01" name="to criticize">
+      <roles>
+        <role descr="criticizer" f="pag" n="0"/>
+        <role descr="entity scolded" f="ppt" n="1"/>
+        <role descr="entity scolded on/for" f="cau" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

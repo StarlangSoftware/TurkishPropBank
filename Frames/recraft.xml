@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="recraft">
+    <roleset id="recraft.01" name="to make by hand again">
+      <roles>
+        <role descr="crafter, artist" f="pag" n="0"/>
+        <role descr="thing crafted" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

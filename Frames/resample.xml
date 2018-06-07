@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="resample">
+    <roleset id="resample.01" name="sample again">
+      <roles>
+        <role descr="agent, resampler" f="pag" n="0" />
+        <role descr="thing sampled again" f="ppt" n="1" />
+        <role descr="source of the samples (if in addition to arg1)" f="dir" n="2" />
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

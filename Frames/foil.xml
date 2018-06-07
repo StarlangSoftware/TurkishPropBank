@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="foil">
+    <roleset id="foil.01" name="to prevent or defeat">
+      <roles>
+        <role descr="preventer, agent" f="pag" n="0"/>
+        <role descr="bad guy" f="ppt" n="1"/>
+        <role descr="foiled in, nefarious plot" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

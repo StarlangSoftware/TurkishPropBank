@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="expurgate">
+    <roleset id="expurgate.01" name="expunge objectionable material from text">
+      <roles>
+        <role descr="Censor, person deleting/removing objectionable material" f="PAG" n="0"/>
+        <role descr="Objectionable material being removed" f="PPT" n="1"/>
+        <role descr="Source, entity arg 1 is removed from" f="DIR" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

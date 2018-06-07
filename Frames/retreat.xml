@@ -1,0 +1,27 @@
+<frameset>
+  <predicate lemma="retreat">
+    <roleset id="retreat.01" name="run away!">
+      <roles>
+        <role descr="causal agent" f="pag" n="0"/>
+        <role descr="retreater, entity actually moving back" f="ppt" n="1"/>
+        <role descr="scary thing" f="dir" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="retreat.02" name="quantifiable downward movement, quantifiable (inanimate) downward motion">
+      <roles>
+        <role descr="thing moving downward" f="ppt" n="1"/>
+        <role descr="EXT" f="ext" n="2"/>
+        <role descr="start point" f="dir" n="3"/>
+        <role descr="end point" f="gol" n="4"/>
+        <role descr="attribute of arg1 actually in decline (if in addition to arg1)" f="vsp" n="5"/>
+      </roles>
+    </roleset>
+    <roleset id="retreat.03" name="vacation-type retreat">
+      <roles>
+        <role descr="entity going on a retreat" f="pag" n="0"/>
+        <role descr="theme/type of retreat" f="ppt" n="1"/>
+        <role descr="location of the retreat" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

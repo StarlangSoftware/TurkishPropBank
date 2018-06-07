@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="ordain">
+    <roleset id="ordain.01" name="to dictate, dictum, decree">
+      <roles>
+        <role descr="dictator, agent" f="PAG" n="0"/>
+        <role descr="thing dictated" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="headway">
+    <roleset id="headway.01" name="progress (possibly through a challenge)">
+      <roles>
+        <role descr="entity making progress" f="pag" n="0"/>
+        <role descr="path, challenge" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

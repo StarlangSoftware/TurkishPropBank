@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="crochet">
+    <roleset id="crochet.01" name="fashion">
+      <roles>
+        <role descr="maker, agent" f="PAG" n="0"/>
+        <role descr="entity fashioned" f="PRD" n="1"/>
+        <role descr="Material" f="VSP" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

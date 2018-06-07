@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="jockey">
+    <roleset id="jockey.01" name="to move, bring about by skillful and/or deceptive maneuvering">
+      <roles>
+        <role descr="entity maneuvering, manipulating, jockey" f="pag" n="0"/>
+        <role descr="entity being moved, manipulated" f="ppt" n="1"/>
+        <role descr="Jockeying for what? End goal of movement, manipulation" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

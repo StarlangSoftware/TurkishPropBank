@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="page">
+    <roleset id="page.01" name="notify someone via beeper">
+      <roles>
+        <role descr="notifier, agent" f="PAG" n="0"/>
+        <role descr="notified person" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="overshoot">
+    <roleset id="overshoot.01" name="aim too far, exceed">
+      <roles>
+        <role descr="shooter" f="pag" n="0"/>
+        <role descr="projectile" f="ppt" n="1"/>
+        <role descr="target" f="gol" n="2"/>
+        <role descr="amount overshot by" f="ext" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

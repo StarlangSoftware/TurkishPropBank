@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="parry">
+    <roleset id="parry.01" name="deflect an attack">
+      <roles>
+        <role descr="defender" f="pag" n="0"/>
+        <role descr="attack" f="ppt" n="1"/>
+        <role descr="instrument, defensive weapon" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

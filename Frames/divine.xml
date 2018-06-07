@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="divine">
+    <roleset id="divine.01" name="intuit, know as if by divine inspiration">
+      <roles>
+        <role descr="intuiter" f="pag" n="0"/>
+        <role descr="intuited" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="alienate">
+    <roleset id="alienate.01" name="piss off, causing to feel like an outsider">
+      <roles>
+        <note/>
+        <role descr="causer of anger, agent" f="pag" n="0"/>
+        <role descr="entity getting angry" f="ppt" n="1"/>
+        <role descr="alienated from what/whom, the insiders" f="dir" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

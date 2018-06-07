@@ -1,0 +1,21 @@
+<frameset>
+  <predicate lemma="stake">
+    <roleset id="stake.01" name="make a wager">
+      <roles>
+        <role descr="better" f="pag" n="0"/>
+        <role descr="amount of bet" f="vsp" n="1"/>
+        <role descr="basis, proposition, bet-on" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="stake_out">
+    <roleset id="stake_out.02" name="claim (as territory)">
+      <roles>
+        <role descr="claimer, asserter" f="pag" n="0"/>
+        <role descr="thing claimed, asserted" f="ppt" n="1"/>
+        <role descr="benefactive, claimed/asserted for" f="gol" n="2"/>
+        <role descr="secondary predication" f="prd" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

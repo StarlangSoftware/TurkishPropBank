@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="gelatinize">
+    <roleset id="gelatinize.01" name="(cause to) become gelatinous">
+      <roles>
+        <role descr="cause of transformation" f="PAG" n="0"/>
+        <role descr="entity made into gelatin" f="PPT" n="1"/>
+        <role descr="instrument, when separate from arg 0" f="MNR" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

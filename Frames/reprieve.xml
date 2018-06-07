@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="reprieve">
+    <roleset id="reprieve.01" name="temporary relief from">
+      <roles>
+        <role descr="agent, cause of relief or interruption" f="pag" n="0"/>
+        <role descr="thing on a break" f="ppt" n="1"/>
+        <role descr="length of pause" f="ext" n="2"/>
+        <role descr="benefactive, entity recieving relief" f="gol" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

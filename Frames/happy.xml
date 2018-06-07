@@ -1,0 +1,17 @@
+<frameset>
+  <predicate lemma="happy">
+    <roleset id="happy.01" name="joyful">
+      <roles>
+        <role descr="agent/cause/stimulus of happiness" f="cau" n="0"/>
+        <role descr="experiencer of happiness" f="ppt" n="1"/>
+        <role descr="what arg0 did to create arg1's happiness (if all present)" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="happy.02" name="fortuitous, lucky">
+      <roles>
+        <role descr="thing bringing luck" f="ppt" n="1"/>
+        <role descr="beneficiary" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

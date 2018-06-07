@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="recant">
+    <roleset id="recant.01" name="to formally reject a formerly held belief or statement">
+      <roles>
+        <role descr="rejector, agent" f="PAG" n="0"/>
+        <role descr="thing recanted" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

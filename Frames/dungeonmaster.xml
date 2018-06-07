@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="dungeonmaster">
+    <roleset id="dungeonmaster.01" name="play the role of dungeon master in Dungeons and Dragons">
+      <roles>
+        <role descr="Dungeon Master" f="pag" n="0"/>
+        <role descr="the game presided over" f="ppt" n="1"/>
+        <role descr="the group of players presided over" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

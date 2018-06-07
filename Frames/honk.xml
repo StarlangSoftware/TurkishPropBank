@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="honk">
+    <roleset id="honk.01" name="(cause to) emit a honking sound">
+      <roles>
+        <role descr="causer, agent" f="PAG" n="0"/>
+        <role descr="thing honking" f="PPT" n="1"/>
+        <role descr="entity honked at" f="GOL" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

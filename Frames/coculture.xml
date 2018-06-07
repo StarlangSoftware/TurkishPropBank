@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="coculture">
+    <roleset id="coculture.01" name="to grow more than one distinct cell type in a combined culture">
+      <roles>
+        <role descr="intentional agent of coculture (e.g. scientist)" f="pag" n="0" />
+        <role descr="cocultured entities (e.g. cells)" f="ppt" n="1" />
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

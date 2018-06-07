@@ -1,0 +1,18 @@
+<frameset>
+  <predicate lemma="peck">
+    <roleset id="peck.01" name="take away bit by bit (like a bird eating)">
+      <roles>
+        <role descr="pecker" f="pag" n="0"/>
+        <role descr="thing pecked at" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="peck.02" name="hit with beak">
+      <roles>
+        <role descr="hitter, bird" f="pag" n="0"/>
+        <role descr="thing hit" f="ppt" n="1"/>
+        <role descr="beak" f="mnr" n="2"/>
+        <role descr="end state of arg1" f="prd" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

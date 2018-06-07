@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="hay">
+    <roleset id="hay.01" name="to convert plant material (grass, clover,   etc) into hay">
+      <roles>
+        <role descr="agent or causer" f="pag" n="0"/>
+        <role descr="entity gathered; hay" f="ppt" n="1"/>
+        <role descr="gathered into" f="prd" n="2"/>
+        <role descr="beneficiary" f="gol" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

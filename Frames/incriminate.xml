@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="incriminate">
+    <roleset id="incriminate.01" name="cause to look like a criminal">
+      <roles>
+        <role descr="agent, causer of incrimination" f="PAG" n="0"/>
+        <role descr="alleged criminal" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

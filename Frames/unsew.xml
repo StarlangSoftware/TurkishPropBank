@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="unsew">
+    <roleset id="unsew.01" name="unattach by removing sewn threads">
+      <roles>
+        <role descr="Agent" f="pag" n="0"/>
+        <role descr="Patient, thing(s) being unsewn" f="ppt" n="1"/>
+        <role descr="Instrument of unsewing" f="mnr" n="2"/>
+        <role descr="Attribute of Arg1, end state" f="prd" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

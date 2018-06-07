@@ -1,0 +1,21 @@
+<frameset>
+  <predicate lemma="broaden">
+    <roleset id="broaden.01" name="(cause to) become   broader, wider">
+      <roles>
+        <role descr="agent, causing broadening" f="pag" n="0"/>
+        <role descr="thing broadening" f="ppt" n="1"/>
+        <role descr="EXT, amount broadened by" f="ext" n="2"/>
+        <role descr="start point" f="dir" n="3"/>
+        <role descr="end point" f="gol" n="4"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="broad">
+    <roleset id="broad.02" name="spanning a wide range">
+      <roles>
+        <role descr="broad thing" f="ppt" n="1"/>
+        <role descr="specific aspect of arg1 that is broad (if in addition)" f="vsp" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

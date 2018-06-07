@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="orgasm">
+    <roleset id="orgasm.01" name="have a sexual climax">
+      <roles>
+        <role descr="experiencer of climax" f="pag" n="1"/>
+        <role descr="stimulus" f="cau" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

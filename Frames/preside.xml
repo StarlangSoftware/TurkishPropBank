@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="preside">
+    <roleset id="preside.01" name="lead, conduct">
+      <roles>
+        <role descr="leader" f="PAG" n="0"/>
+        <role descr="led" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

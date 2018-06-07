@@ -1,0 +1,13 @@
+<frameset>
+  <predicate lemma="rank">
+    <roleset id="rank.01" name="assign a position in a list">
+      <roles>
+        <role descr="assigner" f="pag" n="0"/>
+        <role descr="thing assigned a position" f="ppt" n="1"/>
+        <role descr="rank" f="prd" n="2"/>
+        <role descr="position relative to other competitors" f="vsp" n="3"/>
+        <role descr="attribute, value" f="vsp" n="4"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

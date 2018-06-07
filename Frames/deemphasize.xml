@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="deemphasize">
+    <roleset id="deemphasize.01" name="to minimize the importance of">
+      <roles>
+        <role descr="causer of deemphasis" f="PAG" n="0"/>
+        <role descr="entity  deemphasized" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

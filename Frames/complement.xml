@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="complement">
+    <roleset id="complement.01" name="go well with, fill out">
+      <roles>
+        <role descr="thing complementing" f="pag" n="1"/>
+        <role descr="thing complemented" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

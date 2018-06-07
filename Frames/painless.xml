@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="painless">
+    <roleset id="painless.01" name="not causing pain">
+      <roles>
+        <role descr="thing not causing pain" f="pag" n="0"/>
+        <role descr="experiencer" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,13 @@
+<frameset>
+  <predicate lemma="retail">
+    <roleset id="retail.01" name="sell at retail">
+      <roles>
+        <role descr="Seller" f="pag" n="0"/>
+        <role descr="Thing Sold" f="ppt" n="1"/>
+        <role descr="Buyer" f="gol" n="2"/>
+        <role descr="Price Paid" f="vsp" n="3"/>
+        <role descr="Benefactive" f="gol" n="4"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

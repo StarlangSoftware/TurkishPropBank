@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="egress">
+    <roleset id="egress.01" name="exit, go out">
+      <roles>
+        <role descr="departing entity" f="pag" n="0"/>
+        <role descr="place left" f="loc" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

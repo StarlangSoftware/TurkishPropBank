@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="readmit">
+    <roleset id="readmit.01" name="let back in, allow to enter again">
+      <roles>
+        <role descr="allower" f="pag" n="0"/>
+        <role descr="enterer" f="ppt" n="1"/>
+        <role descr="place entered" f="loc" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

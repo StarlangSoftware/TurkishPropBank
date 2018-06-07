@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="envelop">
+    <roleset id="envelop.01" name="cover on all sides">
+      <roles>
+        <role descr="causer of covering" f="pag" n="0"/>
+        <role descr="entity being covered" f="gol" n="1"/>
+        <role descr="actual cover" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

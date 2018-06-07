@@ -1,0 +1,18 @@
+<frameset>
+  <predicate lemma="regret">
+    <roleset id="regret.01" name="regret, feel bad about">
+      <roles>
+        <role descr="regreter" f="PPT" n="0"/>
+        <role descr="thing regretted" f="CAU" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="regrettable">
+    <roleset id="regrettable.02" name="able/worthy to be reqretted">
+      <roles>
+        <role descr="regretter" f="pag" n="0"/>
+        <role descr="regrettable" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

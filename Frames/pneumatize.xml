@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="pneumatize">
+    <roleset id="pneumatize.01" name="(cause to) become filled with air">
+      <roles>
+        <role descr="cause/agent" f="pag" n="0"/>
+        <role descr="thing filled with air" f="gol" n="1"/>
+        <role descr="air" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

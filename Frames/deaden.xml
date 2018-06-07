@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="deaden">
+    <roleset id="deaden.01" name="impair in vigor, no longer alive, active, in play">
+      <roles>
+        <role descr="agent" f="pag" n="0"/>
+        <role descr="patient, entity being deadened" f="ppt" n="1"/>
+        <role descr="instrument" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

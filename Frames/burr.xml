@@ -1,0 +1,15 @@
+<frameset>
+  <predicate lemma="burr">
+    <roleset id="burr.01" name="speak with a burr or make a whirring sound">
+      <roles>
+        <role descr="Speaker, or thing making whirring sound" f="ppt" n="0"/>
+      </roles>
+    </roleset>
+    <roleset id="burr.02" name="produce a prickly seed">
+      <roles>
+        <role descr="plant" f="pag" n="0"/>
+        <role descr="seed, item produced" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

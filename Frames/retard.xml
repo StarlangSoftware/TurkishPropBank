@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="retard">
+    <roleset id="retard.01" name="make slow">
+      <roles>
+        <role descr="cause of slowing" f="pag" n="0"/>
+        <role descr="thing getting slower" f="ppt" n="1"/>
+        <role descr="specific aspect of arg1 retarded" f="vsp" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

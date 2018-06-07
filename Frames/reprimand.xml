@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="reprimand">
+    <roleset id="reprimand.01" name="scold, punish for wrong doing">
+      <roles>
+        <role descr="reprimander, agent" f="pag" n="0"/>
+        <role descr="entity reprimanded" f="ppt" n="1"/>
+        <role descr="for what" f="cau" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

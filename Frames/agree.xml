@@ -1,0 +1,19 @@
+<frameset>
+  <predicate lemma="agree">
+    <roleset id="agree.01" name="agree">
+      <roles>
+        <role descr="agreer" f="PAG" n="0"/>
+        <role descr="proposition" f="PPT" n="1"/>
+        <role descr="other entity agreeing" f="COM" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="agreeable">
+    <roleset id="agreeable.02" name="agreeable">
+      <roles>
+        <role descr="affable entity, agreeable person" f="PAG" n="0"/>
+        <role descr="what is agreed to, agreeable to what?" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

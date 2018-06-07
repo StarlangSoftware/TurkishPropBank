@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="natury">
+    <roleset id="natury.01" name="characterized as nature-like">
+      <roles>
+        <role descr="natural entity" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

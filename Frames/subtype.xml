@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="subtype">
+    <roleset id="subtype.01" name="categorize as a subtype">
+      <roles>
+        <role descr="categorizer" f="pag" n="0"/>
+        <role descr="thing categorized" f="ppt" n="1"/>
+        <role descr="the subtype" f="prd" n="2"/>
+        <role descr="the broader category" f="vsp" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="irradiate">
+    <roleset id="irradiate.01" name="expose to radiation">
+      <roles>
+        <role descr="exposer" f="pag" n="0"/>
+        <role descr="thing exposed" f="ppt" n="1"/>
+        <role descr="radiation" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

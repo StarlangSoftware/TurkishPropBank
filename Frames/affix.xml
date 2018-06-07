@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="affix">
+    <roleset id="affix.01" name="attach, as with glue">
+      <roles>
+        <role descr="attacher, agent" f="pag" n="0"/>
+        <role descr="focus of attachment" f="ppt" n="1"/>
+        <role descr="thing arg 1 is affixed to" f="gol" n="2"/>
+        <role descr="instrument of bonding, glue" f="mnr" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

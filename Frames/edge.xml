@@ -1,0 +1,43 @@
+<frameset>
+  <predicate lemma="edge">
+    <roleset id="edge.01" name="move slightly">
+      <roles>
+        <role descr="Logical subject, patient, thing moving" f="ppt" n="1"/>
+        <role descr="EXT, amount moved" f="ext" n="2"/>
+        <role descr="start point" f="dir" n="3"/>
+        <role descr="end point" f="gol" n="4"/>
+        <role descr="medium" f="mnr" n="m"/>
+        <role descr="direction--REQUIRED" f="dir" n="5"/>
+      </roles>
+    </roleset>
+    <roleset id="edge.03" name="provide an edge or frame for an object">
+      <roles>
+        <role descr="decorator, edger" f="pag" n="0"/>
+        <role descr="object edged" f="ppt" n="1"/>
+        <role descr="edged with what?" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="edge_out">
+    <roleset id="edge_out.02" name="beat, surpass">
+      <roles>
+        <role descr="winner" f="pag" n="0"/>
+        <role descr="loser" f="ppt" n="1"/>
+        <role descr="for what, prize" f="prp" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="edgy">
+    <roleset id="edgy.04" name="hip, pushing the envelope">
+      <roles>
+        <role descr="entity pushing the envelope" f="pag" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="edgy.05" name="on edge, high strung">
+      <roles>
+        <role descr="cause/stimulus of edginess" f="cau" n="0"/>
+        <role descr="high-strung entity" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

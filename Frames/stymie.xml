@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="stymie">
+    <roleset id="stymie.01" name="block someone's actions">
+      <roles>
+        <role descr="blocker, agent" f="PAG" n="0"/>
+        <role descr="stymied entity/action" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

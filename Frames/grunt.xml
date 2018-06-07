@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="grunt">
+    <roleset id="grunt.02" name="speak gruntingly">
+      <roles>
+        <role descr="speaker" f="PAG" n="0"/>
+        <role descr="utterance" f="ppt" n="1"/>
+        <role descr="listener" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

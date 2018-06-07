@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="muslim">
+    <roleset id="muslim.01" name="following islam">
+      <roles>
+        <role descr="muslim entity" f="pag" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

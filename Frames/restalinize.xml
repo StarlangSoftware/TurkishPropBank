@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="restalinize">
+    <roleset id="restalinize.01" name="stalinize again">
+      <roles>
+        <role descr="entity causing restalinization" f="pag" n="0"/>
+        <role descr="entity restalinized" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

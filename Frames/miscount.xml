@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="miscount">
+    <roleset id="miscount.01" name="count inaccurately">
+      <roles>
+        <role descr="faulty counter" f="pag" n="0"/>
+        <role descr="items counted" f="ppt" n="1"/>
+        <role descr="incorrect count" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

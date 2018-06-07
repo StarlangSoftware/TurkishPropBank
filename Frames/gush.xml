@@ -1,0 +1,16 @@
+<frameset>
+  <predicate lemma="gush">
+    <roleset id="gush.01" name="to express enthusiastically">
+      <roles>
+        <role descr="agent" f="PPT" n="0"/>
+        <role descr="topic, utterance" f="PAG" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="gush.02" name="(cause to) flow">
+      <roles>
+        <role descr="causer of flowing" f="DIR" n="0"/>
+        <role descr="entity flowing" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

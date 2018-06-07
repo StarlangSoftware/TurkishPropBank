@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="declare">
+    <roleset id="declare.01" name="announce or assert">
+      <roles>
+        <role descr="announcer" f="pag" n="0"/>
+        <role descr="utterance" f="ppt" n="1"/>
+        <role descr="hearer" f="gol" n="2"/>
+        <role descr="attributive" f="prd" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

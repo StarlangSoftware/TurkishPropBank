@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="puzzle">
+    <roleset id="puzzle.01" name="confuse">
+      <roles>
+        <role descr="cause, agent" f="pag" n="0"/>
+        <role descr="entity experiencing confusion" f="ppt" n="1"/>
+        <role descr="confused about or over what?" f="cau" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="burl">
+    <roleset id="burl.01" name="remove knots, lumps, loose threads from fabric">
+      <roles>
+        <role descr="burler" f="PAG" n="0"/>
+        <role descr="knot/ lump/ loose thread" f="PPT" n="1"/>
+        <role descr="fabric" f="DIR" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

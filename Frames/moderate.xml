@@ -1,0 +1,24 @@
+<frameset>
+  <predicate lemma="moderate">
+    <roleset id="moderate.01" name="make moderate">
+      <roles>
+        <role descr="moderator" f="pag" n="0"/>
+        <role descr="thing that would be extreme otherwise" f="ppt" n="1"/>
+        <role descr="specific aspect of arg1 that is moderate" f="vsp" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="moderate.02" name="to preside over; proctor, preside over, proctor">
+      <roles>
+        <role descr="leader" f="pag" n="0"/>
+        <role descr="group lead or monitored" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="moderate.03" name="mild, of a medium amount; not excessive">
+      <roles>
+        <role descr="agent" f="pag" n="0"/>
+        <role descr="moderate entity" f="ppt" n="1"/>
+        <role descr="specific aspect of arg1 that is moderate" f="vsp" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="cork">
+    <roleset id="cork.01" name="to plug or seal; to stuff with cork">
+      <roles>
+        <role descr="corker" f="pag" n="0"/>
+        <role descr="thing corked" f="gol" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

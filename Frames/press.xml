@@ -1,0 +1,24 @@
+<frameset>
+  <predicate lemma="press">
+    <roleset id="press.01" name="apply pressure, possibly to do something">
+      <roles>
+        <role descr="presser" f="pag" n="0"/>
+        <role descr="pressed (on)" f="ppt" n="1"/>
+        <role descr="goal, pressed-for, arg1 is pressed to do what?" f="prd" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="press.02" name="move">
+      <roles>
+        <role descr="mover" f="pag" n="0"/>
+        <role descr="moved" f="ppt" n="1"/>
+        <role descr="ahead, usually" f="dir" n="m"/>
+      </roles>
+    </roleset>
+    <roleset id="press.03" name="make and produce">
+      <roles>
+        <role descr="producer" f="pag" n="0"/>
+        <role descr="record, music, disk" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

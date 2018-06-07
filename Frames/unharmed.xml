@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="unharmed">
+    <roleset id="unharmed.01" name="uninjured, not damaged">
+      <roles>
+        <role descr="potential causer of harm" f="pag" n="0"/>
+        <role descr="entity not harmed" f="ppt" n="1"/>
+        <role descr="instrument, if in addition to arg0" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

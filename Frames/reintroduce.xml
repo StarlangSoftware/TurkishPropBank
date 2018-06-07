@@ -1,0 +1,18 @@
+<frameset>
+  <predicate lemma="reintroduce">
+    <roleset id="reintroduce.01" name="cause to meet">
+      <roles>
+        <role descr="entity making reintroduction" f="pag" n="0"/>
+        <role descr="entity being reintroduced" f="ppt" n="1"/>
+        <role descr="entity being reintroduced TO" f="gol" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="reintroduce.02" name="implement, begin, bring up">
+      <roles>
+        <role descr="implementer, agent" f="pag" n="0"/>
+        <role descr="thing being brought up" f="ppt" n="1"/>
+        <role descr="medium, where arg1 is brought up into" f="loc" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

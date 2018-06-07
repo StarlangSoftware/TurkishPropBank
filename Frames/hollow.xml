@@ -1,0 +1,19 @@
+<frameset>
+  <predicate lemma="hollow_out">
+    <roleset id="hollow_out.01" name="cause to be hollow">
+      <roles>
+        <role descr="causal agent" f="pag" n="0"/>
+        <role descr="container" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="hollow">
+    <roleset id="hollow.02" name="create an empty space">
+      <roles>
+        <role descr="causal agent" f="pag" n="0"/>
+        <role descr="container" f="loc" n="1"/>
+        <role descr="substance removed" f="vsp" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

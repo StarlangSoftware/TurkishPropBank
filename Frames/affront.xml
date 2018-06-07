@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="affront">
+    <roleset id="affront.01" name="inentionally cause offense">
+      <roles>
+        <role descr="offender" f="pag" n="0"/>
+        <role descr="offended" f="ppt" n="1"/>
+        <role descr="instrument, if separate from arg0" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="earthquake">
+    <roleset id="earthquake.01" name="natural disaster: earthquake">
+      <roles>
+        <role descr="ground shaken (plates, region, epicenter)" f="ppt" n="1"/>
+        <role descr="magnitude, generally Richter scale" f="ext" n="2"/>
+        <role descr="death/injury toll" f="vsp" n="3"/>
+        <role descr="damages/cost" f="vsp" n="4"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

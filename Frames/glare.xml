@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="glare">
+    <roleset id="glare.01" name="to look at">
+      <roles>
+        <role descr="glarer, agent" f="pag" n="0"/>
+        <role descr="entity glared at" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

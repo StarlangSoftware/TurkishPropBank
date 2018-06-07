@@ -1,0 +1,39 @@
+<frameset>
+  <predicate lemma="use">
+    <roleset id="use.01" name="take advantage of, utilise">
+      <roles>
+        <role descr="User" f="pag" n="0"/>
+        <role descr="thing used" f="ppt" n="1">
+</role>
+        <role descr="purpose" f="prp" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="use.02" name="accustomed to">
+      <roles>
+        <role descr="Accustomed" f="pag" n="0"/>
+        <role descr="custom" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="use.03" name="modal">
+        <roles/>
+    </roleset>
+  </predicate>
+  <predicate lemma="use_up">
+    <roleset id="use_up.04" name="use completely">
+      <roles>
+        <role descr="User" f="pag" n="0"/>
+        <role descr="Thing used" f="ppt" n="1"/>
+        <role descr="For what purpose" f="prp" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="useful">
+    <roleset id="useful.05" name="offering benefit to a purpose">
+      <roles>
+        <role descr="beneficiary" f="gol" n="0"/>
+        <role descr="thing offering benefit" f="ppt" n="1"/>
+        <role descr="for what purpose" f="prp" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

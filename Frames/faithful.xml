@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="faithful">
+    <roleset id="faithful.01" name="steadfast, loyal">
+      <roles>
+        <role descr="loyal one" f="pag" n="1"/>
+        <role descr="loyal to" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

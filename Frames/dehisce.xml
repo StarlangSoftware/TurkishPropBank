@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="dehisce">
+    <roleset id="dehisce.01" name="reopening of a wound, usually along suture lines">
+      <roles>
+        <role descr="wound now open" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

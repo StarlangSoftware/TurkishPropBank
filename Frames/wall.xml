@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="wall_off">
+    <roleset id="wall_off.01" name="separate with walls">
+      <roles>
+        <role descr="builder of walls" f="pag" n="0"/>
+        <role descr="thing separated" f="ppt" n="1"/>
+        <role descr="from what" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

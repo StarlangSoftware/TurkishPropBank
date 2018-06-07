@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="veer">
+    <roleset id="veer.01" name="change course">
+      <roles>
+        <role descr="agent, thing in motion" f="PPT" n="0"/>
+        <role descr="description of path or change in path" f="LOC" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

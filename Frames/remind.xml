@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="remind">
+    <roleset id="remind.01" name="to cause to remember">
+      <roles>
+        <role descr="cause, agent" f="pag" n="0"/>
+        <role descr="thing reminded about" f="ppt" n="1"/>
+        <role descr="recipient" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

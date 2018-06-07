@@ -1,0 +1,17 @@
+<frameset>
+  <predicate lemma="aim">
+    <roleset id="aim.01" name="plan">
+      <roles>
+        <role descr="aimer" f="pag" n="0"/>
+        <role descr="action" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="aim.02" name="directed motion">
+      <roles>
+        <role descr="aimer" f="pag" n="0"/>
+        <role descr="thing in motion" f="ppt" n="1"/>
+        <role descr="target" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

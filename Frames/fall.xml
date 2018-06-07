@@ -1,0 +1,88 @@
+<frameset>
+  <predicate lemma="fall">
+    <roleset id="fall.01" name="move downward">
+      <roles>
+        <role descr="Logical subject, patient, thing falling" f="ppt" n="1"/>
+        <role descr="EXT, amount fallen" f="ext" n="2"/>
+        <role descr="start point" f="dir" n="3"/>
+        <role descr="end point, end state of arg1" f="gol" n="4"/>
+        <role descr="medium" f="loc" n="m"/>
+      </roles>
+    </roleset>
+    <roleset id="fall.04" name="occur">
+      <roles>
+        <role descr="thing occurring" f="ppt" n="1"/>
+        <role descr="when/where" f="tmp" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="fall.05" name="be defeated">
+      <roles>
+        <role descr="loser" f="ppt" n="1"/>
+        <role descr="winner or instrument of destruction" f="pag" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="fall.07" name="become">
+      <roles>
+        <role descr="Person undergoing change" f="ppt" n="1"/>
+        <role descr="End state" f="prd" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="fall.10" name="fall for a trick: be fooled by">
+      <roles>
+        <role descr="the fool" f="ppt" n="1"/>
+        <role descr="the trick" f="cau" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="fall.12" name="blame, repercussions; take the fall for">
+      <roles>
+        <role descr="entity taking the blame" f="pag" n="0"/>
+        <role descr="blame for what" f="ppt" n="1"/>
+        <role descr="entity protected from blame" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="fall_back">
+    <roleset id="fall_back.08" name="fall back, rely on in emergency">
+      <roles>
+        <role descr="thing falling back" f="pag" n="0"/>
+        <role descr="thing fallen back on" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="fall_off">
+    <roleset id="fall_off.02" name="fall off: stop, almost">
+      <roles>
+        <role descr="Logical subject, patient, thing falling" f="ppt" n="1"/>
+        <role descr="EXT, amount fallen" f="ext" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="fall_out">
+    <roleset id="fall_out.03" name="fall out: no longer be on good terms">
+      <roles>
+        <role descr="parties on bad terms" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="fall_through">
+    <roleset id="fall_through.06" name="fall through: not come to pass, not come to pass">
+      <roles>
+        <role descr="non-event" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="fall_apart">
+    <roleset id="fall_apart.09" name="fall apart: break, separate into pieces">
+      <roles>
+        <role descr="thing in peices" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="fall_over">
+    <roleset id="fall_over.11" name="be no longer standing">
+      <roles>
+        <role descr="entity falling" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

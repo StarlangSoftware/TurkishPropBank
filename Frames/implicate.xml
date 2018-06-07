@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="implicate">
+    <roleset id="implicate.01" name="to involve, connect, or imply, connection or implying">
+      <roles>
+        <role descr="entity establishing a link" f="pag" n="0"/>
+        <role descr="thing implicated" f="ppt" n="1"/>
+        <role descr="involved in what?" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

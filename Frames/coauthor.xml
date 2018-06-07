@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="coauthor">
+    <roleset id="coauthor.01" name="to write or construct jointly">
+      <roles>
+        <role descr="one or all authors" f="pag" n="0"/>
+        <role descr="text authored" f="ppt" n="1"/>
+        <role descr="additional authors" f="com" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

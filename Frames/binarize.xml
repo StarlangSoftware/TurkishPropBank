@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="binarize">
+    <roleset id="binarize.01" name="convert to binary image">
+      <roles>
+        <role descr="causer of conversion" f="pag" n="0"/>
+        <role descr="entity converted to binary" f="ppt" n="1"/>
+        <role descr="binarization into what?" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

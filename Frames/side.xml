@@ -1,0 +1,18 @@
+<frameset>
+  <predicate lemma="side">
+    <roleset id="side.01" name="take the side of, support">
+      <roles>
+        <role descr="supporter" f="pag" n="0"/>
+        <role descr="supported" f="ppt" n="1"/>
+        <role descr="sided-against, anti-beneficiary" f="gol" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="side.02" name="put siding on a house">
+      <roles>
+        <role descr="construction worker, agent" f="pag" n="0"/>
+        <role descr="house" f="gol" n="1"/>
+        <role descr="siding" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

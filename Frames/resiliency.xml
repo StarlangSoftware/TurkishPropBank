@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="resiliency">
+    <roleset id="resiliency.01" name="ablility to bounce back following stress">
+      <roles>
+        <role descr="resilient entity" f="pag" n="1"/>
+        <role descr="resilient to what stressor" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

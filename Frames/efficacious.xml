@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="efficacious">
+    <roleset id="efficacious.01" name="be effective">
+      <roles>
+        <role descr="this that is effective" f="pag" n="0"/>
+        <role descr="successful at; effect" f="ppt" n="1"/>
+        <role descr="beneficiary" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

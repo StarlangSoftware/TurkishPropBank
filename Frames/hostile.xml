@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="hostile">
+    <roleset id="hostile.01" name="antagonistic, overly aggressive">
+      <roles>
+        <role descr="aggressor" f="pag" n="0"/>
+        <role descr="target of hostility" f="gol" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

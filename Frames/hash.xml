@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="hash_out">
+    <roleset id="hash_out.01" name="to review, discuss">
+      <roles>
+        <role descr="discussants" f="PAG" n="0"/>
+        <role descr="entity hashed out" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

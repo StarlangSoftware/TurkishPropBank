@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="reabsorb">
+    <roleset id="reabsorb.01" name="suck up, again">
+      <roles>
+        <role descr="Reabsorber, cause or agent" f="pag" n="0"/>
+        <role descr="Reabsorbed substance" f="ppt" n="1"/>
+        <role descr="Sponge into which Arg1 is reabsorbed" f="gol" n="2"/>
+        <role descr="Source of liquid/substance reabsorbed" f="dir" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

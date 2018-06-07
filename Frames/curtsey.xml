@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="curtsey">
+    <roleset id="curtsey.01" name="bow">
+      <roles>
+        <role descr="bower" f="PAG" n="0"/>
+        <role descr="bowed to" f="GOL" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="encase">
+    <roleset id="encase.01" name="put in a case">
+      <roles>
+        <role descr="putter" f="pag" n="0"/>
+        <role descr="thing in a case" f="ppt" n="1"/>
+        <role descr="case" f="vsp" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

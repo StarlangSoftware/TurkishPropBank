@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="suffuse">
+    <roleset id="suffuse.01" name="have a lot of">
+      <roles>
+        <role descr="a lot of what" f="PAG" n="0"/>
+        <role descr="thing with a lot" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

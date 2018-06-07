@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="contact">
+    <roleset id="contact.01" name="to bring or come into contact">
+      <roles>
+        <role descr="contactor, agent" f="PAG" n="0"/>
+        <role descr="entity contacted" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="capsize">
+    <roleset id="capsize.01" name="(ship or boat) to tip over or roll over   upside down, usually in water">
+      <roles>
+        <role descr="causer of capsizing" f="PAG" n="0"/>
+        <role descr="thing capsizing" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

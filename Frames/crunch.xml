@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="crunch">
+    <roleset id="crunch.01" name="reduce to small pieces">
+      <roles>
+        <role descr="causer of damage" f="pag" n="0"/>
+        <role descr="thing crunched" f="ppt" n="1"/>
+        <role descr="endstate" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="dissipate">
+    <roleset id="dissipate.01" name="become undense">
+      <roles>
+        <role descr="cause of dissipation" f="PAG" n="0"/>
+        <role descr="thing becoming undense" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

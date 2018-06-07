@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="intercourse">
+    <roleset id="intercourse.01" name="the act of sex">
+      <roles>
+        <role descr="first (or all when in one mention) partner" f="pag" n="0"/>
+        <role descr="second partner (when seperate mention)" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="ferry">
+    <roleset id="ferry.01" name="move something back   and forth">
+      <roles>
+        <role descr="agent, driver" f="pag" n="0"/>
+        <role descr="thing moved" f="ppt" n="1"/>
+        <role descr="locations, or start point" f="dir" n="2"/>
+        <role descr="destination" f="loc" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="transphosphorylate">
+    <roleset id="transphosphorylate.01" name="exchange of phosphate groups between organic phosphates, without their going through the stage of inorganic phosphates">
+      <roles>
+        <role descr="agent of transphosphorylation" f="pag" n="0" />
+        <role descr="thing transphosphorylated" f="ppt" n="1" />
+        <role descr="instrument" f="mnr" n="2" />
+        <role descr="product of transphosphorylation" f="prd" n="3" />
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,18 @@
+<frameset>
+  <predicate lemma="prick">
+    <roleset id="prick.01" name="poke with a pin, pop or burst">
+      <roles>
+        <role descr="prick(er)" f="PAG" n="0"/>
+        <role descr="victim" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="prick_up">
+    <roleset id="prick_up.02" name="cause to stand up straight">
+      <roles>
+        <role descr="causer" f="PAG" n="0"/>
+        <role descr="entity standing up straight" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

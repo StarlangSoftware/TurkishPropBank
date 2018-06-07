@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="effort">
+    <roleset id="effort.01" name="attempt">
+      <roles>
+        <role descr="Agent/Entity Trying" f="pag" n="0"/>
+        <role descr="thing tried" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

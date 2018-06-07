@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="half">
+    <roleset id="half.01" name="50%">
+      <roles>
+        <role descr="entity that is/has half in some regard" f="ppt" n="1"/>
+        <role descr="characteristic/aspect of which arg1 only is/has 50%" f="vsp" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

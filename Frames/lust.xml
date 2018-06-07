@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="lust">
+    <roleset id="lust.01" name="lust">
+      <roles>
+        <role descr="lust-er" f="PAG" n="0"/>
+        <role descr="lust for" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

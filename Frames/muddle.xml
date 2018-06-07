@@ -1,0 +1,18 @@
+<frameset>
+  <predicate lemma="muddle">
+    <roleset id="muddle.01" name="to make muddy, confuse">
+      <roles>
+        <role descr="causer of confusion, agent" f="pag" n="0"/>
+        <role descr="entity muddled" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="muddle_up">
+    <roleset id="muddle_up.02" name="stir up, confuse, completive">
+      <roles>
+        <role descr="agent" f="pag" n="0"/>
+        <role descr="thing becoming muddled" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

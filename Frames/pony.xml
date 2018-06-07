@@ -1,0 +1,20 @@
+<frameset>
+  <predicate lemma="pony">
+    <roleset id="pony.01" name="to lead with the help of a pony or another vehicle">
+      <roles>
+        <role descr="entity leading" f="pag" n="0"/>
+        <role descr="entity lead" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="pony_up">
+    <roleset id="pony_up.02" name="to pay money (usually owed)">
+      <roles>
+        <role descr="payer" f="pag" n="0"/>
+        <role descr="money paid, asset" f="ppt" n="1"/>
+        <role descr="recipient, person/org being paid" f="gol" n="2"/>
+        <role descr="commodity, arg2 was paid arg1 for what?" f="cau" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

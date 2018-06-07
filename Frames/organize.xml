@@ -1,0 +1,13 @@
+<frameset>
+  <predicate lemma="organize">
+    <roleset id="organize.01" name="make organized, orderly arrangment, having a systematic, efficient (maybe unified) structure">
+      <roles>
+        <role descr="organizer, entity with good organizational skills" f="pag" n="0"/>
+        <role descr="thing organized, domain in which arg0 has good skills" f="ppt" n="1"/>
+        <role descr="previous state" f="vsp" n="2"/>
+        <role descr="benefactive" f="gol" n="3"/>
+        <role descr="end state" f="prd" n="4"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

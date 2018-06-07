@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="pride">
+    <roleset id="pride.01" name="be proud or satisfied, being proud of, proud">
+      <roles>
+        <role descr="proud one" f="pag" n="0"/>
+        <role descr="proud of/about; congratulate on" f="ppt" n="1"/>
+        <role descr="grounds, reason for pride" f="cau" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

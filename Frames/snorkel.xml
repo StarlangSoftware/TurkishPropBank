@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="snorkel">
+    <roleset id="snorkel.01" name="dive with a snorkel">
+      <roles>
+        <role descr="snorkeler" f="pag" n="0"/>
+        <role descr="area" f="loc" n="1"/>
+        <role descr="snorked with" f="com" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

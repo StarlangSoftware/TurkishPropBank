@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="hitch">
+    <roleset id="hitch.01" name="to fasten, attach">
+      <roles>
+        <role descr="causer of attachment" f="PAG" n="0"/>
+        <role descr="thing hitched" f="PPT" n="1"/>
+        <role descr="entity hitched to" f="PPT" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

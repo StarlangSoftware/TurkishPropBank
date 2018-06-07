@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="coerce">
+    <roleset id="coerce.01" name="to persuade">
+      <roles>
+        <role descr="persuasive entity, agent" f="pag" n="0"/>
+        <role descr="impelled person" f="ppt" n="1"/>
+        <role descr="action or Result" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

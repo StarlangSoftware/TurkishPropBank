@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="handcount">
+    <roleset id="handcount.01" name="enumerate by hand">
+      <roles>
+        <role descr="counter" f="PAG" n="0"/>
+        <role descr="thing counted" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

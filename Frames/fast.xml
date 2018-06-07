@@ -1,0 +1,15 @@
+<frameset>
+  <predicate lemma="fast">
+    <roleset id="fast.01" name="to abstain from or eat very little food">
+      <roles>
+        <role descr="Agent, faster" f="pag" n="0"/>
+      </roles>
+    </roleset>
+    <roleset id="fast.02" name="speedy">
+      <roles>
+        <role descr="fast entity/action (may require concatenation)" f="ppt" n="1"/>
+        <role descr="speed" f="ext" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="counterfeit">
+    <roleset id="counterfeit.01" name="make a false duplicate">
+      <roles>
+        <role descr="copyist, agent" f="pag" n="0"/>
+        <role descr="original, entity counterfeited" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,69 @@
+<frameset>
+  <predicate lemma="check">
+    <roleset id="check.01" name="examine">
+      <roles>
+        <role descr="checker" f="PAG" n="0"/>
+        <role descr="thing checked" f="LOC" n="1"/>
+        <role descr="checked for" f="PPT" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="check.03" name="make checkmarks">
+      <roles>
+        <role descr="agent, person with pen" f="PAG" n="0"/>
+        <role descr="option, box, etc" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="check.07" name="control, moderate, curb">
+      <roles>
+        <role descr="controller" f="PAG" n="0"/>
+        <role descr="thing that would be uncontrolled otherwise" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="check.08" name="have power over, curb or moderate">
+      <roles>
+        <role descr="controller" f="pag" n="0"/>
+        <role descr="controlled, thing put in check" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="check_in">
+    <roleset id="check_in.02" name="check into, as a hotel or conference">
+      <roles>
+        <role descr="staff member or other entity enabling the checking in" f="PAG" n="0"/>
+        <role descr="entity being checked in; future resident" f="PPT" n="1"/>
+        <role descr="place checked into" f="GOL" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="check_in.04" name="check in: confirm">
+      <roles>
+        <role descr="confirmer, agent" f="PAG" n="0"/>
+        <role descr="check in with whom" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="check_out">
+    <roleset id="check_out.09" name="exit, as a hotel; to leave and pay">
+      <roles>
+        <role descr="staff member or other entity enabling the checkout; person being paid" f="PAG" n="0"/>
+        <role descr="entity being checked out; person leaving" f="PPT" n="1"/>
+        <role descr="place checked out of" f="GOL" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="check_out.05" name="examine">
+      <roles>
+        <role descr="checker" f="PAG" n="0"/>
+        <role descr="thing checked" f="LOC" n="1"/>
+        <role descr="checked for" f="PPT" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="check_up">
+    <roleset id="check_up.06" name="examine">
+      <roles>
+        <role descr="checker" f="PAG" n="0"/>
+        <role descr="thing checked" f="LOC" n="1"/>
+        <role descr="checked for" f="PPT" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

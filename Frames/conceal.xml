@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="conceal">
+    <roleset id="conceal.01" name="hide">
+      <roles>
+        <role descr="agent, concealer" f="pag" n="0"/>
+        <role descr="thing hidden" f="ppt" n="1"/>
+        <role descr="seeker" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

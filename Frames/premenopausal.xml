@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="premenopausal">
+    <roleset id="premenopausal.01" name="not having gone through menopause">
+      <roles>
+        <role descr="premenopausal entity" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

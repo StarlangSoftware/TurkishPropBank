@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="unfurl">
+    <roleset id="unfurl.01" name="(cause to) become unfurled">
+      <roles>
+        <role descr="Agent, cause of unfurling" f="PAG" n="0"/>
+        <role descr="Entity unfurled" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

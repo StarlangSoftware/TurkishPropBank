@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="transplant">
+    <roleset id="transplant.01" name="move from one place to another">
+      <roles>
+        <role descr="mover, agent" f="pag" n="0"/>
+        <role descr="thing moved" f="ppt" n="1"/>
+        <role descr="destination" f="gol" n="2"/>
+        <role descr="source" f="dir" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

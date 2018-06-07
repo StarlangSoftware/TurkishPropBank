@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="misconduct">
+    <roleset id="misconduct.01" name="bad behavior, to behave badly">
+      <roles>
+        <role descr="agent, one behaving badly" f="pag" n="0"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

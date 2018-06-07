@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="nil">
+    <roleset id="nil.01" name="zilch">
+      <roles>
+        <role descr="thing that is non-existant" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

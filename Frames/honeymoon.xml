@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="honeymoon">
+    <roleset id="honeymoon.01" name="vacation after getting married">
+      <roles>
+        <role descr="honeymooners" f="pag" n="0"/>
+        <role descr="location/theme of the honeymoon" f="loc" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

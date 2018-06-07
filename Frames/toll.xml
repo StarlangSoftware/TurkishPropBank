@@ -1,0 +1,19 @@
+<frameset>
+  <predicate lemma="toll">
+    <roleset id="toll.01" name="to (cause) to make a sound of a bell">
+      <roles>
+        <role descr="causer of ringing" f="pag" n="0"/>
+        <role descr="bell" f="ppt" n="1"/>
+        <role descr="ring for" f="gol" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="toll.02" name="charge a toll">
+      <roles>
+        <role descr="toll-booth employee, person charging toll" f="pag" n="0"/>
+        <role descr="toll itself, amount charged" f="vsp" n="1"/>
+        <role descr="person charged, paying toll" f="ppt" n="2"/>
+        <role descr="toll for what? commodity" f="gol" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

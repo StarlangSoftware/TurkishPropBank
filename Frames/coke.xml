@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="coke">
+    <roleset id="coke.01" name="process coal into coke">
+      <roles>
+        <role descr="agent" f="pag" n="0"/>
+        <role descr="start material (coal)" f="ppt" n="1"/>
+        <role descr="end product (coke)" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,19 @@
+<frameset>
+  <predicate lemma="differentiate">
+    <roleset id="differentiate.01" name="cause or point out a difference">
+      <roles>
+        <role descr="causer of difference" f="pag" n="0"/>
+        <role descr="different thing(s)" f="ppt" n="1"/>
+        <role descr="instrument, when separate from arg0" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="differentiate.101" name="discern or mark a difference, cause or point out a difference">
+      <roles>
+        <role descr="Agent discerning a difference" f="pag" n="0"/>
+        <role descr="First thing differentiated" f="ppt" n="1"/>
+        <role descr="Second thing differentiated (if a separate argument from first thing)" f="ppt" n="2"/>
+        <role descr="Characteristics that differentiate" f="prd" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

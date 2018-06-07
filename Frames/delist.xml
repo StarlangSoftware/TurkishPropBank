@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="delist">
+    <roleset id="delist.01" name="take off of a list">
+      <roles>
+        <role descr="lister" f="pag" n="0"/>
+        <role descr="item" f="ppt" n="1"/>
+        <role descr="list" f="dir" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

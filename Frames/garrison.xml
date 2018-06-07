@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="garrison">
+    <roleset id="garrison.01" name="stationing troops in a military post">
+      <roles>
+        <role descr="agent" f="pag" n="0"/>
+        <role descr="troops stationed" f="ppt" n="1"/>
+        <role descr="location posted" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

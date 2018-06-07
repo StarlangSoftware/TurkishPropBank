@@ -1,0 +1,51 @@
+<frameset>
+  <predicate lemma="think">
+    <roleset id="think.01" name="think, believing, imagining">
+      <roles>
+        <role descr="Thinker" f="pag" n="0"/>
+        <role descr="Thought" f="ppt" n="1"/>
+        <role descr="Attributive (please look at the examples-- this is tricky)" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="think_up">
+    <roleset id="think_up.02" name="to invent, come up with">
+      <roles>
+        <role descr="thinker" f="pag" n="0"/>
+        <role descr="thing thought up" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="think_over">
+    <roleset id="think_over.03" name="mull over">
+      <roles>
+        <role descr="thinker" f="pag" n="0"/>
+        <role descr="subject matter considered" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="think_through">
+    <roleset id="think_through.04" name="consider fully">
+      <roles>
+        <role descr="thinker" f="pag" n="0"/>
+        <role descr="topic considered fully" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="methinks">
+    <roleset id="methinks.05" name="'it seems to me', 'i think ___'">
+      <roles>
+        <role descr="thing that seems; thing thought" f="pag" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="overthink">
+    <roleset id="overthink.06" name="think about too much">
+      <roles>
+        <role descr="Thinker" f="pag" n="0"/>
+        <role descr="Thought" f="ppt" n="1"/>
+        <role descr="Attributive" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

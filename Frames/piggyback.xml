@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="piggyback">
+    <roleset id="piggyback.01" name="ride along with">
+      <roles>
+        <role descr="rider" f="PAG" n="0"/>
+        <role descr="thing ridden (the piggy?)" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="mow">
+    <roleset id="mow.01" name="to cut grass or grain">
+      <roles>
+        <role descr="mower, agent" f="pag" n="0"/>
+        <role descr="grass" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

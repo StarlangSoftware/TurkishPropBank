@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="cricket">
+    <roleset id="cricket.01" name="playing cricket">
+      <roles>
+        <role descr="cricket player" f="PAG" n="0"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="hoax">
+    <roleset id="hoax.01" name="deceive, cause to believe a fabrication">
+      <roles>
+        <role descr="hoaxer" f="pag" n="0"/>
+        <role descr="target, entity fooled" f="ppt" n="1"/>
+        <role descr="the ruse" f="prd" n="2"/>
+        <role descr="subject-matter of the hoax" f="vsp" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

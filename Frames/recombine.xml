@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="recombine">
+    <roleset id="recombine.01" name="combine, mix again">
+      <roles>
+        <role descr="agent, mixer" f="pag" n="0"/>
+        <role descr="ingredient one" f="ppt" n="1"/>
+        <role descr="ingredient two" f="ppt" n="2"/>
+        <role descr="end product" f="prd" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

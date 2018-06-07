@@ -1,0 +1,23 @@
+<frameset>
+  <predicate lemma="due">
+    <roleset id="due.01" name="owed, required">
+      <roles>
+        <role descr="ower" f="pag" n="0"/>
+        <role descr="recipient, entity owed/expecting arg2" f="gol" n="1"/>
+        <role descr="thing expected, owed" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="due.02" name="caused by, attributable to">
+      <roles>
+        <role descr="cause, stimulus" f="pag" n="0"/>
+        <role descr="thing caused, experiencer" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="due.03" name="be scheduled for, planned for a time">
+      <roles>
+        <role descr="thing that is scheduled" f="ppt" n="1"/>
+        <role descr="what arg1 is scheduled to do" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

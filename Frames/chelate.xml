@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="chelate">
+    <roleset id="chelate.01" name="removing heavy metals from bloodstream using a chelate">
+      <roles>
+        <role descr="Entity removing" f="pag" n="0"/>
+        <role descr="Thing being removed (e.g. heavy metals)" f="ppt" n="1"/>
+        <role descr="Removed from (e.g. from bloodstream/patient)" f="dir" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

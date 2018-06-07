@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="snake">
+    <roleset id="snake.01" name="move like a snake, be snake-shaped">
+      <roles>
+        <role descr="entity in motion" f="PPT" n="0"/>
+        <role descr="path" f="dir" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

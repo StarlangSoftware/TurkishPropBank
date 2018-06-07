@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="mischaracterize">
+    <roleset id="mischaracterize.01" name="incorrectly assign a label or   attribute">
+      <roles>
+        <role descr="describer, person assigning label" f="pag" n="0"/>
+        <role descr="thing described" f="ppt" n="1"/>
+        <role descr="secondary attribute, misdescribed-as" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="proffer">
+    <roleset id="proffer.01" name="offer, give">
+      <roles>
+        <role descr="giver" f="PAG" n="0"/>
+        <role descr="thing given" f="PPT" n="1"/>
+        <role descr="entity given to" f="GOL" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

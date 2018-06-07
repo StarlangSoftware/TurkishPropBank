@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="distend">
+    <roleset id="distend.01" name="expand">
+      <roles>
+        <role descr="expander" f="pag" n="0"/>
+        <role descr="distended thing" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

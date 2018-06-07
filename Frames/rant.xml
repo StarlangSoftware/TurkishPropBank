@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="rant">
+    <roleset id="rant.01" name="rave, launch into a diatribe">
+      <roles>
+        <role descr="ranter" f="PAG" n="0"/>
+        <role descr="utterance" f="ppt" n="1"/>
+        <role descr="audience" f="gol" n="2"/>
+        <role descr="subject matter of utterance" f="vsp" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

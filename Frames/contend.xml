@@ -1,0 +1,17 @@
+<frameset>
+  <predicate lemma="contend">
+    <roleset id="contend.01" name="hold and utter a belief">
+      <roles>
+        <role descr="agent, entity uttering a belief" f="pag" n="0"/>
+        <role descr="contension, belief" f="ppt" n="1"/>
+        <role descr="hearer" f="gol" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="contend.02" name="deal with, suffer through">
+      <roles>
+        <role descr="contender" f="pag" n="0"/>
+        <role descr="thing dealt with" f="com" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

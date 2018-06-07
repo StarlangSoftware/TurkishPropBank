@@ -1,0 +1,46 @@
+<frameset>
+  <predicate lemma="act">
+    <roleset id="act.01" name="play a role; behave">
+      <roles>
+        <role descr="player" f="pag" n="0"/>
+        <role descr="role" f="prd" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="act.02" name="do something, perform an action">
+      <roles>
+        <role descr="actor" f="pag" n="0"/>
+        <role descr="grounds for action" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="act.05" name="thing done">
+      <roles>
+        <role descr="doer" f="pag" n="0"/>
+        <role descr="thing done" f="ppt" n="1"/>
+        <role descr="type of act" f="vsp" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="act_out">
+    <roleset id="act_out.03" name="perform a role">
+      <roles>
+        <role descr="actor, performer" f="pag" n="0"/>
+        <role descr="role, scenario enacted" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="act_up">
+    <roleset id="act_up.04" name="cause trouble">
+      <roles>
+        <role descr="trouble-maker" f="pag" n="0"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="activity">
+    <roleset id="activity.06" name="participating in, live, in use">
+      <roles>
+        <role descr="active entity" f="pag" n="0"/>
+        <role descr="activity engaged in" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

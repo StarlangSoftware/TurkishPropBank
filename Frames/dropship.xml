@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="dropship">
+    <roleset id="dropship.01" name="retail practice of sending items from a manufacturer to customer, ship directly from wholesaler to customer">
+      <roles>
+        <role descr="shipper" f="pag" n="0"/>
+        <role descr="package" f="ppt" n="1"/>
+        <role descr="recipient" f="gol" n="2"/>
+        <role descr="source" f="dir" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,19 @@
+<frameset>
+  <predicate lemma="nose">
+    <roleset id="nose.01" name="search or inquire in a meddlesome way">
+      <roles>
+        <role descr="snooper" f="pag" n="0"/>
+        <role descr="thing searched for" f="ppt" n="1"/>
+        <role descr="location, source" f="dir" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="nosy">
+    <roleset id="nosy.02" name="tending to butt in">
+      <roles>
+        <role descr="snooper" f="pag" n="0"/>
+        <role descr="butting into" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

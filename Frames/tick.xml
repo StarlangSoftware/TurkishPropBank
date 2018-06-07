@@ -1,0 +1,37 @@
+<frameset>
+  <predicate lemma="tick">
+    <roleset id="tick.01" name="make sounds like a clock">
+      <roles>
+        <role descr="ticker" f="pag" n="0"/>
+      </roles>
+    </roleset>
+    <roleset id="tick.04" name="move position on a scale">
+      <roles>
+        <role descr="causer of scale change" f="PAG" n="0"/>
+        <role descr="thing changing position" f="ppt" n="1"/>
+        <role descr="start state" f="dir" n="2"/>
+        <role descr="end state" f="gol" n="3"/>
+      </roles>
+    </roleset>
+    <roleset id="tick.05" name="mark (with a tick mark)">
+      <roles>
+        <role descr="agent" f="PAG" n="0"/>
+        <role descr="thing marked (destination)" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="tick_off">
+    <roleset id="tick_off.02" name="make angry">
+      <roles>
+        <role descr="cause of anger" f="PAG" n="0"/>
+        <role descr="angry entity" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="tick_off.03" name="enumerate">
+      <roles>
+        <role descr="counter, agent" f="PAG" n="0"/>
+        <role descr="thing(s) counted" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

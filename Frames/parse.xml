@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="parse">
+    <roleset id="parse.01" name="analyze into parts">
+      <roles>
+        <role descr="parser" f="PAG" n="0"/>
+        <role descr="thing analyzed" f="ppt" n="1"/>
+        <role descr="end state, parts" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

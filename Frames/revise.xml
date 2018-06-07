@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="revise">
+    <roleset id="revise.01" name="change, modify">
+      <roles>
+        <role descr="causer of transformation" f="pag" n="0"/>
+        <role descr="thing changing" f="ppt" n="1"/>
+        <role descr="end state" f="gol" n="2"/>
+        <role descr="start state" f="dir" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,18 @@
+<frameset>
+  <predicate lemma="transit">
+    <roleset id="transit.01" name="travel">
+      <roles>
+        <role descr="thing passing" f="ppt" n="1"/>
+        <role descr="location, space crossed" f="loc" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="transient">
+    <roleset id="transient.02" name="passing, changing, in motion">
+      <roles>
+        <role descr="thing passing" f="pag" n="1"/>
+        <role descr="location, space traversed" f="loc" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

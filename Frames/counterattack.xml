@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="counterattack">
+    <roleset id="counterattack.01" name="to make a return attack">
+      <roles>
+        <role descr="attacker, agent" f="pag" n="0"/>
+        <role descr="entity attacked" f="ppt" n="1"/>
+        <role descr="instrument" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

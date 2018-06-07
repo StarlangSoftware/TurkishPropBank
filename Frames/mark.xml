@@ -1,0 +1,41 @@
+<frameset>
+  <predicate lemma="mark">
+    <roleset id="mark.01" name="signify, distinguished">
+      <roles>
+        <role descr="signifier" f="pag" n="0"/>
+        <role descr="signified" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="mark.02" name="make a mark">
+      <roles>
+        <role descr="agent, marker" f="pag" n="0"/>
+        <role descr="mark" f="ppt" n="1"/>
+        <role descr="surface, marked-on" f="gol" n="2"/>
+        <role descr="instrument, marker" f="mnr" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="mark_up">
+    <roleset id="mark_up.03" name="annotate">
+      <roles>
+        <role descr="annotator" f="pag" n="0"/>
+        <role descr="document" f="ppt" n="1"/>
+        <role descr="annotation" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="mark_up.04" name="raise the price">
+      <roles>
+        <role descr="entity setting price" f="pag" n="0"/>
+        <role descr="commodity" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="mark_down">
+    <roleset id="mark_down.05" name="lower the price">
+      <roles>
+        <role descr="entity setting price" f="pag" n="0"/>
+        <role descr="commodity" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

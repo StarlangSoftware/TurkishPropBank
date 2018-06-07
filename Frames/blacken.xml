@@ -1,0 +1,48 @@
+<frameset>
+  <predicate lemma="blacken">
+    <roleset id="blacken.01" name="(cause to) become black in color">
+      <roles>
+        <role descr="cause of blackness" f="pag" n="0"/>
+        <role descr="thing that is black in color" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="black_out">
+    <roleset id="black_out.02" name="fall asleep, faint">
+      <roles>
+        <role descr="fainter" f="ppt" n="0"/>
+      </roles>
+    </roleset>
+    <roleset id="black_out.03" name="cause to not emit light">
+      <roles>
+        <role descr="causer of non-emission, agent" f="pag" n="0"/>
+        <role descr="non-emitter of light" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="black">
+    <roleset id="black.04" name="black in color">
+      <roles>
+        <role descr="cause of blackness" f="pag" n="0"/>
+        <role descr="thing that is black in color" f="ppt" n="1"/>
+        <role descr="specific part of arg1, if also mentioned" f="vsp" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="black.05" name="of an ethnic background featuring dark skin">
+      <roles>
+        <role descr="entity identifying as black, racially" f="pag" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="black.06" name="morbid, depressive, evil, macabre, dark">
+      <roles>
+        <role descr="macabre thing" f="ppt" n="1"/>
+        <role descr="specific aspect of arg1 that is dark" f="vsp" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="black.07" name="illegal">
+      <roles>
+        <role descr="thing that is illegal" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

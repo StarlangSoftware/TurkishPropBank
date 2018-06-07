@@ -1,0 +1,22 @@
+<frameset>
+  <predicate lemma="club">
+    <roleset id="club.01" name="to strike or beat with or as if with a club">
+      <roles>
+        <role descr="striker, agent" f="pag" n="0"/>
+        <role descr="entity clubbed" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="club.02" name="thickening process of soft tissue, thickening of tissue (usually in the fingers or toes)">
+      <roles>
+        <role descr="thing becoming thicker" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="clubbing">
+    <roleset id="clubbing.03" name="dancing in a nightclub/discotheque">
+      <roles>
+        <role descr="Dancer, clubhopper" f="pag" n="0"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

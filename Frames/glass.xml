@@ -1,0 +1,25 @@
+<frameset>
+  <predicate lemma="glass">
+    <roleset id="glass.01" name="cover with glass, glaze">
+      <roles>
+        <role descr="agent, person covering" f="pag" n="0"/>
+        <role descr="thing covered in glass" f="gol" n="1"/>
+        <role descr="glass itself, type of glass" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="glass.02" name="to scan with binoculars">
+      <roles>
+        <role descr="Looker, scanner" f="pag" n="0"/>
+        <role descr="Scene watched" f="loc" n="1"/>
+        <role descr="Scanned for what? thing searched for" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="glass_over">
+    <roleset id="glass_over.03" name="become glass-like in appearance">
+      <roles>
+        <role descr="thing becoming glass-like" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,39 @@
+<frameset>
+  <predicate lemma="frighten">
+    <roleset id="frighten.01" name="(cause to) become afraid">
+      <roles>
+        <role descr="cause of fear" f="pag" n="0"/>
+        <role descr="frightened entity" f="ppt" n="1"/>
+        <role descr="instrument, if separate from arg0" f="mnr" n="2"/>
+        <role descr="intensifier" f="prd" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="frighten_off">
+    <roleset id="frighten_off.02" name="frighten and make go away">
+      <roles>
+        <role descr="cause of fear" f="pag" n="0"/>
+        <role descr="frightened entity" f="ppt" n="1"/>
+        <role descr="instrument, if separate from arg0" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="frighten_away">
+    <roleset id="frighten_away.03" name="frighten and make go away">
+      <roles>
+        <role descr="causer of fear" f="pag" n="0"/>
+        <role descr="frightened entity" f="ppt" n="1"/>
+        <role descr="instrument, if separate from arg0" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="fright">
+    <roleset id="fright.04" name="be afraid">
+      <roles>
+        <role descr="cause of fear" f="pag" n="0"/>
+        <role descr="frightened entity" f="ppt" n="1"/>
+        <role descr="instrument, if separate from arg0" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

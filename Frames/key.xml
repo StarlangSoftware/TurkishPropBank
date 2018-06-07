@@ -1,0 +1,26 @@
+<frameset>
+  <predicate lemma="key">
+    <roleset id="key.01" name="to adjust, adapt">
+      <roles>
+        <role descr="entity establishing comparison, agent" f="pag" n="0"/>
+        <role descr="entity adjusted" f="ppt" n="1"/>
+        <role descr="entity adjusted to" f="gol" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="key.02" name="important, be 'the key' to something">
+      <roles>
+        <role descr="the key" f="pag" n="1"/>
+        <role descr="to what" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="key_in">
+    <roleset id="key_in.03" name="enter on a keyboard">
+      <roles>
+        <role descr="agent" f="pag" n="0"/>
+        <role descr="thing entered, code" f="ppt" n="1"/>
+        <role descr="destination, where code is entered" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

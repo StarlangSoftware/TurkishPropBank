@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="discompose">
+    <roleset id="discompose.01" name="fluster, cause to be nervous">
+      <roles>
+        <role descr="causer of nervousness" f="pag" n="0"/>
+        <role descr="nervous person" f="ppt" n="1"/>
+        <role descr="Manner or instrument if separate from arg 0" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

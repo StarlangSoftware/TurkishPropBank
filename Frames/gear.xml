@@ -1,0 +1,20 @@
+<frameset>
+  <predicate lemma="gear">
+    <roleset id="gear.01" name="aim at, design for">
+      <roles>
+        <role descr="aimer, designer, agent" f="pag" n="0"/>
+        <role descr="thing under consideration" f="ppt" n="1"/>
+        <role descr="target" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="gear_up">
+    <roleset id="gear_up.02" name="prepare">
+      <roles>
+        <role descr="preparer" f="pag" n="0"/>
+        <role descr="thing/entity prepared" f="ppt" n="1"/>
+        <role descr="purpose" f="prp" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

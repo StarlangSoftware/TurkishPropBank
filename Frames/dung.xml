@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="dung">
+    <roleset id="dung.01" name="apply dung (fertilizer) to">
+      <roles>
+        <role descr="farmer" f="pag" n="0"/>
+        <role descr="destination of fertilizer (location dunged)" f="gol" n="1"/>
+        <role descr="the fertilizer" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

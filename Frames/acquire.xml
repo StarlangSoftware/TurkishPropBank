@@ -1,0 +1,13 @@
+<frameset>
+  <predicate lemma="acquire">
+    <roleset id="acquire.01" name="get, acquire">
+      <roles>
+        <role descr="agent, entity acquiring something" f="PAG" n="0"/>
+        <role descr="thing acquired" f="PPT" n="1"/>
+        <role descr="seller" f="DIR" n="2"/>
+        <role descr="price paid" f="vsp" n="3"/>
+        <role descr="benefactive" f="gol" n="4"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="banter">
+    <roleset id="banter.01" name="speak jokingly, lightheartedly">
+      <roles>
+        <role descr="first speaker (or all speakers if in one mention" f="pag" n="0"/>
+        <role descr="second speaker (when separate mention)" f="com" n="1"/>
+        <role descr="topic, bantered about what?" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,13 @@
+<frameset>
+  <predicate lemma="denature">
+    <roleset id="denature.01" name="modify the molecular structure (of a protein or other biological macromolecule)">
+      <roles>
+        <role descr="intentional agent of denaturation (e.g. scientist)" f="pag" n="0" />
+        <role descr="thing denatured" f="ppt" n="1" />
+        <role descr="end state" f="gol" n="2" />
+        <role descr="start state" f="dir" n="3" />
+        <role descr="instrument, denaturant" f="mnr" n="4" />
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

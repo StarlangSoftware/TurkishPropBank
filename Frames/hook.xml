@@ -1,0 +1,28 @@
+<frameset>
+  <predicate lemma="hook">
+    <roleset id="hook.01" name="attach (as with a hook)">
+      <roles>
+        <role descr="causer of attachment" f="pag" n="0"/>
+        <role descr="thing now attached, first or all things hooked" f="ppt" n="1"/>
+        <role descr="hook, thing arg1 is attached to" f="ppt" n="2"/>
+        <role descr="attribute of arg1" f="prd" n="3"/>
+      </roles>
+    </roleset>
+    <roleset id="hook.03" name="(cause to) exist in a hook shape">
+      <roles>
+        <role descr="agent, causer of hook shape" f="pag" n="0"/>
+        <role descr="thing in hook shape" f="ppt" n="1"/>
+        <role descr="hooked around what" f="loc" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="hook_up">
+    <roleset id="hook_up.02" name="attach, phrasal variant">
+      <roles>
+        <role descr="causer of attachment" f="pag" n="0"/>
+        <role descr="thing now attached" f="ppt" n="1"/>
+        <role descr="hook" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

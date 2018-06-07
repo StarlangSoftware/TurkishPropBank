@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="defy">
+    <roleset id="defy.01" name="to oppose, resist, or refuse">
+      <roles>
+        <role descr="defiant one, agent" f="PAG" n="0"/>
+        <role descr="entity defied" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

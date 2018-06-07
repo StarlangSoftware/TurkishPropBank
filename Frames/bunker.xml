@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="bunker">
+    <roleset id="bunker.01" name="hunker down in protected area">
+      <roles>
+        <role descr="agent bunkering down" f="pag" n="0"/>
+        <role descr="entity bunkered" f="ppt" n="1"/>
+        <role descr="shelter" f="loc" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

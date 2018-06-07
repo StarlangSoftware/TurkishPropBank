@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="reestablish">
+    <roleset id="reestablish.01" name="to bring back into existence or use">
+      <roles>
+        <role descr="establisher, agent" f="PAG" n="0"/>
+        <role descr="entity reestablished" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

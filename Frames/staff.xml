@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="staff">
+    <roleset id="staff.01" name="provide manpower">
+      <roles>
+        <role descr="agentive staffer, employment agency" f="PAG" n="0"/>
+        <role descr="workplace" f="GOL" n="1"/>
+        <role descr="staff, workers" f="PPT" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

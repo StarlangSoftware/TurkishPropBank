@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="satiate">
+    <roleset id="satiate.01" name="make satisfied, making satisfied or full">
+      <roles>
+        <role descr="Cause of satisfaction" f="pag" n="0"/>
+        <role descr="patient, entity pleased" f="ppt" n="1"/>
+        <role descr="instrument or manner if separate from arg 0" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

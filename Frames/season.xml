@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="season">
+    <roleset id="season.01" name="make flavorful or fit">
+      <roles>
+        <role descr="causer of seasoning" f="pag" n="0"/>
+        <role descr="entity becoming seasoned" f="gol" n="1"/>
+        <role descr="instrument, if agent is also present" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

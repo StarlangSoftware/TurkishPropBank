@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="deem">
+    <roleset id="deem.01" name="hold, view as">
+      <roles>
+        <role descr="assigner" f="pag" n="0"/>
+        <role descr="object, thing under consideration" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

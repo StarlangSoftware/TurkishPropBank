@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="overlay">
+    <roleset id="overlay.01" name="lay over">
+      <roles>
+        <role descr="who's putting what where, agent" f="PAG" n="0"/>
+        <role descr="thing laid" f="PPT" n="1"/>
+        <role descr="over what" f="LOC" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

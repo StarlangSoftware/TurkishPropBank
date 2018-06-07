@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="barrage">
+    <roleset id="barrage.01" name="onslaught">
+      <roles>
+        <role descr="attacker" f="pag" n="0"/>
+        <role descr="thing actually moving aggressively towards arg2 (ie bullets, words. Non-agentive)" f="ppt" n="1"/>
+        <role descr="entity attacked" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

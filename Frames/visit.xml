@@ -1,0 +1,17 @@
+<frameset>
+  <predicate lemma="visit">
+    <roleset id="visit.01" name="visit, meet with, see, travel to see">
+      <roles>
+        <role descr="visitor" f="pag" n="0"/>
+        <role descr="visited" f="com" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="visit.02" name="chat">
+      <roles>
+        <role descr="first talker" f="pag" n="0"/>
+        <role descr="second talker" f="com" n="1"/>
+        <role descr="subject matter" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

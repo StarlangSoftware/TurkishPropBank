@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="obtain">
+    <roleset id="obtain.01" name="get">
+      <roles>
+        <role descr="receiver" f="PAG" n="0"/>
+        <role descr="thing gotten" f="PPT" n="1"/>
+        <role descr="received from" f="DIR" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

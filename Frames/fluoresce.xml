@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="fluoresce">
+    <roleset id="fluoresce.01" name="become fluorescent">
+      <roles>
+        <role descr="entity fluorescing" f="ppt" n="1"/>
+        <role descr="Color fluoresced" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

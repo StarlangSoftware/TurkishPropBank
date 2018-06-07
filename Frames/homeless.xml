@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="homeless">
+    <roleset id="homeless.01" name="without a home">
+      <roles>
+        <role descr="entity who is homeless" f="pag" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

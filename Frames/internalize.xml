@@ -1,0 +1,19 @@
+<frameset>
+  <predicate lemma="internalize">
+    <roleset id="internalize.01" name="accept or adopt as one's own">
+      <roles>
+        <role descr="acceptor" f="pag" n="0"/>
+        <role descr="thing accepted" f="ppt" n="1"/>
+        <role descr="attribute" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="internal">
+    <roleset id="internal.02" name="on the inside">
+      <roles>
+        <role descr="internal thing" f="pag" n="1"/>
+        <role descr="thing arg1 is on the inside of" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

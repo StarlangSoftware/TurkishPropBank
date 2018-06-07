@@ -1,0 +1,19 @@
+<frameset>
+  <predicate lemma="fluid">
+    <roleset id="fluid.01" name="changeable, dynamic">
+      <roles>
+        <role descr="changing thing" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="fluid.02" name="characteristic of fluid, graceful">
+      <roles>
+        <role descr="graceful thing" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="fluid.03" name="easily convertible to cash">
+      <roles>
+        <role descr="asset, or sometimes metonymically asset owner" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

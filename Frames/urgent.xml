@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="urgent">
+    <roleset id="urgent.01" name="pressing, dire">
+      <roles>
+        <role descr="urgent entity" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

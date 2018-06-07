@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="video">
+    <roleset id="video.01" name="skype, video chat">
+      <roles>
+        <role descr="first videochatter" f="pag" n="0"/>
+        <role descr="other videochatter(s)" f="com" n="1"/>
+        <role descr="subject matter" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

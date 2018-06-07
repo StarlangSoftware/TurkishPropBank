@@ -1,0 +1,27 @@
+<frameset>
+  <predicate lemma="clip">
+    <roleset id="clip.01" name="to cut, cut off, or cut out">
+      <roles>
+        <role descr="clipper, agent" f="pag" n="0"/>
+        <role descr="thing clipped" f="ppt" n="1"/>
+        <role descr="clipped from, source" f="dir" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="clip.03" name="hit very slightly on the edge">
+      <roles>
+        <role descr="hitter (agent)" f="pag" n="0"/>
+        <role descr="entity hit" f="gol" n="1"/>
+        <role descr="thing in motion" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="clip_off">
+    <roleset id="clip_off.02" name="to cut, cut off, or cut out">
+      <roles>
+        <role descr="clipper, agent" f="pag" n="0"/>
+        <role descr="thing clipped" f="ppt" n="1"/>
+        <role descr="clipped from" f="dir" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

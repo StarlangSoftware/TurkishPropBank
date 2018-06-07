@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="regional">
+    <roleset id="regional.01" name="in the region of">
+      <roles>
+        <role descr="regional thing" f="ppt" n="1"/>
+        <role descr="the region" f="loc" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

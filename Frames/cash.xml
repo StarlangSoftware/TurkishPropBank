@@ -1,0 +1,24 @@
+<frameset>
+  <predicate lemma="cash">
+    <roleset id="cash.01" name="turn a check into real money">
+      <roles>
+        <role descr="casher" f="PAG" n="0"/>
+        <role descr="check" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="cash_in">
+    <roleset id="cash_in.02" name="quit">
+      <roles>
+        <role descr="quitter" f="PAG" n="0"/>
+        <role descr="chips" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="cash_in.03" name="take advantage of">
+      <roles>
+        <role descr="taker of advantage" f="PAG" n="0"/>
+        <role descr="thing exploited" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

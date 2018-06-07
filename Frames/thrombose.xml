@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="thrombose">
+    <roleset id="thrombose.01" name="to affect with or be affected by thrombosis">
+      <roles>
+        <role descr="Causer of thrombosing (not sure this is possible)" f="pag" n="0"/>
+        <role descr="Entity affected by thrombosis" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

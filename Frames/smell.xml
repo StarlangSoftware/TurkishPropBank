@@ -1,0 +1,16 @@
+<frameset>
+  <predicate lemma="smell">
+    <roleset id="smell.01" name="notice an odor, act of smelling">
+      <roles>
+        <role descr="entity with a nose" f="pag" n="0"/>
+        <role descr="stinky thing" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="smell.02" name="emit an odor">
+      <roles>
+        <role descr="stinky thing" f="ppt" n="1"/>
+        <role descr="attribute of arg1" f="PPT" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

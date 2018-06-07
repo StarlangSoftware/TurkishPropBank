@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="plane">
+    <roleset id="plane.01" name="shape into a plane">
+      <roles>
+        <role descr="one who planes, agent" f="pag" n="0"/>
+        <role descr="thing worked on" f="ppt" n="1"/>
+        <role descr="end state, if different from arg1" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

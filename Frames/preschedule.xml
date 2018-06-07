@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="preschedule">
+    <roleset id="preschedule.01" name="to schedule ahead of time">
+      <roles>
+        <role descr="Planner" f="pag" n="0"/>
+        <role descr="Thing scheduled" f="ppt" n="1"/>
+        <role descr="Scheduled to, for, because of; second part of event" f="prp" n="2"/>
+        <role descr="Time of event" f="tmp" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

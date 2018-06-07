@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="pep_up">
+    <roleset id="pep_up.01" name="increase one's pep level">
+      <roles>
+        <role descr="Pepper (one who give pep)" f="pag" n="0"/>
+        <role descr="one receiving pep" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

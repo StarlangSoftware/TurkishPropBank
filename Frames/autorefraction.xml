@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="autorefraction">
+    <roleset id="autorefraction.01" name="automatically measure refraction">
+      <roles>
+        <role descr="giver of test, doctor" f="pag" n="0"/>
+        <role descr="patient, eye, deflector of light" f="ppt" n="1"/>
+        <role descr="explicit mention of machine used, instrument" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

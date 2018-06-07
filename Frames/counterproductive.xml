@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="counterproductive">
+    <roleset id="counterproductive.01" name="a hinderance to a goal, productivity">
+      <roles>
+        <role descr="hinderance, counterproductive thing" f="pag" n="0"/>
+        <role descr="goal, target that arg0 is counterproductive to" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

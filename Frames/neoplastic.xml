@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="neoplastic">
+    <roleset id="neoplastic.01" name="relating to new abnormal tissue growth (e.g. tumor)">
+      <roles>
+        <role descr="neoplastic thing" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

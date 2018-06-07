@@ -1,0 +1,16 @@
+<frameset>
+  <predicate lemma="appropriate">
+    <roleset id="appropriate.01" name="to take possession of">
+      <roles>
+        <role descr="taker of possession, agent" f="PAG" n="0"/>
+        <role descr="entity appropriated" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="appropriate.02" name="suitable">
+      <roles>
+        <role descr="suitable thing" f="pag" n="1"/>
+        <role descr="suited to" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

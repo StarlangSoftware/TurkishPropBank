@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="unreliable">
+    <roleset id="unreliable.01" name="not to be counted on">
+      <roles>
+        <role descr="relier" f="pag" n="0"/>
+        <role descr="unreliable entity" f="ppt" n="1"/>
+        <role descr="for what purpose" f="prp" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

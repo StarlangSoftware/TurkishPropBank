@@ -1,0 +1,17 @@
+<frameset>
+  <predicate lemma="radicalize">
+    <roleset id="radicalize.01" name="(cause to) become more radical">
+      <roles>
+        <role descr="agent, cause" f="PAG" n="0"/>
+        <role descr="entity becoming radical" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="radical">
+    <roleset id="radical.02" name="be revolutionary, drastic">
+      <roles>
+        <role descr="radical entity" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

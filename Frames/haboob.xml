@@ -1,0 +1,14 @@
+<frameset>
+  <predicate lemma="haboob">
+    <roleset id="haboob.01" name="natural disaster: dust storm">
+      <roles>
+        
+        <role descr="mention of dust" f="ppt" n="1"/>
+        <role descr="wind speed" f="mnr" n="2"/>
+        <role descr="death/injury toll" f="vsp" n="3"/>
+        <role descr="damages/cost" f="vsp" n="4"/>
+        <role descr="visibility" f="vsp" n="5"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

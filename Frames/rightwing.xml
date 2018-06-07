@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="rightwing">
+    <roleset id="rightwing.01" name="politically conservative">
+      <roles>
+        <role descr="entity with political beliefs" f="pag" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

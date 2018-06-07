@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="phrase">
+    <roleset id="phrase.01" name="to express orally or in writing">
+      <roles>
+        <role descr="person phrasing, expressing something" f="pag" n="0"/>
+        <role descr="thing phrased, expressed" f="ppt" n="1"/>
+        <role descr="phrased as what? how arg1 is phrased" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,18 @@
+<frameset>
+  <predicate lemma="jerk">
+    <roleset id="jerk.01" name="pull with sudden force">
+      <roles>
+        <role descr="jerker" f="PAG" n="0"/>
+        <role descr="thing pulled (on)" f="PPT" n="1"/>
+        <role descr="direction" f="dir" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="jerk.02" name="non-phrasal, masturbate">
+      <roles>
+        <role descr="masturbator" f="pag" n="0"/>
+        <role descr="body part affected" f="ppt" n="1"/>
+        <role descr="stimulus referenced" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

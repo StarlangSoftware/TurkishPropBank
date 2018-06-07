@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="amass">
+    <roleset id="amass.01" name="accumulate">
+      <roles>
+        <role descr="entity accumulating something" f="pag" n="0"/>
+        <role descr="thing/stuff accumulated" f="ppt" n="1"/>
+        <role descr="price" f="vsp" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

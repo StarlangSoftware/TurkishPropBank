@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="anachronistic">
+    <roleset id="anachronistic.01" name="characteristic of another time">
+      <roles>
+        <role descr="entity/action with characteristics of another time" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

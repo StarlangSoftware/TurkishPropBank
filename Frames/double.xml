@@ -1,0 +1,25 @@
+<frameset>
+  <predicate lemma="double">
+    <roleset id="double.01" name="become twofold">
+      <roles>
+        <role descr="causer of increase" f="pag" n="0"/>
+        <role descr="thing increasing, rising" f="ppt" n="1"/>
+        <role descr="attribute of arg 1" f="prd" n="2"/>
+        <role descr="start point" f="dir" n="3"/>
+        <role descr="end point" f="gol" n="4"/>
+      </roles>
+    </roleset>
+    <roleset id="double.02" name="act">
+      <roles>
+        <role descr="actor" f="pag" n="0"/>
+        <role descr="role" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="double.03" name="twice as much as">
+      <roles>
+        <role descr="thing that is double" f="ppt" n="1"/>
+        <role descr="compared to what (single thing)" f="vsp" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

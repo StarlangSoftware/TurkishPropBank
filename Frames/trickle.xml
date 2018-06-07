@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="trickle">
+    <roleset id="trickle.01" name="to move or proceed slowly">
+      <roles>
+        <role descr="agent, causer" f="pag" n="0"/>
+        <role descr="entity trickling" f="ppt" n="1"/>
+        <role descr="destination" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

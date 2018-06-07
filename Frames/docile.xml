@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="docile">
+    <roleset id="docile.01" name="gentle and yielding">
+      <roles>
+        <role descr="gentle one" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

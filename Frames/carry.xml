@@ -1,0 +1,49 @@
+<frameset>
+  <predicate lemma="carry">
+    <roleset id="carry.01" name="bring with, have">
+      <roles>
+        <role descr="carrier" f="pag" n="0"/>
+        <role descr="thing carried" f="ppt" n="1"/>
+        <role descr="instrument" f="mnr" n="2"/>
+        <role descr="'with' reflecting back on arg0" f="vsp" n="3"/>
+        <role descr="benefactive (predicted but not seen)" f="gol" n="4"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="carry_on">
+    <roleset id="carry_on.02" name="carry on: continue">
+      <roles>
+        <role descr="continuer" f="pag" n="0"/>
+        <role descr="thing continuing" f="ppt" n="1"/>
+        <role descr="comitative, thing kept together" f="com" n="2"/>
+        <role descr="attributive of arg1" f="prd" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="carry_out">
+    <roleset id="carry_out.03" name="carry out: implement">
+      <roles>
+        <role descr="implementer" f="pag" n="0"/>
+        <role descr="thing implemented" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="carry_over">
+    <roleset id="carry_over.04" name="carry over: continue">
+      <roles>
+        <role descr="carrier" f="pag" n="0"/>
+        <role descr="thing continuing" f="ppt" n="1"/>
+        <role descr="(from) whence?" f="dir" n="2"/>
+        <role descr="(to) whither?" f="gol" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="carry_off">
+    <roleset id="carry_off.05" name="carry off: accomplish">
+      <roles>
+        <role descr="accomplisher" f="pag" n="0"/>
+        <role descr="deed" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

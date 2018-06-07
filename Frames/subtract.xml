@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="subtract">
+    <roleset id="subtract.01" name="mathematics">
+      <roles>
+        <role descr="subtracter" f="pag" n="0"/>
+        <role descr="thing being subtracted" f="ppt" n="1"/>
+        <role descr="thing being subtracted from" f="dir" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

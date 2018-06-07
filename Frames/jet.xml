@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="jet_off">
+    <roleset id="jet_off.01" name="move quickly, as in a jetplane">
+      <roles>
+        <role descr="entity in motion" f="PAG" n="1"/>
+        <role descr="destination" f="LOC" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

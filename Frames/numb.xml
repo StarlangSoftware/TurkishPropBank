@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="numb">
+    <roleset id="numb.01" name="cause numbness">
+      <roles>
+        <role descr="Stimulus of numbness" f="pag" n="0"/>
+        <role descr="numbed entity" f="ppt" n="1"/>
+        <role descr="instrument" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

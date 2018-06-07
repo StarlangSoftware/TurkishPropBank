@@ -1,0 +1,17 @@
+<frameset>
+  <predicate lemma="bug">
+    <roleset id="bug.01" name="bother, cause stress in">
+      <roles>
+        <role descr="causer of bothering" f="pag" n="0"/>
+        <role descr="bothered" f="ppt" n="1"/>
+        <role descr="instrument of bothering" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="bug.02" name="gain information via a planted electronic   recording device">
+      <roles>
+        <role descr="person or institution planting the device" f="pag" n="0"/>
+        <role descr="person or institution being bugged" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

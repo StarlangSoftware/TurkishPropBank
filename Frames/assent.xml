@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="assent">
+    <roleset id="assent.01" name="agree">
+      <roles>
+        <role descr="agree-er, agent" f="pag" n="0"/>
+        <role descr="agree with, adhere to" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

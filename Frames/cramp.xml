@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="cramp">
+    <roleset id="cramp.01" name="obstruct, hinder with painful constriction, painfully constricting">
+      <roles>
+        <role descr="causer of cramping" f="pag" n="0"/>
+        <role descr="entity being cramped, experiencer" f="ppt" n="1"/>
+        <role descr="cramped with what, instrument if separate from arg 0" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

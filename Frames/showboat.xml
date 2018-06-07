@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="showboat">
+    <roleset id="showboat.01" name="showing off">
+      <roles>
+        <role descr="showboater" f="pag" n="0"/>
+        <role descr="thing shown off" f="ppt" n="1"/>
+        <role descr="audience" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

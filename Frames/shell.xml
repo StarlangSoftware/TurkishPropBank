@@ -1,0 +1,27 @@
+<frameset>
+  <predicate lemma="shell">
+    <roleset id="shell.01" name="remove shells from">
+      <roles>
+        <role descr="sheller" f="pag" n="0"/>
+        <role descr="thing that used to have a shell" f="dir" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="shell.02" name="bomb">
+      <roles>
+        <role descr="sheller" f="pag" n="0"/>
+        <role descr="target" f="gol" n="1"/>
+        <role descr="explicit mention of bombs, shells" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="shell_out">
+    <roleset id="shell_out.03" name="pay">
+      <roles>
+        <role descr="payer or buyer" f="pag" n="0"/>
+        <role descr="money" f="ppt" n="1"/>
+        <role descr="seller or person being paid" f="gol" n="2"/>
+        <role descr="thing bought or paid for" f="vsp" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

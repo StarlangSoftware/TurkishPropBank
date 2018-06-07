@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="rehear">
+    <roleset id="rehear.01" name="hear (in court, as a trial) again">
+      <roles>
+        <role descr="judge, court, adjudicator" f="pag" n="0"/>
+        <role descr="case, petition, charges, etc. reheard" f="ppt" n="1"/>
+        <role descr="entity on trial, if given individually" f="vsp" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

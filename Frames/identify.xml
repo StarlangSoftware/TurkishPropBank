@@ -1,0 +1,18 @@
+<frameset>
+  <predicate lemma="identify">
+    <roleset id="identify.01" name="label, call">
+      <roles>
+        <role descr="caller" f="pag" n="0"/>
+        <role descr="item being labelled" f="ppt" n="1"/>
+        <role descr="attribute" f="prd" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="identify.02" name="feel empathy">
+      <roles>
+        <role descr="feeler" f="ppt" n="0"/>
+        <role descr="thing being identified with" f="pag" n="1"/>
+        <role descr="attribute" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

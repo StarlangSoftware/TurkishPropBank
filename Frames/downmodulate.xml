@@ -1,0 +1,13 @@
+<frameset>
+  <predicate lemma="downmodulate">
+    <roleset id="downmodulate.01" name="modulate to a lower level">
+      <roles>
+        <role descr="intentional agent of downmodulation" f="pag" n="0" />
+        <role descr="thing downmodulated (e.g. process)" f="ppt" n="1" />
+        <role descr="instrument" f="mnr" n="2" />
+        <role descr="start state, initial level" f="dir" n="3" />
+        <role descr="end state, resulting level" f="gol" n="4" />
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

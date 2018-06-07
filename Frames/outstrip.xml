@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="outstrip">
+    <roleset id="outstrip.01" name="exceed, be more than">
+      <roles>
+        <role descr="thing that's more" f="ppt" n="0"/>
+        <role descr="thing that's less" f="ppt" n="1"/>
+        <role descr="margin, difference" f="ext" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

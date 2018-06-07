@@ -1,0 +1,19 @@
+<frameset>
+  <predicate lemma="tender">
+    <roleset id="tender.01" name="light verb with 'offer' or 'bid', giving, offer, payment">
+      <roles>
+        <role descr="giver" f="pag" n="0"/>
+        <role descr="thing given/offered/paid" f="ppt" n="1"/>
+        <role descr="recipient" f="gol" n="2"/>
+        <role descr="what the payment is for, might be total price or commodity" f="vsp" n="3"/>
+      </roles>
+    </roleset>
+    <roleset id="tender.02" name="inclined toward feeling pain easily">
+      <roles>
+        <role descr="cause of pain" f="pag" n="0"/>
+        <role descr="entity feeling pain" f="ppt" n="1"/>
+        <role descr="more specific body part, if in addition to arg1" f="vsp" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="decode">
+    <roleset id="decode.01" name="translate a coded message into readable message">
+      <roles>
+        <role descr="causer of transformation, decoder" f="pag" n="0"/>
+        <role descr="message decoded" f="ppt" n="1"/>
+        <role descr="end state, translation when separate mention from arg 1" f="prd" n="2"/>
+        <role descr="start state, code" f="dir" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

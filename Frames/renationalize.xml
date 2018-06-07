@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="renationalize">
+    <roleset id="renationalize.01" name="gov't coopting private property, again">
+      <roles>
+        <role descr="government, usually" f="pag" n="0"/>
+        <role descr="property, usually industry" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

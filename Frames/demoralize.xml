@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="demoralize">
+    <roleset id="demoralize.01" name="corrupt or dismay">
+      <roles>
+        <role descr="agent, causer" f="pag" n="0"/>
+        <role descr="entity demoralized" f="ppt" n="1"/>
+        <role descr="instrument if separate from ARG 0" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

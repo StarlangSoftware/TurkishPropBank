@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="rehome">
+    <roleset id="rehome.01" name="find a new home for">
+      <roles>
+        <role descr="agent of rehoming" f="pag" n="0"/>
+        <role descr="entity in need of a new home" f="ppt" n="1"/>
+        <role descr="the new home" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

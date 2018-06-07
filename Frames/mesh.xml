@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="mesh">
+    <roleset id="mesh.01" name="coordinate">
+      <roles>
+        <role descr="causer of coordination, agent" f="pag" n="0"/>
+        <role descr="entity coordinated" f="ppt" n="1"/>
+        <role descr="entity coordinated with" f="com" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

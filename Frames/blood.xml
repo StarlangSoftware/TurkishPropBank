@@ -1,0 +1,16 @@
+<frameset>
+  <predicate lemma="blood">
+    <roleset id="blood.01" name="bleed">
+      <roles>
+        <role descr="agent" f="PAG" n="0"/>
+        <role descr="theme, one bled" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="blood.02" name="possess/contain blood">
+      <roles>
+        <role descr="entity possessing blood" f="pag" n="1"/>
+        <role descr="characteristic of the blood" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="secede">
+    <roleset id="secede.01" name="to withdraw from an organization or communion">
+      <roles>
+        <role descr="ex-member" f="PAG" n="0"/>
+        <role descr="organization" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

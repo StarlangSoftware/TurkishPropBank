@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="mirror">
+    <roleset id="mirror.01" name="cast an image back, reflect">
+      <roles>
+        <role descr="thing casting a reflection" f="ppt" n="1"/>
+        <role descr="surface casting the reflection, image being reflected" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

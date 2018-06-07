@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="paranoid">
+    <roleset id="paranoid.01" name="fearing/distrusting to the point of distraction">
+      <roles>
+        <role descr="stimulus/fear" f="cau" n="0"/>
+        <role descr="sufferer of paranoia" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

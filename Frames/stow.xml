@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="stow">
+    <roleset id="stow.01" name="store, especially on a boat">
+      <roles>
+        <role descr="agent, storer" f="PAG" n="0"/>
+        <role descr="thing stored" f="PPT" n="1"/>
+        <role descr="location or position, or attribute" f="GOL" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="deprecate">
+    <roleset id="deprecate.01" name="express disapproval of, deplore">
+      <roles>
+        <role descr="causer of apparent disapproval, agent" f="PAG" n="0"/>
+        <role descr="disaproved thing" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

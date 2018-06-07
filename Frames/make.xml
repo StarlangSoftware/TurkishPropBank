@@ -1,0 +1,178 @@
+<frameset>
+  <predicate lemma="make">
+    <roleset id="make.01" name="create">
+      <roles>
+        <role descr="creator" f="pag" n="0"/>
+        <role descr="creation" f="prd" n="1"/>
+        <role descr="created-from, thing changed" f="vsp" n="2"/>
+        <role descr="benefactive" f="gol" n="3"/>
+      </roles>
+    </roleset>
+    <roleset id="make.02" name="cause (to be)">
+      <roles>
+        <role descr="impeller to action" f="pag" n="0"/>
+        <role descr="impelled action/ predication" f="prd" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="make.05" name="earn cash or wages, earning">
+      <roles>
+        <role descr="earner" f="pag" n="0"/>
+        <role descr="wages" f="ppt" n="1"/>
+        <role descr="job" f="dir" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="make.06" name="achieve being, seem">
+      <roles>
+        <role descr="thing seeming" f="ppt" n="1"/>
+        <role descr="attribute of arg1" f="prd" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="make.18" name="arrive at, achieve">
+      <roles>
+        <role descr="achiever, agent" f="pag" n="0"/>
+        <role descr="goal" f="gol" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="make.19" name="&quot;way&quot; construction: make one's way, travel">
+      <roles>
+        <role descr="traveler" f="pag" n="0"/>
+        <role descr="his/her/their/etc way" f="ppt" n="1"/>
+        <role descr="to where? destination" f="gol" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="make.27" name="interpret, have an understanding of">
+      <roles>
+        <role descr="understander" f="pag" n="0"/>
+        <role descr="the understanding arg has; interpretation" f="ppt" n="1"/>
+        <role descr="interpretation of what" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="make.LV" name="light verb">
+        <roles/>
+    </roleset>
+  </predicate>
+  <predicate lemma="make_up">
+    <roleset id="make_up.07" name="comprise, build, structure">
+      <roles>
+        <role descr="components" f="vsp" n="0"/>
+        <role descr="whole" f="prd" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="make_up.08" name="compose, set into place">
+      <roles>
+        <role descr="composer" f="pag" n="0"/>
+        <role descr="thing composed" f="prd" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="make_up.09" name="reconcile">
+      <roles>
+        <role descr="one person" f="pag" n="0"/>
+        <role descr="the other" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="make_up.10" name="create">
+      <roles>
+        <role descr="creator" f="pag" n="0"/>
+        <role descr="creation" f="prd" n="1"/>
+        <role descr="created-from, thing changed" f="vsp" n="2"/>
+        <role descr="benefactive" f="gol" n="3"/>
+      </roles>
+    </roleset>
+    <roleset id="make_up.11" name="catch up, do at a later date after having missed">
+      <roles>
+        <role descr="entity which is behind in something (eg payments)" f="pag" n="1"/>
+        <role descr="the something" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="make_up.16" name="compensate (for)">
+      <roles>
+        <role descr="compensator, agent" f="pag" n="0"/>
+        <role descr="shortcoming" f="ppt" n="1"/>
+        <role descr="means of repairing shortcoming" f="vsp" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="make_out">
+    <roleset id="make_out.12" name="discern">
+      <roles>
+        <role descr="discerner, viewer, agent" f="ppt" n="0"/>
+        <role descr="patient, thing discerned" f="pag" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="make_out.13" name="write">
+      <roles>
+        <role descr="writer" f="pag" n="0"/>
+        <role descr="thing written" f="ppt" n="1"/>
+        <role descr="written to" f="gol" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="make_out.15" name="proceed, meet with (success)">
+      <roles>
+        <role descr="topic" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="make_out.23" name="describe, make it seem like">
+      <roles>
+        <role descr="describer" f="pag" n="0"/>
+        <role descr="thing described" f="ppt" n="1"/>
+        <role descr="secondary attribute; what arg1 is made to seem like" f="prd" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="make_out.26" name="french kiss">
+      <roles>
+        <role descr="kisser" f="pag" n="0"/>
+        <role descr="kissed" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="make_it">
+    <roleset id="make_it.14" name="achieve or arrive at">
+      <roles>
+        <role descr="traveller" f="pag" n="0"/>
+        <role descr="destination" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="make_off">
+    <roleset id="make_off.17" name="escape (with)">
+      <roles>
+        <role descr="escaper" f="pag" n="0"/>
+        <role descr="luggage" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="make_over">
+    <roleset id="make_over.22" name="rework or revamp, renovate">
+      <roles>
+        <role descr="agent, one doing the makeover" f="pag" n="0"/>
+        <role descr="patient, one being made over" f="ppt" n="1"/>
+        <role descr="instrument of making over" f="mnr" n="2"/>
+        <role descr="end state, made over into what?" f="prd" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="make_believe">
+    <roleset id="make_believe.24" name="pretend">
+      <roles>
+        <role descr="pretender" f="pag" n="0"/>
+        <role descr="thing pretended" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="make_do">
+    <roleset id="make_do.25" name="make do: cause to be sufficient">
+      <roles>
+        <role descr="entity making do" f="pag" n="0"/>
+        <role descr="thing that must be sufficient" f="mnr" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="making">
+    <roleset id="making.03" name="nominal version of light verb">
+      <roles>
+        <role descr="maker, subject of light verbish noun" f="pag" n="0"/>
+        <role descr="true noun predicate" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

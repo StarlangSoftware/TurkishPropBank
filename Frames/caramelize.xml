@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="caramelize">
+    <roleset id="caramelize.01" name="to turn into caramel">
+      <roles>
+        <role descr="causer of caramelization" f="PAG" n="0"/>
+        <role descr="entity caramelized" f="PPT" n="1"/>
+        <role descr="Instrument or Manner if separate from arg 0" f="MNR" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,18 @@
+<frameset>
+  <predicate lemma="source">
+    <roleset id="source.01" name="obtain or use from a specific source">
+      <roles>
+        <role descr="obtainer" f="pag" n="0"/>
+        <role descr="thing obtained" f="ppt" n="1"/>
+        <role descr="source" f="dir" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="source.02" name="provide, be a source of">
+      <roles>
+        <role descr="provider" f="pag" n="0"/>
+        <role descr="thing provided" f="ppt" n="1"/>
+        <role descr="entity provided for (benefactive)" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

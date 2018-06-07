@@ -1,0 +1,19 @@
+<frameset>
+  <predicate lemma="converse">
+    <roleset id="converse.01" name="make conversation, conversing, talking">
+      <roles>
+        <role descr="talker" f="PAG" n="0"/>
+        <role descr="subject or language" f="PPT" n="1"/>
+        <role descr="hearer" f="COM" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="conversant">
+    <roleset id="conversant.02" name="familiar with">
+      <roles>
+        <role descr="familiar entity" f="pag" n="0"/>
+        <role descr="thing familiar with" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

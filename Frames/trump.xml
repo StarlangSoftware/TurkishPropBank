@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="trump">
+    <roleset id="trump.01" name="to outdo, get the better of">
+      <roles>
+        <role descr="better one" f="PAG" n="0"/>
+        <role descr="entity trumped, lesser one" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

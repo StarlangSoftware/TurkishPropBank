@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="wad">
+    <roleset id="wad.01" name="form into a wad">
+      <roles>
+        <role descr="former of wad, agent" f="PAG" n="0"/>
+        <role descr="thing wadded" f="PRD" n="1"/>
+        <role descr="explicit mention of wad" f="VSP" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

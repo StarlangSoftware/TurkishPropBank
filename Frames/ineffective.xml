@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="ineffective">
+    <roleset id="ineffective.01" name="not able to have an effect">
+      <roles>
+        <role descr="ineffective thing" f="ppt" n="0"/>
+        <role descr="effect not had" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

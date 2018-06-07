@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="nice">
+    <roleset id="nice.01" name="generally pleasant">
+      <roles>
+        <role descr="nice entity" f="pag" n="1"/>
+        <role descr="beneficiary, target of nice behavior" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

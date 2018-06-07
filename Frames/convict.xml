@@ -1,0 +1,20 @@
+<frameset>
+  <predicate lemma="convict">
+    <roleset id="convict.01" name="to find or prove guilty of an offense or crime, finding guilty of a crime">
+      <roles>
+        <role descr="judge, jury, agent" f="pag" n="0"/>
+        <role descr="person convicted" f="ppt" n="1"/>
+        <role descr="convicted of" f="cau" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="conviction">
+    <roleset id="conviction.02" name="belief">
+      <roles>
+        <role descr="Believer, person who holds a conviction/belief" f="pag" n="0"/>
+        <role descr="Thing believed, conviction itself" f="ppt" n="1"/>
+        <role descr="Attributive, what is the domain/subject matter of the conviction?" f="vsp" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

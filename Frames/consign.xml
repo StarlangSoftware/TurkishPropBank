@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="consign">
+    <roleset id="consign.01" name="send to lesser status">
+      <roles>
+        <role descr="sender, agent" f="pag" n="0"/>
+        <role descr="trash" f="ppt" n="1"/>
+        <role descr="lesser status" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

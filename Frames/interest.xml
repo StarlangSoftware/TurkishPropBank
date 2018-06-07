@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="interest">
+    <roleset id="interest.01" name="provoke interest, exhibiting curiosity and, provoking curiosity, attention">
+      <roles>
+        
+        <role descr="agent, causer of interest" f="pag" n="0"/>
+        <role descr="interested entity" f="ppt" n="1"/>
+        <role descr="interested in, interesting thing (non-agentive adj subjects, see ex)" f="vsp" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

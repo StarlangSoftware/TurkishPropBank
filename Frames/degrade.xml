@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="degrade">
+    <roleset id="degrade.01" name="to lower in quality or character, break down a compound">
+      <roles>
+        <role descr="causer of degradation" f="PAG" n="0"/>
+        <role descr="entity degraded" f="PPT" n="1"/>
+        <role descr="instrument, if separate from arg 0" f="MNR" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

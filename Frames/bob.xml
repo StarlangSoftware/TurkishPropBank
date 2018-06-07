@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="bob">
+    <roleset id="bob.01" name="move up and down">
+      <roles>
+        <role descr="cause of motion" f="PAG" n="0"/>
+        <role descr="thing in motion" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

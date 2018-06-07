@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="proctor">
+    <roleset id="proctor.01" name="administer/supevise, as a test or dormitory">
+      <roles>
+        <role descr="administrator, supervisor" f="pag" n="0"/>
+        <role descr="administrated" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

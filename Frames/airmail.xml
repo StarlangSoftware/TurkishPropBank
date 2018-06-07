@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="airmail">
+    <roleset id="airmail.01" name="send by air">
+      <roles>
+        <role descr="mailer" f="PAG" n="0"/>
+        <role descr="letter" f="PPT" n="1"/>
+        <role descr="mailed-to" f="GOL" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

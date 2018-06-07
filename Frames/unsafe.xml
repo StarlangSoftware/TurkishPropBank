@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="unsafe">
+    <roleset id="unsafe.01" name="hazardous, unprotected">
+      <roles>
+        <role descr="dangerous entity" f="pag" n="0"/>
+        <role descr="unprotected entity" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

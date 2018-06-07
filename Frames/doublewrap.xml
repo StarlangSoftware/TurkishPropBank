@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="doublewrap">
+    <roleset id="doublewrap.01" name="enclose twice">
+      <roles>
+        <role descr="cause of wrapping" f="pag" n="0"/>
+        <role descr="thing wrapped (ie, gift)" f="ppt" n="1"/>
+        <role descr="wrapper (ie, paper)" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

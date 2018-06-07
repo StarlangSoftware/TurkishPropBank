@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="cripple">
+    <roleset id="cripple.01" name="injure very badly, disable">
+      <roles>
+        <role descr="causer, agent" f="pag" n="0"/>
+        <role descr="victim" f="ppt" n="1"/>
+        <role descr="instrument" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

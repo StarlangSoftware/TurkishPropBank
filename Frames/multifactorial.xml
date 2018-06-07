@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="multifactorial">
+    <roleset id="multifactorial.01" name="involving more than one factor">
+      <roles>
+        <role descr="multifactorial thing" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

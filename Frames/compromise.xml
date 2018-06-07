@@ -1,0 +1,17 @@
+<frameset>
+  <predicate lemma="compromise">
+    <roleset id="compromise.01" name="reach an agreement">
+      <roles>
+        <role descr="agreer" f="pag" n="0"/>
+        <role descr="proposition" f="ppt" n="1"/>
+        <role descr="other entity agreeing" f="com" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="compromise.02" name="lose security, concede, cause to weaken, endanger">
+      <roles>
+        <role descr="causer of loss" f="pag" n="0"/>
+        <role descr="thing losing security" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

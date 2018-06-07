@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="hotheaded">
+    <roleset id="hotheaded.01" name="impetuous">
+      <roles>
+        <role descr="stimulus, subject matter about which arg1 is impetuous" f="pag" n="0"/>
+        <role descr="hothead" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

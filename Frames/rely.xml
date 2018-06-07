@@ -1,0 +1,20 @@
+<frameset>
+  <predicate lemma="rely">
+    <roleset id="rely.01" name="need">
+      <roles>
+        <role descr="relier, needer" f="pag" n="0"/>
+        <role descr="thing needed, relied on" f="ppt" n="1"/>
+        <role descr="for, in order to" f="prp" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="reliable">
+    <roleset id="reliable.02" name="able to be counted on">
+      <roles>
+        <role descr="relier" f="pag" n="0"/>
+        <role descr="reliable entity" f="ppt" n="1"/>
+        <role descr="for what purpose" f="prp" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

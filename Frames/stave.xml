@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="stave_off">
+    <roleset id="stave_off.01" name="to prevent from happening">
+      <roles>
+        <role descr="preventer, agent" f="PAG" n="0"/>
+        <role descr="action prevented" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

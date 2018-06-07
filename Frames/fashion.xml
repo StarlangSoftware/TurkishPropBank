@@ -1,0 +1,17 @@
+<frameset>
+  <predicate lemma="fashion">
+    <roleset id="fashion.01" name="to make out of components">
+      <roles>
+        <role descr="maker, agent" f="PAG" n="0"/>
+        <role descr="entity fashioned" f="PRD" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="fashionable">
+    <roleset id="fashionable.02" name="stylish">
+      <roles>
+        <role descr="entity in fashion" f="pag" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

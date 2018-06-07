@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="personify">
+    <roleset id="personify.01" name="to represent a thing or abstraction in the       form of a person">
+      <roles>
+        <role descr="abstraction" f="ppt" n="1"/>
+        <role descr="person-form" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

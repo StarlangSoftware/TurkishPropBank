@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="tussle">
+    <roleset id="tussle.01" name="tussle">
+      <roles>
+        <role descr="first fighter" f="PAG" n="0"/>
+        <role descr="second fighter, if separate" f="COM" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

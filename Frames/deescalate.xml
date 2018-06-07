@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="deescalate">
+    <roleset id="deescalate.01" name="(cause to) decrease in size or intensity">
+      <roles>
+        <role descr="causer" f="PAG" n="0"/>
+        <role descr="thing decreasing" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

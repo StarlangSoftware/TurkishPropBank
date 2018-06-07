@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="liaise">
+    <roleset id="liaise.01" name="establish liaison">
+      <roles>
+        <role descr="agent, entity establishing liaison" f="pag" n="0"/>
+        <role descr="patient, thing(s) being liaised" f="ppt" n="1"/>
+        <role descr="benefactive" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,14 @@
+<frameset>
+  <predicate lemma="hairy">
+    <roleset id="hairy.01" name="hirsuit; covered in hair">
+      <roles>
+        <role descr="thing covered in hair" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="hairy.02" name="hazardous, sketchy">
+      <roles>
+        <role descr="hazardous thing/situation" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

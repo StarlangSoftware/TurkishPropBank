@@ -1,0 +1,17 @@
+<frameset>
+  <predicate lemma="unrelated">
+    <roleset id="unrelated.01" name="not involved, connected">
+      <roles>
+        <role descr="entity drawing comparison, outside agent" f="pag" n="0"/>
+        <role descr="first entity" f="ppt" n="1"/>
+        <role descr="second entity, unrelated to whom/what" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="unrelated.02" name="not blood relations">
+      <roles>
+        <role descr="first entity" f="ppt" n="1"/>
+        <role descr="second entity, non-kin" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

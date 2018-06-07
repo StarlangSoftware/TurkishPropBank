@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="crepitate">
+    <roleset id="crepitate.01" name="snap, crackle, pop">
+      <roles>
+        <role descr="snapping thing" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

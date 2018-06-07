@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="gurgling">
+    <roleset id="gurgling.01" name="make a bubbling noise">
+      <roles>
+        <role descr="noise maker" f="pag" n="0"/>
+        <role descr="utterance, sound" f="ppt" n="1"/>
+        <role descr="listener, recipient" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

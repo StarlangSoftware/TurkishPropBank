@@ -1,0 +1,18 @@
+<frameset>
+  <predicate lemma="own">
+    <roleset id="own.01" name="possess, own something">
+      <roles>
+        <role descr="owner" f="PAG" n="0"/>
+        <role descr="possession" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="own_up">
+    <roleset id="own_up.02" name="confess">
+      <roles>
+        <role descr="confessor" f="PAG" n="0"/>
+        <role descr="sin" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,16 @@
+<frameset>
+  <predicate lemma="blunder">
+    <roleset id="blunder.01" name="to move clumsily">
+      <roles>
+        <role descr="clumsy mover, agent" f="PAG" n="0"/>
+        <role descr="direction" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="blunder.02" name="to make a mistake">
+      <roles>
+        <role descr="maker of mistake" f="PAG" n="0"/>
+        <role descr="mistake" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

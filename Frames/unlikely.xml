@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="unlikely">
+    <roleset id="unlikely.01" name="not probable">
+      <roles>
+        <role descr="likely thing (concatenation may be required)" f="pag" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

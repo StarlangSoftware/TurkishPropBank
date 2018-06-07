@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="tall">
+    <roleset id="tall.01" name="having a (possibly great) height">
+      <roles>
+        <role descr="entity having a height" f="ppt" n="1"/>
+        <role descr="height measurement" f="ext" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="elucidate">
+    <roleset id="elucidate.01" name="clarify or explain">
+      <roles>
+        <role descr="causer of clarification" f="PAG" n="0"/>
+        <role descr="thing becoming clearer" f="PPT" n="1"/>
+        <role descr="explained to" f="GOL" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

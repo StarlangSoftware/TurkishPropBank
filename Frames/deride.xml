@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="deride">
+    <roleset id="deride.01" name="to treat or speak of with contempt, treating with contempt">
+      <roles>
+        <role descr="treater, speaker, agent" f="PAG" n="0"/>
+        <role descr="entity derided" f="PPT" n="1"/>
+        <role descr="derided for what" f="CAU" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

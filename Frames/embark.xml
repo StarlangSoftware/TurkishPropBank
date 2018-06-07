@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="embark">
+    <roleset id="embark.01" name="begin">
+      <roles>
+        <role descr="beginner" f="PAG" n="0"/>
+        <role descr="thing begun" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

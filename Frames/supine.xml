@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="supine">
+    <roleset id="supine.01" name="lay face up">
+      <roles>
+        <role descr="entity face up" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

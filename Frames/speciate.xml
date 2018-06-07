@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="speciate">
+    <roleset id="speciate.01" name="develope into a new species">
+      <roles>
+        <role descr="entity evolving" f="ppt" n="1"/>
+        <role descr="evolved into; end state" f="prd" n="2"/>
+        <role descr="evolved from; start state" f="vsp" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

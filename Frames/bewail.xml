@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="bewail">
+    <roleset id="bewail.01" name="to express grief over; lament">
+      <roles>
+        <role descr="moaner, agent" f="PPT" n="0"/>
+        <role descr="entity bemoaned" f="PAG" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

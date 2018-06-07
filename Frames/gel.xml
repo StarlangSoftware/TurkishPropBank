@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="gel">
+    <roleset id="gel.01" name="set/solidify, combine into a solid whole">
+      <roles>
+        <role descr="first ingredient" f="pag" n="1"/>
+        <role descr="second ingredient" f="com" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

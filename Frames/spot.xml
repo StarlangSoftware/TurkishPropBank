@@ -1,0 +1,19 @@
+<frameset>
+  <predicate lemma="spot">
+    <roleset id="spot.01" name="discovery, seeing">
+      <roles>
+        <role descr="finder" f="ppt" n="0"/>
+        <role descr="thing found" f="pag" n="1"/>
+        <role descr="benefactive, found for" f="gol" n="2"/>
+        <role descr="attribute" f="prd" n="3"/>
+      </roles>
+    </roleset>
+    <roleset id="spot.02" name="dab, create a spot on something, creating a spot">
+      <roles>
+        <role descr="painter" f="pag" n="0"/>
+        <role descr="canvas" f="gol" n="1"/>
+        <role descr="paint" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="adulterate">
+    <roleset id="adulterate.01" name="dilute, weaken">
+      <roles>
+        <role descr="agent" f="pag" n="0"/>
+        <role descr="weakened entity" f="ppt" n="1"/>
+        <role descr="instrument, weakened with or by" f="mnr" n="m"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

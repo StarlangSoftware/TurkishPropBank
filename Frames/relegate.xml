@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="relegate">
+    <roleset id="relegate.01" name="consign, send">
+      <roles>
+        <role descr="relegator" f="pag" n="0"/>
+        <role descr="relegated" f="ppt" n="1"/>
+        <role descr="destination" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

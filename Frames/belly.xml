@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="belly_up">
+    <roleset id="belly_up.01" name="move towards">
+      <roles>
+        <role descr="entity in motion" f="ppt" n="1"/>
+        <role descr="destination" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

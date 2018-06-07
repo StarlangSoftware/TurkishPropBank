@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="uptight">
+    <roleset id="uptight.01" name="on edge and controlling">
+      <roles>
+        <role descr="stimulus of uptightness" f="pag" n="0"/>
+        <role descr="uptight entity" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

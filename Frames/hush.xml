@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="hush">
+    <roleset id="hush.01" name="(cause to) quiet or soften">
+      <roles>
+        <role descr="agent" f="PAG" n="0"/>
+        <role descr="patient" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

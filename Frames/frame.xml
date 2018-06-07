@@ -1,0 +1,43 @@
+<frameset>
+  <predicate lemma="frame">
+    <roleset id="frame.01" name="put a frame (on a picture)">
+      <roles>
+        <role descr="decorator" f="pag" n="0"/>
+        <role descr="thing decorated" f="gol" n="1"/>
+        <role descr="decorations" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="frame.03" name="encircle">
+      <roles>
+        <role descr="thing being around" f="ppt" n="0"/>
+        <role descr="thing surrounded" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="frame.02" name="falsely accuse of a crime">
+      <roles>
+        <role descr="accuser" f="pag" n="0"/>
+        <role descr="criminal" f="ppt" n="1"/>
+        <role descr="crime" f="prd" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="frame.04" name="make frames files">
+      <roles>
+        <role descr="framer" f="pag" n="0"/>
+        <role descr="verb" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="frame.06" name="give a particular spin on a topic">
+      <roles>
+        <role descr="describer" f="pag" n="0"/>
+        <role descr="topic or issue" f="ppt" n="1"/>
+        <role descr="desired attribute of arg 1" f="prd" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="frame.05" name="write legislative bills">
+      <roles>
+        <role descr="legislator" f="pag" n="0"/>
+        <role descr="potential law" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

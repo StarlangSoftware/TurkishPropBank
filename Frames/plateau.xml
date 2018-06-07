@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="plateau">
+    <roleset id="plateau.01" name="reach a state of little or no change">
+      <roles>
+        <role descr="Entity reaching plateau" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

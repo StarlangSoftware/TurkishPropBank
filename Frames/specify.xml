@@ -1,0 +1,18 @@
+<frameset>
+  <predicate lemma="specify">
+    <roleset id="specify.01" name="set, establish, decide, expressed with detail, pinpointed">
+      <roles>
+        <role descr="decider, specifier" f="pag" n="0"/>
+        <role descr="thing specified" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="specific">
+    <roleset id="specific.02" name="particular to, unique to">
+      <roles>
+        <role descr="unique thing" f="pag" n="1"/>
+        <role descr="unique to what/whom" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

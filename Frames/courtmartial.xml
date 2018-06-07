@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="courtmartial">
+    <roleset id="courtmartial.01" name="put on trial by the military">
+      <roles>
+        <role descr="military, agent, one bringing case" f="pag" n="0"/>
+        <role descr="entity tried (defendant/case)" f="ppt" n="1"/>
+        <role descr="crime/accusation; tried for" f="cau" n="2"/>
+        <role descr="adjudicator (if specified from military branch bringing charges)" f="gol" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

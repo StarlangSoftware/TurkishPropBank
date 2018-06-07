@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="frisk">
+    <roleset id="frisk.01" name="search">
+      <roles>
+        <role descr="searcher" f="PAG" n="0"/>
+        <role descr="thing searched" f="LOC" n="1"/>
+        <role descr="looking for what?" f="PPT" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

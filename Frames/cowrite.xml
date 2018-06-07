@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="cowrite">
+    <roleset id="cowrite.01" name="set pen to paper">
+      <roles>
+        <role descr="first writer" f="pag" n="0"/>
+        <role descr="thing written" f="prd" n="1"/>
+        <role descr="second author, if separate mnetion" f="com" n="2"/>
+        <role descr="benefactive" f="gol" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

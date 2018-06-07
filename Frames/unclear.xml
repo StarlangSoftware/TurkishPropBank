@@ -1,0 +1,17 @@
+<frameset>
+  <predicate lemma="unclear">
+    <roleset id="unclear.01" name="not apparent, obvious">
+      <roles>
+        <role descr="causer of lack of clarity, failing to make clear" f="pag" n="0"/>
+        <role descr="what isn't clear, obvious" f="ppt" n="1"/>
+        <role descr="perceiver" f="gol" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="unclear.02" name="obstructed in some way, murky">
+      <roles>
+        <role descr="thing that is obstructed, unclear" f="loc" n="1"/>
+        <role descr="obstruction" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

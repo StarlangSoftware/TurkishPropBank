@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="commiserate">
+    <roleset id="commiserate.01" name="misery loves company">
+      <roles>
+        <role descr="focussed party, agent" f="pag" n="0"/>
+        <role descr="second party" f="com" n="1"/>
+        <role descr="shared subject of misery" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

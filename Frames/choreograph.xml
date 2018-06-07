@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="choreograph">
+    <roleset id="choreograph.01" name="compose a dance">
+      <roles>
+        <role descr="creator" f="PAG" n="0"/>
+        <role descr="dance" f="PPT" n="1"/>
+        <role descr="created for, beneficiary" f="GOL" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

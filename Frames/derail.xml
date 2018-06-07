@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="derail">
+    <roleset id="derail.01" name="to bring to a sudden halt">
+      <roles>
+        <role descr="agent, causer" f="PAG" n="0"/>
+        <role descr="entity derailed" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

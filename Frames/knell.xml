@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="knell">
+    <roleset id="knell.01" name="ring to announce">
+      <roles>
+        <role descr="ringing thing" f="pag" n="1"/>
+        <role descr="topic, announce what" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

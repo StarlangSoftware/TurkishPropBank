@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="parallel">
+    <roleset id="parallel.01" name="be an equal to, match">
+      <roles>
+        <role descr="thing under consideration, figure" f="PAG" n="0"/>
+        <role descr="in comparison to, ground" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

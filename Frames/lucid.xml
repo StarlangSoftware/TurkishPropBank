@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="lucid">
+    <roleset id="lucid.01" name="be or become coherent">
+      <roles>
+        <role descr="coherent entity" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

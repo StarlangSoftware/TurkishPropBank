@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="iconic">
+    <roleset id="iconic.01" name="representing the sacred/classic">
+      <roles>
+        <role descr="icon" f="pag" n="1"/>
+        <role descr="represented" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

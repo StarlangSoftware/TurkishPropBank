@@ -1,0 +1,18 @@
+<frameset>
+  <predicate lemma="queue">
+    <roleset id="queue.01" name="[put|be] in a line">
+      <roles>
+        <role descr="putter of something in a line" f="pag" n="0"/>
+        <role descr="things in a line" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="queue_up">
+    <roleset id="queue_up.02" name="line up, completive">
+      <roles>
+        <role descr="agent" f="pag" n="0"/>
+        <role descr="entities in line" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

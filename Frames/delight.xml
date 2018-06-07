@@ -1,0 +1,24 @@
+<frameset>
+  <predicate lemma="delight">
+    <roleset id="delight.01" name="make happy, direct">
+      <roles>
+        <role descr="agent, pleaser, pleasing thing" f="pag" n="0"/>
+        <role descr="patient, entity pleased" f="ppt" n="1"/>
+        <role descr="instrumental (if in addition to arg0)" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="delight.03" name="make happy, prepositional">
+      <roles>
+        <role descr="happy entity" f="ppt" n="0"/>
+        <role descr="prepositional object" f="pag" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="delight.02" name="mode of speaking">
+      <roles>
+        <role descr="speaker" f="pag" n="0"/>
+        <role descr="utterance" f="ppt" n="1"/>
+        <role descr="listener" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

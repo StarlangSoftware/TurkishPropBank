@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="boo">
+    <roleset id="boo.01" name="express disapproval, express disapproval by saying &quot;boooooo&quot;">
+      <roles>
+        <role descr="boo-er" f="pag" n="0"/>
+        <role descr="boo-ed" f="ppt" n="1"/>
+        <role descr="cause, misdeed" f="cau" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

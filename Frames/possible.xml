@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="possible">
+    <roleset id="possible.01" name="likely or able to be/occur">
+      <roles>
+        <role descr="thing that is possible" f="pag" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

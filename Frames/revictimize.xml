@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="revictimize">
+    <roleset id="revictimize.01" name="make into a victim again">
+      <roles>
+        <role descr="victimizer" f="pag" n="0"/>
+        <role descr="victim" f="ppt" n="1"/>
+        <role descr="grounds" f="cau" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

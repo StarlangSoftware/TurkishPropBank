@@ -1,0 +1,20 @@
+<frameset>
+  <predicate lemma="wild">
+    <roleset id="wild.01" name="out of control, crazy">
+      <roles>
+        <role descr="crazy entity" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="wild.02" name="feral, growing without cultivation">
+      <roles>
+        <role descr="ferel organism" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="wild.03" name="wild about: really really like">
+      <roles>
+        <role descr="liker" f="pag" n="0"/>
+        <role descr="liked" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="wireless">
+    <roleset id="wireless.01" name="wireless">
+      <roles>
+        <role descr="sender, agent, wirelesser" f="PAG" n="0"/>
+        <role descr="entity sent, faxed" f="PPT" n="1"/>
+        <role descr="sent to, recipient" f="GOL" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

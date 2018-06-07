@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="selfefface">
+    <roleset id="selfefface.01" name="keep oneself out of sight">
+      <roles>
+        <role descr="self-effacing entity" f="PAG" n="0"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

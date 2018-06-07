@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="diffract">
+    <roleset id="diffract.01" name="cause diffraction">
+      <roles>
+        <role descr="agent, cause" f="pag" n="0"/>
+        <role descr="thing diffracted" f="ppt" n="1"/>
+        <role descr="end point" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

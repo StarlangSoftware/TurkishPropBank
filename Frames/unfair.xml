@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="unfair">
+    <roleset id="unfair.01" name="unjustly beneficial to one side">
+      <roles>
+        <role descr="agent of an unfair action" f="pag" n="0"/>
+        <role descr="unfair action, thing that is inherently unfair" f="ppt" n="1"/>
+        <role descr="affected entity" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="skewer">
+    <roleset id="skewer.01" name="to fasten with a skewer">
+      <roles>
+        <role descr="skewerer" f="PAG" n="0"/>
+        <role descr="first thing skewered" f="ppt" n="1"/>
+        <role descr="second thing, skewered to what" f="ppt" n="2"/>
+        <role descr="instrument, the skewer itself" f="mnr" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

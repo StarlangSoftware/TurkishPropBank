@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="overcharge">
+    <roleset id="overcharge.01" name="ask too much (price)">
+      <roles>
+        <role descr="seller" f="pag" n="0"/>
+        <role descr="asking price" f="vsp" n="1"/>
+        <role descr="buyer" f="gol" n="2"/>
+        <role descr="commodity" f="vsp" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

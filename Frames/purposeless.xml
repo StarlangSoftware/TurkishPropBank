@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="purposeless">
+    <roleset id="purposeless.01" name="not having a purpose">
+      <roles>
+        <role descr="entity without a purpose" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

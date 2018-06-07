@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="betray">
+    <roleset id="betray.01" name="treason">
+      <roles>
+        <role descr="betrayer" f="PAG" n="0"/>
+        <role descr="betrayed" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

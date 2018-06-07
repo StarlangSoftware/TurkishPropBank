@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="ram">
+    <roleset id="ram.01" name="to hit or push with force">
+      <roles>
+        <role descr="hitter, agent or instrument" f="pag" n="0"/>
+        <role descr="entity hit" f="ppt" n="1"/>
+        <role descr="entity rammed into/against" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,16 @@
+<frameset>
+  <predicate lemma="unworkable">
+    <roleset id="unworkable.01" name="unable to be made to function">
+      <roles>
+        <role descr="thing that doesn't function" f="ppt" n="1"/>
+        <role descr="beneficiary" f="gol" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="unworkable.02" name="unable to be manipulated (physically, usually)">
+      <roles>
+        <role descr="thing that can't be manipulated" f="ppt" n="1"/>
+        <role descr="end state" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

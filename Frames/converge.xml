@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="converge">
+    <roleset id="converge.01" name="come together">
+      <roles>
+        <role descr="first (or all, in plural mention) things converging" f="ppt" n="0"/>
+        <role descr="Other converger, converged-with" f="ppt" n="1"/>
+        <role descr="Thing converged-on, often a topic of agreement" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

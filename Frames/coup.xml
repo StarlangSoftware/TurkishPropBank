@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="coup">
+    <roleset id="coup.01" name="sudden change of government, takeover">
+      <roles>
+        <role descr="new leading party, coup stager" f="pag" n="0"/>
+        <role descr="overthrown government" f="pag" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

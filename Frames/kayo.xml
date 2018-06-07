@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="kayo">
+    <roleset id="kayo.01" name="knock out">
+      <roles>
+        <role descr="hitter, agent" f="pag" n="0"/>
+        <role descr="sucker" f="ppt" n="1"/>
+        <role descr="instrument" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="cater">
+    <roleset id="cater.01" name="provide (food, in the default) for (a party)">
+      <roles>
+        <role descr="caterer" f="pag" n="0"/>
+        <role descr="thing (event?) catered" f="ppt" n="1"/>
+        <role descr="benefactive" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

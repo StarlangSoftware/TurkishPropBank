@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="selfidentify">
+    <roleset id="selfidentify.01" name="hold as one's own identity">
+      <roles>
+        <role descr="identifyer" f="pag" n="0"/>
+        <role descr="explicit additional mention of the entity identified" f="ppt" n="1"/>
+        <role descr="as what: identity claimed" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

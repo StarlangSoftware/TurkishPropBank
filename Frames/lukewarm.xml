@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="lukewarm">
+    <roleset id="lukewarm.01" name="tepid">
+      <roles>
+        <role descr="lukewarm entity" f="pag" n="1"/>
+        <role descr="target of lukewarmth" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

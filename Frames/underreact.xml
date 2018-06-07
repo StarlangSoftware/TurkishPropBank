@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="underreact">
+    <roleset id="underreact.01" name="fail to give an adequate response">
+      <roles>
+        <role descr="reactor" f="pag" n="0"/>
+        <role descr="thing reacted to" f="ppt" n="1"/>
+        <role descr="reaction itself" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

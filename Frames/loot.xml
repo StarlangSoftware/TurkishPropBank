@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="loot">
+    <roleset id="loot.01" name="pillage, etc.">
+      <roles>
+        <role descr="looter" f="pag" n="0"/>
+        <role descr="ill-gotten goods" f="ppt" n="1"/>
+        <role descr="source" f="dir" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

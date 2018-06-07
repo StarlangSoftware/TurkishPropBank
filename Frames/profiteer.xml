@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="profiteer">
+    <roleset id="profiteer.01" name="take excessive profits, be a pirate">
+      <roles>
+        <role descr="pirate" f="pag" n="0"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

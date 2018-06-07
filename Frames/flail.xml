@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="flail">
+    <roleset id="flail.01" name="hit rather haphazardly">
+      <roles>
+        <role descr="hitter" f="pag" n="0"/>
+        <role descr="thing hit" f="ppt" n="1"/>
+        <role descr="instrument of hitting" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

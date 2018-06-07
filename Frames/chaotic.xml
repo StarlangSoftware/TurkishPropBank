@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="chaotic">
+    <roleset id="chaotic.01" name="disorganized, hectic">
+      <roles>
+        <role descr="chaotic entity" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

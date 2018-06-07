@@ -1,0 +1,18 @@
+<frameset>
+  <predicate lemma="pulp">
+    <roleset id="pulp.01" name="remove pulp">
+      <roles>
+        <role descr="pulp-er" f="PAG" n="0"/>
+        <role descr="thing pulped" f="DIR" n="1"/>
+        <role descr="pulp" f="PPT" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="pulp.02" name="grind into pulp">
+      <roles>
+        <role descr="grinder" f="PAG" n="0"/>
+        <role descr="thing turned into pulp" f="PPT" n="1"/>
+        <role descr="pulp" f="PRD" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

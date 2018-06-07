@@ -1,0 +1,126 @@
+<frameset>
+  <predicate lemma="leave">
+    <roleset id="leave.11" name="depart, physically go away from a place">
+      <roles>
+        <role descr="entity in motion" f="pag" n="0"/>
+        <role descr="starting point, location vacated" f="dir" n="1"/>
+        <role descr="destination (must also be a location)" f="gol" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="leave.12" name="put in a location/state when physically leaving">
+      <roles>
+        <role descr="agentive leaver (possibly in motion)" f="pag" n="0"/>
+        <role descr="person/thing put in a location/state" f="ppt" n="1"/>
+        <role descr="state/location left in (at least implied)" f="prd" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="leave.13" name="resulting from an event or situation">
+      <roles>
+        <role descr="event/condition causing arg2 to happen" f="pag" n="0"/>
+        <role descr="new state (may involve concatenation)" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="leave.14" name="allow to remain or to continue by inaction, agent cannot be moving">
+      <roles>
+        <role descr="decision­-maker chosing to not act (Must NOT be in motion)" f="pag" n="0"/>
+        <role descr="state remaining" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="leave.15" name="abandon something in exchange for another; permanently leave an association/relationship/way of living">
+      <roles>
+        <role descr="abandoner, entity leaving the relationship/organization" f="pag" n="0"/>
+        <role descr="person, thing abandoned (CANNOT be a location; use leave.11 instead)" f="ppt" n="1"/>
+        <role descr="in exchange for; greener pastures" f="gol" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="leave.16" name="Put off or postpone something">
+      <roles>
+        <role descr="entity putting off an activity/behavior" f="pag" n="0"/>
+        <role descr="activity postponed" f="ppt" n="1"/>
+        <role descr="until when?" f="tmp" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="leave.17" name="exist or remain (potentially after others were removed)">
+      <roles>
+        <role descr="entity remaining" f="ppt" n="1"/>
+        <role descr="larger original set of which a part is remaining" f="dir" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="leave.02" name="bequeath, as in a will">
+      <roles>
+        <role descr="bequeather, donor" f="pag" n="0"/>
+        <role descr="thing given" f="ppt" n="1"/>
+        <role descr="benefactive / given-to" f="gol" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="leave.05" name="lack; leave something to be desired">
+      <roles>
+        <role descr="(non)possessor" f="pag" n="0"/>
+        <role descr="something to be desired, or similar" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="leave.09" name="absence from work">
+      <roles>
+        <role descr="absent entity" f="pag" n="0"/>
+        <role descr="type or cause of absence" f="adj" n="1"/>
+        <role descr="absence from what/where" f="dir" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="leave.10" name="permission">
+      <roles>
+        <role descr="allower" f="pag" n="0"/>
+        <role descr="entity allowed" f="ppt" n="1"/>
+        <role descr="action allowed" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="leave_out">
+    <roleset id="leave_out.03" name="exclude">
+      <roles>
+        <role descr="excluder, agent" f="pag" n="0"/>
+        <role descr="excluded entity" f="ppt" n="1"/>
+        <role descr="excluded from" f="dir" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="leave_off">
+    <roleset id="leave_off.07" name="stop, discontinue an action">
+      <roles>
+        <role descr="entity stopping acting" f="pag" n="0"/>
+        <role descr="discontinued action" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="leave_over">
+    <roleset id="leave_over.08" name="be leftover; cause something to remain after a larger activity">
+      <roles>
+        <role descr="agent/cause" f="pag" n="0"/>
+        <role descr="thing remaining" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="leave_behind">
+    <roleset id="leave_behind.18" name="forget (in a location, or generally)">
+      <roles>
+        <role descr="forgetter" f="pag" n="0"/>
+        <role descr="thing forgotten or left behind" f="ppt" n="1"/>
+        <role descr="behind them/him/it" f="dir" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="left">
+    <roleset id="left.19" name="politically leaning towards liberal">
+      <roles>
+        <role descr="left-wing entity" f="pag" n="1"/>
+        <role descr="on what issues" f="ppt" n="2"/>
+        <role descr="the whole group, of which one faction is left" f="vsp" n="3"/>
+      </roles>
+    </roleset>
+    <roleset id="left.20" name="be located on the left side">
+      <roles>
+        <role descr="theme, entity located on the left" f="ppt" n="1"/>
+        <role descr="to the left of" f="loc" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

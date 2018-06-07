@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="compatible">
+    <roleset id="compatible.01" name="in agreeable combination">
+      <roles>
+        <role descr="first compatible thing" f="ppt" n="1"/>
+        <role descr="other compatible thing, compatible with what?" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="barrel">
+    <roleset id="barrel.01" name="move with great intensity">
+      <roles>
+        <role descr="thing in motion" f="ppt" n="1"/>
+        <role descr="direction, destination" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

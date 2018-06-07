@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="nonfragmented">
+    <roleset id="nonfragmented.01" name="not broken into pieces">
+      <roles>
+        <role descr="causer, agent" f="pag" n="0"/>
+        <role descr="unfragmented thing" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,24 @@
+<frameset>
+  <predicate lemma="quarter">
+    <roleset id="quarter.01" name="provide house for">
+      <roles>
+        <role descr="entity or organization providing housing" f="pag" n="0"/>
+        <role descr="entity being housed" f="ppt" n="1"/>
+        <role descr="location/housing" f="loc" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="quarter.02" name="execute by tying to 4 horses and pulling apart">
+      <roles>
+        <role descr="horses or responsible party" f="pag" n="0"/>
+        <role descr="person being quartered" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="quarter.03" name="divide into quarters">
+      <roles>
+        <role descr="Intentional agent" f="pag" n="0"/>
+        <role descr="Thing being divided up into 4 pieces" f="ppt" n="1"/>
+        <role descr="instrument or theme" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

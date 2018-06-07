@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="solicit">
+    <roleset id="solicit.01" name="request">
+      <roles>
+        <role descr="solicitor" f="pag" n="0"/>
+        <role descr="thing solicited (us. 'bids')" f="ppt" n="1"/>
+        <role descr="solicited from" f="dir" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

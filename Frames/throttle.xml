@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="throttle">
+    <roleset id="throttle.01" name="squeeze, choke">
+      <roles>
+        <role descr="squeezer" f="PAG" n="0"/>
+        <role descr="person or thing being squeezed" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

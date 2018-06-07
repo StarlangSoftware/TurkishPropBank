@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="highlight">
+    <roleset id="highlight.01" name="emphasize">
+      <roles>
+        <role descr="emphasizer" f="pag" n="0"/>
+        <role descr="thing highlighted" f="ppt" n="1"/>
+        <role descr="hearer (rare)" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

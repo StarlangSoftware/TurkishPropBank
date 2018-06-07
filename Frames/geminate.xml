@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="geminate">
+    <roleset id="geminate.01" name="arrange in pairs">
+      <roles>
+        <role descr="arranger" f="PAG" n="0"/>
+        <role descr="paired item" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="deliberate">
+    <roleset id="deliberate.01" name="think about, as a judge">
+      <roles>
+        <role descr="thinker" f="pag" n="0"/>
+        <role descr="thought, thing deliberated on; usually: on/upon/about" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

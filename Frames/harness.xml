@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="harness">
+    <roleset id="harness.01" name="control">
+      <roles>
+        <role descr="controller" f="PAG" n="0"/>
+        <role descr="controlled" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

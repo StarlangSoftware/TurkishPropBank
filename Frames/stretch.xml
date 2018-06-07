@@ -1,0 +1,21 @@
+<frameset>
+  <predicate lemma="stretch">
+    <roleset id="stretch.01" name="extend, lengthen">
+      <roles>
+        <role descr="agent, entity making something be longer" f="PAG" n="0"/>
+        <role descr="patient, thing getting longer" f="PPT" n="1"/>
+        <role descr="EXT or TMP, by how much or until when" f="vsp" n="2"/>
+        <role descr="start point" f="dir" n="3"/>
+        <role descr="end point" f="gol" n="4"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="stretch_out">
+    <roleset id="stretch_out.02" name="to extend to a greater or the full length">
+      <roles>
+        <role descr="cause of lengthening" f="PAG" n="0"/>
+        <role descr="patient, thing getting longer" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

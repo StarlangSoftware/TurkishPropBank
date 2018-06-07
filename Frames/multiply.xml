@@ -1,0 +1,13 @@
+<frameset>
+  <predicate lemma="multiply">
+    <roleset id="multiply.01" name="increase">
+      <roles>
+        <role descr="causer of increase, agent" f="pag" n="0"/>
+        <role descr="thing increasing or multiplier" f="ppt" n="1"/>
+        <role descr="amount increased by, EXT or multiplicand" f="ext" n="2"/>
+        <role descr="start point" f="dir" n="3"/>
+        <role descr="end point or product" f="gol" n="4"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

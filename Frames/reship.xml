@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="reship">
+    <roleset id="reship.01" name="ship again">
+      <roles>
+        <role descr="sender" f="pag" n="0"/>
+        <role descr="package" f="ppt" n="1"/>
+        <role descr="recipient" f="gol" n="2"/>
+        <role descr="source" f="dir" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

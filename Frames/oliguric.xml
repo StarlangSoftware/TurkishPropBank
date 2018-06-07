@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="oliguric">
+    <roleset id="oliguric.01" name="producing an abnormally small amount of urine">
+      <roles>
+        <role descr="entity suffering oliguria" f="pag" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

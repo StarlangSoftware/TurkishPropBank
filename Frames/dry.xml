@@ -1,0 +1,55 @@
+<frameset>
+  <predicate lemma="dry">
+    <roleset id="dry.02" name="(cause to) lose moisture">
+      <roles>
+        <role descr="cause of dryness" f="cau" n="0"/>
+        <role descr="moistureless thing" f="ppt" n="1"/>
+        <role descr="liquid/moisture that is lacking" f="vsp" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="dry.04" name="lacking adornment, emotion, warmth">
+      <roles>
+        <role descr="unadorned thing" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="dry.05" name="containing low residual sugar (as of wine)">
+      <roles>
+        <role descr="thing low in residual sugar" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="dry.06" name="containing much strong liquor">
+      <roles>
+        <role descr="strong drink" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="dry.07" name="abstaining from/prohibiting alcohol">
+      <roles>
+        <role descr="location/entity abstaining" f="loc" n="1"/>
+        <role descr="mention of alcohol" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="dry.08" name=" lacking moisture">
+      <roles>
+        <role descr="cause of dryness" f="cau" n="0"/>
+        <role descr="moistureless thing" f="ppt" n="1"/>
+        <role descr="liquid/moisture that is lacking" f="vsp" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="dry_up">
+    <roleset id="dry_up.01" name="to make or become unproductive">
+      <roles>
+        <role descr="entity causing unproductivity, agent" f="pag" n="0"/>
+        <role descr="entity dried up" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="dry_out">
+    <roleset id="dry_out.03" name="(cause to) become less moist">
+      <roles>
+        <role descr="agent or cause, dry-er" f="pag" n="0"/>
+        <role descr="thing losing moisture" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

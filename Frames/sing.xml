@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="sing">
+    <roleset id="sing.01" name="sing, performing vocal music">
+      <roles>
+        <role descr="singer" f="PAG" n="0"/>
+        <role descr="song" f="ppt" n="1"/>
+        <role descr="audience" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

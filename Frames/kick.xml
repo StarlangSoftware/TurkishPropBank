@@ -1,0 +1,35 @@
+<frameset>
+  <predicate lemma="kick">
+    <roleset id="kick.01" name="drive or impel with the foot">
+      <roles>
+        <role descr="kicker" f="pag" n="0"/>
+        <role descr="thing kicked" f="ppt" n="1"/>
+        <role descr="instrument (defaults to foot)" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="kick_in">
+    <roleset id="kick_in.02" name="begin">
+      <roles>
+        <role descr="causer of beginning" f="pag" n="0"/>
+        <role descr="thing beginning" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="kick_in.03" name="contribute">
+      <roles>
+        <role descr="contributor" f="pag" n="0"/>
+        <role descr="contribution" f="ppt" n="1"/>
+        <role descr="given to" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="kick_off">
+    <roleset id="kick_off.04" name="begin, inaugurate">
+      <roles>
+        <role descr="agent, beginner" f="pag" n="0"/>
+        <role descr="theme, thing begun" f="ppt" n="1"/>
+        <role descr="instrument" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="glut">
+    <roleset id="glut.01" name="fill beyond capacity">
+      <roles>
+        <role descr="causer of glut, agent" f="pag" n="0"/>
+        <role descr="container" f="gol" n="1"/>
+        <role descr="substance" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

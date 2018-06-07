@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="imperative">
+    <roleset id="imperative.01" name="(declaring) absolutely necessary">
+      <roles>
+        <role descr="dictator" f="pag" n="0"/>
+        <role descr="absolutely necessary thing" f="ppt" n="1"/>
+        <role descr="impelled agent" f="vsp" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

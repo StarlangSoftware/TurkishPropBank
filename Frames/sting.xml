@@ -1,0 +1,18 @@
+<frameset>
+  <predicate lemma="sting">
+    <roleset id="sting.01" name="sting, as a bee, causing sharp pain">
+      <roles>
+        <role descr="stinger" f="PAG" n="0"/>
+        <role descr="thing stung" f="ppt" n="1"/>
+        <role descr="instrument, if separate from arg0" f="MNR" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="sting.02" name="covert police operation">
+      <roles>
+        <role descr="police or other covert entity" f="pag" n="0"/>
+        <role descr="criminal, entity being caught" f="ppt" n="1"/>
+        <role descr="crime, operation being stung" f="cau" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

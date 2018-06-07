@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="woman">
+    <roleset id="woman.01" name="act as female staff for, work at">
+      <roles>
+        <role descr="worker" f="pag" n="0"/>
+        <role descr="task or place" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

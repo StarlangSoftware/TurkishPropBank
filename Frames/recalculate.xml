@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="recalculate">
+    <roleset id="recalculate.01" name="recalculate, reckon, think">
+      <roles>
+        <role descr="Thinker" f="pag" n="0"/>
+        <role descr="Thought" f="ppt" n="1"/>
+        <role descr="Attributive" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

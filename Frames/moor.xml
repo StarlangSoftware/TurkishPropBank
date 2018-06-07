@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="moor">
+    <roleset id="moor.01" name="(cause to) park (a ship) in a dock">
+      <roles>
+        <role descr="agent, docker" f="PAG" n="0"/>
+        <role descr="thing docked, ship" f="PPT" n="1"/>
+        <role descr="Destination (the dock)" f="GOL" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

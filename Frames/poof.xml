@@ -1,0 +1,18 @@
+<frameset>
+  <predicate lemma="poof_out">
+    <roleset id="poof_out.01" name="stick out, protrude">
+      <roles>
+        <role descr="causal agent" f="pag" n="0"/>
+        <role descr="thing extended" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="poof_up">
+    <roleset id="poof_up.02" name="get bigger">
+      <roles>
+        <role descr="causal agent" f="pag" n="0"/>
+        <role descr="thing increasing in size" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

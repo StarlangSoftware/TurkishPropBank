@@ -1,0 +1,36 @@
+<frameset>
+  <predicate lemma="toss">
+    <roleset id="toss.01" name="throw randomly or toss dough, glances, throw randomly, throwing, perhaps underhand or casually">
+      <roles>
+        <role descr="tosser(s)" f="pag" n="0"/>
+        <role descr="thing tossed" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="toss_out">
+    <roleset id="toss_out.02" name="get rid of">
+      <roles>
+        <role descr="eliminator, agent" f="pag" n="0"/>
+        <role descr="thing eliminated" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="toss_in">
+    <roleset id="toss_in.03" name="include">
+      <roles>
+        <role descr="includer" f="pag" n="0"/>
+        <role descr="included" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="toss_up">
+    <roleset id="toss_up.04" name="be a wash, a tie, equivalent as options">
+      <roles>
+        <role descr="chooser" f="pag" n="0"/>
+        <role descr="decision that is a toss up (often 'it')" f="ppt" n="1"/>
+        <role descr="mention of the first option (or both if together)" f="vsp" n="2"/>
+        <role descr="mention of the second option" f="vsp" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

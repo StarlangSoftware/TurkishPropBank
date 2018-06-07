@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="complex">
+    <roleset id="complex.01" name="complicated">
+      <roles>
+        <role descr="thing that is complicated" f="pag" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

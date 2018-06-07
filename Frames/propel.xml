@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="propel">
+    <roleset id="propel.01" name="cause to move very quickly">
+      <roles>
+        <role descr="causer of motion" f="pag" n="0"/>
+        <role descr="thing in motion" f="ppt" n="1"/>
+        <role descr="destination" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

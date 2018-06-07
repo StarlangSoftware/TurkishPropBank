@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="replant">
+    <roleset id="replant.01" name="plant again">
+      <roles>
+        <role descr="gardener, agent" f="pag" n="0"/>
+        <role descr="entity planted" f="ppt" n="1"/>
+        <role descr="location" f="loc" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

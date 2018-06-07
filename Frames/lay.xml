@@ -1,0 +1,85 @@
+<frameset>
+  <predicate lemma="lay">
+    <roleset id="lay.01" name="put, set, cause to exist at some location, putting (horizontally)">
+      <roles>
+        <role descr="layer" f="pag" n="0"/>
+        <role descr="thing laid" f="ppt" n="1"/>
+        <role descr="location" f="gol" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="lay.04" name="have sexual relation with">
+      <roles>
+        <role descr="sexual partner, entity laying arg1" f="pag" n="0"/>
+        <role descr="entity getting laid (most common arg)" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="lie">
+    <roleset id="lie.07" name="assume a horizontal position, more generally 'exist', existing">
+      <roles>
+        <role descr="entity in the position" f="ppt" n="1"/>
+        <role descr="location" f="loc" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="lie.08" name="tell a falsehood">
+      <roles>
+        <role descr="liar" f="pag" n="0"/>
+        <role descr="lie itself" f="ppt" n="1"/>
+        <role descr="hearer" f="gol" n="2"/>
+        <role descr="subject matter the lie is about" f="vsp" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="lay_on">
+    <roleset id="lay_on.03" name="use or employ">
+      <roles>
+        <role descr="agent" f="pag" n="0"/>
+        <role descr="thing employed" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="lay_off">
+    <roleset id="lay_off.02" name="fire, let go from employement">
+      <roles>
+        <role descr="(former) employer" f="pag" n="0"/>
+        <role descr="(former) employee" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="lay_off.06" name="cease (harassing, using, etc.)">
+      <roles>
+        <role descr="agent of cessation" f="pag" n="0"/>
+        <role descr="activity ceased" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="laid_back">
+    <roleset id="laid_back.05" name="relaxed, casual">
+      <roles>
+        <role descr="causer of relaxation" f="pag" n="0"/>
+        <role descr="relaxed/casual entity" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="lie_down">
+    <roleset id="lie_down.09" name="more explicit horizontal position">
+      <roles>
+        <role descr="entity lying down" f="pag" n="1"/>
+        <role descr="location" f="loc" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="lie_down.10" name="install or establish">
+      <roles>
+        <role descr="installer, creator, agent" f="pag" n="0"/>
+        <role descr="thing installed" f="ppt" n="1"/>
+        <role descr="installed where" f="loc" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="lie_in">
+    <roleset id="lie_in.11" name="lie in bed, confinement or bed rest, sometimes for child birth">
+      <roles>
+        <role descr="mother or lazy person" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

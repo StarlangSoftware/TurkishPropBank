@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="entrust">
+    <roleset id="entrust.01" name="to put into the care of someone">
+      <roles>
+        <role descr="entity giving up control, agent" f="PAG" n="0"/>
+        <role descr="entity entrusted" f="PPT" n="1"/>
+        <role descr="entity entrusted to" f="GOL" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

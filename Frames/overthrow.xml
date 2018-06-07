@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="overthrow">
+    <roleset id="overthrow.01" name="to bring down, overturn">
+      <roles>
+        <role descr="victor, agent" f="PAG" n="0"/>
+        <role descr="entity overthrown" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="it">
+    <roleset id="it.01" name="phonetic reduction of 'hit' (strike)">
+      <roles>
+        <role descr="animate! agentive hitter" f="pag" n="0"/>
+        <role descr="thing hit" f="PPT" n="1"/>
+        <role descr="instrument" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

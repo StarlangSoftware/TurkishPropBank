@@ -1,0 +1,17 @@
+<frameset>
+  <predicate lemma="dispense">
+    <roleset id="dispense.01" name="stop some action">
+      <roles>
+        <role descr="agent, entity causing something to end" f="pag" n="0"/>
+        <role descr="thing ending" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="dispense.02" name="distribute">
+      <roles>
+        <role descr="dispenser" f="pag" n="0"/>
+        <role descr="thing dispensed" f="ppt" n="1"/>
+        <role descr="dispensed to" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

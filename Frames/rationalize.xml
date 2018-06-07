@@ -1,0 +1,23 @@
+<frameset>
+  <predicate lemma="rationalize">
+    <roleset id="rationalize.01" name="make sense of, make excuses for">
+      <roles>
+        <role descr="rationalizer" f="pag" n="0"/>
+        <role descr="thing rationalized" f="ppt" n="1"/>
+        <role descr="instrument" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="rational">
+    <roleset id="rational.02" name="logical, reasoned">
+      <roles>
+        <role descr="logical entity (may require concatenation)" f="pag" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="rational.03" name="expressible as the quotient of integers (math)">
+      <roles>
+        <role descr="rational number" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

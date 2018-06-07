@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="subsample">
+    <roleset id="subsample.01" name="take a smaller sample from a larger sample">
+      <roles>
+        <role descr="sample-taker" f="cau" n="0"/>
+        <role descr="thing subsampled" f="ppt" n="1"/>
+        <role descr="new size/measurement of the new sample" f="vsp" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

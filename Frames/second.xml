@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="second">
+    <roleset id="second.01" name="give support or approval">
+      <roles>
+        <role descr="approver" f="pag" n="0"/>
+        <role descr="thing approved" f="ppt" n="1"/>
+        <role descr="secondary attribute" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="rag">
+    <roleset id="rag.01" name="torment or annoy, ">
+      <roles>
+        <role descr="tormentor" f="PAG" n="0"/>
+        <role descr="one picked on" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

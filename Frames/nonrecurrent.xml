@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="nonrecurrent">
+    <roleset id="nonrecurrent.01" name="not happening repeatedly">
+      <roles>
+        <role descr="thing that doesn't recur" f="pag" n="0"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

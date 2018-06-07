@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="demilitarize">
+    <roleset id="demilitarize.01" name="remove armed forces, removal of military presence">
+      <roles>
+        <role descr="agent" f="pag" n="0"/>
+        <role descr="military presence (troops, weapons, etc)" f="ppt" n="1"/>
+        <role descr="location removed from" f="dir" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

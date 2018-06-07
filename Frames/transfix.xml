@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="transfix">
+    <roleset id="transfix.01" name="to make motionless, as if fixed">
+      <roles>
+        <role descr="causer of transfixation" f="pag" n="0"/>
+        <role descr="transfixed entity" f="ppt" n="1"/>
+        <role descr="instrument, if separate from arg 0" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

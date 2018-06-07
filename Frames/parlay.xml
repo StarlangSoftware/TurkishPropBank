@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="parlay">
+    <roleset id="parlay.01" name="use advantageously">
+      <roles>
+        <role descr="user" f="pag" n="0"/>
+        <role descr="used; impelled agent" f="ppt" n="1"/>
+        <role descr="impelled action, proposition" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

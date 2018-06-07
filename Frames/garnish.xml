@@ -1,0 +1,18 @@
+<frameset>
+  <predicate lemma="garnish">
+    <roleset id="garnish.01" name="decorate">
+      <roles>
+        <role descr="decorator" f="pag" n="0"/>
+        <role descr="thing decorated" f="gol" n="1"/>
+        <role descr="decorations" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="garnish.02" name="withold or extort">
+      <roles>
+        <role descr="witholder or extorter" f="pag" n="0"/>
+        <role descr="thing withheld or extorted" f="ppt" n="1"/>
+        <role descr="withheld or extorted from" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

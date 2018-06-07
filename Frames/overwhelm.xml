@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="overwhelm">
+    <roleset id="overwhelm.01" name="overwhelm">
+      <roles>
+        <role descr="overwhelmer" f="pag" n="0"/>
+        <role descr="patient, overwhelmed" f="ppt" n="1"/>
+        <role descr="instrument or manner" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

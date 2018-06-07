@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="uncivilized">
+    <roleset id="uncivilized.01" name="uneducated, unrefined">
+      <roles>
+        <role descr="agent attempting to civilize" f="pag" n="0"/>
+        <role descr="uncivil entityact (may require concatenation" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,37 @@
+<frameset>
+  <predicate lemma="die">
+    <roleset id="die.01" name="sterben">
+      <roles>
+        <role descr="the deceased" f="ppt" n="1"/>
+        <role descr="cognate object" f="prd" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="die.05" name="semi modal: wanting to, really bad">
+      <roles>
+        <role descr="entity who really wants to" f="pag" n="0"/>
+        <role descr="action wanted (dying to what)" f="prd" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="die_down">
+    <roleset id="die_down.02" name="subside">
+      <roles>
+        <role descr="thing subsiding" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="die_out">
+    <roleset id="die_out.03" name="go extinct, terminate completely">
+      <roles>
+        <role descr="dying thing" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="die_off">
+    <roleset id="die_off.04" name="become dead (as a group), bit by bit">
+      <roles>
+        <role descr="dying thing" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

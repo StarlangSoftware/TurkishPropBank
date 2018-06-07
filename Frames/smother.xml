@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="smother">
+    <roleset id="smother.01" name="make it hard to breathe">
+      <roles>
+        <role descr="cause of difficult breathing" f="cau" n="0"/>
+        <role descr="thing becoming smothered" f="gol" n="1"/>
+        <role descr="instrument, if agent is also present" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="torture">
+    <roleset id="torture.01" name="torture, event of torturing">
+      <roles>
+        <role descr="torturer" f="pag" n="0"/>
+        <role descr="entity being tortured" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

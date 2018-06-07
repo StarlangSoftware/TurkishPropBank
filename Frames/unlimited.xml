@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="unlimited">
+    <roleset id="unlimited.01" name="not having a limit">
+      <roles>
+        <role descr="agent, limiter" f="pag" n="0"/>
+        <role descr="entity not having a limit" f="ppt" n="1"/>
+        <role descr="the limit itself" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

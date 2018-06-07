@@ -1,0 +1,16 @@
+<frameset>
+  <predicate lemma="affair">
+    <roleset id="affair.01" name="an illicit romantic relationship">
+      <roles>
+        <role descr="entity having an affair" f="pag" n="0"/>
+        <role descr="with whom; other party" f="com" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="affair.02" name="matter, occurance">
+      <roles>
+        <role descr="participants" f="ppt" n="1"/>
+        <role descr="What kind of matter" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

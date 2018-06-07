@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="undress">
+    <roleset id="undress.01" name="to remove clothes">
+      <roles>
+        <role descr="person removing clothes" f="pag" n="0"/>
+        <role descr="person (soon to be not) wearing clothes" f="ppt" n="1"/>
+        <role descr="attribute, clothes removed" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

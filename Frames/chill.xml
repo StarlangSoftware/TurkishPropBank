@@ -1,0 +1,37 @@
+<frameset>
+  <predicate lemma="chill">
+    <roleset id="chill.01" name="to cool, dispirit or unsettle">
+      <roles>
+        <role descr="causer of cooling, agent" f="pag" n="0"/>
+        <role descr="entity chilled" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="chill.02" name="hang out, relax">
+      <roles>
+        <role descr="relaxer" f="pag" n="0"/>
+        <role descr="relaxing activity" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="chill.03" name="ok, alright, acceptable">
+      <roles>
+        <role descr="acceptable thing (may require concatenation)" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="chilly">
+    <roleset id="chilly.04" name="cold (perhaps enough to be slightly uncomfortable)">
+      <roles>
+        <role descr="agent/causer of chilliness" f="pag" n="0"/>
+        <role descr="chilly entity" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="chill_out">
+    <roleset id="chill_out.05" name="calm down">
+      <roles>
+        <role descr="entity calming down" f="pag" n="0"/>
+        <role descr="agitating subject matter" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

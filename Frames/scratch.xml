@@ -1,0 +1,35 @@
+<frameset>
+  <predicate lemma="scratch">
+    <roleset id="scratch.02" name="cut shallowly, rake the surface sharply">
+      <roles>
+        
+        <role descr="cutter" f="pag" n="0"/>
+        <role descr="thing cut" f="ppt" n="1"/>
+        <role descr="medium, source" f="dir" n="2"/>
+        <role descr="instrument" f="mnr" n="3"/>
+      </roles>
+    </roleset>
+    <roleset id="scratch.04" name="search">
+      <roles>
+        <role descr="searcher, scratcher" f="pag" n="0"/>
+        <role descr="searched for" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="scratch_out">
+    <roleset id="scratch_out.01" name="extract with difficulty">
+      <roles>
+        <role descr="squeezer" f="pag" n="0"/>
+        <role descr="extracted material (ie life)" f="ppt" n="1"/>
+        <role descr="source (ie, stony ground)" f="dir" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="scratch_out.03" name="manner of writing">
+      <roles>
+        <role descr="writer" f="pag" n="0"/>
+        <role descr="thing written" f="ppt" n="1"/>
+        <role descr="benefactive" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

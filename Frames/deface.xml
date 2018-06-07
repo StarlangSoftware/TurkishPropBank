@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="deface">
+    <roleset id="deface.01" name="to spoil by harming">
+      <roles>
+        <role descr="agent, causer" f="pag" n="0"/>
+        <role descr="entity defaced" f="ppt" n="1"/>
+        <role descr="instrument" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

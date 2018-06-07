@@ -1,0 +1,66 @@
+<frameset>
+  <predicate lemma="move">
+    <roleset id="move.01" name="change location">
+      <roles>
+        <role descr="mover" f="pag" n="0"/>
+        <role descr="moved" f="ppt" n="1"/>
+        <role descr="destination" f="gol" n="2"/>
+        <role descr="aspect, domain in which arg1 moving" f="vsp" n="3"/>
+      </roles>
+    </roleset>
+    <roleset id="move.02" name="take measures, put forth strategic effort toward a goal">
+      <roles>
+        <role descr="mover" f="pag" n="0"/>
+        <role descr="measures" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="move.03" name="impelled action">
+      <roles>
+        <role descr="causal agent" f="pag" n="0"/>
+        <role descr="impelled agent" f="ppt" n="1"/>
+        <role descr="impelled action" f="prd" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="move.04" name="attack">
+      <roles>
+        <role descr="attacker" f="pag" n="0"/>
+        <role descr="attacked" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="move.05" name="affect emotionally">
+      <roles>
+        <role descr="causer of emotion" f="pag" n="0"/>
+        <role descr="experiencer of the emotion" f="ppt" n="1"/>
+        <role descr="instrument" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="move_on">
+    <roleset id="move_on.08" name="proceed to a new place or subject matter">
+      <roles>
+        <role descr="entity moving on" f="pag" n="0"/>
+        <role descr="with what, topic" f="ppt" n="1"/>
+        <role descr="start point/state" f="dir" n="2"/>
+        <role descr="end point/state" f="gol" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="moveable">
+    <roleset id="moveable.06" name="aable to be repositioned">
+      <roles>
+        <role descr="mover" f="pag" n="0"/>
+        <role descr="thing moved" f="ppt" n="1"/>
+        <role descr="destination" f="gol" n="2"/>
+        <role descr="specific aspect of arg1 moving" f="vsp" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="movement">
+    <roleset id="movement.07" name="working toward a purpose, as a group">
+      <roles>
+        <role descr="group of people starting a revolution" f="pag" n="0"/>
+        <role descr="the revolution" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

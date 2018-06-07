@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="womanize">
+    <roleset id="womanize.01" name="pursue women excessively, ">
+      <roles>
+        <role descr="Womanizer" f="PAG" n="0"/>
+        <role descr="Woman seduced" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

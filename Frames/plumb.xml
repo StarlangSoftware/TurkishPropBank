@@ -1,0 +1,33 @@
+<frameset>
+  <predicate lemma="plumb">
+    <roleset id="plumb.01" name="measure the depth of something">
+      <roles>
+        <role descr="agent, explorer" f="PAG" n="0"/>
+        <role descr="person/place/thing explored" f="LOC" n="1"/>
+        <role descr="in search of" f="PPT" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="plumb.02" name="weight with lead">
+      <roles>
+        <role descr="agent" f="PAG" n="0"/>
+        <role descr="thing weighted" f="gol" n="1"/>
+        <role descr="lead weight" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="plumb.03" name="make vertical">
+      <roles>
+        <role descr="agent" f="PAG" n="0"/>
+        <role descr="thing being made vertical" f="ppt" n="1"/>
+        <role descr="thing aligned to" f="gol" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="plumb.04" name="install plumbing">
+      <roles>
+        <role descr="plumber" f="PAG" n="0"/>
+        <role descr="thing being plumbed" f="ppt" n="1"/>
+        <role descr="start point of the plumbing" f="dir" n="2"/>
+        <role descr="end point of the plumbing" f="gol" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

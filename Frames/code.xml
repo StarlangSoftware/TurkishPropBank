@@ -1,0 +1,32 @@
+<frameset>
+  <predicate lemma="code">
+    <roleset id="code.01" name="make into a code, encrypt">
+      <roles>
+        <role descr="codemaker, agent" f="pag" n="0"/>
+        <role descr="message etc." f="ppt" n="1"/>
+      </roles>
+    
+    </roleset>
+    <roleset id="code.02" name="write software, writing computer programs">
+      <roles>
+        <role descr="programmer" f="pag" n="0"/>
+        <role descr="software" f="ppt" n="1"/>
+      </roles>
+    
+    </roleset>
+    <roleset id="code.101" name="medical patient being in cardiac arrest">
+      <roles>
+        <role descr="Patient" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma='colorcode'>
+    <roleset id="colorcode.03" name="label by color">
+      <roles>
+        <role descr="color coder" f="pag" n="0"/>
+        <role descr="entity being labeled" f="ppt" n="1"/>
+        <role descr="color" f="vsp" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

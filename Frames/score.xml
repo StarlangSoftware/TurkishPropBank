@@ -1,0 +1,20 @@
+<frameset>
+  <predicate lemma="score">
+    <roleset id="score.01" name="earn points (in athletic competition), awarding/earning points">
+      <roles>
+        <role descr="grader, judge, entity awarding the points" f="pag" n="0"/>
+        <role descr="entity earning points" f="ppt" n="1"/>
+        <role descr="the points/score" f="prd" n="2"/>
+        <role descr="domain" f="vsp" n="3"/>
+        <role descr="opponent" f="vsp" n="4"/>
+      </roles>
+    </roleset>
+    <roleset id="score.02" name="set music, orchestrate">
+      <roles>
+        <role descr="musical composer" f="pag" n="0"/>
+        <role descr="piece of music" f="ppt" n="1"/>
+        <role descr="for what, ensemble" f="prp" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

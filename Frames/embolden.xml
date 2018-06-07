@@ -1,0 +1,24 @@
+<frameset>
+  <predicate lemma="embolden">
+    <roleset id="embolden.01" name="make be bold">
+      <roles>
+        <role descr="thing causing boldness" f="pag" n="0"/>
+        <role descr="thing becoming bold" f="ppt" n="1"/>
+        <role descr="instrument" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="bold">
+    <roleset id="bold.02" name="brave, forward,">
+      <roles>
+        <role descr="brave, forward one" f="pag" n="0"/>
+        <role descr="brave action" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="bold.03" name="darkened, thickened type">
+      <roles>
+        <role descr="bold typeface" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

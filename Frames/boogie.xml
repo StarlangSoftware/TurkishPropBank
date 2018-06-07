@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="boogie">
+    <roleset id="boogie.01" name="gettin' down dancing">
+      <roles>
+        <role descr="dancer" f="PAG" n="0"/>
+        <role descr="theme, partner or body part made to dance, explicit mention of dance itself" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

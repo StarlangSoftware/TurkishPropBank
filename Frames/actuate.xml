@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="actuate">
+    <roleset id="actuate.01" name="put into action or motion">
+      <roles>
+        <role descr="agent causing of actuation" f="PAG" n="0"/>
+        <role descr="entity set into action or motion" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

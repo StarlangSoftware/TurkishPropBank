@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="endure">
+    <roleset id="endure.01" name="to last or experience for a long time">
+      <roles>
+        <role descr="experiencer" f="ppt" n="1"/>
+        <role descr="thing endured or period of time" f="vsp" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

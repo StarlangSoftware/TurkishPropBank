@@ -1,0 +1,17 @@
+<frameset>
+  <predicate lemma="embrace">
+    <roleset id="embrace.01" name="to accept enthusiastically or to include">
+      <roles>
+        <role descr="includer, agent" f="PAG" n="0"/>
+        <role descr="entity embraced" f="PPT" n="1"/>
+        <role descr="embraced as" f="prd" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="embrace.02" name="to hug, hug">
+      <roles>
+        <role descr="hugger" f="PAG" n="0"/>
+        <role descr="person hugged" f="COM" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

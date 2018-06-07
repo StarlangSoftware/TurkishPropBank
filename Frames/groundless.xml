@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="groundless">
+    <roleset id="groundless.01" name="baseless, unwarranted">
+      <roles>
+        <role descr="thing without grounds" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

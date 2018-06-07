@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="commemorate">
+    <roleset id="commemorate.01" name="honor with memorial, be a memorial">
+      <roles>
+        <role descr="agent, honorer" f="pag" n="0"/>
+        <role descr="thing remembered" f="ppt" n="1"/>
+        <role descr="memorial, how commemorated" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

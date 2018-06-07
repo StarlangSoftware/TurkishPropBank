@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="spacewalk">
+    <roleset id="spacewalk.01" name="talk a walk in space">
+      <roles>
+        <role descr="astronaut" f="pag" n="0"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

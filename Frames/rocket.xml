@@ -1,0 +1,13 @@
+<frameset>
+  <predicate lemma="rocket">
+    <roleset id="rocket.01" name="go up very fast, move like a rocket">
+      <roles>
+        <role descr="Logical subject, patient, thing rising" f="ppt" n="1"/>
+        <role descr="EXT, amount risen" f="ext" n="2"/>
+        <role descr="start point" f="dir" n="3"/>
+        <role descr="end point" f="gol" n="4"/>
+        <role descr="medium, attribute rocketing rather than whole patient" f="prd" n="5"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="reallocate">
+    <roleset id="reallocate.01" name="give to, donate (again)">
+      <roles>
+        <role descr="granter" f="pag" n="0"/>
+        <role descr="thing granted" f="ppt" n="1"/>
+        <role descr="benefactive, granted-to" f="gol" n="2"/>
+        <role descr="source" f="dir" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

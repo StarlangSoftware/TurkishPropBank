@@ -1,0 +1,24 @@
+<frameset>
+  <predicate lemma="excel">
+    <roleset id="excel.01" name="be very good (at), extremely skilled at">
+      <roles>
+        <role descr="very good entity" f="ppt" n="0"/>
+        <role descr="domain" f="vsp" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="excellent">
+    <roleset id="excellent.02" name="generally superb">
+      <roles>
+        <role descr="superb thing" f="pag" n="1"/>
+        <role descr="target, entity excellent behavior is directed at" f="gol" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="excellent.03" name="extremely beneficial, healthful">
+      <roles>
+        <role descr="beneficial, healthful thing" f="pag" n="1"/>
+        <role descr="beneficiary" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

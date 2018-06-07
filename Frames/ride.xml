@@ -1,0 +1,26 @@
+<frameset>
+  <predicate lemma="ride">
+    <roleset id="ride.01" name="as a horse">
+      <roles>
+        <role descr="rider" f="pag" n="0"/>
+        <role descr="steed" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="ride_out">
+    <roleset id="ride_out.02" name="endure, persevere through">
+      <roles>
+        <role descr="rider" f="pag" n="0"/>
+        <role descr="the storm" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="ride_up">
+    <roleset id="ride_up.03" name="to inch up, like clothing">
+      <roles>
+        <role descr="thing inching up, clothes" f="ppt" n="1"/>
+        <role descr="thing that arg1 is inching up, body in ill-fitting clothes" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

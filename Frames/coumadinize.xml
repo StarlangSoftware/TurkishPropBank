@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="coumadinize">
+    <roleset id="coumadinize.01" name="administer coumadin to">
+      <roles>
+        <role descr="Prescribing/administering agent" f="pag" n="0"/>
+        <role descr="Patient receiving Coumadin treatment" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

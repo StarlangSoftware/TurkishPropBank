@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="rife">
+    <roleset id="rife.01" name="teeming, abundant">
+      <roles>
+        <role descr="location (perhaps abstract) teeming with arg2" f="loc" n="1"/>
+        <role descr="theme, abundant thing" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

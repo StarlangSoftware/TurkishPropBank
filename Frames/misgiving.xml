@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="misgiving">
+    <roleset id="misgiving.01" name="worry">
+      <roles>
+        <role descr="part of self offering misgiving; transitive subject, in add to arg1" f="pag" n="0"/>
+        <role descr="primary experiencer of misgiving" f="ppt" n="1"/>
+        <role descr="subject matter of misgiving" f="vsp" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

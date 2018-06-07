@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="vitiate">
+    <roleset id="vitiate.01" name="corrupt, impair, invalidate">
+      <roles>
+        <role descr="corrupter, agent" f="PAG" n="0"/>
+        <role descr="patient, thing corrupted (etc)" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="franchise">
+    <roleset id="franchise.01" name="sell a representative   example of a chain">
+      <roles>
+        <role descr="franchiser" f="pag" n="0"/>
+        <role descr="example of chain" f="ppt" n="1"/>
+        <role descr="franchisee" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,16 @@
+<frameset>
+  <predicate lemma="totter">
+    <roleset id="totter.01" name="stand unsteadily">
+      <roles>
+        <role descr="thing tottering" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="totter_around">
+    <roleset id="totter_around.02" name="move unsteadily">
+      <roles>
+        <role descr="thing tottering" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

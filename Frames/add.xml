@@ -1,0 +1,44 @@
+<frameset>
+  <predicate lemma="add">
+    <roleset id="add.01" name="say">
+      <roles>
+        <role descr="speaker" f="pag" n="0"/>
+        <role descr="utterance" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="add.02" name="mathematics, mixing, add something to something else, increase">
+      <roles>
+        <role descr="adder" f="pag" n="0"/>
+        <role descr="thing being added" f="ppt" n="1"/>
+        <role descr="thing being added to" f="ppt" n="2"/>
+        <role descr="resulting sum" f="prd" n="3"/>
+      </roles>
+    </roleset>
+    <roleset id="add.03" name="achieve or gain">
+      <roles>
+        <role descr="Logical subject, patient, thing rising/gaining/being added to" f="ppt" n="1"/>
+        <role descr="EXT, amount risen" f="ext" n="2"/>
+        <role descr="end point" f="prd" n="4"/>
+        <role descr="medium" f="loc" n="m"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="add_up">
+    <roleset id="add_up.04" name="result in">
+      <roles>
+        <role descr="things added" f="ppt" n="1"/>
+        <role descr="result" f="prd" n="2"/>
+        <role descr="agent adding items up" f="pag" n="0"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="add_on">
+    <roleset id="add_on.05" name="add to existing mass">
+      <roles>
+        <role descr="Agent adding on" f="pag" n="0"/>
+        <role descr="Thing added" f="ppt" n="1"/>
+        <role descr="Added to what?" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

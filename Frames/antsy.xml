@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="antsy">
+    <roleset id="antsy.01" name="experiencing nervousness, impatience">
+      <roles>
+        <role descr="causer of anxiety, impatience" f="cau" n="0"/>
+        <role descr="experiencer of anxiety, impatience" f="pag" n="1"/>
+        <role descr="impatient to do what" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

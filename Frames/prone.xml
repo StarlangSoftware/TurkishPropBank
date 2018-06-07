@@ -1,0 +1,15 @@
+<frameset>
+  <predicate lemma="prone">
+    <roleset id="prone.01" name="susceptible, likely to undergo">
+      <roles>
+        <role descr="likely undergoer" f="pag" n="1"/>
+        <role descr="undergone" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="prone.02" name="lying face down">
+      <roles>
+        <role descr="face down entity" f="pag" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

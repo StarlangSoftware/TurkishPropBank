@@ -1,0 +1,21 @@
+<frameset>
+  <predicate lemma="restate">
+    <roleset id="restate.01" name="state again">
+      <roles>
+        <role descr="announcer" f="pag" n="0"/>
+        <role descr="utterance" f="ppt" n="1"/>
+        <role descr="hearer" f="gol" n="2"/>
+        <role descr="attributive" f="prd" n="3"/>
+      </roles>
+    </roleset>
+    <roleset id="restate.02" name="special stock report usage: revalue">
+      <roles>
+        <role descr="revaluer" f="pag" n="0"/>
+        <role descr="thing valued" f="ppt" n="1"/>
+        <role descr="EXT of change" f="ext" n="2"/>
+        <role descr="start point" f="dir" n="3"/>
+        <role descr="end point" f="loc" n="4"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

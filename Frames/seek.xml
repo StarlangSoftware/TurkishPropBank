@@ -1,0 +1,20 @@
+<frameset>
+  <predicate lemma="seek">
+    <roleset id="seek.01" name="look for">
+      <roles>
+        <role descr="Agent / entity seeking" f="pag" n="0"/>
+        <role descr="thing sought, attempted action" f="ppt" n="1"/>
+        <role descr="sought-from" f="dir" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="seek_out">
+    <roleset id="seek_out.02" name="search diligently for">
+      <roles>
+        <role descr="Agent / entity seeking" f="pag" n="0"/>
+        <role descr="thing sought" f="ppt" n="1"/>
+        <role descr="sought-from" f="dir" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

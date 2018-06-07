@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="uncap">
+    <roleset id="uncap.01" name="remove cap">
+      <roles>
+        <role descr="remover" f="pag" n="0"/>
+        <role descr="thing uncapped" f="ppt" n="1"/>
+        <role descr="instrument" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

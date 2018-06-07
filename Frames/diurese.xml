@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="diurese">
+    <roleset id="diurese.01" name="to bring about or experience diuresis">
+      <roles>
+        <role descr="Causer of diuresis" f="PAG" n="0"/>
+        <role descr="Experiencer of diuresis" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,18 @@
+<frameset>
+  <predicate lemma="circularize">
+    <roleset id="circularize.01" name="to disseminate information, make widely known">
+      <roles>
+        <role descr="agent, cause of dissemination" f="pag" n="0"/>
+        <role descr="theme, information/ literature disseminated" f="ppt" n="1"/>
+        <role descr="recipient of information" f="gol" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="circularize.02" name="to canvass, poll by questionnaire, distribute information to many">
+      <roles>
+        <role descr="Pollster, person/org distrubiting questionnaires, info." f="pag" n="0"/>
+        <role descr="Person polled, sometimes expressed as a location or household" f="gol" n="1"/>
+        <role descr="Theme, questionnaire or thing distributed" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,15 @@
+<frameset>
+  <predicate lemma="resile">
+    <roleset id="resile.01" name="recant or renege on a belief or agreement">
+      <roles>
+        <role descr="recanter" f="PAG" n="0"/>
+        <role descr="reneged on" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="resile.02" name="spring back to original shape">
+      <roles>
+        <role descr="thing bouncing back" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

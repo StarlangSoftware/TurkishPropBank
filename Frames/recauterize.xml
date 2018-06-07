@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="recauterize">
+    <roleset id="recauterize.01" name="cauterize again">
+      <roles>
+        <role descr="agent, cause" f="pag" n="0"/>
+        <role descr="entity being cauterized" f="ppt" n="1"/>
+        <role descr="instrument" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

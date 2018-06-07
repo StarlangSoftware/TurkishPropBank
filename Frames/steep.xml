@@ -1,0 +1,19 @@
+<frameset>
+  <predicate lemma="steep">
+    <roleset id="steep.01" name="soak for a long time">
+      <roles>
+        <role descr="cause of soaking" f="pag" n="0"/>
+        <role descr="soaked thing" f="ppt" n="1"/>
+        <role descr="liquid" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="steepen">
+    <roleset id="steepen.02" name="make steep">
+      <roles>
+        <role descr="agent, cause" f="PAG" n="0"/>
+        <role descr="thing made steep" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

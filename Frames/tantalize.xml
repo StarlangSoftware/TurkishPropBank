@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="tantalize">
+    <roleset id="tantalize.01" name="tempt and withold">
+      <roles>
+        <role descr="tantalizer" f="pag" n="0"/>
+        <role descr="tantalized" f="ppt" n="1"/>
+        <role descr="instrument or manner if separate" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

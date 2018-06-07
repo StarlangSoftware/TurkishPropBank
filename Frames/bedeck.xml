@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="bedeck">
+    <roleset id="bedeck.01" name="to decorate, adorn">
+      <roles>
+        <role descr="decorator, agent" f="pag" n="0"/>
+        <role descr="entity bedecked" f="gol" n="1"/>
+        <role descr="decoration" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

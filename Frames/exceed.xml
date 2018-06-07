@@ -1,0 +1,19 @@
+<frameset>
+  <predicate lemma="exceed">
+    <roleset id="exceed.01" name="be more than">
+      <roles>
+        <role descr="thing that's more" f="ppt" n="0"/>
+        <role descr="thing that's less" f="ppt" n="1"/>
+        <role descr="margin, difference" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="excessive">
+    <roleset id="excessive.02" name="exceeding a limit">
+      <roles>
+        <role descr="thing that's excessive" f="ppt" n="1"/>
+        <role descr="specific attribute of arg1 that's excessive" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,28 @@
+<frameset>
+  <predicate lemma="split">
+    <roleset id="split.01" name="divide, separate">
+      <roles>
+        <role descr="entity causing separation" f="pag" n="0"/>
+        <role descr="thing(s) being divided" f="ppt" n="1"/>
+        <role descr="divided among (resulting/destination groups)" f="gol" n="2"/>
+        <role descr="divided from, if separate from arg1" f="dir" n="3"/>
+        <role descr="subject matter of split" f="vsp" n="4"/>
+      </roles>
+    </roleset>
+    <roleset id="split.02" name="leave, depart">
+      <roles>
+        <role descr="entity leaving" f="ppt" n="0"/>
+        <role descr="place left" f="dir" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="split_up">
+    <roleset id="split_up.03" name="split up">
+      <roles>
+        <role descr="entity causing separation" f="pag" n="0"/>
+        <role descr="thing being divided" f="ppt" n="1"/>
+        <role descr="split up into (the groups)" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

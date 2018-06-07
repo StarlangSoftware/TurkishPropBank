@@ -1,0 +1,18 @@
+<frameset>
+  <predicate lemma="position">
+    <roleset id="position.01" name="put in a particular location, or describe">
+      <roles>
+        <role descr="agent, putter" f="pag" n="0"/>
+        <role descr="thing positioned, often REC" f="ppt" n="1"/>
+        <role descr="location or position, or attribute of arg1" f="gol" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="position.02" name="stance, view, or perspective">
+      <roles>
+        <role descr="viewer, entity taking a stance" f="pag" n="0"/>
+        <role descr="topic, thing opined on" f="ppt" n="1"/>
+        <role descr="stance, opinion, attribute" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

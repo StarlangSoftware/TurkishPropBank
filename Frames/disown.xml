@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="disown">
+    <roleset id="disown.01" name="disclaim relationship to">
+      <roles>
+        <role descr="agent, disowner" f="PAG" n="0"/>
+        <role descr="theme, thing disowned" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,20 @@
+<frameset>
+  <predicate lemma="neaten">
+    <roleset id="neaten.01" name="(cause to) be more orderly, tidy">
+      <roles>
+        <role descr="cause of transformation, agent" f="pag" n="0"/>
+        <role descr="entity now tidy" f="ppt" n="1"/>
+        <role descr="Instrument or Manner if separate from arg 0" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="neaten_up">
+    <roleset id="neaten_up.02" name="(cause to) be more orderly, tidy">
+      <roles>
+        <role descr="cause of transformation, agent" f="pag" n="0"/>
+        <role descr="entity now tidy" f="ppt" n="1"/>
+        <role descr="Instrument or Manner if separate from arg 0" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

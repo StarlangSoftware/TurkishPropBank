@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="cuss">
+    <roleset id="cuss.01" name="swear, use foul language">
+      <roles>
+        <role descr="cusser" f="pag" n="0"/>
+        <role descr="utterance" f="ppt" n="1"/>
+        <role descr="target of cussing" f="GOL" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

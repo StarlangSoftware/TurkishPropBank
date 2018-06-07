@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="polymicrobial">
+    <roleset id="polymicrobial.01" name="relating to multiple species of microbes">
+      <roles>
+        <role descr="polymicrobial thing" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

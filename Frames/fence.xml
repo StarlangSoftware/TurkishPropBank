@@ -1,0 +1,18 @@
+<frameset>
+  <predicate lemma="fence_off">
+    <roleset id="fence_off.01" name="(cause to) be enclosed or blocked out">
+      <roles>
+        <role descr="causal agent" f="pag" n="0"/>
+        <role descr="thing or area being enclosed" f="ppt" n="1"/>
+        <role descr="thing being enclosed from" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="fence">
+    <roleset id="fence.02" name="swashbuckling sport">
+      <roles>
+        <role descr="fencer" f="pag" n="0"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

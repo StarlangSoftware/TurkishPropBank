@@ -1,0 +1,55 @@
+<frameset>
+  <predicate lemma="let">
+    <roleset id="let.01" name="allow">
+      <roles>
+        <role descr="allower" f="pag" n="0"/>
+        <role descr="action allowed" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="let.05" name="to rent or lease">
+      <roles>
+        <role descr="landlord" f="pag" n="0"/>
+        <role descr="thing rented (rooms, etc)" f="ppt" n="1"/>
+        <role descr="renter, recipient of rented thing" f="gol" n="2"/>
+        <role descr="amount of rent charged, rate" f="vsp" n="3"/>
+        <role descr="term of lease, time period" f="tmp" n="4"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="let_on">
+    <roleset id="let_on.02" name="give an indication">
+      <roles>
+        <role descr="giver" f="pag" n="0"/>
+        <role descr="getter" f="gol" n="1"/>
+        <role descr="indication" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="let_up">
+    <roleset id="let_up.03" name="not be so harsh anymore">
+      <roles>
+        <role descr="let uper" f="pag" n="0"/>
+        <role descr="with respect to what?" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="let_down">
+    <roleset id="let_down.04" name="disappoint">
+      <roles>
+        <role descr="Agent, cause of disappointment" f="pag" n="0"/>
+        <role descr="disappointed entity" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="let_out">
+    <roleset id="let_out.06" name="rent or lease">
+      <roles>
+        <role descr="landlord" f="pag" n="0"/>
+        <role descr="thing rented (rooms, etc)" f="ppt" n="1"/>
+        <role descr="renter, recipient of rented thing" f="gol" n="2"/>
+        <role descr="amount of rent charged, rate" f="vsp" n="3"/>
+        <role descr="term of lease, time period" f="vsp" n="4"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

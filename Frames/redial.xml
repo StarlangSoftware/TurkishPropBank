@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="redial">
+    <roleset id="redial.01" name="call on the phone, again">
+      <roles>
+        <role descr="dialer" f="PAG" n="0"/>
+        <role descr="number or entity dialed" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

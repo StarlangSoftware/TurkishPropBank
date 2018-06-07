@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="download">
+    <roleset id="download.01" name="transfer data from one computer to another">
+      <roles>
+        <role descr="downloader, agent" f="pag" n="0"/>
+        <role descr="file or program downloaded" f="ppt" n="1"/>
+        <role descr="storage device, downloaded to where?" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

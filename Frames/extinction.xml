@@ -1,0 +1,18 @@
+<frameset>
+  <predicate lemma="extinction">
+    <roleset id="extinction.01" name="dying off completely">
+      <roles>
+        <role descr="cause of extinction" f="pag" n="0"/>
+        <role descr="thing dying off" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="extinct">
+    <roleset id="extinct.02" name="dying off completely">
+      <roles>
+        <role descr="cause of extinction" f="pag" n="0"/>
+        <role descr="thing dying off" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

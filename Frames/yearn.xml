@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="yearn">
+    <roleset id="yearn.01" name="strongly desire">
+      <roles>
+        <role descr="desirer" f="PPT" n="0"/>
+        <role descr="object of desire" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

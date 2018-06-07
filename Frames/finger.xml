@@ -1,0 +1,23 @@
+<frameset>
+  <predicate lemma="finger">
+    <roleset id="finger.01" name="to touch">
+      <roles>
+        <role descr="toucher, agent" f="pag" n="0"/>
+        <role descr="entity fingered" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="finger.02" name="to locate, find">
+      <roles>
+        <role descr="agent" f="pag" n="0"/>
+        <role descr="entity fingered" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="finger.03" name="to blame">
+      <roles>
+        <role descr="assigner of blame, agent" f="pag" n="0"/>
+        <role descr="entity fingered" f="ppt" n="1"/>
+        <role descr="action fingered for" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

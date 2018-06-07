@@ -1,0 +1,21 @@
+<frameset>
+  <predicate lemma="steam">
+    <roleset id="steam.01" name="cook by applying steam">
+      <roles>
+        <role descr="cook" f="PAG" n="0"/>
+        <role descr="food" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="steam.02" name="emit steam">
+      <roles>
+        <role descr="steamer" f="DIR" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="steam.03" name="manner of motion">
+      <roles>
+        <role descr="entity in motion" f="PAG" n="0"/>
+        <role descr="path" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

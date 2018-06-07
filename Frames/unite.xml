@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="unite">
+    <roleset id="unite.01" name="make into one">
+      <roles>
+        <role descr="uniter, agent" f="PAG" n="0"/>
+        <role descr="(first) thing(s) being unified" f="ppt" n="1"/>
+        <role descr="other things, if separate from arg1" f="ppt" n="2"/>
+        <role descr="unified whole" f="vsp" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

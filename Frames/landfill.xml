@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="landfill">
+    <roleset id="landfill.01" name="to make into a landfill, fill with garbage">
+      <roles>
+        <role descr="agent, causer" f="pag" n="0"/>
+        <role descr="container, area of landfill" f="gol" n="1"/>
+        <role descr="substance, garbage" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

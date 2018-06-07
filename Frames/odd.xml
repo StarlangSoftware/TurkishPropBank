@@ -1,0 +1,14 @@
+<frameset>
+  <predicate lemma="odd">
+    <roleset id="odd.01" name="strange (may require concatenation)">
+      <roles>
+        <role descr="strange entity" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="odd.02" name="of numbers, having one left over, not even">
+      <roles>
+        <role descr="odd numbered entity" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

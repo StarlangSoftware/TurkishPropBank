@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="evaporate">
+    <roleset id="evaporate.01" name="change from liquid to vapor">
+      <roles>
+        <role descr="heat source" f="PAG" n="0"/>
+        <role descr="liquid, now vapor" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

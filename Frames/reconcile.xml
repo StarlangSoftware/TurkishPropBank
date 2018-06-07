@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="reconcile">
+    <roleset id="reconcile.01" name="to accommodate, settle, accept">
+      <roles>
+        <role descr="accommodator, settler, agent" f="pag" n="0"/>
+        <role descr="theme" f="ppt" n="1"/>
+        <role descr="reconciled to/with" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="juxtapose">
+    <roleset id="juxtapose.01" name="to place side by side, side by side placement">
+      <roles>
+        <role descr="entity causing juxtaposition, agent" f="pag" n="0"/>
+        <role descr="entity juxtaposed" f="ppt" n="1"/>
+        <role descr="entity juxtaposed with" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

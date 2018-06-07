@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="hyperextend">
+    <roleset id="hyperextend.01" name="to extend beyond normal range">
+      <roles>
+        <role descr="Agent, hyperextender" f="pag" n="0"/>
+        <role descr="Entity being extended too far in its joint" f="ppt" n="1"/>
+        <role descr="EXT, by how much or until when" f="ext" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

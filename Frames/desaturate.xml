@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="desaturate">
+    <roleset id="desaturate.101" name="decreasing oxygen saturation in hemoglobin">
+      <roles>
+        <role descr="Agent" f="PAG" n="0"/>
+        <role descr="Entity undergoing desaturation" f="PPT" n="1"/>
+        <role descr="Instrument" f="MNR" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

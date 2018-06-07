@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="recent">
+    <roleset id="recent.01" name="having occurred in the near past">
+      <roles>
+        <role descr="recent event" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

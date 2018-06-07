@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="deepfry">
+    <roleset id="deepfry.01" name="cook in hot oil">
+      <roles>
+        <role descr="frier" f="pag" n="0"/>
+        <role descr="fried" f="ppt" n="1"/>
+        <role descr="Instrument of frying" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

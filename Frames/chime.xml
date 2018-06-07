@@ -1,0 +1,16 @@
+<frameset>
+  <predicate lemma="chime">
+    <roleset id="chime.01" name="emit chiming sound">
+      <roles>
+        <role descr="maker of sounds" f="pag" n="0"/>
+      </roles>
+    </roleset>
+    <roleset id="chime.02" name="speak (in addition)">
+      <roles>
+        <role descr="speaker" f="pag" n="0"/>
+        <role descr="utterance" f="ppt" n="1"/>
+        <role descr="listener" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

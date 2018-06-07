@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="mug">
+    <roleset id="mug.01" name="rob">
+      <roles>
+        <role descr="mugger" f="PAG" n="0"/>
+        <role descr="victim" f="ppt" n="1"/>
+        <role descr="what was stolen" f="vsp" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

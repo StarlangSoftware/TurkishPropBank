@@ -1,0 +1,21 @@
+<frameset>
+  <predicate lemma="unsettle">
+    <roleset id="unsettle.01" name="cause anxiety, anxious">
+      <roles>
+        <role descr="causer of anxiety" f="pag" n="0"/>
+        <role descr="anxious entity" f="ppt" n="1"/>
+        <role descr="instrument" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="unsettled">
+    <roleset id="unsettled.02" name="unresolved">
+      <roles>
+        <role descr="agent of resolution" f="pag" n="0"/>
+        <role descr="thing resolved" f="ppt" n="1"/>
+        <role descr="comitative" f="com" n="2"/>
+        <role descr="attribute" f="prd" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

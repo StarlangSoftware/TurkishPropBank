@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="gab">
+    <roleset id="gab.01" name="talk casually">
+      <roles>
+        <role descr="First (or all if in one constituent) gabber" f="PAG" n="0"/>
+        <role descr="gossip about" f="PPT" n="1"/>
+        <role descr="Second gossiper, hearer (when separate constituent)" f="COM" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

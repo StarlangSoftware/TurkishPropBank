@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="cudgel">
+    <roleset id="cudgel.01" name="strike">
+      <roles>
+        <role descr="hitter" f="PAG" n="0"/>
+        <role descr="victim" f="PPT" n="1"/>
+        <role descr="resulting state" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

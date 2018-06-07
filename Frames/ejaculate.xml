@@ -1,0 +1,17 @@
+<frameset>
+  <predicate lemma="ejaculate">
+    <roleset id="ejaculate.01" name="utter suddenly">
+      <roles>
+        <role descr="speaker" f="pag" n="0"/>
+        <role descr="utterance" f="ppt" n="1"/>
+      </roles>
+    
+    </roleset>
+    <roleset id="ejaculate.02" name="orgasming">
+      <roles>
+        <role descr="Experiencer of orgasm" f="pag" n="0"/>
+        <role descr="Cognate object (mention of ejaculate itself)" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

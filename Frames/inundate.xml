@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="inundate">
+    <roleset id="inundate.01" name="to swamp or overwhelm as if with a flood">
+      <roles>
+        <role descr="inundator" f="PAG" n="0"/>
+        <role descr="entity inundated" f="GOL" n="1"/>
+        <role descr="entity inundated with" f="PPT" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

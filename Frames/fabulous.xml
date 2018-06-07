@@ -1,0 +1,22 @@
+<frameset>
+  <predicate lemma="fabulous">
+    <roleset id="fabulous.01" name="generally wonderful">
+      <roles>
+        <role descr="generally fabulous entity (may require concatenation)" f="ppt" n="1"/>
+        <role descr="target of fabulous behavior" f="gol" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="fabulous.02" name="extremely skilled at">
+      <roles>
+        <role descr="skilled entity" f="pag" n="1"/>
+        <role descr="skill" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="fabulous.03" name="extremely beneficial, healthful">
+      <roles>
+        <role descr="beneficial thing" f="ppt" n="1"/>
+        <role descr="beneficiary" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

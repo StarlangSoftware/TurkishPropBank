@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="transfect">
+    <roleset id="transfect.01" name="introduce nucleic acids into a recipient cell" >
+      <roles>
+        <role descr="intentional agent of transfection (e.g. scientist)" f="pag" n="0" />
+        <role descr="recipient of transfection (e.g. cell)" f="ppt" n="1" />
+        <role descr="entity inserted into the cell (e.g. nucleid acid)" f="ppt" n="2" />
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

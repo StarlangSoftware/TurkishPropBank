@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="nulliparous">
+    <roleset id="nulliparous.01" name="not having given birth or laid eggs">
+      <roles>
+        <role descr="entity not having given birth" f="pag" n="0"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

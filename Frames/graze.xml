@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="graze">
+    <roleset id="graze.01" name="(allow to) eat grass">
+      <roles>
+        <role descr="rancher" f="pag" n="0"/>
+        <role descr="cow" f="ppt" n="1"/>
+        <role descr="grass, pasture" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

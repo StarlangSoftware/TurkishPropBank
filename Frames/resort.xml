@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="resort">
+    <roleset id="resort.01" name="last chance, last action/opportunity">
+      <roles>
+        <role descr="entity needing a last chance" f="PPT" n="0"/>
+        <role descr="last chance, resorted to" f="GOL" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

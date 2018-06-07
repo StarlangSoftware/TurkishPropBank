@@ -1,0 +1,19 @@
+<frameset>
+  <predicate lemma="rev">
+    <roleset id="rev.01" name="increase engine's speed">
+      <roles>
+        <role descr="driver" f="pag" n="0"/>
+        <role descr="engine" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="rev_up">
+    <roleset id="rev_up.02" name="same as previous, with particle">
+      <roles>
+        <role descr="driver" f="pag" n="0"/>
+        <role descr="engine" f="ppt" n="1"/>
+        <role descr="further description" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

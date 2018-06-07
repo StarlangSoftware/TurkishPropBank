@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="conciliate">
+    <roleset id="conciliate.01" name="overcome hostility and gain goodwill">
+      <roles>
+        <role descr="cause of conciliation, agent" f="pag" n="0"/>
+        <role descr="entity becoming agreeable" f="ppt" n="1"/>
+        <role descr="instrument, if separate from agent" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

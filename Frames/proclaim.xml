@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="proclaim">
+    <roleset id="proclaim.01" name="to announce officially and publicly">
+      <roles>
+        <role descr="speaker" f="pag" n="0"/>
+        <role descr="utterance" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

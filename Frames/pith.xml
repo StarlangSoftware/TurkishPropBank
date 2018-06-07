@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="pith">
+    <roleset id="pith.01" name="remove stem, sever spinal cord of">
+      <roles>
+        <role descr="pither, agent" f="PAG" n="0"/>
+        <role descr="pithed thing" f="DIR" n="1"/>
+        <role descr="thing removed through pithing (rare)" f="PPT" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

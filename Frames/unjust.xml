@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="unjust">
+    <roleset id="unjust.01" name="unfair">
+      <roles>
+        <role descr="agent of unjust actions" f="pag" n="0"/>
+        <role descr="action/thing that is unfair" f="ppt" n="1"/>
+        <role descr="target of unjust actions" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

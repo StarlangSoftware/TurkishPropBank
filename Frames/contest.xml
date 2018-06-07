@@ -1,0 +1,19 @@
+<frameset>
+  <predicate lemma="contest">
+    <roleset id="contest.01" name="challenge">
+      <roles>
+        <role descr="challenger" f="PAG" n="0"/>
+        <role descr="challenged" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="contest.02" name="competition">
+      <roles>
+        <role descr="challenger" f="PAG" n="0"/>
+        <role descr="challenged" f="ppt" n="1"/>
+        <role descr="domain of challenge, title of contest" f="vsp" n="2"/>
+        <role descr="prize, spoils" f="prp" n="3"/>
+        <role descr="host of contest" f="vsp" n="4"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

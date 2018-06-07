@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="foolish">
+    <roleset id="foolish.01" name="foolish behavior">
+      <roles>
+        <role descr="foolish entity/action (may require concatenation)" f="pag" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

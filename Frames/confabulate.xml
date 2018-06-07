@@ -1,0 +1,17 @@
+<frameset>
+  <predicate lemma="confabulate">
+    <roleset id="confabulate.01" name="chat or confer">
+      <roles>
+        <role descr="Speakers or first speaking partner" f="PAG" n="0"/>
+        <role descr="Second speaking partner" f="COM" n="1"/>
+        <role descr="Confabulated about or on" f="PPT" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="confabulate.02" name="replace an actual memory with a fantasy">
+      <roles>
+        <role descr="Confabulator" f="PAG" n="0"/>
+        <role descr="Memory or thing changed" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

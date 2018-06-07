@@ -1,0 +1,24 @@
+<frameset>
+  <predicate lemma="thrum">
+    <roleset id="thrum.01" name="sound with a monotonous hum">
+      <roles>
+        <role descr="emitter of sound" f="ppt" n="1"/>
+        <role descr="location of sound" f="loc" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="thrum.02" name="strum the strings of a stringed instrument">
+      <roles>
+        <role descr="performer" f="pag" n="0"/>
+        <role descr="chords/melody" f="ppt" n="1"/>
+        <role descr="musical instrument" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="thrum.03" name="make a rythmic sound/motion">
+      <roles>
+        <role descr="causal agent" f="pag" n="0"/>
+        <role descr="thing sounding with thrumming" f="ppt" n="1"/>
+        <role descr="location" f="loc" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

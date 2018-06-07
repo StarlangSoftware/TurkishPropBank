@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="gargle">
+    <roleset id="gargle.01" name="swish liquid to rinse mouth">
+      <roles>
+        <role descr="gargler" f="pag" n="0"/>
+        <role descr="thing  being cleaned" f="ppt" n="1"/>
+        <role descr="cleaning instrument" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

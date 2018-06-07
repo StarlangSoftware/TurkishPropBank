@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="pullback">
+    <roleset id="pullback.08" name="reciprocal force following a push">
+      <roles>
+        <role descr="causal agent" f="pag" n="0"/>
+        <role descr="entity leaving" f="ppt" n="1"/>
+        <role descr="source, place left" f="dir" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

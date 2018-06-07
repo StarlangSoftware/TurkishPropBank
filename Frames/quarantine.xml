@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="quarantine">
+    <roleset id="quarantine.01" name="quarantine">
+      <roles>
+        <role descr="quarantiner, agent" f="PAG" n="0"/>
+        <role descr="thing(s) quarrantined, patient" f="PPT" n="1"/>
+        <role descr="quarrantined from whom" f="GOL" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

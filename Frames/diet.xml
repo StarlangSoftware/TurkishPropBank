@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="diet">
+    <roleset id="diet.01" name="watch what you eat, (restricting one's) food intake, regulating or modifying eating behavior">
+      <roles>
+        <role descr="dieter" f="pag" n="0"/>
+        <role descr="distinguishing characteristic of the diet (ultimately indicates food consumed or avoided)" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="verge">
+    <roleset id="verge.01" name="to approach, come close to">
+      <roles>
+        <role descr="entity verging" f="ppt" n="1"/>
+        <role descr="entity coming close to" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

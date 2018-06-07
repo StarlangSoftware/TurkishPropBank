@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="reopen">
+    <roleset id="reopen.01" name="open, opening again">
+      <roles>
+        <role descr="opener" f="pag" n="0"/>
+        <role descr="thing opening" f="ppt" n="1"/>
+        <role descr="instrument" f="mnr" n="2"/>
+        <role descr="benefactive" f="gol" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

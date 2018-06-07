@@ -1,0 +1,16 @@
+<frameset>
+  <predicate lemma="swoon">
+    <roleset id="swoon.01" name="lose consciousness">
+      <roles>
+        <role descr="fainter" f="PPT" n="0"/>
+        <role descr="Stimulus of fainting" f="PAG" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="swoon.02" name="be in a state of ecstacy">
+      <roles>
+        <role descr="Stimulus of swooning" f="PAG" n="0"/>
+        <role descr="Experiencer, swooner" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

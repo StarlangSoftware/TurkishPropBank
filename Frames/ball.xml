@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="ball">
+    <roleset id="ball.01" name="form into a ball shape">
+      <roles>
+        <role descr="causal agent" f="PAG" n="0"/>
+        <role descr="thing becoming ball-like" f="VSP" n="1"/>
+        <role descr="end state" f="PRD" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,17 @@
+<frameset>
+  <predicate lemma="presume">
+    <roleset id="presume.01" name="to assume, take for granted">
+      <roles>
+        <role descr="agent, entity/act that presumes" f="pag" n="0"/>
+        <role descr="thing presumed" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="presumptuous">
+    <roleset id="presumptuous.02" name="Excessively forward">
+      <roles>
+        <role descr="forward entity or action" f="pag" n="0"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

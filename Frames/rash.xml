@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="rash">
+    <roleset id="rash.01" name="hasty and ill-considered">
+      <roles>
+        <role descr="rash entity/action (may require concatenation" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

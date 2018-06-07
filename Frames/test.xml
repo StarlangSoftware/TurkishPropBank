@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="test">
+    <roleset id="test.01" name="check (for), examine">
+      <roles>
+        <role descr="examiner" f="pag" n="0"/>
+        <role descr="examined" f="loc" n="1"/>
+        <role descr="in search of, for what" f="ppt" n="2"/>
+        <role descr="test result" f="prd" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

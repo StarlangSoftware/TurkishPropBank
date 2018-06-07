@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="parch">
+    <roleset id="parch.01" name="make very very dry">
+      <roles>
+        <role descr="cause of dryness, agent" f="PAG" n="0"/>
+        <role descr="dry thing" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

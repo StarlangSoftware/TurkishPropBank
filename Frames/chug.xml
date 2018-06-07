@@ -1,0 +1,22 @@
+<frameset>
+  <predicate lemma="chug">
+    <roleset id="chug.01" name="make chugging noises">
+      <roles>
+        <role descr="maker of sounds" f="pag" n="0"/>
+      </roles>
+    </roleset>
+    <roleset id="chug.02" name="drink rapidly">
+      <roles>
+        <role descr="drinker" f="pag" n="0"/>
+        <role descr="beverage" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="chug.03" name="move laboriously">
+      <roles>
+        <role descr="thing in motion" f="ppt" n="1"/>
+        <role descr="path; swamp/terrain chugged through" f="dir" n="2"/>
+        <role descr="destination" f="gol" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

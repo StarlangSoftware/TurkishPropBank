@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="indemnify">
+    <roleset id="indemnify.01" name="protect from damage">
+      <roles>
+        <role descr="protector" f="pag" n="0"/>
+        <role descr="protected" f="ppt" n="1"/>
+        <role descr="damage protected from/against" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

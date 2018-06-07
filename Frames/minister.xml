@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="minister">
+    <roleset id="minister.01" name="act as a minister to another">
+      <roles>
+        <role descr="minister" f="pag" n="0"/>
+        <role descr="entity getting advice, ministered" f="ppt" n="1"/>
+        <role descr="area, subject of ministering" f="loc" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

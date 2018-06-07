@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="uncommon">
+    <roleset id="uncommon.01" name="not usual, average or widespread">
+      <roles>
+        <role descr="unusual, rare thing" f="pag" n="1"/>
+        <role descr="entity observing, perceiving arg1 as uncommon" f="adv" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

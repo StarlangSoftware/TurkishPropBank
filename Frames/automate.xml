@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="automate">
+    <roleset id="automate.01" name="to make automatic">
+      <roles>
+        <role descr="causer of automation, agent" f="PAG" n="0"/>
+        <role descr="entity automated" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

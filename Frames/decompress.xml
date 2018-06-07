@@ -1,0 +1,24 @@
+<frameset>
+  <predicate lemma="decompress">
+    <roleset id="decompress.01" name="return data to and uncompressed state">
+      <roles>
+        <role descr="Entity (person, computer or program) doing the decompressing" f="pag" n="0"/>
+        <role descr="file being decompressed" f="ppt" n="1"/>
+        <role descr="tool used in decompression" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="decompress.02" name="reduce the physical pressure in">
+      <roles>
+        <role descr="agent or cause of decompression" f="pag" n="0"/>
+        <role descr="entity in which the pressure is being reduced" f="ppt" n="1"/>
+        <role descr="tool used to aid in decompression" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="decompress.03" name="relax/recover from an affliction">
+      <roles>
+        <role descr="entity recovering from an affliction" f="ppt" n="1"/>
+        <role descr="the affliction" f="pag" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="glom">
+    <roleset id="glom.01" name="fasten by glomming">
+      <roles>
+        <role descr="causer of connection, agent" f="pag" n="0"/>
+        <role descr="first (or all) thing(s) fastened (together)" f="ppt" n="1"/>
+        <role descr="additional thing(s), destination" f="ppt" n="2"/>
+        <role descr="fastener" f="mnr" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

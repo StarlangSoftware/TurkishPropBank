@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="crisis">
+    <roleset id="crisis.01" name="dire situation">
+      <roles>
+        <role descr="nature of the crisis" f="ppt" n="1"/>
+        <role descr="experiencer of crisis" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="preempt">
+    <roleset id="preempt.01" name="act to prevent something">
+      <roles>
+        <role descr="actor" f="pag" n="0"/>
+        <role descr="thing prevented" f="ppt" n="1"/>
+        <role descr="induced action" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

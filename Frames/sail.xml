@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="sail">
+    <roleset id="sail.01" name="to move along, navigate, using the wind to drive a boat">
+      <roles>
+        <role descr="entity sailing" f="PAG" n="0"/>
+        <role descr="vessel" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

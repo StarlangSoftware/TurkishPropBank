@@ -1,0 +1,13 @@
+<frameset>
+  <predicate lemma="upsize">
+    <roleset id="upsize.01" name="increase in size">
+      <roles>
+        <role descr="causer of upsizing" f="pag" n="0"/>
+        <role descr="thing upsizing" f="ppt" n="1"/>
+        <role descr="amount upsized by, EXT or MNR" f="ext" n="2"/>
+        <role descr="start point" f="dir" n="3"/>
+        <role descr="end point" f="prd" n="4"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

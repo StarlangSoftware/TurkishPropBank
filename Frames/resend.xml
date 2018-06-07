@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="resend">
+    <roleset id="resend.01" name="send again">
+      <roles>
+        <role descr="sender" f="pag" n="0"/>
+        <role descr="thing sent" f="ppt" n="1"/>
+        <role descr="sent to" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

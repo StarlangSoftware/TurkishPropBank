@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="bronchodilation">
+    <roleset id="bronchodilation.01" name="dilate teh bronchi and bronchioles">
+      <roles>
+        <role descr="causal agent" f="pag" n="0"/>
+        <role descr="dilated entity" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

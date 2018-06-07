@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="relabel">
+    <roleset id="relabel.01" name="apply a label again">
+      <roles>
+        <role descr="entity applying label" f="pag" n="0"/>
+        <role descr="item being labeled" f="ppt" n="1"/>
+        <role descr="attribute, label itself" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

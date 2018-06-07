@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="handwrite">
+    <roleset id="handwrite.01" name="write by hand">
+      <roles>
+        <role descr="writer" f="pag" n="0"/>
+        <role descr="thing written" f="ppt" n="1"/>
+        <role descr="benefactive" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

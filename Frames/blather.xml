@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="blather">
+    <roleset id="blather.01" name="go on and on, talking nonsensically">
+      <roles>
+        <role descr="blatherer" f="pag" n="0"/>
+        <role descr="utterance" f="ppt" n="1"/>
+        <role descr="audience" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

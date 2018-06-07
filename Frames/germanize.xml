@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="germanize">
+    <roleset id="germanize.01" name="(cause to) be german in character or  language">
+      <roles>
+        <role descr="causer, agent" f="PAG" n="0"/>
+        <role descr="entity germanized" f="PPT" n="1"/>
+        <role descr="instrument" f="MNR" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,19 @@
+<frameset>
+  <predicate lemma="bill">
+    <roleset id="bill.01" name="charge a fee">
+      <roles>
+        <role descr="seller, biller" f="pag" n="0"/>
+        <role descr="asking price, amount of bill" f="vsp" n="1"/>
+        <role descr="buyer, billed" f="gol" n="2"/>
+        <role descr="commodity" f="prp" n="3"/>
+      </roles>
+    </roleset>
+    <roleset id="bill.02" name="describe">
+      <roles>
+        <role descr="describer" f="pag" n="0"/>
+        <role descr="thing described" f="ppt" n="1"/>
+        <role descr="secondary attribute, described-as" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

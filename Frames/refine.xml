@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="refine">
+    <roleset id="refine.01" name="to purify">
+      <roles>
+        <role descr="purifier, agent" f="pag" n="0"/>
+        <role descr="entity refined" f="dir" n="1"/>
+        <role descr="impurities" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

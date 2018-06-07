@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="unconstitutional">
+    <roleset id="unconstitutional.01" name="not adhering to the constitution">
+      <roles>
+        <role descr="thing that does not adhere to the constitution" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

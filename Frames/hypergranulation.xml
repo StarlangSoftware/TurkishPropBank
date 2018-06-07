@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="hypergranulation">
+    <roleset id="hypergranulation.01" name="overproduce granulation tissue">
+      <roles>
+        <role descr="tissue" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

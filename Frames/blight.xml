@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="blight">
+    <roleset id="blight.01" name="to harm or spoil">
+      <roles>
+        <role descr="spoiler (agent only)" f="PAG" n="0"/>
+        <role descr="thing spoiled" f="PPT" n="1"/>
+        <role descr="instrument" f="MNR" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

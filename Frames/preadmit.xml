@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="preadmit">
+    <roleset id="preadmit.01" name="allow to enter early">
+      <roles>
+        <role descr="agent, admitter" f="PAG" n="0"/>
+        <role descr="enterer" f="PPT" n="1"/>
+        <role descr="place entered" f="LOC" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

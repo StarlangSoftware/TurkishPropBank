@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="tetraploid">
+    <roleset id="tetraploid.01" name="having 4 homologous sets of chromosomes">
+      <roles>
+        <role descr="tetraploid cell/nucleus" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

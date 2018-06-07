@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="flirt">
+    <roleset id="flirt.01" name="to deal playfully or superficially">
+      <roles>
+        <role descr="flirt, agent" f="PAG" n="0"/>
+        <role descr="entity flirted with" f="COM" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

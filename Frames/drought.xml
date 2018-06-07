@@ -1,0 +1,13 @@
+<frameset>
+  <predicate lemma="drought">
+    <roleset id="drought.01" name="natural disaster: prolonged water shortage">
+      <roles>
+        <role descr="water in limited supply" f="ppt" n="1"/>
+        <role descr="duration of drought" f="tmp" n="2"/>
+        <role descr="death/injury toll" f="vsp" n="3"/>
+        <role descr="damages/cost" f="vsp" n="4"/>
+        <role descr="drought rating (D1-D5 scale)" f="ext" n="5"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

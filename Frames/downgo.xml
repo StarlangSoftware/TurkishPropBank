@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="downgo">
+    <roleset id="downgo.01" name="go or point downwards">
+      <roles>
+        <role descr="thing falling or pointing down" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

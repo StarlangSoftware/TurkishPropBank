@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="tincture">
+    <roleset id="tincture.01" name="(cause to) tint, tinge, color lightly">
+      <roles>
+        <role descr="causer, agent" f="pag" n="0"/>
+        <role descr="thing tinctured, colored" f="ppt" n="1"/>
+        <role descr="attribute of arg 1" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

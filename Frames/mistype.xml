@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="mistype">
+    <roleset id="mistype.01" name="type incorrectly (on a keyboard/typewriter)">
+      <roles>
+        <role descr="typist" f="pag" n="0"/>
+        <role descr="what was meant to be typed" f="ppt" n="1"/>
+        <role descr="what was actually typed" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

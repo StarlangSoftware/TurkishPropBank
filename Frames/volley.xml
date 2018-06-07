@@ -1,0 +1,18 @@
+<frameset>
+  <predicate lemma="volley">
+    <roleset id="volley.01" name="discharge in rapid bursts">
+      <roles>
+        <role descr="discharger" f="pag" n="0"/>
+        <role descr="thing fired" f="ppt" n="1"/>
+        <role descr="recipient" f="gol" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="volley.02" name="hit or return before it touches the ground">
+      <roles>
+        <role descr="hitter" f="pag" n="0"/>
+        <role descr="thing hit" f="ppt" n="1"/>
+        <role descr="other player" f="com" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

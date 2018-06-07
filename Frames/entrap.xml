@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="entrap">
+    <roleset id="entrap.01" name="to catch in a trap">
+      <roles>
+        <role descr="trapper" f="PAG" n="0"/>
+        <role descr="thing trapped" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,18 @@
+<frameset>
+  <predicate lemma="liable">
+    <roleset id="liable.01" name="accountability sense">
+      <roles>
+        <role descr="legally-bound/liable entity" f="PAG" n="1"/>
+        <role descr="cause of liability" f="PPT" n="2"/>
+        <role descr="potentially required action" f="PRD" n="3"/>
+        <role descr="benefactive" f="GOL" n="4"/>
+      </roles>
+    </roleset>
+    <roleset id="liable.02" name="likeliness sense">
+      <roles>
+        <role descr="predictable entity" f="PPT" n="1"/>
+        <role descr="likely action" f="PPT" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

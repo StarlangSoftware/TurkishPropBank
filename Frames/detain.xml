@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="detain">
+    <roleset id="detain.01" name="to keep in custody or delay">
+      <roles>
+        <role descr="police, etc." f="pag" n="0"/>
+        <role descr="entity detained" f="ppt" n="1"/>
+        <role descr="detained for what?" f="cau" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

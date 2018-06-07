@@ -1,0 +1,119 @@
+<frameset>
+  <predicate lemma="give">
+    <roleset id="give.01" name="transfer">
+      <roles>
+        <role descr="giver" f="pag" n="0"/>
+        <role descr="thing given" f="ppt" n="1"/>
+        <role descr="entity given to" f="gol" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="give.14" name="to be likely to, given to">
+      <roles>
+        <role descr="Person entity likely to do/be a certain way" f="pag" n="1"/>
+        <role descr="Thing which arg1 is likely to do/be" f="prd" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="give.16" name="idiomatic: to care (give a crap, etc)">
+      <roles>
+        <role descr="giver/carer" f="pag" n="0"/>
+        <role descr="crap/shit/poopoo, ect" f="ppt" n="1"/>
+        <role descr="about what" f="vsp" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="give.17" name="yield when pressure is applied">
+      <roles>
+        <role descr="thing yielding" f="pag" n="1"/>
+        <role descr="to what" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="give_away">
+    <roleset id="give_away.02" name="give away: transfer">
+      <roles>
+        <role descr="giver" f="pag" n="0"/>
+        <role descr="thing given" f="ppt" n="1"/>
+        <role descr="entity given to" f="gol" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="give_away.15" name="reveal what something really is">
+      <roles>
+        <role descr="agent, entity revealing true state" f="pag" n="0"/>
+        <role descr="thing revealed, given away" f="ppt" n="1"/>
+        <role descr="audience, truth shown to who?" f="gol" n="2"/>
+        <role descr="what arg1 is revealed to be, true state itself" f="prd" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="give_back">
+    <roleset id="give_back.03" name="give back: return">
+      <roles>
+        <role descr="giver" f="pag" n="0"/>
+        <role descr="thing given" f="ppt" n="1"/>
+        <role descr="entity given to" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="give_off">
+    <roleset id="give_off.04" name="give off: emit">
+      <roles>
+        <role descr="emitter" f="pag" n="0"/>
+        <role descr="thing emit(ted)" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="give_out">
+    <roleset id="give_out.05" name="give out: die">
+      <roles>
+        <role descr="thing dying" f="pag" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="give_out.06" name="give out: distribute">
+      <roles>
+        <role descr="distributor" f="pag" n="0"/>
+        <role descr="thing distributed" f="ppt" n="1"/>
+        <role descr="distributed to" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="give_up">
+    <roleset id="give_up.07" name="give up: abandon">
+      <roles>
+        <role descr="abandoner" f="pag" n="0"/>
+        <role descr="project" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="give_up.08" name="give up: surrender">
+      <roles>
+        <role descr="giver" f="pag" n="0"/>
+        <role descr="gift" f="ppt" n="1"/>
+        <role descr="given-to" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="give_in">
+    <roleset id="give_in.09" name="give in: yield">
+      <roles>
+        <role descr="entity giving way" f="pag" n="0"/>
+        <role descr="entity winning" f="gol" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="give_rise_to">
+    <roleset id="give_rise_to.10" name="be the source of">
+      <roles>
+        <role descr="source of rise" f="pag" n="0"/>
+        <role descr="rise" f="ppt" n="1"/>
+        <role descr="to" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="give_over">
+    <roleset id="give_over.13" name="transfer">
+      <roles>
+        <role descr="giver" f="pag" n="0"/>
+        <role descr="thing given" f="ppt" n="1"/>
+        <role descr="entity or activity given to" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

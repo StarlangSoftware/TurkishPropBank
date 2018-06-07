@@ -1,0 +1,18 @@
+<frameset>
+  <predicate lemma="dirty">
+    <roleset id="dirty.01" name="(cause to) become dirty">
+      <roles>
+        <role descr="agent, cause" f="pag" n="0"/>
+        <role descr="thing dirtied" f="gol" n="1"/>
+        <role descr="dirt" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="dirty.02" name="unclean, infused with dirt">
+      <roles>
+        <role descr="agent, cause of dirtiness" f="pag" n="0"/>
+        <role descr="dirty thing" f="gol" n="1"/>
+        <role descr="dirt itself, with which arg1 becomes dirty" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

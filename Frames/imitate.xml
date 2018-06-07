@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="imitate">
+    <roleset id="imitate.01" name="to use or follow as a model">
+      <roles>
+        <role descr="imitator" f="pag" n="0"/>
+        <role descr="entity imitated" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

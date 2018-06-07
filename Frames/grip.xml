@@ -1,0 +1,20 @@
+<frameset>
+  <predicate lemma="grip">
+    <roleset id="grip.01" name="hold tight, grasp">
+      <roles>
+        <role descr="holder" f="pag" n="0"/>
+        <role descr="thing held" f="ppt" n="1"/>
+        <role descr="benefactive" f="gol" n="2"/>
+        <role descr="secondary attribute of thing held" f="prd" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="get_grip">
+    <roleset id="get_grip.02" name="regain control over one's emotions/mental state, specifically">
+      <roles>
+        <role descr="entity regaining control" f="pag" n="0"/>
+        <role descr="over what" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

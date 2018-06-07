@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="electroplate">
+    <roleset id="electroplate.01" name="plate, cover electronically">
+      <roles>
+        <role descr="causer of electroplating" f="pag" n="0"/>
+        <role descr="thing plated" f="ppt" n="1"/>
+        <role descr="plated with what?" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

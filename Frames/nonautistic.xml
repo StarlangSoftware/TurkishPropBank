@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="nonautistic">
+    <roleset id="nonautistic.01" name="not suffering from autism">
+      <roles>
+        <role descr="non-autistic entity" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,18 @@
+<frameset>
+  <predicate lemma="attain">
+    <roleset id="attain.01" name="to reach or achieve, achievment/acquisition">
+      <roles>
+        <role descr="reacher, agent" f="PAG" n="0"/>
+        <role descr="entity attained" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="attainable">
+    <roleset id="attainable.02" name="to reach or achieve">
+      <roles>
+        <role descr="attainable to whom?  reacher" f="pag" n="0"/>
+        <role descr="attainable thing, reached" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

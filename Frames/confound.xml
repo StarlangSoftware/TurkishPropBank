@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="confound">
+    <roleset id="confound.01" name="confuse">
+      <roles>
+        <role descr="cause, confounder" f="pag" n="0"/>
+        <role descr="experiencer, entity confused" f="ppt" n="1"/>
+        <role descr="instrument" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

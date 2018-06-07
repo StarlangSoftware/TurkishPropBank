@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="magical">
+    <roleset id="magical.01" name="bewitching">
+      <roles>
+        <role descr="magical entity" f="pag" n="0"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

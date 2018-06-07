@@ -1,0 +1,16 @@
+<frameset>
+  <predicate lemma="uninvolved">
+    <roleset id="uninvolved.01" name="not connected, associated, wrapped up in">
+      <roles>
+        <role descr="causer of inclusion" f="pag" n="0"/>
+        <role descr="entity not involved" f="ppt" n="1"/>
+        <role descr="second entity which arg1 is involved with/in/by" f="loc" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="uninvolved.02" name="uncomplicated, not convoluted">
+      <roles>
+        <role descr="uncomplicated thing" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

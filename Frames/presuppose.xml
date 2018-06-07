@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="presuppose">
+    <roleset id="presuppose.01" name="to assume, suppose in advance.">
+      <roles>
+        <role descr="Presupposer" f="PAG" n="0"/>
+        <role descr="Assumption, thing presupposed." f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

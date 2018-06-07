@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="trammel">
+    <roleset id="trammel.01" name="trammel">
+      <roles>
+        <role descr="trammeler, agent" f="PAG" n="0"/>
+        <role descr="entity trammeled, patient" f="PPT" n="1"/>
+        <role descr="trammeled to what, second patient" f="PPT" n="2"/>
+        <role descr="instrument, trammeled with what" f="MNR" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

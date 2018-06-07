@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="farnesylate">
+    <roleset id="farnesylate.01" name=" attach a farnesyl group to a protein">
+      <roles>
+        <role descr="intentional agent of farnesylation (e.g. scientist)" f="pag" n="0" />
+        <role descr="thing farnesylated" f="ppt" n="1" />
+        <role descr="instrument" f="mnr" n="2" />
+        <role descr="result of farnesylation" f="prd" n="3" />
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

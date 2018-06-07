@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="collocate">
+    <roleset id="collocate.01" name="cause to be located side by side, side by side placement">
+      
+      <roles>
+        <role descr="entity causing collocation, agent" f="pag" n="0"/>
+        <role descr="first placed entity" f="ppt" n="1"/>
+        <role descr="placed next to" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

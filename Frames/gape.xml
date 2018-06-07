@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="gape">
+    <roleset id="gape.01" name="look at with mouth open">
+      <roles>
+        <role descr="gaper" f="pag" n="0"/>
+        <role descr="thing looked at" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

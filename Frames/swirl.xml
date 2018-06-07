@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="swirl">
+    <roleset id="swirl.01" name="move in circular fashion">
+      <roles>
+        <role descr="thing in motion" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

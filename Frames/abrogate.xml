@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="abrogate">
+    <roleset id="abrogate.01" name="block a biological process or function">
+      <roles>
+        <role descr="intentional agent of abrogation (e.g. scientist)" f="pag" n="0"/>
+        <role descr="thing abrogated, blocked" f="ppt" n="1"/>
+        <role descr="instrument" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

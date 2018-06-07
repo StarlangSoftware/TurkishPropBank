@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="hypermethylate">
+    <roleset id="hypermethylate.01" name="increase in methyl group to cytosine or adenosine residues in dna">
+      <roles>
+        <role descr="cause of increase" f="pag" n="0"/>
+        <role descr="experiencer/recepient" f="ppt" n="1"/>
+        <role descr="result of epigenetic modification; DNA/protein underexpressed" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

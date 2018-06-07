@@ -1,0 +1,30 @@
+<frameset>
+  <predicate lemma="permit">
+    <roleset id="permit.01" name="permit, let, allow">
+      <roles>
+        <role descr="allower" f="pag" n="0"/>
+        <role descr="action allowed" f="ppt" n="1"/>
+        <role descr="extracted allowed-agent" f="gol" n="2"/>
+      </roles>
+    
+    </roleset>
+  </predicate>
+  <predicate lemma="permissive">
+    <roleset id="permissive.02" name="allowing, accepting">
+      <roles>
+        <role descr="allower" f="pag" n="0"/>
+        <role descr="action, thing allowed" f="ppt" n="1"/>
+        <role descr="extracted allowed-agent" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="permissible">
+    <roleset id="permissible.03" name="allowable">
+      <roles>
+        <role descr="allower" f="pag" n="0"/>
+        <role descr="action, thing allowed" f="ppt" n="1"/>
+        <role descr="extracted allowed-agent" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

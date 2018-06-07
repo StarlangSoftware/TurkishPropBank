@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="congruent">
+    <roleset id="congruent.01" name="coincide or correspond to">
+      <roles>
+        <role descr="first item" f="ppt" n="1"/>
+        <role descr="second item; corresponds to" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

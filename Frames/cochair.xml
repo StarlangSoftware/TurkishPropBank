@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="cochair">
+    <roleset id="cochair.01" name="to preside over as a chairperson with another">
+      <roles>
+        <role descr="Focus, first or plural mention of person/s serving as chair" f="pag" n="0"/>
+        <role descr="institution that arg0 chair/s" f="ppt" n="1"/>
+        <role descr="Second chairperson when separate mention, arg0 chairs with whom?" f="com" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

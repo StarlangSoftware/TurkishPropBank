@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="sore">
+    <roleset id="sore.01" name="tender">
+      <roles>
+        <role descr="causer of soreness" f="pag" n="0"/>
+        <role descr="entity experiencing soreness" f="ppt" n="1"/>
+        <role descr="more specific body part" f="loc" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

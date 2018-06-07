@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="flesh_out">
+    <roleset id="flesh_out.01" name="fill out as with flesh, by the addition of details">
+      <roles>
+        <role descr="agent, cause of fleshing out, planner" f="pag" n="0"/>
+        <role descr="thing now planned more fully" f="ppt" n="1"/>
+        <role descr="source, arg1 is fleshed out from what idea?" f="dir" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="bisect">
+    <roleset id="bisect.01" name="divide into two">
+      <roles>
+        <role descr="agent, cause of division" f="PAG" n="0"/>
+        <role descr="thing divided" f="PPT" n="1"/>
+        <role descr="divider,instrument" f="MNR" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

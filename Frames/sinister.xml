@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="sinister">
+    <roleset id="sinister.01" name="ominous">
+      <roles>
+        <role descr="sisnister entity" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

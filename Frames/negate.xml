@@ -1,0 +1,43 @@
+<frameset>
+  <predicate lemma="negative">
+    <roleset id="negative.01" name="absence of a feature; disconfirmed">
+      <roles>
+        <role descr="test or patient, thing evaluated" f="ppt" n="1"/>
+        <role descr="thing disconfirmed; thing that is absent" f="prd" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="negative.02" name="not desirable, unwanted, bad">
+      <roles>
+        <role descr="cause of badness; undesirable thing" f="pag" n="0"/>
+        <role descr="malefactive; person hurt by negative events or situation" f="gol" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="negative.03" name="express unfavorable sentiment about">
+      <roles>
+        <role descr="entity expressing negative sentiment" f="pag" n="0"/>
+        <role descr="target of negative sentiment/feedback" f="ppt" n="1"/>
+        <role descr="cause of negative feedback, complaint" f="gol" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="negative.05" name="be less than zero; go in a direction opposite of positive">
+      <roles>
+        <role descr="quantity, value or rate which is less than zero" f="ppt" n="1"/>
+        <role descr="domain or property quantified" f="prd" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="negative.06" name="electronegativity; have a surplus of electrons">
+      <roles>
+        <role descr="thing with a negative charge" f="ppt" n="1"/>
+        <role descr="charge itself, extent of negativity" f="ext" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="negate">
+    <roleset id="negate.04" name="make invalid, counteract">
+      <roles>
+        <role descr="causer of invalidity" f="pag" n="0"/>
+        <role descr="thing negated, proposition" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

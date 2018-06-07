@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="dominate">
+    <roleset id="dominate.01" name="surpass, ruling over, be of greater importance or influence">
+      <roles>
+        <role descr="dominator" f="ppt" n="0"/>
+        <role descr="entity dominated" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

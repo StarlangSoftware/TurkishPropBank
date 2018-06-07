@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="restent">
+    <roleset id="restent.01" name="re-insert a stent to prevent closure">
+      <roles>
+        <role descr="inserter" f="pag" n="0"/>
+        <role descr="location" f="loc" n="1"/>
+        <role descr="stent, instrument" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="mop">
+    <roleset id="mop.01" name="clean a surface of liquid, cleaning with a mop">
+      <roles>
+        <role descr="mopper" f="PAG" n="0"/>
+        <role descr="surface (ie, floor)" f="PPT" n="1"/>
+        <role descr="instrument (defaults to 'mop')" f="MNR" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

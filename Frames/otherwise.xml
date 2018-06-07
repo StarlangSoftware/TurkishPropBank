@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="otherwise">
+    <roleset id="otherwise.01" name="be other than as expected">
+      <roles>
+        <role descr="thing that is different" f="ppt" n="1"/>
+        <role descr="extent or manner" f="ext" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

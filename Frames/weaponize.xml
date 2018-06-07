@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="weaponize">
+    <roleset id="weaponize.01" name="provide with weapon component">
+      <roles>
+        <role descr="mad military scientist" f="pag" n="0"/>
+        <role descr="thing turning into a weapon  (including recipient of weapons)" f="ppt" n="1"/>
+        <role descr="end state" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

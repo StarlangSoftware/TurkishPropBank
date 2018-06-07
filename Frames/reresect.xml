@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="reresect">
+    <roleset id="reresect.01" name="return to an area to remove more tissue, resection again">
+      <roles>
+        <role descr="surgeon" f="pag" n="0"/>
+        <role descr="tissue; entity removed" f="ppt" n="1"/>
+        <role descr="removed from" f="dir" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="disrupt">
+    <roleset id="disrupt.01" name="to interrupt, throw into disorder">
+      <roles>
+        <role descr="disrupter, agent" f="PAG" n="0"/>
+        <role descr="entity disrupted" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

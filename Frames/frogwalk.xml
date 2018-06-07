@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="frogwalk">
+    <roleset id="frogwalk.01" name="escort">
+      <roles>
+        <role descr="subject accompanier" f="pag" n="0"/>
+        <role descr="object accompanied" f="ppt" n="1"/>
+        <role descr="start point" f="dir" n="3"/>
+        <role descr="end point" f="gol" n="4"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

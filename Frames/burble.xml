@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="burble">
+    <roleset id="burble.01" name="to speak quickly and excitedly">
+      <roles>
+        <role descr="speaker, agent" f="PAG" n="0"/>
+        <role descr="utterance" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

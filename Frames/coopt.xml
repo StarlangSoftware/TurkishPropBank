@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="coopt">
+    <roleset id="coopt.01" name="choose, elect, or appoint (for a specific task   or purpose)">
+      <roles>
+        <role descr="agent, elector, appointer, ect." f="pag" n="0"/>
+        <role descr="the thing chosen" f="ppt" n="1"/>
+        <role descr="office, task, purpose" f="prp" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

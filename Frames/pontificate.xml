@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="pontificate">
+    <roleset id="pontificate.01" name="talk like the pope">
+      <roles>
+        <role descr="speaker (Pope)" f="pag" n="0"/>
+        <role descr="utterance" f="ppt" n="1"/>
+        <role descr="listener" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

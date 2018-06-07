@@ -1,0 +1,53 @@
+<frameset>
+  <predicate lemma="hit">
+    <roleset id="hit.01" name="strike">
+      <roles>
+        <role descr="agent, hitter - animate only!" f="pag" n="0"/>
+        <role descr="thing hit" f="gol" n="1"/>
+        <role descr="instrument, thing hit by or with" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="hit.02" name="reach, encounter">
+      <roles>
+        <role descr="thing hitting / reaching" f="pag" n="0"/>
+        <role descr="thing hit" f="gol" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="hit.03" name="go to, turn to">
+      <roles>
+        <role descr="entity turning to a new hobby" f="pag" n="0"/>
+        <role descr="thing hit" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="hit.06" name="murder">
+      <roles>
+        <role descr="assassin, agent" f="pag" n="0"/>
+        <role descr="person assassinated" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="hit.07" name="earn points (on exam/competition)">
+      <roles>
+        <role descr="athlete, scorer" f="pag" n="0"/>
+        <role descr="cognate object, points" f="ppt" n="1"/>
+        <role descr="test/game" f="loc" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="hit_on">
+    <roleset id="hit_on.04" name="to make sexual advances">
+      <roles>
+        <role descr="agent" f="pag" n="0"/>
+        <role descr="person hit on" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="hit_up">
+    <roleset id="hit_up.05" name="ask for, request">
+      <roles>
+        <role descr="person making request" f="pag" n="0"/>
+        <role descr="request" f="ppt" n="1"/>
+        <role descr="requested from" f="dir" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

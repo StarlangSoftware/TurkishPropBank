@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="mourn">
+    <roleset id="mourn.01" name="to grieve">
+      <roles>
+        <role descr="griever, agent" f="ppt" n="0"/>
+        <role descr="entity mourning for" f="pag" n="1"/>
+      </roles>
+    
+    </roleset>
+  </predicate>
+</frameset>

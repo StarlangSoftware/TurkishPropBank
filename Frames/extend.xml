@@ -1,0 +1,30 @@
+<frameset>
+  <predicate lemma="extend">
+    <roleset id="extend.01" name="make longer">
+      <roles>
+        <role descr="agent, entity making something be longer" f="pag" n="0"/>
+        <role descr="patient, thing getting longer" f="ppt" n="1"/>
+        <role descr="EXT or TMP, by how much or until when" f="ext" n="2"/>
+        <role descr="start point" f="dir" n="3"/>
+        <role descr="end point" f="gol" n="4"/>
+      </roles>
+    </roleset>
+    <roleset id="extend.02" name="offer">
+      <roles>
+        <role descr="giver, offerer" f="pag" n="0"/>
+        <role descr="thing offered" f="ppt" n="1"/>
+        <role descr="offered-to" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="extensive">
+    <roleset id="extensive.03" name="range or depth of">
+      <roles>
+        <role descr="patient, thing that is extended" f="ppt" n="1"/>
+        <role descr="EXT, degree, by how much" f="ext" n="2"/>
+        <role descr="start point" f="dir" n="3"/>
+        <role descr="end point" f="prd" n="4"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

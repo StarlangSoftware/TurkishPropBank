@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="optional">
+    <roleset id="optional.01" name="left to choice, not required">
+      <roles>
+        <role descr="thing that is not required" f="ppt" n="1"/>
+        <role descr="who, what arg1 is not necessarily required for" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

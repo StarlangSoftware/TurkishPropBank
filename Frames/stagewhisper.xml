@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="stagewhisper">
+    <roleset id="stagewhisper.01" name="whisper loudly so that audience can hear">
+      <roles>
+        <role descr="whisperer" f="pag" n="0"/>
+        <role descr="utterance" f="ppt" n="1"/>
+        <role descr="audience, whispered-to" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

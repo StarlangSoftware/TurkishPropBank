@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="refract">
+    <roleset id="refract.01" name="change direction (of a light beam), block or redirect a light wave">
+      <roles>
+        <role descr="deflector, eye" f="pag" n="0"/>
+        <role descr="thing deflected, light" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

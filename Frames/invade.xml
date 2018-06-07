@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="invade">
+    <roleset id="invade.01" name="enter violently, entering by force">
+      <roles>
+        <role descr="invader" f="PAG" n="0"/>
+        <role descr="place invaded" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

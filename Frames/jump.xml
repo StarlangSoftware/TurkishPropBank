@@ -1,0 +1,58 @@
+<frameset>
+  <predicate lemma="jump">
+    <roleset id="jump.01" name="stock prices, increase">
+      <roles>
+        <role descr="thing jumping" f="ppt" n="1"/>
+        <role descr="EXT, amount jumped by" f="ext" n="2"/>
+        <role descr="start point" f="dir" n="3"/>
+        <role descr="end point or end state of arg1" f="gol" n="4"/>
+      </roles>
+    </roleset>
+    <roleset id="jump.02" name="be excited for an opportunity, getting there first">
+      <roles>
+        <role descr="jumper" f="pag" n="0"/>
+        <role descr="opportunity" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="jump.03" name="physically or metaphorically leap, physical motion">
+      <roles>
+        <role descr="agent of motion" f="pag" n="0"/>
+        <role descr="entity in motion, if in addition to arg0" f="ppt" n="1"/>
+        <role descr="thing jumped over" f="loc" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="jump.06" name="to escape, bail out">
+      <roles>
+        <role descr="entity escaping" f="pag" n="0"/>
+        <role descr="entity escaped from (e.g. bail/trail); or idiomatically     'jump ship'" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="jump.07" name="various idioms">
+      <roles>
+        <role descr="jumper" f="pag" n="0"/>
+        <role descr="idiomatic expression" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="jump.08" name="attack, gangsta style">
+      <roles>
+        <role descr="thug" f="pag" n="0"/>
+        <role descr="victim" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="jump_in">
+    <roleset id="jump_in.04" name="opportunity">
+      <roles>
+        <role descr="jumper" f="pag" n="0"/>
+        <role descr="opportunity" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="jump_up">
+    <roleset id="jump_up.05" name="rise">
+      <roles>
+        <role descr="jumper" f="pag" n="0"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

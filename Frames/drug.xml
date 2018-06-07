@@ -1,0 +1,20 @@
+<frameset>
+  <predicate lemma="drug">
+    <roleset id="drug.01" name="apply pharmaceuticals">
+      <roles>
+        <role descr="applier of drugs" f="pag" n="0"/>
+        <role descr="druggie" f="ppt" n="1"/>
+        <role descr="drug" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="drug_up">
+    <roleset id="drug_up.02" name="completive">
+      <roles>
+        <role descr="drugger" f="pag" n="0"/>
+        <role descr="patient/victim" f="ppt" n="1"/>
+        <role descr="drug" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

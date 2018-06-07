@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="refrain">
+    <roleset id="refrain.01" name="not do some action">
+      <roles>
+        <role descr="non-agent" f="PAG" n="0"/>
+        <role descr="non-action" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

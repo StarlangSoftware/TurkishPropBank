@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="rhyme">
+    <roleset id="rhyme.01" name="find/have a similar syllable nucleus">
+      <roles>
+        <role descr="agent, discoverer of rhyme" f="PAG" n="0"/>
+        <role descr="first or all rhyming words" f="PPT" n="1"/>
+        <role descr="additional, if syntactically separate" f="PPT" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

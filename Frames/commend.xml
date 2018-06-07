@@ -1,0 +1,20 @@
+<frameset>
+  <predicate lemma="commend">
+    <roleset id="commend.01" name="give praise">
+      <roles>
+        <role descr="entity giving praise" f="pag" n="0"/>
+        <role descr="entity being praised" f="ppt" n="1"/>
+        <role descr="praised for what (if in addition to arg1)" f="cau" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="commendable">
+    <roleset id="commendable.02" name="give praise">
+      <roles>
+        <role descr="entity giving praise" f="pag" n="0"/>
+        <role descr="entity being praised" f="ppt" n="1"/>
+        <role descr="praised for what (if in addition to arg1)" f="cau" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

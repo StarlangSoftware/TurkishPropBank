@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="trend">
+    <roleset id="trend.01" name="be part of a trend">
+      <roles>
+        <role descr="theme" f="ppt" n="1"/>
+        <role descr="attribute of arg1" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

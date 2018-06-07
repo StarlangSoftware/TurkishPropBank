@@ -1,0 +1,22 @@
+<frameset>
+  <predicate lemma="positive">
+    <roleset id="positive.01" name="certain">
+      <roles>
+        <role descr="entity who is certain" f="PPT" n="0"/>
+        <role descr="about what" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="positive.02" name="optimistic">
+      <roles>
+        <role descr="stimulus of optimism, generally good thing" f="ppt" n="0"/>
+        <role descr="optimist" f="pag" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="positive.03" name="be confirmed for the presence of (like with a medical test)">
+      <roles>
+        <role descr="possessor, entity taking the test" f="ppt" n="1"/>
+        <role descr="possessed, positive for what" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

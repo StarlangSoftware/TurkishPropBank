@@ -1,0 +1,13 @@
+<frameset>
+  <predicate lemma="redouble">
+    <roleset id="redouble.01" name="rise twofold (again)">
+      <roles>
+        <role descr="causer of increase" f="pag" n="0"/>
+        <role descr="thing increasing, rising" f="ppt" n="1"/>
+        <role descr="EXT, always unmentioned because it's 2x" f="ext" n="2"/>
+        <role descr="start point" f="dir" n="3"/>
+        <role descr="end point" f="gol" n="4"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

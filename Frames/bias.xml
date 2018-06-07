@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="bias">
+    <roleset id="bias.01" name="display a bias">
+      <roles>
+        <role descr="causal agent" f="pag" n="0"/>
+        <role descr="biased entity" f="ppt" n="1"/>
+        <role descr="in favor of" f="gol" n="2"/>
+        <role descr="against" f="vsp" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

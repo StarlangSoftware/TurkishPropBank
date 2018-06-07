@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="welter">
+    <roleset id="welter.01" name="be immersed in, wallow">
+      <roles>
+        <role descr="entity immersed" f="PAG" n="0"/>
+        <role descr="location, immersed in" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

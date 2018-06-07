@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="cake">
+    <roleset id="cake.01" name="to cover or fill with a thick layer">
+      <roles>
+        <role descr="agent, causer" f="pag" n="0"/>
+        <role descr="entity covered" f="gol" n="1"/>
+        <role descr="cover, thick layer of what" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="sanitize">
+    <roleset id="sanitize.01" name="make very very clean">
+      <roles>
+        <role descr="cleaner, agent" f="PAG" n="0"/>
+        <role descr="thing made clean" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

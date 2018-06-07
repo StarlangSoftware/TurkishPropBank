@@ -1,0 +1,17 @@
+<frameset>
+  <predicate lemma="consider">
+    <roleset id="consider.01" name="believe, view, hold as true">
+      <roles>
+        <role descr="thinker" f="pag" n="0"/>
+        <role descr="belief" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="consider.02" name="contemplate an action, possibility, appointment, proposition, etc">
+      <roles>
+        <role descr="agent" f="pag" n="0"/>
+        <role descr="entity under consideration" f="ppt" n="1"/>
+        <role descr="for what/secondary predicate" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="barter">
+    <roleset id="barter.01" name="trade">
+      <roles>
+        <role descr="agent, entity trading" f="pag" n="0"/>
+        <role descr="thing being traded (away)" f="ppt" n="1"/>
+        <role descr="other exchanger" f="com" n="2"/>
+        <role descr="other item in exchange, price, or premium, traded for or at" f="ppt" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

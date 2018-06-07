@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="rockbottom">
+    <roleset id="rockbottom.01" name="having reached the point where things can't get worse">
+      <roles>
+        <role descr="entity hitting rock bottom" f="pag" n="0"/>
+        <role descr="domain of rock-bottomness" f="vsp" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="superpose">
+    <roleset id="superpose.01" name="place on or above something else">
+      <roles>
+        <role descr="agent" f="pag" n="0" />
+        <role descr="entity placed on or above" f="ppt" n="1" />
+        <role descr="entity covered or lower in relation to arg1" f="gol"
+					n="2" />
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

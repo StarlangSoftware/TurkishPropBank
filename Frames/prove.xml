@@ -1,0 +1,20 @@
+<frameset>
+  <predicate lemma="prove">
+    <roleset id="prove.01" name="establish the truth">
+      <roles>
+        <role descr="prover" f="pag" n="0"/>
+        <role descr="proposition" f="PPT" n="1"/>
+        <role descr="benefactive, proved-to" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="proof">
+    <roleset id="proof.02" name="make secure; make impervious to">
+      <roles>
+        <role descr="maker" f="pag" n="0"/>
+        <role descr="thing made impervious" f="gol" n="1"/>
+        <role descr="impervious to what" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

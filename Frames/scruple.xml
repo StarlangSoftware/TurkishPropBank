@@ -1,0 +1,18 @@
+<frameset>
+  <predicate lemma="scruple">
+    <roleset id="scruple.01" name="hesitate or doubt on moral grounds">
+      <roles>
+        <role descr="hesitator" f="PAG" n="0"/>
+        <role descr="hesitating over" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="scrupulous">
+    <roleset id="scrupulous.02" name="meticulous and principled">
+      <roles>
+        <role descr="scrupulous one" f="pag" n="1"/>
+        <role descr="about what, in doing what" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

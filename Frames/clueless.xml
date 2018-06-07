@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="clueless">
+    <roleset id="clueless.01" name="uninformed">
+      <roles>
+        <role descr="entity without a clue" f="pag" n="1"/>
+        <role descr="subject matter arg1 is uninformed about" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

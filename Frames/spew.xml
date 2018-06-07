@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="spew">
+    <roleset id="spew.01" name="to flow or come out">
+      <roles>
+        <role descr="starting point, cause of flow" f="dir" n="0"/>
+        <role descr="entity coming out" f="ppt" n="1"/>
+        <role descr="direction" f="loc" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

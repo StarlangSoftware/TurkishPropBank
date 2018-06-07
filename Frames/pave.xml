@@ -1,0 +1,18 @@
+<frameset>
+  <predicate lemma="pave">
+    <roleset id="pave.01" name="cover a wide flat surface">
+      <roles>
+        <role descr="applier of cover, agent" f="pag" n="0"/>
+        <role descr="surface" f="gol" n="1"/>
+        <role descr="paving material" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="pave.02" name="pave the way: prepare">
+      <roles>
+        <role descr="preparer" f="pag" n="0"/>
+        <role descr="the way" f="ppt" n="1"/>
+        <role descr="for what" f="prp" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

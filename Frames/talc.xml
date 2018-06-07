@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="talc">
+    <roleset id="talc.01" name="talc">
+      <roles>
+        <role descr="agent, talcer" f="pag" n="0"/>
+        <role descr="patient, thing talced" f="ppt" n="1"/>
+        <role descr="end result" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

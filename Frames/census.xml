@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="census">
+    <roleset id="census.01" name="taking a count of a population">
+      <roles>
+        <role descr="counter" f="PAG" n="0"/>
+        <role descr="counted" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

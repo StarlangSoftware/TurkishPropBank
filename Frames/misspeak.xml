@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="misspeak">
+    <roleset id="misspeak.01" name="say incorrectly">
+      <roles>
+        <role descr="speaker" f="pag" n="0"/>
+        <role descr="subject, misspoke about" f="ppt" n="1"/>
+        <role descr="hearer, misspoke to" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,30 @@
+<frameset>
+  <predicate lemma="count">
+    <roleset id="count.01" name="enumerate">
+      <roles>
+        <role descr="counter" f="pag" n="0"/>
+        <role descr="thing counted" f="ppt" n="1"/>
+        <role descr="Count itself (measure, amount, extent)" f="prd" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="count.02" name="include">
+      <roles>
+        <role descr="agent, entity causing some grouping" f="pag" n="0"/>
+        <role descr="theme, thing being included in some group" f="ppt" n="1"/>
+        <role descr="group" f="prd" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="count.03" name="rely, depend">
+      <roles>
+        <role descr="depender" f="pag" n="0"/>
+        <role descr="depended on" f="ppt" n="1"/>
+        <role descr="secondary predication on arg1" f="prd" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="count.04" name="matter">
+      <roles>
+        <role descr="important thing" f="pag" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

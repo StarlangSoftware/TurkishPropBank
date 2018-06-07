@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="backfire">
+    <roleset id="backfire.01" name="have a bad result">
+      <roles>
+        <role descr="thing with bad result" f="ppt" n="1"/>
+        <role descr="'benefactive'" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

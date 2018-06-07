@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="overread">
+    <roleset id="overread.01" name="read again more closely, interperate to a greater degree">
+      <roles>
+        <role descr="reader" f="pag" n="0"/>
+        <role descr="thing read" f="ppt" n="1"/>
+        <role descr="predication, read as" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="crumble">
+    <roleset id="crumble.01" name="cause to be in little pieces">
+      <roles>
+        <role descr="causer of crumbling" f="PAG" n="0"/>
+        <role descr="thing crumbling" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

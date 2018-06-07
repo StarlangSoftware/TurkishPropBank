@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="reset">
+    <roleset id="reset.01" name="return to start value">
+      <roles>
+        <role descr="resetter" f="pag" n="0"/>
+        <role descr="thing being reset" f="ppt" n="1"/>
+        <role descr="value" f="vsp" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

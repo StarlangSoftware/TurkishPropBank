@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="advantageous">
+    <roleset id="advantageous.01" name="providing advantage">
+      <roles>
+        <role descr="thing that provides advantage" f="ppt" n="1"/>
+        <role descr="advantageous for/to whom/what?" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,18 @@
+<frameset>
+  <predicate lemma="expire">
+    <roleset id="expire.01" name="get to end of valid time period">
+      <roles>
+        <role descr="commodity, thing expiring" f="ppt" n="1"/>
+        <role descr="expiration date" f="tmp" n="m"/>
+      </roles>
+    </roleset>
+    <roleset id="expire.02" name="exhalation">
+      <roles>
+        <role descr="Exhaler" f="pag" n="0">
+</role>
+        <role descr="Air exhaled" f="ppt" n="1">
+</role>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

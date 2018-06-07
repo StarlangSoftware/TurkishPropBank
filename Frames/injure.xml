@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="injure">
+    <roleset id="injure.01" name="cause hurt, cause/experience hurt, damaged, hurt">
+      <roles>
+        <role descr="agent, entity causing/possessing arg1's injury " f="ppt" n="0"/>
+        <role descr="injured entity (body part if arg0 is possessor)" f="ppt" n="1"/>
+        <role descr="instrument, injured doing what" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

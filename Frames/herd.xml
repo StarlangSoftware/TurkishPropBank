@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="herd">
+    <roleset id="herd.01" name="put into a group">
+      <roles>
+        <role descr="agent, entity causing some grouping" f="pag" n="0"/>
+        <role descr="theme, thing being included in some group" f="ppt" n="1"/>
+        <role descr="group" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

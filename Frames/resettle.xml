@@ -1,0 +1,13 @@
+<frameset>
+  <predicate lemma="resettle">
+    <roleset id="resettle.01" name="come to rest again">
+      <roles>
+        <role descr="entity causing something to settle again" f="pag" n="0"/>
+        <role descr="commodity or stock, thing resettling" f="ppt" n="1"/>
+        <role descr="EXT, amount declined by" f="ext" n="2"/>
+        <role descr="start point" f="dir" n="3"/>
+        <role descr="end point" f="gol" n="4"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

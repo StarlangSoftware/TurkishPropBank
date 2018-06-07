@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="vital">
+    <roleset id="vital.01" name="crucial, critical">
+      <roles>
+        <role descr="critical thing" f="pag" n="1"/>
+        <role descr="critical to/for what" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

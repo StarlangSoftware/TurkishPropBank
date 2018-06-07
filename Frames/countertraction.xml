@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="countertraction">
+    <roleset id="countertraction.01" name="traction opposed to another traction, used in reduction of fractures">
+      <roles>
+        <role descr="Docter performing countertraction" f="PAG" n="0"/>
+        <role descr="Entity countertraction is applied to" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

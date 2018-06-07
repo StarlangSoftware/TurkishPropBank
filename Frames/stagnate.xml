@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="stagnate">
+    <roleset id="stagnate.01" name="stagnate, ">
+      <roles>
+        <role descr="thing stagnating" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="upload">
+    <roleset id="upload.01" name="to transfer data">
+      <roles>
+        <role descr="agent, uploader" f="pag" n="0"/>
+        <role descr="data, thing uploaded" f="ppt" n="1"/>
+        <role descr="patient, uploaded to what" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

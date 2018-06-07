@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="salve">
+    <roleset id="salve.01" name="sooth">
+      <roles>
+        <role descr="salve, thing that makes the pain go away" f="PAG" n="0"/>
+        <role descr="hurt, injury" f="GOL" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

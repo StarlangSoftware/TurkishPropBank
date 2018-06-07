@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="threaten">
+    <roleset id="threaten.01" name="threaten">
+      <roles>
+        <role descr="agent, entity making a threat" f="pag" n="0"/>
+        <role descr="threat" f="ppt" n="1"/>
+        <role descr="'benefactive', entity threatened" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

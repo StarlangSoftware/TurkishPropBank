@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="upstroke">
+    <roleset id="upstroke.01" name="characteristic of the upwards motion of a piston">
+      <roles>
+        <role descr="thing that occurs on the upwards stroke" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

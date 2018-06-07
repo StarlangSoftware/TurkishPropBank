@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="overtop">
+    <roleset id="overtop.01" name="surpass">
+      <roles>
+        <role descr="surpasser" f="pag" n="0"/>
+        <role descr="surpassed" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

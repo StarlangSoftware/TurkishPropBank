@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="restrain">
+    <roleset id="restrain.01" name="stop, prevent, holding back">
+      <roles>
+        <role descr="agent" f="pag" n="0"/>
+        <role descr="thing being restrained" f="ppt" n="1"/>
+        <role descr="what arg1 is restrained from" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

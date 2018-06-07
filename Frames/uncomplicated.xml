@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="uncomplicated">
+    <roleset id="uncomplicated.01" name="straight-forward">
+      <roles>
+        <role descr="causer of non-complication" f="pag" n="0"/>
+        <role descr="uncomplicated thing" f="ppt" n="1"/>
+        <role descr="entity not experiencing complication" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

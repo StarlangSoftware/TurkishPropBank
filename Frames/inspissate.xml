@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="inspissate">
+    <roleset id="inspissate.01" name="thicken">
+      <roles>
+        <role descr="Person making something thicker" f="PAG" n="0"/>
+        <role descr="Thing made thicker" f="PPT" n="1"/>
+        <role descr="Thickening ingredient or process used to make thick" f="MNR" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

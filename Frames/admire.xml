@@ -1,0 +1,18 @@
+<frameset>
+  <predicate lemma="admire">
+    <roleset id="admire.01" name="admire">
+      <roles>
+        <role descr="admirer" f="ppt" n="0"/>
+        <role descr="admired" f="pag" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="admirable">
+    <roleset id="admirable.02" name="worthy of admiring">
+      <roles>
+        <role descr="admirer" f="pag" n="0"/>
+        <role descr="target of admiration" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

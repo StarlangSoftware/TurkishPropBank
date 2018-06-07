@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="peruse">
+    <roleset id="peruse.01" name="examine idly">
+      <roles>
+        <role descr="examiner, agent" f="PPT" n="0"/>
+        <role descr="thing perused" f="PAG" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

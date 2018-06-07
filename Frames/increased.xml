@@ -1,0 +1,14 @@
+<frameset>
+  <predicate lemma="increased">
+    <roleset id="increased.01" name="go up incrementally">
+      <roles>
+        
+        <role descr="causer of increase" f="pag" n="0"/>
+        <role descr="thing increasing" f="ppt" n="1"/>
+        <role descr="amount increased by, EXT or MNR" f="ext" n="2"/>
+        <role descr="start point" f="dir" n="3"/>
+        <role descr="end point" f="gol" n="4"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

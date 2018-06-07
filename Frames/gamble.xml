@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="gamble">
+    <roleset id="gamble.01" name="to take a risk for a chance at better returns, to take a risk, taking a risk with">
+      <roles>
+        <role descr="gambler" f="pag" n="0"/>
+        <role descr="the stakes (money, etc.)" f="ppt" n="1"/>
+        <role descr="thing bet on" f="prp" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

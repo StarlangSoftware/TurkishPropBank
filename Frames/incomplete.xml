@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="incomplete">
+    <roleset id="incomplete.01" name="not finished">
+      <roles>
+        <role descr="incomplete thing" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

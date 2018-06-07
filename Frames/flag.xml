@@ -1,0 +1,20 @@
+<frameset>
+  <predicate lemma="flag">
+    <roleset id="flag.01" name="go down, esp of financial usage">
+      <roles>
+        <role descr="entity doing the dropping" f="pag" n="0"/>
+        <role descr="Logical subject, patient, thing falling" f="ppt" n="1"/>
+        <role descr="EXT, amount fallen" f="ext" n="2"/>
+        <role descr="start point" f="dir" n="3"/>
+        <role descr="end point, end state of arg1" f="prd" n="4"/>
+        <role descr="medium" f="loc" n="m"/>
+      </roles>
+    </roleset>
+    <roleset id="flag.02" name="signal">
+      <roles>
+        <role descr="signaler" f="pag" n="0"/>
+        <role descr="signaled" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

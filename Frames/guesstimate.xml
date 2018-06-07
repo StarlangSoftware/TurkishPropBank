@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="guesstimate">
+    <roleset id="guesstimate.01" name="estimate">
+      <roles>
+        <role descr="estimater" f="pag" n="0"/>
+        <role descr="thing estimated" f="ppt" n="1"/>
+        <role descr="value/amount of guesstimation" f="vsp" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

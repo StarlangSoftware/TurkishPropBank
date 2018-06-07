@@ -1,0 +1,61 @@
+<frameset>
+  <predicate lemma="live">
+    <roleset id="live.01" name="not be dead, being alive, exist in some manner or for some length of time, alive">
+      <roles>
+        <role descr="alive entity" f="pag" n="0"/>
+        <role descr="life" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="live.02" name="endure">
+      <roles>
+        <role descr="endurer, sufferer" f="pag" n="0"/>
+        <role descr="malady" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="live.08" name="being broadcast in real time">
+      <roles>
+        <role descr="entity being broadcast in real time" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="live_down">
+    <roleset id="live_down.06" name="withstand an incident until others forget, ">
+      <roles>
+        <role descr="agent, one who withstands" f="pag" n="0"/>
+        <role descr="incident, crime, impression" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="live_on">
+    <roleset id="live_on.03" name="continue">
+      <roles>
+        <role descr="thing continuing" f="ppt" n="1"/>
+        <role descr="comitative: group, things kept together" f="com" n="2"/>
+        <role descr="attributive" f="prd" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="live_up">
+    <roleset id="live_up.04" name="fulfill">
+      <roles>
+        <role descr="fulfiller" f="pag" n="0"/>
+        <role descr="fulfilled" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="live_out">
+    <roleset id="live_out.05" name="live to the end/completion">
+      <roles>
+        <role descr="alive entity" f="pag" n="0"/>
+        <role descr="life" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="livable">
+    <roleset id="livable.07" name="suitable to be lived in">
+      <roles>
+        <role descr="place that is suitable to be lived in" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

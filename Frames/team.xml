@@ -1,0 +1,20 @@
+<frameset>
+  <predicate lemma="team">
+    <roleset id="team.01" name="(cause to) be on a team">
+      <roles>
+        <role descr="agent, entity causing some grouping" f="pag" n="0"/>
+        <role descr="theme, thing being included in some group" f="ppt" n="1"/>
+        <role descr="group, associated-with" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="team_up">
+    <roleset id="team_up.02" name="(cause to) be on a team">
+      <roles>
+        <role descr="agent, entity causing some groupin" f="CAU" n="0"/>
+        <role descr="first (or all if in one mention) thing being included in some group" f="PAG" n="1"/>
+        <role descr="group, associated-with" f="COM" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

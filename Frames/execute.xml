@@ -1,0 +1,19 @@
+<frameset>
+  <predicate lemma="execute">
+    <roleset id="execute.01" name="kill">
+      <roles>
+        <role descr="killer" f="pag" n="0"/>
+        <role descr="corpse" f="ppt" n="1"/>
+        <role descr="instrument" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="execute.02" name="enact">
+      <roles>
+        <role descr="agent, doer" f="pag" n="0"/>
+        <role descr="thing done" f="ppt" n="1"/>
+        <role descr="benefactive, done for or about" f="gol" n="2"/>
+        <role descr="instrumental" f="mnr" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

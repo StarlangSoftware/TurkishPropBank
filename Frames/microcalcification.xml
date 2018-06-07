@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="microcalcification">
+    <roleset id="microcalcification.01" name="become stone-like (but so small the naked eye cannot see)">
+      <roles>
+        <role descr="causal agent" f="pag" n="0"/>
+        <role descr="thing calcifying" f="ppt" n="1"/>
+        <role descr="instrument or method" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

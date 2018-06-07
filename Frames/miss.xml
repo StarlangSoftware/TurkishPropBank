@@ -1,0 +1,25 @@
+<frameset>
+  <predicate lemma="miss">
+    <roleset id="miss.01" name="long for, be lacking, absence noted with sadness">
+      <roles>
+        <role descr="misser, entity/plac/source that lacks arg1" f="pag" n="0"/>
+        <role descr="thing longed for, thing lacking" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="miss.02" name="not hit, skip, passed over">
+      <roles>
+        <role descr="misser" f="pag" n="0"/>
+        <role descr="missed" f="ppt" n="1"/>
+        <role descr="instrument" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="miss_out">
+    <roleset id="miss_out.03" name="miss out: completely miss">
+      <roles>
+        <role descr="entity missing something" f="pag" n="0"/>
+        <role descr="thing missed" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,16 @@
+<frameset>
+  <predicate lemma="rest">
+    <roleset id="rest.01" name="to be or place in a resting position">
+      <roles>
+        <role descr="agent, causer" f="pag" n="0"/>
+        <role descr="entity resting" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="rest.02" name="to rely on, be imposed or vested">
+      <roles>
+        <role descr="relier, entity resting" f="pag" n="1"/>
+        <role descr="rest with/on" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

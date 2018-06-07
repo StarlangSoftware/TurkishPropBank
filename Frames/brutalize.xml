@@ -1,0 +1,21 @@
+<frameset>
+  <predicate lemma="brutalize">
+    <roleset id="brutalize.01" name="treat in a brutal way">
+      <roles>
+        <role descr="agent, brutalizer" f="pag" n="0"/>
+        <role descr="entity brutalized, mistreated" f="ppt" n="1"/>
+        <role descr="instrument of brutalization" f="mnr" n="2"/>
+        <role descr="resulting state of brutalization, predication on arg 1" f="prd" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="brutal">
+    <roleset id="brutal.02" name="barbarous, unrelenting">
+      <roles>
+        <role descr="agent of brutal behavior" f="pag" n="0"/>
+        <role descr="brutal action/behavior" f="ppt" n="1"/>
+        <role descr="affected entity, target of brutality" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

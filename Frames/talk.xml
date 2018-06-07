@@ -1,0 +1,27 @@
+<frameset>
+  <predicate lemma="talk">
+    <roleset id="talk.01" name="speak">
+      <roles>
+        <role descr="talker" f="pag" n="0"/>
+        <role descr="subject" f="ppt" n="1"/>
+        <role descr="hearer" f="gol" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="talk.02" name="persuade / dissuade; talk into or out of">
+      <roles>
+        <role descr="talker" f="pag" n="0"/>
+        <role descr="talked to" f="ppt" n="1"/>
+        <role descr="secondary action" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="talk_out">
+    <roleset id="talk_out.03" name="talk it out: talk to the point of resolution">
+      <roles>
+        <role descr="talker" f="pag" n="0"/>
+        <role descr="topic of discussion" f="ppt" n="1"/>
+        <role descr="other party involved in discussion" f="com" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

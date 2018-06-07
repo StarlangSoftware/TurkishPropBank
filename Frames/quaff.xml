@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="quaff">
+    <roleset id="quaff.01" name="quaff">
+      <roles>
+        <role descr="quaffer/drinker, agent" f="PAG" n="0"/>
+        <role descr="thing quaffed, patient" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

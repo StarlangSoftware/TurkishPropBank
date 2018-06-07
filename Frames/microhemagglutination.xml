@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="microhemagglutination">
+    <roleset id="microhemagglutination.01" name="small scale agglutination of red blood cells">
+      <roles>
+        <role descr="Cause of hemagglutination" f="pag" n="0"/>
+        <role descr="Agglutinated entity, explicit mention of red blood cells" f="ppt" n="1"/>
+        <role descr="Instrument" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

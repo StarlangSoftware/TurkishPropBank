@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="weird">
+    <roleset id="weird.01" name="strange">
+      <roles>
+        <role descr="weird thing/action (may require concatenation" f="pag" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

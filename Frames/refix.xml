@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="refix">
+    <roleset id="refix.01" name="prepare, fix again">
+      <roles>
+        <role descr="agent, fixer" f="pag" n="0"/>
+        <role descr="thing fixed again" f="ppt" n="1"/>
+        <role descr="benefactive" f="gol" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

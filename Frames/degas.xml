@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="degas">
+    <roleset id="degas.01" name="remove gas">
+      <roles>
+        <role descr="remover" f="PAG" n="0"/>
+        <role descr="degassed thing" f="DIR" n="1"/>
+        <role descr="gas, thing removed" f="PPT" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

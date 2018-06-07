@@ -1,0 +1,18 @@
+<frameset>
+  <predicate lemma="beautify">
+    <roleset id="beautify.01" name="make beautiful">
+      <roles>
+        <role descr="decorator, agent" f="PAG" n="0"/>
+        <role descr="entity adorned" f="PPT" n="1"/>
+        <role descr="decoration;instrument" f="MNR" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="beautiful">
+    <roleset id="beautiful.02" name="aesthetically/sensorially pleasing">
+      <roles>
+        <role descr="beautiful thing" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

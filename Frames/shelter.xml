@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="shelter">
+    <roleset id="shelter.01" name="put/be in a shelter">
+      <roles>
+        <role descr="agent, putter in shelter" f="pag" n="0"/>
+        <role descr="thing in shelter (if separate from arg0)" f="ppt" n="1"/>
+        <role descr="shelter" f="loc" n="2"/>
+        <role descr="danger, sheltered from" f="cau" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="reply">
+    <roleset id="reply.01" name="say in response, response">
+      <roles>
+        <role descr="replier" f="pag" n="0"/>
+        <role descr="in response to" f="gol" n="1"/>
+        <role descr="answer" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

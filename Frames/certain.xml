@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="certain">
+    <roleset id="certain.01" name="be sure of">
+      <roles>
+        <role descr="sure entity" f="pag" n="0"/>
+        <role descr="sure of what?" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

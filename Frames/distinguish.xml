@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="distinguish">
+    <roleset id="distinguish.01" name="separate, divide">
+      <roles>
+        
+        <role descr="entity causing separation" f="pag" n="0"/>
+        <role descr="thing(s) being divided" f="ppt" n="1"/>
+        <role descr="source, separated from, if separate from arg1" f="dir" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

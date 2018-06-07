@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="bodyslam">
+    <roleset id="bodyslam.01" name="name">
+      <roles>
+        <role descr="slammer of bodies" f="pag" n="0"/>
+        <role descr="entity whose body is slammed" f="ppt" n="1"/>
+        <role descr="destination" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="rupture">
+    <roleset id="rupture.01" name="break a long skinny   fluid container">
+      <roles>
+        <role descr="causer of breakage" f="pag" n="0"/>
+        <role descr="container" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

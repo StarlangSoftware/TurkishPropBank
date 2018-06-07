@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="male">
+    <roleset id="male.01" name="having male reproductive parts or characteristics">
+      <roles>
+        <role descr="entity having        male characteristics" f="pag" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

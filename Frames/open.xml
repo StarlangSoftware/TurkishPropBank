@@ -1,0 +1,70 @@
+<frameset>
+  <predicate lemma="open">
+    <roleset id="open.01" name="(cause to) become open; change of state, free for passage/entry">
+      <roles>
+        <role descr="opener" f="pag" n="0"/>
+        <role descr="thing opening" f="ppt" n="1"/>
+        <role descr="instrument" f="mnr" n="2"/>
+        <role descr="benefactive" f="gol" n="3"/>
+      </roles>
+    </roleset>
+    <roleset id="open.02" name="begin">
+      <roles>
+        <role descr="agent, causer of opening" f="pag" n="0"/>
+        <role descr="thing opening" f="ppt" n="1"/>
+        <role descr="up, down, or unchanged" f="mnr" n="m"/>
+        <role descr="start point" f="ext" n="m"/>
+      </roles>
+    </roleset>
+    <roleset id="open.04" name="freely giving of info, feelings, free to be seen">
+      <roles>
+        <role descr="giver, open one" f="pag" n="0"/>
+        <role descr="info, feelings, etc" f="ppt" n="1"/>
+        <role descr="recipient" f="gol" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="open.05" name="open-minded, freely accepting of input">
+      <roles>
+        <role descr="open-minded, accepting one" f="pag" n="1"/>
+        <role descr="input accepted" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="open.06" name="spacious, unenclosed">
+      <roles>
+        <role descr="spacious place" f="ppt" n="1"/>
+        <role descr="space accessed  (open to what space)" f="loc" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="open.07" name="available">
+      <roles>
+        <role descr="thing that is available" f="ppt" n="1"/>
+        <role descr="available for what action" f="vsp" n="2"/>
+        <role descr="available to whom" f="gol" n="3"/>
+      </roles>
+    </roleset>
+    <roleset id="open.08" name="vulnerable/subject to, exposed">
+      <roles>
+        <role descr="vulnerable thing" f="pag" n="1"/>
+        <role descr="vulnerable to what" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="open.09" name="free for passage, entry">
+      <roles>
+        <role descr="agent/causer of opening" f="pag" n="0"/>
+        <role descr="thing/place open for passage/entry (door, business, etc)" f="ppt" n="1"/>
+        <role descr="instrument" f="mnr" n="2"/>
+        <role descr="benefactive; entity free to enter/pass" f="gol" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="open_up">
+    <roleset id="open_up.03" name="cause to be not closed, complete opening">
+      <roles>
+        <role descr="opener" f="pag" n="0"/>
+        <role descr="thing opening" f="ppt" n="1"/>
+        <role descr="instrument" f="mnr" n="2"/>
+        <role descr="benefactive" f="gol" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

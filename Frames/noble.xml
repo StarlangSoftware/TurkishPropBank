@@ -1,0 +1,15 @@
+<frameset>
+  <predicate lemma="noble">
+    <roleset id="noble.01" name="elevated or high in appearance or character">
+      <roles>
+        <role descr="noble entity" f="ppt" n="1"/>
+        <role descr="beneficiary" f="gol" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="noble.02" name="impossing, impressive">
+      <roles>
+        <role descr="impressive entity" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

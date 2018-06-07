@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="pleomorphic">
+    <roleset id="pleomorphic.01" name="having at least 2 structural forms during a life cycle">
+      <roles>
+        <role descr="pleomorphic entity" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="disgust">
+    <roleset id="disgust.01" name="to sicken or repel, causing disgust">
+      <roles>
+        <role descr="Stimulus" f="pag" n="0"/>
+        <role descr="experiencer" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="place">
+    <roleset id="place.01" name="location, put in a location">
+      <roles>
+        <role descr="putter" f="PAG" n="0"/>
+        <role descr="thing put" f="PPT" n="1"/>
+        <role descr="where put" f="GOL" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

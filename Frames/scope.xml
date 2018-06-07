@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="scope">
+    <roleset id="scope.101" name="to examine using some kind of scoping tool">
+      <roles>
+        <role descr="Examiner" f="pag" n="0"/>
+        <role descr="Examined" f="loc" n="1"/>
+        <role descr="Thing examined for" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

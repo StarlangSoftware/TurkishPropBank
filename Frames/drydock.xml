@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="drydock">
+    <roleset id="drydock.01" name="to store a ship out of water">
+      <roles>
+        <role descr="docker" f="PAG" n="0"/>
+        <role descr="docked (boat)" f="PPT" n="1"/>
+        <role descr="drydock, location" f="GOL" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

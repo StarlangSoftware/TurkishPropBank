@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="debauch">
+    <roleset id="debauch.01" name="to morally corrupt">
+      <roles>
+        <role descr="causer of corruption" f="pag" n="0"/>
+        <role descr="entity corrupted" f="ppt" n="1"/>
+        <role descr="corrupted with what? instrument if separate from arg 0 (unlikely)" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,16 @@
+<frameset>
+  <predicate lemma="prickle">
+    <roleset id="prickle.01" name="cause a tingling sensation">
+      <roles>
+        <role descr="Cause of tingling sensation" f="PAG" n="0"/>
+        <role descr="Thing tingling" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="prickle.02" name="make a small hole in">
+      <roles>
+        <role descr="Needle or maker of hole" f="PAG" n="0"/>
+        <role descr="thing pricked" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

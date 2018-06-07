@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="edentulous">
+    <roleset id="edentulous.01" name="having no teeth">
+      <roles>
+        <role descr="toothless entity" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

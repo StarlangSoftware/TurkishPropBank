@@ -1,0 +1,13 @@
+<frameset>
+  <predicate lemma="adjust">
+    <roleset id="adjust.01" name="change (slightly)">
+      <roles>
+        <role descr="causer of transformation" f="pag" n="0"/>
+        <role descr="thing changing" f="ppt" n="1"/>
+        <role descr="adjusted to; goal state; outside situation that arg1 is wanted to match" f="gol" n="2"/>
+        <role descr="start state" f="dir" n="3"/>
+        <role descr="purpose, reason for adjustment" f="prp" n="4"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

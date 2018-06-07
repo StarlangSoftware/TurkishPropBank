@@ -1,0 +1,16 @@
+<frameset>
+  <predicate lemma="patent">
+    <roleset id="patent.01" name="to obtain a patent for">
+      <roles>
+        <role descr="holder of patent" f="pag" n="0"/>
+        <role descr="invention" f="ppt" n="1"/>
+        <role descr="inventor, if separate from arg0" f="com" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="patent.02" name="be free or clear of, open">
+      <roles>
+        <role descr="entity that is free of debris" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

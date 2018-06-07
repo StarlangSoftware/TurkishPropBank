@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="aggravate">
+    <roleset id="aggravate.01" name="make angry or worse, anger-inducing, worsening">
+      <roles>
+        <role descr="stimulus" f="pag" n="0"/>
+        <role descr="thing getting angry or getting worse" f="ppt" n="1"/>
+        <role descr="instrument, if separate from arg0" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

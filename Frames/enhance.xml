@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="enhance">
+    <roleset id="enhance.01" name="make seem greater">
+      <roles>
+        <role descr="causer of greatness, agent" f="pag" n="0"/>
+        <role descr="thing enhanced" f="ppt" n="1"/>
+        <role descr="instrument" f="mnr" n="2"/>
+        <role descr="enhanced by how much" f="ext" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

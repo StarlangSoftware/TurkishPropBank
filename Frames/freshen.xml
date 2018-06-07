@@ -1,0 +1,36 @@
+<frameset>
+  <predicate lemma="freshen">
+    <roleset id="freshen.01" name="(cause to be) new, vital, unadulterated">
+      <roles>
+        <role descr="the fresh-maker, causer of freshness" f="pag" n="0"/>
+        <role descr="fresh entity" f="ppt" n="1"/>
+        <role descr="Instrument or Manner if separate from arg 0" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="freshen_up">
+    <roleset id="freshen_up.02" name="to make fresh, revive">
+      <roles>
+        <role descr="the fresh-maker, agent" f="pag" n="0"/>
+        <role descr="entity now fresh" f="ppt" n="1"/>
+        <role descr="Instrument or Manner if separate from arg 0" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="fresh">
+    <roleset id="fresh.03" name="impertinent">
+      <roles>
+        <role descr="impertinent one" f="pag" n="0"/>
+        <role descr="subject matter" f="ppt" n="1"/>
+        <role descr="target of impertinent behavior" f="gol" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="fresh.04" name="new, vital, unadulterated">
+      <roles>
+        <role descr="the fresh-maker, causer of freshness" f="pag" n="0"/>
+        <role descr="fresh entity" f="ppt" n="1"/>
+        <role descr="Instrument or Manner if separate from arg 0" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

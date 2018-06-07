@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="enlighten">
+    <roleset id="enlighten.01" name="cause to have knowledge">
+      <roles>
+        <role descr="Stimulus of knowledge" f="pag" n="0"/>
+        <role descr="enlightened entity" f="gol" n="1"/>
+        <role descr="knowledge itself, topic" f="ppt" n="2"/>
+        <role descr="instrument" f="mnr" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

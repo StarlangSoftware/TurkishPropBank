@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="encroach">
+    <roleset id="encroach.01" name="get closer to, menacingly">
+      <roles>
+        <role descr="encroacher" f="PAG" n="0"/>
+        <role descr="encroached-(up)on" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

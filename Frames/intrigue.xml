@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="intrigue">
+    <roleset id="intrigue.01" name="pique one's interest">
+      <roles>
+        <role descr="agent, causer of interest" f="pag" n="0"/>
+        <role descr="interested entity" f="ppt" n="1"/>
+        <role descr="instrument" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

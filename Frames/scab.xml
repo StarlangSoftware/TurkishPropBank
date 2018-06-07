@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="scab">
+    <roleset id="scab.01" name="form a protective crust">
+      <roles>
+        <role descr="entity with scab" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="wane">
+    <roleset id="wane.01" name="diminish">
+      <roles>
+        <role descr="thing waning" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

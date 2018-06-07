@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="facetime">
+    <roleset id="facetime.01" name="videochat, using facetime program">
+      <roles>
+        <role descr="first videochatter" f="pag" n="0"/>
+        <role descr="other videochatter(s)" f="com" n="1"/>
+        <role descr="subject matter" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

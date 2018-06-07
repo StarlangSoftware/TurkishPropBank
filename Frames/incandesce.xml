@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="incandesce">
+    <roleset id="incandesce.01" name="become incandescent">
+      <roles>
+        <role descr="incandescent entity" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

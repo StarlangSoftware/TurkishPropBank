@@ -1,0 +1,18 @@
+<frameset>
+  <predicate lemma="concur">
+    <roleset id="concur.01" name="to agree or cooperate">
+      <roles>
+        <role descr="agreer(s), agent(s)" f="pag" n="0"/>
+        <role descr="thing concurred (with)" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="concurrent">
+    <roleset id="concurrent.02" name="coincide with, co-occur">
+      <roles>
+        <role descr="first entity" f="ppt" n="1"/>
+        <role descr="co-occuring with" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

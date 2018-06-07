@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="transactivate">
+    <roleset id="transactivate.01" name="stimulate the transcription of (a gene in a host cell) by binding to DNA">
+      <roles>
+        <role descr="intentional agent of transactivation (e.g. scientist)" f="pag" n="0" />
+        <role descr="thing transactivated, gene" f="ppt" n="1" />
+        <role descr="instrument, protein, transactivator" f="mnr" n="2" />
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

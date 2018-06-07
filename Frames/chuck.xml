@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="chuck">
+    <roleset id="chuck.01" name="to throw, give up">
+      <roles>
+        <role descr="entity getting rid of something, agent" f="PAG" n="0"/>
+        <role descr="entity chucked" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

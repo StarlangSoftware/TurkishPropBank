@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="feasible">
+    <roleset id="feasible.01" name="possible, executable">
+      <roles>
+        <role descr="thing that is feasible, possible" f="ppt" n="1"/>
+        <role descr="whom it is feasible for, who can execute?" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,19 @@
+<frameset>
+  <predicate lemma="generalize">
+    <roleset id="generalize.01" name="to reduce to a general form">
+      <roles>
+        <role descr="entity making a generalization; agent" f="pag" n="0"/>
+        <role descr="thing becoming generalized" f="ppt" n="1"/>
+        <role descr="entities sharing arg 1, common to" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="general">
+    <roleset id="general.02" name="shared by, common, usual">
+      <roles>
+        <role descr="common thing" f="ppt" n="1"/>
+        <role descr="entities sharing arg 1, common to" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

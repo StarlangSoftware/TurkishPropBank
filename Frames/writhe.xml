@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="writhe">
+    <roleset id="writhe.01" name="move like a snake">
+      <roles>
+        <role descr="thing writhing" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

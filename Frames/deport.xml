@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="deport">
+    <roleset id="deport.01" name="to expel from a country">
+      <roles>
+        <role descr="causer" f="PAG" n="0"/>
+        <role descr="entity deported" f="PPT" n="1"/>
+        <role descr="country  deported from" f="DIR" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

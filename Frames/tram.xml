@@ -1,0 +1,13 @@
+<frameset>
+  <predicate lemma="tram">
+    <roleset id="tram.01" name="tram">
+      <roles>
+        <role descr="agent, driver" f="PAG" n="0"/>
+        <role descr="tram riders" f="PPT" n="1"/>
+        <role descr="start point" f="DIR" n="2"/>
+        <role descr="destination" f="GOL" n="3"/>
+        <role descr="path" f="LOC" n="4"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

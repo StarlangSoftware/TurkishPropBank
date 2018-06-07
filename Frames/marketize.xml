@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="marketize">
+    <roleset id="marketize.01" name="bringing to market or open-market-style managment">
+      <roles>
+        <role descr="agent of marketization" f="pag" n="0"/>
+        <role descr="entity marketized" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

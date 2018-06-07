@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="allay">
+    <roleset id="allay.01" name="to relieve, calm">
+      <roles>
+        <role descr="agent, causer" f="PAG" n="0"/>
+        <role descr="entity relieved" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

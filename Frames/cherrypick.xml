@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="cherrypick">
+    <roleset id="cherrypick.01" name="select only the best">
+      <roles>
+        <role descr="picker" f="PAG" n="0"/>
+        <role descr="entity picked" f="ppt" n="1"/>
+        <role descr="group or source" f="dir" n="2"/>
+        <role descr="benefactive" f="gol" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

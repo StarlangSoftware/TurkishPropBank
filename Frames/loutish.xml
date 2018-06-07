@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="loutish">
+    <roleset id="loutish.01" name="act like a lout">
+      <roles>
+        <role descr="the lout" f="ppt" n="0"/>
+        <role descr="loutish behavior" f="ppt" n="1"/>
+        <role descr="affected entity, target of loutish behavior" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

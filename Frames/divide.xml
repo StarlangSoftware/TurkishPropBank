@@ -1,0 +1,30 @@
+<frameset>
+  <predicate lemma="divide">
+    <roleset id="divide.01" name="mathematics, mathematical dividing">
+      <roles>
+        <role descr="entity performing calculation" f="pag" n="0"/>
+        <role descr="first operand" f="ppt" n="1"/>
+        <role descr="second operand, divided-by" f="ppt" n="2"/>
+        <role descr="resulting quantity, answer to math problem" f="prd" n="3"/>
+      </roles>
+    </roleset>
+    <roleset id="divide.02" name="separate, separated; suffering disunity, causing separation">
+      <roles>
+        
+        <role descr="topic/causer/agent of division" f="cau" n="0"/>
+        <role descr="separated entity" f="ppt" n="1"/>
+        <role descr="divided among/ between" f="gol" n="2"/>
+        <role descr="other entity separated from" f="dir" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="divide_up">
+    <roleset id="divide_up.03" name="separate">
+      <roles>
+        <role descr="agent, divider" f="pag" n="0"/>
+        <role descr="entity divided up 2" f="ppt" n="1"/>
+        <role descr="smaller units arg 1 is divided into/among" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

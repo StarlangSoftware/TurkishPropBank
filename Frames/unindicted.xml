@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="unindicted">
+    <roleset id="unindicted.01" name="not having been indicted">
+      <roles>
+        <role descr="would-be accusor, accusor lacking evident to indict" f="pag" n="0"/>
+        <role descr="un-accused" f="ppt" n="1"/>
+        <role descr="crime" f="cau" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

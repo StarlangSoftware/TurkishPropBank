@@ -1,0 +1,19 @@
+<frameset>
+  <predicate lemma="summon">
+    <roleset id="summon.01" name="invite">
+      <roles>
+        <role descr="inviter" f="pag" n="0"/>
+        <role descr="invited" f="ppt" n="1"/>
+        <role descr="invited-to" f="loc" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="summon_forth">
+    <roleset id="summon_forth.02" name="cause to appear">
+      <roles>
+        <role descr="causer" f="pag" n="0"/>
+        <role descr="thing appearing" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

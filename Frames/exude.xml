@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="exude">
+    <roleset id="exude.01" name="ooze">
+      <roles>
+        <role descr="oozer" f="DIR" n="0"/>
+        <role descr="ooze" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

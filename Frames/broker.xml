@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="broker">
+    <roleset id="broker.01" name="to arrange or manage as a broker">
+      <roles>
+        <role descr="arranger, agent" f="pag" n="0"/>
+        <role descr="entity brokered" f="ppt" n="1"/>
+        <role descr="beneficiary" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

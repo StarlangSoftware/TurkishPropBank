@@ -1,0 +1,20 @@
+<frameset>
+  <predicate lemma="hear">
+    <roleset id="hear.01" name="hear, physically hear (not sense of hearing itself)">
+      <roles>
+        <role descr="hearer" f="pag" n="0"/>
+        <role descr="utterance, sound" f="ppt" n="1"/>
+        <role descr="speaker, source of sound" f="dir" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="hearing">
+    <roleset id="hearing.02" name="a session of a committe or jury">
+      <roles>
+        <role descr="Judge" f="pag" n="0"/>
+        <role descr="Person on trial" f="ppt" n="1"/>
+        <role descr="Type or point of meeting/trail" f="cau" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

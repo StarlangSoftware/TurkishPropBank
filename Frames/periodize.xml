@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="periodize">
+    <roleset id="periodize.01" name="split into periods, assign to a period">
+      <roles>
+        <role descr="agent of splitting/assigning" f="pag" n="0"/>
+        <role descr="thing split into periods or assigned to a period" f="ppt" n="1"/>
+        <role descr="period(s) split into/assigned to" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

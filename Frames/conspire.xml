@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="conspire">
+    <roleset id="conspire.01" name="work together for nefarious purposes">
+      <roles>
+        <role descr="conspirator" f="PAG" n="0"/>
+        <role descr="job, project" f="PPT" n="1"/>
+        <role descr="co-conspirator" f="COM" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="circumnavigate">
+    <roleset id="circumnavigate.01" name="navigate around circumferance">
+      <roles>
+        <role descr="pilot, steerer, agent in charge of motion and path" f="pag" n="0"/>
+        <role descr="vessle being steered l" f="ppt" n="1"/>
+        <role descr="mass navigated around" f="loc" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

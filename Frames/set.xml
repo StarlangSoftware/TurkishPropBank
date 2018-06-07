@@ -1,0 +1,126 @@
+<frameset>
+  <predicate lemma="set">
+    <roleset id="set.01" name="put, place">
+      <roles>
+        <role descr="agent, setter" f="pag" n="0"/>
+        <role descr="thing set" f="ppt" n="1"/>
+        <role descr="location or position" f="loc" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="set.02" name="establish">
+      <roles>
+        <role descr="agent, setter" f="pag" n="0"/>
+        <role descr="thing set" f="ppt" n="1"/>
+        <role descr="attribute of arg1" f="prd" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="set.08" name="make ready, assign a task to, ready for action">
+      <roles>
+        <role descr="cause, agent" f="pag" n="0"/>
+        <role descr="prepared entity" f="ppt" n="1"/>
+        <role descr="ready for what, proposition" f="prd" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="set.11" name="go down">
+      <roles>
+        <role descr="sun" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="set.14" name="make ready, prepare">
+      <roles>
+        <role descr="Agent, preparer" f="pag" n="0"/>
+        <role descr="Thing set, prepared" f="ppt" n="1"/>
+        <role descr="Beneficiary, set for who/what?" f="gol" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="set.16" name="fixed, fixated, decided on">
+      <roles>
+        <role descr="entity fixed on something" f="ppt" n="1"/>
+        <role descr="what arg1 is decided/fixed on" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="set_off">
+    <roleset id="set_off.04" name="set off: begin travel">
+      <roles>
+        <role descr="traveller" f="pag" n="0"/>
+        <role descr="destination" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="set_off.05" name="set off a bomb, start a chain reaction">
+      <roles>
+        <role descr="bomber, cause" f="cau" n="0"/>
+        <role descr="bomb, reaction" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="set_off.13" name="set off: complement, balance (like 'offset')">
+      <roles>
+        <role descr="thing complementing" f="pag" n="0"/>
+        <role descr="thing complemented" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="set_about">
+    <roleset id="set_about.12" name="start to do">
+      <roles>
+        <role descr="agent, starter" f="pag" n="0"/>
+        <role descr="thing started" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="set_out">
+    <roleset id="set_out.06" name="set out: establish">
+      <roles>
+        <role descr="agent, setter" f="pag" n="0"/>
+        <role descr="thing set" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="set_out.07" name="set out: begin">
+      <roles>
+        <role descr="traveller" f="pag" n="0"/>
+        <role descr="destination, goal" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="set_up">
+    <roleset id="set_up.03" name="set up: establish, establish">
+      <roles>
+        <role descr="agent, setter" f="pag" n="0"/>
+        <role descr="thing set" f="ppt" n="1"/>
+        <role descr="attribute" f="prd" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="set_up.15" name="trap, ensnare, trick">
+      <roles>
+        <role descr="trickster" f="pag" n="0"/>
+        <role descr="entity tricked" f="ppt" n="1"/>
+        <role descr="the trick that follows" f="prp" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="set_down">
+    <roleset id="set_down.09" name="put into position">
+      <roles>
+        <role descr="agent" f="pag" n="0"/>
+        <role descr="thing set down" f="ppt" n="1"/>
+        <role descr="position" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="set_upon">
+    <roleset id="set_upon.10" name="(cause to) be attacked">
+      <roles>
+        <role descr="agent, attacker" f="pag" n="0"/>
+        <role descr="patient, thing attacked" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="set_forth">
+    <roleset id="set_forth.17" name="establish">
+      <roles>
+        <role descr="setter" f="pag" n="0"/>
+        <role descr="thing established" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

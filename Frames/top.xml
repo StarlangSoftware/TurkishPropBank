@@ -1,0 +1,44 @@
+<frameset>
+  <predicate lemma="top">
+    <roleset id="top.01" name="provide a top for">
+      <roles>
+        <role descr="provider of top, agent" f="pag" n="0"/>
+        <role descr="thing topped" f="gol" n="1"/>
+        <role descr="top" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="top.02" name="surpass">
+      <roles>
+        <role descr="surpasser" f="ppt" n="0"/>
+        <role descr="thing surpassed" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="top_off">
+    <roleset id="top_off.03" name="top off: provide with a top">
+      <roles>
+        <role descr="provider of top, agent" f="pag" n="0"/>
+        <role descr="thing topped" f="ppt" n="1"/>
+        <role descr="top" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="top_up">
+    <roleset id="top_up.04" name="fill up completely when only partially empty">
+      <roles>
+        <role descr="agent of filling" f="pag" n="0"/>
+        <role descr="container filled" f="gol" n="1"/>
+        <role descr="substance put in" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="top_out">
+    <roleset id="top_out.05" name="reach an upper limit, high point">
+      <roles>
+        <role descr="agent" f="pag" n="0"/>
+        <role descr="thing reaching a high point" f="ppt" n="1"/>
+        <role descr="the upper limit" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,23 @@
+<frameset>
+  <predicate lemma="poor">
+    <roleset id="poor.01" name="living in poverty">
+      <roles>
+        <role descr="entity living in poverty" f="pag" n="1"/>
+        <role descr="thing lacked (form of wealth)" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="poor.02" name="inadequate, unskilled performance">
+      <roles>
+        <role descr="entity having little skill" f="pag" n="1"/>
+        <role descr="skill lacked" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="poor">
+    <roleset id="poor.03" name="unfortunate, pitiable">
+      <roles>
+        <role descr="unfortunate entity" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

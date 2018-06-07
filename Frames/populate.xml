@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="populate">
+    <roleset id="populate.01" name="provide inhabitants for, fill with inhabitants">
+      <roles>
+        <role descr="provider" f="pag" n="0"/>
+        <role descr="area" f="ppt" n="1"/>
+        <role descr="population" f="com" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

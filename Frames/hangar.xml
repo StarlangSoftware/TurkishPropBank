@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="hangar">
+    <roleset id="hangar.01" name="to keep an aircraft in a hangar">
+      <roles>
+        <role descr="storer" f="PAG" n="0"/>
+        <role descr="stored (aircraft)" f="PPT" n="1"/>
+        <role descr="hangar, location" f="GOL" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

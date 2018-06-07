@@ -1,0 +1,13 @@
+<frameset>
+  <predicate lemma="fluctuate">
+    <roleset id="fluctuate.01" name="move randomly across some scale, fluctuating">
+      <roles>
+        <role descr="thing moving" f="ppt" n="1"/>
+        <role descr="EXT or MNR" f="ext" n="2"/>
+        <role descr="start point" f="dir" n="3"/>
+        <role descr="end point" f="gol" n="4"/>
+        <role descr="medium" f="loc" n="5"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

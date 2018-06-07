@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="moneysaving">
+    <roleset id="moneysaving.01" name="saving money">
+      <roles>
+        <role descr="cause of the savings" f="pag" n="0"/>
+        <role descr="amount" f="ppt" n="1"/>
+        <role descr="entity not spending money (money saver, beneficiary)" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

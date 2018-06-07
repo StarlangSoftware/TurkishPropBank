@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="wrongdoing">
+    <roleset id="wrongdoing.01" name="do a misdeed">
+      <roles>
+        <role descr="wrong do-er; agent" f="pag" n="0"/>
+        <role descr="deed done" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

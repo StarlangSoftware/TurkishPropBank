@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="permeate">
+    <roleset id="permeate.01" name="to spread throughout">
+      <roles>
+        <role descr="entity spreading" f="PAG" n="0"/>
+        <role descr="entity permeated" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

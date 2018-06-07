@@ -1,0 +1,19 @@
+<frameset>
+  <predicate lemma="steal">
+    <roleset id="steal.01" name="to commit theft">
+      <roles>
+        <role descr="thief, agent" f="PAG" n="0"/>
+        <role descr="thing stolen" f="PPT" n="1"/>
+        <role descr="stolen from" f="DIR" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="steal_away">
+    <roleset id="steal_away.02" name="steal away">
+      <roles>
+        <role descr="one(s) hiding, stealing away" f="PAG" n="0"/>
+        <role descr="thing stolen away with" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

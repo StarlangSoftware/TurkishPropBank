@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="mudsling">
+    <roleset id="mudsling.01" name="badmouthing, with intent to discredit">
+      <roles>
+        <role descr="mud-slinger" f="pag" n="0"/>
+        <role descr="victim" f="gol" n="1"/>
+        <role descr="the &quot;mud&quot;" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

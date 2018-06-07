@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="vet">
+    <roleset id="vet.01" name="examine closely">
+      <roles>
+        <role descr="examiner" f="pag" n="0"/>
+        <role descr="examined" f="ppt" n="1"/>
+        <role descr="examined for" f="prp" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

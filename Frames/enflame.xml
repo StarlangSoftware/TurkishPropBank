@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="enflame">
+    <roleset id="enflame.01" name="fan into flame">
+      <roles>
+        <role descr="Stimulus of flame" f="PAG" n="0"/>
+        <role descr="entity flaming" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

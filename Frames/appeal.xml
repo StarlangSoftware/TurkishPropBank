@@ -1,0 +1,24 @@
+<frameset>
+  <predicate lemma="appeal">
+    <roleset id="appeal.01" name="legal transaction">
+      <roles>
+        <role descr="appealer" f="pag" n="0"/>
+        <role descr="decision disagreed with" f="ppt" n="1"/>
+        <role descr="appealed to" f="gol" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="appeal.02" name="beg">
+      <roles>
+        <role descr="begger, appealer" f="pag" n="0"/>
+        <role descr="appealed to, begged from" f="gol" n="1"/>
+        <role descr="begged/appealed for" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="appeal.03" name="be attractive">
+      <roles>
+        <role descr="appealing thing" f="pag" n="0"/>
+        <role descr="entity attracted" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="snooze">
+    <roleset id="snooze.01" name="snooze">
+      <roles>
+        <role descr="snoozed" f="PAG" n="0"/>
+        <role descr="theme (usually redundant/emphatic)" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

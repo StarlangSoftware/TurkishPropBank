@@ -1,0 +1,95 @@
+<frameset>
+  <predicate lemma="pick">
+    <roleset id="pick.01" name="select from a group, plucking">
+      <roles>
+        <role descr="picker" f="pag" n="0"/>
+        <role descr="thing picked" f="ppt" n="1"/>
+        <role descr="group or source" f="dir" n="2"/>
+        <role descr="benefactive" f="gol" n="3"/>
+      </roles>
+    </roleset>
+    <roleset id="pick.09" name="work at with long slender instrument">
+      <roles>
+        <role descr="picker" f="pag" n="0"/>
+        <role descr="thing picked (at)" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="pick.10" name="pick at, take small pieces out of">
+      <roles>
+        <role descr="Agent, picker" f="pag" n="0"/>
+        <role descr="Patient, thing picked at" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="pick_on">
+    <roleset id="pick_on.02" name="pick on: bully">
+      <roles>
+        <role descr="bully" f="pag" n="0"/>
+        <role descr="bullied" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="pick_out">
+    <roleset id="pick_out.03" name="select from a group">
+      <roles>
+        <role descr="picker" f="pag" n="0"/>
+        <role descr="thing picked" f="ppt" n="1"/>
+        <role descr="group or source" f="dir" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="pick_up">
+    <roleset id="pick_up.04" name="pick up: acquire">
+      <roles>
+        <role descr="agent, entity acquiring something" f="pag" n="0"/>
+        <role descr="thing acquired" f="ppt" n="1"/>
+        <role descr="seller" f="dir" n="2"/>
+        <role descr="price paid" f="vsp" n="3"/>
+        <role descr="benefactive" f="gol" n="4"/>
+      </roles>
+    </roleset>
+    <roleset id="pick_up.05" name="pick up: increase">
+      <roles>
+        <role descr="thing increasing" f="ppt" n="1"/>
+        <role descr="amount increased by, EXT or MNR" f="ext" n="2"/>
+        <role descr="start point" f="dir" n="3"/>
+        <role descr="end point" f="gol" n="4"/>
+      </roles>
+    </roleset>
+    <roleset id="pick_up.06" name="pick up: resume">
+      <roles>
+        <role descr="agent of resuming" f="pag" n="0"/>
+        <role descr="thing resuming or continuing" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="pick_up.11" name="discover, spot, find, notice">
+      <roles>
+        <role descr="finder" f="pag" n="0"/>
+        <role descr="thing found, discovery" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="pick_away">
+    <roleset id="pick_away.07" name="remove small pieces from">
+      <roles>
+        <role descr="remover, picker, agent" f="pag" n="0"/>
+        <role descr="thing picked away at" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="pick_off">
+    <roleset id="pick_off.08" name="pick off: remove pieces">
+      <roles>
+        <role descr="remover, agent" f="pag" n="0"/>
+        <role descr="pieces" f="ppt" n="1"/>
+        <role descr="source" f="dir" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="pick_off.12" name="pick_off: target and eliminate from a distance, like a sniper">
+      <roles>
+        <role descr="sniper" f="pag" n="0"/>
+        <role descr="target" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

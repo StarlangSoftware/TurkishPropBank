@@ -1,0 +1,25 @@
+<frameset>
+  <predicate lemma="single_out">
+    <roleset id="single_out.01" name="pick just one">
+      <roles>
+        <role descr="picker" f="PAG" n="0"/>
+        <role descr="the one" f="PPT" n="1"/>
+        <role descr="group" f="dir" n="2"/>
+        <role descr="attribute" f="prd" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="single">
+    <roleset id="single.02" name="individual instance">
+      <roles>
+        <role descr="what there is 1 instance of" f="ppt" n="1"/>
+        <role descr="aspect of arg1 that is singular" f="vsp" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="single.03" name="unmarried, romantically unattached">
+      <roles>
+        <role descr="unmarried/unattached entity" f="pag" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

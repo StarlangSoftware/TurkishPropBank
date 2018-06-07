@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="stencil">
+    <roleset id="stencil.01" name="stencil">
+      <roles>
+        <role descr="stenciler, agent" f="PAG" n="0"/>
+        <role descr="thing being stenciled, theme" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="shitty">
+    <roleset id="shitty.01" name="despicable, unsavory, generally bad">
+      <roles>
+        <role descr="bad thing (may require concatenation)" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

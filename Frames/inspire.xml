@@ -1,0 +1,17 @@
+<frameset>
+  <predicate lemma="inspire">
+    <roleset id="inspire.01" name="to affect, guide, driving to goodness, providing motivation">
+      <roles>
+        <role descr="causer of inspiration" f="cau" n="0"/>
+        <role descr="person, thing inspired" f="ppt" n="1"/>
+        <role descr="inspired action" f="prd" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="inspire.02" name="inhaling">
+      <roles>
+        <role descr="Agent, breather" f="pag" n="0"/>
+        <role descr="Air, vapor inhaled" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

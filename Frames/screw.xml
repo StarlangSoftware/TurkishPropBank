@@ -1,0 +1,33 @@
+<frameset>
+  <predicate lemma="screw_up">
+    <roleset id="screw_up.01" name="to make a mess of, a mistake">
+      <roles>
+        <role descr="causer/agent" f="pag" n="0"/>
+        <role descr="thing screwed up" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="screw">
+    <roleset id="screw.02" name="to have (unpleasant) sex with, maybe metaphorically">
+      <roles>
+        <role descr="Screwer" f="pag" n="0"/>
+        <role descr="Screwed" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="screw.04" name="secure or fasten; attach">
+      <roles>
+        <role descr="agent" f="pag" n="0"/>
+        <role descr="screw, entity attached" f="ppt" n="1"/>
+        <role descr="attached to" f="loc" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="screw_over">
+    <roleset id="screw_over.05" name="give someone the shaft; cheat thoroughly">
+      <roles>
+        <role descr="cheater" f="pag" n="0"/>
+        <role descr="cheated" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

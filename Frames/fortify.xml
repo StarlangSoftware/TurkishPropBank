@@ -1,0 +1,18 @@
+<frameset>
+  <predicate lemma="fortify">
+    <roleset id="fortify.01" name="make stronger">
+      <roles>
+        <role descr="causal agent" f="PAG" n="0"/>
+        <role descr="thing being fortified" f="ppt" n="1"/>
+        <role descr="fortified with what" f="mnr" n="3"/>
+      </roles>
+    </roleset>
+    <roleset id="fortify.02" name="turn into a fort">
+      <roles>
+        <role descr="fort builders" f="PAG" n="0"/>
+        <role descr="thing becoming a fort" f="PPT" n="1"/>
+        <role descr="materials used" f="MNR" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

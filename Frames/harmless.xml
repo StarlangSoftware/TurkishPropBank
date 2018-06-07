@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="harmless">
+    <roleset id="harmless.01" name="not capable of harm">
+      <roles>
+        <role descr="harmless thing" f="pag" n="0"/>
+        <role descr="entity not harmed" f="ppt" n="1"/>
+        <role descr="instrument" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

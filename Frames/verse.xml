@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="verse">
+    <roleset id="verse.01" name="make familiar">
+      <roles>
+        <role descr="agent, causer of familiarity" f="pag" n="0"/>
+        <role descr="entity becoming familiar" f="ppt" n="1"/>
+        <role descr="familiar with" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

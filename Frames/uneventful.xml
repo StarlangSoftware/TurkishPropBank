@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="uneventful">
+    <roleset id="uneventful.01" name="without significant incident">
+      <roles>
+        <role descr="uneventful thing" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

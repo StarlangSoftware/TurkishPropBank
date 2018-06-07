@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="amortize">
+    <roleset id="amortize.01" name="spread out burden temporally">
+      <roles>
+        <role descr="spreader of burden, agent" f="pag" n="0"/>
+        <role descr="burden (us. cost, debt)" f="ppt" n="1"/>
+        <role descr="spread over what" f="tmp" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

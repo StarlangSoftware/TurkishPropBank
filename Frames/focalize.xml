@@ -1,0 +1,19 @@
+<frameset>
+  <predicate lemma="focalize">
+    <roleset id="focalize.01" name="focus, localize, concentrate on">
+      <roles>
+        <role descr="agent, causer of focussing" f="PAG" n="0"/>
+        <role descr="experiencer of focussing, thing focussed" f="PPT" n="1"/>
+        <role descr="thing focussed-on" f="PPT" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="focal">
+    <roleset id="focal.02" name="affecting a specific body part or location">
+      <roles>
+        <role descr="focal thing" f="pag" n="1"/>
+        <role descr="location" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

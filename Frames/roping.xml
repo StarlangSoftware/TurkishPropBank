@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="roping">
+    <roleset id="roping.01" name="jump roping, specifically">
+      <roles>
+        <role descr="jump roper" f="pag" n="0"/>
+        <role descr="fixed 'jump'" f="vsp" n="1"/>
+        <role descr="course, race, etc" f="loc" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

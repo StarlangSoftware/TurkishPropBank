@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="unpredictable">
+    <roleset id="unpredictable.01" name="not able to be forecast">
+      <roles>
+        <role descr="fortune teller" f="pag" n="0"/>
+        <role descr="prediction not made" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

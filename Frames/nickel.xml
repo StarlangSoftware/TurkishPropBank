@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="nickel">
+    <roleset id="nickel.01" name="colloquial; to nickel and dime someone">
+      <roles>
+        <role descr="agent" f="PAG" n="0"/>
+        <role descr="patient, victim" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

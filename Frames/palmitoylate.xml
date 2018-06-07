@@ -1,0 +1,13 @@
+<frameset>
+  <predicate lemma="palmitoylate">
+    <roleset id="palmitoylate.01" name="attach fatty acids to a membrane protein">
+      <roles>
+        <role descr="intentional agent of palmitoylation (e.g. scientist)" f="pag" n="0" />
+        <role descr="thing palmitoylated" f="ppt" n="1" />
+        <role descr="instrument, enzyme performing the palmitoylation" f="mnr" n="2" />
+        <role descr="result of palmitoylation" f="prd" n="3" />
+        <role descr="fatty acid, molecule added to Arg1" f="ppt" n="4" />
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

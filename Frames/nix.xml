@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="nix">
+    <roleset id="nix.01" name="to veto, eradicate, refuse">
+      <roles>
+        <role descr="Person nixing" f="pag" n="0"/>
+        <role descr="Thing nixed" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

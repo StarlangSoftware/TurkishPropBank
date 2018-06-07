@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="mandate">
+    <roleset id="mandate.01" name="cause by force of law, be obligatory">
+      <roles>
+        <role descr="causer, law(giving body)" f="PAG" n="0"/>
+        <role descr="forced action" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

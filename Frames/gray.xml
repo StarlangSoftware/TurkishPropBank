@@ -1,0 +1,18 @@
+<frameset>
+  <predicate lemma="gray">
+    <roleset id="gray.01" name="(cause to) become gray">
+      <roles>
+        <role descr="causer" f="PAG" n="0"/>
+        <role descr="thing becoming gray" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="gray">
+    <roleset id="gray.02" name="be gray in color">
+      <roles>
+        <role descr="causer of grayness" f="pag" n="0"/>
+        <role descr="gray thing" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

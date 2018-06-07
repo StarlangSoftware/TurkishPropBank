@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="confirm">
+    <roleset id="confirm.01" name="confirm, attest the truth of a proposition">
+      <roles>
+        <role descr="confirmer" f="pag" n="0"/>
+        <role descr="thing confirmed, statement or proposition" f="ppt" n="1"/>
+        <role descr="benefactive, hearer" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

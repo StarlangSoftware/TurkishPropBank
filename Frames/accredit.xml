@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="accredit">
+    <roleset id="accredit.01" name="give credentials">
+      <roles>
+        <role descr="entity furnishing credentials" f="pag" n="0"/>
+        <role descr="entity credited" f="ppt" n="1"/>
+        <role descr="attribute" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

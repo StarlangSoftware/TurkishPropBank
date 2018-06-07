@@ -1,0 +1,13 @@
+<frameset>
+  <predicate lemma="sag">
+    <roleset id="sag.01" name="sag, droop">
+      <roles>
+        <role descr="cause of sagging" f="pag" n="0"/>
+        <role descr="thing sagging" f="ppt" n="1"/>
+        <role descr="EXT" f="ext" n="2"/>
+        <role descr="start point" f="dir" n="3"/>
+        <role descr="end point" f="loc" n="4"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

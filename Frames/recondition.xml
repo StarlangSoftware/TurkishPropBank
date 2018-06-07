@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="recondition">
+    <roleset id="recondition.01" name="re-accustom, re-adapting">
+      <roles>
+        <role descr="Causer of adaptation" f="pag" n="0"/>
+        <role descr="Entity adapted" f="ppt" n="1"/>
+        <role descr="Adapted to" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="befuddle">
+    <roleset id="befuddle.01" name="cause confusion">
+      <roles>
+        <role descr="Stimulus, agent" f="PAG" n="0"/>
+        <role descr="entity experiencing confusion" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

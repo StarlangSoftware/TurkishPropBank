@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="prey">
+    <roleset id="prey.01" name="to hunt or victimize">
+      <roles>
+        <role descr="hunter, agent" f="PAG" n="0"/>
+        <role descr="entity  preyed on" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

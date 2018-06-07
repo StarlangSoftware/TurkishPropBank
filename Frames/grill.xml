@@ -1,0 +1,17 @@
+<frameset>
+  <predicate lemma="grill">
+    <roleset id="grill.01" name="cook by grilling">
+      <roles>
+        <role descr="cook, agent" f="pag" n="0"/>
+        <role descr="food, material" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="grill.02" name="interrogate">
+      <roles>
+        <role descr="questioner" f="pag" n="0"/>
+        <role descr="entity questioned" f="gol" n="1"/>
+        <role descr="about what" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

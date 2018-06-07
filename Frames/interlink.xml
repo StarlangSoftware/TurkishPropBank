@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="interlink">
+    <roleset id="interlink.01" name="link 2 or more things together">
+      <roles>
+        <role descr="agent, entity doing linking" f="PAG" n="0"/>
+        <role descr="patient, thing(s) being tied" f="PPT" n="1"/>
+        <role descr="instrument, linking material" f="PPT" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

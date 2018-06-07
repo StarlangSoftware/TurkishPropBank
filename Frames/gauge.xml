@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="gauge">
+    <roleset id="gauge.01" name="determine, measure, estimation, act of measuring">
+      <roles>
+        <role descr="measurer" f="pag" n="0"/>
+        <role descr="thing measured" f="ppt" n="1"/>
+        <role descr="ruler, standard of measurement" f="mnr" n="2"/>
+        <role descr="estimated value" f="prd" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

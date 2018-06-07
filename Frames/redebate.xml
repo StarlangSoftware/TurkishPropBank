@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="redebate">
+    <roleset id="redebate.01" name="to discuss or argue about again">
+      <roles>
+        <role descr="discussant(s), debater(s)" f="pag" n="0"/>
+        <role descr="thing discussed" f="ppt" n="1"/>
+        <role descr="person debated against" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

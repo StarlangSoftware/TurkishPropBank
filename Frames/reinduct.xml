@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="reinduct">
+    <roleset id="reinduct.01" name="to re-introduce or being on again">
+      <roles>
+        <role descr="doctor" f="pag" n="0"/>
+        <role descr="patient" f="ppt" n="1"/>
+        <role descr="medication, thing re-introduced to" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

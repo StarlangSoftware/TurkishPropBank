@@ -1,0 +1,28 @@
+<frameset>
+  <predicate lemma="deposit">
+    <roleset id="deposit.01" name="put, the act of putting something somewhere">
+      <roles>
+        <role descr="depositor, agent" f="PAG" n="0"/>
+        <role descr="thing deposited" f="PPT" n="1"/>
+        <role descr="where" f="GOL" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="deposition">
+    <roleset id="deposition.02" name="law domain: give testimony under oath">
+      <roles>
+        <role descr="deposer, legal professional taking deposition" f="pag" n="0"/>
+        <role descr="deposed, person giving testimony" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="depose">
+    <roleset id="depose.03" name="to dethrone, removal from an office or position">
+      <roles>
+        <role descr="Causer of removal" f="pag" n="0"/>
+        <role descr="Thing being removed" f="ppt" n="1"/>
+        <role descr="Source: Arg1 is removed from where?" f="loc" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

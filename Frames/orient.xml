@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="orient">
+    <roleset id="orient.01" name="to adjust or focus, focusing on">
+      <roles>
+        <role descr="agent of focus, adjustment" f="pag" n="0"/>
+        <role descr="entity focused, oriented" f="ppt" n="1"/>
+        <role descr="focused on, oriented towards" f="gol" n="2"/>
+        <role descr="specific aspect of arg1 oriented" f="vsp" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

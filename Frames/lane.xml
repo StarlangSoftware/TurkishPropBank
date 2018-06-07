@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="lane">
+    <roleset id="lane.01" name="make lanes out of a certain area or space">
+      <roles>
+        <role descr="agent, constructor of lanes" f="PAG" n="0"/>
+        <role descr="area made into/made to be surrounded by lanes" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

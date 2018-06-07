@@ -1,0 +1,18 @@
+<frameset>
+  <predicate lemma="outrage">
+    <roleset id="outrage.01" name="make very angry, extreme, causing outrage (or other extreme feeling)">
+      <roles>
+        <role descr="Stimulus of outrage, outrageous entity" f="pag" n="0"/>
+        <role descr="enraged entity" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="outrageous">
+    <roleset id="outrageous.02" name="wild, over the top, possibly hilarious and wonderful">
+      <roles>
+        <role descr="wild entity" f="pag" n="0"/>
+        <role descr="entity deeming arg1 outrageous" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

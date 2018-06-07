@@ -1,0 +1,20 @@
+<frameset>
+  <predicate lemma="asphalt">
+    <roleset id="asphalt.01" name="face, cover with asphalt">
+      <roles>
+        <role descr="construction worker, person laying asphalt" f="pag" n="0"/>
+        <role descr="road, thing paved" f="gol" n="1"/>
+        <role descr="asphalt itself, type of pavement used" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="asphalt_over">
+    <roleset id="asphalt_over.02" name="pave, cover with asphalt">
+      <roles>
+        <role descr="asphalt layer" f="pag" n="0"/>
+        <role descr="location, entity being covered in asphalt" f="ppt" n="1"/>
+        <role descr="asphalt itself" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

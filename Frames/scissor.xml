@@ -1,0 +1,19 @@
+<frameset>
+  <predicate lemma="scissor">
+    <roleset id="scissor.01" name="cutting with scissors">
+      <roles>
+        <role descr="intentional cutter" f="pag" n="0"/>
+        <role descr="thing cut" f="ppt" n="1"/>
+        <role descr="medium, source" f="dir" n="2"/>
+        <role descr="instrument, unintentional cutter" f="mnr" n="3"/>
+        <role descr="beneficiary" f="gol" n="4"/>
+      </roles>
+    </roleset>
+    <roleset id="scissor.02" name="move back and forth, like scissors">
+      <roles>
+        <role descr="agent of motion" f="pag" n="0"/>
+        <role descr="entity being moved back and forth" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

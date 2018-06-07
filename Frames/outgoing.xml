@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="outgoing">
+    <roleset id="outgoing.01" name="moving outwards">
+      <roles>
+        <role descr="entity in motion" f="pag" n="1"/>
+        <role descr="start point" f="dir" n="3"/>
+        <role descr="end point" f="gol" n="4"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

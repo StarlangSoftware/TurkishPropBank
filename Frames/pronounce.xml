@@ -1,0 +1,18 @@
+<frameset>
+  <predicate lemma="pronounce">
+    <roleset id="pronounce.01" name="to speak or utter in a certain way">
+      <roles>
+        <role descr="speaker" f="PAG" n="0"/>
+        <role descr="utterance" f="PPT" n="1"/>
+        <role descr="pronunciation, attribute" f="PRD" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="pronounced">
+    <roleset id="pronounced.02" name="marked, noticeable">
+      <roles>
+        <role descr="marked thing" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

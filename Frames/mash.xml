@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="mash">
+    <roleset id="mash.01" name="pulverize">
+      <roles>
+        <role descr="causer of mashing" f="PAG" n="0"/>
+        <role descr="patient of mashing" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

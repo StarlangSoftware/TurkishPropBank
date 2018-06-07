@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="baseless">
+    <roleset id="baseless.01" name="having no grounds, unwarranted">
+      <roles>
+        <role descr="unwarranted entity" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

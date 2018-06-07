@@ -1,0 +1,27 @@
+<frameset>
+  <predicate lemma="terrible">
+    <roleset id="terrible.01" name="generally awful; morally bad, fearsome, displeasing">
+      <roles>
+        <role descr="terrible entity" f="ppt" n="1"/>
+        <role descr="target of terrible behavior" f="gol" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="terrible.02" name="extremely unskilled at">
+      <roles>
+        <role descr="unskilled entity" f="pag" n="1"/>
+        <role descr="non-skill" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="terrible.03" name="extremely unbeneficial, unhealthy">
+      <roles>
+        <role descr="unbeneficial thing" f="ppt" n="1"/>
+        <role descr="beneficiary" f="gol" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="terrible.04" name="extensive, intense">
+      <roles>
+        <role descr="extensive thing" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

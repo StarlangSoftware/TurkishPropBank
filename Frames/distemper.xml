@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="distemper">
+    <roleset id="distemper.01" name="to mix pigments with water or glue, or paint with this mixture">
+      <roles>
+        <role descr="causer of pigmentation" f="pag" n="0"/>
+        <role descr="thing pigmented, colored" f="ppt" n="1"/>
+        <role descr="the color itself" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

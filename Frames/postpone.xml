@@ -1,0 +1,13 @@
+<frameset>
+  <predicate lemma="postpone">
+    <roleset id="postpone.01" name="delay">
+      <roles>
+        <role descr="agent, causer of delay" f="pag" n="0"/>
+        <role descr="event delayed" f="ppt" n="1"/>
+        <role descr="delay itself, EXT, time period, how long arg 1 was delayed for" f="ext" n="2"/>
+        <role descr="original time" f="dir" n="3"/>
+        <role descr="new time" f="gol" n="4"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

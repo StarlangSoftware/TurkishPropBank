@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="uncommitted">
+    <roleset id="uncommitted.01" name="not pledged, designated to">
+      <roles>
+        <role descr="agent of commitment" f="pag" n="0"/>
+        <role descr="entity not committed" f="ppt" n="1"/>
+        <role descr="committed to" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

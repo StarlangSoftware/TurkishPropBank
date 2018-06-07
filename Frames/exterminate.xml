@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="exterminate">
+    <roleset id="exterminate.01" name="exterminate">
+      <roles>
+        <role descr="destroyer" f="pag" n="0"/>
+        <role descr="thing destroyed" f="ppt" n="1"/>
+        <role descr="instrument of destruction" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

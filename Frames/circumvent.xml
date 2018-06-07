@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="circumvent">
+    <roleset id="circumvent.01" name="avoid, get around">
+      <roles>
+        <role descr="avoider" f="PAG" n="0"/>
+        <role descr="thing avoided" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="lyse">
+    <roleset id="lyse.01" name="to cause dissolution or destruction of cells by lysins" >
+      <roles>
+        <role descr="intentional agent of lysis (e.g. scientist)" f="pag" n="0" />
+        <role descr="thing distroyed" f="ppt" n="1" />
+        <role descr="instrument, lysin" f="mnr" n="2" />
+        <role descr="result of lysis, lysate" f="prd" n="3" />
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

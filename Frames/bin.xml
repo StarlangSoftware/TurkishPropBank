@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="bin">
+    <roleset id="bin.01" name="to store in a bin">
+      <roles>
+        <role descr="storer" f="PAG" n="0"/>
+        <role descr="thing stored" f="PPT" n="1"/>
+        <role descr="bin, location" f="GOL" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

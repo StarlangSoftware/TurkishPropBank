@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="compassion">
+    <roleset id="compassion.01" name="state of sympathy, understanding for another">
+      <roles>
+        <role descr="Experiencer of compassion" f="ppt" n="0"/>
+        <role descr="Stimulus, what arg0 has compassion for" f="cau" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

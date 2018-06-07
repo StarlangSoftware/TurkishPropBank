@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="conk">
+    <roleset id="conk.01" name="to strike, usually on the head">
+      <roles>
+        <role descr="hitter" f="PAG" n="0"/>
+        <role descr="victim" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

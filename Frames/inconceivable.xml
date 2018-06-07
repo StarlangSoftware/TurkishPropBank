@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="inconceivable">
+    <roleset id="inconceivable.01" name="impossible, totally unlikely">
+      <roles>
+        <role descr="person who cannot conceive of X" f="pag" n="0"/>
+        <role descr="X, which cannot be conceived" f="ppt" n="1"/>
+        <role descr="attribute of X, what it's inconceivable AS" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

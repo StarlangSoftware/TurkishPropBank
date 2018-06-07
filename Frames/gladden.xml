@@ -1,0 +1,19 @@
+<frameset>
+  <predicate lemma="gladden">
+    <roleset id="gladden.01" name="(cause to) become glad">
+      <roles>
+        <role descr="agent, pleaser" f="PAG" n="0"/>
+        <role descr="patient, entity pleased" f="ppt" n="1"/>
+        <role descr="instrumental" f="MNR" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="glad">
+    <roleset id="glad.02" name="happy and grateful, pleased">
+      <roles>
+        <role descr="stimulus, pleaser (about what)" f="pag" n="0"/>
+        <role descr="glad one" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

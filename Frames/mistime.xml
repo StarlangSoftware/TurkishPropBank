@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="mistime">
+    <roleset id="mistime.01" name="measure wrongly">
+      <roles>
+        <role descr="measurer" f="pag" n="0"/>
+        <role descr="thing measured" f="ppt" n="1"/>
+        <role descr="yardstick, standard of measurement" f="mnr" n="2"/>
+        <role descr="by how much? value" f="vsp" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

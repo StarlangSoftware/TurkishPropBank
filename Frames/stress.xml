@@ -1,0 +1,35 @@
+<frameset>
+  <predicate lemma="stress">
+    <roleset id="stress.01" name="emphasize">
+      <roles>
+        <role descr="stresser, agent" f="pag" n="0"/>
+        <role descr="thing stressed" f="gol" n="1"/>
+        <role descr="attribute" f="prd" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="stress.02" name="(cause to) experience stress, anxiety inducing, experiencing stress">
+      <roles>
+        <role descr="agent/cause of stress" f="pag" n="0"/>
+        <role descr="entity experiencing stress" f="ppt" n="1"/>
+        <role descr="instrument (if separate from arg0)" f="mnr" n="2"/>
+        <role descr="subject matter of stress (stressed about/over __)" f="vsp" n="3"/>
+      </roles>
+    </roleset>
+    <roleset id="stress.04" name="physical strain">
+      <roles>
+        <role descr="causer of strain" f="pag" n="0"/>
+        <role descr="thing strained" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="stress_out">
+    <roleset id="stress_out.03" name="(cause to) experience stress (phrasal)">
+      <roles>
+        <role descr="agent/cause of stress" f="pag" n="0"/>
+        <role descr="entity experiencing stress" f="ppt" n="1"/>
+        <role descr="instrument (if separate from arg0)" f="mnr" n="2"/>
+        <role descr="subject matter of stress (stressed out about/over __)" f="vsp" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

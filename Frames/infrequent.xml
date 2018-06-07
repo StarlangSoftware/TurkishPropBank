@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="infrequent">
+    <roleset id="infrequent.01" name="not occuring often">
+      <roles>
+        <role descr="infrequent event" f="pag" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

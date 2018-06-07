@@ -1,0 +1,15 @@
+<frameset>
+  <predicate lemma="awkward">
+    <roleset id="awkward.01" name="generally clumsy, cumbersome, uncomfortable">
+      <roles>
+        <role descr="awkward duck" f="pag" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="awkward.02" name="skill level (requires both args)">
+      <roles>
+        <role descr="awkwardly unskilled one" f="pag" n="1"/>
+        <role descr="non-skill" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

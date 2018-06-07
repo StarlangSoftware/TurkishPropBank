@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="bellow">
+    <roleset id="bellow.01" name="yell">
+      <roles>
+        <role descr="speaker" f="pag" n="0"/>
+        <role descr="utterance" f="ppt" n="1"/>
+        <role descr="listener" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

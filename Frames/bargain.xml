@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="bargain">
+    <roleset id="bargain.01" name="to negotiate the terms of agreement, negotiate terms">
+      <roles>
+        <role descr="negotiator, agent" f="PAG" n="0"/>
+        <role descr="thing bargained (for)" f="ppt" n="1"/>
+        <role descr="co-negotiator, bargained with" f="COM" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

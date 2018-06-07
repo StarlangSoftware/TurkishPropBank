@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="satellite">
+    <roleset id="satellite.01" name="satellite">
+      <roles>
+        <role descr="sender, satelliter, agent" f="PAG" n="0"/>
+        <role descr="entity sent, faxed, satellited" f="PPT" n="1"/>
+        <role descr="sent to, recipient" f="GOL" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,68 @@
+<frameset>
+  <predicate lemma="drop">
+    <roleset id="drop.01" name="go down, cause to fall">
+      <roles>
+        <role descr="entity doing the dropping" f="pag" n="0"/>
+        <role descr="Logical subject, patient, thing falling" f="ppt" n="1"/>
+        <role descr="EXT, amount fallen" f="ext" n="2"/>
+        <role descr="start point" f="dir" n="3"/>
+        <role descr="end point, end state of arg1" f="gol" n="4"/>
+        <role descr="attribute of arg1 actually falling, if separate from arg1" f="adv" n="m"/>
+      </roles>
+    </roleset>
+    <roleset id="drop.05" name="remove, end">
+      <roles>
+        <role descr="remover" f="pag" n="0"/>
+        <role descr="removed" f="ppt" n="1"/>
+        <role descr="source" f="dir" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="drop.06" name="give, esp. names, mention in an offhand way">
+      <roles>        
+        <role descr="sycophant, giver" f="pag" n="0"/>
+        <role descr="names, thing given" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="drop.07" name="spend money">
+      <roles>
+        <role descr="big spender" f="pag" n="0"/>
+        <role descr="amount of money" f="ppt" n="1"/>
+        <role descr="commodity" f="prp" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="drop_by">
+    <roleset id="drop_by.02" name="coming for a short visit">
+      <roles>
+        <role descr="visitor" f="ppt" n="1"/>
+        <role descr="visiting from" f="dir" n="3"/>
+        <role descr="place visited" f="gol" n="4"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="drop_off">
+    <roleset id="drop_off.03" name="leave behind?">
+      <roles>
+        <role descr="entity doing the dropping" f="pag" n="0"/>
+        <role descr="entity being dropped off" f="ppt" n="1"/>
+        <role descr="destination, end state" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="drop_out">
+    <roleset id="drop_out.04" name="quit">
+      <roles>
+        <role descr="quitter" f="pag" n="0"/>
+        <role descr="thing quit (usually of-phrase)" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="drop_in">
+    <roleset id="drop_in.08" name="stop by">
+      <roles>
+        <role descr="visitor" f="pag" n="0"/>
+        <role descr="visited" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

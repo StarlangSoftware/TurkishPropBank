@@ -1,0 +1,13 @@
+<frameset>
+  <predicate lemma="transport">
+    <roleset id="transport.01" name="move from one place to another, moving from one place to another (not means of transportation/vehicle itself)">
+      <roles>
+        <role descr="transporter" f="pag" n="0"/>
+        <role descr="thing transported" f="ppt" n="1"/>
+        <role descr="source" f="dir" n="2"/>
+        <role descr="destination" f="gol" n="3"/>
+        <role descr="path" f="loc" n="4"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

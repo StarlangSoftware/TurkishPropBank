@@ -1,0 +1,20 @@
+<frameset>
+  <predicate lemma="cloud">
+    <roleset id="cloud.01" name="(cause to) be cloudy, becoming cloudy">
+      <roles>
+        <role descr="causer, agent" f="pag" n="0"/>
+        <role descr="thing be(com)ing cloudy" f="ppt" n="1"/>
+        <role descr="cloud, instrument" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="cloudy">
+    <roleset id="cloudy.02" name="occluded (with clouds or cloudiness)">
+      <roles>
+        <role descr="causer, agent" f="pag" n="0"/>
+        <role descr="cloudy thing" f="ppt" n="1"/>
+        <role descr="cloud, instrument" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

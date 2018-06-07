@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="reconstitute">
+    <roleset id="reconstitute.01" name="reconstitute">
+      <roles>
+        <role descr="agent, reconstitutor" f="pag" n="0"/>
+        <role descr="reconstituted into what, product" f="prd" n="1"/>
+        <role descr="reconstituted with/from, material" f="vsp" n="2"/>
+        <role descr="reconstituted for whom, benefactive" f="gol" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

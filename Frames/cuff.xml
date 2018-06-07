@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="cuff">
+    <roleset id="cuff.01" name="hit in punishment">
+      <roles>
+        <role descr="hitter" f="PAG" n="0"/>
+        <role descr="victim" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

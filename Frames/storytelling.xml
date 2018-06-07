@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="storytelling">
+    <roleset id="storytelling.01" name="name">
+      <roles>
+        <role descr="storyteller" f="pag" n="0"/>
+        <role descr="story" f="ppt" n="1"/>
+        <role descr="audience" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

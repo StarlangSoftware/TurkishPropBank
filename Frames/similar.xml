@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="similar">
+    <roleset id="similar.01" name="alike">
+      <roles>
+        <role descr="first thing that is similar (or all things)" f="pag" n="1"/>
+        <role descr="similar to" f="ppt" n="2"/>
+        <role descr="characteristic that args 1 and 2 hold in common" f="vsp" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

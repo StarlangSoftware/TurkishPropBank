@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="lope">
+    <roleset id="lope.01" name="lope">
+      <roles>
+        <role descr="entity loping" f="ppt" n="1"/>
+        <role descr="path" f="loc" n="2"/>
+        <role descr="start point" f="dir" n="3"/>
+        <role descr="end point" f="gol" n="4"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="imprint">
+    <roleset id="imprint.01" name="impress or mark">
+      <roles>
+        <role descr="imprinter" f="PAG" n="0"/>
+        <role descr="surface" f="GOL" n="1"/>
+        <role descr="thing imprinted" f="PPT" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

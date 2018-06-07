@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="subsist">
+    <roleset id="subsist.01" name="live by feeding on">
+      <roles>
+        <role descr="entity subsisting, agent" f="PAG" n="0"/>
+        <role descr="subsisting on what, food" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

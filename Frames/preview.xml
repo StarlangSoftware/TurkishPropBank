@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="preview">
+    <roleset id="preview.01" name="to view or  exhibit in advance">
+      <roles>
+        <role descr="pre-viewer, agent" f="PAG" n="0"/>
+        <role descr="entity previewed" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

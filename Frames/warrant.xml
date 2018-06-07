@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="warrant">
+    <roleset id="warrant.01" name="call for, require, justify">
+      <roles>
+        <role descr="requirer" f="pag" n="0"/>
+        <role descr="thing required" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

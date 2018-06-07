@@ -1,0 +1,19 @@
+<frameset>
+  <predicate lemma="drum">
+    <roleset id="drum.02" name="make drumming noise">
+      <roles>
+        <role descr="agentive drummer" f="PAG" n="0"/>
+        <role descr="instrument" f="MNR" n="1"/>
+        <role descr="drum surface" f="PPT" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="drum_up">
+    <roleset id="drum_up.01" name="gather, bring about">
+      <roles>
+        <role descr="gatherer, agent" f="PAG" n="0"/>
+        <role descr="thing brought about" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

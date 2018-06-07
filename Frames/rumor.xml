@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="rumor">
+    <roleset id="rumor.01" name="tell or spread rumors">
+      <roles>
+        <role descr="agent" f="pag" n="0"/>
+        <role descr="rumor" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,27 @@
+<frameset>
+  <predicate lemma="scent">
+    <roleset id="scent.01" name="fill with the odor of">
+      <roles>
+        <role descr="agent, causer" f="pag" n="0"/>
+        <role descr="thing scented" f="gol" n="1"/>
+        <role descr="substance, scent" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="scent.02" name="catch the scent of">
+      <roles>
+        <role descr="entity doing the smelling" f="pag" n="0"/>
+        <role descr="the scent" f="ppt" n="1"/>
+        <role descr="air or environment carrying the scent" f="loc" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="scent_out">
+    <roleset id="scent_out.03" name="find by following the scent of">
+      <roles>
+        <role descr="entity doing the smelling" f="pag" n="0"/>
+        <role descr="thing found by its scent" f="ppt" n="1"/>
+        <role descr="source leading to the discovery of Arg 1" f="dir" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

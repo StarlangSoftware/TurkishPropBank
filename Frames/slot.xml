@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="slot">
+    <roleset id="slot.01" name="attach by inserting into a slot">
+      <roles>
+        <role descr="agent, cause of attachment" f="pag" n="0"/>
+        <role descr="first item attached" f="ppt" n="1"/>
+        <role descr="inserted into, fitted to second item" f="loc" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

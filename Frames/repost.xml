@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="repost">
+    <roleset id="repost.01" name="post, again">
+      <roles>
+        <role descr="poster" f="pag" n="0"/>
+        <role descr="posted" f="ppt" n="1"/>
+        <role descr="posted-to" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

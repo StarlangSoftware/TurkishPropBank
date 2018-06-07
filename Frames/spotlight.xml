@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="spotlight">
+    <roleset id="spotlight.01" name="to highlight">
+      <roles>
+        <role descr="entity throwing the spotlight on something" f="PAG" n="0"/>
+        <role descr="entity spotlighted" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

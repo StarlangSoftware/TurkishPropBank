@@ -1,0 +1,26 @@
+<frameset>
+  <predicate lemma="sober">
+    <roleset id="sober.01" name="(cause to become) free of intoxication">
+      <roles>
+        <role descr="causer/stimulus of sobriety" f="pag" n="0"/>
+        <role descr="sober entity" f="ppt" n="1"/>
+        <role descr="instrument" f="mnr" n="2"/>
+        <role descr="intoxicant removed" f="ppt" n="3"/>
+      </roles>
+    </roleset>
+    <roleset id="sober.03" name=" clear-headed; not intoxicated">
+      <roles>
+        <role descr="clear-headed entity" f="ppt" n="1"/>
+        <role descr="drug, intoxicant that arg1 is free of" f="vsp" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="sober_up">
+    <roleset id="sober_up.02" name="become sober, undrunk">
+      <roles>
+        <role descr="causer of sobering" f="pag" n="0"/>
+        <role descr="thing getting sober" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="counterprogram">
+    <roleset id="counterprogram.01" name="to schedule programming to compete with another show">
+      <roles>
+        <role descr="agent, programmer" f="pag" n="0"/>
+        <role descr="competing program, counterprogrammed show" f="ppt" n="1"/>
+        <role descr="programming used to counterprogram, counterprogrammed with" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

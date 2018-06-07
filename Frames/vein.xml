@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="vein">
+    <roleset id="vein.01" name="make a vein-like pattern">
+      <roles>
+        <role descr="causer of veins" f="PAG" n="0"/>
+        <role descr="destination of veins" f="GOL" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

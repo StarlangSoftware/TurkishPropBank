@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="recheck">
+    <roleset id="recheck.01" name="re-examine">
+      <roles>
+        <role descr="Checker" f="pag" n="0"/>
+        <role descr="Thing/Person checked" f="loc" n="1"/>
+        <role descr="Checked for" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

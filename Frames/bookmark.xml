@@ -1,0 +1,13 @@
+<frameset>
+  <predicate lemma="bookmark">
+    <roleset id="bookmark.01" name="name">
+      <roles>
+        <role descr="bookmarker, agent" f="pag" n="0"/>
+        <role descr="larger body of text, within which a smaller selection is marked" f="ppt" n="1"/>
+        <role descr="smaller selection marked for easy revisiting" f="loc" n="2"/>
+        <role descr="explicit coordinates, page number, etc." f="loc" n="3"/>
+        <role descr="bookmark used" f="mnr" n="4"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

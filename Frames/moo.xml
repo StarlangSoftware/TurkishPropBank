@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="moo">
+    <roleset id="moo.01" name="make cow sounds">
+      <roles>
+        <role descr="cow" f="PAG" n="0"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,28 @@
+<frameset>
+  <predicate lemma="resolve">
+    <roleset id="resolve.01" name="resolve, come to a solution, solution in practice. solving an issue.">
+      <roles>
+        <role descr="entity making resolution" f="pag" n="0"/>
+        <role descr="thing being resolved" f="ppt" n="1"/>
+        <role descr="comitative, resolved with" f="com" n="2"/>
+        <role descr="attribute, resolved to or at" f="prd" n="3"/>
+      </roles>
+    </roleset>
+    <roleset id="resolve.02" name="decide, commit to an endeavor (think new year's resolutions)">
+      <roles>
+        <role descr="decider" f="pag" n="0"/>
+        <role descr="decision" f="ppt" n="1"/>
+        <role descr="benefactive" f="gol" n="2"/>
+        <role descr="instrument" f="mnr" n="3"/>
+      </roles>
+    </roleset>
+    <roleset id="resolve.03" name="separate into constituents">
+      <roles>
+        <role descr="agent, causer" f="pag" n="0"/>
+        <role descr="material resolved" f="ppt" n="1"/>
+        <role descr="end state, constituents" f="prd" n="2"/>
+        <role descr="method used" f="mnr" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="passionate">
+    <roleset id="passionate.01" name="ardent, feeling extreme emotion towards">
+      <roles>
+        <role descr="passionate one" f="pag" n="0"/>
+        <role descr="about what" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

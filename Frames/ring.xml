@@ -1,0 +1,38 @@
+<frameset>
+  <predicate lemma="ring">
+    <roleset id="ring.01" name="to (cause) to make a sound of a bell, ring a bell, emitting a high clear noise (like a bell)">
+      <roles>
+        <role descr="causer of ringing" f="pag" n="0"/>
+        <role descr="bell" f="ppt" n="1"/>
+        <role descr="what the ringing signals/summons" f="gol" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="ring.02" name="to surround">
+      <roles>
+        <role descr="causal agent" f="pag" n="0"/>
+        <role descr="surrounding entity" f="ppt" n="1"/>
+        <role descr="surrounded entity" f="gol" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="ring.04" name="telephone">
+      <roles>
+        <role descr="caller" f="pag" n="0"/>
+        <role descr="called" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="ring.05" name="ring true (or ring of some other attribute), sounds like">
+      <roles>
+        <role descr="thing with truth" f="ppt" n="1"/>
+        <role descr="'true' or other attribute" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="ring_up">
+    <roleset id="ring_up.03" name="to record">
+      <roles>
+        <role descr="recorder" f="pag" n="0"/>
+        <role descr="entity rung up" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

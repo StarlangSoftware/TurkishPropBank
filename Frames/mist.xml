@@ -1,0 +1,41 @@
+<frameset>
+  <predicate lemma="mist">
+    <roleset id="mist.01" name="make blurry with mist (emphasis on blurriness)">
+      <roles>
+        <role descr="Agent causing the mist" f="PAG" n="0"/>
+        <role descr="thing becoming opaque with mist" f="gol" n="1"/>
+        <role descr="the mist" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="mist.02" name="spray with a mist of something">
+      <roles>
+        <role descr="Agent, person doing the spraying" f="PAG" n="0"/>
+        <role descr="destination of the spray" f="gol" n="1"/>
+        <role descr="the spray itself" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="mist.03" name="weather condition with empty 'it'.">
+      <roles>
+        <role descr="the droplets of mist themselves (or cognate)" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="mist_up">
+    <roleset id="mist_up.04" name="mist_up: obscure with mist">
+      <roles>
+        <role descr="Agent causing the mist" f="PAG" n="0"/>
+        <role descr="thing becoming opaque with mist" f="gol" n="1"/>
+        <role descr="the mist" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="mist_over">
+    <roleset id="mist_over.05" name="mist_over: obscure with mist">
+      <roles>
+        <role descr="Agent causing the mist" f="PAG" n="0"/>
+        <role descr="thing becoming opaque with mist" f="gol" n="1"/>
+        <role descr="the mist" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

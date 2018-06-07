@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="abrade">
+    <roleset id="abrade.01" name="wear off or rub off">
+      <roles>
+        <role descr="agent, causing wearing" f="PAG" n="0"/>
+        <role descr="thing wearing" f="PPT" n="1"/>
+        <role descr="instrument" f="MNR" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="accurate">
+    <roleset id="accurate.01" name="precise">
+      <roles>
+        <role descr="agent" f="pag" n="0"/>
+        <role descr="thing that is exact" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="saturate">
+    <roleset id="saturate.01" name="fill to capacity">
+      <roles>
+        <role descr="agent of filling, volitional filler" f="PAG" n="0"/>
+        <role descr="container" f="GOL" n="1"/>
+        <role descr="substance" f="PPT" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

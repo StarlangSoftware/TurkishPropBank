@@ -1,0 +1,28 @@
+<frameset>
+  <predicate lemma="dull">
+    <roleset id="dull.01" name="(cause to) lose shininess">
+      <roles>
+        <role descr="causer of dullness" f="PAG" n="0"/>
+        <role descr="thing getting dull" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="dull.02" name="boring, not interesting">
+      <roles>
+        <role descr="boring thing" f="pag" n="0"/>
+        <role descr="boring to whom?" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="dull.03" name="not sharp">
+      <roles>
+        <role descr="causer of not-sharpness" f="pag" n="0"/>
+        <role descr="not sharp thing" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="dull.04" name="not shiny">
+      <roles>
+        <role descr="causer of dullness" f="pag" n="0"/>
+        <role descr="thing getting dull" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

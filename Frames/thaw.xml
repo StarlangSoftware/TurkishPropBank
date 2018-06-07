@@ -1,0 +1,18 @@
+<frameset>
+  <predicate lemma="thaw">
+    <roleset id="thaw.01" name="defrost">
+      <roles>
+        <role descr="causer of defrosting" f="PAG" n="0"/>
+        <role descr="item losing its frost" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="thaw_out">
+    <roleset id="thaw_out.02" name="thaw_out: fully defrost">
+      <roles>
+        <role descr="causer of defrosting" f="PAG" n="0"/>
+        <role descr="item losing its frost" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

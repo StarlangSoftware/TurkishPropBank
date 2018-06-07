@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="surfeit">
+    <roleset id="surfeit.01" name="excessively satisfy">
+      <roles>
+        <role descr="causer of satisfaction" f="pag" n="0"/>
+        <role descr="person satisfied" f="ppt" n="1"/>
+        <role descr="instrument of satisfaction" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

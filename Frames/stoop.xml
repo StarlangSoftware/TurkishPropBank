@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="stoop">
+    <roleset id="stoop.01" name="bend at waist while standing">
+      <roles>
+        <role descr="stooper" f="PAG" n="0"/>
+        <role descr="body part/thing stooped" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

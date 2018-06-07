@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="roam">
+    <roleset id="roam.01" name="move over a wide area">
+      <roles>
+        <role descr="entity in motion" f="PPT" n="0"/>
+        <role descr="range, wide area" f="LOC" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

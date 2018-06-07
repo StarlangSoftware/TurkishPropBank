@@ -1,0 +1,22 @@
+<frameset>
+  <predicate lemma="nudge">
+    <roleset id="nudge.01" name="move slightly">
+      <roles>
+        <role descr="Agent, causer" f="pag" n="0"/>
+        <role descr="Logical subject, patient, thing moving" f="ppt" n="1"/>
+        <role descr="EXT, amount moved" f="ext" n="2"/>
+        <role descr="start point" f="dir" n="3"/>
+        <role descr="end point" f="gol" n="4"/>
+        <role descr="medium" f="loc" n="m"/>
+        <role descr="direction--REQUIRED" f="gol" n="5"/>
+      </roles>
+    </roleset>
+    <roleset id="nudge.02" name="touch lightly">
+      <roles>
+        <role descr="causal agent" f="pag" n="0"/>
+        <role descr="thing touched" f="ppt" n="1"/>
+        <role descr="touched with, if separate from agent" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

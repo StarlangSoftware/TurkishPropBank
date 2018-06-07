@@ -1,0 +1,24 @@
+<frameset>
+  <predicate lemma="flux">
+    <roleset id="flux.01" name="to move, flow like a stream">
+      <roles>
+        <role descr="Mover, entity flowing" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="flux.02" name="become liquid when heated">
+      <roles>
+        <role descr="Agent, cause of melting" f="pag" n="0"/>
+        <role descr="Entity becoming liquid" f="vsp" n="1"/>
+        <role descr="Resulting liquid" f="prd" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="flux.03" name="blend two ingredients together">
+      <roles>
+        <role descr="agent, cause of mixing" f="pag" n="0"/>
+        <role descr="First or all (if together in single constituent) ingredients mixed" f="ppt" n="1"/>
+        <role descr="Second ingredient when separate mention" f="ppt" n="2"/>
+        <role descr="End product" f="prd" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

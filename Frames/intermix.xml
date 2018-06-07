@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="intermix">
+    <roleset id="intermix.01" name="to mix together">
+      <roles>
+        <role descr="agent, entity mixing" f="PAG" n="0"/>
+        <role descr="entity mixed" f="PPT" n="1"/>
+        <role descr="entity mixed with" f="PPT" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

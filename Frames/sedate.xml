@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="sedate">
+    <roleset id="sedate.01" name="make calm with drugs">
+      <roles>
+        <role descr="sedator" f="pag" n="0"/>
+        <role descr="sedated" f="ppt" n="1"/>
+        <role descr="instrument of sedation" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

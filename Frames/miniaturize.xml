@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="miniaturize">
+    <roleset id="miniaturize.01" name="make very small">
+      <roles>
+        <role descr="cause of smallness, agent" f="PAG" n="0"/>
+        <role descr="small thing" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

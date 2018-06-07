@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="foreshadow">
+    <roleset id="foreshadow.01" name="augur, bode">
+      <roles>
+        <role descr="predictor of future" f="pag" n="0"/>
+        <role descr="prediction" f="ppt" n="1"/>
+        <role descr="means of prediction" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="papillary">
+    <roleset id="papillary.01" name="relating to papillae">
+      <roles>
+        <role descr="papillary entity" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

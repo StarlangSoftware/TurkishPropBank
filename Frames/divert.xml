@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="divert">
+    <roleset id="divert.01" name="cause to turn away">
+      <roles>
+        <role descr="Stimulus of turning" f="pag" n="0"/>
+        <role descr="thing turning" f="ppt" n="1"/>
+        <role descr="from" f="dir" n="2"/>
+        <role descr="to" f="gol" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

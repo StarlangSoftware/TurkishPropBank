@@ -1,0 +1,25 @@
+<frameset>
+  <predicate lemma="wait">
+    <roleset id="wait.01" name="wait, delay movement or action">
+      <roles>
+        <role descr="wait-er (not waiter, that's the other sense)" f="ppt" n="1"/>
+        <role descr="thing waited for" f="cau" n="2"/>
+        <role descr="period of time waited through" f="tmp" n="m"/>
+      </roles>
+    </roleset>
+    <roleset id="wait.02" name="serve tables">
+      <roles>
+        <role descr="waiter" f="pag" n="0"/>
+        <role descr="table" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="wait_out">
+    <roleset id="wait_out.03" name="wait out: endure, outlast, enduring, lasting">
+      <roles>
+        <role descr="thing lasting longer" f="pag" n="0"/>
+        <role descr="thing lasting shorter" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,19 @@
+<frameset>
+  <predicate lemma="gag">
+    <roleset id="gag.01" name="reflex caused by oject in mouth">
+      <roles>
+        <role descr="causer of gagging, agent" f="pag" n="0"/>
+        <role descr="entity gagged" f="ppt" n="1"/>
+        <role descr="instrument, object in mouth" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="gagworthy">
+    <roleset id="gagworthy.02" name="able to elicit the gag reflex">
+      <roles>
+        <role descr="causer of gagging, agent" f="pag" n="0"/>
+        <role descr="entity gagged" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

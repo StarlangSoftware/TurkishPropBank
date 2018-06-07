@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="lacerate">
+    <roleset id="lacerate.01" name="to tear roughly, mangle">
+      <roles>
+        <role descr="causer of injury" f="pag" n="0"/>
+        <role descr="injured party" f="ppt" n="1"/>
+        <role descr="instrument, if separate from arg0" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

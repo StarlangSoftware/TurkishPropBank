@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="indulge">
+    <roleset id="indulge.01" name="allow a luxury">
+      <roles>
+        <role descr="allower" f="pag" n="0"/>
+        <role descr="luxury" f="ppt" n="1"/>
+        <role descr="recipient (us. reflexive)" f="rec" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

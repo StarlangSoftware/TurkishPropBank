@@ -1,0 +1,16 @@
+<frameset>
+  <predicate lemma="subside">
+    <roleset id="subside.01" name="to decrease">
+      <roles>
+        <role descr="entity decreasing" f="ppt" n="1"/>
+        <role descr="decreasing to" f="ext" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="subside.02" name="ground sinkage">
+      <roles>
+        <role descr="causer of ground sinking" f="PAG" n="0"/>
+        <role descr="the ground" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

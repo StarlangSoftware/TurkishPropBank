@@ -1,0 +1,33 @@
+<frameset>
+  <predicate lemma="post">
+    <roleset id="post.01" name="cf report, put up for public view">
+      <roles>
+        <role descr="poster" f="pag" n="0"/>
+        <role descr="posted" f="ppt" n="1"/>
+        <role descr="posted-to" f="gol" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="post.02" name="tell someone news as it comes in">
+      <roles>
+        <role descr="teller" f="pag" n="0"/>
+        <role descr="hearer" f="gol" n="1"/>
+        <role descr="news" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="post.03" name="assign to a post, station somewhere">
+      <roles>
+        <role descr="assigning entity" f="pag" n="0"/>
+        <role descr="entity given a station" f="ppt" n="1"/>
+        <role descr="the station, post" f="gol" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="post.04" name="send via the postal service">
+      <roles>
+        <role descr="sender" f="pag" n="0"/>
+        <role descr="sent (mail, etc)" f="ppt" n="1"/>
+        <role descr="mail service used" f="mnr" n="2"/>
+        <role descr="recipient" f="gol" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

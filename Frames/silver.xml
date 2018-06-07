@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="silver">
+    <roleset id="silver.01" name="(cause to) be silver in color or coating">
+      <roles>
+        <role descr="causer of transformation" f="cau" n="0"/>
+        <role descr="thing becoming silver" f="gol" n="1"/>
+        <role descr="instrument or manner separate from arg 0" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

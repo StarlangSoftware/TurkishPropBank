@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="decry">
+    <roleset id="decry.01" name="publicly express low opinion of">
+      <roles>
+        <role descr="agent, decrier" f="PAG" n="0"/>
+        <role descr="thing with low value" f="PPT" n="1"/>
+        <role descr="reason" f="PRD" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

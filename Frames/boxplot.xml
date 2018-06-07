@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="boxplot">
+    <roleset id="boxplot.01" name="summarize numerical data via median, upper quartile, lower quartile, and extreme upper and lower values">
+      <roles>
+        <role descr="agent" f="pag" n="0"/>
+        <role descr="data set plotted" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

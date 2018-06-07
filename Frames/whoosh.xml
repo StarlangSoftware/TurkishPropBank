@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="whoosh">
+    <roleset id="whoosh.01" name="moving with a whooshing noise">
+      <roles>
+        <role descr="agent/cause of noise-making, motion" f="PAG" n="0"/>
+        <role descr="thing actually in motion: noise, air, propelled thing" f="ppt" n="1"/>
+        <role descr="path" f="loc" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

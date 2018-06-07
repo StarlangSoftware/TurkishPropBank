@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="colocalize">
+    <roleset id="colocalize.01" name="occur together in the same cell">
+      <roles>
+        <role descr="local entities" f="ppt" n="1" />
+        <role descr="common area (cell)" f="loc" n="2" />
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

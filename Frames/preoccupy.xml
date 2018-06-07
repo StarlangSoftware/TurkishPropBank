@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="preoccupy">
+    <roleset id="preoccupy.01" name="demand full attention">
+      <roles>
+        <role descr="causer of preoccupation" f="pag" n="0"/>
+        <role descr="preoccupied entity" f="ppt" n="1"/>
+        <role descr="focus of attention" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

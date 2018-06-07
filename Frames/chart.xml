@@ -1,0 +1,18 @@
+<frameset>
+  <predicate lemma="chart">
+    <roleset id="chart.01" name="document, as with a chart">
+      <roles>
+        <role descr="chart-maker" f="pag" n="0"/>
+        <role descr="thing being charted" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="chart_out">
+    <roleset id="chart_out.02" name="document, as with a chart">
+      <roles>
+        <role descr="chart-maker" f="pag" n="0"/>
+        <role descr="thing being charted" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="matrilineal">
+    <roleset id="matrilineal.01" name="tracing descent through female lines">
+      <roles>
+        <role descr="matrilineal entity" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

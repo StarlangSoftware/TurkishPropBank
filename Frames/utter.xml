@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="utter">
+    <roleset id="utter.01" name="to pronounce or speak">
+      <roles>
+        <role descr="speaker" f="PAG" n="0"/>
+        <role descr="utterance" f="PPT" n="1"/>
+        <role descr="hearer" f="GOL" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

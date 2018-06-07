@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="lichenify">
+    <roleset id="lichenify.101" name="become thick and leathery as a result of rubbing or scratching, become thick and leathery">
+      <roles>
+        <role descr="Causer of lichenification" f="PAG" n="0"/>
+        <role descr="Thing becoming lichenified" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

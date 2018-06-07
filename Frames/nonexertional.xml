@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="nonexertional">
+    <roleset id="nonexertional.01" name="not occuring in direct response to exertion">
+      <roles>
+        <role descr="agent, exerter" f="pag" n="0"/>
+        <role descr="thing that occurs not in response to exertion" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

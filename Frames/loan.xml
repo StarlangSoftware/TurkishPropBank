@@ -1,0 +1,19 @@
+<frameset>
+  <predicate lemma="loan">
+    <roleset id="loan.01" name="give temporarily">
+      <roles>
+        <role descr="giver" f="pag" n="0"/>
+        <role descr="thing given" f="ppt" n="1"/>
+        <role descr="entity given to" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="loan_out">
+    <roleset id="loan_out.02" name="like loan.01 but without stated recipient">
+      <roles>
+        <role descr="giver" f="pag" n="0"/>
+        <role descr="thing given" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,24 @@
+<frameset>
+  <predicate lemma="ply">
+    <roleset id="ply.01" name="supply with">
+      <roles>
+        <role descr="provider" f="pag" n="0"/>
+        <role descr="entity getting stuff" f="gol" n="1"/>
+        <role descr="stuff" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="ply.02" name="work at some business/trade/skill">
+      <roles>
+        <role descr="worker" f="pag" n="0"/>
+        <role descr="business/trade/skill" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="ply.03" name="typo for pry">
+      <roles>
+        <role descr="agent, pry-er" f="pag" n="0"/>
+        <role descr="thing pried" f="ppt" n="1"/>
+        <role descr="end state/attribute of arg1" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

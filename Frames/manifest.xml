@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="manifest">
+    <roleset id="manifest.01" name="come to appear, being realized physically">
+      <roles>
+        <role descr="thing appearing" f="ppt" n="1"/>
+        <role descr="reflexive pronoun" f="gol" n="2"/>
+        <role descr="medium of appearance" f="PRD" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

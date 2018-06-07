@@ -1,0 +1,18 @@
+<frameset>
+  <predicate lemma="qualify">
+    <roleset id="qualify.01" name="define (further), further defining, hedging, putting conditions on">
+      <roles>
+        <role descr="speaker" f="pag" n="0"/>
+        <role descr="thing being described" f="ppt" n="1"/>
+        <role descr="secondary predication" f="prd" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="qualify.02" name="measure up to">
+      <roles>
+        <role descr="agent/cause, qualifying factor" f="pag" n="0"/>
+        <role descr="entity being tested" f="ppt" n="1"/>
+        <role descr="for what?" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

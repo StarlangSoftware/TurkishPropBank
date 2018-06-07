@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="prescreen">
+    <roleset id="prescreen.01" name="conduct a preliminary screening (weeding out) process">
+      <roles>
+        <role descr="screener" f="pag" n="0"/>
+        <role descr="original group the sorting process is applied to" f="loc" n="1"/>
+        <role descr="screened for what quality, subgroup, characterisitc" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

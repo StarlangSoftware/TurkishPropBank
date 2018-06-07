@@ -1,0 +1,23 @@
+<frameset>
+  <predicate lemma="pit">
+    <roleset id="pit.01" name="establish a fight">
+      <roles>
+        <role descr="entity setting up a fight" f="pag" n="0"/>
+        <role descr="one combatant" f="ppt" n="1"/>
+        <role descr="other combatant" f="gol" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="pit.02" name="remove the seeds">
+      <roles>
+        <role descr="entity removing seeds" f="pag" n="0"/>
+        <role descr="seeds" f="dir" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="pit.03" name="texture, making pits in">
+      <roles>
+        <role descr="pitted by" f="pag" n="0"/>
+        <role descr="material pitted" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

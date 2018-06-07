@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="officiate">
+    <roleset id="officiate.01" name="to function as an officer of a duty, such as a priest or referee">
+      <roles>
+        <role descr="official performing a duty" f="PAG" n="0"/>
+        <role descr="duty, ceremony officiated by arg 0" f="PPT" n="1"/>
+        <role descr="role, secondary predication of arg0, officiated as what?" f="PRD" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

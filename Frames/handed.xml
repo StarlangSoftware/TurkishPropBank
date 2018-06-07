@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="handed">
+    <roleset id="handed.01" name="involving the use of hands">
+      <roles>
+        <role descr="person who is X-handed" f="ppt" n="1"/>
+        <role descr="orientation" f="vsp" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

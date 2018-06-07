@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="kickstart">
+    <roleset id="kickstart.01" name="bring to life, as one does a motorcycle with a kick">
+      <roles>
+        <role descr="kick-starter" f="pag" n="0"/>
+        <role descr="thing brought to life" f="ppt" n="1"/>
+        <role descr="instrument" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

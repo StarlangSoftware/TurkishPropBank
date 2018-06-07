@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="doobydoobydo">
+    <roleset id="doobydoobydo.01" name="sing &quot;dooby dooby do&quot;, like sinatra">
+      <roles>
+        <role descr="dooby dooby doer" f="pag" n="0"/>
+        <role descr="utterance (dooby dooby do)" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

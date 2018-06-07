@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="mute">
+    <roleset id="mute.01" name="to soften, quiet">
+      <roles>
+        <role descr="causer of quietness, agent" f="pag" n="0"/>
+        <role descr="entity muted" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

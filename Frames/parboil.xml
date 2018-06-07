@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="parboil">
+    <roleset id="parboil.01" name="blanch">
+      <roles>
+        <role descr="cook" f="PAG" n="0"/>
+        <role descr="food" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

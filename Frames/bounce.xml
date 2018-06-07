@@ -1,0 +1,20 @@
+<frameset>
+  <predicate lemma="bounce">
+    <roleset id="bounce.01" name="boing boing boing,">
+      <roles>
+        <role descr="causer of bouncing, agent" f="pag" n="0"/>
+        <role descr="thing bouncing, rubber ball" f="ppt" n="1"/>
+        <role descr="extent" f="ext" n="2"/>
+        <role descr="start point" f="dir" n="3"/>
+        <role descr="end point" f="gol" n="4"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="bounce_back">
+    <roleset id="bounce_back.02" name="recover">
+      <roles>
+        <role descr="thing recovering" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

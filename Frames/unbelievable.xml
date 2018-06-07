@@ -1,0 +1,17 @@
+<frameset>
+  <predicate lemma="unbelievable">
+    <roleset id="unbelievable.01" name="not to be believed">
+      <roles>
+        <role descr="nonbeliever" f="pag" n="0"/>
+        <role descr="thing not able to be believed" f="ppt" n="1"/>
+        <role descr="secondary predication on arg1" f="prd" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="unbelievable.02" name="over the top, perhaps with skill">
+      <roles>
+        <role descr="over the top/skilled entity" f="pag" n="1"/>
+        <role descr="area of expertise" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

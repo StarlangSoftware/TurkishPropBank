@@ -1,0 +1,31 @@
+<frameset>
+  <predicate lemma="advance">
+    <roleset id="advance.01" name="move forward or upward">
+      <roles>
+        <role descr="agent, causing advance" f="pag" n="0"/>
+        <role descr="thing advancing" f="ppt" n="1"/>
+        <role descr="extent of advancement" f="ext" n="2"/>
+        <role descr="start point" f="dir" n="3"/>
+        <role descr="end point" f="gol" n="4"/>
+        <role descr="attribute of arg1, where this is advancing rather than whole" f="prd" n="5"/>
+      </roles>
+    </roleset>
+    <roleset id="advance.03" name="pay out a portion of wages/credit before they are due">
+      <roles>
+        <role descr="payer" f="pag" n="0"/>
+        <role descr="wages paid ahead of time" f="ppt" n="1"/>
+        <role descr="payee" f="gol" n="2"/>
+        <role descr="total wages, out of which arg1 is paid" f="vsp" n="3"/>
+        <role descr="transaction, reason for advance" f="prp" n="4"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="advanced">
+    <roleset id="advanced.02" name="progressive, cutting edge">
+      <roles>
+        <role descr="progressive entity" f="ppt" n="1"/>
+        <role descr="domain" f="vsp" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

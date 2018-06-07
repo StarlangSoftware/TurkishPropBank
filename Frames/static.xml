@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="static">
+    <roleset id="static.01" name="fixed, unchanging">
+      <roles>
+        <role descr="static entity" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

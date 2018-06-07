@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="immunofluoresce">
+    <roleset id="immunofluoresce.01" name="utilize fluorescent-labeled antibodies to detect the location and relative abundance of a protein">
+      <roles>
+        <role descr="entity immunofluorescing" f="ppt" n="1" />
+        <role descr="instrument" f="prd" n="2" />
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

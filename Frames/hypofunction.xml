@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="hypofunction">
+    <roleset id="hypofunction.01" name="underperform">
+      <roles>
+        <role descr="worker" f="pag" n="0"/>
+        <role descr="job, function, project" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

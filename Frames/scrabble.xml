@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="scrabble">
+    <roleset id="scrabble.01" name="feel searchingly">
+      <roles>
+        <role descr="scrabbler" f="PAG" n="0"/>
+        <role descr="scrabbled in/through" f="LOC" n="1"/>
+        <role descr="scrabbled for" f="PPT" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

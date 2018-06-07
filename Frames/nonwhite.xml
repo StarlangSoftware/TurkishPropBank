@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="nonwhite">
+    <roleset id="nonwhite.01" name="of an ethnicity not featuring 'white' skin">
+      <roles>
+        <role descr="entity identifying as other than white, racially" f="pag" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

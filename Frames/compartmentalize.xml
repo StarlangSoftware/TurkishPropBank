@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="compartmentalize">
+    <roleset id="compartmentalize.01" name="brake apart, categorize">
+      <roles>
+        <role descr="agent" f="pag" n="0"/>
+        <role descr="entity decomposed, broken apart" f="ppt" n="1"/>
+        <role descr="predication, categories, comparmentalized as or into" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,25 @@
+<frameset>
+  <predicate lemma="gather">
+    <roleset id="gather.01" name="to collect">
+      <roles>
+        <role descr="agent or causer" f="pag" n="0"/>
+        <role descr="entity gathered" f="ppt" n="1"/>
+        <role descr="gathered into" f="gol" n="2"/>
+        <role descr="beneficiary" f="gol" n="3"/>
+      </roles>
+    </roleset>
+    <roleset id="gather.02" name="understand, deduce">
+      <roles>
+        <role descr="understander" f="pag" n="0"/>
+        <role descr="understood" f="ppt" n="1"/>
+        <role descr="source, evidence" f="dir" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="gather.03" name="come together, meet">
+      <roles>
+        <role descr="entities coming together, meeting particpants" f="pag" n="0"/>
+        <role descr="purpose/type of gathering" f="prp" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

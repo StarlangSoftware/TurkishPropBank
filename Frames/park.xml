@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="park">
+    <roleset id="park.01" name="to leave temporarily">
+      <roles>
+        <role descr="parker, agent" f="pag" n="0"/>
+        <role descr="entity parked" f="ppt" n="1"/>
+        <role descr="parking place" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

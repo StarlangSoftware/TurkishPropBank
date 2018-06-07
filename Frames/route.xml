@@ -1,0 +1,27 @@
+<frameset>
+  <predicate lemma="route">
+    <roleset id="route.01" name="send via a specific route">
+      <roles>
+        <role descr="sender" f="pag" n="0"/>
+        <role descr="thing sent" f="ppt" n="1"/>
+        <role descr="destination" f="loc" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="rout">
+    <roleset id="rout.02" name="defeat soundly">
+      <roles>
+        <role descr="winner" f="pag" n="0"/>
+        <role descr="loser" f="ppt" n="1"/>
+        <role descr="domain: game, battle" f="vsp" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="rout.03" name="woodwork: use a router">
+      <roles>
+        <role descr="woodworker" f="pag" n="0"/>
+        <role descr="design, theme" f="ppt" n="1"/>
+        <role descr="wood/substance routed" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="char">
+    <roleset id="char.01" name="burn incompletely">
+      <roles>
+        <role descr="bad cook, agent" f="PAG" n="0"/>
+        <role descr="partially-burnt thing" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

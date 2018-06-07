@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="neck">
+    <roleset id="neck.01" name="caress amorously/strangle/rein horse">
+      <roles>
+        <role descr="agent" f="pag" n="0"/>
+        <role descr="entity necked" f="com" n="1"/>
+        <role descr="instrument" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

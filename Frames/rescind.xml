@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="rescind">
+    <roleset id="rescind.01" name="take back">
+      <roles>
+        <role descr="taker back, agent" f="PAG" n="0"/>
+        <role descr="thing taken back" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="prop_up">
+    <roleset id="prop_up.01" name="support, hold upright">
+      <roles>
+        <role descr="helper, prop" f="pag" n="0"/>
+        <role descr="thing being held up" f="ppt" n="1"/>
+        <role descr="instrument, if separate from arg0" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

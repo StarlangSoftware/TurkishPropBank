@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="subselect">
+    <roleset id="subselect.01" name="make a choice, pick out from a small set">
+      <roles>
+        <role descr="selector" f="PAG" n="0"/>
+        <role descr="entity selected" f="PPT" n="1"/>
+        <role descr="selected from, set" f="DIR" n="2"/>
+        <role descr="attribute, selected for/as" f="PRD" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

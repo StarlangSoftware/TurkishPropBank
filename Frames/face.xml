@@ -1,0 +1,26 @@
+<frameset>
+  <predicate lemma="face">
+    <roleset id="face.01" name="look across at">
+      <roles>
+        <role descr="looker, facer" f="pag" n="0"/>
+        <role descr="looked at, faced" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="face_off">
+    <roleset id="face_off.02" name="face off: oppose, fight">
+      <roles>
+        <role descr="first opponent" f="pag" n="0"/>
+        <role descr="second opponent" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="aboutface">
+    <roleset id="aboutface.03" name="about-face, change your mind/stance completely">
+      <roles>
+        <role descr="Person changing mind" f="pag" n="0"/>
+        <role descr="Regarding what issue" f="vsp" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

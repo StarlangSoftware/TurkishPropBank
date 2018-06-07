@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="overcommit">
+    <roleset id="overcommit.01" name="to bind or obligate beyond capacity">
+      <roles>
+        <role descr="entity committing too much" f="pag" n="0"/>
+        <role descr="entity committed" f="ppt" n="1"/>
+        <role descr="committed-to, recipient" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

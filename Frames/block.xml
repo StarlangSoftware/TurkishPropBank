@@ -1,0 +1,23 @@
+<frameset>
+  <predicate lemma="block">
+    <roleset id="block.01" name="oppose, halt, stop, block up, stopping up">
+      <roles>
+        
+        <role descr="blocker, Agent" f="pag" n="0"/>
+        <role descr="Theme (action or object being stopped)" f="ppt" n="1"/>
+        <role descr="secondary predication, arg1 stopped from what, where relevant" f="gol" n="2"/>
+        <role descr="Instrument, blcked with what? stuff acting as block" f="ppt" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="block_up">
+    <roleset id="block_up.02" name="oppose, halt, stop">
+      <roles>
+        <role descr="blocker, Agent" f="pag" n="0"/>
+        <role descr="Theme (action or object being stopped)" f="ppt" n="1"/>
+        <role descr="secondary predication" f="prd" n="2"/>
+        <role descr="Instrument" f="mnr" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

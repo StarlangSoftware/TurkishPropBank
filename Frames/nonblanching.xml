@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="nonblanching">
+    <roleset id="nonblanching.01" name="not turning white">
+      <roles>
+        <role descr="stimulus" f="pag" n="0"/>
+        <role descr="thing not turning white" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,13 @@
+<frameset>
+  <predicate lemma="flashflood">
+    <roleset id="flashflood.01" name="natural disaster: fast moving flood that comes all at once">
+      <roles>
+        <role descr="(body of) water" f="ppt" n="1"/>
+        <role descr="height of the flood" f="ext" n="2"/>
+        <role descr="death/injury toll" f="vsp" n="3"/>
+        <role descr="damages/cost" f="vsp" n="4"/>
+        <role descr="run-up (height above normal reached by the water)" f="vsp" n="5"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

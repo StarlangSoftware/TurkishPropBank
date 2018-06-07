@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="immunodetect">
+    <roleset id="immunodetect.01" name="detect the presence of a specific antigen by the use of antibodies">
+      <roles>
+        <role descr="intentional agent of immunodetection (e.g. scientist)" f="pag" n="0" />
+        <role descr="target of immunodetection, antigens/proteins checked for" f="ppt" n="1" />
+        <role descr="source tissue being immunodetected from" f="ppt" n="2" />
+        <role descr="instrument, antibody, stain" f="mnr" n="3" />
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

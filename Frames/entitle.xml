@@ -1,0 +1,18 @@
+<frameset>
+  <predicate lemma="entitle">
+    <roleset id="entitle.01" name="allow">
+      <roles>
+        <role descr="allower" f="pag" n="0"/>
+        <role descr="action allowed" f="ppt" n="1"/>
+        <role descr="explicit allowed-agent" f="gol" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="entitle.02" name="assign a name">
+      <roles>
+        <role descr="namer" f="pag" n="0"/>
+        <role descr="named" f="ppt" n="1"/>
+        <role descr="name" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

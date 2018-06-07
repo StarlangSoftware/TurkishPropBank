@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="scarify">
+    <roleset id="scarify.01" name="puncture or scratch the surface of">
+      <roles>
+        <role descr="Scratcher" f="PAG" n="0"/>
+        <role descr="Thing punctured" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

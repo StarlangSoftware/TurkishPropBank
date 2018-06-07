@@ -1,0 +1,19 @@
+<frameset>
+  <predicate lemma="channel">
+    <roleset id="channel.01" name="direct">
+      <roles>
+        <role descr="director" f="pag" n="0"/>
+        <role descr="thing directed" f="ppt" n="1"/>
+        <role descr="direction, towards what" f="gol" n="2"/>
+        <role descr="source" f="dir" n="3"/>
+      </roles>
+    </roleset>
+    <roleset id="channel.02" name="cause a channel or hollow to form">
+      <roles>
+        <role descr="cause of forming hollow" f="pag" n="0"/>
+        <role descr="channel, hollow formed" f="ppt" n="1"/>
+        <role descr="formed where or carved into/out of what" f="loc" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="halve">
+    <roleset id="halve.01" name="cut in half">
+      <roles>
+        <role descr="cutter" f="PAG" n="0"/>
+        <role descr="thing cut in half" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

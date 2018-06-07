@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="lint">
+    <roleset id="lint.01" name="remove or produce lint">
+      <roles>
+        <role descr="agent doing the removing/producing of lint" f="pag" n="0"/>
+        <role descr="entity lint is removed/produced from" f="dir" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

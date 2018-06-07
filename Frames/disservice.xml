@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="disservice">
+    <roleset id="disservice.01" name="a harmful action">
+      <roles>
+        <role descr="harmer" f="pag" n="0"/>
+        <role descr="thing harmed, disservice to whom?" f="ppt" n="1"/>
+        <role descr="mention of disservice itself, what was the action that harmed?" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

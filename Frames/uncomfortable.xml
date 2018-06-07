@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="uncomfortable">
+    <roleset id="uncomfortable.01" name="not providing comfort">
+      <roles>
+        <role descr="thing giving discomfort" f="pag" n="0"/>
+        <role descr="entity feeling discomfort" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

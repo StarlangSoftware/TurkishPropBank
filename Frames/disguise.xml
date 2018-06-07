@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="disguise">
+    <roleset id="disguise.01" name="to modify the manner or appearance, to conceal">
+      <roles>
+        <role descr="causer of disguise, agent" f="pag" n="0"/>
+        <role descr="entity disguised" f="gol" n="1"/>
+        <role descr="attribute" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

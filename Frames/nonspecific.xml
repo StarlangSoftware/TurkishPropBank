@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="nonspecific">
+    <roleset id="nonspecific.01" name="general, not unique">
+      <roles>
+        <role descr="non-unique thing" f="ppt" n="1"/>
+        <role descr="general as to what/whom" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

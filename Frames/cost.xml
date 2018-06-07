@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="cost">
+    <roleset id="cost.01" name="requires cash">
+      <roles>
+        <role descr="commodity" f="ppt" n="1"/>
+        <role descr="price" f="vsp" n="2"/>
+        <role descr="buyer" f="gol" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="miff">
+    <roleset id="miff.01" name="annoy slightly">
+      <roles>
+        <role descr="annoyer" f="pag" n="0"/>
+        <role descr="thing annoyed" f="ppt" n="1"/>
+        <role descr="instrument, if separate from arg0" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,20 @@
+<frameset>
+  <predicate lemma="doll">
+    <roleset id="doll.01" name="dress">
+      <roles>
+        <role descr="entity putting on clothes" f="pag" n="0"/>
+        <role descr="entity dressed up, decorated, wearing clothes" f="ppt" n="1"/>
+        <role descr="clothing itself or attribute; dressed up as what?" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="doll_up">
+    <roleset id="doll_up.02" name="dress">
+      <roles>
+        <role descr="entity putting on clothes" f="pag" n="0"/>
+        <role descr="entity dressed up, decorated, wearing clothes" f="ppt" n="1"/>
+        <role descr="clothing itself or attribute; dressed up as what?" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

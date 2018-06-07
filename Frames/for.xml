@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="for">
+    <roleset id="for.01" name="in favor of, supporting">
+      <roles>
+        <role descr="advocate, supporter" f="pag" n="0"/>
+        <role descr="in favor of what" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="pancytopenic">
+    <roleset id="pancytopenic.01" name="having abnormally low blood cell count">
+      <roles>
+        <role descr="entity with fewer-than-average blood cells" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

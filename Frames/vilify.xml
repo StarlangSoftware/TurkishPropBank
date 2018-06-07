@@ -1,0 +1,17 @@
+<frameset>
+  <predicate lemma="vilify">
+    <roleset id="vilify.01" name="to speak ill of, slander">
+      <roles>
+        <role descr="vilifier, agent" f="PAG" n="0"/>
+        <role descr="entity vilified" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="vile">
+    <roleset id="vile.02" name="disgusting">
+      <roles>
+        <role descr="vile entity" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

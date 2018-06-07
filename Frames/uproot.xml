@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="uproot">
+    <roleset id="uproot.01" name="remove from foundation">
+      <roles>
+        <role descr="remover" f="PAG" n="0"/>
+        <role descr="thing removed" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="unamerican">
+    <roleset id="unamerican.01" name="not characteristic of &quot;america&quot;">
+      <roles>
+        <role descr="unamerican entity/act (may require concatenation)" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

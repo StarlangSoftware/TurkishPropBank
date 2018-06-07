@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="endeavor">
+    <roleset id="endeavor.01" name="to try to do something">
+      <roles>
+        <role descr="tryer, agent" f="PAG" n="0"/>
+        <role descr="proposition" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

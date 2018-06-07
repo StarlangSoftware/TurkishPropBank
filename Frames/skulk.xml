@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="skulk">
+    <roleset id="skulk.01" name="move in a stealthy manner">
+      <roles>
+        <role descr="agent, skulker" f="PAG" n="0"/>
+        <role descr="path" f="LOC" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

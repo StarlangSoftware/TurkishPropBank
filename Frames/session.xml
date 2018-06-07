@@ -1,0 +1,13 @@
+<frameset>
+  <predicate lemma="session">
+    <roleset id="session.01" name="get together with">
+      <roles>
+        <role descr="one party" f="pag" n="0"/>
+        <role descr="reason to meet" f="ppt" n="1"/>
+        <role descr="other party" f="com" n="2"/>
+        <role descr="time of meeting" f="tmp" n="m"/>
+        <role descr="location of meeting" f="loc" n="m"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

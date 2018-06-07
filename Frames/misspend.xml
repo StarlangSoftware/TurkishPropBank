@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="misspend">
+    <roleset id="misspend.01" name="spend inappropriately, waste">
+      <roles>
+        <role descr="misspender" f="PAG" n="0"/>
+        <role descr="thing wasted" f="PPT" n="1"/>
+        <role descr="misspent how, on what" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

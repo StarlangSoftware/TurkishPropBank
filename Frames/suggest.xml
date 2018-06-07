@@ -1,0 +1,19 @@
+<frameset>
+  <predicate lemma="suggest">
+    <roleset id="suggest.01" name="say, giving of advice">
+      <roles>
+        
+        <role descr="Sayer" f="pag" n="0"/>
+        <role descr="Utterance (suggestion)" f="ppt" n="1"/>
+        <role descr="Hearer" f="gol" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="suggest.02" name="sexually suggestive">
+      <roles>
+        <role descr="sexually suggestive entity" f="pag" n="0"/>
+        <role descr="explicit mention of sexual suggestion" f="ppt" n="1"/>
+        <role descr="suggested to; observer" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

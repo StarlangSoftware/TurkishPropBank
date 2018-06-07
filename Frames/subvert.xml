@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="subvert">
+    <roleset id="subvert.01" name="to corrupt,  destroy, or weaken something">
+      <roles>
+        <role descr="corrupter, agent" f="pag" n="0"/>
+        <role descr="entity subverted" f="ppt" n="1"/>
+        <role descr="entity subverted from" f="dir" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

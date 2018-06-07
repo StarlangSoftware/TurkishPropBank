@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="labile">
+    <roleset id="labile.01" name="unstable, changeable">
+      <roles>
+        <role descr="unstable thing" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

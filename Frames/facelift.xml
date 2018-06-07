@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="facelift">
+    <roleset id="facelift.01" name="to make over, or literally give face lift">
+      <roles>
+        <role descr="surgeon or entity making something over" f="pag" n="0"/>
+        <role descr="thing getting facelift, makeover" f="ppt" n="1"/>
+        <role descr="end result" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

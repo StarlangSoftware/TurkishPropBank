@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="vulnerable">
+    <roleset id="vulnerable.01" name="at risk of">
+      <roles>
+        <role descr="entity at risk" f="pag" n="1"/>
+        <role descr="risk, vulnerable to" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

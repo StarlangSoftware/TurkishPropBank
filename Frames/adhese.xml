@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="adhese">
+    <roleset id="adhese.01" name="stick to">
+      <roles>
+        <role descr="agent; causer of adhesion" f="pag" n="0"/>
+        <role descr="theme of adhesion; thing stuck" f="ppt" n="1"/>
+        <role descr="stuck to" f="loc" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

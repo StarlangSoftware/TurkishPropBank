@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="hunker">
+    <roleset id="hunker.01" name="sit on one's heels">
+      <roles>
+        <role descr="entity hunkering" f="PAG" n="0"/>
+        <role descr="on what, where" f="PPT" n="1"/>
+        <role descr="arg m; most often 'down'" f="dir" n="m"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

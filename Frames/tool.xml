@@ -1,0 +1,34 @@
+<frameset>
+  <predicate lemma="tool">
+    <roleset id="tool.01" name="travel leisurely in (or as) an automobile">
+      <roles>
+        <role descr="agent, driver" f="pag" n="0"/>
+        <role descr="entity in motion" f="ppt" n="1"/>
+        <role descr="direction/path/location" f="gol" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="tool.02" name="furnish a location with tools">
+      <roles>
+        <role descr="agent, entity stocking the tools" f="pag" n="0"/>
+        <role descr="tools" f="ppt" n="1"/>
+        <role descr="place stocked with tools" f="gol" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="tool.03" name="work material with a tool">
+      <roles>
+        <role descr="agent, artisan" f="PAG" n="0"/>
+        <role descr="material, surface tooled" f="ppt" n="1"/>
+        <role descr="design/end product" f="ppt" n="2"/>
+        <role descr="instrument" f="mnr" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="tool_up">
+    <roleset id="tool_up.04" name="make better by equipping with &quot;tools&quot;">
+      <roles>
+        <role descr="Agent" f="pag" n="0"/>
+        <role descr="thing made better/given &quot;tools&quot;" f="gol" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

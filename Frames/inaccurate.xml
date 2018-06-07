@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="inaccurate">
+    <roleset id="inaccurate.01" name="incorrect, not factual">
+      <roles>
+        <role descr="agentive entity without the facts, poor aimer" f="pag" n="0"/>
+        <role descr="thing that misses the mark" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

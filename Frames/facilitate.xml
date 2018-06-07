@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="facilitate">
+    <roleset id="facilitate.01" name="make easier">
+      <roles>
+        <role descr="thing helping" f="PAG" n="0"/>
+        <role descr="thing being helped" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

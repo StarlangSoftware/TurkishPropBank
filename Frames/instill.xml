@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="instill">
+    <roleset id="instill.01" name="put in, add">
+      <roles>
+        <role descr="putter" f="pag" n="0"/>
+        <role descr="put into what" f="gol" n="1"/>
+        <role descr="what put in, substance" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

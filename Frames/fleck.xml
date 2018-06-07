@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="fleck">
+    <roleset id="fleck.01" name="to make spots">
+      <roles>
+        <role descr="causer of spots" f="PAG" n="0"/>
+        <role descr="(newly) spotted thing" f="GOL" n="1"/>
+        <role descr="spots" f="PPT" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

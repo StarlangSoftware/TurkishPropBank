@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="welcome">
+    <roleset id="welcome.01" name="greet, accept, happily permitted">
+      <roles>
+        <role descr="welcomer" f="pag" n="0"/>
+        <role descr="thing welcomed" f="ppt" n="1"/>
+        <role descr="welcomed to" f="loc" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

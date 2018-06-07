@@ -1,0 +1,17 @@
+<frameset>
+  <predicate lemma="hike">
+    <roleset id="hike.01" name="walk for pleasure or exercise">
+      <roles>
+        <role descr="causer of motion" f="PAG" n="0"/>
+        <role descr="path of motion; location" f="LOC" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="hike.02" name="cause something to move, probably up (as a skirt)">
+      <roles>
+        <role descr="agent, cause of motion" f="PAG" n="0"/>
+        <role descr="thing being moved" f="PPT" n="1"/>
+        <role descr="location/destination of movement" f="LOC" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

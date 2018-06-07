@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="reprocess">
+    <roleset id="reprocess.01" name="process again">
+      <roles>
+        <role descr="processor" f="pag" n="0"/>
+        <role descr="thing reprocessed" f="ppt" n="1"/>
+        <role descr="end state" f="prd" n="2"/>
+        <role descr="start state" f="vsp" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="agglomerate">
+    <roleset id="agglomerate.01" name="make a cluster or pile">
+      <roles>
+        <role descr="agent, cause" f="pag" n="0"/>
+        <role descr="clustering thing" f="ppt" n="1"/>
+        <role descr="instrument, method" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

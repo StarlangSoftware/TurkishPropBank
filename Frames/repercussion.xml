@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="repercussion">
+    <roleset id="repercussion.01" name="having consequences">
+      <roles>
+        <role descr="initial percussive act" f="pag" n="0"/>
+        <role descr="the repercussions themselves" f="ppt" n="1"/>
+        <role descr="affected entity" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="caricature">
+    <roleset id="caricature.01" name="to produce a caricature of">
+      <roles>
+        <role descr="caricaturist" f="pag" n="0"/>
+        <role descr="entity caricatured" f="ppt" n="1"/>
+        <role descr="secondary predicate" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

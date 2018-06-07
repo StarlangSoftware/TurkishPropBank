@@ -1,0 +1,26 @@
+<frameset>
+  <predicate lemma="flake">
+    <roleset id="flake.01" name="become, fall away into flaky pieces">
+      <roles>
+        <role descr="agent/cause of flaking" f="pag" n="0"/>
+        <role descr="entity becoming flakes" f="ppt" n="1"/>
+        <role descr="instrument used" f="mnr" n="2"/>
+        <role descr="resulting state of arg1, often prepositional" f="prd" n="3"/>
+      </roles>
+    </roleset>
+    <roleset id="flake.02" name="quit, disappear, fail to show up for something">
+      <roles>
+        <role descr="person failing to meet obligations" f="pag" n="0"/>
+        <role descr="obligation, event, coparticipant arg0 fails, often with 'on'" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="flake_out">
+    <roleset id="flake_out.03" name="quit, disappear, fail obligations">
+      <roles>
+        <role descr="agent, person failing obligations" f="pag" n="0"/>
+        <role descr="obligations shirked, often with 'on'" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

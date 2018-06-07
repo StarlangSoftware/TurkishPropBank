@@ -1,0 +1,20 @@
+<frameset>
+  <predicate lemma="plunge">
+    <roleset id="plunge.01" name="fall precipitously">
+      <roles>
+        <role descr="Logical subject, patient, thing falling" f="ppt" n="1"/>
+        <role descr="EXT, amount fallen" f="ext" n="2"/>
+        <role descr="start point" f="dir" n="3"/>
+        <role descr="end point, end state of arg1" f="gol" n="4"/>
+        <role descr="medium" f="prd" n="5"/>
+      </roles>
+    </roleset>
+    <roleset id="plunge.02" name="immerse forcefully, dive into water or metaphorically dive into sth">
+      <roles>
+        <role descr="placer, causer of immersion" f="pag" n="0"/>
+        <role descr="thing being immersed" f="ppt" n="1"/>
+        <role descr="in what" f="loc" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

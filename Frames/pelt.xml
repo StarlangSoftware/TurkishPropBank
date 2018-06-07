@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="pelt">
+    <roleset id="pelt.01" name="hit,throw">
+      <roles>
+        <role descr="pelter, thrower, agent" f="PAG" n="0"/>
+        <role descr="thing(s) thrown, theme" f="ppt" n="1"/>
+        <role descr="pelted, victim, destination" f="GOL" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

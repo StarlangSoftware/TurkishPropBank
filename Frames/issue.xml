@@ -1,0 +1,18 @@
+<frameset>
+  <predicate lemma="issue">
+    <roleset id="issue.01" name="emit, emit/provide">
+      <roles>
+        <role descr="issuer" f="PAG" n="0"/>
+        <role descr="thing issued" f="PPT" n="1"/>
+        <role descr="issued to" f="GOL" n="2"/>
+        <role descr="attribute, issued as or at" f="LOC" n="3"/>
+      </roles>
+    </roleset>
+    <roleset id="issue.02" name="problematic state">
+      <roles>
+        <role descr="stimulus of problematic state -- thing that is a problem" f="pag" n="0"/>
+        <role descr="experiencer of problematic state -- who has a problem with 0?" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

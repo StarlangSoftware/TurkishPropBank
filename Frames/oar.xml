@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="oar">
+    <roleset id="oar.01" name="oar">
+      <roles>
+        <role descr="Oarer, rower, agent" f="PAG" n="0"/>
+        <role descr="thing oared/rowed, passenger/boat, theme" f="PPT" n="1"/>
+        <role descr="path" f="LOC" n="2"/>
+        <role descr="destination" f="GOL" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

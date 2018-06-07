@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="ambitious">
+    <roleset id="ambitious.01" name="having big plans for great success">
+      <roles>
+        <role descr="entity with ambition" f="pag" n="0"/>
+        <role descr="the ambition" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

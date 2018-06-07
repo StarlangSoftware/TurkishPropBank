@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="polarize">
+    <roleset id="polarize.01" name="separate into (two) discrete units">
+      <roles>
+        <role descr="agent/cause of separation" f="pag" n="0"/>
+        <role descr="first side or whole thing polarized" f="ppt" n="1"/>
+        <role descr="other side" f="dir" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="award">
+    <roleset id="award.01" name="give an award">
+      <roles>
+        <role descr="giver" f="pag" n="0"/>
+        <role descr="award" f="ppt" n="1"/>
+        <role descr="beneficiary" f="gol" n="2"/>
+        <role descr="reason" f="cau" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

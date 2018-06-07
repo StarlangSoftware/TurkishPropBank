@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="hydrate">
+    <roleset id="hydrate.01" name="add moisture to, add moisture again, moist">
+      <roles>
+        <role descr="agent, entity adding the moisture" f="PAG" n="0"/>
+        <role descr="patient, thing becoming moist" f="PPT" n="1"/>
+        <role descr="liquid" f="MNR" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

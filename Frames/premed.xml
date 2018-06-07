@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="premed">
+    <roleset id="premed.01" name="entity at a pre-medical school level">
+      <roles>
+        <role descr="premed entity" f="pag" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

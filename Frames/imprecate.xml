@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="imprecate">
+    <roleset id="imprecate.01" name="invoke a curse upon someone">
+      <roles>
+        <role descr="speaker" f="PAG" n="0"/>
+        <role descr="the curse" f="PPT" n="1"/>
+        <role descr="listener" f="GOL" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

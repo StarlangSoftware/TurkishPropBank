@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="mistrust">
+    <roleset id="mistrust.01" name="to suspect or doubt">
+      <roles>
+        <role descr="mistruster" f="pag" n="0"/>
+        <role descr="something" f="ppt" n="1"/>
+        <role descr="someone" f="PRD" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

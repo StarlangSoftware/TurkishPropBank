@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="ptfo">
+    <roleset id="ptfo.01" name="passed the fuck out; asleep, soundly">
+      <roles>
+        <role descr="sleeper" f="pag" n="0"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

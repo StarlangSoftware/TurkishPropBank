@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="refresh">
+    <roleset id="refresh.01" name="refresh">
+      <roles>
+        <role descr="cause of refreshment, agent" f="pag" n="0"/>
+        <role descr="refreshed entity" f="ppt" n="1"/>
+        <role descr="instrument, when separate from agent" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

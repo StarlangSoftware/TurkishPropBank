@@ -1,0 +1,24 @@
+<frameset>
+  <predicate lemma="recover">
+    <roleset id="recover.01" name="get better">
+      <roles>
+        <role descr="that which was sick, now getting better" f="ppt" n="1"/>
+        <role descr="sickness" f="dir" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="recover.02" name="get back">
+      <roles>
+        <role descr="entity getting something" f="pag" n="0"/>
+        <role descr="thing gotten" f="ppt" n="1"/>
+        <role descr="gotten from" f="dir" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="recover.03" name="put the lid back on">
+      <roles>
+        <role descr="coverer" f="pag" n="0"/>
+        <role descr="thing covered" f="ppt" n="1"/>
+        <role descr="lid" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

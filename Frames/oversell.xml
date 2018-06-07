@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="oversell">
+    <roleset id="oversell.01" name="to sell more than can be delivered">
+      <roles>
+        <role descr="seller, agent" f="PAG" n="0"/>
+        <role descr="entity oversold" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

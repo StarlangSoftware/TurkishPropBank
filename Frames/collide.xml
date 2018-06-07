@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="collide">
+    <roleset id="collide.01" name="make contact with, collide literally or metaphorically">
+      <roles>
+        <role descr="theme, thing in motion, 1st colliders or all colliders in one constituent" f="ppt" n="0"/>
+        <role descr="thing hit, 2nd collider where separate mention" f="ppt" n="1"/>
+        <role descr="Topic collided over in metaphorical case, cause of disagreement" f="PPT" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

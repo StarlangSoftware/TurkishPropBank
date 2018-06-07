@@ -1,0 +1,17 @@
+<frameset>
+  <predicate lemma="entertain">
+    <roleset id="entertain.01" name="amuse">
+      <roles>
+        <role descr="entertainer" f="pag" n="0"/>
+        <role descr="entertained" f="ppt" n="1"/>
+        <role descr="instrument" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="entertain.02" name="consider">
+      <roles>
+        <role descr="considerer" f="pag" n="0"/>
+        <role descr="considered" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="outlive">
+    <roleset id="outlive.01" name="to last or experience for a long time">
+      <roles>
+        <role descr="experiencer, thing continuing to live beyond its time" f="pag" n="1"/>
+        <role descr="point of comparison, entity that arg1 is living beyond" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

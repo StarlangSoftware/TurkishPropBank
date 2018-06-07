@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="behave">
+    <roleset id="behave.01" name="to conduct (oneself) in a specified way">
+      <roles>
+        <role descr="agent, entity behaving" f="PAG" n="0"/>
+        <role descr="manner" f="PRD" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="seem">
+    <roleset id="seem.01" name="appear">
+      <roles>
+        <role descr="thing seeming" f="ppt" n="1"/>
+        <role descr="perceiver" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

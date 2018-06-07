@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="wnwd">
+    <roleset id="wnwd.01" name="&quot;well nourished, well developed&quot;">
+      <roles>
+        <role descr="entity who is wn, wd" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

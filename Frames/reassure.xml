@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="reassure">
+    <roleset id="reassure.01" name="calm someone's nerves (again)">
+      <roles>
+        <role descr="causer of assurance" f="pag" n="0"/>
+        <role descr="assured one" f="gol" n="1"/>
+        <role descr="assurance, utterance" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

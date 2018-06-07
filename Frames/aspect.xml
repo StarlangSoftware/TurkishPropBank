@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="aspect">
+    <roleset id="aspect.01" name="angle of the planets used in astrology">
+      <roles>
+        <role descr="topical planet, moving planet" f="pag" n="0"/>
+        <role descr="celestial body it is nearing" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

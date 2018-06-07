@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="straddle">
+    <roleset id="straddle.01" name="(come to) be astride">
+      <roles>
+        <role descr="thing astride" f="pag" n="0"/>
+        <role descr="astride what, location" f="loc" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

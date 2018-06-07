@@ -1,0 +1,18 @@
+<frameset>
+  <predicate lemma="admit">
+    <roleset id="admit.01" name="acknowledge truth">
+      <roles>
+        <role descr="admitter" f="PAG" n="0"/>
+        <role descr="truth" f="PPT" n="1"/>
+        <role descr="hearer" f="GOL" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="admit.02" name="allow to enter">
+      <roles>
+        <role descr="allower (ticket)" f="PAG" n="0"/>
+        <role descr="enterer" f="PPT" n="1"/>
+        <role descr="place entered" f="LOC" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

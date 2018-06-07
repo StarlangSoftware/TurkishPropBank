@@ -1,0 +1,28 @@
+<frameset>
+  <predicate lemma="dish">
+    <roleset id="dish.01" name="put onto a dish">
+      <roles>
+        <role descr="disher" f="pag" n="0"/>
+        <role descr="food" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="dish_out">
+    <roleset id="dish_out.02" name="distribute">
+      <roles>
+        <role descr="distributor" f="pag" n="0"/>
+        <role descr="thing distributed" f="ppt" n="1"/>
+        <role descr="distributed to" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="dish_up">
+    <roleset id="dish_up.03" name="serve">
+      <roles>
+        <role descr="server" f="pag" n="0"/>
+        <role descr="thing served" f="ppt" n="1"/>
+        <role descr="served to" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

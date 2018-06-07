@@ -1,0 +1,30 @@
+<frameset>
+  <predicate lemma="boot">
+    <roleset id="boot.01" name="kick">
+      <roles>
+        <role descr="booting entity, agent" f="pag" n="0"/>
+        <role descr="booted entity, patient" f="ppt" n="1"/>
+        <role descr="booted from (if relevant)" f="dir" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="boot.02" name="also; in addition to">
+      <roles>
+        <role descr="unmentioned agent" f="pag" n="0"/>
+      </roles>
+    </roleset>
+    <roleset id="boot.04" name="computer's boot up">
+      <roles>
+        <role descr="agent, person booting something up" f="pag" n="0"/>
+        <role descr="computer, thing booted up" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="boot_up">
+    <roleset id="boot_up.03" name="boot up, start a computer">
+      <roles>
+        <role descr="agent, causing boot up (computer kind!)" f="pag" n="0"/>
+        <role descr="computer" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

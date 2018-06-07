@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="lecture">
+    <roleset id="lecture.01" name="to deliver a lecture">
+      <roles>
+        <role descr="lecturer, agent" f="PAG" n="0"/>
+        <role descr="audience" f="GOL" n="1"/>
+        <role descr="topic or utterance" f="PPT" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

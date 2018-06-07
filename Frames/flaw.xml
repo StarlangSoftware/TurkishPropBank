@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="flaw">
+    <roleset id="flaw.01" name="(cause to) be defective">
+      <roles>
+        <role descr="causer of flaw, agent (rare)" f="pag" n="0"/>
+        <role descr="entity flawed" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

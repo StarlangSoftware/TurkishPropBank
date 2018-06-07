@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="jest">
+    <roleset id="jest.01" name="to joke">
+      <roles>
+        <role descr="joker" f="PAG" n="0"/>
+        <role descr="other party joking, joke with" f="COM" n="1"/>
+        <role descr="joke" f="PPT" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="condense">
+    <roleset id="condense.01" name="make denser or more compact">
+      
+      <roles>
+        <role descr="agent, condenser" f="pag" n="0"/>
+        <role descr="patient, entity being compacted" f="ppt" n="1"/>
+        <role descr="instrument" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

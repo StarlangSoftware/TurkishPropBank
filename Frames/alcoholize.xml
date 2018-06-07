@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="alcoholize">
+    <roleset id="alcoholize.01" name="to saturate in alcohol, or convert to alcohol">
+      <roles>
+        <role descr="Agent of saturation, conversion" f="pag" n="0"/>
+        <role descr="Entity saturated converted" f="ppt" n="1"/>
+        <role descr="Resulting state after conversion, attribute of arg1" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

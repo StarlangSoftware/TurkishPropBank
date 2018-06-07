@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="prospection">
+    <roleset id="prospection.01" name="looking into the future, forecasting">
+      <roles>
+        <role descr="entity looking forward" f="pag" n="0"/>
+        <role descr="at what; subject matter of the forecast" f="ppt" n="1"/>
+        <role descr="the actual prediction" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

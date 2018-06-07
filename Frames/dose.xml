@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="dose">
+    <roleset id="dose.01" name="add substance to, adding or administering substance to">
+      <roles>
+        <role descr="Doser" f="pag" n="0"/>
+        <role descr="Thing dosed" f="ppt" n="1"/>
+        <role descr="Dosed with" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

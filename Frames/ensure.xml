@@ -1,0 +1,19 @@
+<frameset>
+  <predicate lemma="ensure">
+    <roleset id="ensure.01" name="promise, ensure, make sure, guarantee (to do/be)">
+      <roles>
+        <role descr="agent/cause" f="pag" n="0"/>
+        <role descr="to what (may require concatenation)" f="ppt" n="1"/>
+        <role descr="benefactive" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="sure">
+    <roleset id="sure.02" name="believing absolutely">
+      <roles>
+        <role descr="believer" f="pag" n="0"/>
+        <role descr="belief" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

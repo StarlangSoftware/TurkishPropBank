@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="spank">
+    <roleset id="spank.01" name="spank">
+      <roles>
+        <role descr="spanker, agent" f="PAG" n="0"/>
+        <role descr="spankee, patient" f="PPT" n="1"/>
+        <role descr="spanked with what" f="MNR" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

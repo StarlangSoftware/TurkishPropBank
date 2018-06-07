@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="surrender">
+    <roleset id="surrender.01" name="give up (eg, a fight)">
+      <roles>
+        <role descr="one surrendering" f="PAG" n="0"/>
+        <role descr="fight" f="PPT" n="1"/>
+        <role descr="victor" f="GOL" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

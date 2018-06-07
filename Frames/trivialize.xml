@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="trivialize">
+    <roleset id="trivialize.01" name="make trivial">
+      <roles>
+        <role descr="cause, agent" f="PAG" n="0"/>
+        <role descr="trivial thing" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

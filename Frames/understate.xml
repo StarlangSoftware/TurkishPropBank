@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="understate">
+    <roleset id="understate.01" name="minimally state (such as reporting a quantity at a level too low)">
+      <roles>
+        <role descr="stater" f="pag" n="0"/>
+        <role descr="entity understated" f="ppt" n="1"/>
+        <role descr="quantity" f="ext" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="cremate">
+    <roleset id="cremate.01" name="to burn (a dead body) to ashes">
+      <roles>
+        <role descr="causer of cremation" f="PAG" n="0"/>
+        <role descr="entity cremated" f="PPT" n="1"/>
+        <role descr="Instrument or Manner if separate from arg 0" f="MNR" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

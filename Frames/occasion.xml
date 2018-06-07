@@ -1,0 +1,15 @@
+<frameset>
+  <predicate lemma="occasion">
+    <roleset id="occasion.01" name="bring about an event">
+      <roles>
+        <role descr="bringer about" f="PAG" n="0"/>
+        <role descr="event" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="occasion.02" name="occurrance">
+      <roles>
+        <role descr="thing occurring" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

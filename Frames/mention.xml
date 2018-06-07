@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="mention">
+    <roleset id="mention.01" name="say in passing">
+      <roles>
+        <role descr="speaker" f="pag" n="0"/>
+        <role descr="utterance, entity being mentioned" f="ppt" n="1"/>
+        <role descr="hearer" f="gol" n="2"/>
+        <role descr="secondary attribute of arg1" f="prd" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="plague">
+    <roleset id="plague.01" name="bother, pester, trouble">
+      <roles>
+        <role descr="botherer, agent" f="pag" n="0"/>
+        <role descr="bothered" f="ppt" n="1"/>
+        <role descr="bothered by, plagued with" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

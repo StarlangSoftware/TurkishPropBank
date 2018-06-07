@@ -1,0 +1,26 @@
+<frameset>
+  <predicate lemma="copy">
+    <roleset id="copy.01" name="make a copy, the act of making a copy">
+      <roles>
+        <role descr="copyist, agent" f="pag" n="0"/>
+        <role descr="original" f="ppt" n="1"/>
+        <role descr="copy" f="gol" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="copy.03" name="send a copy to">
+      <roles>
+        <role descr="sender" f="pag" n="0"/>
+        <role descr="thing sent" f="ppt" n="1"/>
+        <role descr="recipient" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="copy_out">
+    <roleset id="copy_out.02" name="make a copy, don't mention copy">
+      <roles>
+        <role descr="copyist, agent" f="pag" n="0"/>
+        <role descr="original" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

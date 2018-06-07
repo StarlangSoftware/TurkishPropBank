@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="swoosh">
+    <roleset id="swoosh.01" name="swoosh">
+      <roles>
+        <role descr="causer of swooshing, agent (transitive subject)" f="pag" n="0"/>
+        <role descr="swooshing thing, theme (transitive object, intransitive subject)" f="ppt" n="1"/>
+        <role descr="location, path of swooshing" f="loc" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

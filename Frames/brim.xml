@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="brim">
+    <roleset id="brim.01" name="be full up to the brim">
+      <roles>
+        <role descr="container" f="PAG" n="0"/>
+        <role descr="contents" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

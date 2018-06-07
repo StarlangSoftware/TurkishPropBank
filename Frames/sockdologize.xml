@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="sockdologize">
+    <roleset id="sockdologize.01" name="finish a matter decisively, as with a heavy blow or doxology.">
+      <roles>
+        <role descr="Arg0" f="pag" n="0"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

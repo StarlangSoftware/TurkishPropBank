@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="migrate">
+    <roleset id="migrate.01" name="to change location">
+      <roles>
+        <role descr="entity in motion" f="PAG" n="0"/>
+        <role descr="path, border being crossed" f="DIR" n="1"/>
+        <role descr="destination" f="GOL" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

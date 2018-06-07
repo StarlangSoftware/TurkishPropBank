@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="passe">
+    <roleset id="passe.01" name="no longer in vogue">
+      <roles>
+        <role descr="passe entity" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

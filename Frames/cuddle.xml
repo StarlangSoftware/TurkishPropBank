@@ -1,0 +1,18 @@
+<frameset>
+  <predicate lemma="cuddle">
+    <roleset id="cuddle.01" name="hug, snugglingly, marry">
+      <roles>
+        <role descr="one half" f="pag" n="1"/>
+        <role descr="second half" f="com" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="cuddly">
+    <roleset id="cuddly.02" name="liking to cuddle, suitable for cuddling">
+      <roles>
+        <role descr="one half" f="pag" n="0"/>
+        <role descr="second half" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="reintegrate">
+    <roleset id="reintegrate.01" name="make into one, again">
+      <roles>
+        <role descr="mixer, integrater" f="pag" n="0"/>
+        <role descr="figure" f="ppt" n="1"/>
+        <role descr="ground" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

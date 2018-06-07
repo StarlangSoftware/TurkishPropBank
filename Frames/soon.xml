@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="soon">
+    <roleset id="soon.01" name="in the near future">
+      <roles>
+        <role descr="event that is in the near future" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

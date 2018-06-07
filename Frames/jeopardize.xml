@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="jeopardize">
+    <roleset id="jeopardize.01" name="threaten, put into danger">
+      <roles>
+        <role descr="agent, entity making a threat" f="PAG" n="0"/>
+        <role descr="'benefactive', entity threatened" f="gol" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

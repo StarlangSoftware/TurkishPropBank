@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="tomb">
+    <roleset id="tomb.01" name="put into a tomb">
+      <roles>
+        <role descr="who put what where, agent" f="pag" n="0"/>
+        <role descr="corpse (I hope)" f="ppt" n="1"/>
+        <role descr="tomb" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

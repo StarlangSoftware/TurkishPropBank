@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="lazy">
+    <roleset id="lazy.01" name="not working hard">
+      <roles>
+        <role descr="lazy entity" f="pag" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="lag">
+    <roleset id="lag.01" name="move more slowly, ">
+      <roles>
+        <role descr="entity moving slower" f="pag" n="0"/>
+        <role descr="entity moving faster" f="ppt" n="1"/>
+        <role descr="margin" f="ext" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

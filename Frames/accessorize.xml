@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="accessorize">
+    <roleset id="accessorize.01" name="furnish with accessories">
+      <roles>
+        <role descr="agent, furnishing entity" f="pag" n="0"/>
+        <role descr="entity furnished" f="ppt" n="1"/>
+        <role descr="furnished with what" f="vsp" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

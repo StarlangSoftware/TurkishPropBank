@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="hate">
+    <roleset id="hate.01" name="to feel hatred">
+      <roles>
+        <role descr="experiencer" f="PPT" n="0"/>
+        <role descr="target or hatred" f="PAG" n="1"/>
+        <role descr="medium of hatred" f="MNR" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

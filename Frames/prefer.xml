@@ -1,0 +1,29 @@
+<frameset>
+  <predicate lemma="prefer">
+    <roleset id="prefer.01" name="to choose as more desirable">
+      <roles>
+        <role descr="chooser, agent" f="pag" n="0"/>
+        <role descr="entity chosen" f="ppt" n="1"/>
+        <role descr="entity compared to" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="preferable">
+    <roleset id="preferable.02" name="tending to be preferred">
+      <roles>
+        <role descr="chooser, agent" f="pag" n="0"/>
+        <role descr="entity chosen" f="ppt" n="1"/>
+        <role descr="entity compared to" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="preferential">
+    <roleset id="preferential.03" name="giving/receiving preference">
+      <roles>
+        <role descr="chooser, agent" f="pag" n="0"/>
+        <role descr="entity chosen" f="ppt" n="1"/>
+        <role descr="entity compared to" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

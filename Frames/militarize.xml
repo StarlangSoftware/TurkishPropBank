@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="militarize">
+    <roleset id="militarize.01" name="quip for war">
+      <roles>
+        <role descr="agent" f="pag" n="0"/>
+        <role descr="military presence arg2 is equiped with (troops, weapons, etc.)" f="ppt" n="1"/>
+        <role descr="entity/location equiped" f="GOL" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="misdiagnose">
+    <roleset id="misdiagnose.01" name="to diagnose incorrectly">
+      <roles>
+        <role descr="doctor" f="pag" n="0"/>
+        <role descr="patient" f="ppt" n="1"/>
+        <role descr="illness" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

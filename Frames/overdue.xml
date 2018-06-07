@@ -1,0 +1,16 @@
+<frameset>
+  <predicate lemma="overdue">
+    <roleset id="overdue.01" name="still needed, but never actually scheduled">
+      <roles>
+        <role descr="recipient" f="gol" n="1"/>
+        <role descr="what is needed" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="overdue.02" name="past the scheduled time for">
+      <roles>
+        <role descr="entity that was scheduled" f="ppt" n="1"/>
+        <role descr="what arg1 was scheduled to do/undergo/occur" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="pot">
+    <roleset id="pot.01" name="place in a pot">
+      <roles>
+        <role descr="agent, potter" f="PAG" n="0"/>
+        <role descr="theme, thing potted" f="PPT" n="1"/>
+        <role descr="destination" f="GOL" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

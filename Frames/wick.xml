@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="wick">
+    <roleset id="wick.01" name="absorb or draw off liquid">
+      <roles>
+        <role descr="absorber, wicker" f="PAG" n="0"/>
+        <role descr="liquid" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

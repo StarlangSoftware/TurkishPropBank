@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="remortgage">
+    <roleset id="remortgage.01" name="mortgage again">
+      <roles>
+        <role descr="mortgager, initiator of mortgage" f="pag" n="0"/>
+        <role descr="possession(s), thing mortgaged" f="ppt" n="1"/>
+        <role descr="provider of money" f="gol" n="2"/>
+        <role descr="money" f="prp" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

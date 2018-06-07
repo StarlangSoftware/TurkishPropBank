@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="violaceous">
+    <roleset id="violaceous.01" name="violet in color">
+      <roles>
+        <role descr="purple entity" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

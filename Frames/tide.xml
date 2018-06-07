@@ -1,0 +1,18 @@
+<frameset>
+  <predicate lemma="tide">
+    <roleset id="tide.01" name="periodic rise and fall">
+      <roles>
+        <role descr="thing rising and falling" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="tide_over">
+    <roleset id="tide_over.02" name="sustain for a limited period of time">
+      <roles>
+        <role descr="Agent giving support" f="pag" n="0"/>
+        <role descr="entity receiving support" f="ppt" n="1"/>
+        <role descr="with what, if in addition to arg0" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,20 @@
+<frameset>
+  <predicate lemma="draft">
+    <roleset id="draft.01" name="to compose or draw up a plan for">
+      <roles>
+        <role descr="drafter, agent" f="pag" n="0"/>
+        <role descr="plan, entity drafted" f="ppt" n="1"/>
+        <role descr="beneficiary" f="gol" n="2"/>
+        <role descr="other participant" f="com" n="3"/>
+      </roles>
+    </roleset>
+    <roleset id="draft.02" name="select from a group for some job/service">
+      <roles>
+        <role descr="entity doing the choosing, agent" f="pag" n="0"/>
+        <role descr="entity chosen" f="ppt" n="1"/>
+        <role descr="job or service to be performed" f="prd" n="2"/>
+        <role descr="source" f="dir" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

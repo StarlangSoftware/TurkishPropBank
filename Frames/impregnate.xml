@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="impregnate">
+    <roleset id="impregnate.01" name="to make pregnant, full with, full with (child)">
+      <roles>
+        <role descr="impregnator, male" f="pag" n="0"/>
+        <role descr="thing made pregnant, woman" f="gol" n="1"/>
+        <role descr="entity arg1 is pregnant with, baby" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

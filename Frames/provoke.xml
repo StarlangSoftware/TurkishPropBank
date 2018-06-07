@@ -1,0 +1,19 @@
+<frameset>
+  <predicate lemma="provoke">
+    <roleset id="provoke.01" name="cause an emotional reaction">
+      <roles>
+        <role descr="causer" f="pag" n="0"/>
+        <role descr="thing provoked, or reaction when separate secondary impelled agent is present" f="ppt" n="1"/>
+        <role descr="secondary impelled agent, when separate from reaction" f="prd" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="provoke.02" name="provoke sexual arousal">
+      <roles>
+        <role descr="sexually provocative entity" f="pag" n="0"/>
+        <role descr="sexual arousal, explicitly stated" f="ppt" n="1"/>
+        <role descr="entity becoming sexually aroused" f="ppt" n="2"/>
+      </roles>
+    
+    </roleset>
+  </predicate>
+</frameset>

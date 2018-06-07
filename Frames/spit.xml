@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="spit">
+    <roleset id="spit.01" name="eject saliva">
+      <roles>
+        <role descr="spitter" f="pag" n="0"/>
+        <role descr="explicit mention of saliva" f="ppt" n="1"/>
+        <role descr="spat-on" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

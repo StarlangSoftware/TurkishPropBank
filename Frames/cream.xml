@@ -1,0 +1,16 @@
+<frameset>
+  <predicate lemma="cream">
+    <roleset id="cream.01" name="beat soundly">
+      <roles>
+        <role descr="beater" f="PAG" n="0"/>
+        <role descr="beaten" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="cream.02" name="cook with/in cream">
+      <roles>
+        <role descr="cook" f="PAG" n="0"/>
+        <role descr="food" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

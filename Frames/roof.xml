@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="roof">
+    <roleset id="roof.01" name="put a roof on">
+      <roles>
+        <role descr="Roofer" f="PAG" n="0"/>
+        <role descr="House, structure being covered with roof" f="GOL" n="1"/>
+        <role descr="Roof itself, what type of roof?" f="PPT" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="overreact">
+    <roleset id="overreact.01" name="to react too strongly">
+      <roles>
+        <role descr="entity overreacted" f="PAG" n="0"/>
+        <role descr="reason" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

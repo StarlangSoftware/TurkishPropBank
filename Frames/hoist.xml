@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="hoist">
+    <roleset id="hoist.01" name="lift, raise">
+      <roles>
+        <role descr="lifter, raiser" f="PAG" n="0"/>
+        <role descr="thing going up" f="PPT" n="1"/>
+        <role descr="path" f="GOL" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

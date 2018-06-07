@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="bully">
+    <roleset id="bully.01" name="force into an action with   threat of violence">
+      <roles>
+        <role descr="bully" f="pag" n="0"/>
+        <role descr="victim, impelled agent" f="gol" n="1"/>
+        <role descr="impelled action (often unstated)" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

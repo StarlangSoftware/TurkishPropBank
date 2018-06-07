@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="acyanotic">
+    <roleset id="acyanotic.01" name="not characterized by turning blue">
+      <roles>
+        <role descr="thing not characterized by blueness" f="pag" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

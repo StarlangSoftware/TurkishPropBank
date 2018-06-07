@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="wet">
+    <roleset id="wet.01" name="cause to be wet">
+      <roles>
+        <role descr="cause" f="PAG" n="0"/>
+        <role descr="now-wet thing" f="PPT" n="1"/>
+        <role descr="liquid" f="MNR" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

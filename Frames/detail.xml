@@ -1,0 +1,17 @@
+<frameset>
+  <predicate lemma="detail">
+    <roleset id="detail.01" name="describe in detail">
+      <roles>
+        <role descr="describer" f="PAG" n="0"/>
+        <role descr="details" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="detailed">
+    <roleset id="detailed.02" name="elaborate">
+      <roles>
+        <role descr="elaborate thing or that which is elaborated on" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

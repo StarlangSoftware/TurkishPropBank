@@ -1,0 +1,28 @@
+<frameset>
+  <predicate lemma="rarefy">
+    <roleset id="rarefy.01" name="make rare">
+      <roles>
+        <role descr="cause, agent" f="PAG" n="0"/>
+        <role descr="rare thing" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="rarefy.04" name="decrease the density/pressure of">
+      <roles>
+        <role descr="agent, cause" f="pag" n="0"/>
+        <role descr="medium rarefied" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="rare">
+    <roleset id="rare.02" name="uncommon, infrequent">
+      <roles>
+        <role descr="uncommon thing" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="rare.03" name="cooked a short time, still red">
+      <roles>
+        <role descr="meat" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

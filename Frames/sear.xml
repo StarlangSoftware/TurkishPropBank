@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="sear">
+    <roleset id="sear.01" name="sear">
+      <roles>
+        <role descr="cook" f="PAG" n="0"/>
+        <role descr="food" f="PPT" n="1"/>
+        <role descr="instrument" f="MNR" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

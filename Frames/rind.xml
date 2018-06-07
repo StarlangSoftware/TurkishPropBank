@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="rind">
+    <roleset id="rind.01" name="rind">
+      <roles>
+        <role descr="rinder, agent" f="PAG" n="0"/>
+        <role descr="source, rinded from" f="DIR" n="1"/>
+        <role descr="theme, rind itself (likely rare)" f="PPT" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="repudiate">
+    <roleset id="repudiate.01" name="reject, refuse to acknowledge or pay">
+      <roles>
+        <role descr="rejector, agent" f="pag" n="0"/>
+        <role descr="thing rejected or refused as untrue" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

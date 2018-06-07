@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="serrate">
+    <roleset id="serrate.01" name="cause to have tooth-like edges">
+      <roles>
+        <role descr="agent, cutter (animate)" f="pag" n="0"/>
+        <role descr="thing becoming notched" f="ppt" n="1"/>
+        <role descr="instrument" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="rendezvous">
+    <roleset id="rendezvous.01" name="to bring or come together">
+      <roles>
+        <role descr="first or all entities meeting" f="PAG" n="0"/>
+        <role descr="second entity, if separate" f="COM" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

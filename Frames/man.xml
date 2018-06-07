@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="man">
+    <roleset id="man.01" name="act as staff for, work at (place)">
+      <roles>
+        <role descr="worker" f="PAG" n="0"/>
+        <role descr="job or place" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

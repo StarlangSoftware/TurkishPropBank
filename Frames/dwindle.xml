@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="dwindle">
+    <roleset id="dwindle.01" name="become less">
+      <roles>
+        <role descr="thing becoming less" f="ppt" n="1"/>
+        <role descr="EXT or MNR" f="ext" n="2"/>
+        <role descr="start point" f="dir" n="3"/>
+        <role descr="end point" f="gol" n="4"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

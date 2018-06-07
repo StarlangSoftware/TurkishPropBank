@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="bedwet">
+    <roleset id="bedwet.01" name="involuntary urination while asleep">
+      <roles>
+        <role descr="Agent" f="pag" n="0"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

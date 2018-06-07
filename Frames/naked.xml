@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="naked">
+    <roleset id="naked.01" name="nude; not clothed">
+      <roles>
+        <role descr="naked entity" f="loc" n="1"/>
+        <role descr="clothing not worn (may be metaphorical)" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

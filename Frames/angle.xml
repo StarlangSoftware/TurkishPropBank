@@ -1,0 +1,17 @@
+<frameset>
+  <predicate lemma="angle">
+    <roleset id="angle.01" name="move on an angled trajectory">
+      <roles>
+        <role descr="entity in motion" f="ppt" n="0"/>
+        <role descr="description of path" f="loc" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="angle.02" name="cause to be/move in an angular fashion">
+      <roles>
+        <role descr="Agent, cause" f="pag" n="0"/>
+        <role descr="Entity now in an angled position/path of motion" f="ppt" n="1"/>
+        <role descr="Description of position/path" f="dir" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

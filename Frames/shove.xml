@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="shove">
+    <roleset id="shove.01" name="push harshly">
+      <roles>
+        <role descr="pusher" f="PAG" n="0"/>
+        <role descr="thing pushed" f="PPT" n="1"/>
+        <role descr="destination, direction, end state" f="dir" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

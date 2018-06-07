@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="vague">
+    <roleset id="vague.01" name="murky in meaning">
+      <roles>
+        <role descr="source of vague info" f="pag" n="0"/>
+        <role descr="vague info" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

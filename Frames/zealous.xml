@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="zealous">
+    <roleset id="zealous.01" name="zealous">
+      <roles>
+        <role descr="zealous entity" f="PPT" n="1"/>
+        <role descr="zeal applied to, zealous for what or in which domain(s)?" f="ADV" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

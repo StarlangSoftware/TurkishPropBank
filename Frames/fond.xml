@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="fond">
+    <roleset id="fond.01" name="having an affection or liking for something">
+      <roles>
+        <role descr="entity who is fond" f="pag" n="0"/>
+        <role descr="of what/whom" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="partner">
+    <roleset id="partner.01" name="partner">
+      <roles>
+        <role descr="first partnerer" f="PAG" n="0"/>
+        <role descr="second partnerer, if separate from Arg0" f="com" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

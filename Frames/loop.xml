@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="loop">
+    <roleset id="loop.01" name="to form into a loop, encircle with a loop">
+      <roles>
+        <role descr="causer of looping" f="PAG" n="0"/>
+        <role descr="looped thing" f="PPT" n="1"/>
+        <role descr="secondary attribute, looped around what" f="LOC" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

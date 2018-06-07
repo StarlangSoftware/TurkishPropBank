@@ -1,0 +1,23 @@
+<frameset>
+  <predicate lemma="whittle">
+    <roleset id="whittle.01" name="create by remove wood">
+      <roles>
+        <role descr="builder" f="pag" n="0"/>
+        <role descr="construction" f="prd" n="1"/>
+        <role descr="material, start state" f="vsp" n="2"/>
+        <role descr="end state" f="prd" n="4"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="whittle_down">
+    <roleset id="whittle_down.02" name="make smaller gradually">
+      <roles>
+        <role descr="agent of making smaller" f="pag" n="0"/>
+        <role descr="thing getting smaller" f="ppt" n="1"/>
+        <role descr="EXT" f="ext" n="2"/>
+        <role descr="start point" f="dir" n="3"/>
+        <role descr="end point" f="gol" n="4"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

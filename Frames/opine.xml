@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="opine">
+    <roleset id="opine.01" name="express an opinion">
+      <roles>
+        <role descr="speaker" f="pag" n="0"/>
+        <role descr="opinion" f="ppt" n="1"/>
+        <role descr="hearer" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

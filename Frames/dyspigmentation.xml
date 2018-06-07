@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="dyspigmentation">
+    <roleset id="dyspigmentation.01" name="abnormally form or distribute pigmentation">
+      <roles>
+        <role descr="agent, cause of uneven color" f="pag" n="0"/>
+        <role descr="entity with strange coloring" f="ppt" n="1"/>
+        <role descr="pigment, color itself" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

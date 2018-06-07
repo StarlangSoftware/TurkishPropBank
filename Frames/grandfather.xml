@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="grandfather">
+    <roleset id="grandfather.01" name="allowing an old exception to a new regulation">
+      <roles>
+        <role descr="agent" f="PAG" n="0"/>
+        <role descr="the old exception" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="shpritz">
+    <roleset id="shpritz.01" name="spritz, spray, squirt">
+      <roles>
+        <role descr="agent, spritzer" f="pag" n="0"/>
+        <role descr="liquid squirted, theme" f="ppt" n="1"/>
+        <role descr="destination, thing spritzed" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

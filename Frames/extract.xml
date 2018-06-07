@@ -1,0 +1,19 @@
+<frameset>
+  <predicate lemma="extract">
+    <roleset id="extract.01" name="to remove or obtain">
+      <roles>
+        <role descr="remover, agent" f="pag" n="0"/>
+        <role descr="thing extracted" f="ppt" n="1"/>
+        <role descr="entity extracted from" f="dir" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="extraction">
+    <roleset id="extraction.02" name="lineage, ancestory">
+      <roles>
+        <role descr="entity having ancestors" f="pag" n="1"/>
+        <role descr="the ancestory, lineage (may require concatenation)" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

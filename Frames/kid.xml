@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="kid">
+    <roleset id="kid.01" name="to joke or deceive, &quot;just kidding&quot;, joking, fooling">
+      <roles>
+        <role descr="joker" f="pag" n="0"/>
+        <role descr="hearer" f="gol" n="1"/>
+        <role descr="topic" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

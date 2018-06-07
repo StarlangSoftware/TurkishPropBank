@@ -1,0 +1,18 @@
+<frameset>
+  <predicate lemma="bed">
+    <roleset id="bed.02" name="put into bed (can be metaphorical)">
+      <roles>
+        <role descr="agent" f="PAG" n="0"/>
+        <role descr="one/thing put to bed" f="PPT" n="1"/>
+        <role descr="location" f="GOL" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="bed_down">
+    <roleset id="bed_down.01" name="put oneself to bed">
+      <roles>
+        <role descr="one in bed" f="PAG" n="0"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

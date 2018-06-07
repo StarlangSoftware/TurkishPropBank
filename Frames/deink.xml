@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="deink">
+    <roleset id="deink.01" name="remove ink">
+      <roles>
+        <role descr="remover" f="PAG" n="0"/>
+        <role descr="place ink is remove from" f="DIR" n="1"/>
+        <role descr="ink; thing removed" f="PPT" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

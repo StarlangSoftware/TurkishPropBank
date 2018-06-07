@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="stampede">
+    <roleset id="stampede.01" name="to cause to act hurriedly">
+      <roles>
+        <role descr="causal agent" f="pag" n="0"/>
+        <role descr="entity stampeding, in motion" f="ppt" n="1"/>
+        <role descr="stampeded into, path or direction" f="dir" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

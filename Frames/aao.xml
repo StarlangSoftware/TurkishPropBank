@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="aao">
+    <roleset id="aao.01" name="awake, alert and oriented (part of a neuro exam)">
+      <roles>
+        <role descr="awake, alert, and oriented person" f="pag" n="0"/>
+        <role descr="oriented to (some number out of 3, usually &quot;x3&quot; or such)" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

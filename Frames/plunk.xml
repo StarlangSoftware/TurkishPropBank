@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="plunk">
+    <roleset id="plunk.01" name="put, coarsely">
+      <roles>
+        <role descr="agent, putter" f="pag" n="0"/>
+        <role descr="thing put" f="ppt" n="1"/>
+        <role descr="where put" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="recap">
+    <roleset id="recap.01" name="to go back over, summarize">
+      <roles>
+        <role descr="editor, summarizer, agent" f="pag" n="0"/>
+        <role descr="thing summarized" f="ppt" n="1"/>
+        <role descr="listener" f="GOL" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

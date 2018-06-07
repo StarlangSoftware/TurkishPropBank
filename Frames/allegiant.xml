@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="allegiant">
+    <roleset id="allegiant.01" name="devoted, giving liege">
+      <roles>
+        <role descr="devoted entity" f="pag" n="1"/>
+        <role descr="devoted to" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="recast">
+    <roleset id="recast.01" name="cast again (blacksmithing, literally or metaphorically)">
+      <roles>
+        <role descr="metalworker, agent (possible but unlikely)" f="pag" n="0"/>
+        <role descr="product, cast into" f="ppt" n="1"/>
+        <role descr="source, cast from" f="dir" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

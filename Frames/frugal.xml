@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="frugal">
+    <roleset id="frugal.01" name="practicing, marked by economy">
+      <roles>
+        <role descr="person, thing spending frugally" f="ppt" n="1"/>
+        <role descr="thing spent frugally" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="nonfocal">
+    <roleset id="nonfocal.01" name="not affecting a specific body part or location">
+      <roles>
+        <role descr="focal thing" f="pag" n="1"/>
+        <role descr="location" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

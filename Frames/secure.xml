@@ -1,0 +1,30 @@
+<frameset>
+  <predicate lemma="secure">
+    <roleset id="secure.01" name="get">
+      <roles>
+        <role descr="agent, entity acquiring something" f="pag" n="0"/>
+        <role descr="thing acquired" f="ppt" n="1"/>
+        <role descr="source, gained from" f="dir" n="2"/>
+        <role descr="benefactive, gained for" f="gol" n="3"/>
+      </roles>
+    </roleset>
+    <roleset id="secure.02" name="make secure, literally or figuratively">
+      <roles>
+        <role descr="maker" f="pag" n="0"/>
+        <role descr="thing secured" f="ppt" n="1"/>
+        <role descr="instrument" f="mnr" n="2"/>
+        <role descr="potential danger" f="vsp" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="security">
+    <roleset id="security.03" name="be safe, secure">
+      <roles>
+        <role descr="agent/causer" f="pag" n="0"/>
+        <role descr="entity who is protected" f="ppt" n="1"/>
+        <role descr="specific domain in which arg1 is safe" f="vsp" n="2"/>
+        <role descr="potential danger" f="GOL" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

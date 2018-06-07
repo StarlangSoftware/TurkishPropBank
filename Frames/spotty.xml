@@ -1,0 +1,15 @@
+<frameset>
+  <predicate lemma="spotty">
+    <roleset id="spotty.01" name="intermittent">
+      <roles>
+        <role descr="intermittent thing" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="spotty.02" name="covered in dots">
+      <roles>
+        <role descr="location, entity covered in dots" f="loc" n="1"/>
+        <role descr="the dots" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

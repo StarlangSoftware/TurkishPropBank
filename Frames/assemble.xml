@@ -1,0 +1,20 @@
+<frameset>
+  <predicate lemma="assemble">
+    <roleset id="assemble.01" name="build, creation">
+      <roles>
+        
+        <role descr="builder" f="pag" n="0"/>
+        <role descr="construction" f="prd" n="1"/>
+        <role descr="material, start state" f="vsp" n="2"/>
+        <role descr="end state" f="prd" n="4"/>
+      </roles>
+    </roleset>
+    <roleset id="assemble.02" name="group, grouping together">
+      <roles>
+        <role descr="agent, entity causing some grouping" f="pag" n="0"/>
+        <role descr="theme, thing being included in some group" f="ppt" n="1"/>
+        <role descr="group" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

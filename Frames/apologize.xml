@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="apologize">
+    <roleset id="apologize.01" name="be contrite">
+      <roles>
+        <role descr="apologist" f="pag" n="0"/>
+        <role descr="apologize for" f="cau" n="1"/>
+        <role descr="apologized to" f="gol" n="2"/>
+        <role descr="utterance, the apology itself" f="ppt" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

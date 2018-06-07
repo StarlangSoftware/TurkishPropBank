@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="ceremony">
+    <roleset id="ceremony.01" name="formal event or act for a special occasion">
+      <roles>
+        <role descr="official" f="pag" n="0"/>
+        <role descr="act, purpose, event, ceremony itself" f="prp" n="1"/>
+        <role descr="celebrant, benefactive, or recipient" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

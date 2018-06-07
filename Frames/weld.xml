@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="weld">
+    <roleset id="weld.01" name="to join (metals) by applying heat">
+      <roles>
+        <role descr="joiner, agent" f="PAG" n="0"/>
+        <role descr="thing welded" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

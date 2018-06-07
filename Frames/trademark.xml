@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="trademark">
+    <roleset id="trademark.01" name="trademark">
+      <roles>
+        <role descr="granter of license" f="pag" n="0"/>
+        <role descr="licensed thing" f="ppt" n="1"/>
+        <role descr="benefactive, licensed-to" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

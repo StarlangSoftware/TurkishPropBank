@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="scroll">
+    <roleset id="scroll.01" name="to move through text in an electronic document">
+      <roles>
+        <role descr="agent, mover of mouse" f="PAG" n="0"/>
+        <role descr="text, page scrolled through" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

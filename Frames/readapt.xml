@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="readapt">
+    <roleset id="readapt.01" name="readapt">
+      <roles>
+        <role descr="readapter, agent" f="PAG" n="0"/>
+        <role descr="thing being readapted, patient" f="PPT" n="1"/>
+        <role descr="readapted into what, destination" f="GOL" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

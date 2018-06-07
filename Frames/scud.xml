@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="scud">
+    <roleset id="scud.01" name="move swiftly">
+      <roles>
+        <role descr="thing in motion" f="PPT" n="0"/>
+        <role descr="path, location" f="LOC" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

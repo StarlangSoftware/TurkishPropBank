@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="flintknapping">
+    <roleset id="flintknapping.01" name="Shape flint by chipping away at it">
+      <roles>
+        <role descr="knapper, agent" f="pag" n="0"/>
+        <role descr="stone" f="ppt" n="1"/>
+        <role descr="instrument, knife" f="mnr" n="2"/>
+        <role descr="end state, product, if seperate from arg1" f="prd" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

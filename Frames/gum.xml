@@ -1,0 +1,26 @@
+<frameset>
+  <predicate lemma="gum">
+    <roleset id="gum.01" name="fill, attach, or fix with gum or gum-like substance">
+      <roles>
+        <role descr="Fixer" f="pag" n="0"/>
+        <role descr="First (or all in one constituent) thing gummed" f="ppt" n="1"/>
+        <role descr="Thing arg1 is attached to with gum (when separate constituent)" f="ppt" n="2"/>
+        <role descr="Gum itself, type of gum used, instrument" f="mnr" n="3"/>
+      </roles>
+    </roleset>
+    <roleset id="gum.02" name="to chew without gums">
+      <roles>
+        <role descr="chewer" f="pag" n="0"/>
+        <role descr="food" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="gum_up">
+    <roleset id="gum_up.03" name="make sticky, metaphorically make a sticky situation">
+      <roles>
+        <role descr="Cause of things becoming sticky" f="pag" n="0"/>
+        <role descr="Entity, situation made sticky" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

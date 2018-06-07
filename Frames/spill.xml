@@ -1,0 +1,27 @@
+<frameset>
+  <predicate lemma="spill">
+    <roleset id="spill.01" name="to cause or allow to flow">
+      <roles>
+        <role descr="entity splilling" f="pag" n="0"/>
+        <role descr="entity spilled" f="ppt" n="1"/>
+        <role descr="location/direction" f="loc" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="spill_over">
+    <roleset id="spill_over.02" name="to overflow, pour out">
+      <roles>
+        <role descr="entity spilled over" f="ppt" n="1"/>
+        <role descr="location/direction" f="loc" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="spill_out">
+    <roleset id="spill_out.03" name="to pour out">
+      <roles>
+        <role descr="entity spilled out" f="ppt" n="1"/>
+        <role descr="location/direction" f="loc" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

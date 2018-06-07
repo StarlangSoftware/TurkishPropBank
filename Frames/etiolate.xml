@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="etiolate">
+    <roleset id="etiolate.01" name="to become pale, weaken, especially with lack of light">
+      <roles>
+        <role descr="agent, cause of bleaching, weakening" f="PAG" n="0"/>
+        <role descr="entity becoming pale, weak" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

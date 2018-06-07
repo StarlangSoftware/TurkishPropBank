@@ -1,0 +1,16 @@
+<frameset>
+  <predicate lemma="stump">
+    <roleset id="stump.01" name="(cause to) be confounded">
+      <roles>
+        <role descr="cause" f="PAG" n="0"/>
+        <role descr="entity stumped" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="stump.02" name="campaign (for)">
+      <roles>
+        <role descr="stumper" f="pag" n="0"/>
+        <role descr="stumped for (cause/candidate)" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

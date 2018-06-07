@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="verbalize">
+    <roleset id="verbalize.01" name="speak, give voice to">
+      <roles>
+        <role descr="speaker" f="pag" n="0"/>
+        <role descr="utterance" f="ppt" n="1"/>
+        <role descr="hearer (in theory possible)" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

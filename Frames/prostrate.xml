@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="prostrate">
+    <roleset id="prostrate.01" name="submit, surrender, bow">
+      <roles>
+        <role descr="agent or one who prostrates" f="pag" n="0"/>
+        <role descr="one who prostrates (if different from ARG0)" f="ppt" n="1"/>
+        <role descr="prostrate to" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

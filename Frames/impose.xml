@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="impose">
+    <roleset id="impose.01" name="be a bother">
+      <roles>
+        <role descr="imposer (not imposter)" f="pag" n="0"/>
+        <role descr="thing imposed" f="ppt" n="1"/>
+        <role descr="imposed on" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

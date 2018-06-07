@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="injunct">
+    <roleset id="injunct.01" name="court ordered prohibition of a specific action">
+      <roles>
+        <role descr="court/judge" f="pag" n="0"/>
+        <role descr="action being prohibited" f="ppt" n="1"/>
+        <role descr="entity not allowed to act" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="hone">
+    <roleset id="hone.01" name="make sharp">
+      <roles>
+        <role descr="causer of sharpness" f="pag" n="0"/>
+        <role descr="thing becoming sharp" f="ppt" n="1"/>
+        <role descr="whetstone, instrument" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

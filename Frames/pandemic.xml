@@ -1,0 +1,13 @@
+<frameset>
+  <predicate lemma="pandemic">
+    <roleset id="pandemic.01" name="natural disaster: globe-wide epidemic">
+      <roles>
+        
+        <role descr="disease" f="ppt" n="1"/>
+        <role descr="victims, sick entities" f="gol" n="2"/>
+        <role descr="casualties/injuries" f="vsp" n="3"/>
+        <role descr="damages/cost" f="vsp" n="4"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

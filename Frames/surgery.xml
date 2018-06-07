@@ -1,0 +1,19 @@
+<frameset>
+  <predicate lemma="surgery">
+    <roleset id="surgery.01" name="performing, undergoing a surgical procedure">
+      <roles>
+        <role descr="surgeon" f="pag" n="0"/>
+        <role descr="patient" f="ppt" n="1"/>
+        <role descr="type of surgery" f="vsp" n="2"/>
+      </roles>
+    
+    </roleset>
+  </predicate>
+  <predicate lemma="surgical">
+    <roleset id="surgical.02" name="relating to or like surgery">
+      <roles>
+        <role descr="surgical entity" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

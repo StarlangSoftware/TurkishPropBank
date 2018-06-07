@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="reconnect">
+    <roleset id="reconnect.01" name="connect again">
+      <roles>
+        <role descr="agent, connector" f="pag" n="0"/>
+        <role descr="first thing being connected, focused argument" f="ppt" n="1"/>
+        <role descr="second thing arg1 is connected to" f="ppt" n="2"/>
+        <role descr="instrument, string" f="mnr" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="fallout">
+    <roleset id="fallout.01" name="the descent of particles of debris after an explosion">
+      <roles>
+        <role descr="debris particles, thing in motion" f="pag" n="1"/>
+        <role descr="cause of fallout; explosion" f="cau" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

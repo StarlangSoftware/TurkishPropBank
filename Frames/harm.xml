@@ -1,0 +1,20 @@
+<frameset>
+  <predicate lemma="harm">
+    <roleset id="harm.01" name="cause damage">
+      <roles>
+        <role descr="agent, Stimulus" f="pag" n="0"/>
+        <role descr="entity damaged" f="ppt" n="1"/>
+        <role descr="instrument" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="harmful">
+    <roleset id="harmful.02" name="tending to cause damage">
+      <roles>
+        <role descr="causer of damage, stimulus" f="pag" n="0"/>
+        <role descr="entity damaged" f="ppt" n="1"/>
+        <role descr="instrument" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

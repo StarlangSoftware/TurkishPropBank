@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="weightbear">
+    <roleset id="weightbear.01" name="hold, support weight">
+      <roles>
+        <role descr="holder" f="pag" n="0"/>
+        <role descr="thing held" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

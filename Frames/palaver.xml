@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="palaver">
+    <roleset id="palaver.01" name="have a lengthy discussion">
+      <roles>
+        <role descr="first or all converser" f="PAG" n="0"/>
+        <role descr="other converser" f="COM" n="1"/>
+        <role descr="topic of conversation" f="PPT" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

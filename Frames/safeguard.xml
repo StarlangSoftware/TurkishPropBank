@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="safeguard">
+    <roleset id="safeguard.01" name="to protect">
+      <roles>
+        <role descr="protector" f="pag" n="0"/>
+        <role descr="entity protected" f="ppt" n="1"/>
+        <role descr="entity protected from" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,13 @@
+<frameset>
+  <predicate lemma="tsunami">
+    <roleset id="tsunami.01" name="tidal wave">
+      <roles>
+        <role descr="water (might be the name of the body of water)" f="ppt" n="1"/>
+        <role descr="period length of the wave (generally measured in ft or m)" f="ext" n="2"/>
+        <role descr="death/injury toll" f="vsp" n="3"/>
+        <role descr="damages/cost" f="vsp" n="4"/>
+        <role descr="run up (the height the water reaches above sea level)" f="vsp" n="5"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="toxic">
+    <roleset id="toxic.01" name="poisonous">
+      <roles>
+        <role descr="toxin" f="pag" n="0"/>
+        <role descr="entity susceptible to the toxin" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

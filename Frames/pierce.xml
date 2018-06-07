@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="pierce">
+    <roleset id="pierce.01" name="poke a hole in, go through such a hole">
+      <roles>
+        <role descr="piercer" f="pag" n="0"/>
+        <role descr="material pierced" f="ppt" n="1"/>
+        <role descr="instrument, if arg0 is agent and also present" f="mnr" n="2"/>
+        <role descr="what's on other side of material" f="gol" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="incidental">
+    <roleset id="incidental.01" name="occuring by happenstance">
+      <roles>
+        <role descr="thing occuring by happenstance" f="pag" n="1"/>
+        <role descr="in relation to what other thing" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

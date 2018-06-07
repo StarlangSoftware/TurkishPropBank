@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="claw">
+    <roleset id="claw.02" name="to tear or scratch with claws">
+      <roles>
+        <role descr="cutter, cat-like creature" f="pag" n="0"/>
+        <role descr="thing cut, clawed" f="ppt" n="1"/>
+        <role descr="medium, source (clawed-off from what? )" f="dir" n="2"/>
+        <role descr="instrument" f="mnr" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

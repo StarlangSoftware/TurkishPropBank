@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="discomfit">
+    <roleset id="discomfit.01" name="cause discomfort">
+      <roles>
+        <role descr="Stimulus" f="PAG" n="0"/>
+        <role descr="discomforted entity" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

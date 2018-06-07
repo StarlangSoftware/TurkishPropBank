@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="semipurposeful">
+    <roleset id="semipurposeful.01" name="moving partially intentionally">
+      <roles>
+        <role descr="agent of motion" f="pag" n="0"/>
+        <role descr="the motion" f="ppt" n="1"/>
+        <role descr="body part moved" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

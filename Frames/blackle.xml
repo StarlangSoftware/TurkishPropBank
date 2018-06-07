@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="blackle">
+    <roleset id="blackle.01" name="search using blackle search engine">
+      <roles>
+        <role descr="agent of search" f="PAG" n="0"/>
+        <role descr="thing looked up" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

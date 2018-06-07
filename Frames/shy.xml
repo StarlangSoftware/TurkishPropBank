@@ -1,0 +1,31 @@
+<frameset>
+  <predicate lemma="shy_away">
+    <roleset id="shy_away.01" name="avoid in fear">
+      <roles>
+        <role descr="avoider" f="pag" n="0"/>
+        <role descr="thing avoided" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="shy">
+    <roleset id="shy.02" name="avoid in fear, nonphrasal; avoiding out of fear">
+      <roles>
+        <role descr="shy one" f="ppt" n="0"/>
+        <role descr="afraid of" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="shy.03" name="not having enough, being some distance from a goal">
+      <roles>
+        <role descr="entity not having enough/attained a goal" f="pag" n="1"/>
+        <role descr="amount shy" f="ppt" n="2"/>
+        <role descr="goal" f="gol" n="3"/>
+      </roles>
+    </roleset>
+    <roleset id="shy.04" name="socially nervous">
+      <roles>
+        <role descr="shy one" f="ppt" n="0"/>
+        <role descr="afraid of" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="retribute">
+    <roleset id="retribute.01" name="vengeance, payback">
+      <roles>
+        <role descr="vengeant one" f="pag" n="0"/>
+        <role descr="one paid back" f="gol" n="1"/>
+        <role descr="for what offense" f="cau" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

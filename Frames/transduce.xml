@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="transduce">
+    <roleset id="transduce.01" name="transfer genetic material">
+      <roles>
+        <role descr="Agent causing the transfer (doctor)" f="pag" n="0"/>
+        <role descr="material transfered (e.g. DNA)" f="ppt" n="1"/>
+        <role descr="instrument of transduction (e.g. viral agent)" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

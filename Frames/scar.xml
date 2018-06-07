@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="scar">
+    <roleset id="scar.01" name="to leave lasting signs of damage on (a person), leaving lasting signs of damage">
+      <roles>
+        <role descr="agent" f="PAG" n="0"/>
+        <role descr="entity mutilated" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="anemic">
+    <roleset id="anemic.01" name="lacking iron or other nutrient">
+      <roles>
+        <role descr="anemic entity" f="pag" n="1"/>
+        <role descr="measurement/nutrient (often hemoglobin)" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="granular">
+    <roleset id="granular.01" name="grainy">
+      <roles>
+        <role descr="grainy entity" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

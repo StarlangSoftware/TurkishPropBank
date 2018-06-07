@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="bemoan">
+    <roleset id="bemoan.01" name="to express grief over">
+      <roles>
+        <role descr="moaner, agent" f="PAG" n="0"/>
+        <role descr="entity bemoaned" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="redeem">
+    <roleset id="redeem.01" name="save and exchange">
+      <roles>
+        <role descr="redeemer" f="pag" n="0"/>
+        <role descr="thing saved and redeemed" f="ppt" n="1"/>
+        <role descr="in-exchange-for" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,13 @@
+<frameset>
+  <predicate lemma="truncate">
+    <roleset id="truncate.01" name="shorten/remove part of a word, mathematical figure">
+      <roles>
+        <role descr="agent, cause of truncation" f="pag" n="0"/>
+        <role descr="word, number being shortened" f="ppt" n="1"/>
+        <role descr="extent of truncation, how much was removed?" f="ext" n="2"/>
+        <role descr="original length, size" f="vsp" n="3"/>
+        <role descr="end state, final length, size after truncation" f="prd" n="4"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

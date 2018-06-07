@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="amplify">
+    <roleset id="amplify.01" name="make louder or greater">
+      <roles>
+        <role descr="causer of becoming louder" f="pag" n="0"/>
+        <role descr="thing becoming louder" f="ppt" n="1"/>
+        <role descr="instrument, if separate from arg0" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

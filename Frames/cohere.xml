@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="cohere">
+    <roleset id="cohere.01" name="(cause to) form a coherent whole, orderly and unified, making sense">
+      <roles>
+        <role descr="agent, causer of coherence" f="pag" n="0"/>
+        <role descr="coherent bits" f="gol" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

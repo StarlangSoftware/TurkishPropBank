@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="conflagrate">
+    <roleset id="conflagrate.01" name="catch fire, burn">
+      <roles>
+        <role descr="causer of fire" f="pag" n="0"/>
+        <role descr="tinder, thing on fire" f="ppt" n="1"/>
+        <role descr="fire itself" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

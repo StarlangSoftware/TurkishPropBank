@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="fissure">
+    <roleset id="fissure.101" name="to form a cleft or crack">
+      <roles>
+        <role descr="Causer of fissuring" f="PAG" n="0"/>
+        <role descr="Entity cracking" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

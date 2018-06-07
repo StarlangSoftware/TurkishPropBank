@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="bread">
+    <roleset id="bread.01" name="coat/cover with bread">
+      <roles>
+        <role descr="coverer, agent" f="pag" n="0"/>
+        <role descr="coated/covered thing" f="gol" n="1"/>
+        <role descr="bread, redundantly" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

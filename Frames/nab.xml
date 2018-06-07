@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="nab">
+    <roleset id="nab.01" name="to arrest or capture">
+      <roles>
+        <role descr="agent, nabber" f="pag" n="0"/>
+        <role descr="criminal,entity nabbed" f="ppt" n="1"/>
+        <role descr="nabbed from" f="dir" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

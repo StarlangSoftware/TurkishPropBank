@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="combust">
+    <roleset id="combust.01" name="cause to burn">
+      <roles>
+        <role descr="agent/cause of combustion" f="PAG" n="0"/>
+        <role descr="thing combusting" f="PPT" n="1"/>
+        <role descr="instrument" f="MNR" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

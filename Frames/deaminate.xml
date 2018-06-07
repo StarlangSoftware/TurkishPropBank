@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="deaminate">
+    <roleset id="deaminate.01" name="remove an amino group from an organic compound">
+      <roles>
+        <role descr="intentional agent of deamination (e.g. scientist)" f="pag" n="0" />
+        <role descr="thing deaminated (e.g. amino-acid)" f="ppt" n="1" />
+        <role descr="instrument (e.g enzyme)" f="mnr" n="2" />
+        <role descr="product of deamination (not the ammonia molecule)" f="prd" n="3" />
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

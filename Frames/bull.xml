@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="bull">
+    <roleset id="bull.01" name="to push through, make your way with force like a bull">
+      <roles>
+        <role descr="Entity in motion, moving like a bull" f="ppt" n="1"/>
+        <role descr="Entity pushed through, past by arg1, the way of arg1" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

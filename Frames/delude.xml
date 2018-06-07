@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="delude">
+    <roleset id="delude.01" name="mislead the mind or judgement of">
+      <roles>
+        <role descr="misleader" f="PAG" n="0"/>
+        <role descr="misled to" f="PPT" n="1"/>
+        <role descr="misled about" f="PRD" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

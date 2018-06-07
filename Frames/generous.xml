@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="generous">
+    <roleset id="generous.01" name="generous">
+      <roles>
+        <role descr="giver, generous person" f="PAG" n="0"/>
+        <role descr="recipient of thing given, generous to whom" f="gol" n="1"/>
+        <role descr="given thing, generous with what" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

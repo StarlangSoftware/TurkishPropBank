@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="prominent">
+    <roleset id="prominent.01" name="standing out or outstanding">
+      <roles>
+        <role descr="prominent entity" f="pag" n="1"/>
+        <role descr="domain, location" f="loc" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

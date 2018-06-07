@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="structure">
+    <roleset id="structure.01" name="arrange in a particular fashion">
+      <roles>
+        <role descr="agent, structurer" f="pag" n="0"/>
+        <role descr="thing structured, arranged" f="ppt" n="1"/>
+        <role descr="how or as" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

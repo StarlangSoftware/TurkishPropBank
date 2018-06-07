@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="ferret_out">
+    <roleset id="ferret_out.01" name="to search and discover through persistent investigation">
+      <roles>
+        <role descr="entity exploring, searching, agent" f="PAG" n="0"/>
+        <role descr="thing discovered" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

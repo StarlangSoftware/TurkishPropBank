@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="offset">
+    <roleset id="offset.01" name="balance out, lessen the impact of">
+      <roles>
+        <role descr="intentional agent" f="pag" n="0"/>
+        <role descr="thing whose impact we want to lessen" f="gol" n="1"/>
+        <role descr="balanced by" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="crewel">
+    <roleset id="crewel.01" name="emboider with worsted yarn">
+      <roles>
+        <role descr="embroiderer" f="pag" n="0"/>
+        <role descr="surface, thing decorated" f="gol" n="1"/>
+        <role descr="image embroidered" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

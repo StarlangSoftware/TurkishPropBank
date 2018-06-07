@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="sleepwalk">
+    <roleset id="sleepwalk.01" name="sleepwalk">
+      <roles>
+        <role descr="theme, sleepwalker" f="PPT" n="1"/>
+        <role descr="start point" f="DIR" n="2"/>
+        <role descr="end point" f="GOL" n="3"/>
+        <role descr="path" f="LOC" n="4"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

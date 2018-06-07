@@ -1,0 +1,26 @@
+<frameset>
+  <predicate lemma="satisfy">
+    <roleset id="satisfy.01" name="make happy, fulfilled, fullfillment of a requirement">
+      <roles>
+        <role descr="agent, pleaser, fulfiller" f="pag" n="0"/>
+        <role descr="patient, entity pleased/fulfilled" f="ppt" n="1"/>
+        <role descr="method/instrumental" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="satisfy.02" name="convince">
+      <roles>
+        <role descr="convincer" f="pag" n="0"/>
+        <role descr="convinced" f="ppt" n="1"/>
+        <role descr="proposition" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="satisfactory">
+    <roleset id="satisfactory.03" name="meeting the acceptable standard">
+      <roles>
+        <role descr="satisfactory entity" f="pag" n="1"/>
+        <role descr="skill/domain" f="vsp" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="wreak">
+    <roleset id="wreak.01" name="to bring about, cause">
+      <roles>
+        <role descr="causer" f="pag" n="0"/>
+        <role descr="damage" f="prd" n="1"/>
+        <role descr="wreaked on/with/to" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

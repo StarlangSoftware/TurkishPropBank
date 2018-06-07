@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="override">
+    <roleset id="override.01" name="to prevail over or declare void">
+      <roles>
+        <role descr="prevailer, agent" f="PAG" n="0"/>
+        <role descr="entity overriden" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

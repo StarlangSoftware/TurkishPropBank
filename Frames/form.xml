@@ -1,0 +1,19 @@
+<frameset>
+  <predicate lemma="form">
+    <roleset id="form.01" name="create, make">
+      <roles>
+        <role descr="creator" f="pag" n="0"/>
+        <role descr="thing created" f="ppt" n="1"/>
+        <role descr="source" f="vsp" n="2"/>
+        <role descr="benefactive" f="gol" n="3"/>
+        <role descr="attribute of arg1" f="prd" n="4"/>
+      </roles>
+    </roleset>
+    <roleset id="form.02" name="comprise">
+      <roles>
+        <role descr="components" f="pag" n="0"/>
+        <role descr="whole" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

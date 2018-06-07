@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="triage">
+    <roleset id="triage.01" name="sort into groups based on severity of need">
+      <roles>
+        <role descr="sorter" f="pag" n="0"/>
+        <role descr="patients, entities sorted" f="ppt" n="1"/>
+        <role descr="groups sorted into" f="gol" n="2"/>
+        <role descr="rubric, based on" f="mnr" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="relinquish">
+    <roleset id="relinquish.01" name="abandon">
+      <roles>
+        <role descr="abandoner" f="PAG" n="0"/>
+        <role descr="project" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

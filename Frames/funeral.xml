@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="funeral">
+    <roleset id="funeral.01" name="burial ceremony">
+      <roles>
+        <role descr="officiant" f="pag" n="0"/>
+        <role descr="entity buried, dead guy" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

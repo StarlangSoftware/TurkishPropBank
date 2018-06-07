@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="flay">
+    <roleset id="flay.01" name="remove skin by whipping">
+      <roles>
+        <role descr="remover of skin, agent" f="pag" n="0"/>
+        <role descr="thing beaten" f="ppt" n="1"/>
+        <role descr="instrument" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

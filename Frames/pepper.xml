@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="pepper">
+    <roleset id="pepper.01" name="apply sparsely, like pepper">
+      <roles>
+        <role descr="applier" f="PAG" n="0"/>
+        <role descr="applied to" f="GOL" n="1"/>
+        <role descr="metaphorical pepper" f="PPT" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

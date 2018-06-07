@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="penalize">
+    <roleset id="penalize.01" name="to subject to a penalty">
+      <roles>
+        <role descr="applier of penalty, agent" f="PAG" n="0"/>
+        <role descr="entity penalized" f="PPT" n="1"/>
+        <role descr="thing penalized for" f="PRD" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="sanctify">
+    <roleset id="sanctify.01" name="to make holy, set apart as sacred">
+      <roles>
+        <role descr="agent, sanctifier, holy person" f="PAG" n="0"/>
+        <role descr="thing sanctified, made holy" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

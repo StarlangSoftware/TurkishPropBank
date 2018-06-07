@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="disavow">
+    <roleset id="disavow.01" name="disclaim knowledge of,   responsibility for, or association with; repudiate">
+      <roles>
+        <role descr="disavower" f="pag" n="0"/>
+        <role descr="thing disavowed" f="ppt" n="1"/>
+        <role descr="listener to statement of disavowal" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

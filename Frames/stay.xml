@@ -1,0 +1,32 @@
+<frameset>
+  <predicate lemma="stay">
+    <roleset id="stay.01" name="remain, be left over, linger, visit">
+      <roles>
+        <role descr="thing remaining" f="ppt" n="1"/>
+        <role descr="benefactive, rare" f="gol" n="2"/>
+        <role descr="attribute of arg1: state, location stayed in" f="prd" n="3"/>
+      </roles>
+    </roleset>
+    <roleset id="stay.03" name="legal term: postpone, restraint, postponement">
+      <roles>
+        <role descr="postponer" f="pag" n="0"/>
+        <role descr="thing postponed" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="stay_on">
+    <roleset id="stay_on.02" name="linger">
+      <roles>
+        <role descr="thing remaining, staying, lingering" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="stay_over">
+    <roleset id="stay_over.04" name="remain in a location (usually for the night)">
+      <roles>
+        <role descr="entity staying over" f="ppt" n="1"/>
+        <role descr="where" f="loc" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="catalyze">
+    <roleset id="catalyze.01" name="to initiate change">
+      <roles>
+        <role descr="agent" f="PAG" n="0"/>
+        <role descr="resultant state" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

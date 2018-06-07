@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="sane">
+    <roleset id="sane.01" name="clear headed, mentally healthy">
+      <roles>
+        <role descr="sane entity/act (may require concatenation)" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

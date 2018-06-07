@@ -1,0 +1,17 @@
+<frameset>
+  <predicate lemma="purple">
+    <roleset id="purple.01" name="make purple">
+      <roles>
+        <role descr="agent, causing purpling" f="pag" n="0"/>
+        <role descr="thing purpled" f="ppt" n="1"/>
+        <role descr="end state" f="prd" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="purple.02" name="be the color purple">
+      <roles>
+        <role descr="agent, causing purpling" f="pag" n="0"/>
+        <role descr="thing purpled" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="unexplain">
+    <roleset id="unexplain.01" name="take back or cause to lack an explaination">
+      <roles>
+        <role descr="explainer" f="pag" n="0"/>
+        <role descr="thing explained" f="ppt" n="1"/>
+        <role descr="explained to" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

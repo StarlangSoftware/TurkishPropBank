@@ -1,0 +1,20 @@
+<frameset>
+  <predicate lemma="whirl">
+    <roleset id="whirl.01" name="move in a circle or spiral, quickly">
+      <roles>
+        <role descr="thing in motion" f="PPT" n="1"/>
+        <role descr="axis (rare)" f="LOC" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="whirl.02" name="natural disaster: tornado (usually fire)">
+      <roles>
+        <role descr="additional mention of fire, element" f="ppt" n="1"/>
+        <role descr="rating/classification (F scale or types I-III)" f="ext" n="2"/>
+        <role descr="death/injury toll" f="vsp" n="3"/>
+        <role descr="damages/cost" f="vsp" n="4"/>
+        <role descr="wind speed" f="mnr" n="5"/>
+        <role descr="diameter" f="ext" n="6"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

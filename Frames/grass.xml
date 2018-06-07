@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="grass">
+    <roleset id="grass.01" name="cover with grass">
+      <roles>
+        <role descr="grass-layer" f="pag" n="0"/>
+        <role descr="area covered with grass" f="gol" n="1"/>
+        <role descr="grass itself, type of grass" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

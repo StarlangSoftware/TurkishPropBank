@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="insist">
+    <roleset id="insist.01" name="require, insist">
+      <roles>
+        <role descr="insister" f="PAG" n="0"/>
+        <role descr="thing insisted, required" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,23 @@
+<frameset>
+  <predicate lemma="question">
+    <roleset id="question.01" name="ask a question (of a listener)">
+      <roles>
+        <role descr="asker" f="pag" n="0"/>
+        <role descr="question" f="ppt" n="1"/>
+        <role descr="entity asked, hearer" f="gol" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="question.02" name="out-of-the-question">
+      <roles>
+        <role descr="thing that is out of the question" f="ppt" n="1"/>
+        <role descr="for whom/what" f="gol" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="question.03" name="have doubts, be dubious">
+      <roles>
+        <role descr="entity having doubts" f="pag" n="0"/>
+        <role descr="dubious thing" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

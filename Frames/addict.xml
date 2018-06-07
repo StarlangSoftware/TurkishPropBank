@@ -1,0 +1,19 @@
+<frameset>
+  <predicate lemma="addict">
+    <roleset id="addict.01" name="cause a dependency, as to a drug">
+      <roles>
+        <role descr="outside causer of addiction" f="PAG" n="0"/>
+        <role descr="addicted entity" f="PPT" n="1"/>
+        <role descr="drug etc." f="VSP" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="addictive">
+    <roleset id="addictive.02" name="causing addiction">
+      <roles>
+        <role descr="addictive substance" f="pag" n="0"/>
+        <role descr="addictive to whom? addicted entity" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

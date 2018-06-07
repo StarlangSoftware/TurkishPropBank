@@ -1,0 +1,20 @@
+<frameset>
+  <predicate lemma="represent">
+    <roleset id="represent.01" name="stand for, correspond, signify, being a representative">
+      <roles>
+        <role descr="entity standing in for another entity" f="pag" n="0"/>
+        <role descr="entity stood in for" f="ppt" n="1"/>
+        <role descr="domain in which arg0 stands for arg1" f="adv" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="representation">
+    <roleset id="representation.02" name="presentation, depiction, characterization">
+      <roles>
+        <role descr="agent, characterizer" f="pag" n="0"/>
+        <role descr="entity characterized" f="ppt" n="1"/>
+        <role descr="characterized as what" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

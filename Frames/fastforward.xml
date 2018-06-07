@@ -1,0 +1,13 @@
+<frameset>
+  <predicate lemma="fastforward">
+    <roleset id="fastforward.01" name="move forward quickly, like on a media player">
+      <roles>
+        <role descr="fast forwarder" f="pag" n="0"/>
+        <role descr="medium moved forward" f="ppt" n="1"/>
+        <role descr="amount moved forward" f="ext" n="2"/>
+        <role descr="start point" f="dir" n="3"/>
+        <role descr="end point" f="gol" n="4"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

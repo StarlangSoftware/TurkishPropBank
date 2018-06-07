@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="intuit">
+    <roleset id="intuit.01" name="know or understand by a gut feeling">
+      <roles>
+        <role descr="intuitor" f="pag" n="0"/>
+        <role descr="topic, intuition, intuition about" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

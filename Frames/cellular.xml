@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="cellular">
+    <roleset id="cellular.01" name="related to or composed of cells">
+      <roles>
+        <role descr="topic, entit composed of cells" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

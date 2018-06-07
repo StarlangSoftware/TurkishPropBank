@@ -1,0 +1,13 @@
+<frameset>
+  <predicate lemma="mutate">
+    <roleset id="mutate.01" name="to undergo or cause to undergo mutation, changing state, morphing">
+      <roles>
+        <role descr="causer of change, agent" f="pag" n="0"/>
+        <role descr="entity undergoing mutation" f="ppt" n="1"/>
+        <role descr="end state, arg 1 mutated into what?" f="prd" n="2"/>
+        <role descr="start state, arg 1 mutated from what?" f="dir" n="3"/>
+      </roles>
+    
+    </roleset>
+  </predicate>
+</frameset>

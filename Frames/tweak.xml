@@ -1,0 +1,16 @@
+<frameset>
+  <predicate lemma="tweak">
+    <roleset id="tweak.01" name="tweak, cause change">
+      <roles>
+        <role descr="tweaker" f="pag" n="0"/>
+        <role descr="thing tweaked" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="tweak.02" name="tweak on drugs">
+      <roles>
+        <role descr="drug user tweaking" f="ppt" n="1"/>
+        <role descr="drug mention" f="cau" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

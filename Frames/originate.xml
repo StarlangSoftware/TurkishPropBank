@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="originate">
+    <roleset id="originate.01" name="create, come about">
+      <roles>
+        <role descr="creator" f="pag" n="0"/>
+        <role descr="thing originated" f="ppt" n="1"/>
+        <role descr="source" f="dir" n="2"/>
+        <role descr="attribute of arg1" f="prd" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

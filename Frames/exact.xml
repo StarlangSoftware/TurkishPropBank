@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="exact">
+    <roleset id="exact.01" name="get, obtain">
+      <roles>
+        <role descr="receiver, exactor" f="PAG" n="0"/>
+        <role descr="thing obtained" f="PPT" n="1"/>
+        <role descr="received from" f="DIR" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

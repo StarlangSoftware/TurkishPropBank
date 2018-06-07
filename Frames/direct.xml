@@ -1,0 +1,16 @@
+<frameset>
+  <predicate lemma="direct">
+    <roleset id="direct.01" name="provide direction, provide instruction/guidance (not cardinal directions!)">
+      <roles>
+        <role descr="director" f="PAG" n="0"/>
+        <role descr="thing directed" f="PPT" n="1"/>
+        <role descr="direction, towards what" f="dir" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="direct.02" name="straightforward">
+      <roles>
+        <role descr="straight thing" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="glacierize">
+    <roleset id="glacierize.01" name="become/cover with glacier">
+      <roles>
+        <role descr="cause of glacier formation" f="cau" n="0"/>
+        <role descr="thing with a glacier" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

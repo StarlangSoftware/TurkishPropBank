@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="downwelling">
+    <roleset id="downwelling.01" name="accumulation and sinking">
+      
+      <roles>
+        <role descr="thing sinking/accumulating" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

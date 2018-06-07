@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="noncircumferential">
+    <roleset id="noncircumferential.01" name="not lying around the edges of">
+      <roles>
+        <role descr="thing not lying around the edges" f="pag" n="1"/>
+        <role descr="the edges of what" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

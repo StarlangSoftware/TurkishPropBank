@@ -1,0 +1,35 @@
+<frameset>
+  <predicate lemma="free">
+    <roleset id="free.01" name="cause to be available">
+      <roles>
+        <role descr="entity providing freedom, agent" f="pag" n="0"/>
+        <role descr="entity made free" f="dir" n="1"/>
+        <role descr="freed from" f="ppt" n="2"/>
+        <role descr="beneficiary/purpose" f="prp" n="3"/>
+      </roles>
+    </roleset>
+    <roleset id="free.03" name="costing nothing">
+      <roles>
+        <role descr="thing that costs nothing" f="pag" n="1"/>
+        <role descr="&quot;of charge&quot; or similar" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="free.04" name="unconstrained, unrestricted">
+      <roles>
+        <role descr="free entity" f="pag" n="1"/>
+        <role descr="free from (former chains/burden)" f="dir" n="2"/>
+        <role descr="resulting freedom (to do what)" f="prd" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="free_up">
+    <roleset id="free_up.02" name="to make available for other use">
+      <roles>
+        <role descr="agent, free-er upper" f="pag" n="0"/>
+        <role descr="resource made available" f="ppt" n="1"/>
+        <role descr="old use" f="dir" n="2"/>
+        <role descr="new use" f="prp" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

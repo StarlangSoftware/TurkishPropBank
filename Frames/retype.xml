@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="retype">
+    <roleset id="retype.01" name="type again">
+      <roles>
+        <role descr="writer" f="pag" n="0"/>
+        <role descr="text" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

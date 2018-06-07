@@ -1,0 +1,27 @@
+<frameset>
+  <predicate lemma="reserve">
+    <roleset id="reserve.01" name="hold back, set aside">
+      <roles>
+        <role descr="reserver, holder back" f="pag" n="0"/>
+        <role descr="thing reserved" f="ppt" n="1"/>
+        <role descr="benefactive" f="gol" n="2"/>
+        <role descr="secondary attribute of arg1" f="prd" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="reserved">
+    <roleset id="reserved.02" name="reticent, stoic, using self-restraint">
+      <roles>
+        <role descr="stoic one" f="pag" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="reservation">
+    <roleset id="reservation.03" name="misgiving">
+      <roles>
+        <role descr="entity having misgivings" f="pag" n="0"/>
+        <role descr="about what" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="escape">
+    <roleset id="escape.01" name="default, flight">
+      <roles>
+        <role descr="entity escaping" f="ppt" n="0"/>
+        <role descr="place or thing escaped" f="loc" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

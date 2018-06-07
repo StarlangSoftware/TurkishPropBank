@@ -1,0 +1,17 @@
+<frameset>
+  <predicate lemma="stroke">
+    <roleset id="stroke.01" name="stroke, long smooth brushing motion">
+      <roles>
+        <role descr="stroker" f="PAG" n="0"/>
+        <role descr="surface being stroked" f="gol" n="1"/>
+        <role descr="the strokes themselves (might be writing)" f="ppt" n="2"/>
+        <role descr="instrument" f="mnr" n="3"/>
+      </roles>
+    </roleset>
+    <roleset id="stroke.02" name="be on the receiving end of a popped blood vessel in one's head">
+      <roles>
+        <role descr="experiencer" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

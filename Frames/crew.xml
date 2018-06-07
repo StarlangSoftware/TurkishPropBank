@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="crew">
+    <roleset id="crew.01" name="serve as crew">
+      <roles>
+        <role descr="crew, agent" f="PAG" n="0"/>
+        <role descr="ship, crewed what?" f="GOL" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

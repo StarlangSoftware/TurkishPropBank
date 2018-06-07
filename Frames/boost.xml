@@ -1,0 +1,14 @@
+<frameset>
+  <predicate lemma="boost">
+    <roleset id="boost.01" name="push upwards">
+      <roles>
+        <role descr="causer of upward motion, Agent" f="pag" n="0"/>
+        <role descr="Logical subject, thing moving upward" f="ppt" n="1"/>
+        <role descr="EXT, amount risen" f="ext" n="2"/>
+        <role descr="start point" f="dir" n="3"/>
+        <role descr="end point" f="gol" n="4"/>
+        <role descr="Medium" f="loc" n="m"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

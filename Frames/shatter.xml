@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="shatter">
+    <roleset id="shatter.01" name="break into a zillion pieces">
+      <roles>
+        <role descr="breaker" f="pag" n="0"/>
+        <role descr="thing broken" f="ppt" n="1"/>
+        <role descr="instrument" f="mnr" n="2"/>
+        <role descr="pieces" f="prd" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="discolor">
+    <roleset id="discolor.01" name="(cause to) have a bad color">
+      <roles>
+        <role descr="causer of bad color" f="pag" n="0"/>
+        <role descr="thing discolored" f="ppt" n="1"/>
+        <role descr="bad color" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,19 @@
+<frameset>
+  <predicate lemma="iron_out">
+    <roleset id="iron_out.01" name="to work out, resolve">
+      <roles>
+        <role descr="entities working something out" f="pag" n="0"/>
+        <role descr="thing ironed out" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="iron">
+    <roleset id="iron.02" name="use a hot piece of metal to make flat">
+      <roles>
+        <role descr="ironer" f="pag" n="0"/>
+        <role descr="flat thing" f="ppt" n="1"/>
+        <role descr="instrument" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

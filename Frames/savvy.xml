@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="savvy">
+    <roleset id="savvy.01" name="understand">
+      <roles>
+        <role descr="knower" f="pag" n="0"/>
+        <role descr="thing known or thought" f="ppt" n="1"/>
+        <role descr="attribute of arg1" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

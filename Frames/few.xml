@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="few">
+    <roleset id="few.01" name="relatively low count">
+      <roles>
+        <role descr="group with a relatively low count" f="ppt" n="1"/>
+        <role descr="out of which larger group" f="loc" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

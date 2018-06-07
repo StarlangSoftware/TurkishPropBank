@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="sensationalize">
+    <roleset id="sensationalize.01" name="making seem overly fantastic">
+      <roles>
+        <role descr="agent" f="pag" n="0"/>
+        <role descr="sensational thing" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

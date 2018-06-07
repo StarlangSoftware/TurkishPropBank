@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="oust">
+    <roleset id="oust.01" name="cause to cease employment">
+      <roles>
+        <role descr="employer" f="PAG" n="0"/>
+        <role descr="ex-employee" f="PPT" n="1"/>
+        <role descr="job" f="DIR" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

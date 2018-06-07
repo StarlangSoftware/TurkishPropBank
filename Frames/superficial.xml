@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="superficial">
+    <roleset id="superficial.01" name="on/near the surface">
+      <roles>
+        <role descr="entity on/near the surface" f="pag" n="1"/>
+        <role descr="on the surface of what" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

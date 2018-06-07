@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="prank">
+    <roleset id="prank.01" name="play a practical joke on">
+      <roles>
+        <role descr="prankster" f="pag" n="0"/>
+        <role descr="target of prank (entity fooled)" f="ppt" n="1"/>
+        <role descr="the prank itself" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

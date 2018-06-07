@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="supratherapeutic">
+    <roleset id="supratherapeutic.01" name="above the theraputic level">
+      <roles>
+        <role descr="thing measuring about the theraputic level" f="pag" n="1"/>
+        <role descr="measurement" f="vsp" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

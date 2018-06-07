@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="unwatchable">
+    <roleset id="unwatchable.01" name="not suitable for/capable of being viewed">
+      <roles>
+        <role descr="observer" f="pag" n="0"/>
+        <role descr="thing not watched" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="photosynthesize">
+    <roleset id="photosynthesize.01" name="Convert light energy into chemical energy">
+      <roles>
+        <role descr="causer of change (ie plant, cloroplast)" f="pag" n="0"/>
+        <role descr="entity undergoing change (ie light energy)" f="ppt" n="1"/>
+        <role descr="resulting state, arg1 converted into (ie chemical energy)" f="prd" n="2"/>
+        <role descr="benefactive, when seperate from arg0" f="gol" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

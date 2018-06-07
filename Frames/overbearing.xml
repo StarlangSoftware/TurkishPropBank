@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="overbearing">
+    <roleset id="overbearing.01" name="bossy, controlling">
+      <roles>
+        <role descr="bossy one" f="pag" n="0"/>
+        <role descr="subject matter" f="ppt" n="1"/>
+        <role descr="target of bossiness, recipient" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

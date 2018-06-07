@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="expedite">
+    <roleset id="expedite.01" name="to accelerate">
+      <roles>
+        <role descr="causer of greater speed, agent" f="PAG" n="0"/>
+        <role descr="entity expedited" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

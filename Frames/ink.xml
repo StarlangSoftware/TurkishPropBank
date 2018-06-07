@@ -1,0 +1,25 @@
+<frameset>
+  <predicate lemma="ink">
+    <roleset id="ink.01" name="mark with ink">
+      <roles>
+        <role descr="agent, entity applying the ink" f="PAG" n="0"/>
+        <role descr="theme, the ink itself or what is being depicted in ink" f="ppt" n="1"/>
+        <role descr="destination, what the ink is being applied to" f="gol" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="ink.02" name="fill with ink">
+      <roles>
+        <role descr="agent, entity filling the reservoir with ink" f="PAG" n="0"/>
+        <role descr="the ink" f="PPT" n="1"/>
+        <role descr="destination, thing being filled with ink" f="GOL" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="ink.03" name="squirt ink (like an octopus or squid)">
+      <roles>
+        <role descr="ink-bearing sea creature" f="PAG" n="0"/>
+        <role descr="the ink (rarely seen)" f="ppt" n="1"/>
+        <role descr="where the ink is being squirted" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="buffalo">
+    <roleset id="buffalo.01" name="outsmart and intimidate">
+      <roles>
+        <role descr="intimidator" f="pag" n="0"/>
+        <role descr="intimidatee" f="ppt" n="1"/>
+        <role descr="intimidated into doing what" f="prd" n="2"/>
+        <role descr="intimidating behavior used" f="mnr" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

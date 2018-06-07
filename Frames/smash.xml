@@ -1,0 +1,23 @@
+<frameset>
+  <predicate lemma="smash">
+    <roleset id="smash.01" name="break violently">
+      <roles>
+        <role descr="agent, smasher" f="pag" n="0"/>
+        <role descr="patient, smashed" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="smash.02" name="move violently, so as to break apart">
+      <roles>
+        <role descr="thing in motion" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="smash_up">
+    <roleset id="smash_up.03" name="smash_up: break completely">
+      <roles>
+        <role descr="agent, smasher" f="pag" n="0"/>
+        <role descr="patient, thing smashed" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="engross">
+    <roleset id="engross.01" name="entrance">
+      <roles>
+        <role descr="Engrosser" f="pag" n="0"/>
+        <role descr="Engrossed" f="ppt" n="1"/>
+        <role descr="instrument, when separate from arg0" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

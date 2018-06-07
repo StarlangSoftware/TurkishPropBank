@@ -1,0 +1,17 @@
+<frameset>
+  <predicate lemma="fool">
+    <roleset id="fool.01" name="to deceive or trick">
+      <roles>
+        <role descr="trickster, agent" f="PAG" n="0"/>
+        <role descr="entity deceived" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="fool_around">
+    <roleset id="fool_around.02" name="to engage in idle or frivolous activity">
+      <roles>
+        <role descr="entity fooling around" f="PAG" n="0"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="shock">
+    <roleset id="shock.01" name="surprise, astonished">
+      <roles>
+        <role descr="surpriser" f="pag" n="0"/>
+        <role descr="person surprised" f="ppt" n="1"/>
+        <role descr="instrument, if separate from arg0" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

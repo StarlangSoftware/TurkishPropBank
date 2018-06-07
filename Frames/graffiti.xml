@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="graffiti">
+    <roleset id="graffiti.01" name="cover with graffiti">
+      <roles>
+        <role descr="punk artist" f="PAG" n="0"/>
+        <role descr="wall" f="GOL" n="1"/>
+        <role descr="art, type of graffiti" f="PPT" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

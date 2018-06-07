@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="uninhabitable">
+    <roleset id="uninhabitable.01" name="not able to be lived in">
+      <roles>
+        <role descr="would-be inhabitant" f="pag" n="0"/>
+        <role descr="unsuitable habitat" f="loc" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="wine">
+    <roleset id="wine.01" name="plying with wine (usually followed by 'and dining')">
+      <roles>
+        <role descr="wine-giver" f="pag" n="0"/>
+        <role descr="arg0's date; wine drinker" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

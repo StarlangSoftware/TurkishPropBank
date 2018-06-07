@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="prepay">
+    <roleset id="prepay.01" name="pay in advance">
+      <roles>
+        <role descr="payer or buyer" f="pag" n="0"/>
+        <role descr="thing paid for (often debt)" f="ppt" n="1"/>
+        <role descr="seller or person being paid" f="gol" n="2"/>
+        <role descr="price paid" f="vsp" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

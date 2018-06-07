@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="house">
+    <roleset id="house.01" name="to contain or provide housing for, provide a home for">
+      <roles>
+        <role descr="provider of housing" f="pag" n="0"/>
+        <role descr="entity housed" f="ppt" n="1"/>
+        <role descr="location" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

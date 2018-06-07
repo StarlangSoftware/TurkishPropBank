@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="chitchat">
+    <roleset id="chitchat.01" name="chat idly">
+      <roles>
+        <role descr="First or all speakers (where one constituent)" f="pag" n="0"/>
+        <role descr="topic of chitchat" f="ppt" n="1"/>
+        <role descr="Second chatter (where separate constituents), or hearer" f="com" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="horizontal">
+    <roleset id="horizontal.01" name="flat, even with the horizon">
+      <roles>
+        <role descr="horizontal thing" f="pag" n="1"/>
+        <role descr="in relation to what" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

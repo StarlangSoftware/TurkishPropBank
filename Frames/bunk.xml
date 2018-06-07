@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="bunk">
+    <roleset id="bunk.02" name="go to bed">
+      <roles>
+        <role descr="agent" f="pag" n="0"/>
+        <role descr="one/thing bunking" f="ppt" n="1"/>
+        <role descr="location" f="loc" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="lawful">
+    <roleset id="lawful.01" name="in accordance with the law">
+      <roles>
+        <role descr="lawful thing" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

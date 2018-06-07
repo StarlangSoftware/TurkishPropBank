@@ -1,0 +1,27 @@
+<frameset>
+  <predicate lemma="bundle">
+    <roleset id="bundle.01" name="put items together   into a bundle">
+      <roles>
+        <role descr="bundler (not bungler)" f="pag" n="0"/>
+        <role descr="items" f="ppt" n="1"/>
+        <role descr="bundle" f="gol" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="bundle.02" name="dress warmly">
+      <roles>
+        <role descr="causal agent of dressing" f="pag" n="0"/>
+        <role descr="entity dressed" f="ppt" n="1"/>
+        <role descr="clothing" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="bundle_up">
+    <roleset id="bundle_up.03" name="dress warmly">
+      <roles>
+        <role descr="causal agent of dressing" f="pag" n="0"/>
+        <role descr="entity dressed" f="ppt" n="1"/>
+        <role descr="clothing" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

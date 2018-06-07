@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="revel">
+    <roleset id="revel.01" name="to take great pleasure or delight">
+      <roles>
+        <role descr="experiencer of delight" f="PPT" n="0"/>
+        <role descr="entity reveling in" f="PAG" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="clay">
+    <roleset id="clay.01" name="to cover, treat, or fill with clay">
+      <roles>
+        <role descr="agent, handler of clay" f="PAG" n="0"/>
+        <role descr="location/entity being covered with clay" f="GOL" n="1"/>
+        <role descr="Clay, type of clay itself" f="PPT" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

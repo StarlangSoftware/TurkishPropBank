@@ -1,0 +1,25 @@
+<frameset>
+  <predicate lemma="tap">
+    <roleset id="tap.01" name="hit">
+      <roles>
+        <role descr="agent, hitter - animate only!" f="pag" n="0"/>
+        <role descr="thing hit" f="ppt" n="1"/>
+        <role descr="instrument, thing hit by or with" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="tap.02" name="call upon">
+      <roles>
+        <role descr="caller" f="pag" n="0"/>
+        <role descr="thing being summoned" f="ppt" n="1"/>
+        <role descr="benefactive" f="gol" n="2"/>
+        <role descr="attribute of arg1 or task" f="prd" n="3"/>
+      </roles>
+    </roleset>
+    <roleset id="tap.03" name="access, as a phone or water tap">
+      <roles>
+        <role descr="accessor, agent" f="pag" n="0"/>
+        <role descr="thing tapped" f="loc" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

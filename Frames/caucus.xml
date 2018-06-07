@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="caucus">
+    <roleset id="caucus.01" name="a meeting of local members of a political party">
+      <roles>
+        <role descr="party meeting" f="pag" n="0"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

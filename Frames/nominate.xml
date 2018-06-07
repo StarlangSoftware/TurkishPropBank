@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="nominate">
+    <roleset id="nominate.01" name="suggest someone take a role">
+      <roles>
+        <role descr="nominator" f="PAG" n="0"/>
+        <role descr="candidate" f="PPT" n="1"/>
+        <role descr="role of arg1" f="PRD" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

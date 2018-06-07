@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="jewy">
+    <roleset id="jewy.01" name="having characteristics shared by jews">
+      <roles>
+        <role descr="entity who shares characteristics with Jews" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

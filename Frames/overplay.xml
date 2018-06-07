@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="overplay">
+    <roleset id="overplay.01" name="play too boldly (as in poker or another competition)">
+      <roles>
+        <role descr="player" f="pag" n="0"/>
+        <role descr="thing played too boldly" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

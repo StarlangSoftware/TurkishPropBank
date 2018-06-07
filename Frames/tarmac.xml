@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="tarmac">
+    <roleset id="tarmac.01" name="to cover with tarmac">
+      <roles>
+        <role descr="agent, Tarmac layer" f="pag" n="0"/>
+        <role descr="Road/lot, location covered" f="gol" n="1"/>
+        <role descr="Tarmac itself, what kind of Tarmac" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

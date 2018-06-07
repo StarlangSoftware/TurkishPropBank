@@ -1,0 +1,18 @@
+<frameset>
+  <predicate lemma="mistake">
+    <roleset id="mistake.01" name="take incorrectly, assume incorrectly">
+      <roles>
+        <role descr="entity making an assumption, agent" f="pag" n="0"/>
+        <role descr="thing mistaken" f="ppt" n="1"/>
+        <role descr="frequently: assumption" f="prd" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="mistake.02" name="mess up, fail, make a mistake">
+      <roles>
+        <role descr="entity making mistake" f="pag" n="0"/>
+        <role descr="thing messed up" f="ppt" n="1"/>
+        <role descr="the mistake itself" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

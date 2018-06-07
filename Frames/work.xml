@@ -1,0 +1,113 @@
+<frameset>
+  <predicate lemma="work">
+    <roleset id="work.01" name="work, being employed, acts, deeds (no physical parts or gov't departments!)">
+      <roles>
+        <role descr="worker" f="pag" n="0"/>
+        <role descr="job, project" f="ppt" n="1"/>
+        <role descr="employer, benefactive" f="gol" n="2"/>
+        <role descr="coworker" f="com" n="3"/>
+        <role descr="instrumental" f="mnr" n="4"/>
+        <role descr="secondary-theme" f="prd" n="5"/>
+      </roles>
+    </roleset>
+    <roleset id="work.06" name="move with purpose">
+      <roles>
+        <role descr="entity in motion" f="pag" n="0"/>
+        <role descr="description of path" f="ppt" n="1"/>
+        <role descr="start point" f="vsp" n="3"/>
+        <role descr="end point" f="prd" n="4"/>
+      </roles>
+    </roleset>
+    <roleset id="work.07" name="put, manipulate, inserting">
+      <roles>
+        <role descr="manipulator" f="pag" n="0"/>
+        <role descr="thing manipulated" f="vsp" n="1"/>
+        <role descr="destination, end state" f="prd" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="work.08" name="confused with wreak">
+      <roles>
+        <role descr="worker" f="pag" n="0"/>
+        <role descr="damage, havoc" f="ppt" n="1"/>
+        <role descr="upon what" f="gol" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="work.09" name="function, operate">
+      <roles>
+        <role descr="causer" f="pag" n="0"/>
+        <role descr="thing functioning" f="ppt" n="1"/>
+        <role descr="beneficiary" f="gol" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="work.10" name="resultative construction">
+      <roles>
+        <role descr="Person/Entity working something1" f="pag" n="0"/>
+        <role descr="Thing undergoing change of state, unselected object of work" f="ppt" n="1"/>
+        <role descr="End result of thing worked, arg1" f="prd" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="work.11" name="'in the works'">
+      <roles>
+        <role descr="thing getting underway" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="work.12" name="work-of-art">
+      <roles>
+        <role descr="artist" f="pag" n="0"/>
+        <role descr="art work or subject area" f="ppt" n="1"/>
+        <role descr="secondary-theme" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="work.13" name="'at-work'  cause change, at/in play">
+      <roles>
+        <role descr="thing existing" f="ppt" n="1"/>
+        <role descr="secondary attribute" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="work_out">
+    <roleset id="work_out.02" name="work out: arrange">
+      <roles>
+        <role descr="arranger" f="pag" n="0"/>
+        <role descr="scheme" f="ppt" n="1"/>
+        <role descr="collaborator" f="com" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="work_out.03" name="work out: exercise">
+      <roles>
+        <role descr="athlete" f="pag" n="0"/>
+      </roles>
+    </roleset>
+    <roleset id="work_out.05" name="work out: amount, count up">
+      <roles>
+        <role descr="counter" f="pag" n="0"/>
+        <role descr="thing being counted" f="ppt" n="1"/>
+        <role descr="count, number" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="work_up">
+    <roleset id="work_up.04" name="work up: create, cause to come about">
+      <roles>
+        <role descr="creator" f="pag" n="0"/>
+        <role descr="thing arising" f="ppt" n="1"/>
+        <role descr="benefactive" f="gol" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="work_up.101" name="determine and perform necessary medical course of action">
+      <roles>
+        <role descr="Doctor (Agent)" f="pag" n="0"/>
+        <role descr="Patient" f="ppt" n="1"/>
+        <role descr="Condition/Illness/Disorder" f="cau" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="worked_up">
+    <roleset id="worked_up.14" name="Angry, agitated, excited about something">
+      <roles>
+        <role descr="Stimulus, worked up over what?" f="pag" n="0"/>
+        <role descr="Excited entity" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

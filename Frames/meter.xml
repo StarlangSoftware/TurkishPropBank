@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="meter">
+    <roleset id="meter.01" name="to measure with a metering device">
+      <roles>
+        <role descr="Agent, measurer" f="pag" n="0"/>
+        <role descr="Thing measured" f="ppt" n="1"/>
+        <role descr="Means of measuring, instrument" f="mnr" n="2"/>
+        <role descr="Measurement, amount, extent (if separate from Arg1)" f="vsp" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

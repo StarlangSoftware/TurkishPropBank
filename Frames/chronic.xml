@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="chronic">
+    <roleset id="chronic.01" name="long-lasting">
+      <roles>
+        <role descr="thing that is long-lasting" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="hazy">
+    <roleset id="hazy.01" name="having obscurred visibility (like or from the weather condition)">
+      <roles>
+        <role descr="entity or location that is hazy" f="ppt" n="1"/>
+        <role descr="perceiver" f="pag" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

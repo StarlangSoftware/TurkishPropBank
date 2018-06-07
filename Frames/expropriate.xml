@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="expropriate">
+    <roleset id="expropriate.01" name="revoke ownership">
+      <roles>
+        <role descr="expropriator" f="pag" n="0"/>
+        <role descr="thing revoked" f="ppt" n="1"/>
+        <role descr="owner removed from" f="dir" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

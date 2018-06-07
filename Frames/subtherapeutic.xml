@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="subtherapeutic">
+    <roleset id="subtherapeutic.01" name="be at a suboptimal or sub-beneficial level of treatment">
+      <roles>
+        <role descr="suboptimal thing, thing being measured" f="ppt" n="1"/>
+        <role descr="measurement, level at wich arg1 is subtherapeutic" f="vsp" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

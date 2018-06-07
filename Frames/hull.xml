@@ -1,0 +1,19 @@
+<frameset>
+  <predicate lemma="hull">
+    <roleset id="hull.01" name="removal of outer covering">
+      <roles>
+        <role descr="remover" f="pag" n="0"/>
+        <role descr="the thing that is having its outer covering removed" f="dir" n="1"/>
+        <role descr="the outer covering (rare)" f="ppt" n="2"/>
+        <role descr="instrument" f="mnr" n="3"/>
+      </roles>
+    </roleset>
+    <roleset id="hull.02" name="attack and strike a ship">
+      <roles>
+        <role descr="attacker" f="pag" n="0"/>
+        <role descr="entity being attacked" f="ppt" n="1"/>
+        <role descr="weapon (usually cannon shot)" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

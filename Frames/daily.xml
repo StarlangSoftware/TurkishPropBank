@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="daily">
+    <roleset id="daily.01" name="occurring every day">
+      <roles>
+        <role descr="daily thing" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

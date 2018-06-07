@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="retravel">
+    <roleset id="retravel.01" name="travel again">
+      <roles>
+        <role descr="traveller" f="pag" n="0"/>
+        <role descr="location or path" f="loc" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

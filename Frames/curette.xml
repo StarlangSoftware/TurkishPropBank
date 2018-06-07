@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="curette">
+    <roleset id="curette.01" name="using a curette to remove unwanted tissue">
+      <roles>
+        <role descr="Agent, user of curette" f="PAG" n="0"/>
+        <role descr="Patient, entity curette is being used on" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

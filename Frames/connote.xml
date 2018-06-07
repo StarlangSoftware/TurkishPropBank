@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="connote">
+    <roleset id="connote.01" name="to imply or predicate">
+      <roles>
+        <role descr="entity implying" f="pag" n="0"/>
+        <role descr="entity implied" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

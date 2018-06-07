@@ -1,0 +1,33 @@
+<frameset>
+  <predicate lemma="scale">
+    <roleset id="scale.01" name="change size">
+      <roles>
+        <role descr="agent, entity causing change in size" f="pag" n="0"/>
+        <role descr="thing changing size" f="ppt" n="1"/>
+        <role descr="EXT, amount changed by" f="ext" n="2"/>
+        <role descr="start point" f="dir" n="3"/>
+        <role descr="end point" f="gol" n="4"/>
+        <role descr="direction, up or back" f="vsp" n="5"/>
+      </roles>
+    </roleset>
+    <roleset id="scale.02" name="remove scales from a fish">
+      <roles>
+        <role descr="remover" f="pag" n="0"/>
+        <role descr="fish" f="dir" n="1"/>
+        <role descr="instrument" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="scale.03" name="climb, as a cliff, climbing the face of">
+      <roles>
+        <role descr="climber" f="pag" n="0"/>
+        <role descr="cliff" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="scale.04" name="develop dry, scaly skin">
+      <roles>
+        <role descr="cause of skin change" f="pag" n="0"/>
+        <role descr="thing becoming scaly" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

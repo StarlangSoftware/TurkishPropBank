@@ -1,0 +1,16 @@
+<frameset>
+  <predicate lemma="pant">
+    <roleset id="pant.01" name="breathe heavily">
+      <roles>
+        <role descr="panter" f="PAG" n="0"/>
+      </roles>
+    </roleset>
+    <roleset id="pant.02" name="speak pantingly">
+      <roles>
+        <role descr="speaker" f="PAG" n="0"/>
+        <role descr="utterance" f="PPT" n="1"/>
+        <role descr="listener" f="GOL" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

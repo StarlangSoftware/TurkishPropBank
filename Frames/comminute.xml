@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="comminute">
+    <roleset id="comminute.01" name="pulverize, smash, cause fragmentation">
+      <roles>
+        <role descr="Agent" f="pag" n="0"/>
+        <role descr="Entity comminuted" f="ppt" n="1"/>
+        <role descr="Instrument" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

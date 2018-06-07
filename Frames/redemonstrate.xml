@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="redemonstrate">
+    <roleset id="redemonstrate.01" name="show again">
+      <roles>
+        <role descr="demonstrator" f="pag" n="0"/>
+        <role descr="thing shown again" f="ppt" n="1"/>
+        <role descr="watcher" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

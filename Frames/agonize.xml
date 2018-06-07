@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="agonize">
+    <roleset id="agonize.01" name="suffer distress">
+      <roles>
+        <role descr="agonized entity" f="PPT" n="1"/>
+        <role descr="cause of agony" f="PAG" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

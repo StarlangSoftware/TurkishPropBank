@@ -1,0 +1,27 @@
+<frameset>
+  <predicate lemma="boil">
+    <roleset id="boil.01" name="apply heat to water">
+      <roles>
+        <role descr="applier of heat" f="pag" n="0"/>
+        <role descr="water" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="boil_over">
+    <roleset id="boil_over.02" name="too much heat">
+      <roles>
+        <role descr="thing boiling over (pot, etc)" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="boil_down">
+    <roleset id="boil_down.03" name="summerize">
+      <roles>
+        <role descr="agent" f="pag" n="0"/>
+        <role descr="thing summarized" f="ppt" n="1"/>
+        <role descr="source" f="dir" n="2"/>
+        <role descr="benefactive, summarized for" f="gol" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

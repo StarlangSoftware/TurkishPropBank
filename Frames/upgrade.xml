@@ -1,0 +1,20 @@
+<frameset>
+  <predicate lemma="upgrade">
+    <roleset id="upgrade.01" name="replace">
+      <roles>
+        <role descr="replacer, agent" f="pag" n="0"/>
+        <role descr="old thing" f="ppt" n="1"/>
+        <role descr="new thing" f="prd" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="upgrade.02" name="improve">
+      <roles>
+        <role descr="cause of improvement, agent" f="pag" n="0"/>
+        <role descr="thing improving" f="ppt" n="1"/>
+        <role descr="amount, EXT" f="ext" n="2"/>
+        <role descr="start point" f="dir" n="3"/>
+        <role descr="end point" f="prd" n="4"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

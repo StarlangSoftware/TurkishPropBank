@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="saunter">
+    <roleset id="saunter.01" name="saunter">
+      <roles>
+        <role descr="entity sauntering" f="ppt" n="1"/>
+        <role descr="start point" f="dir" n="2"/>
+        <role descr="end point" f="loc" n="3"/>
+        <role descr="path" f="dir" n="4"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

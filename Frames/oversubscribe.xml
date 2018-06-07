@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="oversubscribe">
+    <roleset id="oversubscribe.01" name="to pledge too much">
+      <roles>
+        <role descr="contributer" f="pag" n="0"/>
+        <role descr="contributed" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

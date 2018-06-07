@@ -1,0 +1,197 @@
+<frameset>
+  <predicate lemma="break">
+    <roleset id="break.01" name="break, cause to not be whole">
+      <roles>
+        <role descr="breaker" f="pag" n="0"/>
+        <role descr="thing broken" f="ppt" n="1"/>
+        <role descr="instrument" f="mnr" n="2"/>
+        <role descr="pieces" f="prd" n="3"/>
+        <role descr="arg1 broken away from what?" f="dir" n="4"/>
+      </roles>
+    </roleset>
+    <roleset id="break.02" name="break_in: gain entry">
+      <roles>
+        <role descr="enterer" f="pag" n="0"/>
+        <role descr="place/domain broken into" f="gol" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="break.13" name="happen, come to light, onset, beginning">
+      <roles>
+        <role descr="causal agent" f="pag" n="0"/>
+        <role descr="thing coming to light" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="break.16" name="separate one entity from another">
+      <roles>
+        <role descr="entity in motion" f="ppt" n="0"/>
+        <role descr="movement away from what" f="dir" n="1"/>
+        <role descr="secondary predication on arg0 (free, loose, etc)" f="prd" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="break.18" name="violate (the law, an oath, trust, etc)">
+      <roles>
+        <role descr="scofflaw, violator" f="pag" n="0"/>
+        <role descr="law, oath, trust, thing violated" f="ppt" n="1"/>
+        <role descr="violation committed" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="break.19" name="to suspend an action, take a break from something, pause, musical interlude">
+      <roles>
+        <role descr="Person taking/causing break/pause" f="pag" n="0"/>
+        <role descr="activity interrupted" f="ppt" n="1"/>
+        <role descr="purpose of pause, interrupted for or with what" f="prp" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="break.20" name="Break into motion, for a goal or from a source location">
+      <roles>
+        <role descr="mover" f="pag" n="0"/>
+        <role descr="place left, broke from" f="dir" n="1"/>
+        <role descr="destination" f="gol" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="break.21" name="notable occurance; point at which one's luck turns (bad break, lucky break, etc)">
+      <roles>
+        <role descr="entity achieving/experiencing break(through)" f="pag" n="0"/>
+        <role descr="domain of the achievment/experience" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="break_away">
+    <roleset id="break_away.14" name="separate, withdraw, secede">
+      <roles>
+        <role descr="breaker" f="pag" n="0"/>
+        <role descr="break from" f="dir" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="break_down">
+    <roleset id="break_down.11" name="break down: start to cry; reach the mental breaking point and suffer the effects">
+      <roles>
+        <role descr="crier, entity suffering mental collapse" f="pag" n="0"/>
+        <role descr="theme, type of breakdown (ie mental, nervous)" f="adj" n="1"/>
+        <role descr="resulting state; tears" f="prd" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="break_down.12" name="break down: become damaged, cease to operate">
+      <roles>
+        <role descr="cause of breaking" f="pag" n="0"/>
+        <role descr="thing broken down" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="break_down.27" name="separate into manageable sections for analysis/explanation">
+      <roles>
+        <role descr="agent" f="pag" n="0"/>
+        <role descr="thing being analyzed, separated into manageable sections" f="ppt" n="1"/>
+        <role descr="groups" f="prd" n="2"/>
+        <role descr="audience" f="gol" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="break_in">
+    <roleset id="break_in.05" name="cause to be not-new (as shoes)">
+      <roles>
+        <role descr="causative agent" f="pag" n="0"/>
+        <role descr="thing getting broken in" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="break_in.17" name="utterance">
+      <roles>
+        <role descr="speaker" f="pag" n="0"/>
+        <role descr="utterance" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="break_off">
+    <roleset id="break_off.03" name="cause to cease">
+      <roles>
+        <role descr="causer, agent" f="pag" n="0"/>
+        <role descr="thing stopping" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="break_off.04" name="snap off pieces">
+      <roles>
+        <role descr="breaker" f="pag" n="0"/>
+        <role descr="piece(s)" f="ppt" n="1"/>
+        <role descr="whole" f="dir" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="break_out">
+    <roleset id="break_out.06" name="introduce, arise">
+      <roles>
+        <role descr="introducer" f="pag" n="0"/>
+        <role descr="thing introduced" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="break_out.07" name="develop acne">
+      <roles>
+        <role descr="teenager" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="break_out.10" name="escape">
+      <roles>
+        <role descr="escapee" f="pag" n="0"/>
+        <role descr="prison, etc" f="dir" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="break_up">
+    <roleset id="break_up.08" name="cause not to be together">
+      <roles>
+        <role descr="external agent, not part of the broken group" f="pag" n="0"/>
+        <role descr="first (or all) party(ies) broken up" f="ppt" n="1"/>
+        <role descr="pieces" f="prd" n="2"/>
+        <role descr="second party broken up" f="ppt" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="break_even">
+    <roleset id="break_even.09" name="not win, not lose">
+      <roles>
+        <role descr="patient" f="pag" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="break_through">
+    <roleset id="break_through.22" name="break through a barrier, physical or abstract">
+      <roles>
+        <role descr="Agent, entity making breakthrough" f="pag" n="0"/>
+        <role descr="barrier broken through" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="break_through.26" name="Eureka! Make great strides in some domain">
+      <roles>
+        <role descr="Agent, entity making breakthrough" f="pag" n="0"/>
+        <role descr="domain of breakthrough" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="broke">
+    <roleset id="broke.23" name="out of money">
+      <roles>
+        <role descr="entity without money" f="pag" n="1"/>
+        <role descr="the money arg1 doesn't have" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="broke_ass">
+    <roleset id="broke_ass.24" name="broken, with 'ass' intensifier">
+      <roles>
+        <role descr="broke-ass (broken) thing" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="broke_ass.25" name="not having any money, with 'ass' intensifier">
+      <roles>
+        <role descr="broke-ass (poor) entity" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="break_ground">
+    <roleset id="break_ground.28" name="begin the construction phase of a project">
+      <roles>
+        <role descr="agents responsible for construction/project" f="pag" n="0"/>
+        <role descr="project" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

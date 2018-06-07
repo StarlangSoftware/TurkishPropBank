@@ -1,0 +1,16 @@
+<frameset>
+  <predicate lemma="respect">
+    <roleset id="respect.01" name="to regard highly">
+      <roles>
+        <role descr="regarder, respecter, agent" f="ppt" n="0"/>
+        <role descr="entity respected" f="pag" n="1"/>
+        <role descr="secondary predicate" f="prd" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="respect.02" name="in regards to/ an issue">
+      <roles>
+        <role descr="topic" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

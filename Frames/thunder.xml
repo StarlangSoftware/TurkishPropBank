@@ -1,0 +1,18 @@
+<frameset>
+  <predicate lemma="thunder">
+    <roleset id="thunder.01" name="make loud noises, speak loudly">
+      <roles>
+        <role descr="thunderer" f="pag" n="0"/>
+        <role descr="utterance" f="ppt" n="1"/>
+        <role descr="listener" f="gol" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="thunder.02" name="effect a change by speaking loudly">
+      <roles>
+        <role descr="speaker" f="pag" n="0"/>
+        <role descr="thing affected" f="ppt" n="1"/>
+        <role descr="effect, attribute of arg1" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

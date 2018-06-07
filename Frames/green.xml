@@ -1,0 +1,21 @@
+<frameset>
+  <predicate lemma="green">
+    <roleset id="green.01" name="(cause to) become green">
+      <roles>
+        <role descr="causer of greenness" f="pag" n="0"/>
+        <role descr="green thing" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="green.02" name="be green in color">
+      <roles>
+        <role descr="causer of greenness" f="pag" n="0"/>
+        <role descr="green thing" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="green.03" name="compatible with a healthy environment">
+      <roles>
+        <role descr="environmentally friendly thing" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

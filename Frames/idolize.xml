@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="idolize">
+    <roleset id="idolize.01" name="admire">
+      <roles>
+        <role descr="admirer" f="PPT" n="0"/>
+        <role descr="admired" f="PAG" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

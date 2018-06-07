@@ -1,0 +1,13 @@
+<frameset>
+  <predicate lemma="restretch">
+    <roleset id="restretch.01" name="extend or lengthen again">
+      <roles>
+        <role descr="Agent, stretcher" f="pag" n="0"/>
+        <role descr="Patient, thing getting stretcher" f="ppt" n="1"/>
+        <role descr="EXT or TMP, by how much or until when" f="ext" n="2"/>
+        <role descr="Start point" f="dir" n="3"/>
+        <role descr="End point" f="gol" n="4"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,25 @@
+<frameset>
+  <predicate lemma="auction_off">
+    <roleset id="auction_off.01" name="sell at auction">
+      <roles>
+        
+        <role descr="seller" f="pag" n="0"/>
+        <role descr="sold" f="ppt" n="1"/>
+        <role descr="highest bidder (recipient)" f="gol" n="2"/>
+        <role descr="Price Paid" f="vsp" n="3"/>
+        <role descr="Benefactive" f="vsp" n="4"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="auction">
+    <roleset id="auction.02" name="sell at auction, no particle">
+      <roles>
+        <role descr="seller" f="pag" n="0"/>
+        <role descr="sold" f="ppt" n="1"/>
+        <role descr="highest bidder (recipient)" f="gol" n="2"/>
+        <role descr="Price Paid" f="vsp" n="3"/>
+        <role descr="Benefactive" f="vsp" n="4"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

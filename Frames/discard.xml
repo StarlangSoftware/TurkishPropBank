@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="discard">
+    <roleset id="discard.01" name="get rid of">
+      <roles>
+        <role descr="discarder, remover" f="pag" n="0"/>
+        <role descr="thing discarded" f="ppt" n="1"/>
+        <role descr="removed from, source" f="dir" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

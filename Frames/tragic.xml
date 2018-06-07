@@ -1,0 +1,18 @@
+<frameset>
+  <predicate lemma="tragic">
+    <roleset id="tragic.01" name="extremely sad; inducing grief">
+      <roles>
+        <role descr="tragic thing" f="ppt" n="1"/>
+        <role descr="specific aspec of arg1" f="vsp" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="tragedy">
+    <roleset id="tragedy.02" name="disasterous event">
+      <roles>
+        <role descr="the disasterous event" f="ppt" n="1"/>
+        <role descr="antibeneficiary; sufferer" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

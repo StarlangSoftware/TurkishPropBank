@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="flunk">
+    <roleset id="flunk.01" name="fail miserably">
+      <roles>
+        <role descr="assessor of not failing (professor)" f="pag" n="0"/>
+        <role descr="thing failing" f="ppt" n="1"/>
+        <role descr="task" f="vsp" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

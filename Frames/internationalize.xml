@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="internationalize">
+    <roleset id="internationalize.01" name="cause to be under international control">
+      <roles>
+        <role descr="agent, cause" f="pag" n="0"/>
+        <role descr="thing becoming internationalized" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

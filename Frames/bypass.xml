@@ -1,0 +1,18 @@
+<frameset>
+  <predicate lemma="bypass">
+    <roleset id="bypass.01" name="avoid, go around">
+      <roles>
+        <role descr="thing going around" f="PAG" n="0"/>
+        <role descr="thing gone around" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="bypassable">
+    <roleset id="bypassable.02" name="able to be gone around">
+      <roles>
+        <role descr="entity going around" f="pag" n="0"/>
+        <role descr="thing that can be gone around" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

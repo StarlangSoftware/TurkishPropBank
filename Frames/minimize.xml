@@ -1,0 +1,18 @@
+<frameset>
+  <predicate lemma="minimize">
+    <roleset id="minimize.01" name="reduce greatly, make the least">
+      <roles>
+        <role descr="causer of smallness" f="pag" n="0"/>
+        <role descr="minimal thing" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="minimal">
+    <roleset id="minimal.02" name="small in amount">
+      <roles>
+        <role descr="causer of smallness" f="pag" n="0"/>
+        <role descr="minimal thing" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

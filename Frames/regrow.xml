@@ -1,0 +1,13 @@
+<frameset>
+  <predicate lemma="regrow">
+    <roleset id="regrow.01" name="to (cause to) increase again">
+      <roles>
+        <role descr="Causer of re-growth" f="pag" n="0"/>
+        <role descr="Thing re-grown" f="ppt" n="1"/>
+        <role descr="Amount increased by" f="ext" n="2"/>
+        <role descr="Start point" f="dir" n="3"/>
+        <role descr="End point, end state of Arg1" f="gol" n="4"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

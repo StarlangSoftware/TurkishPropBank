@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="cube">
+    <roleset id="cube.01" name="cube">
+      <roles>
+        <role descr="Agent/cause of cubing" f="pag" n="0"/>
+        <role descr="entity becoming cubes" f="ppt" n="1"/>
+        <role descr="Instrument used" f="mnr" n="2"/>
+        <role descr="resulting state of arg1, often prepositional" f="prd" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

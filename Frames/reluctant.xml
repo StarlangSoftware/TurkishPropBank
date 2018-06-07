@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="reluctant">
+    <roleset id="reluctant.01" name="hesitant, disinclined to do something">
+      <roles>
+        <role descr="Reluctant individual" f="pag" n="0"/>
+        <role descr="Reluctant to do what?" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

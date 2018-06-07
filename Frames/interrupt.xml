@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="interrupt">
+    <roleset id="interrupt.01" name="to break up">
+      <roles>
+        <role descr="interrupter" f="pag" n="0"/>
+        <role descr="thing interrupted" f="ppt" n="1"/>
+        <role descr="utterance" f="vsp" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

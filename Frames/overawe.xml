@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="overawe">
+    <roleset id="overawe.01" name="subdue through awe">
+      <roles>
+        <role descr="causer of awe" f="pag" n="0"/>
+        <role descr="overawed entity" f="ppt" n="1"/>
+        <role descr="instrument, if separate from arg0" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

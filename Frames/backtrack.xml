@@ -1,0 +1,13 @@
+<frameset>
+  <predicate lemma="backtrack">
+    <roleset id="backtrack.01" name="retrace one's course">
+      <roles>
+        <role descr="entity in motion" f="ppt" n="1"/>
+        <role descr="(extent -- rare)" f="ext" n="2"/>
+        <role descr="start point" f="dir" n="3"/>
+        <role descr="end point" f="gol" n="4"/>
+        <role descr="medium" f="loc" n="m"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

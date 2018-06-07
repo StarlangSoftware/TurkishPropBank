@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="silt_up">
+    <roleset id="silt_up.01" name="fill with silt">
+      <roles>
+        <role descr="cause of silting (but not the silt itself), agent" f="cau" n="0"/>
+        <role descr="container, river, harbor, etc." f="gol" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

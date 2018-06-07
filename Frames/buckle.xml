@@ -1,0 +1,31 @@
+<frameset>
+  <predicate lemma="buckle">
+    <roleset id="buckle.01" name="use a buckle to fasten">
+      <roles>
+        <role descr="agent, entity causing two objects to be attached" f="pag" n="0"/>
+        <role descr="patient, thing(s) being tied" f="ppt" n="1"/>
+        <role descr="instrument, buckle" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="buckle.04" name="collapse">
+      <roles>
+        <role descr="thing collapsing" f="ppt" n="1"/>
+        <role descr="pressure, weight, etc" f="cau" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="buckle_up">
+    <roleset id="buckle_up.02" name="buckle up: prepare for the worst">
+      <roles>
+        <role descr="preparer" f="pag" n="0"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="buckle_down">
+    <roleset id="buckle_down.03" name="buckle down: get busy">
+      <roles>
+        <role descr="entity getting busy" f="pag" n="0"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

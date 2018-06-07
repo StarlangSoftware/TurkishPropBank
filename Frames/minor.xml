@@ -1,0 +1,15 @@
+<frameset>
+  <predicate lemma="minor">
+    <roleset id="minor.01" name="lesser">
+      <roles>
+        <role descr="lesser entity" f="pag" n="1"/>
+        <role descr="greater entit" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="minor.02" name="not of legal age">
+      <roles>
+        <role descr="minor" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

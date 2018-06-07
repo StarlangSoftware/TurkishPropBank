@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="on">
+    <roleset id="on.01" name="functioning, active">
+      <roles>
+        <role descr="functioning thing" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

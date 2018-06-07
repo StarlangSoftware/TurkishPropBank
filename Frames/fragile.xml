@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="fragile">
+    <roleset id="fragile.01" name="not structurally/constitutionally hardy">
+      <roles>
+        <role descr="fragile thing" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

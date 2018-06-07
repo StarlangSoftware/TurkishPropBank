@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="insensitive">
+    <roleset id="insensitive.01" name="not perceiving (through stubbornness or otherwise)">
+      <roles>
+        <role descr="insensitive one" f="ppt" n="0"/>
+        <role descr="thing not sensed" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

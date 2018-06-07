@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="advert">
+    <roleset id="advert.01" name="to call attention to, refer to">
+      <roles>
+        <role descr="Attention getter" f="pag" n="0"/>
+        <role descr="Entity referred to, target of attention" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

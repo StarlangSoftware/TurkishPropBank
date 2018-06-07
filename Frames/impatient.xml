@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="impatient">
+    <roleset id="impatient.01" name="unable to wait, restless">
+      <roles>
+        <role descr="impatient" f="pag" n="1"/>
+        <role descr="with whom/what" f="ppt" n="2"/>
+        <role descr="for what reason (if in addition to arg2)" f="cau" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="acclaim">
+    <roleset id="acclaim.01" name="approve of loudly">
+      <roles>
+        <role descr="acclaimer" f="pag" n="0"/>
+        <role descr="acclaimed" f="ppt" n="1"/>
+        <role descr="cause, acclaimed for what?" f="cau" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

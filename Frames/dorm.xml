@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="dorm">
+    <roleset id="dorm.01" name="staying in a dorm">
+      <roles>
+        <role descr="first entity staying in a dorm" f="pag" n="0"/>
+        <role descr="roommates" f="ppt" n="1"/>
+        <role descr="location, dorm" f="loc" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

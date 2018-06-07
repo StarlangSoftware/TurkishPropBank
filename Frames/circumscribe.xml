@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="circumscribe">
+    <roleset id="circumscribe.01" name="set/define limits, confine">
+      <roles>
+        <role descr="agent, entity imposing limits" f="pag" n="0"/>
+        <role descr="thing limited, confined" f="ppt" n="1"/>
+        <role descr="mention of limit on arg1, confined to what?" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

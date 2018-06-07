@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="evil">
+    <roleset id="evil.01" name="the worst, morally">
+      <roles>
+        <role descr="evil one" f="ppt" n="0"/>
+        <role descr="evil behavior" f="ppt" n="1"/>
+        <role descr="affected entity, target of evil behavior" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

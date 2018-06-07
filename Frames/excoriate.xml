@@ -1,0 +1,18 @@
+<frameset>
+  <predicate lemma="excoriate">
+    <roleset id="excoriate.01" name="denounce">
+      <roles>
+        <role descr="speaker" f="pag" n="0"/>
+        <role descr="subject" f="ppt" n="1"/>
+        <role descr="grounds, reason" f="prd" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="excoriate.02" name="damage or remove part of a surface">
+      <roles>
+        <role descr="agent, damager" f="pag" n="0"/>
+        <role descr="thing damaged" f="ppt" n="1"/>
+        <role descr="instrument" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

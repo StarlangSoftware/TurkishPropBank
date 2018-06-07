@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="vacate">
+    <roleset id="vacate.01" name="cause to be empty">
+      <roles>
+        <role descr="cause of emptiness, agent" f="pag" n="0"/>
+        <role descr="thing becoming empty" f="DIR" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

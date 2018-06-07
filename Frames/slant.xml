@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="slant">
+    <roleset id="slant.01" name="(cause to) not be level">
+      <roles>
+        <role descr="causer of slant" f="PAG" n="0"/>
+        <role descr="unlevel thing" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

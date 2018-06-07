@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="overstimulate">
+    <roleset id="overstimulate.01" name="cause too much of an increase">
+      <roles>
+        <role descr="cause of stimulation" f="pag" n="0"/>
+        <role descr="thing being stimulated" f="ppt" n="1"/>
+        <role descr="instrument, if agent also present" f="mnr" n="2"/>
+        <role descr="end state of arg1" f="prd" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

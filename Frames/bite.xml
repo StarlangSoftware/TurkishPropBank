@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="bite">
+    <roleset id="bite.01" name="to cut or tear with or as if with the teeth, nom/partitive-quant">
+      <roles>
+        <role descr="biter, agent" f="PAG" n="0"/>
+        <role descr="entity bitten" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

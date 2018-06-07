@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="zonation">
+    <roleset id="zonation.01" name="appearing to have zones of color/texture/etc.">
+      <roles>
+        <role descr="causer of zonation" f="pag" n="0"/>
+        <role descr="entity having zones" f="ppt" n="1"/>
+        <role descr="characteristic according to which the zones are divided" f="vsp" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

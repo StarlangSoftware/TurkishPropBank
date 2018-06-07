@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="aminate">
+    <roleset id="aminate.01" name="add an amino group to a compound">
+      <roles>
+        <role descr="agent of amination (e.g. scientist)" f="pag" n="0"></role>
+        <role descr="thing aminated" f="ppt" n="1"></role>
+        <role descr="instrument" f="mnr" n="2"></role>
+        <role descr="product of amination" f="prd" n="3"></role>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

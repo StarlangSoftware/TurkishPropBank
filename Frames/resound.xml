@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="resound">
+    <roleset id="resound.01" name="ring or echo">
+      <roles>
+        <role descr="the sound" f="PPT" n="1"/>
+        <role descr="location, direction" f="LOC" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

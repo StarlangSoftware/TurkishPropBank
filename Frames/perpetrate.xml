@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="perpetrate">
+    <roleset id="perpetrate.01" name="do, act, commit">
+      <roles>
+        <role descr="perp" f="pag" n="0"/>
+        <role descr="crime" f="ppt" n="1"/>
+        <role descr="victim" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

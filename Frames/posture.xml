@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="posture">
+    <roleset id="posture.01" name="to assume a pose or mental attitude, assuming an exaggerated pose or attitude">
+      <roles>
+        <role descr="assumer of pose" f="pag" n="0"/>
+        <role descr="pose" f="prd" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

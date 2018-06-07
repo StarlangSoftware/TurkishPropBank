@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="tilt">
+    <roleset id="tilt.01" name="(cause to) be not level, motion according">
+      <roles>
+        <role descr="cause, agent" f="pag" n="0"/>
+        <role descr="thing not level" f="ppt" n="1"/>
+        <role descr="path of tilt, tilt towards" f="dir" n="2"/>
+        <role descr="destination (goal actually reached by tilting), end state" f="prd" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="tour">
+    <roleset id="tour.01" name="visit, view, sight-seeing/showcasing event">
+      <roles>
+        <role descr="tourist" f="pag" n="0"/>
+        <role descr="location toured" f="loc" n="1"/>
+        <role descr="subject matter/title of tour (see examples)" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="impel">
+    <roleset id="impel.01" name="impelled action">
+      <roles>
+        <role descr="causal agent" f="PAG" n="0"/>
+        <role descr="impelled action" f="PRD" n="1"/>
+        <role descr="impelled agent, if extracted from action" f="PPT" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

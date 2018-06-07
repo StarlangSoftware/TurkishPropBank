@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="shrinkwrap">
+    <roleset id="shrinkwrap.01" name="wrap in form-fitting plastic that shrinks with heat">
+      <roles>
+        <role descr="agent" f="pag" n="0"/>
+        <role descr="object wrapped" f="gol" n="1"/>
+        <role descr="with what (the shrinkwrap itself)" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,18 @@
+<frameset>
+  <predicate lemma="mislead">
+    <roleset id="mislead.01" name="not-quite lie to">
+      <roles>
+        <role descr="liar liar" f="pag" n="0"/>
+        <role descr="lied to" f="ppt" n="1"/>
+        <role descr="with respect to" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="mislead.02" name="impelled action">
+      <roles>
+        <role descr="causal agent, misleader" f="pag" n="0"/>
+        <role descr="impelled agent" f="ppt" n="1"/>
+        <role descr="impelled action" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

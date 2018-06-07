@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="decease">
+    <roleset id="decease.01" name="be dead">
+      <roles>
+        <role descr="corpse" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

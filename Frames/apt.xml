@@ -1,0 +1,15 @@
+<frameset>
+  <predicate lemma="apt">
+    <roleset id="apt.01" name="likely">
+      <roles>
+        <role descr="likely event (may require concatenation)" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="apt.02" name="skilled, competent">
+      <roles>
+        <role descr="competent one" f="pag" n="1"/>
+        <role descr="aptitude" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

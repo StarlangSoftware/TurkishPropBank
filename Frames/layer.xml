@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="layer">
+    <roleset id="layer.01" name="arranging in layers">
+      <roles>
+        <role descr="agent, layerer" f="pag" n="0"/>
+        <role descr="theme, thing(s) being layered" f="ppt" n="1"/>
+        <role descr="destination, layered onto what?" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

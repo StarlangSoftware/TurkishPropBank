@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="supreme">
+    <roleset id="supreme.01" name="better than, ruling over">
+      <roles>
+        <role descr="supreme entity" f="pag" n="1"/>
+        <role descr="supreme over whom" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

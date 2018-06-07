@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="cavitate">
+    <roleset id="cavitate.01" name="form cavities in tissue or organs">
+      <roles>
+        <role descr="cause of cavity formation, disease" f="pag" n="0"/>
+        <role descr="entity now with a hole" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

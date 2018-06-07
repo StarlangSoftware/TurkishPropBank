@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="sample">
+    <roleset id="sample.01" name="select a portion of a larger whole">
+      <roles>
+        <role descr="sampler" f="PAG" n="0"/>
+        <role descr="thing sampled" f="ppt" n="1"/>
+        <role descr="source of the samples (if in addition to arg1)" f="dir" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="recharge">
+    <roleset id="recharge.01" name="to charge again">
+      <roles>
+        <role descr="cause, charger, agent" f="pag" n="0"/>
+        <role descr="entity recharged" f="ppt" n="1"/>
+        <role descr="source of new energy" f="dir" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

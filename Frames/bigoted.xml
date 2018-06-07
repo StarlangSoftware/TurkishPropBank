@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="bigoted">
+    <roleset id="bigoted.01" name="strongly prejudiced">
+      <roles>
+        <role descr="cause of bigotry" f="pag" n="0"/>
+        <role descr="bigot, bigoted action" f="ppt" n="1"/>
+        <role descr="against whom, target of bigotry" f="gol" n="2"/>
+        <role descr="in favor of" f="gol" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

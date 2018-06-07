@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="woolgather">
+    <roleset id="woolgather.01" name="daydream">
+      <roles>
+        <role descr="daydreamer" f="PAG" n="0"/>
+        <role descr="thing dreamt about" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

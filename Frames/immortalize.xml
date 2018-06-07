@@ -1,0 +1,31 @@
+<frameset>
+  <predicate lemma="immortalize">
+    <roleset id="immortalize.01" name="cause to actually live forever">
+      <roles>
+        <role descr="causer of immortality" f="pag" n="0"/>
+        <role descr="entity living forever" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="immortalize.02" name="cause to be eternally remembered, perhaps with veneration">
+      <roles>
+        <role descr="causer of eternal remembrance" f="pag" n="0"/>
+        <role descr="entity forevermore remembered" f="ppt" n="1"/>
+        <role descr="reason for veneration" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="immortalize.03" name="mutation of cells resulting in a cell line that can keep undergoing division indefinitely">
+      <roles>
+        <role descr="causer/agent of cell mutation" f="pag" n="0"/>
+        <role descr="mutated cells" f="ppt" n="1"/>
+        <role descr="catalyst of mutation" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="immortal">
+    <roleset id="immortal.04" name="having eternal life">
+      <roles>
+        <role descr="immortal entity" f="pag" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

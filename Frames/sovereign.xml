@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="sovereign">
+    <roleset id="sovereign.01" name="having authority to rule">
+      <roles>
+        <role descr="ruler" f="PAG" n="0"/>
+        <role descr="ruled over" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

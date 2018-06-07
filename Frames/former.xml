@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="former">
+    <roleset id="former.01" name="previous">
+      <roles>
+        <role descr="situation that held previously" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="refuel">
+    <roleset id="refuel.01" name="to provide with additional fuel">
+      <roles>
+        <role descr="provider of fuel, agent" f="pag" n="0"/>
+        <role descr="entity refueled" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

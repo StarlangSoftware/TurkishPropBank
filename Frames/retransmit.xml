@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="retransmit">
+    <roleset id="retransmit.01" name="transmit again">
+      <roles>
+        <role descr="agent of retransmission" f="pag" n="0"/>
+        <role descr="retransmitted" f="ppt" n="1"/>
+        <role descr="recipient" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

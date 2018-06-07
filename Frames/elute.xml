@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="elute">
+    <roleset id="elute.01" name="extract or wash one material from another">
+      <roles>
+        <role descr="agent; causer of extraction" f="pag" n="0"/>
+        <role descr="thing extracted" f="ppt" n="1"/>
+        <role descr="extracted from" f="dir" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

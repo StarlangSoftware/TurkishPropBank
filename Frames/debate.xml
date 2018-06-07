@@ -1,0 +1,20 @@
+<frameset>
+  <predicate lemma="debate">
+    <roleset id="debate.01" name="to discuss or argue about">
+      <roles>
+        <role descr="discussant(s), debater(s)" f="PAG" n="0"/>
+        <role descr="thing discussed" f="ppt" n="1"/>
+        <role descr="person debated against" f="com" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="debatable">
+    <roleset id="debatable.02" name="able to be argued">
+      <roles>
+        <role descr="debater" f="pag" n="0"/>
+        <role descr="topic debated" f="ppt" n="1"/>
+        <role descr="opponent" f="com" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

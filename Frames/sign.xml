@@ -1,0 +1,64 @@
+<frameset>
+  <predicate lemma="sign">
+    <roleset id="sign.01" name="affix a signature">
+      <roles>
+        <role descr="signer" f="pag" n="0"/>
+        <role descr="document" f="gol" n="1"/>
+        <role descr="signature" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="sign.02" name="enter into an agreement">
+      <roles>
+        <role descr="signer, agreer" f="pag" n="0"/>
+        <role descr="agreement" f="ppt" n="1"/>
+        <role descr="co-signer" f="com" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="sign_up">
+    <roleset id="sign_up.03" name="sign up: enroll, enter">
+      <roles>
+        <role descr="signer, enroller" f="pag" n="0"/>
+        <role descr="patient enrolled" f="ppt" n="1"/>
+        <role descr="co-signer" f="com" n="2"/>
+        <role descr="signed up for" f="prd" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="sign_on">
+    <roleset id="sign_on.04" name="sign on: become associated with">
+      <roles>
+        <role descr="signer" f="pag" n="0"/>
+        <role descr="entity associated with" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="sign_off">
+    <roleset id="sign_off.05" name="sign_off: give stamp of approval">
+      <roles>
+        <role descr="signer" f="pag" n="0"/>
+        <role descr="entity being given stamp of approval" f="ppt" n="1"/>
+        <role descr="for what, second part of arg1" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="sign_in">
+    <roleset id="sign_in.06" name="check in">
+      <roles>
+        <role descr="Agent, causer of check in" f="pag" n="0"/>
+        <role descr="entity being checked in" f="ppt" n="1"/>
+        <role descr="checked in to" f="loc" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="signal">
+    <roleset id="signal.07" name="show, cause to see, communicate by signaling, message">
+      <roles>
+        <role descr="shower" f="PAG" n="0"/>
+        <role descr="thing seen/shown" f="PPT" n="1"/>
+        <role descr="seer" f="GOL" n="2"/>
+        <role descr="subject-matter of the signals (what they relate to)" f="vsp" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

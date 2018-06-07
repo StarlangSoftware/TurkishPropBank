@@ -1,0 +1,17 @@
+<frameset>
+  <predicate lemma="filter">
+    <roleset id="filter.02" name="separate solids from liquid, sorting, sifting, isolating, diffusing">
+      <roles>
+        <role descr="filterer, agent or instrument" f="pag" n="0"/>
+        <role descr="solids, thing removed" f="ppt" n="1"/>
+        <role descr="liquid, source, removed-from" f="dir" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="filter.03" name="move slowly">
+      <roles>
+        <role descr="moved" f="ppt" n="1"/>
+        <role descr="destination" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

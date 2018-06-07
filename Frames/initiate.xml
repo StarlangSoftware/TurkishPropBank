@@ -1,0 +1,27 @@
+<frameset>
+  <predicate lemma="initiate">
+    <roleset id="initiate.01" name="begin">
+      <roles>
+        <role descr="causer" f="pag" n="0"/>
+        <role descr="Theme(-Creation)" f="ppt" n="1"/>
+        <role descr="Instrument" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="initiate.02" name="perform welcoming ritual">
+      <roles>
+        <role descr="initiator, welcomer" f="pag" n="0"/>
+        <role descr="initiated, welcomed" f="ppt" n="1"/>
+        <role descr="initiated-into" f="gol" n="2"/>
+        <role descr="instrument" f="mnr" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="initiative">
+    <roleset id="initiative.03" name="personal quality/manner of doing something without prompting">
+      <roles>
+        <role descr="self-motivated entity" f="pag" n="0"/>
+        <role descr="doing what" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

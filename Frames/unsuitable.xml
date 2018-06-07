@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="unsuitable">
+    <roleset id="unsuitable.01" name="not appropriate, fitting">
+      <roles>
+        <role descr="thing not fitting; unsuitable thing" f="pag" n="1"/>
+        <role descr="for/in relation to what" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

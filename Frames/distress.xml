@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="distress">
+    <roleset id="distress.01" name="(cause) anxiety or stress, anxious">
+      <roles>
+        <role descr="cause" f="pag" n="0"/>
+        <role descr="distressed entity" f="ppt" n="1"/>
+        <role descr="instrument, if separate from arg0" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

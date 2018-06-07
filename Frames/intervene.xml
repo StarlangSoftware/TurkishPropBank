@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="intervene">
+    <roleset id="intervene.01" name="to get involved or interfere">
+      <roles>
+        <role descr="nosy individual" f="pag" n="0"/>
+        <role descr="intervene in" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

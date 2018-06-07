@@ -1,0 +1,32 @@
+<frameset>
+  <predicate lemma="favor">
+    <roleset id="favor.01" name="like or prefer one option, usually over another; be preferrable to another option">
+      <roles>
+        <role descr="liker" f="ppt" n="0"/>
+        <role descr="thing preferred, favored" f="pag" n="1"/>
+        <role descr="instrument (the favor itself)" f="mnr" n="2"/>
+        <role descr="favored over; less favorable alternative" f="vsp" n="3"/>
+      </roles>
+    </roleset>
+    <roleset id="favor.02" name="using an injured body part less">
+      <roles>
+        <role descr="entity with an injured body part" f="ppt" n="0"/>
+        <role descr="injured body part" f="pag" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="favor.03" name="take after, resemble">
+      <roles>
+        <role descr="resembler" f="ppt" n="1"/>
+        <role descr="resembled" f="pag" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="favorable">
+    <roleset id="favorable.04" name="good for, advantageous, pleasing">
+      <roles>
+        <role descr="thing that is good or advantageous" f="ppt" n="1"/>
+        <role descr="beneficiary" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

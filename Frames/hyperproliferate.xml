@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="hyperproliferate">
+    <roleset id="hyperproliferate.01" name="proliferation of cells at a high rate by rapid division">
+      <roles>
+        <role descr="thing that hyperproliferates (e.g. cell)" f="ppt" n="0" />
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

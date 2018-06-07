@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="fluoridate">
+    <roleset id="fluoridate.01" name="add fluoride to">
+      <roles>
+        <role descr="agent, entity adding fluoride" f="pag" n="0"/>
+        <role descr="added to" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

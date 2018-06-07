@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="cofound">
+    <roleset id="cofound.01" name="establish with another">
+      <roles>
+        <role descr="agent(s), co-founder(s)" f="pag" n="0"/>
+        <role descr="thing founded" f="ppt" n="1"/>
+        <role descr="second co-founder if separate from ARG 0" f="com" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

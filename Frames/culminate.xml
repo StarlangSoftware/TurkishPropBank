@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="culminate">
+    <roleset id="culminate.01" name="to reach the highest point, to end">
+      <roles>
+        <role descr="entity ending" f="ppt" n="1"/>
+        <role descr="culmination point" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="repackage">
+    <roleset id="repackage.01" name="to place into a package again">
+      <roles>
+        <role descr="packager, agent" f="pag" n="0"/>
+        <role descr="entity packaged" f="ppt" n="1"/>
+        <role descr="entity packaged into" f="gol" n="2"/>
+        <role descr="instrument" f="mnr" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

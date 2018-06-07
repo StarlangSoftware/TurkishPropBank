@@ -1,0 +1,18 @@
+<frameset>
+  <predicate lemma="flow">
+    <roleset id="flow.01" name="move like water">
+      <roles>
+        <role descr="substance (ie, water)" f="ppt" n="1"/>
+        <role descr="direction" f="dir" n="m"/>
+      </roles>
+    </roleset>
+    <roleset id="flow.02" name="natural disaster: debris flow, pyroclastic flow">
+      <roles>
+        <role descr="substance, 'pyroclastic' or 'debris'. If 'mud', use 'mudflow' roleset" f="ppt" n="1"/>
+        <role descr="volume, weight" f="ext" n="2"/>
+        <role descr="casualties/injuries" f="vsp" n="3"/>
+        <role descr="damages/cost" f="vsp" n="4"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

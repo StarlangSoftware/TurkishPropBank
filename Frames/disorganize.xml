@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="disorganize">
+    <roleset id="disorganize.01" name="cause to be no longer organized">
+      <roles>
+        <role descr="causer, agent" f="pag" n="0"/>
+        <role descr="entity disorganized" f="ppt" n="1"/>
+        <role descr="result, attribute of arg 1" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

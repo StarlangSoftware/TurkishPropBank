@@ -1,0 +1,21 @@
+<frameset>
+  <predicate lemma="stone">
+    <roleset id="stone.01" name="remove seeds from">
+      <roles>
+        <role descr="entity removing seeds" f="PAG" n="0"/>
+        <role descr="thing formerly having seeds" f="DIR" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="stone.02" name="throw stones at">
+      <roles>
+        <role descr="thrower" f="PAG" n="0"/>
+        <role descr="target" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="stone.03" name="use drugs">
+      <roles>
+        <role descr="user" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

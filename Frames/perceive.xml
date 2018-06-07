@@ -1,0 +1,20 @@
+<frameset>
+  <predicate lemma="perceive">
+    <roleset id="perceive.01" name="to become aware of, understand">
+      <roles>
+        <role descr="perceiver" f="ppt" n="0"/>
+        <role descr="entity perceived" f="pag" n="1"/>
+        <role descr="secondary predication, perceived as" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="perceptive">
+    <roleset id="perceptive.02" name="aware, sensitive to perception">
+      <roles>
+        <role descr="perceiver" f="pag" n="0"/>
+        <role descr="subject matter of perception" f="ppt" n="1"/>
+        <role descr="perceptive action" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

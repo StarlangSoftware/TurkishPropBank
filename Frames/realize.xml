@@ -1,0 +1,37 @@
+<frameset>
+  <predicate lemma="realize">
+    <roleset id="realize.01" name="come to know">
+      <roles>
+        <role descr="new knower" f="pag" n="0"/>
+        <role descr="new knowledge" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="realize.02" name="cause to come about, create">
+      <roles>
+        <role descr="creator" f="pag" n="0"/>
+        <role descr="thing created" f="ppt" n="1"/>
+        <role descr="source, created from" f="dir" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="realistic">
+    <roleset id="realistic.03" name="as things really are">
+      <roles>
+        <role descr="realistic thing" f="ppt" n="1"/>
+        <role descr="realistic for who/what" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="real">
+    <roleset id="real.04" name="actual, substantial">
+      <roles>
+        <role descr="actual thing" f="pag" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="real.05" name="of all numbers, rational and irrational">
+      <roles>
+        <role descr="number" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

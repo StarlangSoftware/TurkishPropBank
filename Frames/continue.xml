@@ -1,0 +1,18 @@
+<frameset>
+  <predicate lemma="continue">
+    <roleset id="continue.01" name="aspectual, continuing of a process; aspectual">
+      <roles>
+        <role descr="causer of continuation" f="pag" n="0"/>
+        <role descr="thing continuing" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="continue.02" name="speaking">
+      <roles>
+        <role descr="sayer" f="pag" n="0"/>
+        <role descr="utterance" f="ppt" n="1"/>
+        <role descr="hearer" f="gol" n="2"/>
+        <role descr="attributive" f="prd" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

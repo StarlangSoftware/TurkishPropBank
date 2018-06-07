@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="byo">
+    <roleset id="byo.01" name="bring your own">
+      <roles>
+        <role descr="bringer" f="pag" n="0"/>
+        <role descr="brought" f="ppt" n="1"/>
+        <role descr="destination" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

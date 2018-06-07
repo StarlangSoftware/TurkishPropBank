@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="threshold">
+    <roleset id="threshold.01" name="convert a grayscale image to a binary image">
+      <roles>
+        <role descr="agent" f="pag" n="0"/>
+        <role descr="image converted" f="ppt" n="1"/>
+        <role descr="threshold: pixel value, etc." f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

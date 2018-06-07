@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="pronate">
+    <roleset id="pronate.01" name="turn the sole or palm inward">
+      <roles>
+        <role descr="pronater" f="pag" n="0"/>
+        <role descr="body part rotated" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

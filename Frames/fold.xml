@@ -1,0 +1,48 @@
+<frameset>
+  <predicate lemma="fold">
+    <roleset id="fold.01" name="mix ingredients gently">
+      <roles>
+        <role descr="mixer" f="pag" n="0"/>
+        <role descr="new ingredient" f="vsp" n="1"/>
+        <role descr="medium" f="prd" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="fold.02" name="fold hands">
+      <roles>
+        <role descr="person" f="pag" n="0"/>
+        <role descr="hands" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="fold.03" name="origami">
+      <roles>
+        <role descr="builder" f="pag" n="0"/>
+        <role descr="construction" f="prd" n="1"/>
+        <role descr="material, start state" f="vsp" n="2"/>
+        <role descr="benefactive" f="gol" n="3"/>
+        <role descr="end state" f="prd" n="4"/>
+      </roles>
+    </roleset>
+    <roleset id="fold.04" name="stop playing cards">
+      <roles>
+        <role descr="cardplayer" f="pag" n="0"/>
+      </roles>
+    </roleset>
+    <roleset id="fold.06" name="(terminate) a failing business">
+      <roles>
+        <role descr="business owner" f="pag" n="0"/>
+        <role descr="failing business" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="fold_up">
+    <roleset id="fold_up.05" name="origami">
+      <roles>
+        <role descr="builder" f="pag" n="0"/>
+        <role descr="construction" f="ppt" n="1"/>
+        <role descr="material, start state" f="vsp" n="2"/>
+        <role descr="benefactive" f="gol" n="3"/>
+        <role descr="end state" f="prd" n="4"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

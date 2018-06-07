@@ -1,0 +1,26 @@
+<frameset>
+  <predicate lemma="tent">
+    <roleset id="tent.01" name="live in a tent, camp">
+      <roles>
+        <role descr="campers" f="pag" n="0"/>
+        <role descr="geographical location" f="ppt" n="1"/>
+        <role descr="tent used" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="tent.02" name="form into the shape of a tent (possibly over something)">
+      <roles>
+        <role descr="agent/cause" f="pag" n="0"/>
+        <role descr="thing formed into a tent" f="ppt" n="1"/>
+        <role descr="thing covered with a tent" f="gol" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="tent.03" name="insert a surgical tent into a wound or opening to keep it open (or more open)">
+      <roles>
+        <role descr="surgeon" f="pag" n="0"/>
+        <role descr="wound or opening" f="gol" n="1"/>
+        <role descr="instrument" f="ppt" n="2"/>
+        <role descr="width of opening held" f="ext" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

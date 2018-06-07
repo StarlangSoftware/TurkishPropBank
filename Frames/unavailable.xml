@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="unavailable">
+    <roleset id="unavailable.01" name="not able to be used">
+      <roles>
+        <role descr="unavailable to whom? entity not having access to arg2" f="gol" n="1"/>
+        <role descr="thing not able to be used" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

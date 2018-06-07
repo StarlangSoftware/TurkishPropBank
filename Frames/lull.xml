@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="lull">
+    <roleset id="lull.01" name="cause to feel calm or sleepy">
+      <roles>
+        <role descr="causer of lulling" f="pag" n="0"/>
+        <role descr="lulled entity" f="ppt" n="1"/>
+        <role descr="end state of arg1" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

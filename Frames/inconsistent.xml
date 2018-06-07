@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="inconsistent">
+    <roleset id="inconsistent.01" name="not in parallel with">
+      <roles>
+        <role descr="inconsistent entity" f="ppt" n="1"/>
+        <role descr="inconsistent with what" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

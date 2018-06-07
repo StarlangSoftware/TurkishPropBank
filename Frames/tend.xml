@@ -1,0 +1,16 @@
+<frameset>
+  <predicate lemma="tend">
+    <roleset id="tend.01" name="care for">
+      <roles>
+        <role descr="tender" f="pag" n="0"/>
+        <role descr="thing tended (to)" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="tend.02" name="have a tendency, drift">
+      <roles>
+        <role descr="theme" f="ppt" n="1"/>
+        <role descr="attribute" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="nitrosylate">
+    <roleset id="nitrosylate.01" name="incorporate a nitrosyl group into another molecule">
+      <roles>
+        <role descr="intentional agent of nitrosylation (e.g. scientist)" f="PAG" n="0" />
+        <role descr="thing nitrosylated (e.g. protein)" f="PPT" n="1" />
+        <role descr="instrument" f="MNR" n="2" />
+        <role descr="result of nitrosylation" f="PRD" n="3" />
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

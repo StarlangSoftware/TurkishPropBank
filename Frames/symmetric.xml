@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="symmetric">
+    <roleset id="symmetric.01" name="matching in size, shape, or some other measurement">
+      <roles>
+        <role descr="first item having symmetry" f="ppt" n="1"/>
+        <role descr="second item, symmety with/to what" f="ppt" n="2"/>
+        <role descr="domain of symmetry" f="vsp" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

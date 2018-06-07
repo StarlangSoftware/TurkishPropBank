@@ -1,0 +1,16 @@
+<frameset>
+  <predicate lemma="purr">
+    <roleset id="purr.01" name="emit purring noise">
+      <roles>
+        <role descr="cat" f="PAG" n="0"/>
+      </roles>
+    </roleset>
+    <roleset id="purr.02" name="speak in a purring fashion">
+      <roles>
+        <role descr="speaker" f="PAG" n="0"/>
+        <role descr="utterance" f="PPT" n="1"/>
+        <role descr="hearer" f="GOL" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

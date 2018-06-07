@@ -1,0 +1,27 @@
+<frameset>
+  <predicate lemma="pace">
+    <roleset id="pace.01" name="move at same speed, keep, set pace">
+      <roles>
+        <role descr="outside agent" f="pag" n="0"/>
+        <role descr="first entity keeping/set at pace" f="ppt" n="1"/>
+        <role descr="arg 1 is keeping pace with what?" f="com" n="2"/>
+        <role descr="mention of the pace itself" f="vsp" n="3"/>
+      </roles>
+    </roleset>
+    <roleset id="pace.02" name="walk back and forth nervously">
+      <roles>
+        <role descr="pacer" f="pag" n="0"/>
+        <role descr="path" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="pacing">
+    <roleset id="pacing.03" name="set the speed of">
+      <roles>
+        <role descr="outside agent" f="pag" n="0"/>
+        <role descr="thing having a speed/pace" f="ppt" n="1"/>
+        <role descr="the pace" f="ext" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

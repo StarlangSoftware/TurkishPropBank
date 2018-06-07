@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="ticklish">
+    <roleset id="ticklish.01" name="susceptible to tickling">
+      <roles>
+        <role descr="causer of tickling" f="pag" n="0"/>
+        <role descr="experiencer of tickling" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

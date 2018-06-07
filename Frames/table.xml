@@ -1,0 +1,16 @@
+<frameset>
+  <predicate lemma="table">
+    <roleset id="table.01" name="make available for consideration">
+      <roles>
+        <role descr="agent" f="pag" n="0"/>
+        <role descr="thing available for discussion/selection" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="table.02" name="postpone consideration of">
+      <roles>
+        <role descr="agent" f="pag" n="0"/>
+        <role descr="thing on hold" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

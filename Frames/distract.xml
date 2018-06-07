@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="distract">
+    <roleset id="distract.01" name="draw attention away from something, not focused on what is at hand">
+      <roles>
+        <role descr="agent or Stimulus" f="pag" n="0"/>
+        <role descr="entity distracted" f="ppt" n="1"/>
+        <role descr="entity distracted from" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="followup">
+    <roleset id="followup.01" name="be subsequent, persue,">
+      <roles>
+        <role descr="causal agent" f="pag" n="0"/>
+        <role descr="thing followed up on, coming before" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="extravagant">
+    <roleset id="extravagant.01" name="excessive, overly giving">
+      <roles>
+        <role descr="excessive entity" f="pag" n="1"/>
+        <role descr="thing given in large amounts" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

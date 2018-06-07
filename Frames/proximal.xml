@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="proximal">
+    <roleset id="proximal.01" name="nearer to the point of origin (or other point of ref.)">
+      <roles>
+        <role descr="near entity" f="pag" n="1"/>
+        <role descr="point of reference arg1 is near to" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

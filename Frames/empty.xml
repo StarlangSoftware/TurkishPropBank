@@ -1,0 +1,18 @@
+<frameset>
+  <predicate lemma="empty">
+    <roleset id="empty.01" name="(cause to) become empty">
+      <roles>
+        <role descr="causal agent" f="pag" n="0"/>
+        <role descr="container" f="loc" n="1"/>
+        <role descr="substance" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="empty.02" name="containing nothing">
+      <roles>
+        <role descr="causal agent" f="pag" n="0"/>
+        <role descr="container" f="loc" n="1"/>
+        <role descr="substance" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

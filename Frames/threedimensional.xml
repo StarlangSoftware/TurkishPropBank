@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="threedimensional">
+    <roleset id="threedimensional.01" name="occuring in 3 dimensions">
+      <roles>
+        <role descr="thing occuring in 3 dimensions" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

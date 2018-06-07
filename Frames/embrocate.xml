@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="embrocate">
+    <roleset id="embrocate.01" name="to moisten/rub with oil or liniment">
+      <roles>
+        <role descr="causer of embrocation, agent" f="pag" n="0"/>
+        <role descr="entity rubbed" f="ppt" n="1"/>
+        <role descr="rubbed with what? oil or liniment" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

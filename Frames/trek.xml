@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="trek">
+    <roleset id="trek.01" name="mode of motion">
+      <roles>
+        <role descr="entity in motion" f="PPT" n="0"/>
+        <role descr="path, location" f="LOC" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

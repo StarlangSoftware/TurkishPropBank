@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="hypermobile">
+    <roleset id="hypermobile.01" name="moving beyond the normal range of motion">
+      <roles>
+        <role descr="hypermobile entity" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

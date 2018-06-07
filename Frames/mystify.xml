@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="mystify">
+    <roleset id="mystify.01" name="puzzle, perplex">
+      <roles>
+        <role descr="cause of mystification" f="pag" n="0"/>
+        <role descr="entity mystified" f="ppt" n="1"/>
+        <role descr="instrument or manner if separate from arg 0" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

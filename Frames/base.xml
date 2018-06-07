@@ -1,0 +1,18 @@
+<frameset>
+  <predicate lemma="base">
+    <roleset id="base.01" name="be located in">
+      <roles>
+        <role descr="agent basing something somewhere" f="pag" n="0"/>
+        <role descr="institution" f="ppt" n="1"/>
+        <role descr="M-LOC location, where arg1 is based" f="loc" n="m"/>
+      </roles>
+    </roleset>
+    <roleset id="base.02" name="justified by, made up of">
+      <roles>
+        <role descr="justifier, agent (rarely seen)" f="pag" n="0"/>
+        <role descr="decision, whole" f="ppt" n="1"/>
+        <role descr="justification, parts/ arg1 is made up of what?" f="dir" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

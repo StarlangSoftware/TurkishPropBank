@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="grease">
+    <roleset id="grease.01" name="cover with grease">
+      <roles>
+        <role descr="agent, greaser" f="pag" n="0"/>
+        <role descr="car, mechanical device, thing greased" f="gol" n="1"/>
+        <role descr="grease itself, type of grease" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

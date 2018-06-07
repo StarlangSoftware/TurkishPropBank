@@ -1,0 +1,19 @@
+<frameset>
+  <predicate lemma="compete">
+    <roleset id="compete.01" name="vie, wanting to win">
+      <roles>
+        <role descr="competitor" f="PAG" n="0"/>
+        <role descr="opponent" f="COM" n="1"/>
+        <role descr="prize" f="PRP" n="2"/>
+        <role descr="subject matter of the competition" f="PPT" n="3"/>
+      </roles>
+    </roleset>
+    <roleset id="compete.02" name="economic, capitalistic competition: competitive salary">
+      <roles>
+        <role descr="competitor" f="PAG" n="0"/>
+        <role descr="opponent" f="COM" n="1"/>
+        <role descr="domain of the competition" f="PPT" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

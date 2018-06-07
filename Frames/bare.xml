@@ -1,0 +1,16 @@
+<frameset>
+  <predicate lemma="bare">
+    <roleset id="bare.01" name="cause to not have covering">
+      <roles>
+        <role descr="causer, agent" f="pag" n="0"/>
+        <role descr="thing now uncovered" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="bare.02" name="be naked, not be covered">
+      <roles>
+        <role descr="causer of bareness" f="pag" n="0"/>
+        <role descr="bare thing" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

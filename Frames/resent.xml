@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="resent">
+    <roleset id="resent.01" name="resent">
+      <roles>
+        <role descr="resenter" f="ppt" n="0"/>
+        <role descr="thing or person resented" f="pag" n="1"/>
+        <role descr="because-of" f="cau" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

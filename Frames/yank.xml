@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="yank">
+    <roleset id="yank.01" name="pull roughly">
+      <roles>
+        <role descr="puller" f="pag" n="0"/>
+        <role descr="thing pulled" f="ppt" n="1"/>
+        <role descr="source" f="dir" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

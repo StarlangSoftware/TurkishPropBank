@@ -1,0 +1,20 @@
+<frameset>
+  <predicate lemma="sadden">
+    <roleset id="sadden.01" name="(cause to) become sad, unhappy">
+      <roles>
+        <role descr="causer of sadness" f="pag" n="0"/>
+        <role descr="saddened entity" f="ppt" n="1"/>
+        <role descr="instrument" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="sad">
+    <roleset id="sad.02" name="unhappy">
+      <roles>
+        <role descr="causer of sadness" f="pag" n="0"/>
+        <role descr="sad entity" f="ppt" n="1"/>
+        <role descr="instrument" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

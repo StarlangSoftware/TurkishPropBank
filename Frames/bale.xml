@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="bale">
+    <roleset id="bale.01" name="wrap stringy goods into a bale for easy trasport">
+      <roles>
+        <role descr="Agent, packager" f="PAG" n="0"/>
+        <role descr="the stringy goods being packaged" f="ppt" n="1"/>
+        <role descr="end state" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

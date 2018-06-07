@@ -1,0 +1,27 @@
+<frameset>
+  <predicate lemma="fair">
+    <roleset id="fair.01" name="just">
+      <roles>
+        <role descr="agent of fair action" f="pag" n="0"/>
+        <role descr="fair action, thing that is inherently just" f="ppt" n="1"/>
+        <role descr="affected entity" f="gol" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="fair.02" name="pleasing, aesthetically/perceptually nice">
+      <roles>
+        <role descr="pleasing thing/condition" f="pag" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="fair.03" name="light in tone">
+      <roles>
+        <role descr="light entity" f="pag" n="1"/>
+        <role descr="specific body part of arg1, if also mentioned" f="vsp" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="fair.04" name="mildly above average, as a grade">
+      <roles>
+        <role descr="mediocre entity" f="pag" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

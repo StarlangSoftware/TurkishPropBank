@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="nad">
+    <roleset id="nad.01" name="no apparent distress">
+      <roles>
+        <role descr="entity not in distress" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

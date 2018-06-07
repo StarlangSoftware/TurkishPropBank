@@ -1,0 +1,18 @@
+<frameset>
+  <predicate lemma="ascend">
+    <roleset id="ascend.01" name="to rise, go up, going up (intentional)">
+      <roles>
+        <role descr="entity rising" f="ppt" n="0"/>
+        <role descr="location" f="loc" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="ascend.02" name="non-intentional rising">
+      <roles>
+        <role descr="Rising entity" f="ppt" n="1"/>
+        <role descr="EXT, amount risen" f="ext" n="2"/>
+        <role descr="Start point" f="dir" n="3"/>
+        <role descr="End point" f="gol" n="4"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

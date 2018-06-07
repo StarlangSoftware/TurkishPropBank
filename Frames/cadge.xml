@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="cadge">
+    <roleset id="cadge.01" name="to beg for something, get for free by begging">
+      <roles>
+        <role descr="beggar, agent" f="pag" n="0"/>
+        <role descr="entity begged for, gotten" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

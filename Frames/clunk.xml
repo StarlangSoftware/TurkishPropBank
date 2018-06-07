@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="clunk">
+    <roleset id="clunk.01" name="make clunking noise">
+      <roles>
+        <role descr="Agent causing clunking" f="PAG" n="0"/>
+        <role descr="Thing making clunking sound" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

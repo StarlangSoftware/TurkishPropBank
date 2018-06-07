@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="tint">
+    <roleset id="tint.01" name="tint">
+      <roles>
+        <role descr="causer of coloration, tinter" f="pag" n="0"/>
+        <role descr="thing with color, thing tinted" f="ppt" n="1"/>
+        <role descr="the color itself" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

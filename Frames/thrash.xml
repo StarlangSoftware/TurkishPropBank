@@ -1,0 +1,25 @@
+<frameset>
+  <predicate lemma="thrash">
+    <roleset id="thrash.01" name="beat up thoroughly">
+      <roles>
+        <role descr="agent, hitter - animate only!" f="pag" n="0"/>
+        <role descr="thing hit" f="ppt" n="1"/>
+        <role descr="instrument, thing hit by or with" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="thrash.03" name="move violently and randomly">
+      <roles>
+        <role descr="thing in motion" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="thrash_out">
+    <roleset id="thrash_out.02" name="work out, arrange">
+      <roles>
+        <role descr="arranger" f="pag" n="0"/>
+        <role descr="scheme" f="ppt" n="1"/>
+        <role descr="collaborator" f="com" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

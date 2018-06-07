@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="tinsel">
+    <roleset id="tinsel.01" name="make sparkly by decorating with tinsel">
+      <roles>
+        <role descr="Causal agent" f="PAG" n="0"/>
+        <role descr="thing covered in tinsel" f="GOL" n="1"/>
+        <role descr="the tinsel" f="PPT" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

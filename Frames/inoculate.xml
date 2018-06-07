@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="inoculate">
+    <roleset id="inoculate.01" name="introduce vaccine to boost immunity to a disease, immunization against a disease">
+      <roles>
+        <role descr="inoculator" f="pag" n="0"/>
+        <role descr="patient inoculated" f="ppt" n="1"/>
+        <role descr="inoculated against" f="ppt" n="2"/>
+        <role descr="innoculated with, vaccine itself" f="mnr" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

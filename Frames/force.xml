@@ -1,0 +1,32 @@
+<frameset>
+  <predicate lemma="force">
+    <roleset id="force.01" name="impelled action">
+      <roles>
+        <role descr="forcer" f="pag" n="0"/>
+        <role descr="impelled agent" f="ppt" n="1"/>
+        <role descr="impelled action" f="prd" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="force.02" name="force a thing">
+      <roles>
+        <role descr="forcer" f="pag" n="0"/>
+        <role descr="thing forced" f="ppt" n="1"/>
+        <role descr="benefactive, forced-on" f="gol" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="force.03" name="put">
+      <roles>
+        <role descr="put-er, not putter" f="pag" n="0"/>
+        <role descr="thing put" f="ppt" n="1"/>
+        <role descr="where put" f="gol" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="force.04" name="impinging with power upon">
+      <roles>
+        <role descr="forceful thing" f="pag" n="0"/>
+        <role descr="entity impinged upon" f="ppt" n="1"/>
+        <role descr="type of force" f="vsp" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

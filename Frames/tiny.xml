@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="tiny">
+    <roleset id="tiny.01" name="very small">
+      <roles>
+        <role descr="tiny entity" f="ppt" n="1"/>
+        <role descr="domain/specific aspect of arg1 that is tiny" f="vsp" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,26 @@
+<frameset>
+  <predicate lemma="stall">
+    <roleset id="stall.01" name="(cause to) cease/slow forward motion, ">
+      <roles>
+        <role descr="staller" f="PAG" n="0"/>
+        <role descr="thing stalled" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="stall_out">
+    <roleset id="stall_out.02" name="(cause to) cease forward motion completely">
+      <roles>
+        <role descr="staller" f="PAG" n="0"/>
+        <role descr="thing stalled" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="stall_off">
+    <roleset id="stall_off.03" name="stall off: delay, intensive of stall.01">
+      <roles>
+        <role descr="cause of delay" f="PAG" n="0"/>
+        <role descr="thing delayed, stalled" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

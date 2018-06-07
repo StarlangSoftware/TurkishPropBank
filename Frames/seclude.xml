@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="seclude">
+    <roleset id="seclude.01" name="seclude">
+      <roles>
+        <role descr="secluder, agent" f="PAG" n="0"/>
+        <role descr="thing hidden, secluded, patient" f="PPT" n="1"/>
+        <role descr="hidden from" f="GOL" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

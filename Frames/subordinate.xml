@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="subordinate">
+    <roleset id="subordinate.01" name="make lesser, dependent on">
+      <roles>
+        <role descr="cause" f="pag" n="0"/>
+        <role descr="subordinate thing" f="ppt" n="1"/>
+        <role descr="superordinate thing" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

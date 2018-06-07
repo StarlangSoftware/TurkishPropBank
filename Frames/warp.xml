@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="warp">
+    <roleset id="warp.01" name="bend out of shape">
+      <roles>
+        <role descr="agent" f="PAG" n="0"/>
+        <role descr="object being bent" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

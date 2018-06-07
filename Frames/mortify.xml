@@ -1,0 +1,17 @@
+<frameset>
+  <predicate lemma="mortify">
+    <roleset id="mortify.01" name="to greatly shame, embarrass">
+      <roles>
+        <role descr="Cause of mortification" f="pag" n="0"/>
+        <role descr="entity mortified" f="ppt" n="1"/>
+        <role descr="Instrument or Manner if separate from arg 0" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="mortify.02" name="deaden, repress, attenuate (as of carnal desires/sins)">
+      <roles>
+        <role descr="agent of repression" f="pag" n="0"/>
+        <role descr="thing repressed" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="appellation">
+    <roleset id="appellation.01" name="to name, call by a certain name">
+      <roles>
+        <role descr="namer, agent" f="pag" n="0"/>
+        <role descr="thing being named" f="ppt" n="1"/>
+        <role descr="name itself" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

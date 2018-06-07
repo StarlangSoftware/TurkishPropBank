@@ -1,0 +1,18 @@
+<frameset>
+  <predicate lemma="condition">
+    <roleset id="condition.01" name="to make dependent on a condition">
+      <roles>
+        <role descr="causer of dependence, agent" f="pag" n="0"/>
+        <role descr="entity made dependent" f="ppt" n="1"/>
+        <role descr="dependent on" f="gol" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="condition.02" name="to accustom, to adapt">
+      <roles>
+        <role descr="causer of adaptation, agent" f="pag" n="0"/>
+        <role descr="entity adapted" f="ppt" n="1"/>
+        <role descr="adapted to" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

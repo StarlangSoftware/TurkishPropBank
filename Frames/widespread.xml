@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="widespread">
+    <roleset id="widespread.01" name="distributed widely">
+      <roles>
+        <role descr="thing distributed widely" f="pag" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

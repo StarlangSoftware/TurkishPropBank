@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="decompose">
+    <roleset id="decompose.01" name="(cause to) break down, decay">
+      <roles>
+        <role descr="cause of decomposition" f="pag" n="0"/>
+        <role descr="thing undergoing decomposition" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

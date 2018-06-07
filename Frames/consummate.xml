@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="consummate">
+    <roleset id="consummate.01" name="bring to completion">
+      <roles>
+        <role descr="entity/entities completing something" f="PAG" n="0"/>
+        <role descr="thing consumated" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

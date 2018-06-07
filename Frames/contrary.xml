@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="contrary">
+    <roleset id="contrary.01" name="contrary">
+      <roles>
+        <role descr="contradictor, contrary thing" f="PPT" n="1"/>
+        <role descr="contradicted thing, contrary to what?" f="PPT" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

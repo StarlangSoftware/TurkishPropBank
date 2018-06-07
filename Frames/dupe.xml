@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="dupe">
+    <roleset id="dupe.01" name="trick">
+      <roles>
+        <role descr="tricker" f="PAG" n="0"/>
+        <role descr="tricked" f="PPT" n="1"/>
+        <role descr="trick, induced action" f="PRD" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

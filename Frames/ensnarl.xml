@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="ensnarl">
+    <roleset id="ensnarl.01" name="make into tangles">
+      <roles>
+        <role descr="causer of tangle, agent" f="pag" n="0"/>
+        <role descr="thing getting tangled" f="ppt" n="1"/>
+        <role descr="explicit mention of tangle" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="retake">
+    <roleset id="retake.01" name="take again, take back">
+      <roles>
+        <role descr="taker" f="PAG" n="0"/>
+        <role descr="taken" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="honeycomb">
+    <roleset id="honeycomb.01" name="make full of cavities">
+      <roles>
+        <role descr="maker of holes" f="PAG" n="0"/>
+        <role descr="thing full of cavities" f="GOL" n="1"/>
+        <role descr="the holes themselves" f="PPT" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

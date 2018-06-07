@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="dimple">
+    <roleset id="dimple.01" name="mark with dimples, creating dimples in or becoming dimpled">
+      <roles>
+        <role descr="causer" f="pag" n="0"/>
+        <role descr="entity dimpled" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

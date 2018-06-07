@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="lobby">
+    <roleset id="lobby.01" name="ask a favor, ask a request, ask for">
+      <roles>
+        <role descr="asker" f="PAG" n="0"/>
+        <role descr="favor" f="PPT" n="1"/>
+        <role descr="hearer" f="GOL" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

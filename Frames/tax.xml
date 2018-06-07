@@ -1,0 +1,29 @@
+<frameset>
+  <predicate lemma="tax">
+    <roleset id="tax.01" name="government charging money, tax, duty">
+      <roles>
+        <role descr="taxer" f="pag" n="0"/>
+        <role descr="amount of tax" f="vsp" n="1"/>
+        <role descr="taxpayer" f="gol" n="2"/>
+        <role descr="commodity" f="cau" n="3"/>
+      </roles>
+    </roleset>
+    <roleset id="tax.03" name="resultative construction">
+      <roles>
+        <role descr="taxer" f="pag" n="0"/>
+        <role descr="thing changing state" f="ppt" n="1"/>
+        <role descr="new state caused by taxing" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="tax_away">
+    <roleset id="tax_away.02" name="government charging money">
+      <roles>
+        <role descr="taxer" f="pag" n="0"/>
+        <role descr="amount of tax" f="vsp" n="1"/>
+        <role descr="taxpayer" f="gol" n="2"/>
+        <role descr="commodity" f="cau" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

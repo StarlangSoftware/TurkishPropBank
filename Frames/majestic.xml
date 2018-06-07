@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="majestic">
+    <roleset id="majestic.01" name="characterized by majesty; stately">
+      <roles>
+        <role descr="majestic entity" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

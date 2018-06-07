@@ -1,0 +1,20 @@
+<frameset>
+  <predicate lemma="bunch">
+    <roleset id="bunch.01" name="fold into a bunch">
+      <roles>
+        <role descr="agent, buncher" f="pag" n="0"/>
+        <role descr="patient, thing bunched" f="ppt" n="1"/>
+        <role descr="end state (a bunch)" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="bunch_up">
+    <roleset id="bunch_up.02" name="bunch up (completive)">
+      <roles>
+        <role descr="buncher" f="pag" n="0"/>
+        <role descr="thing bunched up" f="ppt" n="1"/>
+        <role descr="end state" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

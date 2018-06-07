@@ -1,0 +1,27 @@
+<frameset>
+  <predicate lemma="gas">
+    <roleset id="gas.01" name="provide with fuel">
+      <roles>
+        <role descr="provider" f="pag" n="0"/>
+        <role descr="fuel" f="ppt" n="1"/>
+        <role descr="entity provided for (destination)" f="gol" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="gas.03" name="be killed with gas fumes">
+      <roles>
+        <role descr="killer" f="pag" n="0"/>
+        <role descr="victim" f="ppt" n="1"/>
+        <role descr="explicit mention of type of gas" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="gas_up">
+    <roleset id="gas_up.02" name="fill to full">
+      <roles>
+        <role descr="provider" f="pag" n="0"/>
+        <role descr="fuel" f="ppt" n="1"/>
+        <role descr="entity provided for (destination)" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

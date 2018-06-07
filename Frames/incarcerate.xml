@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="incarcerate">
+    <roleset id="incarcerate.01" name="throw in jail">
+      <roles>
+        <role descr="judge, court, etc." f="pag" n="0"/>
+        <role descr="criminal" f="ppt" n="1"/>
+        <role descr="term" f="ext" n="2"/>
+        <role descr="crime" f="cau" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="spark">
+    <roleset id="spark.01" name="begin, start, initiate">
+      <roles>
+        <role descr="cause of starting, agent" f="CAU" n="0"/>
+        <role descr="thing beginning" f="PPT" n="1"/>
+        <role descr="instrument, if agent is also present" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

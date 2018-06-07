@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="retie">
+    <roleset id="retie.01" name="tie again">
+      <roles>
+        <role descr="agent, entity doing the tying" f="pag" n="0"/>
+        <role descr="patient, thing(s) being tied" f="ppt" n="1"/>
+        <role descr="instrument, string" f="mnr" n="2"/>
+        <role descr="attribute of arg1" f="prd" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

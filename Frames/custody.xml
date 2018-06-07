@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="custody">
+    <roleset id="custody.01" name="take possession of">
+      <roles>
+        <role descr="possessor" f="pag" n="0"/>
+        <role descr="possession" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

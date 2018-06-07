@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="complacent">
+    <roleset id="complacent.01" name="apathetic towards ones own accomplishments">
+      <roles>
+        <role descr="apathetic one" f="pag" n="0"/>
+        <role descr="with regard to what" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,16 @@
+<frameset>
+  <predicate lemma="weep">
+    <roleset id="weep.01" name="to cry, crying">
+      <roles>
+        <role descr="weeper" f="pag" n="0"/>
+        <role descr="tears" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="weep.02" name="to ooze, secrete, oozing">
+      <roles>
+        <role descr="Oozer, emitter of fluid" f="dir" n="0"/>
+        <role descr="Fluid oozed" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

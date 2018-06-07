@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="decorticate">
+    <roleset id="decorticate.01" name="remove the outer layer (ie cortex or scar tissue)">
+      <roles>
+        <role descr="remover, agent" f="pag" n="0"/>
+        <role descr="stripped of, layer removed" f="ppt" n="1"/>
+        <role descr="removed from" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

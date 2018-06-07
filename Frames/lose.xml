@@ -1,0 +1,50 @@
+<frameset>
+  <predicate lemma="lose">
+    <roleset id="lose.01" name="decrease, fall">
+      <roles>
+        <role descr="logical subject, patient, thing falling" f="ppt" n="1"/>
+        <role descr="EXT, amount fallen" f="ext" n="2"/>
+        <role descr="start point" f="dir" n="3"/>
+        <role descr="end point" f="prd" n="4"/>
+        <role descr="medium" f="loc" n="m"/>
+      </roles>
+    </roleset>
+    <roleset id="lose.02" name="lose, no longer have">
+      <roles>
+        <role descr="entity losing something" f="pag" n="0"/>
+        <role descr="thing lost" f="ppt" n="1"/>
+        <role descr="benefactive, entity gaining thing lost" f="gol" n="2"/>
+        <role descr="source of loss" f="dir" n="3"/>
+      </roles>
+    </roleset>
+    <roleset id="lose.03" name="battle">
+      <roles>
+        <role descr="loser" f="pag" n="0"/>
+        <role descr="battle" f="ppt" n="1"/>
+        <role descr="winner" f="gol" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="lose.04" name="lose touch">
+      <roles>
+        <role descr="loser" f="pag" n="0"/>
+        <role descr="touch" f="ppt" n="1"/>
+        <role descr="with ..." f="vsp" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="lose.07" name="be unaware">
+      <roles>
+        <role descr="what you're not aware of" f="ppt" n="1"/>
+        <role descr="unaware entity" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="lose_out">
+    <roleset id="lose_out.06" name="lose, come to not have">
+      <roles>
+        <role descr="entity losing something" f="pag" n="0"/>
+        <role descr="thing lost" f="ppt" n="1"/>
+        <role descr="benefactive, entity gaining thing lost" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

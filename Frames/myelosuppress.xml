@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="myelosuppress">
+    <roleset id="myelosuppress.01" name="decreasing bone marrow activity, resulting in fewer red blood cells">
+      <roles>
+        <role descr="cause of myelosuppression" f="pag" n="0"/>
+        <role descr="entity experiencing myelosuppression" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

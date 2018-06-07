@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="anticoagulate">
+    <roleset id="anticoagulate.101" name="give a patient medication to interfere with normal clotting, having recieved blood thinning medication">
+      <roles>
+        <role descr="Doctor" f="pag" n="0"/>
+        <role descr="Patient" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

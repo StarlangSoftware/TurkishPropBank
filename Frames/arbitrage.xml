@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="arbitrage">
+    <roleset id="arbitrage.01" name="quickly buy/sell currencies/stock/securities for profit">
+      <roles>
+        <role descr="arbitrager, agent" f="pag" n="0"/>
+        <role descr="currency/stock/security exchanged" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

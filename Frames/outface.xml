@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="outface">
+    <roleset id="outface.01" name="outstare">
+      <roles>
+        <role descr="person staring" f="PAG" n="0"/>
+        <role descr="person outstared" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

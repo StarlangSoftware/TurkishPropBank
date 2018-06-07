@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="task">
+    <roleset id="task.01" name="assign someone a task, order, assignment">
+      <roles>
+        <role descr="boss" f="pag" n="0"/>
+        <role descr="task required" f="gol" n="1"/>
+        <role descr="required-of, task assigned to whom?" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

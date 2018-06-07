@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="cajole">
+    <roleset id="cajole.01" name="persuade by flattery or promises">
+      <roles>
+        <role descr="cajoler" f="PAG" n="0"/>
+        <role descr="persuaded agent" f="PPT" n="1"/>
+        <role descr="persuaded action" f="PRD" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

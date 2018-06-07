@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="depigment">
+    <roleset id="depigment.01" name="(cause to) lose color">
+      <roles>
+        <role descr="Agent, person removing pigment" f="pag" n="0"/>
+        <role descr="Entity losing pigment" f="ppt" n="1"/>
+        <role descr="Pigment, color itself" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="obsess">
+    <roleset id="obsess.01" name="monomania, think about a lot">
+      <roles>
+        <role descr="obsessed entity" f="ppt" n="0"/>
+        <role descr="obsession" f="pag" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

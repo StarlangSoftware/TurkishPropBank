@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="administrate">
+    <roleset id="administrate.01" name="manage">
+      <roles>
+        <role descr="agent, manager" f="PAG" n="0"/>
+        <role descr="theme, process/thing being managed" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

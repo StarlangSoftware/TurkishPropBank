@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="zag">
+    <roleset id="zag.01" name="(cause to) move in \/\/\/ fashion">
+      <roles>
+        <role descr="cause of zagging" f="pag" n="0"/>
+        <role descr="entity in motion" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="autonomous">
+    <roleset id="autonomous.01" name="independent, self-ruling">
+      <roles>
+        <role descr="entity in control" f="pag" n="0"/>
+        <role descr="control over what" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

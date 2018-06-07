@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="zonked_out">
+    <roleset id="zonked_out.01" name="asleep, soundly">
+      <roles>
+        <role descr="causer of sleep" f="pag" n="0"/>
+        <role descr="sleeper" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

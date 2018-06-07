@@ -1,0 +1,13 @@
+<frameset>
+  <predicate lemma="redo">
+    <roleset id="redo.01" name="act again">
+      <roles>
+        <role descr="agent, doer" f="pag" n="0"/>
+        <role descr="thing done" f="ppt" n="1"/>
+        <role descr="benefactive, done for or about" f="gol" n="2"/>
+        <role descr="instrumental" f="mnr" n="3"/>
+        <role descr="comitative, companion while doing" f="com" n="4"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="vandalize">
+    <roleset id="vandalize.01" name="maliciously detroy (esp. property)">
+      <roles>
+        <role descr="vandal" f="pag" n="0"/>
+        <role descr="thing vandalized" f="ppt" n="1"/>
+        <role descr="instrument of vandalism" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

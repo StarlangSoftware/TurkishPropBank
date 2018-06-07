@@ -1,0 +1,19 @@
+<frameset>
+  <predicate lemma="fend">
+    <roleset id="fend.01" name="manage, survive">
+      <roles>
+        <role descr="entity getting by, surviving" f="pag" n="0"/>
+        <role descr="REC" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="fend_off">
+    <roleset id="fend_off.02" name="avoid, keep away">
+      <roles>
+        <role descr="avoider, warder" f="pag" n="0"/>
+        <role descr="thing avoided, warded off" f="ppt" n="1"/>
+        <role descr="explicit instrument" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

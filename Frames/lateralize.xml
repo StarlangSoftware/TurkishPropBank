@@ -1,0 +1,19 @@
+<frameset>
+  <predicate lemma="lateralize">
+    <roleset id="lateralize.01" name="displace to one side to make lateral, displace to one side">
+      <roles>
+        <role descr="cause of movement" f="pag" n="0"/>
+        <role descr="thing moved" f="ppt" n="1"/>
+        <role descr="moved where" f="loc" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="lateral">
+    <roleset id="lateral.02" name="situated at the side, next to">
+      <roles>
+        <role descr="thing that is on the side" f="pag" n="1"/>
+        <role descr="on the side of what" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

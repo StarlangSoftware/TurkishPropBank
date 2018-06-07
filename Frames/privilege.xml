@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="privilege">
+    <roleset id="privilege.01" name="to grant a benefit enjoyed by few">
+      <roles>
+        <role descr="granter" f="pag" n="0"/>
+        <role descr="benefit allowed" f="ppt" n="1"/>
+        <role descr="extracted allowed-agent" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

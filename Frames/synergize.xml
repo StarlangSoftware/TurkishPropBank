@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="synergize">
+    <roleset id="synergize.01" name="act in combination to increase an effect">
+      <roles>
+        <role descr="first party acting in synergy" f="pag" n="0" />
+        <role descr="second party" f="COM" n="1" />
+        <role descr="potentiated effect/process" f="PPT" n="2" />
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

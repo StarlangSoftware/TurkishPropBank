@@ -1,0 +1,52 @@
+<frameset>
+  <predicate lemma="hammer">
+    <roleset id="hammer.01" name="put a nail into wood (eg)">
+      <roles>
+        <role descr="hammerer" f="pag" n="0"/>
+        <role descr="nail" f="ppt" n="1"/>
+        <role descr="wood" f="gol" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="hammer.02" name="hit with a hammer">
+      <roles>
+        <role descr="agent, hitter - animate only!" f="pag" n="0"/>
+        <role descr="thing hit" f="ppt" n="1"/>
+        <role descr="instrument, hammer" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="hammer.03" name="use a hammer to put   something into a particular shape">
+      <roles>
+        <role descr="builder" f="pag" n="0"/>
+        <role descr="construction" f="prd" n="1"/>
+        <role descr="material, start state" f="vsp" n="2"/>
+        <role descr="benefactive" f="gol" n="3"/>
+        <role descr="end state" f="prd" n="4"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="hammer_out">
+    <roleset id="hammer_out.04" name="arrange">
+      <roles>
+        <role descr="arranger" f="pag" n="0"/>
+        <role descr="scheme" f="ppt" n="1"/>
+        <role descr="collaborator" f="com" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="hammer_away">
+    <roleset id="hammer_away.05" name="hammer continuously, usually metaphorical">
+      <roles>
+        <role descr="hammerer" f="pag" n="0"/>
+        <role descr="Usually prepositional complement, hammer away at what?" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="hammered">
+    <roleset id="hammered.06" name="drunk">
+      <roles>
+        <role descr="drinker" f="pag" n="1"/>
+        <role descr="drink" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

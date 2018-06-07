@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="absolute">
+    <roleset id="absolute.01" name="all encompassing, without exception">
+      <roles>
+        <role descr="absolute thing" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

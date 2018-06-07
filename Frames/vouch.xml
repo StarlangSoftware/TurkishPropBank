@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="vouch">
+    <roleset id="vouch.01" name="guarantee">
+      <roles>
+        <role descr="guarantor" f="PAG" n="0"/>
+        <role descr="guarantee" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

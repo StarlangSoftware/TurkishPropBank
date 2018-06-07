@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="decipher">
+    <roleset id="decipher.01" name="decode">
+      <roles>
+        <role descr="code-breaker" f="pag" n="0"/>
+        <role descr="encrypted data" f="ppt" n="1"/>
+        <role descr="decoded data" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

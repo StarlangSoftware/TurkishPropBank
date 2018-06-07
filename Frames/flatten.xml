@@ -1,0 +1,40 @@
+<frameset>
+  <predicate lemma="flatten">
+    <roleset id="flatten.01" name="(cause to) become flat">
+      <roles>
+        <role descr="causer of flatness, agent" f="pag" n="0"/>
+        <role descr="flat thing" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="flatten_out">
+    <roleset id="flatten_out.02" name="flatten completely">
+      <roles>
+        <role descr="causer of flatness, agent" f="pag" n="0"/>
+        <role descr="flat thing" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="flat">
+    <roleset id="flat.03" name="lacking fizz">
+      <roles>
+        <role descr="fizzless substance" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="flat.04" name="not shiny (as a surface)">
+      <roles>
+        <role descr="dull surface" f="pag" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="flat.05" name="lowered slightly in pitch">
+      <roles>
+        <role descr="note that is slightly low" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="flat.06" name="even, uniform, unvarying, horizontally level">
+      <roles>
+        <role descr="flat thing" f="pag" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

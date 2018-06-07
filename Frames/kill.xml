@@ -1,0 +1,34 @@
+<frameset>
+  <predicate lemma="kill">
+    <roleset id="kill.01" name="cause to die, murder">
+      <roles>
+        <role descr="killer" f="pag" n="0"/>
+        <role descr="corpse" f="ppt" n="1"/>
+        <role descr="instrument" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="kill.03" name="do well, win, accomplish some task">
+      <roles>
+        <role descr="entity succeeding" f="pag" n="0"/>
+        <role descr="task" f="ppt" n="1"/>
+        <role descr="fixed: &quot;it&quot;" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="kill.04" name="pass the time by engaging in some activity">
+      <roles>
+        <role descr="time-spender" f="pag" n="0"/>
+        <role descr="time" f="ppt" n="1"/>
+        <role descr="activity" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="kill_off">
+    <roleset id="kill_off.02" name="cause to die">
+      <roles>
+        <role descr="killer" f="pag" n="0"/>
+        <role descr="corpse" f="ppt" n="1"/>
+        <role descr="instrument" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

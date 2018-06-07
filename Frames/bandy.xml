@@ -1,0 +1,18 @@
+<frameset>
+  <predicate lemma="bandy_about">
+    <roleset id="bandy_about.01" name="discuss casually">
+      <roles>
+        <role descr="discusser(s), agent" f="pag" n="0"/>
+        <role descr="topic" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="bandy_around">
+    <roleset id="bandy_around.02" name="discuss casually">
+      <roles>
+        <role descr="discusser/agent(s)" f="pag" n="0"/>
+        <role descr="topic" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

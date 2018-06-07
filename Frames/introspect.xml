@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="introspect">
+    <roleset id="introspect.01" name="looking inward or deeply into">
+      <roles>
+        <role descr="examiner" f="pag" n="0"/>
+        <role descr="inner thing examined" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

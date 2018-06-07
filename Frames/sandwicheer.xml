@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="sandwicheer">
+    <roleset id="sandwicheer.01" name="be in the business of making sandwiches">
+      <roles>
+        <role descr="Sandwicheer (Earl?)" f="pag" n="0"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

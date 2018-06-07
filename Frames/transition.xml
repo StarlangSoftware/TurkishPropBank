@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="transition">
+    <roleset id="transition.01" name="change">
+      <roles>
+        <role descr="causer of change" f="pag" n="0"/>
+        <role descr="thing changing" f="ppt" n="1"/>
+        <role descr="end state" f="gol" n="2"/>
+        <role descr="start state" f="dir" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

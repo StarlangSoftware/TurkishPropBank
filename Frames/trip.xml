@@ -1,0 +1,31 @@
+<frameset>
+  <predicate lemma="trip">
+    <roleset id="trip.01" name="what circuit breakers do">
+      <roles>
+        <role descr="cause of trip, overload" f="pag" n="0"/>
+        <role descr="thing tripped (circuit breaker)" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="trip.02" name="behave as if under the influence of drugs">
+      <roles>
+        <role descr="entity tripping" f="pag" n="0"/>
+        <role descr="mention of 'balls' or other intensifying object" f="ppt" n="1"/>
+        <role descr="drug or subject matter stimulus" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="trip.03" name="travel">
+      <roles>
+        <role descr="traveller" f="pag" n="0"/>
+        <role descr="destination" f="gol" n="1"/>
+        <role descr="source or from where" f="dir" n="2"/>
+        <role descr="path" f="dir" n="3"/>
+      </roles>
+    </roleset>
+    <roleset id="trip.04" name="fall">
+      <roles>
+        <role descr="agent, entity stumbling" f="pag" n="0"/>
+        <role descr="tripped over" f="loc" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

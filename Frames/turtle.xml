@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="turtle">
+    <roleset id="turtle.01" name="render helpless by flipping over onto back">
+      <roles>
+        <role descr="causer of flipping" f="pag" n="0"/>
+        <role descr="thing flipped" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,36 @@
+<frameset>
+  <predicate lemma="squeeze">
+    <roleset id="squeeze.01" name="apply pressure to">
+      <roles>
+        <role descr="squeezer" f="pag" n="0"/>
+        <role descr="squozen" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="squeeze.02" name="apply pressure with the intent of extracting something">
+      <roles>
+        <role descr="squeezer" f="pag" n="0"/>
+        <role descr="extracted material" f="ppt" n="1"/>
+        <role descr="source" f="dir" n="2"/>
+        <role descr="destination, arg1 squeezed into what?" f="gol" n="3"/>
+      </roles>
+    </roleset>
+    <roleset id="squeeze.03" name="reduce">
+      <roles>
+        <role descr="Agent" f="pag" n="0"/>
+        <role descr="Logical subject, patient, thing falling" f="ppt" n="1"/>
+        <role descr="EXT, amount fallen" f="ext" n="2"/>
+        <role descr="Start point" f="dir" n="3"/>
+        <role descr="End point, end state of arg1" f="gol" n="4"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="squeeze_out">
+    <roleset id="squeeze_out.04" name="extract or erradicate by means of pressure">
+      <roles>
+        <role descr="squeezer" f="pag" n="0"/>
+        <role descr="extracted material" f="ppt" n="1"/>
+        <role descr="source" f="dir" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

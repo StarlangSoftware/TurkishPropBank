@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="toilet">
+    <roleset id="toilet.01" name="use the toilet">
+      <roles>
+        <role descr="agent" f="PAG" n="0"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

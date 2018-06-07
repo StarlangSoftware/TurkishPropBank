@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="term">
+    <roleset id="term.01" name="assign a label">
+      <roles>
+        <role descr="caller" f="PAG" n="0"/>
+        <role descr="item being labelled" f="PPT" n="1"/>
+        <role descr="attribute" f="PRD" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

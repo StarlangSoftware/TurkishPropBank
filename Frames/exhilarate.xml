@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="exhilarate">
+    <roleset id="exhilarate.01" name="make happily refreshed; energetic">
+      <roles>
+        <role descr="agent, pleaser" f="pag" n="0"/>
+        <role descr="patient, entity pleased" f="ppt" n="1"/>
+        <role descr="instrumental" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="deadlock">
+    <roleset id="deadlock.01" name="two processes stopping each other from completing">
+      <roles>
+        <role descr="thing(s) deadlocking" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="modem">
+    <roleset id="modem.01" name="fax">
+      <roles>
+        <role descr="sender, agent" f="PAG" n="0"/>
+        <role descr="entity sent, faxed" f="PPT" n="1"/>
+        <role descr="sent to, recipient" f="GOL" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

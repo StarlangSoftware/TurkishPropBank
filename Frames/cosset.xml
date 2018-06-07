@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="cosset">
+    <roleset id="cosset.01" name="to make a pet of, fondle, pamper into tame resignation">
+      <roles>
+        <role descr="guardian, pamperer" f="PAG" n="0"/>
+        <role descr="pampered pet" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

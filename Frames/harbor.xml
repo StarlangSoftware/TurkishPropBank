@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="harbor">
+    <roleset id="harbor.01" name="hold closely and safely">
+      <roles>
+        <role descr="holder" f="PAG" n="0"/>
+        <role descr="thing held" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

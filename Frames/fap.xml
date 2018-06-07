@@ -1,0 +1,20 @@
+<frameset>
+  <predicate lemma="fap">
+    <roleset id="fap.01" name="masturbate">
+      <roles>
+        <role descr="masturbator" f="pag" n="0"/>
+        <role descr="patient, if separate from arg0" f="ppt" n="1"/>
+        <role descr="sexual stimulus used" f="vsp" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="fap_away">
+    <roleset id="fap_away.02" name="talk unrestrainedly">
+      <roles>
+        <role descr="talker" f="pag" n="0"/>
+        <role descr="utterance" f="ppt" n="1"/>
+        <role descr="listener" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

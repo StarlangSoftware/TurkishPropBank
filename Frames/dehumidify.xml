@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="dehumidify">
+    <roleset id="dehumidify.01" name="make not humid">
+      <roles>
+        <role descr="agent, causing fading" f="PAG" n="0"/>
+        <role descr="thing fading" f="PPT" n="1"/>
+        <role descr="instrument or method" f="MNR" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

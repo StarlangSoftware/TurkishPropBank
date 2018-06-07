@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="browbeat">
+    <roleset id="browbeat.01" name="to intimidate">
+      <roles>
+        <role descr="agent, Stimulus" f="pag" n="0"/>
+        <role descr="entity intimidated" f="ppt" n="1"/>
+        <role descr="intimidated into" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

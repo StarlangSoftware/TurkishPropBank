@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="leeway">
+    <roleset id="leeway.01" name="grant tolerance">
+      <roles>
+        <role descr="allower, tolerant entity" f="pag" n="0"/>
+        <role descr="thing allowed to take place, topic/location of margin granted" f="ppt" n="1"/>
+        <role descr="leeway granted to, beneficiary" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,24 @@
+<frameset>
+  <predicate lemma="tire">
+    <roleset id="tire.01" name="cause to be sleepy, physically spent, sleepy">
+      <roles>
+        <role descr="causer of tiredness, sleepiness" f="pag" n="0"/>
+        <role descr="tired entity" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="tire.03" name="cause to not want to put up with anymore">
+      <roles>
+        <role descr="tired entity" f="pag" n="0"/>
+        <role descr="what arg0 doesn't want to put up with anymore" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="tire_out">
+    <roleset id="tire_out.02" name="(make) become weary, phrasal">
+      <roles>
+        <role descr="causer of tiredness" f="pag" n="0"/>
+        <role descr="tired entity" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

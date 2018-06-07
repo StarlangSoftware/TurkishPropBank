@@ -1,0 +1,13 @@
+<frameset>
+  <predicate lemma="preform">
+    <roleset id="preform.01" name="create, make ahead of time">
+      <roles>
+        <role descr="creator" f="pag" n="0"/>
+        <role descr="thing created" f="ppt" n="1"/>
+        <role descr="source" f="dir" n="2"/>
+        <role descr="benefactive" f="gol" n="3"/>
+        <role descr="attribute, secondary predication" f="prd" n="4"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

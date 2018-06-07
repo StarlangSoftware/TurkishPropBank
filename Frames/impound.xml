@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="impound">
+    <roleset id="impound.01" name="to hold or confine">
+      <roles>
+        <role descr="holder, agent" f="pag" n="0"/>
+        <role descr="entity impounded" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

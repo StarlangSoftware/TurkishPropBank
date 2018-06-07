@@ -1,0 +1,15 @@
+<frameset>
+  <predicate lemma="clinical">
+    <roleset id="clinical.01" name="scientifically detached from emotion">
+      <roles>
+        <role descr="emotionally detached entity" f="pag" n="0"/>
+        <role descr="situation treated as clinical by arg0" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="clinical.02" name="relating to (patient observation in) clinics">
+      <roles>
+        <role descr="thing having to do with clinics" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,53 @@
+<frameset>
+  <predicate lemma="swear">
+    <roleset id="swear.01" name="make a promise">
+      <roles>
+        <role descr="swearer" f="pag" n="0"/>
+        <role descr="promise" f="ppt" n="1"/>
+        <role descr="on what (bible, life, etc)" f="vsp" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="swear.02" name="use bad language">
+      <roles>
+        <role descr="swearer" f="pag" n="0"/>
+      </roles>
+    </roleset>
+    <roleset id="swear.04" name="tell the truth">
+      <roles>
+        <role descr="speaker" f="pag" n="0"/>
+        <role descr="true utterance" f="ppt" n="1"/>
+        <role descr="listener" f="gol" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="swear.05" name="attest to something">
+      <roles>
+        <role descr="swearer" f="pag" n="0"/>
+        <role descr="thing sworn by" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="swear.07" name="swear into office">
+      <roles>
+        <role descr="judge, legal authority" f="pag" n="0"/>
+        <role descr="person sworn in" f="ppt" n="1"/>
+        <role descr="position, office" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="swear_off">
+    <roleset id="swear_off.03" name="promise to not (do)">
+      <roles>
+        <role descr="swearer" f="pag" n="0"/>
+        <role descr="thing you're not going to do" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="swear_in">
+    <roleset id="swear_in.06" name="make/accept an oath of office or court">
+      <roles>
+        <role descr="judge, legal authority" f="pag" n="0"/>
+        <role descr="person sworn in" f="ppt" n="1"/>
+        <role descr="position, office" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

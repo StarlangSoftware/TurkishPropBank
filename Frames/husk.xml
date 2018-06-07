@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="husk">
+    <roleset id="husk.01" name="remove the husk">
+      <roles>
+        <role descr="remover of the husk" f="pag" n="0"/>
+        <role descr="thing husk is being removed from" f="dir" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

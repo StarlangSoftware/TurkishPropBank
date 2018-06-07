@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="shiver">
+    <roleset id="shiver.01" name="shake from cold or fear">
+      <roles>
+        <role descr="shiverer" f="pag" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

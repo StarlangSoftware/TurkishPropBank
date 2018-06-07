@@ -1,0 +1,17 @@
+<frameset>
+  <predicate lemma="hawk">
+    <roleset id="hawk.01" name="try to attract buyers">
+      <roles>
+        <role descr="seller, salesperson" f="pag" n="0"/>
+        <role descr="goods" f="ppt" n="1"/>
+        <role descr="(potential) buyer" f="gol" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="hawk.02" name="clear one's throat">
+      <roles>
+        <role descr="hawker" f="pag" n="0"/>
+        <role descr="mucus" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

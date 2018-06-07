@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="taboo">
+    <roleset id="taboo.01" name="make something be a taboo">
+      <roles>
+        <role descr="causer of tabooment" f="PAG" n="0"/>
+        <role descr="taboo" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

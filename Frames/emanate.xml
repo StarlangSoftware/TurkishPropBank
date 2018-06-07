@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="emanate">
+    <roleset id="emanate.01" name="come into existence (from)">
+      <roles>
+        <role descr="Cause, agent of emission" f="pag" n="0"/>
+        <role descr="entity issuing forth" f="ppt" n="1"/>
+        <role descr="source, where substance is emanating from" f="dir" n="2"/>
+        <role descr="location, where substance is emanating into" f="loc" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

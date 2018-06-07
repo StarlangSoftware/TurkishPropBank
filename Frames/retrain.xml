@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="retrain">
+    <roleset id="retrain.01" name="train again">
+      <roles>
+        <role descr="trainer" f="PAG" n="0"/>
+        <role descr="skill" f="prd" n="1"/>
+        <role descr="trainee" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

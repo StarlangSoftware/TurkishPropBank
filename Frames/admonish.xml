@@ -1,0 +1,18 @@
+<frameset>
+  <predicate lemma="admonish">
+    <roleset id="admonish.01" name="persuade warningly">
+      <roles>
+        <role descr="persuader" f="pag" n="0"/>
+        <role descr="persuaded agent" f="gol" n="1"/>
+        <role descr="persuaded action" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="admonish.02" name="chastise">
+      <roles>
+        <role descr="chastiser" f="pag" n="0"/>
+        <role descr="chastised" f="ppt" n="1"/>
+        <role descr="wrongdoing" f="cau" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

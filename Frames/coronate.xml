@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="coronate">
+    <roleset id="coronate.01" name="ritual crowning of a monarch">
+      <roles>
+        <role descr="entity performing the crowning" f="PAG" n="0"/>
+        <role descr="new monarch" f="PPT" n="1"/>
+        <role descr="new title, role" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

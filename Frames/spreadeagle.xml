@@ -1,0 +1,16 @@
+<frameset>
+  <predicate lemma="spreadeagle">
+    <roleset id="spreadeagle.01" name="stretch out or over">
+      <roles>
+        <role descr="causer of stretched out entity" f="pag" n="0"/>
+        <role descr="thing spread out" f="ppt" n="1"/>
+        <role descr="stretched over" f="gol" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="spreadeagle.02" name="stand with arms and legs stretched out">
+      <roles>
+        <role descr="person spead-eagled" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,21 @@
+<frameset>
+  <predicate lemma="shop">
+    <roleset id="shop.01" name="look for something to buy">
+      <roles>
+        <role descr="shopper" f="pag" n="0"/>
+        <role descr="thing sought" f="ppt" n="1"/>
+        <role descr="store/seller" f="loc" n="2"/>
+        <role descr="beneficiary" f="gol" n="3"/>
+      </roles>
+    </roleset>
+    <roleset id="shop.02" name="try to sell">
+      <roles>
+        <role descr="Seller" f="PAG" n="0"/>
+        <role descr="Thing Sold" f="PPT" n="1"/>
+        <role descr="Buyer" f="gol" n="2"/>
+        <role descr="Price Paid" f="prp" n="3"/>
+        <role descr="Benefactive" f="gol" n="4"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

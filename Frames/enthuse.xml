@@ -1,0 +1,26 @@
+<frameset>
+  <predicate lemma="enthuse">
+    <roleset id="enthuse.01" name="impelled action">
+      <roles>
+        <role descr="encourager" f="pag" n="0"/>
+        <role descr="encouraged agent" f="ppt" n="1"/>
+        <role descr="encouraged action" f="prd" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="enthuse.02" name="fill with enthusiasm">
+      <roles>
+        <role descr="Inspiration of enthusiasm" f="pag" n="0"/>
+        <role descr="Enthusiastic entity" f="ppt" n="1"/>
+        <role descr="instrument, if separate from cause" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="enthusiastic">
+    <roleset id="enthusiastic.03" name="excited, full of enthusiasm">
+      <roles>
+        <role descr="stimulus of enthusiasm" f="pag" n="0"/>
+        <role descr="excited entity" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="greedy">
+    <roleset id="greedy.01" name="covetous, possessive">
+      <roles>
+        <role descr="greedy entity" f="ppt" n="0"/>
+        <role descr="object of desire" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

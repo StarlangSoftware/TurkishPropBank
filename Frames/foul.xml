@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="foul">
+    <roleset id="foul.01" name="make wrong">
+      <roles>
+        <role descr="causer of wrongness, agent" f="pag" n="0"/>
+        <role descr="thing gone wrong" f="ppt" n="1"/>
+        <role descr="mode-specific description of act of going wrong" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

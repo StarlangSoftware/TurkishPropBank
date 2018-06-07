@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="visible">
+    <roleset id="visible.01" name="able to be seen">
+      <roles>
+        <role descr="seer" f="pag" n="0"/>
+        <role descr="seen" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

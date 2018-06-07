@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="underlie">
+    <roleset id="underlie.01" name="act as the foundation for">
+      <roles>
+        <role descr="thing acting as a foundation" f="PPT" n="0"/>
+        <role descr="foundation for what?" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,155 @@
+<frameset>
+  <predicate lemma="pass">
+    <roleset id="pass.01" name="bill becomes law">
+      <roles>
+        <role descr="legislative body" f="pag" n="0"/>
+        <role descr="bill, state prior to passing" f="ppt" n="1"/>
+        <role descr="law, state after passing" f="prd" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="pass.02" name="overtake">
+      <roles>
+        <role descr="entity moving ahead" f="pag" n="0"/>
+        <role descr="entity falling behind" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="pass.03" name="go by">
+      <roles>
+        <role descr="thing passing" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="pass.04" name="allow to go by">
+      <roles>
+        <role descr="allower" f="pag" n="0"/>
+        <role descr="thing let go by" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="pass.05" name="give">
+      <roles>
+        <role descr="giver" f="pag" n="0"/>
+        <role descr="thing changing hands" f="ppt" n="1"/>
+        <role descr="getter" f="gol" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="pass.06" name="suffice, get away (with)">
+      <roles>
+        <role descr="thing passing" f="ppt" n="1"/>
+        <role descr="attributive" f="prd" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="pass.07" name="pass a class, pass a test">
+      <roles>
+        <role descr="student" f="pag" n="1"/>
+        <role descr="test" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="pass.08" name="push through a passage (like a clot)">
+      <roles>
+        <role descr="passer" f="pag" n="0"/>
+        <role descr="thing passed (clot, gas, kidney stone, etc)" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="pass.20" name="die">
+      <roles>
+        <role descr="entity dying" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="pass.21" name="overtake">
+      <roles>
+        <role descr="entity moving ahead" f="pag" n="0"/>
+        <role descr="entity falling behind" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="pass.22" name="make a pass at, attempt something (esp flirtation)">
+      <roles>
+        <role descr="entity attempting something" f="pag" n="0"/>
+        <role descr="thing attempted (often &quot;at&quot; phrase)" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="pass_by">
+    <roleset id="pass_by.17" name="overtake, go past">
+      <roles>
+        <role descr="entity moving ahead; passing entity" f="pag" n="0"/>
+        <role descr="entity falling behind; thing passed" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="pass_off">
+    <roleset id="pass_off.18" name="offer for acceptance under false pretext">
+      <roles>
+        <role descr="faker" f="pag" n="0"/>
+        <role descr="thing offered" f="ppt" n="1"/>
+        <role descr="(possibly) duped judge" f="gol" n="2"/>
+        <role descr="fake attribute of Arg1" f="prd" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="pass_on">
+    <roleset id="pass_on.09" name="give, pass_on: give">
+      <roles>
+        <role descr="giver" f="pag" n="0"/>
+        <role descr="thing changing hands" f="ppt" n="1"/>
+        <role descr="getter" f="gol" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="pass_on.19" name="to move past">
+      <roles>
+        <role descr="mover" f="pag" n="0"/>
+        <role descr="thing moved, package" f="ppt" n="1"/>
+        <role descr="moved from" f="dir" n="2"/>
+        <role descr="moved to" f="gol" n="3"/>
+      </roles>
+    </roleset>
+    <roleset id="pass_on.14" name="transmit">
+      <roles>
+        <role descr="transmitter" f="pag" n="0"/>
+        <role descr="thing transmitted" f="ppt" n="1"/>
+        <role descr="transmitted to" f="gol" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="pass_on.15" name="die">
+      <roles>
+        <role descr="thing dying" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="pass_out">
+    <roleset id="pass_out.10" name="distribute">
+      <roles>
+        <role descr="distributor" f="pag" n="0"/>
+        <role descr="thing distributed" f="ppt" n="1"/>
+        <role descr="distributed to" f="gol" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="pass_out.11" name="faint">
+      <roles>
+        <role descr="fainter" f="pag" n="0"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="pass_over">
+    <roleset id="pass_over.12" name="ignore, leave behind">
+      <roles>
+        <role descr="ignorer" f="pag" n="0"/>
+        <role descr="thing ignored" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="pass_up">
+    <roleset id="pass_up.13" name="relinquish">
+      <roles>
+        <role descr="entity relinquishing one item" f="pag" n="0"/>
+        <role descr="item relinquished" f="ppt" n="1"/>
+        <role descr="in favor of another" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="pass_away">
+    <roleset id="pass_away.16" name="die">
+      <roles>
+        <role descr="dead entity" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

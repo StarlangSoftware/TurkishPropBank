@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="ambush">
+    <roleset id="ambush.01" name="to attack">
+      <roles>
+        <role descr="ambusher, agent" f="PAG" n="0"/>
+        <role descr="entity ambushed" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

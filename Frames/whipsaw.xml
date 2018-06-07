@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="whipsaw">
+    <roleset id="whipsaw.01" name="move back and forth violently?">
+      <roles>
+        <role descr="mover" f="PAG" n="0"/>
+        <role descr="thing moved" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

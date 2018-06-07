@@ -1,0 +1,46 @@
+<frameset>
+  <predicate lemma="round_out">
+    <roleset id="round_out.01" name="bring to completion, fulfill">
+      <roles>
+        <role descr="bringer to completion" f="pag" n="0"/>
+        <role descr="thing complete" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="round_up">
+    <roleset id="round_up.02" name="procure, arrange, get">
+      <roles>
+        <role descr="getter" f="pag" n="0"/>
+        <role descr="thing got(ten)" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="round">
+    <roleset id="round.03" name="move in or have an arc-shaped path, circuit through a course (e.g. &quot;do rounds&quot;)">
+      <roles>
+        <role descr="entity in motion" f="ppt" n="1"/>
+        <role descr="path, direction, location" f="loc" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="round.04" name="(cause to) become round">
+      <roles>
+        <role descr="person causing roundness" f="pag" n="0"/>
+        <role descr="thing rounded" f="ppt" n="1"/>
+        <role descr="instrument used in rounding" f="mnr" n="2"/>
+        <role descr="Resulting state, description of roundness" f="prd" n="3"/>
+      </roles>
+    </roleset>
+    <roleset id="round.05" name="session, bout, one time through">
+      <roles>
+        <role descr="event" f="ppt" n="1"/>
+        <role descr="participant" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="round.06" name="spherical, circular">
+      <roles>
+        <role descr="round entity" f="ppt" n="1"/>
+        <role descr="specific aspect of arg1 that is round" f="vsp" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

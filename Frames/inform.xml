@@ -1,0 +1,20 @@
+<frameset>
+  <predicate lemma="inform">
+    <roleset id="inform.01" name="cause to know">
+      <roles>
+        
+        <role descr="informer" f="PAG" n="0"/>
+        <role descr="informed" f="GOL" n="1"/>
+        <role descr="information" f="PPT" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="inform.02" name="disclose confidential information to an authority; be an informant">
+      <roles>
+        <role descr="informant" f="PAG" n="0"/>
+        <role descr="authorities alerted" f="GOL" n="1"/>
+        <role descr="wrongdoings, information" f="PPT" n="2"/>
+        <role descr="wrongdoers" f="PPT" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="mountaineer">
+    <roleset id="mountaineer.01" name="climb mountains">
+      <roles>
+        <role descr="mountaineer" f="pag" n="0"/>
+        <role descr="mountain region" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

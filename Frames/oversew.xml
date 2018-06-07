@@ -1,0 +1,13 @@
+<frameset>
+  <predicate lemma="oversew">
+    <roleset id="oversew.01" name="sew with close stiches that pass over both edges being attached">
+      <roles>
+        <role descr="entity causing two objects to be attached" f="pag" n="0"/>
+        <role descr="thing being sewn, first piece if they are seperate" f="ppt" n="1"/>
+        <role descr="instrument, thread" f="mnr" n="2"/>
+        <role descr="second piece if seperate" f="ppt" n="3"/>
+        <role descr="end state, attribute" f="prd" n="4"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

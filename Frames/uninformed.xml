@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="uninformed">
+    <roleset id="uninformed.01" name="not in the know">
+      <roles>
+        <role descr="informant" f="pag" n="0"/>
+        <role descr="entity who doesn't know" f="gol" n="1"/>
+        <role descr="information, subject matter" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

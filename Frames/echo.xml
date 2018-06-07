@@ -1,0 +1,17 @@
+<frameset>
+  <predicate lemma="echo">
+    <roleset id="echo.01" name="repeat a sound, repetition">
+      <roles>
+        <role descr="repeater, imitator" f="PPT" n="0"/>
+        <role descr="original" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="echo.02" name="sonogram of the heart">
+      <roles>
+        <role descr="doctor, clinician, agent" f="pag" n="0"/>
+        <role descr="subject - patient as a whole or the specific body part" f="ppt" n="1"/>
+        <role descr="result, conclusion" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

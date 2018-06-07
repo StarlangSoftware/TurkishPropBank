@@ -1,0 +1,17 @@
+<frameset>
+  <predicate lemma="locate">
+    <roleset id="locate.01" name="(cause to) be located in">
+      <roles>
+        <role descr="causer of location" f="PAG" n="0"/>
+        <role descr="institution, thing located" f="PPT" n="1"/>
+        <role descr="location" f="LOC" n="M"/>
+      </roles>
+    </roleset>
+    <roleset id="locate.02" name="find">
+      <roles>
+        <role descr="finder" f="PAG" n="0"/>
+        <role descr="thing found" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="huckster">
+    <roleset id="huckster.01" name="to sell, peddle">
+      <roles>
+        <role descr="seller" f="PAG" n="0"/>
+        <role descr="entity huckstering for" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

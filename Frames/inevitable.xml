@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="inevitable">
+    <roleset id="inevitable.01" name="inescapable, bound to happen">
+      <roles>
+        <role descr="agent of the inevitable thing" f="pag" n="0"/>
+        <role descr="thing that is inevitable" f="ppt" n="1"/>
+        <role descr="entity undergoing the inevitable thing" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

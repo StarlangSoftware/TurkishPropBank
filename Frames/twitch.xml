@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="twitch">
+    <roleset id="twitch.01" name="(cause to) move spastically">
+      <roles>
+        <role descr="causer of motion" f="PAG" n="0"/>
+        <role descr="thing twitching" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

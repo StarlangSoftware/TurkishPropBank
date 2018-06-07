@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="narrate">
+    <roleset id="narrate.01" name="spoken commentary for pictures/film/etc">
+      <roles>
+        <role descr="narrater" f="PAG" n="0"/>
+        <role descr="thing narrated" f="PPT" n="1"/>
+        <role descr="benefactive" f="GOL" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

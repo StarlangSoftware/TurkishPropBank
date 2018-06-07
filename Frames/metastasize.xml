@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="metastasize">
+    <roleset id="metastasize.101" name="to spread to other sites in the body">
+      <roles>
+        <role descr="Disease or tumor undergoing metastasis" f="ppt" n="1"/>
+        <role descr="Destination" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

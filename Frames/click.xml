@@ -1,0 +1,16 @@
+<frameset>
+  <predicate lemma="click">
+    <roleset id="click.01" name="(cause to) emit clicking sound">
+      <roles>
+        <role descr="causer of clicking noise" f="PAG" n="0"/>
+        <role descr="thing emitting clicks" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="click.02" name="have good relations">
+      <roles>
+        <role descr="entity 1" f="pag" n="1"/>
+        <role descr="entity 2" f="com" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

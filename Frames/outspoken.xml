@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="outspoken">
+    <roleset id="outspoken.01" name="candid">
+      <roles>
+        <role descr="speaker" f="pag" n="0"/>
+        <role descr="topic" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

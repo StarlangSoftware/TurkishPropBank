@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="ascribe">
+    <roleset id="ascribe.01" name="assign attribute">
+      <roles>
+        <role descr="assigner" f="pag" n="0"/>
+        <role descr="thing assigned (attribute)" f="ppt" n="1"/>
+        <role descr="assigned to" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

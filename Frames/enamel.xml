@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="enamel">
+    <roleset id="enamel.01" name="cover with (often colored) enamel">
+      <roles>
+        <role descr="agent, coverer" f="pag" n="0"/>
+        <role descr="entity covered in enamel" f="ppt" n="1"/>
+        <role descr="the color, enamel itself" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

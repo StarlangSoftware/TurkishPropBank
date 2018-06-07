@@ -1,0 +1,18 @@
+<frameset>
+  <predicate lemma="design">
+    <roleset id="design.01" name="design">
+      <roles>
+        <role descr="designer" f="pag" n="0"/>
+        <role descr="thing designed" f="prd" n="1"/>
+        <role descr="benefactive" f="gol" n="2"/>
+        <role descr="purpose" f="prp" n="3"/>
+      </roles>
+    </roleset>
+    <roleset id="design.02" name="intentions, big plans that one is angling for">
+      <roles>
+        <role descr="intent one" f="pag" n="0"/>
+        <role descr="intentions" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

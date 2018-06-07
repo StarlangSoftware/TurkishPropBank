@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="absent">
+    <roleset id="absent.01" name="cause to be absent, not being there, no longer present">
+      <roles>
+        
+        <role descr="causer, agent" f="pag" n="0"/>
+        <role descr="absent entity" f="ppt" n="1"/>
+        <role descr="absent from what" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

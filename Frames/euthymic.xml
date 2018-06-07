@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="euthymic">
+    <roleset id="euthymic.01" name="normal, reasonably positive mood">
+      <roles>
+        <role descr="entity with a normal mood" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

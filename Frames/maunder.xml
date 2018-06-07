@@ -1,0 +1,17 @@
+<frameset>
+  <predicate lemma="maunder">
+    <roleset id="maunder.01" name="to wander aimlessly">
+      <roles>
+        <role descr="wanderer" f="ppt" n="1"/>
+        <role descr="path, range wandered" f="loc" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="maunder.02" name="to talk indistinctly or senselessly">
+      <roles>
+        <role descr="speaker" f="pag" n="0"/>
+        <role descr="utterance, topic" f="ppt" n="1"/>
+        <role descr="listener" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

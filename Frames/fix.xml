@@ -1,0 +1,34 @@
+<frameset>
+  <predicate lemma="fix">
+    <roleset id="fix.01" name="prepare, make">
+      <roles>
+        <role descr="maker, preparer" f="pag" n="0"/>
+        <role descr="thing made" f="ppt" n="1"/>
+        <role descr="benefactive" f="gol" n="3"/>
+      </roles>
+    </roleset>
+    <roleset id="fix.02" name="repair">
+      <roles>
+        <role descr="repairer" f="pag" n="0"/>
+        <role descr="thing repaired" f="ppt" n="1"/>
+        <role descr="benefactive" f="gol" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="fix.03" name="establish, set, set location">
+      <roles>
+        <role descr="agent, setter" f="pag" n="0"/>
+        <role descr="thing set" f="ppt" n="1"/>
+        <role descr="location, position, attribute" f="loc" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="fix_up">
+    <roleset id="fix_up.04" name="set somebody up">
+      <roles>
+        <role descr="agent" f="pag" n="0"/>
+        <role descr="person fixed up" f="ppt" n="1"/>
+        <role descr="fixed up with" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

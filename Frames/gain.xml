@@ -1,0 +1,21 @@
+<frameset>
+  <predicate lemma="gain">
+    <roleset id="gain.01" name="increase, rise">
+      <roles>
+        <role descr="Logical subject, patient, thing rising" f="ppt" n="1"/>
+        <role descr="EXT, amount risen" f="ext" n="2"/>
+        <role descr="start point" f="dir" n="3"/>
+        <role descr="end point" f="gol" n="4"/>
+        <role descr="specific aspect of arg1 gaining" f="loc" n="5"/>
+      </roles>
+    </roleset>
+    <roleset id="gain.02" name="acquire">
+      <roles>
+        <role descr="agent, entity acquiring something" f="pag" n="0"/>
+        <role descr="thing acquired" f="ppt" n="1"/>
+        <role descr="source, gained from" f="dir" n="2"/>
+        <role descr="benefactive, gained for" f="gol" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

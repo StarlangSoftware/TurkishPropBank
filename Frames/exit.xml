@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="exit">
+    <roleset id="exit.01" name="leave">
+      <roles>
+        <role descr="departed entity" f="PPT" n="0"/>
+        <role descr="place exited" f="LOC" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

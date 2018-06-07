@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="lend">
+    <roleset id="lend.01" name="give temporarily, allowing to borrow">
+      <roles>
+        <role descr="lender" f="PAG" n="0"/>
+        <role descr="thing lent" f="PPT" n="1"/>
+        <role descr="lent-to" f="GOL" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

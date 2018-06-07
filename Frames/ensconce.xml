@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="ensconce">
+    <roleset id="ensconce.01" name="to settle">
+      <roles>
+        <role descr="who put what where, agent" f="pag" n="0"/>
+        <role descr="entity ensconced" f="ppt" n="1"/>
+        <role descr="place" f="loc" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,62 @@
+<frameset>
+  <predicate lemma="finish">
+    <roleset id="finish.01" name="cause to stop, stopped, completed">
+      <roles>
+        <role descr="Intentional agent" f="pag" n="0"/>
+        <role descr="Thing finishing" f="ppt" n="1"/>
+        <role descr="Explicit instrument, thing finished with" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="finish.02" name="terminate, conclude or terminate">
+      <roles>
+        <role descr="thing closing" f="ppt" n="1"/>
+        <role descr="MNR up, down, or unchanged, or degree of change" f="mnr" n="m"/>
+        <role descr="EXT end point" f="ext" n="m"/>
+      </roles>
+    </roleset>
+    <roleset id="finish.03" name="apply a finish, as to wood">
+      <roles>
+        <role descr="painter, agent" f="pag" n="0"/>
+        <role descr="surface" f="ppt" n="1"/>
+        <role descr="finish itself, stain or varnish" f="prd" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="finish.07" name="completing a contest of some sort (often a race)">
+      <roles>
+        <role descr="finisher" f="pag" n="0"/>
+        <role descr="contest completed" f="ppt" n="1"/>
+        <role descr="rank upon finish" f="ext" n="2"/>
+        <role descr="other competitors" f="vsp" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="finish_up">
+    <roleset id="finish_up.04" name="to bring (a project) to completion">
+      <roles>
+        <role descr="intentional agent" f="pag" n="0"/>
+        <role descr="thing finishing" f="ppt" n="1"/>
+        <role descr="explicit instrument" f="mnr" n="2"/>
+        <role descr="point at which thing finishes" f="gol" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="finish_off">
+    <roleset id="finish_off.05" name="finish completely">
+      <roles>
+        <role descr="agent, cause of finishing" f="pag" n="0"/>
+        <role descr="theme, entity coming to completion" f="ppt" n="1"/>
+        <role descr="instrument" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="finish_out">
+    <roleset id="finish_out.06" name="finish completely">
+      <roles>
+        <role descr="finisher, agent of finishing" f="pag" n="0"/>
+        <role descr="thing finished" f="ppt" n="1"/>
+        <role descr="Instrument, thing finished out with" f="mnr" n="2"/>
+        <role descr="point at which arg1 ends" f="gol" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

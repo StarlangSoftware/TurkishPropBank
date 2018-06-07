@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="disclose">
+    <roleset id="disclose.01" name="say">
+      <roles>
+        <role descr="Sayer" f="pag" n="0"/>
+        <role descr="Utterance" f="ppt" n="1"/>
+        <role descr="Hearer" f="gol" n="2"/>
+        <role descr="Attributive" f="prd" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="overtax">
+    <roleset id="overtax.01" name="charge too much tax">
+      <roles>
+        <role descr="taxer" f="pag" n="0"/>
+        <role descr="amount of tax" f="ppt" n="1"/>
+        <role descr="taxpayer" f="gol" n="2"/>
+        <role descr="commodity" f="vsp" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

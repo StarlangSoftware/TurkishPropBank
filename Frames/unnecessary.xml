@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="unnecessary">
+    <roleset id="unnecessary.01" name="non-essential">
+      <roles>
+        <role descr="non-essential entity" f="pag" n="1"/>
+        <role descr="not essential to/for what" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

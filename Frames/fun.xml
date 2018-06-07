@@ -1,0 +1,24 @@
+<frameset>
+  <predicate lemma="fun">
+    <roleset id="fun.01" name="enjoyment, amusement">
+      <roles>
+        <role descr="Experiencer of fun" f="pag" n="0"/>
+        <role descr="Stimulus, what was fun/enjoyed?" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="funny">
+    <roleset id="funny.02" name="amusing, humorous">
+      <roles>
+        <role descr="experiencer" f="pag" n="0"/>
+        <role descr="amusing thing (concatenate if necessary)" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="funny.03" name="odd, possibly suspicious">
+      <roles>
+        <role descr="experiencer" f="pag" n="0"/>
+        <role descr="strange/suspicious thing" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

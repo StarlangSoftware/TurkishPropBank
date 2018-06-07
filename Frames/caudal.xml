@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="caudal">
+    <roleset id="caudal.01" name="be posterior to">
+      <roles>
+        <role descr="entity in back, topic" f="ppt" n="1"/>
+        <role descr="entity in front" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

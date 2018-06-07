@@ -1,0 +1,15 @@
+<frameset>
+  <predicate lemma="conscious">
+    <roleset id="conscious.01" name="knowing, aware of">
+      <roles>
+        <role descr="aware, knowing one" f="pag" n="0"/>
+        <role descr="aware of, knowledge" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="conscious.02" name="awake from a cognitive/medical standpoint">
+      <roles>
+        <role descr="awake entity" f="pag" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

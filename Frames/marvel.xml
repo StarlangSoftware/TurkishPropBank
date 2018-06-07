@@ -1,0 +1,17 @@
+<frameset>
+  <predicate lemma="marvel">
+    <roleset id="marvel.01" name="be amazed">
+      <roles>
+        <role descr="experiencer of marvelation :)" f="ppt" n="0"/>
+        <role descr="marvellous thing" f="pag" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="marvel.02" name="express amazement">
+      <roles>
+        <role descr="speaker" f="pag" n="0"/>
+        <role descr="utterance" f="ppt" n="1"/>
+        <role descr="listener" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

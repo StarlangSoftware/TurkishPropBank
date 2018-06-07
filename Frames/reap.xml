@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="reap">
+    <roleset id="reap.01" name="take as harvest">
+      <roles>
+        <role descr="receiver" f="PAG" n="0"/>
+        <role descr="harvest" f="PPT" n="1"/>
+        <role descr="received from" f="DIR" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

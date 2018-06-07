@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="sate">
+    <roleset id="sate.01" name="satisfy">
+      <roles>
+        <role descr="agent" f="pag" n="0"/>
+        <role descr="patient, entity fulfilled" f="ppt" n="1"/>
+        <role descr="instrument, if seperate from arg 0" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

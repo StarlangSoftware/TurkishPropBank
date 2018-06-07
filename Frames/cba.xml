@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="cba">
+    <roleset id="cba.01" name="acronym for 'can't be arsed' (bothered)">
+      <roles>
+        <role descr="entity who can't be bothered." f="pag" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

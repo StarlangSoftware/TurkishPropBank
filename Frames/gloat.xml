@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="gloat">
+    <roleset id="gloat.01" name="to feel or express great self-satisfaction">
+      <roles>
+        <role descr="person gloating" f="PPT" n="0"/>
+        <role descr="topic/cause of gloating" f="PAG" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="defog">
+    <roleset id="defog.01" name="remove fog">
+      <roles>
+        <role descr="remover" f="PAG" n="0"/>
+        <role descr="thing defogged" f="DIR" n="1"/>
+        <role descr="fog, thing removed" f="PPT" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

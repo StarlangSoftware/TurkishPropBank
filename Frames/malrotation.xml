@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="malrotation">
+    <roleset id="malrotation.01" name="abnormal rotation">
+      <roles>
+        <role descr="Cause of malrotation" f="pag" n="0"/>
+        <role descr="Thing rotating abnormally" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

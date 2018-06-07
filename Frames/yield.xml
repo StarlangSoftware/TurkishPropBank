@@ -1,0 +1,33 @@
+<frameset>
+  <predicate lemma="yield">
+    <roleset id="yield.01" name="result in, produce">
+      <roles>
+        <role descr="thing yielding" f="pag" n="0"/>
+        <role descr="thing yielded" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="yield.02" name="give way, give in to another">
+      <roles>
+        <role descr="Thing giving way" f="pag" n="0"/>
+        <role descr="what's lost" f="ppt" n="1"/>
+        <role descr="recipient" f="gol" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="yield.03" name="give a dividend">
+      <roles>
+        <role descr="thing providing a dividend" f="pag" n="0"/>
+        <role descr="dividend, earnings" f="ppt" n="1"/>
+        <role descr="recipient" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="yield_up">
+    <roleset id="yield_up.04" name="same as yield.02 with aspectual particle">
+      <roles>
+        <role descr="Giver" f="pag" n="0"/>
+        <role descr="Thing given away, lost" f="ppt" n="1"/>
+        <role descr="Recipient" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

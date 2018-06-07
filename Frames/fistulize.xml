@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="fistulize">
+    <roleset id="fistulize.01" name="cause to create an abnormal passageway">
+      <roles>
+        <role descr="cause" f="pag" n="0"/>
+        <role descr="thing created, pathway" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

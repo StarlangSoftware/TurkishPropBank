@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="conducive">
+    <roleset id="conducive.01" name="favorable and contributing towards">
+      <roles>
+        <role descr="conducive thing" f="pag" n="1"/>
+        <role descr="favorable/contributing towards" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

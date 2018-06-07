@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="worthwhile">
+    <roleset id="worthwhile.01" name="worthy of spending time on">
+      <roles>
+        <role descr="worthwhile thing" f="pag" n="1"/>
+        <role descr="worthy of what, if explicitly stated" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

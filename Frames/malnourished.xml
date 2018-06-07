@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="malnourished">
+    <roleset id="malnourished.01" name="having received insufficient nourishment">
+      <roles>
+        <role descr="malnourished entity" f="ppt" n="1"/>
+        <role descr="nourishment lacked" f="vsp" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

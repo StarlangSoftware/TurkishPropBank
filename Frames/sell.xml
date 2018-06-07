@@ -1,0 +1,52 @@
+<frameset>
+  <predicate lemma="sell">
+    <roleset id="sell.01" name="commerce: seller, giving in exchange for money">
+      <roles>
+        <role descr="Seller" f="pag" n="0"/>
+        <role descr="Thing Sold" f="ppt" n="1"/>
+        <role descr="Buyer" f="gol" n="2"/>
+        <role descr="Price Paid" f="vsp" n="3"/>
+        <role descr="Benefactive" f="gol" n="4"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="sell_out">
+    <roleset id="sell_out.02" name="give in to the man">
+      <roles>
+        <role descr="entity selling out" f="pag" n="0"/>
+        <role descr="entity sold out" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="sell_out.03" name="sell until none is/are left">
+      <roles>
+        <role descr="Seller" f="pag" n="0"/>
+        <role descr="Thing Sold" f="ppt" n="1"/>
+        <role descr="Buyer" f="gol" n="2"/>
+        <role descr="Price Paid" f="vsp" n="3"/>
+        <role descr="Benefactive" f="gol" n="4"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="sell_off">
+    <roleset id="sell_off.04" name="sell">
+      <roles>
+        <role descr="Seller" f="pag" n="0"/>
+        <role descr="Thing Sold" f="ppt" n="1"/>
+        <role descr="Buyer" f="gol" n="2"/>
+        <role descr="Price Paid" f="vsp" n="3"/>
+        <role descr="Benefactive" f="gol" n="4"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="sale">
+    <roleset id="sale.05" name="alternate expression of sell; put on sale, put up for sale">
+      <roles>
+        <role descr="seller" f="pag" n="0"/>
+        <role descr="thing sold" f="ppt" n="1"/>
+        <role descr="buyer, sold to whom" f="gol" n="2"/>
+        <role descr="price paid" f="vsp" n="3"/>
+        <role descr="benefactive" f="vsp" n="4"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

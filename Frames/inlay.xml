@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="inlay">
+    <roleset id="inlay.01" name="put on decoration">
+      <roles>
+        <role descr="artisan, decorator" f="PAG" n="0"/>
+        <role descr="surface, hole" f="GOL" n="1"/>
+        <role descr="decorative material" f="PPT" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

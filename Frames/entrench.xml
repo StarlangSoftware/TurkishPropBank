@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="entrench">
+    <roleset id="entrench.01" name="set somebody more firmly in a position">
+      <roles>
+        <role descr="thing causing entrenchment" f="pag" n="0"/>
+        <role descr="entity becoming more firm in its position" f="ppt" n="1"/>
+        <role descr="position" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

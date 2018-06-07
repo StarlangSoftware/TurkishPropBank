@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="dedifferentiate">
+    <roleset id="dedifferentiate.01" name="revert from specialization">
+      <roles>
+        <role descr="thing reverting" f="ppt" n="1"/>
+        <role descr="former specialized realization" f="dir" n="2"/>
+        <role descr="more general realization" f="prd" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

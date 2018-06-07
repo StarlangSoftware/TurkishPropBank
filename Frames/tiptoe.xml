@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="tiptoe">
+    <roleset id="tiptoe.01" name="to walk or move quietly on one's toes">
+      <roles>
+        <role descr="entity walking" f="PPT" n="0"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

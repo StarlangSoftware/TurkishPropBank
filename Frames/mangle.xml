@@ -1,0 +1,17 @@
+<frameset>
+  <predicate lemma="mangle">
+    <roleset id="mangle.01" name="flatten fabric using a mangle">
+      <roles>
+        <role descr="agent/mangler" f="PAG" n="0"/>
+        <role descr="thing flattened" f="PPT" n="1"/>
+        <role descr="the mangle" f="MNR" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="mangle.02" name="destroy, making unrecognizable">
+      <roles>
+        <role descr="agent, causer of mangling" f="PAG" n="0"/>
+        <role descr="patient, thing destroyed" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

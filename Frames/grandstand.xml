@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="grandstand">
+    <roleset id="grandstand.01" name="perform">
+      <roles>
+        <role descr="performer" f="pag" n="0"/>
+        <role descr="performance, thing performed" f="ppt" n="1"/>
+        <role descr="instrument" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

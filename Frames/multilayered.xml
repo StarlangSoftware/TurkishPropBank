@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="multilayered">
+    <roleset id="multilayered.01" name="consisting of multiple layers">
+      <roles>
+        <role descr="thing having multiple layers" f="ppt" n="1"/>
+        <role descr="the layers" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

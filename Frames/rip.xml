@@ -1,0 +1,55 @@
+<frameset>
+  <predicate lemma="rip">
+    <roleset id="rip.01" name="to tear apart">
+      <roles>
+        <role descr="ripper, agent" f="pag" n="0"/>
+        <role descr="entity ripped" f="ppt" n="1"/>
+        <role descr="ripped from" f="dir" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="rip.02" name="to move violently">
+      <roles>
+        <role descr="entity moving" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="rip.06" name="to transfer data on a portable device to a hard drive">
+      <roles>
+        <role descr="ripper, agent of transfer" f="pag" n="0"/>
+        <role descr="thing ripped, transferred" f="ppt" n="1"/>
+        <role descr="ripped-to, destination of data" f="gol" n="2"/>
+        <role descr="ripped-from, source of data" f="dir" n="3"/>
+      </roles>
+    </roleset>
+    <roleset id="rip.07" name="criticize harshly">
+      <roles>
+        <role descr="critic" f="pag" n="0"/>
+        <role descr="criticized entity" f="ppt" n="1"/>
+        <role descr="reason for criticism" f="cau" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="rip_out">
+    <roleset id="rip_out.03" name="to tear apart">
+      <roles>
+        <role descr="ripper" f="pag" n="0"/>
+        <role descr="entity ripped out" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="rip_off">
+    <roleset id="rip_off.04" name="to exploit, steal">
+      <roles>
+        <role descr="exploiter" f="pag" n="0"/>
+        <role descr="entity ripped off" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="rip_up">
+    <roleset id="rip_up.05" name="remove">
+      <roles>
+        <role descr="remover" f="pag" n="0"/>
+        <role descr="thing removed" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="into">
+    <roleset id="into.01" name="be enthusiastic to be involved in/with">
+      <roles>
+        <role descr="enthusiastic entity" f="pag" n="1"/>
+        <role descr="enthusiasm for what" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

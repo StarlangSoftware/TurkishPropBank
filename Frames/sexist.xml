@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="sexist">
+    <roleset id="sexist.01" name="biases against a certain gender">
+      <roles>
+        <role descr="sexist entity/action (may require concatenation)" f="pag" n="1"/>
+        <role descr="against which gender" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

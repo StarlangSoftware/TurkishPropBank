@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="postmark">
+    <roleset id="postmark.01" name="to stamp with a postmark">
+      <roles>
+        <role descr="applier of stamp, agent" f="pag" n="0"/>
+        <role descr="letter" f="ppt" n="1"/>
+        <role descr="temporal attribute" f="tmp" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

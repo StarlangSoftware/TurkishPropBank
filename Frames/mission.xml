@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="mission">
+    <roleset id="mission.01" name="purposeful attempt">
+      <roles>
+        <role descr="agent/entity trying" f="pag" n="0"/>
+        <role descr="(purpose of) attempt" f="ppt" n="1"/>
+        <role descr="(anti)benefactive" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="panhandle">
+    <roleset id="panhandle.01" name="accost someone in order to beg">
+      <roles>
+        <role descr="begger, panhandler" f="pag" n="0"/>
+        <role descr="person accosted" f="ppt" n="1"/>
+        <role descr="money, item panhandler is begging for from arg 1" f="vsp" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

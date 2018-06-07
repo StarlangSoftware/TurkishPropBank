@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="reconstruct">
+    <roleset id="reconstruct.01" name="rebuild">
+      <roles>
+        <role descr="rebuilder" f="pag" n="0"/>
+        <role descr="former ruins" f="ppt" n="1"/>
+        <role descr="material, start state" f="vsp" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

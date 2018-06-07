@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="conflict">
+    <roleset id="conflict.01" name="to be or come into opposition, to come into conflict, be in opposition">
+      <roles>
+        <role descr="agentive clasher, or all clashers in one constituent" f="pag" n="0"/>
+        <role descr="entity clashed with" f="com" n="1"/>
+        <role descr="entity clashed over" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

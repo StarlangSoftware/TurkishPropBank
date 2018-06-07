@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="waggle">
+    <roleset id="waggle.01" name="waggle">
+      <roles>
+        <role descr="waggler, agent" f="PAG" n="0"/>
+        <role descr="thing waggled" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

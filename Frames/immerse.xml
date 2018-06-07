@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="immerse">
+    <roleset id="immerse.01" name="to engage wholly or deeply, engulf completely">
+      <roles>
+        <role descr="causer of immersion" f="pag" n="0"/>
+        <role descr="entity immersed" f="ppt" n="1"/>
+        <role descr="entity immersed into" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

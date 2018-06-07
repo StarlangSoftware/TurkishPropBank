@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="defect">
+    <roleset id="defect.01" name="to abandon a position or association">
+      <roles>
+        <role descr="double agent, defector" f="pag" n="0"/>
+        <role descr="entity defected from" f="dir" n="1"/>
+        <role descr="entity defected to" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

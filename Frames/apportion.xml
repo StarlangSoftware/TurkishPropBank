@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="apportion">
+    <roleset id="apportion.01" name="divide and assign proportionally">
+      <roles>
+        <role descr="divider" f="PAG" n="0"/>
+        <role descr="thing divided" f="PPT" n="1"/>
+        <role descr="benefactive" f="GOL" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="rifle">
+    <roleset id="rifle.01" name="rifle">
+      <roles>
+        <role descr="agent, thief, rifler" f="PAG" n="0"/>
+        <role descr="where/through what/source" f="loc" n="1"/>
+        <role descr="in search of" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

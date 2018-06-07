@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="assay">
+    <roleset id="assay.01" name="assess, analyze for content/skill">
+      <roles>
+        <role descr="assessor" f="pag" n="0"/>
+        <role descr="entity tested" f="ppt" n="1"/>
+        <role descr="tested for what" f="vsp" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

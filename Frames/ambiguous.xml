@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="ambiguous">
+    <roleset id="ambiguous.01" name="unclear as to meaning, unspecific">
+      <roles>
+        <role descr="agent of evasive, ambiguous action" f="pag" n="0"/>
+        <role descr="ambiuous action, thing" f="ppt" n="1"/>
+        <role descr="target of ambiguous behavior" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

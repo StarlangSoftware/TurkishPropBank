@@ -1,0 +1,23 @@
+<frameset>
+  <predicate lemma="jam">
+    <roleset id="jam.01" name="to pack to excess, cram, packed with something obstructing">
+      <roles>
+        <role descr="packer, agent" f="pag" n="0"/>
+        <role descr="entity jammed" f="ppt" n="1"/>
+        <role descr="location, destination" f="gol" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="jam.02" name="enjoy music">
+      <roles>
+        <role descr="player of instrument" f="pag" n="0"/>
+        <role descr="music listener" f="ppt" n="1"/>
+        <role descr="music" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="jam.03" name="move dancingly">
+      <roles>
+        <role descr="dancing/moving entity" f="pag" n="0"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

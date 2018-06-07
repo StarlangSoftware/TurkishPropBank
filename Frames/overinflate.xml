@@ -1,0 +1,13 @@
+<frameset>
+  <predicate lemma="overinflate">
+    <roleset id="overinflate.01" name="inflate too much">
+      <roles>
+        <role descr="causer of expansion, agent" f="pag" n="0"/>
+        <role descr="thing growing" f="ppt" n="1"/>
+        <role descr="amount increased by, EXT or MNR" f="ext" n="2"/>
+        <role descr="start point" f="dir" n="3"/>
+        <role descr="end point" f="gol" n="4"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

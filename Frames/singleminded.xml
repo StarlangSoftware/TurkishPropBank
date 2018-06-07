@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="singleminded">
+    <roleset id="singleminded.01" name="having a one track mind">
+      <roles>
+        <role descr="entity with a one track mind" f="pag" n="1"/>
+        <role descr="about what" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

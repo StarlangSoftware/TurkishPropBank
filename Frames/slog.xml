@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="slog">
+    <roleset id="slog.01" name="to walk or proceed  with a slow heavy pace">
+      <roles>
+        <role descr="entity in motion" f="PPT" n="0"/>
+        <role descr="obstacle" f="LOC" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

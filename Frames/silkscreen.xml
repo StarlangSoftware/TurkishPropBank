@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="silkscreen">
+    <roleset id="silkscreen.01" name="silkscreen">
+      <roles>
+        <role descr="silkscreener, agent" f="PAG" n="0"/>
+        <role descr="thing silkscreened, theme" f="PPT" n="1"/>
+        <role descr="silkscreened for whom, beneficiary" f="GOL" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,17 @@
+<frameset>
+  <predicate lemma="update">
+    <roleset id="update.01" name="make more modern, bring up to date">
+      <roles>
+        <role descr="updater" f="pag" n="0"/>
+        <role descr="thing becoming more modern" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="update.02" name="tell someone news as it comes">
+      <roles>
+        <role descr="teller" f="pag" n="0"/>
+        <role descr="hearer" f="gol" n="1"/>
+        <role descr="news" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

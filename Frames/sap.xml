@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="sap">
+    <roleset id="sap.01" name="deplete of resources">
+      <roles>
+        <role descr="remover" f="PAG" n="0"/>
+        <role descr="resources" f="PPT" n="1"/>
+        <role descr="source" f="DIR" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

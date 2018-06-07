@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="ligate">
+    <roleset id="ligate.01" name="bind with a bandage or ligature, binding with a ligature or bandage (so as to seal off a vessel or fallopian tube)">
+      <roles>
+        <role descr="person doing the binding" f="PAG" n="0"/>
+        <role descr="item binding" f="PPT" n="1"/>
+        <role descr="instrument" f="mnr" n="2"/>
+        <role descr="binded to" f="PPT" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="sojourn">
+    <roleset id="sojourn.01" name="dwell in a place as a temporary resident/stranger">
+      <roles>
+        <role descr="traveller" f="PPT" n="0"/>
+        <role descr="location of travelling/temporary dwelling" f="LOC" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

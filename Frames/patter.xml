@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="patter">
+    <roleset id="patter.01" name="patter">
+      <roles>
+        <role descr="causer of pattering, agent (transitive subject)" f="PAG" n="0"/>
+        <role descr="thing emitting pattering noise, theme (intransitive subject, transitive object)" f="PPT" n="1"/>
+        <role descr="loctation of pattering" f="LOC" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

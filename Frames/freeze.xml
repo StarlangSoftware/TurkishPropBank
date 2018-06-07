@@ -1,0 +1,26 @@
+<frameset>
+  <predicate lemma="freeze">
+    <roleset id="freeze.01" name="cause to be frozen, very cold weather condition">
+      <roles>
+        <role descr="causer of freezing" f="pag" n="0"/>
+        <role descr="thing freezing" f="ppt" n="1"/>
+        <role descr="secondary predication on arg1" f="prd" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="freeze.02" name="block">
+      <roles>
+        <role descr="blocker, Agent" f="pag" n="0"/>
+        <role descr="Theme (action or object being stopped)" f="ppt" n="1"/>
+        <role descr="attribute of arg1" f="prd" n="2"/>
+        <role descr="Instrument" f="mnr" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="freeze_over">
+    <roleset id="freeze_over.03" name="freeze completely">
+      <roles>
+        <role descr="thing freezing over" f="pag" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

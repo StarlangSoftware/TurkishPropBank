@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="defray">
+    <roleset id="defray.01" name="to pay or furnish money for costs/expenses">
+      <roles>
+        <role descr="supplier, agent" f="pag" n="0"/>
+        <role descr="entity furnished, usually expenses/money" f="ppt" n="1"/>
+        <role descr="expenses costs of what? entity purchased when separate mention from arg 1." f="vsp" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

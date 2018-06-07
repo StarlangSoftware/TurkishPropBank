@@ -1,0 +1,13 @@
+<frameset>
+  <predicate lemma="tote">
+    <roleset id="tote.01" name="carry, lug">
+      <roles>
+        <role descr="carrier" f="pag" n="0"/>
+        <role descr="thing carried" f="ppt" n="1"/>
+        <role descr="instrument" f="mnr" n="2"/>
+        <role descr="'with' reflecting back on arg0" f="rec" n="3"/>
+        <role descr="benefactive (predicted but not seen)" f="gol" n="4"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

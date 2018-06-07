@@ -1,0 +1,20 @@
+<frameset>
+  <predicate lemma="motivate">
+    <roleset id="motivate.01" name="impelled action, giving inspiration">
+      <roles>
+        <role descr="motivation" f="pag" n="0"/>
+        <role descr="impelled agent" f="ppt" n="1"/>
+        <role descr="impelled action" f="prd" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="motivate.02" name="justify">
+      <roles>
+        <role descr="justifier" f="pag" n="0"/>
+        <role descr="decision or attitude being shown to be right" f="ppt" n="1"/>
+        <role descr="explicit instrument" f="mnr" n="2"/>
+        <role descr="secondary predication on arg1" f="prd" n="3"/>
+        <role descr="benefactive, justified to" f="gol" n="4"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

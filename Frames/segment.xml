@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="segment">
+    <roleset id="segment.01" name="divide object into pieces">
+      <roles>
+        <role descr="agent, divider" f="pag" n="0"/>
+        <role descr="whole object" f="ppt" n="1"/>
+        <role descr="pieces" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

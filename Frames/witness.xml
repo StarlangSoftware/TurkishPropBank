@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="witness">
+    <roleset id="witness.01" name="to observe, see, or be a site of">
+      <roles>
+        <role descr="agent, entity witnessing" f="pag" n="0"/>
+        <role descr="thing witnessed" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

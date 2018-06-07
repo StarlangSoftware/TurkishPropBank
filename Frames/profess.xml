@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="profess">
+    <roleset id="profess.01" name="announce">
+      <roles>
+        <role descr="professor" f="pag" n="0"/>
+        <role descr="utterance" f="ppt" n="1"/>
+        <role descr="hearer" f="gol" n="2"/>
+        <role descr="attributive" f="prd" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

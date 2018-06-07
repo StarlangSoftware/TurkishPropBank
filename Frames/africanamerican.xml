@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="africanamerican">
+    <roleset id="africanamerican.01" name="american, of african descent">
+      <roles>
+        <role descr="african american entity" f="pag" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

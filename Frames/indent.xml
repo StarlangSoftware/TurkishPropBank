@@ -1,0 +1,17 @@
+<frameset>
+  <predicate lemma="indent">
+    <roleset id="indent.01" name="to make an indentation">
+      <roles>
+        <role descr="agent, indenter" f="pag" n="0"/>
+        <role descr="thing indented, dented" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="indent.02" name="indenture as servent">
+      <roles>
+        <role descr="Causing of indenturing" f="pag" n="0"/>
+        <role descr="entity made servant" f="ppt" n="1"/>
+        <role descr="master, entity indentured to" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

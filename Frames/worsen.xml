@@ -1,0 +1,49 @@
+<frameset>
+  <predicate lemma="worsen">
+    <roleset id="worsen.01" name="(cause to) become worse">
+      <roles>
+        <role descr="causer of badness, worsening" f="pag" n="0"/>
+        <role descr="generally negative, displeasing entity" f="ppt" n="1"/>
+        <role descr="entity for whom arg1 is getting worse" f="pag" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="bad">
+    <roleset id="bad.02" name="unskilled at, ineffective">
+      <roles>
+        <role descr="unskilled, inffective entity" f="pag" n="1"/>
+        <role descr="non-skill" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="bad.03" name="expired, curdled, rancid, gone bad, etc.">
+      <roles>
+        <role descr="expired thing" f="pag" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="bad.04" name="harmful for">
+      <roles>
+        <role descr="harmful thing" f="pag" n="1"/>
+        <role descr="anti-beneficiary" f="gol" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="bad.05" name="extensive, intense">
+      <roles>
+        <role descr="extensive thing" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="bad.07" name="generally negative, morally bad, displeasing">
+      <roles>
+        <role descr="causer of badness, worsening" f="pag" n="0"/>
+        <role descr="generally negative, displeasing entity" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="bad_off">
+    <roleset id="bad_off.06" name="in unfortunate circumstances/condition">
+      <roles>
+        <role descr="entity in unfortunate circumstances" f="ppt" n="1"/>
+        <role descr="the unfortunate circumstances" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

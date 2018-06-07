@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="unswerving">
+    <roleset id="unswerving.01" name="steadfast">
+      <roles>
+        <role descr="steadfast entity" f="pag" n="0"/>
+        <role descr="path held to" f="vsp" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

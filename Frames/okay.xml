@@ -1,0 +1,29 @@
+<frameset>
+  <predicate lemma="okay">
+    <roleset id="okay.01" name="allow, permit">
+      <roles>
+        <role descr="okay-er, entity giving permission" f="pag" n="0"/>
+        <role descr="ok thing," f="ppt" n="1"/>
+        <role descr="entity FOR whom arg1 is ok, having permission to undergo arg1" f="gol" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="okay.02" name="having an average amount of skill at">
+      <roles>
+        <role descr="marginally skilled entity" f="pag" n="1"/>
+        <role descr="skill" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="okay.03" name="moderately beneficial, healthy">
+      <roles>
+        <role descr="thing that is moderately beneficial" f="pag" n="1"/>
+        <role descr="beneficiary" f="gol" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="okay.04" name="generally alright">
+      <roles>
+        <role descr="generally alright thing" f="pag" n="1"/>
+        <role descr="target of ok behavior" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

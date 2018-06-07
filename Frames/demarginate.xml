@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="demarginate">
+    <roleset id="demarginate.01" name="returning of leukocytes to circulating pool in response to stress, seizures, chemical cause">
+      <roles>
+        <role descr="Agent or cause of demargination- intentional" f="pag" n="0"/>
+        <role descr="Entity demarginating" f="ppt" n="1"/>
+        <role descr="Instrument- unintentional cause of demargination" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

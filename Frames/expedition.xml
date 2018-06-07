@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="expedition">
+    <roleset id="expedition.01" name="adventurous trip">
+      <roles>
+        <role descr="traveler" f="pag" n="0"/>
+        <role descr="type/purpose of trip" f="adj" n="1"/>
+        <role descr="destination/location" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

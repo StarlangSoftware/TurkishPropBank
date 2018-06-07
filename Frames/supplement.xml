@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="supplement">
+    <roleset id="supplement.01" name="add to, enhance, adding to">
+      <roles>
+        <role descr="intentional agent" f="pag" n="0"/>
+        <role descr="thing enhanced, added to" f="ppt" n="1"/>
+        <role descr="the supplement itself" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

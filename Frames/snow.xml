@@ -1,0 +1,20 @@
+<frameset>
+  <predicate lemma="snow">
+    <roleset id="snow.01" name="weather phenomenon, ">
+      <roles>
+        <role descr="cause of snow (no empty weather 'it's)" f="pag" n="0"/>
+        <role descr="the snow itself" f="ppt" n="1"/>
+        <role descr="entity, location snowed on; snowy place" f="loc" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="snowy">
+    <roleset id="snowy.02" name="having snow around, maybe in the air">
+      <roles>
+        <role descr="causer of snowiness" f="pag" n="0"/>
+        <role descr="the 'snow' itself (no empty weather 'it's)" f="ppt" n="1"/>
+        <role descr="snowy location" f="loc" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

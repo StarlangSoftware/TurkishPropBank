@@ -1,0 +1,19 @@
+<frameset>
+  <predicate lemma="usher">
+    <roleset id="usher.02" name="lead, escort">
+      <roles>
+        <role descr="usher" f="pag" n="0"/>
+        <role descr="person or event ushered" f="ppt" n="1"/>
+        <role descr="destination" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="usher_in">
+    <roleset id="usher_in.01" name="signal the start of">
+      <roles>
+        <role descr="signal" f="pag" n="0"/>
+        <role descr="thing starting" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

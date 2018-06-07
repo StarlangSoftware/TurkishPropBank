@@ -1,0 +1,16 @@
+<frameset>
+  <predicate lemma="prevail">
+    <roleset id="prevail.01" name="win">
+      <roles>
+        <role descr="winner" f="pag" n="0"/>
+        <role descr="loser" f="ppt" n="1"/>
+        <role descr="competition" f="vsp" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="prevail.02" name="exist, continue on">
+      <roles>
+        <role descr="thing that exists" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

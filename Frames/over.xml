@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="over">
+    <roleset id="over.01" name="finished, completed, no longer occuring">
+      <roles>
+        <role descr="thing that is no longer occurring" f="pag" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

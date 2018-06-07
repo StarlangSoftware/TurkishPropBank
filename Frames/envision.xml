@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="envision">
+    <roleset id="envision.01" name="imagine">
+      <roles>
+        <role descr="imaginer" f="PAG" n="0"/>
+        <role descr="imagined" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

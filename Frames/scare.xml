@@ -1,0 +1,30 @@
+<frameset>
+  <predicate lemma="scare">
+    <roleset id="scare.01" name="(cause to) become afraid, afraid">
+      <roles>
+        <role descr="scary entity" f="pag" n="0"/>
+        <role descr="scared entity" f="ppt" n="1"/>
+        <role descr="instrument (if separate from arg0)" f="mnr" n="2"/>
+        <role descr="intensifier, extent" f="ext" n="3"/>
+      </roles>
+    </roleset>
+    <roleset id="scare.02" name="scare and make go away, or into motion">
+      <roles>
+        <role descr="intentional agent of scaring" f="pag" n="0"/>
+        <role descr="scared entity" f="ppt" n="1"/>
+        <role descr="instrument" f="mnr" n="2"/>
+        <role descr="direction or resulting action" f="dir" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="scary">
+    <roleset id="scary.03" name="frightening">
+      <roles>
+        <role descr="scary entity" f="pag" n="0"/>
+        <role descr="scared entity" f="ppt" n="1"/>
+        <role descr="instrument" f="mnr" n="2"/>
+        <role descr="intensifier, extent" f="ext" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

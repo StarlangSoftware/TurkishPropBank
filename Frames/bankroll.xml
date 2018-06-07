@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="bankroll">
+    <roleset id="bankroll.01" name="provide funding for">
+      <roles>
+        <role descr="financ(i)er" f="pag" n="0"/>
+        <role descr="thing financed" f="ppt" n="1"/>
+        <role descr="money" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

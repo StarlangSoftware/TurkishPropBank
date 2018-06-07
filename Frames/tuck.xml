@@ -1,0 +1,28 @@
+<frameset>
+  <predicate lemma="tuck">
+    <roleset id="tuck.01" name="put securely">
+      <roles>
+        <role descr="tucker" f="pag" n="0"/>
+        <role descr="tucked" f="ppt" n="1"/>
+        <role descr="place" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="tuck_away">
+    <roleset id="tuck_away.02" name="give criminal sentence">
+      <roles>
+        <role descr="tucker" f="pag" n="0"/>
+        <role descr="tucked" f="ppt" n="1"/>
+        <role descr="sentence" f="ext" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="tuck_in">
+    <roleset id="tuck_in.03" name="put your shirt in your pants">
+      <roles>
+        <role descr="tucker" f="pag" n="0"/>
+        <role descr="shirt" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

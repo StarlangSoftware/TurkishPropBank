@@ -1,0 +1,23 @@
+<frameset>
+  <predicate lemma="abuse">
+    <roleset id="abuse.01" name="mistreat a person or animal, often repeatedly, with violence or with cruelty">
+      <roles>
+        <role descr="abuser, agent" f="PAG" n="0"/>
+        <role descr="entity abused" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="abuse.02" name="use (something) to bad effect or for a bad purpose; misuse">
+      <roles>
+        <role descr="user" f="pag" n="0"/>
+        <role descr="thing misused" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="abuse.03" name="use offending language">
+      <roles>
+        <role descr="abuser, agent" f="pag" n="0"/>
+        <role descr="entity insulted" f="ppt" n="1"/>
+        <role descr="explicit mention of utterance or insult" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

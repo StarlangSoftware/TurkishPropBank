@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="outsell">
+    <roleset id="outsell.01" name="sell better">
+      <roles>
+        <role descr="better seller" f="pag" n="0"/>
+        <role descr="other seller" f="ppt" n="1"/>
+        <role descr="margin" f="ext" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

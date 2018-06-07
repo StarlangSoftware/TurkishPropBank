@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="chauffeur">
+    <roleset id="chauffeur.01" name="to serve as a driver, transport">
+      <roles>
+        <role descr="driver" f="PAG" n="0"/>
+        <role descr="person chauffeured" f="GOL" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

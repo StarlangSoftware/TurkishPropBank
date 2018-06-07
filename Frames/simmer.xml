@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="simmer">
+    <roleset id="simmer.01" name="to boil slowly">
+      <roles>
+        <role descr="cook, agent" f="PAG" n="0"/>
+        <role descr="entity simmering" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

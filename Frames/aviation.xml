@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="aviation">
+    <roleset id="aviation.01" name="fly an aircraft">
+      <roles>
+        <role descr="agent, one flying the plane" f="pag" n="0"/>
+        <role descr="aircraft" f="ppt" n="1"/>
+        <role descr="passanger, one riding but not flying the plane" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

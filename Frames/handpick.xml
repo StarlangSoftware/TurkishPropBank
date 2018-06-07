@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="handpick">
+    <roleset id="handpick.01" name="pick by hand">
+      <roles>
+        <role descr="picker" f="pag" n="0"/>
+        <role descr="thing picked" f="ppt" n="1"/>
+        <role descr="group or source, picked from" f="dir" n="2"/>
+        <role descr="beneficiary" f="gol" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

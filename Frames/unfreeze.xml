@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="unfreeze">
+    <roleset id="unfreeze.01" name="(cause to) thaw, or by metaphorical extension, become mobile, active again">
+      <roles>
+        <role descr="agent" f="pag" n="0"/>
+        <role descr="thing thawing, becoming mobile/active" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

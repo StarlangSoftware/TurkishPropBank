@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="begrudge">
+    <roleset id="begrudge.01" name="resent">
+      <roles>
+        <role descr="resenter" f="pag" n="0"/>
+        <role descr="thing or person begrudged" f="ppt" n="1"/>
+        <role descr="because-of, why does arg 0 begrudge arg 1?" f="cau" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

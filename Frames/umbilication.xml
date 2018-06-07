@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="umbilication">
+    <roleset id="umbilication.01" name="creating a navel-like depression or dimpling">
+      <roles>
+        <role descr="causer" f="pag" n="0"/>
+        <role descr="entity with depression" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

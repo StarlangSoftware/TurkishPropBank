@@ -1,0 +1,50 @@
+<frameset>
+  <predicate lemma="fly">
+    <roleset id="fly.01" name="fly through the air, travel via air, fly in a flock.,">
+      <roles>
+        <role descr="pilot, agentive entity capable of flight (like a bird)" f="pag" n="0"/>
+        <role descr="passenger, cargo" f="ppt" n="1"/>
+        <role descr="aircraft flown, flight number, steed, non-agentive thing in motion" f="vsp" n="2"/>
+        <role descr="type of flight plan, mission, cognate object (like 'a flight' or 'sorties')" f="vsp" n="3"/>
+        <role descr="airline" f="gol" n="4"/>
+      </roles>
+    </roleset>
+    <roleset id="fly.02" name="fly in the face of: flout">
+      <roles>
+        <role descr="flouter" f="pag" n="0"/>
+        <role descr="&quot;in the face of __&quot;" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="fly.03" name="hit a fly ball, has strange past participle">
+      <roles>
+        <role descr="hitter" f="pag" n="0"/>
+        <role descr="bases" f="ppt" n="1"/>
+        <role descr="where player moves to after hitting fly ball" f="gol" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="fly.06" name="(cause to) hold a spatial configuration in the air">
+      <roles>
+        <role descr="causal agent" f="pag" n="0"/>
+        <role descr="thing suspended in the air" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="fly_out">
+    <roleset id="fly_out.04" name="vpc version of fly.03, hit a fly ball">
+      <roles>
+        <role descr="hitter" f="pag" n="0"/>
+        <role descr="bases" f="ppt" n="1"/>
+        <role descr="where the player moves to after hitting fly ball" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="flee">
+    <roleset id="flee.05" name="running away">
+      <roles>
+        <role descr="entity fleeing" f="ppt" n="0"/>
+        <role descr="person/place/condition fled from" f="dir" n="1"/>
+        <role descr="destination" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

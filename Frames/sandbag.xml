@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="sandbag">
+    <roleset id="sandbag.01" name="place sandbags">
+      <roles>
+        <role descr="Bag placer" f="PAG" n="0"/>
+        <role descr="specific mention of the bag" f="ppt" n="1"/>
+        <role descr="recipient; entity fortified" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="ectatic">
+    <roleset id="ectatic.01" name="suffering dilation of a hollow organ/canal">
+      <roles>
+        <role descr="ectatic entity" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

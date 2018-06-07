@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="rival">
+    <roleset id="rival.01" name="to attempt to equal or surpass">
+      <roles>
+        <role descr="competitor" f="pag" n="0"/>
+        <role descr="competing with" f="ppt" n="1"/>
+        <role descr="competion goal" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

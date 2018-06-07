@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="record">
+    <roleset id="record.01" name="make a permanent record">
+      <roles>
+        <role descr="recorder" f="PAG" n="0"/>
+        <role descr="record" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

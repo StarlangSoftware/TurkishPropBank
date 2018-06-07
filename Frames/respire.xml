@@ -1,0 +1,16 @@
+<frameset>
+  <predicate lemma="respire">
+    <roleset id="respire.01" name="breathe">
+      <roles>
+        <role descr="Breather" f="ppt" n="0"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="respiratory">
+    <roleset id="respiratory.02" name="relating to breathing">
+      <roles>
+        <role descr="thing that relates to breath" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

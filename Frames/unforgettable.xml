@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="unforgettable">
+    <roleset id="unforgettable.01" name="certain to be remembered">
+      <roles>
+        <role descr="entity who can't forget" f="pag" n="0"/>
+        <role descr="thing not forgotten" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

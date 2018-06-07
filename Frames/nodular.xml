@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="nodular">
+    <roleset id="nodular.01" name="characterized by little lumps/knots">
+      <roles>
+        <role descr="nodular thing" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

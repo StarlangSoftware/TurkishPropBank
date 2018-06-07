@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="depict">
+    <roleset id="depict.01" name="show to be">
+      <roles>
+        <role descr="agent, depictor" f="PAG" n="0"/>
+        <role descr="thing described" f="PPT" n="1"/>
+        <role descr="attribute" f="PRD" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

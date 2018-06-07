@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="accident">
+    <roleset id="accident.01" name="screw-up, unplanned event that may or may not cause damage">
+      <roles>
+        <role descr="causer of accident, entity who screws up" f="pag" n="0"/>
+        <role descr="type of accident" f="vsp" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

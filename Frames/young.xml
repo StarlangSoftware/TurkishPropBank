@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="young">
+    <roleset id="young.01" name="youthful, in the early stages of existence">
+      <roles>
+        <role descr="young one" f="pag" n="1"/>
+        <role descr="age" f="ext" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

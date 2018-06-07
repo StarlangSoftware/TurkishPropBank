@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="impede">
+    <roleset id="impede.01" name="hinder, try to stop">
+      <roles>
+        <role descr="entity attempting to stop something" f="pag" n="0"/>
+        <role descr="Theme (action or object being prevented)" f="ppt" n="1"/>
+        <role descr="secondary predication or action" f="prd" n="2"/>
+        <role descr="instrument" f="mnr" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

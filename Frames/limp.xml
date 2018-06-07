@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="limp">
+    <roleset id="limp.01" name="to move or proceed haltingly or unsteadily">
+      <roles>
+        <role descr="limper, agent" f="PAG" n="0"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

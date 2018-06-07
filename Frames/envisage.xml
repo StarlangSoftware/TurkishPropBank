@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="envisage">
+    <roleset id="envisage.01" name="imagine">
+      <roles>
+        <role descr="thinker" f="PAG" n="0"/>
+        <role descr="object, thing under consideration" f="PPT" n="1"/>
+        <role descr="attribute" f="PRD" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

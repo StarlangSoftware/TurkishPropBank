@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="brumate">
+    <roleset id="brumate.01" name="be in a lethargic, hibernation like state">
+      <roles>
+        <role descr="lethargic animal" f="pag" n="0"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

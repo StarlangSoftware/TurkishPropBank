@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="bartend">
+    <roleset id="bartend.01" name="act as a bartender">
+      <roles>
+        <role descr="bartender" f="pag" n="0"/>
+        <role descr="bar/employer" f="gol" n="1"/>
+        <role descr="entity served" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

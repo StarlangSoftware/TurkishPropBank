@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="implausible">
+    <roleset id="implausible.01" name="unlikely, unbelievable">
+      <roles>
+        <role descr="unlikely thing" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

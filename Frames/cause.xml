@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="cause">
+    <roleset id="cause.01" name="impelled action">
+      <roles>
+        <role descr="forcer, causer" f="cau" n="0"/>
+        <role descr="impelled action" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

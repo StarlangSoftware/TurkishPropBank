@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="beleaguer">
+    <roleset id="beleaguer.01" name="harass">
+      <roles>
+        <role descr="agent, beleaguer-er" f="PAG" n="0"/>
+        <role descr="harassed entity" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="problematic">
+    <roleset id="problematic.01" name="causing problems">
+      <roles>
+        <role descr="causer of problems" f="pag" n="0"/>
+        <role descr="the problem (problematic of)" f="ppt" n="1"/>
+        <role descr="sufferer of problems" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

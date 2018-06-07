@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="insurrection">
+    <roleset id="insurrection.01" name="revolt or rebellion, uprising">
+      <roles>
+        <role descr="revolter, first fighting party" f="pag" n="0"/>
+        <role descr="rebelling against, fought with, second fighting party" f="ppt" n="1"/>
+        <role descr="fighting about or over" f="cau" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

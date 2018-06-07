@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="benign">
+    <roleset id="benign.01" name="not malignant, dangerous to health">
+      <roles>
+        <role descr="tumor/tissue" f="ppt" n="1"/>
+        <role descr="cancer or other disease not found (if in addition to arg1)" f="vsp" n="2"/>
+        <role descr="medical patient" f="gol" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

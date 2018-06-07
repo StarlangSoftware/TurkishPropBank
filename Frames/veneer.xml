@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="veneer">
+    <roleset id="veneer.01" name="veneer">
+      <roles>
+        <role descr="agent, veneerer" f="pag" n="0"/>
+        <role descr="veneered with what, theme" f="ppt" n="1"/>
+        <role descr="thing veneered, destination" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

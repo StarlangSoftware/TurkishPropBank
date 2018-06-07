@@ -1,0 +1,18 @@
+<frameset>
+  <predicate lemma="dismiss">
+    <roleset id="dismiss.01" name="remove, release">
+      <roles>
+        <role descr="entity removing" f="pag" n="0"/>
+        <role descr="thing being removed" f="ppt" n="1"/>
+        <role descr="removed from, former position" f="dir" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="dismiss.02" name="label contemptuously">
+      <roles>
+        <role descr="labeller" f="pag" n="0"/>
+        <role descr="labelled" f="ppt" n="1"/>
+        <role descr="labelled as" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

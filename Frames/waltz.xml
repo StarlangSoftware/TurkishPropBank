@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="waltz">
+    <roleset id="waltz.01" name="waltz">
+      <roles>
+        <role descr="waltzer(s)" f="PPT" n="0"/>
+        <role descr="explicit mention of dance itself (rare), or path" f="LOC" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="recite">
+    <roleset id="recite.01" name="utter memorized passage">
+      <roles>
+        <role descr="speaker" f="PAG" n="0"/>
+        <role descr="utterance" f="ppt" n="1"/>
+        <role descr="audience or listener" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

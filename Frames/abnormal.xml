@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="abnormal">
+    <roleset id="abnormal.01" name="non-standard or atypical, abnormal">
+      <roles>
+        <role descr="atypical thing" f="pag" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

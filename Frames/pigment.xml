@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="pigment">
+    <roleset id="pigment.01" name="to add color or pigment to something">
+      <roles>
+        <role descr="Agent, person adding pigment" f="pag" n="0"/>
+        <role descr="Thing pigment is added to" f="ppt" n="1"/>
+        <role descr="Pigment/color substance, if explicit" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

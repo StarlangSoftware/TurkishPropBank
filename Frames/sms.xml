@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="sms">
+    <roleset id="sms.01" name="send via text message, 'short message service'">
+      <roles>
+        <role descr="text sender" f="pag" n="0"/>
+        <role descr="text" f="ppt" n="1"/>
+        <role descr="recipient" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

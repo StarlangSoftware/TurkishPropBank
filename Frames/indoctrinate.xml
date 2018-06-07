@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="indoctrinate">
+    <roleset id="indoctrinate.01" name="brainwash">
+      <roles>
+        <role descr="brainwasher" f="pag" n="0"/>
+        <role descr="victim" f="gol" n="1"/>
+        <role descr="dogma" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

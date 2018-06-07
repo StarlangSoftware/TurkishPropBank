@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="pretreat">
+    <roleset id="pretreat.01" name="treat once, usually with a chemical, before the main cure">
+      <roles>
+        <role descr="doctor" f="pag" n="0"/>
+        <role descr="patient" f="ppt" n="1"/>
+        <role descr="illness or injury" f="cau" n="2"/>
+        <role descr="instrument" f="mnr" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="crenate">
+    <roleset id="crenate.01" name="formation of abnormal notching around the edge (of a cell, etc) due to water loss">
+      <roles>
+        <role descr="Agent, causer of crenation" f="pag" n="0"/>
+        <role descr="Entity crenated" f="ppt" n="1"/>
+        <role descr="Instrument, if separate from Arg0" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

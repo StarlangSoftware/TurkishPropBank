@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="supersede">
+    <roleset id="supersede.01" name="to replace">
+      <roles>
+        <role descr="entity replacing" f="PAG" n="0"/>
+        <role descr="entity replaced" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

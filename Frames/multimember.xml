@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="multimember">
+    <roleset id="multimember.01" name="having multiple members">
+      <roles>
+        <role descr="group" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

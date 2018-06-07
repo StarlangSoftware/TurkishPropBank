@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="encircle">
+    <roleset id="encircle.01" name="(cause to) be around">
+      <roles>
+        <role descr="causer of encirclement" f="pag" n="0"/>
+        <role descr="thing encircling, being around" f="ppt" n="1"/>
+        <role descr="thing surrounded" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

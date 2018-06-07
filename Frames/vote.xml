@@ -1,0 +1,27 @@
+<frameset>
+  <predicate lemma="vote">
+    <roleset id="vote.01" name="cast a ballot">
+      <roles>
+        <role descr="voter" f="pag" n="0"/>
+        <role descr="candidate or ballot issue" f="ppt" n="1"/>
+        <role descr="numerical count of vote, margin, down/up" f="prd" n="2"/>
+        <role descr="electorate for whom arg0 is a proxy voter" f="gol" n="3"/>
+      </roles>
+    </roleset>
+    <roleset id="vote.02" name="give via legislative process">
+      <roles>
+        <role descr="giver" f="pag" n="0"/>
+        <role descr="gift" f="ppt" n="1"/>
+        <role descr="recipient" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="vote_down">
+    <roleset id="vote_down.03" name="vote against">
+      <roles>
+        <role descr="voter" f="pag" n="0"/>
+        <role descr="defeated issue" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

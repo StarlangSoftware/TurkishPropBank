@@ -1,0 +1,18 @@
+<frameset>
+  <predicate lemma="hassle">
+    <roleset id="hassle.01" name="harass">
+      <roles>
+        <role descr="hassler" f="pag" n="0"/>
+        <role descr="entity being hassled" f="ppt" n="1"/>
+        <role descr="about what" f="cau" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="hassle.02" name="harassment">
+      <roles>
+        <role descr="thing that is a hassle" f="pag" n="0"/>
+        <role descr="entity being hassled" f="ppt" n="1"/>
+        <role descr="specific aspect of arg0 that is a hassle" f="vsp" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

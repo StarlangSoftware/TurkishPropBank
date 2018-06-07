@@ -1,0 +1,39 @@
+<frameset>
+  <predicate lemma="grind">
+    <roleset id="grind.01" name="make smaller, crush">
+      <roles>
+        <role descr="grinder" f="pag" n="0"/>
+        <role descr="thing crushed" f="ppt" n="1"/>
+        <role descr="end state" f="prd" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="grind.03" name="emit grinding sound">
+      <roles>
+        <role descr="thing making sound" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="grind.04" name="idiomatic: grind to a [stop|halt]">
+      <roles>
+        <role descr="causer of stopping" f="pag" n="0"/>
+        <role descr="thing stopping" f="ppt" n="1"/>
+        <role descr="stop, halt, etc" f="gol" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="grind.05" name="move with difficulty">
+      <roles>
+        <role descr="mover" f="pag" n="0"/>
+        <role descr="moved" f="ppt" n="1"/>
+        <role descr="destination" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="grind_up">
+    <roleset id="grind_up.02" name="make smaller, crush">
+      <roles>
+        <role descr="agent" f="pag" n="0"/>
+        <role descr="thing crushed" f="ppt" n="1"/>
+        <role descr="end state" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

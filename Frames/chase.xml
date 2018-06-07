@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="chase">
+    <roleset id="chase.01" name="follow, pursue">
+      <roles>
+        <role descr="follower" f="pag" n="0"/>
+        <role descr="thing followed" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

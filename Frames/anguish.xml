@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="anguish">
+    <roleset id="anguish.01" name="worry; be tormented">
+      <roles>
+        <role descr="anguished one" f="PPT" n="0"/>
+        <role descr="cause for anguish" f="PAG" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

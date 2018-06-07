@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="field">
+    <roleset id="field.01" name="to answer successfully or put into action (incl. sports)">
+      <roles>
+        <role descr="fielder, agent" f="PAG" n="0"/>
+        <role descr="question, proposal, thing put into action" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

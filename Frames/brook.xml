@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="brook">
+    <roleset id="brook.01" name="put up with something unpleasant">
+      <roles>
+        <role descr="entity suffering" f="PAG" n="0"/>
+        <role descr="difficulty, unpleasant entity" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

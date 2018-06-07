@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="traffic">
+    <roleset id="traffic.01" name="buy or sell">
+      <roles>
+        <role descr="seller" f="pag" n="0"/>
+        <role descr="item sold" f="ppt" n="1"/>
+        <role descr="buyer" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

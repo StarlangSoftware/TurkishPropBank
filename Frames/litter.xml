@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="litter">
+    <roleset id="litter.01" name="fail to put garbage in the   right place">
+      <roles>
+        <role descr="litterbug" f="PAG" n="0"/>
+        <role descr="where garbage ended up" f="GOL" n="1"/>
+        <role descr="garbage" f="PPT" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

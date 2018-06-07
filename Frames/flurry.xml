@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="flurry">
+    <roleset id="flurry.01" name="run or series of">
+      <roles>
+        <role descr="thing falling, mass" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

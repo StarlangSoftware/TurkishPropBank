@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="tepid">
+    <roleset id="tepid.01" name="lukewarm">
+      <roles>
+        <role descr="tepid entity" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="reawaken">
+    <roleset id="reawaken.01" name="to wake or make aware again">
+      <roles>
+        <role descr="cause of awakeing, agent" f="pag" n="0"/>
+        <role descr="entity awake" f="ppt" n="1"/>
+        <role descr="entity becoming aware of" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

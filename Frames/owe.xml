@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="owe">
+    <roleset id="owe.01" name="payment outstanding">
+      <roles>
+        <role descr="payer or buyer" f="PAG" n="0"/>
+        <role descr="price paid" f="PPT" n="1"/>
+        <role descr="seller or person being paid" f="GOL" n="2"/>
+        <role descr="commodity" f="PPT" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

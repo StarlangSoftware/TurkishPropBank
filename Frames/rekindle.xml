@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="rekindle">
+    <roleset id="rekindle.01" name="start a fire again">
+      <roles>
+        <role descr="firestarter" f="PAG" n="0"/>
+        <role descr="fire" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

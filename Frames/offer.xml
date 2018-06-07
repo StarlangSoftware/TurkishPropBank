@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="offer">
+    <roleset id="offer.01" name="transaction, proposal">
+      <roles>
+        <role descr="entity offering" f="pag" n="0"/>
+        <role descr="commodity" f="ppt" n="1"/>
+        <role descr="price" f="vsp" n="2"/>
+        <role descr="benefactive or entity offered to" f="gol" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

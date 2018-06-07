@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="proper">
+    <roleset id="proper.01" name="suitable, appropriate">
+      <roles>
+        <role descr="Proper thing" f="pag" n="1"/>
+        <role descr="Proper for, suited to what?" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

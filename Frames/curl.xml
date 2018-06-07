@@ -1,0 +1,25 @@
+<frameset>
+  <predicate lemma="curl">
+    <roleset id="curl.01" name="(cause to) be coiled, spiraled">
+      <roles>
+        <role descr="causer of coiling" f="pag" n="0"/>
+        <role descr="coiled thing" f="ppt" n="1"/>
+        <role descr="secondary attribute" f="loc" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="curl_up">
+    <roleset id="curl_up.02" name="exist in curved state">
+      <roles>
+        <role descr="curved entity" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="curling">
+    <roleset id="curling.03" name="ice sport">
+      <roles>
+        <role descr="sportsman, team" f="pag" n="0"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

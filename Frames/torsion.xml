@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="torsion">
+    <roleset id="torsion.01" name="twisting or wrenching of an entity">
+      <roles>
+        <role descr="Agent" f="pag" n="0"/>
+        <role descr="Entity twisted" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

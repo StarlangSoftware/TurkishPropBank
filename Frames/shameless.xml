@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="shameless">
+    <roleset id="shameless.01" name="not having any shame, self-consciousness">
+      <roles>
+        <role descr="shameless entity/act (may require concatenation)" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

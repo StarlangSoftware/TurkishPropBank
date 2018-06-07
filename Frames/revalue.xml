@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="revalue">
+    <roleset id="revalue.01" name="establish a value, again">
+      <roles>
+        <role descr="entity establishing value" f="pag" n="0"/>
+        <role descr="entity with value" f="ppt" n="1"/>
+        <role descr="value" f="vsp" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

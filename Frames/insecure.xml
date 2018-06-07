@@ -1,0 +1,16 @@
+<frameset>
+  <predicate lemma="insecure">
+    <roleset id="insecure.01" name="feel emotional insecurities">
+      <roles>
+        <role descr="experiencer of insecurity" f="pag" n="1"/>
+        <role descr="area of insecurity" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="insecure.02" name="not safe, strapped down well, etc.">
+      <roles>
+        <role descr="cause of non-secure state" f="cau" n="0"/>
+        <role descr="thing that isn't safe, secure" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="bathe">
+    <roleset id="bathe.01" name="have a bath, giving or having a bath">
+      <roles>
+        <role descr="Agent of bathing" f="pag" n="0"/>
+        <role descr="Thing washed, dirt, patient" f="ppt" n="1"/>
+        <role descr="Liquid bathed in" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

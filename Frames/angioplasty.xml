@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="angioplasty">
+    <roleset id="angioplasty.01" name="mechanically widening a narrowed or obstructed blood vessel">
+      <roles>
+        <role descr="Agent, surgeon" f="PAG" n="0"/>
+        <role descr="Angioplastied entity (patient or blood vessel)" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

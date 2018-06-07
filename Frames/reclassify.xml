@@ -1,0 +1,17 @@
+<frameset>
+  <predicate lemma="reclassify">
+    <roleset id="reclassify.01" name="assign a label or attribute">
+      <roles>
+        <role descr="describer" f="pag" n="0"/>
+        <role descr="thing defined" f="ppt" n="1"/>
+        <role descr="secondary attribute, described-as, definition" f="prd" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="reclassify.02" name="make/keep secret">
+      <roles>
+        <role descr="secret-keeper" f="pag" n="0"/>
+        <role descr="secret" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

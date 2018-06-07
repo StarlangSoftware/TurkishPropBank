@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="parameterize">
+    <roleset id="parameterize.01" name="Describe or represent in terms of a parameter">
+      <roles>
+        <role descr="describer" f="pag" n="0"/>
+        <role descr="entity described" f="ppt" n="1"/>
+        <role descr="secondary attribute" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

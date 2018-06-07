@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="disquiet">
+    <roleset id="disquiet.01" name="upset, cause anxiety in">
+      <roles>
+        <role descr="causer of disquiet" f="pag" n="0"/>
+        <role descr="disquieted" f="ppt" n="1"/>
+        <role descr="instrument or manner if separate from arg 0" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

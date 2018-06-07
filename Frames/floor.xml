@@ -1,0 +1,18 @@
+<frameset>
+  <predicate lemma="floor">
+    <roleset id="floor.01" name="to bring to the floor, literally or metaphorically, by shocking or striking">
+      <roles>
+        <role descr="cause of flooring" f="pag" n="0"/>
+        <role descr="floored entity" f="ppt" n="1"/>
+        <role descr="Instrument or Manner if separate from Arg 0" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="floor.02" name="to cover or furnish with a floor">
+      <roles>
+        <role descr="Causer of covering, flooring" f="pag" n="0"/>
+        <role descr="Ground covered" f="ppt" n="1"/>
+        <role descr="Covered with what, floor material" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

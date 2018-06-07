@@ -1,0 +1,54 @@
+<frameset>
+  <predicate lemma="beat">
+    <roleset id="beat.01" name="strike">
+      <roles>
+        <role descr="agent, hitter - animate only!" f="pag" n="0"/>
+        <role descr="thing hit" f="ppt" n="1"/>
+        <role descr="instrument, thing hit by or with" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="beat.02" name="(cause) pulsating motion that often makes sound">
+      <roles>
+        <role descr="causer of motion" f="pag" n="0"/>
+        <role descr="thing moving" f="ppt" n="1"/>
+        <role descr="direction, destination" f="dir" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="beat.03" name="win over some competitor">
+      <roles>
+        <role descr="winner" f="pag" n="0"/>
+        <role descr="loser" f="ppt" n="1"/>
+        <role descr="competition" f="vsp" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="beat_out">
+    <roleset id="beat_out.04" name="win over some opponent">
+      <roles>
+        <role descr="winner" f="pag" n="0"/>
+        <role descr="loser" f="ppt" n="1"/>
+        <role descr="competition" f="vsp" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="beat_up">
+    <roleset id="beat_up.05" name="strike repeatedly">
+      <roles>
+        <role descr="agent, hitter - animate only!" f="pag" n="0"/>
+        <role descr="thing hit" f="ppt" n="1"/>
+        <role descr="instrument, thing hit by or with" f="mnr" n="2"/>
+        <role descr="topic, reason for beating" f="vsp" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="beat_down">
+    <roleset id="beat_down.06" name="thoroughly punish, put in place">
+      <roles>
+        <role descr="beater" f="pag" n="0"/>
+        <role descr="victim" f="ppt" n="1"/>
+        <role descr="instrument" f="mnr" n="2"/>
+        <role descr="topic, reason for beatdown" f="vsp" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

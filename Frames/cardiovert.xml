@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="cardiovert">
+    <roleset id="cardiovert.01" name="subject to a cardioversion, correcting cardiac arrythmia using electric current or medication">
+      <roles>
+        <role descr="agent/ doctor" f="pag" n="0"/>
+        <role descr="patient undergoing procedure" f="ppt" n="1"/>
+        <role descr="instrument" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

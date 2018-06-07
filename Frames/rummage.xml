@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="rummage">
+    <roleset id="rummage.01" name="dig for something">
+      <roles>
+        <role descr="digger, delver" f="PAG" n="0"/>
+        <role descr="dug/delved into/through" f="LOC" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="eligible">
+    <roleset id="eligible.01" name="qualified to be chosen">
+      <roles>
+        <role descr="qualified entity" f="pag" n="1"/>
+        <role descr="qualified for what" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

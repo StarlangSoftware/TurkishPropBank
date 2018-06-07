@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="abdominal">
+    <roleset id="abdominal.01" name="of the abdomen">
+      <roles>
+        <role descr="abdominal entity" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

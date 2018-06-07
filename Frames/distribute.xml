@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="distribute">
+    <roleset id="distribute.01" name="distribute">
+      <roles>
+        <role descr="distributor" f="PAG" n="0"/>
+        <role descr="thing distributed" f="PPT" n="1"/>
+        <role descr="distributed to" f="GOL" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

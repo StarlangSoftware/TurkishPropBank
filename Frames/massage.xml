@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="massage">
+    <roleset id="massage.01" name="lay on hands">
+      <roles>
+        <role descr="masseur/masseuse" f="PAG" n="0"/>
+        <role descr="lucky patient" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

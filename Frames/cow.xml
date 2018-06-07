@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="cow">
+    <roleset id="cow.01" name="to make timid and submissive">
+      <roles>
+        <role descr="intimidating entity" f="pag" n="0"/>
+        <role descr="entity intimidated" f="ppt" n="1"/>
+        <role descr="Manner or Instrument if separate from Arg 0" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

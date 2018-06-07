@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="strop">
+    <roleset id="strop.01" name="sharpen">
+      <roles>
+        <role descr="agent" f="PAG" n="0"/>
+        <role descr="razor" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

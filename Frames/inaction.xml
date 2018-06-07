@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="inaction">
+    <roleset id="inaction.01" name="not doing anything, not engaging in activity">
+      <roles>
+        <role descr="non-actor" f="pag" n="0"/>
+        <role descr="grounds not acted upon" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

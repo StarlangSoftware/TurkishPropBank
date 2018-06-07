@@ -1,0 +1,18 @@
+<frameset>
+  <predicate lemma="trick">
+    <roleset id="trick.01" name="to deceive">
+      <roles>
+        <role descr="deceiver, agent" f="pag" n="0"/>
+        <role descr="entity tricked" f="ppt" n="1"/>
+        <role descr="tricked into doing what?" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="tricky">
+    <roleset id="tricky.02" name="difficult">
+      <roles>
+        <role descr="difficult thing (may require concatenation)" f="pag" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

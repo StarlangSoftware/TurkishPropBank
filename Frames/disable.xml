@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="disable">
+    <roleset id="disable.01" name="make not work">
+      <roles>
+        <role descr="disabler" f="PAG" n="0"/>
+        <role descr="thing not working" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

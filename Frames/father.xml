@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="father">
+    <roleset id="father.01" name="father children">
+      <roles>
+        <role descr="father" f="PAG" n="0"/>
+        <role descr="child" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

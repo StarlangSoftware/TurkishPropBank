@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="caffeinate">
+    <roleset id="caffeinate.01" name="cause to contain caffeine, adding caffeine">
+      <roles>
+        <role descr="agent, causer, caffeine adder" f="pag" n="0"/>
+        <role descr="recipient, entity caffeine is added to" f="ppt" n="1"/>
+        <role descr="instument" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="dawdle">
+    <roleset id="dawdle.01" name="not be prompt">
+      <roles>
+        <role descr="dawdler" f="PAG" n="0"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

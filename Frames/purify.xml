@@ -1,0 +1,20 @@
+<frameset>
+  <predicate lemma="purify">
+    <roleset id="purify.01" name="make pure, remove impurities">
+      <roles>
+        <role descr="cause, agent" f="pag" n="0"/>
+        <role descr="contaminated thing, containing impurities" f="gol" n="1"/>
+        <role descr="impurities/contaminants" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="pure">
+    <roleset id="pure.02" name="free of impurities">
+      <roles>
+        <role descr="cause, agent" f="pag" n="0"/>
+        <role descr="contaminated thing, containing impurities" f="gol" n="1"/>
+        <role descr="impurities/contaminants" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,13 @@
+<frameset>
+  <predicate lemma="interpolate">
+    <roleset id="interpolate.01" name="extend, increase">
+      <roles>
+        <role descr="causer, agent" f="pag" n="0"/>
+        <role descr="thing interpolating" f="ppt" n="1"/>
+        <role descr="interpolated by or with" f="mnr" n="2"/>
+        <role descr="start point" f="dir" n="3"/>
+        <role descr="end point" f="gol" n="4"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

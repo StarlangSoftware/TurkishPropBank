@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="flagellate">
+    <roleset id="flagellate.01" name="flog">
+      <roles>
+        <role descr="hitter" f="pag" n="0"/>
+        <role descr="victim" f="ppt" n="1"/>
+        <role descr="resulting state" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

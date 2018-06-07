@@ -1,0 +1,16 @@
+<frameset>
+  <predicate lemma="taste">
+    <roleset id="taste.01" name="use one's tastebuds, active perception of flavor">
+      <roles>
+        <role descr="taster" f="pag" n="0"/>
+        <role descr="food" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="taste.02" name="possess a flavor">
+      <roles>
+        <role descr="thing with flavor" f="pag" n="1"/>
+        <role descr="description of flavor" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

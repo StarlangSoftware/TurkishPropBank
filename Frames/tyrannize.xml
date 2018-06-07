@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="tyrannize">
+    <roleset id="tyrannize.01" name="act like a tyrant, terrorize">
+      <roles>
+        <role descr="tyrant" f="pag" n="0"/>
+        <role descr="people tyrannized" f="ppt" n="1"/>
+        <role descr="instrument(s) of terror!" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,22 @@
+<frameset>
+  <predicate lemma="notch">
+    <roleset id="notch.01" name="make a notch, mark">
+      <roles>
+        <role descr="agent, entity marking" f="pag" n="0"/>
+        <role descr="thing being commemorated" f="ppt" n="1"/>
+        <role descr="thing gaining the notch (ie, belt)" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="notch.02" name="move incrementally">
+      <roles>
+        <role descr="entity moving something" f="pag" n="0"/>
+        <role descr="Logical subject, patient, thing moving" f="ppt" n="1"/>
+        <role descr="EXT, amount moved" f="ext" n="2"/>
+        <role descr="start point" f="dir" n="3"/>
+        <role descr="end point" f="gol" n="4"/>
+        <role descr="medium" f="loc" n="m"/>
+        <role descr="direction--REQUIRED" f="dir" n="m"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

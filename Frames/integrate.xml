@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="integrate">
+    <roleset id="integrate.01" name="blend, mix">
+      <roles>
+        <role descr="mixer, integrater" f="PAG" n="0"/>
+        <role descr="first (or all) thing(s) being integrated" f="PPT" n="1"/>
+        <role descr="integrated into (second thing)" f="PPT" n="2"/>
+        <role descr="attribute of arg1 that is actually undergoing integration" f="vsp" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

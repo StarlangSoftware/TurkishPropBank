@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="freckle">
+    <roleset id="freckle.01" name="mark with freckles">
+      <roles>
+        <role descr="agent, marker" f="pag" n="0"/>
+        <role descr="location, entity marked with freckles" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

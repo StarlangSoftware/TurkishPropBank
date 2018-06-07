@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="recertify">
+    <roleset id="recertify.01" name="certifying again">
+      <roles>
+        <role descr="Confirmer, Agent" f="pag" n="0"/>
+        <role descr="Entity certified" f="ppt" n="1"/>
+        <role descr="Seconday predicate (certified as)" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

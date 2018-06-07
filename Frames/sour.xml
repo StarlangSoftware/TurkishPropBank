@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="sour">
+    <roleset id="sour.01" name="make sour">
+      <roles>
+        <role descr="agent, entity causing sourness" f="pag" n="0"/>
+        <role descr="thing becoming sour" f="ppt" n="1"/>
+        <role descr="'benefactive'" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

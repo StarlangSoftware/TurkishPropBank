@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="declassify">
+    <roleset id="declassify.01" name="make/keep secret">
+      <roles>
+        <role descr="secret-keeper" f="PAG" n="0"/>
+        <role descr="secret" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

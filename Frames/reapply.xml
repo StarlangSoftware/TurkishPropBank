@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="reapply">
+    <roleset id="reapply.01" name="put on again">
+      <roles>
+        <role descr="putter, applier, agent" f="pag" n="0"/>
+        <role descr="thing put/applied" f="ppt" n="1"/>
+        <role descr="applied where" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

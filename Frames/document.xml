@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="document">
+    <roleset id="document.01" name="to support with evidence">
+      <roles>
+        <role descr="provider of evidence, agent" f="pag" n="0"/>
+        <role descr="thing documented" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

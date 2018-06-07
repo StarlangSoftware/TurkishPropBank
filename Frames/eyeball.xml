@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="eyeball">
+    <roleset id="eyeball.01" name="look at">
+      <roles>
+        <role descr="looker" f="PAG" n="0"/>
+        <role descr="looked at" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

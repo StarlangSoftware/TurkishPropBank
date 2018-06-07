@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="bolster">
+    <roleset id="bolster.01" name="cause a (small) increase in, strengthen">
+      <roles>
+        <role descr="causer, agent" f="PAG" n="0"/>
+        <role descr="thing increasing or strengthened" f="PPT" n="1"/>
+        <role descr="amount increased, EXT" f="ext" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

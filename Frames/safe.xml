@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="safe">
+    <roleset id="safe.01" name="safe">
+      <roles>
+        <role descr="activity, thing that is not dangerous" f="ppt" n="0"/>
+        <role descr="entity protected, not in danger" f="ppt" n="1"/>
+        <role descr="protected from, danger avoided" f="vsp" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

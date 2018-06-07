@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="rebel">
+    <roleset id="rebel.01" name="to refuse allegiance to">
+      <roles>
+        <role descr="rebel, agent" f="pag" n="0"/>
+        <role descr="against whom/what" f="ppt" n="1"/>
+        <role descr="domain in which rebellion occurs" f="vsp" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

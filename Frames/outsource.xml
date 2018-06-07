@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="outsource">
+    <roleset id="outsource.01" name="contract work to an outside entity">
+      <roles>
+        <role descr="entity contracting work out" f="pag" n="0"/>
+        <role descr="work" f="ppt" n="1"/>
+        <role descr="outsourced to" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

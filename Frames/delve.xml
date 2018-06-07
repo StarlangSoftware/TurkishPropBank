@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="delve">
+    <roleset id="delve.01" name="dig (deeply)">
+      <roles>
+        <role descr="digger, delver" f="PAG" n="0"/>
+        <role descr="dug, delved into" f="LOC" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

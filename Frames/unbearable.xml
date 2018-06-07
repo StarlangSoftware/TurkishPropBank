@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="unbearable">
+    <roleset id="unbearable.01" name="not able to be held, endured">
+      <roles>
+        <role descr="endurer" f="pag" n="0"/>
+        <role descr="thing endured" f="ppt" n="1"/>
+        <role descr="benefactive" f="gol" n="2"/>
+        <role descr="secondary predication on arg1" f="prd" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,17 @@
+<frameset>
+  <predicate lemma="coddle">
+    <roleset id="coddle.01" name="pamper">
+      <roles>
+        <role descr="coddler" f="pag" n="0"/>
+        <role descr="coddled" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="coddle.02" name="cook in simmering water">
+      <roles>
+        <role descr="cook" f="pag" n="0"/>
+        <role descr="food" f="ppt" n="1"/>
+        <role descr="beneficiary" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

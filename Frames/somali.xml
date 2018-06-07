@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="somali">
+    <roleset id="somali.01" name="of origin in somalia">
+      <roles>
+        <role descr="Somali entity" f="pag" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

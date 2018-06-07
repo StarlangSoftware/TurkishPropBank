@@ -1,0 +1,18 @@
+<frameset>
+  <predicate lemma="fry">
+    <roleset id="fry.01" name="cook in oil">
+      <roles>
+        <role descr="cook" f="pag" n="0"/>
+        <role descr="food" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="fried">
+    <roleset id="fried.02" name="burnt to a crisp, rendered unusable">
+      <roles>
+        <role descr="causer" f="pag" n="0"/>
+        <role descr="fried, unusable entity" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

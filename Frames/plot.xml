@@ -1,0 +1,19 @@
+<frameset>
+  <predicate lemma="plot">
+    <roleset id="plot.01" name="to take part in a plot, make a plan, draw">
+      <roles>
+        <role descr="plotter(s), agent" f="PAG" n="0"/>
+        <role descr="plotted action, plan" f="ppt" n="1"/>
+        <role descr="malefactive, plotted against" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="plot_out">
+    <roleset id="plot_out.02" name="to plan, draw">
+      <roles>
+        <role descr="planner, agent" f="PAG" n="0"/>
+        <role descr="entity plotted" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

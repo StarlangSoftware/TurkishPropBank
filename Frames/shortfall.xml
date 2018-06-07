@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="shortfall">
+    <roleset id="shortfall.01" name="fall short">
+      <roles>
+        <role descr="entity falling short" f="ppt" n="1"/>
+        <role descr="falling short by how much?" f="ext" n="2"/>
+        <role descr="start state" f="dir" n="3"/>
+        <role descr="end state" f="gol" n="4"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="consequential">
+    <roleset id="consequential.01" name="having import">
+      <roles>
+        <role descr="thing that's consequential" f="ppt" n="1"/>
+        <role descr="To whom, what does it have import?" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

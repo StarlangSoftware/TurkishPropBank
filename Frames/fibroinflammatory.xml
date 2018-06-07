@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="fibroinflammatory">
+    <roleset id="fibroinflammatory.01" name="having fibrosis caused by inflammation">
+      <roles>
+        <role descr="fibroinflammatory entity" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

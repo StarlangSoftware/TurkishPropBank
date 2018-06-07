@@ -1,0 +1,17 @@
+<frameset>
+  <predicate lemma="peg">
+    <roleset id="peg.01" name="stabilize (a price)">
+      <roles>
+        <role descr="cause of stabilization, agent" f="pag" n="0"/>
+        <role descr="entity pegged" f="ppt" n="1"/>
+        <role descr="pegged to/at" f="prd" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="peg.02" name="peg it: to die">
+      <roles>
+        <role descr="entity dying" f="pag" n="0"/>
+        <role descr="fixed: &quot;it&quot;" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

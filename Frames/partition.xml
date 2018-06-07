@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="partition">
+    <roleset id="partition.01" name="to divide">
+      <roles>
+        <role descr="entity dividing, agent" f="pag" n="0"/>
+        <role descr="entity divided, patient" f="ppt" n="1"/>
+        <role descr="divided into what, end state, oblique" f="prd" n="2"/>
+        <role descr="divided from what, source" f="dir" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

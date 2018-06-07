@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="phosphoresce">
+    <roleset id="phosphoresce.01" name="become phosphorescent">
+      <roles>
+        <role descr="cause, agent (unlikely?)" f="pag" n="0"/>
+        <role descr="patient, thing phosphorescing" f="ppt" n="1"/>
+        <role descr="end state" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

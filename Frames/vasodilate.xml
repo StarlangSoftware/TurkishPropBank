@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="vasodilate">
+    <roleset id="vasodilate.01" name="dilating of blood vessels">
+      <roles>
+        <role descr="causal agent" f="pag" n="0"/>
+        <role descr="dilated entity (explicit blood vessels or patient)" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

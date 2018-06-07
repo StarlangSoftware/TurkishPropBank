@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="knead">
+    <roleset id="knead.01" name="form dough into a loaf, mixing/massaging by repetative folding motion">
+      <roles>
+        <role descr="kneader" f="PAG" n="0"/>
+        <role descr="dough" f="VSP" n="1"/>
+        <role descr="loaf" f="PRD" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

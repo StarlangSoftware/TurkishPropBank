@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="overdramatic">
+    <roleset id="overdramatic.01" name="greatly over-acted">
+      <roles>
+        <role descr="over-actor" f="pag" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

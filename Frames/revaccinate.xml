@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="revaccinate">
+    <roleset id="revaccinate.01" name="vaccinating again">
+      <roles>
+        <role descr="Vaccinator, agent" f="pag" n="0"/>
+        <role descr="Revaccinated, patient" f="ppt" n="1"/>
+        <role descr="Against what, disease" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

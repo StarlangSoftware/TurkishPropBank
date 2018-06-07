@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="overjoy">
+    <roleset id="overjoy.01" name="to provide with much joy">
+      <roles>
+        <role descr="agent, pleaser providing joy" f="pag" n="0"/>
+        <role descr="patient, entity overjoyed" f="ppt" n="1"/>
+        <role descr="Instrument used to cause joy when separate from arg 0" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

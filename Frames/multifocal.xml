@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="multifocal">
+    <roleset id="multifocal.01" name="having multiple foci">
+      <roles>
+        <role descr="thing with multple foci" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

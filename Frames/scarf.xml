@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="scarf">
+    <roleset id="scarf.01" name="to eat or drink voraciously">
+      <roles>
+        <role descr="eater" f="PAG" n="0"/>
+        <role descr="entity scarfed" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

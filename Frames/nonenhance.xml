@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="nonenhance">
+    <roleset id="nonenhance.01" name="not be darkened by contrast dye, not enhancing, growing greater">
+      <roles>
+        
+        <role descr="cause of enhancement, contrast, dye" f="pag" n="0"/>
+        <role descr="entity enhanced" f="ppt" n="1"/>
+        <role descr="instrument to show no enhancement (ie PET or CT scan)" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

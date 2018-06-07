@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="anastomose">
+    <roleset id="anastomose.01" name="cause interconnection/flow between 2 branching networks, having branched systems that connect, allowing flow between them">
+      <roles>
+        <role descr="agent, surgeon, drug" f="pag" n="0"/>
+        <role descr="first entity connected" f="ppt" n="1"/>
+        <role descr="entity arg1 is being connected to" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

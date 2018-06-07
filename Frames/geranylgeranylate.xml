@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="geranylgeranylate">
+    <roleset id="geranylgeranylate.01" name="introduce a geranylgeranyl group into a molecule">
+      <roles>
+        <role descr="intentional agent of geranylgeranylation (e.g. scientist)" f="pag" n="0" />
+        <role descr="thing geranylgeranylated" f="ppt" n="1" />
+        <role descr="instrument" f="mnr" n="2" />
+        <role descr="result of geranylgeranylation" f="prd" n="3" />
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

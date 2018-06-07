@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="enjoin">
+    <roleset id="enjoin.01" name="prohibit, prevent">
+      <roles>
+        <role descr="prohibiter, Agent" f="pag" n="0"/>
+        <role descr="Theme (action or object being prevented)" f="ppt" n="1"/>
+        <role descr="secondary predication on arg1 or action" f="prd" n="2"/>
+        <role descr="instrument" f="mnr" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

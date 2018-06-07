@@ -1,0 +1,18 @@
+<frameset>
+  <predicate lemma="yaw">
+    <roleset id="yaw.01" name="gape; be wide open">
+      <roles>
+        <role descr="causal agent (rare)" f="PAG" n="0"/>
+        <role descr="wide open thing" f="PPT" n="1"/>
+        <role descr="location of the wide open thing" f="LOC" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="yaw.02" name="swerve off course">
+      <roles>
+        <role descr="causal agent" f="PAG" n="0"/>
+        <role descr="thing swerving" f="PPT" n="1"/>
+        <role descr="location, direction" f="LOC" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

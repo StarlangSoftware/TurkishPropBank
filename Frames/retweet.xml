@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="retweet">
+    <roleset id="retweet.01" name="reposting of a tweet">
+      <roles>
+        <role descr="tweet-er, repost-er" f="PAG" n="0"/>
+        <role descr="message" f="ppt" n="1"/>
+        <role descr="posted to; either audience or blog/board" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="debilitate">
+    <roleset id="debilitate.01" name="to weaken or make feeble">
+      <roles>
+        <role descr="Cause of weakening" f="PAG" n="0"/>
+        <role descr="Patient, thing becoming weaker" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

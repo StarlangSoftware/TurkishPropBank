@@ -1,0 +1,14 @@
+<frameset>
+  <predicate lemma="configure">
+    <roleset id="configure.01" name="build, arrange in a particular fashion">
+      <roles>
+        
+        <role descr="agent, builder" f="pag" n="0"/>
+        <role descr="construction, item/material being configured" f="ppt" n="1"/>
+        <role descr="start state, material from which arg1 is configured" f="vsp" n="2"/>
+        <role descr="benefactive, configured for whom?" f="gol" n="3"/>
+        <role descr="end state, product of configuration when separate mention from arg 1" f="prd" n="4"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

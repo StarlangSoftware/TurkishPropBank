@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="chat">
+    <roleset id="chat.01" name="talk idly">
+      <roles>
+        <role descr="talker" f="PAG" n="0"/>
+        <role descr="subject" f="PPT" n="1"/>
+        <role descr="hearer" f="COM" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

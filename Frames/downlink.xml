@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="downlink">
+    <roleset id="downlink.01" name="transfer radio from the source to an   alternate sight">
+      <roles>
+        <role descr="downlinker, agent" f="pag" n="0"/>
+        <role descr="program downlinked" f="ppt" n="1"/>
+        <role descr="Initial_Location" f="dir" n="2"/>
+        <role descr="destination" f="gol" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

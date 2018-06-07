@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="uncooperative">
+    <roleset id="uncooperative.01" name="not willing to work together">
+      <roles>
+        <role descr="first cooperator" f="pag" n="0"/>
+        <role descr="second cooperator" f="com" n="1"/>
+        <role descr="shared task" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

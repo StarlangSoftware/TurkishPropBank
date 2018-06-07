@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="complicate">
+    <roleset id="complicate.01" name="make complicated">
+      <roles>
+        <role descr="agent, entity causing something to become complicated" f="pag" n="0"/>
+        <role descr="thing becoming complicated" f="ppt" n="1"/>
+        <role descr="benefactive" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="confide">
+    <roleset id="confide.01" name="to entrust, tell in confidence">
+      <roles>
+        <role descr="speaker, agent" f="PAG" n="0"/>
+        <role descr="utterance" f="PPT" n="1"/>
+        <role descr="person confided to" f="GOL" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

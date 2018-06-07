@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="lean">
+    <roleset id="lean.01" name="to incline or cause to incline">
+      <roles>
+        <role descr="causer of leaning" f="PAG" n="0"/>
+        <role descr="entity leaning, if non-volitional" f="ppt" n="1"/>
+        <role descr="direction, location, destination" f="loc" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

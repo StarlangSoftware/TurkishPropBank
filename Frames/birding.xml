@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="birding">
+    <roleset id="birding.01" name="watch birds">
+      <roles>
+        <role descr="bird watcher" f="pag" n="0"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

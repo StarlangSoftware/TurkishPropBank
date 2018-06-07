@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="microwave">
+    <roleset id="microwave.01" name="cook">
+      <roles>
+        <role descr="cook" f="PAG" n="0"/>
+        <role descr="food" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

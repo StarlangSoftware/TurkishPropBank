@@ -1,0 +1,20 @@
+<frameset>
+  <predicate lemma="evolve">
+    <roleset id="evolve.01" name="change form, changing from one form into another">
+      <roles>
+        <role descr="thing changing" f="ppt" n="1"/>
+        <role descr="end state" f="prd" n="2"/>
+        <role descr="start state" f="vsp" n="3"/>
+      </roles>
+    
+    </roleset>
+    <roleset id="evolve.02" name="acquire characteristics through evolution, acquiring characteristics">
+      <roles>
+        <role descr="agent, causing the evolutionary change" f="pag" n="0"/>
+        <role descr="thing acquring" f="pag" n="1"/>
+        <role descr="characteristics acquired" f="ppt" n="2"/>
+      </roles>
+    
+    </roleset>
+  </predicate>
+</frameset>

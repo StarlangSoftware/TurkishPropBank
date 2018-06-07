@@ -1,0 +1,24 @@
+<frameset>
+  <predicate lemma="cook">
+    <roleset id="cook.01" name="to prepare a meal or treat by heating, completely heated, as a prepared meal">
+      <roles>
+        <role descr="cook, agent" f="pag" n="0"/>
+        <role descr="food" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="cook.02" name="to happen, take place">
+      <roles>
+        <role descr="event" f="ppt" n="1"/>
+        <role descr="cooking with" f="com" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="cook_up">
+    <roleset id="cook_up.03" name="to fabricate">
+      <roles>
+        <role descr="fabricator, agent" f="pag" n="0"/>
+        <role descr="thing cooked up" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

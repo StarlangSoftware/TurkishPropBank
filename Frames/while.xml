@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="while_away">
+    <roleset id="while_away.01" name="spend time in a leisurely manner">
+      <roles>
+        <role descr="bider, spender" f="pag" n="0"/>
+        <role descr="unit of time" f="ppt" n="1"/>
+        <role descr="activity" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

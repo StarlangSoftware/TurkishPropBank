@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="cancel">
+    <roleset id="cancel.01" name="cause to be not valid">
+      <roles>
+        <role descr="canceller" f="PAG" n="0"/>
+        <role descr="cancelled" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="miserable">
+    <roleset id="miserable.01" name="wretched, (causing) extreme discomfort">
+      <roles>
+        <role descr="cause/stimulus of misery" f="cau" n="0"/>
+        <role descr="experiencer of misery" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

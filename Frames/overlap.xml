@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="overlap">
+    <roleset id="overlap.01" name="overlap, extending over something else, co-occurring, merging into the same space">
+      <roles>
+        <role descr="thing on top" f="ppt" n="0"/>
+        <role descr="thing on bottom" f="ppt" n="1"/>
+        <role descr="EXT, margin" f="ext" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

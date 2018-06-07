@@ -1,0 +1,29 @@
+<frameset>
+  <predicate lemma="approach">
+    <roleset id="approach.01" name="move towards, movement towards something">
+      <roles>
+        <role descr="entity in motion" f="ppt" n="1">
+</role>
+        <role descr="destination" f="loc" n="2">
+</role>
+      </roles>
+    
+    </roleset>
+    <roleset id="approach.02" name="treat, deal with">
+      <roles>
+        <role descr="treater, dealer, agent" f="pag" n="0"/>
+        <role descr="thing" f="ppt" n="1"/>
+        <role descr="attribute" f="prd" n="2"/>
+      </roles>
+    
+    </roleset>
+  </predicate>
+  <predicate lemma="approachable">
+    <roleset id="approachable.03" name="easy to approach">
+      <roles>
+        <role descr="approacher" f="pag" n="0"/>
+        <role descr="entity that is easy to approach" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

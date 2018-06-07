@@ -1,0 +1,27 @@
+<frameset>
+  <predicate lemma="flip">
+    <roleset id="flip.01" name="throw, turn over">
+      <roles>
+        <role descr="flipper, agent" f="pag" n="0"/>
+        <role descr="thing flipped" f="ppt" n="1"/>
+        <role descr="flipped to/into" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="flip_out">
+    <roleset id="flip_out.02" name="go crazy">
+      <roles>
+        <role descr="entity going crazy" f="pag" n="0"/>
+        <role descr="flipping out about" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="flip_off">
+    <roleset id="flip_off.03" name="obscene gesture: give the finger">
+      <roles>
+        <role descr="rude gesturer" f="pag" n="0"/>
+        <role descr="recipient" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

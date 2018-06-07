@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="found">
+    <roleset id="found.01" name="establish, base">
+      <roles>
+        <role descr="agent, setter" f="pag" n="0"/>
+        <role descr="thing set, based" f="ppt" n="1"/>
+        <role descr="attribute (founded on, as), base" f="dir" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

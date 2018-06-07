@@ -1,0 +1,18 @@
+<frameset>
+  <predicate lemma="suborn">
+    <roleset id="suborn.01" name="incite to commit a crime">
+      <roles>
+        <role descr="inciter" f="pag" n="0"/>
+        <role descr="crime" f="prd" n="1"/>
+        <role descr="committer of crime" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="suborn.02" name="obtain a false or perjured testimony">
+      <roles>
+        <role descr="obtainer of testimony" f="pag" n="0"/>
+        <role descr="testimony" f="ppt" n="1"/>
+        <role descr="one giving testimony" f="dir" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

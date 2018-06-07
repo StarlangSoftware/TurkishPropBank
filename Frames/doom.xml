@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="doom">
+    <roleset id="doom.01" name="to condemn">
+      <roles>
+        <role descr="condemner, agent" f="pag" n="0"/>
+        <role descr="entity doomed" f="ppt" n="1"/>
+        <role descr="doomed to" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

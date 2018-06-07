@@ -1,0 +1,13 @@
+<frameset>
+  <predicate lemma="triple">
+    <roleset id="triple.01" name="to make three times as great">
+      <roles>
+        <role descr="agent, causer" f="pag" n="0"/>
+        <role descr="entity increasing" f="ppt" n="1"/>
+        <role descr="EXT, never mentioned" f="ext" n="2"/>
+        <role descr="start point" f="dir" n="3"/>
+        <role descr="end point" f="prd" n="4"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

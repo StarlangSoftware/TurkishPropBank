@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="vegan">
+    <roleset id="vegan.01" name="adhering to a strick no meat/no animal byproduct diet">
+      <roles>
+        <role descr="vegan entity" f="pag" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

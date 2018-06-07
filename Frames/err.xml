@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="err">
+    <roleset id="err.01" name="mess up, fail, make a mistake">
+      <roles>
+        <role descr="entity making mistake" f="pag" n="0"/>
+        <role descr="thing messed up" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

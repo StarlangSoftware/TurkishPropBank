@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="wheelspin">
+    <roleset id="wheelspin.01" name="spin the wheels">
+      <roles>
+        <role descr="agent" f="PAG" n="0"/>
+        <role descr="thing wheelspun (us. vehicle or specific wheels)" f="ppt" n="1"/>
+        <role descr="entity run over" f="loc" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

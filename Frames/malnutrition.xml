@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="malnutrition">
+    <roleset id="malnutrition.01" name="cause to lack nutrients">
+      <roles>
+        <role descr="causer of lack" f="pag" n="0"/>
+        <role descr="experiencer, entity lacking" f="ppt" n="1"/>
+        <role descr="lacking what?" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

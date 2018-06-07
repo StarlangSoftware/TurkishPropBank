@@ -1,0 +1,18 @@
+<frameset>
+  <predicate lemma="pardon">
+    <roleset id="pardon.01" name="relieve of guilt">
+      <roles>
+        <role descr="pardoner" f="pag" n="0"/>
+        <role descr="guilty party" f="ppt" n="1"/>
+        <role descr="for what" f="prd" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="pardon.02" name="give forgiveness, usually for a minor social misstep">
+      <roles>
+        <role descr="person forgiving the faux pas" f="pag" n="0"/>
+        <role descr="guilty party, misstepper" f="ppt" n="1"/>
+        <role descr="crime, sin or faux pas" f="cau" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

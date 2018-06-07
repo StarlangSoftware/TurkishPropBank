@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="adat">
+    <roleset id="adat.01" name="advance diet as tolerated">
+      <roles>
+        <role descr="doctor; advancer of diet" f="PAG" n="0"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

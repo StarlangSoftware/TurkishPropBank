@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="erythematous">
+    <roleset id="erythematous.01" name="abnormally red and irritated (skin)">
+      <roles>
+        <role descr="causer of redness/irritation" f="pag" n="0"/>
+        <role descr="irritated entity" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

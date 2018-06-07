@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="crevasse">
+    <roleset id="crevasse.01" name="fissure within a crevasse">
+
+      <roles>
+        <role descr="causer of cleft (rare)" f="pag" n="0"/>
+        <role descr="entity cracked" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="unyielding">
+    <roleset id="unyielding.01" name="not giving way">
+      <roles>
+        <role descr="entity not giving way" f="pag" n="0"/>
+        <role descr="what is not yielded" f="ppt" n="1"/>
+        <role descr="recipient" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="explore">
+    <roleset id="explore.01" name="explore, discover new places or things, searching out new places">
+      <roles>
+        <role descr="explorer" f="pag" n="0"/>
+        <role descr="place explored" f="loc" n="1"/>
+        <role descr="in search of what" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="deinstall">
+    <roleset id="deinstall.01" name="un-install">
+      <roles>
+        <role descr="agent of de-installation" f="pag" n="0"/>
+        <role descr="thing uninstalled" f="ppt" n="1"/>
+        <role descr="source location uninstalled from" f="dir" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

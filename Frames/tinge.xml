@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="tinge">
+    <roleset id="tinge.01" name="(cause to) be affected with a certain attribute">
+      <roles>
+        <role descr="causer, affecter" f="pag" n="0"/>
+        <role descr="thing affected" f="ppt" n="1"/>
+        <role descr="attribute" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

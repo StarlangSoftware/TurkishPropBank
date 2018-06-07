@@ -1,0 +1,26 @@
+<frameset>
+  <predicate lemma="time">
+    <roleset id="time.01" name="measure the time it takes to do an action, measuring time it takes">
+      <roles>
+        <role descr="measurer" f="pag" n="0"/>
+        <role descr="action" f="ppt" n="1"/>
+        <role descr="time required" f="vsp" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="time.02" name="synchronize">
+      <roles>
+        <role descr="agent" f="pag" n="0"/>
+        <role descr="first thing synchronized" f="ppt" n="1"/>
+        <role descr="second thing, if separate" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="timely">
+    <roleset id="timely.03" name="synchronize">
+      <roles>
+        <role descr="first thing synchronized" f="ppt" n="1"/>
+        <role descr="second thing, if separate" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

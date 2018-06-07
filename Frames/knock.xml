@@ -1,0 +1,85 @@
+<frameset>
+  <predicate lemma="knock">
+    <roleset id="knock.01" name="hit">
+      <roles>
+        <role descr="agent, hitter - animate only!" f="pag" n="0"/>
+        <role descr="thing hit" f="ppt" n="1"/>
+        <role descr="instrument, thing hit by or with" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="knock.04" name="cut off by striking">
+      <roles>
+        <role descr="cutter" f="pag" n="0"/>
+        <role descr="thing cut" f="ppt" n="1"/>
+        <role descr="medium, source" f="dir" n="2"/>
+        <role descr="instrument" f="mnr" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="knock_back">
+    <roleset id="knock_back.07" name="ingest">
+      <roles>
+        <role descr="knocker" f="pag" n="0"/>
+        <role descr="drink" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="knock_down">
+    <roleset id="knock_down.02" name="knock down: hit and cause to go down">
+      <roles>
+        <role descr="knocker" f="pag" n="0"/>
+        <role descr="thing knocked and going down" f="ppt" n="1"/>
+        <role descr="EXT" f="ext" n="2"/>
+        <role descr="start point" f="dir" n="3"/>
+        <role descr="end point" f="gol" n="4"/>
+        <role descr="instrument" f="mnr" n="5"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="knock_out">
+    <roleset id="knock_out.03" name="knock out: eliminate, destroy">
+      <roles>
+        <role descr="destroyer" f="pag" n="0"/>
+        <role descr="thing destroyed" f="ppt" n="1"/>
+        <role descr="instrument of destruction" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="knock_off">
+    <roleset id="knock_off.05" name="knock off: eliminate, destroy">
+      <roles>
+        <role descr="The Eliminator, agent" f="pag" n="0"/>
+        <role descr="thing eliminated" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="knock_off.06" name="knock off: copy, copying">
+      <roles>
+        <role descr="copier" f="pag" n="0"/>
+        <role descr="thing copied" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="knock_over">
+    <roleset id="knock_over.08" name="knock_over: rob">
+      <roles>
+        <role descr="robber" f="pag" n="0"/>
+        <role descr="establishment being robbed" f="gol" n="1"/>
+        <role descr="the loot" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="knock_up">
+    <roleset id="knock_up.09" name="impregnate">
+      <roles>
+        <role descr="baby daddy" f="pag" n="0"/>
+        <role descr="baby mama" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="knock_up.10" name="awaken by knocking insistently on the door (british)">
+      <roles>
+        <role descr="insistent knocker" f="pag" n="0"/>
+        <role descr="entity woken up" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

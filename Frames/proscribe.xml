@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="proscribe">
+    <roleset id="proscribe.01" name="to prohibit, forbid">
+      <roles>
+        <role descr="causer" f="pag" n="0"/>
+        <role descr="thing proscribed" f="ppt" n="1"/>
+        <role descr="proscribed from" f="prp" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

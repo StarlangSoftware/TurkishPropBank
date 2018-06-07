@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="contemplate">
+    <roleset id="contemplate.01" name="think about">
+      <roles>
+        <role descr="thinker" f="pag" n="0"/>
+        <role descr="thought" f="ppt" n="1"/>
+        <role descr="attribute" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

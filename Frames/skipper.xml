@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="skipper">
+    <roleset id="skipper.01" name="steer a small ship">
+      <roles>
+        <role descr="skipper" f="PAG" n="0"/>
+        <role descr="boat" f="GOL" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

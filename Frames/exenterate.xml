@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="exenterate">
+    <roleset id="exenterate.01" name="surgically removing contents of a body cavity">
+      <roles>
+        <role descr="Agent, surgeon" f="pag" n="0"/>
+        <role descr="Entity removed from" f="dir" n="1"/>
+        <role descr="Thing(s) removed" f="ppt" n="2"/>
+        <role descr="Instrument" f="ppt" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

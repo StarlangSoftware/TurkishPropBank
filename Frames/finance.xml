@@ -1,0 +1,26 @@
+<frameset>
+  <predicate lemma="finance">
+    <roleset id="finance.01" name="provide money for">
+      <roles>
+        <role descr="financ(i)er" f="pag" n="0"/>
+        <role descr="thing financed" f="ppt" n="1"/>
+        <role descr="money" f="mnr" n="2"/>
+        <role descr="interest rate, price of financing" f="adj" n="3"/>
+      </roles>
+    </roleset>
+    <roleset id="finance.02" name="buy using someone else's money">
+      <roles>
+        <role descr="buyer" f="pag" n="0"/>
+        <role descr="thing bought" f="ppt" n="1"/>
+        <role descr="money or provider of money" f="dir" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="financial">
+    <roleset id="financial.03" name="relating to finances">
+      <roles>
+        <role descr="financial entity" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

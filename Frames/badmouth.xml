@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="badmouth">
+    <roleset id="badmouth.01" name="insult, criticize">
+      <roles>
+        <role descr="critic, badmouther" f="pag" n="0"/>
+        <role descr="entity being criticized, badmouthed" f="ppt" n="1"/>
+        <role descr="arg1 is badmouthed for what? grounds of criticism" f="cau" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="ransack">
+    <roleset id="ransack.01" name="search thoroughly">
+      <roles>
+        <role descr="searcher, agent" f="PAG" n="0"/>
+        <role descr="searched for, theme" f="PPT" n="1"/>
+        <role descr="location" f="LOC" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

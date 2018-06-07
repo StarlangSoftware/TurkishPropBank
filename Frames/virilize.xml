@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="virilize">
+    <roleset id="virilize.01" name="cause to develop sexual characteristics (usually masculine)">
+      <roles>
+        <role descr="agent, cause" f="pag" n="0"/>
+        <role descr="entity become more masculine" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

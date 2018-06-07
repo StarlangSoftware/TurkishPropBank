@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="im">
+    <roleset id="im.01" name="instant message">
+      <roles>
+        <role descr="message sender" f="pag" n="0"/>
+        <role descr="message sent" f="ppt" n="1"/>
+        <role descr="recipient" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

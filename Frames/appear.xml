@@ -1,0 +1,15 @@
+<frameset>
+  <predicate lemma="appear">
+    <roleset id="appear.01" name="come to be visible">
+      <roles>
+        <role descr="thing appearing" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="appear.02" name="seem, appear, be unmistakable (for/as)">
+      <roles>
+        <role descr="thing seeming, often requires concatenation" f="ppt" n="1"/>
+        <role descr="viewer, to whom does it seem like that?" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

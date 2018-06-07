@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="mob">
+    <roleset id="mob.02" name="get too close to">
+      <roles>
+        <role descr="agentive thing too close" f="pag" n="0"/>
+        <role descr="thing too close to" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

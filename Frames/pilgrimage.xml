@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="pilgrimage">
+    <roleset id="pilgrimage.01" name="journey">
+      <roles>
+        <role descr="pilgrim, traveller" f="pag" n="0"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

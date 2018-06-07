@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="rhizomatic">
+    <roleset id="rhizomatic.01" name="relating to rhizomes">
+      <roles>
+        <role descr="rhizomatic entity" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

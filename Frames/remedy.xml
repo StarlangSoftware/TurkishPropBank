@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="remedy">
+    <roleset id="remedy.01" name="make better">
+      <roles>
+        <role descr="causer of improvement, agent" f="pag" n="0"/>
+        <role descr="thing getting better" f="ppt" n="1"/>
+        <role descr="instrument" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

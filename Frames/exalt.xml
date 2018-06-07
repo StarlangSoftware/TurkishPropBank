@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="exalt">
+    <roleset id="exalt.01" name="elevate in status">
+      <roles>
+        <role descr="causer of elevation" f="ppt" n="0"/>
+        <role descr="entity being elevated" f="pag" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

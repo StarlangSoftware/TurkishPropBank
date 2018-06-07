@@ -1,0 +1,28 @@
+<frameset>
+  <predicate lemma="puff">
+    <roleset id="puff.01" name="smoke tobacco">
+      <roles>
+        <role descr="candidate for lung cancer" f="PAG" n="0"/>
+        <role descr="cigarette, etc" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="puff.02" name="inflate slightly">
+      <roles>
+        <role descr="puffy thing" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="puff_up">
+    <roleset id="puff_up.03" name="increase">
+      <roles>
+        <role descr="cause of increase" f="PAG" n="0"/>
+        <role descr="thing increasing" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="puff_up.04" name="appear in puffs">
+      <roles>
+        <role descr="thing appearing" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

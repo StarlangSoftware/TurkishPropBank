@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="dumbfound">
+    <roleset id="dumbfound.01" name="make speechless with shock">
+      <roles>
+        <role descr="cause of shock" f="pag" n="0"/>
+        <role descr="shocked" f="ppt" n="1"/>
+        <role descr="Manner or Instrument if separate from arg 0" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

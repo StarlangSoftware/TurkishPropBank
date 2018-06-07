@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="pirouette">
+    <roleset id="pirouette.01" name="pirouette">
+      <roles>
+        <role descr="agent, causer of pirouette (transitive subject)" f="PAG" n="0"/>
+        <role descr="pirouetter, theme (intransitive subject, transitive object)" f="PPT" n="1"/>
+        <role descr="location of pirouette" f="LOC" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

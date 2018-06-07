@@ -1,0 +1,25 @@
+<frameset>
+  <predicate lemma="review">
+    <roleset id="review.01" name="look at again">
+      <roles>
+        <role descr="reviewer" f="pag" n="0"/>
+        <role descr="thing reviewed" f="ppt" n="1"/>
+        <role descr="beneficiary" f="gol" n="2"/>
+        <role descr="secondary-theme" f="vsp" n="3"/>
+      </roles>
+    </roleset>
+    <roleset id="review.02" name="work-of-art">
+      <roles>
+        <role descr="agent" f="pag" n="0"/>
+        <role descr="theme/ thing reviewed" f="ppt" n="1"/>
+        <role descr="title of review" f="prd" n="2"/>
+        <role descr="place of publication" f="dir" n="3"/>
+      </roles>
+    </roleset>
+    <roleset id="review.03" name="official ceremony/display">
+      <roles>
+        <role descr="thing on display" f="pag" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

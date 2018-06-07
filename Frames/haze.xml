@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="haze">
+    <roleset id="haze.01" name="initiate with humiliating tasks">
+      <roles>
+        <role descr="agent of hazing, initator" f="pag" n="0"/>
+        <role descr="entity hazed" f="ppt" n="1"/>
+        <role descr="initiated into what group" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

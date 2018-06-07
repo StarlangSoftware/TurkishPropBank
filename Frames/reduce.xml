@@ -1,0 +1,14 @@
+<frameset>
+  <predicate lemma="reduce">
+    <roleset id="reduce.01" name="make less, lessening">
+      <roles>
+        <role descr="Agent" f="pag" n="0"/>
+        <role descr="Logical subject, patient, thing falling" f="ppt" n="1"/>
+        <role descr="EXT, amount fallen" f="ext" n="2"/>
+        <role descr="Start point" f="dir" n="3"/>
+        <role descr="End point, end state of arg1" f="gol" n="4"/>
+        <role descr="Medium" f="loc" n="m"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,15 @@
+<frameset>
+  <predicate lemma="thump">
+    <roleset id="thump.01" name="hit">
+      <roles>
+        <role descr="hitter" f="pag" n="0"/>
+        <role descr="thing hit" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="thump.02" name="emit regular dull sounds">
+      <roles>
+        <role descr="emitter of sound" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

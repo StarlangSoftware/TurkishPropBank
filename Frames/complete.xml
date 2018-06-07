@@ -1,0 +1,15 @@
+<frameset>
+  <predicate lemma="complete">
+    <roleset id="complete.01" name="bring to an end">
+      <roles>
+        <role descr="finisher" f="pag" n="0"/>
+        <role descr="task, action coming to an end" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="complete.02" name="total, entire, full">
+      <roles>
+        <role descr="thing whose degree is emphasized" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

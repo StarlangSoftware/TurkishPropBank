@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="unrepentant">
+    <roleset id="unrepentant.01" name="not sorry">
+      <roles>
+        <role descr="entity who isn't sorry" f="pag" n="0"/>
+        <role descr="for what possibly shameful act" f="ppt" n="1"/>
+        <role descr="listener, potential recipient of apology" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

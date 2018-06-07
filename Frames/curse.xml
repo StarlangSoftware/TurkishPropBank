@@ -1,0 +1,18 @@
+<frameset>
+  <predicate lemma="curse">
+    <roleset id="curse.01" name="use bad language">
+      <roles>
+        <role descr="speaker" f="PAG" n="0"/>
+        <role descr="utterance, four letter words" f="PPT" n="1"/>
+        <role descr="listener" f="PPT" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="curse.02" name="condemn">
+      <roles>
+        <role descr="agent, condemner" f="pag" n="0"/>
+        <role descr="curse" f="ppt" n="1"/>
+        <role descr="recipient, poor cursed soul" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

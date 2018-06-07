@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="materialize">
+    <roleset id="materialize.01" name="come about">
+      <roles>
+        <role descr="thing appearing, materializing" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

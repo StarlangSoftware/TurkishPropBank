@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="sack">
+    <roleset id="sack.01" name="cause defeat in by terminating employment or otherwise pillaging/ conquering">
+      <roles>
+        <role descr="employer, conquerer" f="PAG" n="0"/>
+        <role descr="former employee, conquered entity" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

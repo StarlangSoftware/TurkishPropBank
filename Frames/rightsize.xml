@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="rightsize">
+    <roleset id="rightsize.01" name="(cause to) fit as necessary">
+      <roles>
+        <role descr="agent, sizer" f="pag" n="0"/>
+        <role descr="thing that needs refitting" f="ppt" n="1"/>
+        <role descr="attribute of arg1" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

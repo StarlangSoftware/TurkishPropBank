@@ -1,0 +1,19 @@
+<frameset>
+  <predicate lemma="shore_up">
+    <roleset id="shore_up.01" name="support, prop">
+      <roles>
+        <role descr="agent, supporter" f="pag" n="0"/>
+        <role descr="thing supported" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="shore">
+    <roleset id="shore.02" name="to bring to shore or other metaphorical support">
+      <roles>
+        <role descr="Boat captain, cause of shoring" f="pag" n="0"/>
+        <role descr="Boat, thing now supported or at shore" f="ppt" n="1"/>
+        <role descr="Shore/support where arg1 is brought" f="loc" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

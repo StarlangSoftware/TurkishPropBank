@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="mope">
+    <roleset id="mope.01" name="sulk">
+      <roles>
+        <role descr="moper" f="PPT" n="0"/>
+        <role descr="about what?" f="PAG" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

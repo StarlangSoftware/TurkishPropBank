@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="estrange">
+    <roleset id="estrange.01" name="marital difficulties">
+      <roles>
+        <role descr="focussed party" f="ppt" n="1"/>
+        <role descr="prepositional party" f="dir" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

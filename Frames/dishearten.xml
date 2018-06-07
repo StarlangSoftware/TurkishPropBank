@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="dishearten">
+    <roleset id="dishearten.01" name="to deprive of confidence, induce inaction">
+      <roles>
+        <role descr="entity removing confidence, cause" f="pag" n="0"/>
+        <role descr="entity disheartened" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

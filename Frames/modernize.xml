@@ -1,0 +1,18 @@
+<frameset>
+  <predicate lemma="modernize">
+    <roleset id="modernize.01" name="make more up-to-date">
+      <roles>
+        <role descr="modernizer" f="pag" n="0"/>
+        <role descr="thing being modernized" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="modern">
+    <roleset id="modern.02" name="up-to-date, of relatively current fashion">
+      <roles>
+        <role descr="modernizer" f="pag" n="0"/>
+        <role descr="thing being modernized" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="malabsorption">
+    <roleset id="malabsorption.01" name="abnormality in absorption of nutrients">
+      <roles>
+        <role descr="medical patient failing to absorb" f="pag" n="0"/>
+        <role descr="Malabsorbed substance" f="ppt" n="1"/>
+        <role descr="Sponge into which Arg1 is absorbed, if in addition to arg0" f="gol" n="2"/>
+        <role descr="Source of Arg1" f="dir" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="blacklist">
+    <roleset id="blacklist.01" name="list as unacceptable">
+      <roles>
+        <role descr="lister" f="PAG" n="0"/>
+        <role descr="listed entity" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

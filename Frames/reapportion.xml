@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="reapportion">
+    <roleset id="reapportion.01" name="distribute again">
+      <roles>
+        <role descr="distributor, agent" f="pag" n="0"/>
+        <role descr="thing apportioned, distributed" f="ppt" n="1"/>
+        <role descr="to/among" f="gol" n="2"/>
+        <role descr="source" f="dir" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

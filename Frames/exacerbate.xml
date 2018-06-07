@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="exacerbate">
+    <roleset id="exacerbate.01" name="make worse">
+      <roles>
+        <role descr="causer" f="PAG" n="0"/>
+        <role descr="thing getting worse" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="stifle">
+    <roleset id="stifle.01" name="stifle, suppress">
+      <roles>
+        <role descr="stifler, suppressor" f="PAG" n="0"/>
+        <role descr="thing stifled" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

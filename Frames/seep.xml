@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="seep">
+    <roleset id="seep.01" name="leak fluid">
+      <roles>
+        <role descr="causer of leaking" f="dir" n="0"/>
+        <role descr="substance leaked" f="ppt" n="1"/>
+        <role descr="source, leaked from where?" f="dir" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

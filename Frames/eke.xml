@@ -1,0 +1,18 @@
+<frameset>
+  <predicate lemma="eke">
+    <roleset id="eke.01" name="to get/move/remove with great effort">
+      <roles>
+        <role descr="agent, person/org trying to supplement" f="pag" n="0"/>
+        <role descr="thing gotten" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="eke_out">
+    <roleset id="eke_out.02" name="to attain with great effort">
+      <roles>
+        <role descr="attainer" f="pag" n="0"/>
+        <role descr="thing attained" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

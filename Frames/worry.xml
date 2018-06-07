@@ -1,0 +1,26 @@
+<frameset>
+  <predicate lemma="worry">
+    <roleset id="worry.01" name="worry with direct object, causing worry, anxious about">
+      <roles>
+        <role descr="cause of worrying, troublesome topic" f="pag" n="0"/>
+        <role descr="worrier" f="ppt" n="1"/>
+        <role descr="instrument, when separate from agent" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="worry.02" name="worrier as active subject">
+      <roles>
+        <role descr="worrier" f="ppt" n="0"/>
+        <role descr="topic of worry" f="pag" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="worrisome">
+    <roleset id="worrisome.03" name="suggestive of a particular condition or outcome">
+      <roles>
+        <role descr="worrisome symptom" f="pag" n="0"/>
+        <role descr="entity experiencing worry" f="gol" n="1"/>
+        <role descr="the condition/outcome possibly indicated by arg0" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

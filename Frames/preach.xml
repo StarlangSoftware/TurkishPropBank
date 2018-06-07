@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="preach">
+    <roleset id="preach.01" name="to proclaim or advocate">
+      <roles>
+        <role descr="preacher, agent" f="PAG" n="0"/>
+        <role descr="utterance" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

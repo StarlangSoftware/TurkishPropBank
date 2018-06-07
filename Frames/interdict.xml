@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="interdict">
+    <roleset id="interdict.01" name="forbid, prohibit">
+      <roles>
+        <role descr="forbidding authority" f="pag" n="0"/>
+        <role descr="action/theme forbidden" f="ppt" n="1"/>
+        <role descr="entity prohibited from enacting/participating in arg1" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

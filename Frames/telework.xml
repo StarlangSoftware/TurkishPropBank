@@ -1,0 +1,13 @@
+<frameset>
+  <predicate lemma="telework">
+    <roleset id="telework.01" name="work from home using computer/ connection">
+      <roles>
+        <role descr="worker" f="pag" n="0"/>
+        <role descr="job, project" f="ppt" n="1"/>
+        <role descr="employer" f="gol" n="2"/>
+        <role descr="coworker" f="com" n="3"/>
+        <role descr="instrumental" f="mnr" n="4"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

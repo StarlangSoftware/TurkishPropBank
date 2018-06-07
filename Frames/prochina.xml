@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="prochina">
+    <roleset id="prochina.01" name="politically in support of china">
+      <roles>
+        <role descr="pro-China entity" f="pag" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

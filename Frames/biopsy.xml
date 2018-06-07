@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="biopsy">
+    <roleset id="biopsy.101" name="remove a sample of tissue for analysis/diagnosis">
+      <roles>
+        <role descr="Doctor" f="pag" n="0"/>
+        <role descr="Tissue/Patient" f="dir" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

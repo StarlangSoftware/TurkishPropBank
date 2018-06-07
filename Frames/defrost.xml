@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="defrost">
+    <roleset id="defrost.01" name="release from a frozen state">
+      <roles>
+        <role descr="agent" f="PAG" n="0"/>
+        <role descr="patient, item being defrosted" f="ppt" n="1"/>
+        <role descr="instrument" f="MNR" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

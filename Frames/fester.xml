@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="fester">
+    <roleset id="fester.01" name="to undergo decay, be in a condition of decline">
+      <roles>
+        <role descr="entity festering" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

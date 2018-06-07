@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="slate">
+    <roleset id="slate.01" name="schedule, designate">
+      <roles>
+        <role descr="scheduler, designator" f="PAG" n="0"/>
+        <role descr="entity chosen" f="PPT" n="1"/>
+        <role descr="function or time" f="prp" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

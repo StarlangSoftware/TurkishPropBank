@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="rejoice">
+    <roleset id="rejoice.01" name="take joy in">
+      <roles>
+        <role descr="agent, causer" f="PAG" n="0"/>
+        <role descr="experiencer, rejoicer" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,17 @@
+<frameset>
+  <predicate lemma="cram">
+    <roleset id="cram.01" name="put stuff into a container">
+      <roles>
+        <role descr="crammer" f="pag" n="0"/>
+        <role descr="stuff being put in" f="ppt" n="1"/>
+        <role descr="container" f="gol" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="cram.02" name="study very hard, very fast">
+      <roles>
+        <role descr="student" f="pag" n="0"/>
+        <role descr="subject" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="unspecified">
+    <roleset id="unspecified.01" name="unknown">
+      <roles>
+        <role descr="cause of unknowing" f="pag" n="0"/>
+        <role descr="thing unknown" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

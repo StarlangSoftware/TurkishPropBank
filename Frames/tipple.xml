@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="tipple">
+    <roleset id="tipple.01" name="drink alcohol, especially habitually">
+      <roles>
+        <role descr="drinker" f="pag" n="0"/>
+        <role descr="drink" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

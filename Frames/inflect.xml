@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="inflect">
+    <roleset id="inflect.01" name="to modulate the voice">
+      <roles>
+        <role descr="inflector" f="pag" n="0"/>
+        <role descr="information inflected" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

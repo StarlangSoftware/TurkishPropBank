@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="inherit">
+    <roleset id="inherit.01" name="get from predecessor">
+      <roles>
+        <role descr="inheritor" f="PAG" n="0"/>
+        <role descr="inheritance" f="PPT" n="1"/>
+        <role descr="predecessor" f="DIR" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

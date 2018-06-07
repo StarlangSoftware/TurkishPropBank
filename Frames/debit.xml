@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="debit">
+    <roleset id="debit.01" name="subtract, take away, count as a debt">
+      <roles>
+        <role descr="subtracter" f="pag" n="0"/>
+        <role descr="thing being subtracted" f="ppt" n="1"/>
+        <role descr="thing being subtracted from, or who must pay" f="dir" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

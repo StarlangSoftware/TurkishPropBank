@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="unaffected">
+    <roleset id="unaffected.01" name="not changed, influenced or modified">
+      <roles>
+        <role descr="thing that has no effect" f="cau" n="0"/>
+        <role descr="unaffected entity" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

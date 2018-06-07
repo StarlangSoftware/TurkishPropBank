@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="tapdance">
+    <roleset id="tapdance.01" name="tapdance">
+      <roles>
+        <role descr="cause of tapdancing, agent (transitive tapdance only)" f="pag" n="0"/>
+        <role descr="tapdancer (intransitive subject, transitive object)" f="ppt" n="1"/>
+        <role descr="location or path of tapdancing" f="loc" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

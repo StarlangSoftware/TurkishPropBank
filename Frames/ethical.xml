@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="ethical">
+    <roleset id="ethical.01" name="morally upstanding">
+      <roles>
+        <role descr="ethical entity/act" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="denervate">
+    <roleset id="denervate.01" name="to deprive an organ of attached nerves">
+      <roles>
+        <role descr="Agent, surgeon" f="pag" n="0"/>
+        <role descr="Patient, entity denervated" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

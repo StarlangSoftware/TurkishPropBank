@@ -1,0 +1,17 @@
+<frameset>
+  <predicate lemma="democratize">
+    <roleset id="democratize.01" name="make into a democracy">
+      <roles>
+        <role descr="causer of democracy, agent" f="PAG" n="0"/>
+        <role descr="thing now a democracy" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="democratic">
+    <roleset id="democratic.02" name="of/for the people">
+      <roles>
+        <role descr="entity that is democratic" f="pag" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

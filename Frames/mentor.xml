@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="mentor">
+    <roleset id="mentor.01" name="act as a mentor to another">
+      <roles>
+        <role descr="entity acting as mentor" f="pag" n="0"/>
+        <role descr="entity getting advice, mentee" f="gol" n="1"/>
+        <role descr="area, subject of mentoring" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

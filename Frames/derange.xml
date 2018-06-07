@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="derange">
+    <roleset id="derange.01" name="to upset the arrangement or sanity of">
+      <roles>
+        <role descr="agent, cause" f="pag" n="0"/>
+        <role descr="experiencer, thing deranged" f="ppt" n="1"/>
+        <role descr="instrument when separate mention from arg 0" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,20 @@
+<frameset>
+  <predicate lemma="attribute">
+    <roleset id="attribute.01" name="assign attribution to">
+      <roles>
+        <role descr="attributor" f="pag" n="0"/>
+        <role descr="thing attributed, attribute" f="ppt" n="1"/>
+        <role descr="attributed to (benefactive?)" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="attributable">
+    <roleset id="attributable.02" name="able to be attributed to">
+      <roles>
+        <role descr="attributor" f="pag" n="0"/>
+        <role descr="thing attributed, attribute" f="ppt" n="1"/>
+        <role descr="attributed to (benefactive?)" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

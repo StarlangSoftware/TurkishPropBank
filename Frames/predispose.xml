@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="predispose">
+    <roleset id="predispose.01" name="to make susceptible, be susceptible to">
+      <roles>
+        <role descr="entity predisposing" f="pag" n="0"/>
+        <role descr="entity predisposed" f="ppt" n="1"/>
+        <role descr="predisposed to" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

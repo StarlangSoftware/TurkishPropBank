@@ -1,0 +1,16 @@
+<frameset>
+  <predicate lemma="onboard">
+    <roleset id="onboard.01" name="on a vessel/vehicle">
+      <roles>
+        <role descr="entity who is onboard" f="pag" n="1"/>
+        <role descr="the 'vessel'" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="onboard.02" name="in support of, going along with">
+      <roles>
+        <role descr="entity who is supporting" f="pag" n="1"/>
+        <role descr="onboard with what, in support of" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

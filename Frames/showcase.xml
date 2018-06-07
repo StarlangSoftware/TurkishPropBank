@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="showcase">
+    <roleset id="showcase.01" name="to present, exhibit as in a showcase">
+      <roles>
+        <role descr="displayer, agent putting something on display" f="PAG" n="0"/>
+        <role descr="entity displayed" f="PPT" n="1"/>
+        <role descr="location" f="loc" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

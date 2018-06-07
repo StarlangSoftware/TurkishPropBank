@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="convince">
+    <roleset id="convince.01" name="impelled action, motivating belief">
+      <roles>
+        <role descr="convincer" f="pag" n="0"/>
+        <role descr="impelled agent" f="ppt" n="1"/>
+        <role descr="impelled action/belief" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

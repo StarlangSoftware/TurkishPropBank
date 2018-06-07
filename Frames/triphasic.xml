@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="triphasic">
+    <roleset id="triphasic.01" name="having 3 phases">
+      <roles>
+        <role descr="thing with 3 phases" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

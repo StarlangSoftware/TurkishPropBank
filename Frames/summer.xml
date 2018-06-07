@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="summer">
+    <roleset id="summer.01" name="summer">
+      <roles>
+        <role descr="summer vacationer(s)" f="PPT" n="0"/>
+        <role descr="location of summer vacation" f="LOC" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

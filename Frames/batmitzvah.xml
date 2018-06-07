@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="batmitzvah">
+    <roleset id="batmitzvah.01" name="to initiate a girl in a bar mitzvah ceremony">
+      <roles>
+        <role descr="religious official" f="pag" n="0"/>
+        <role descr="girl initiated" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

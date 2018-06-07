@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="wed">
+    <roleset id="wed.01" name="cause to be closely affiliated, performance of a marriage (includes metaphorical usages)">
+      <roles>
+        <role descr="causer" f="PAG" n="0"/>
+        <role descr="one half" f="PPT" n="1"/>
+        <role descr="other half, usually prepositional" f="PPT" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

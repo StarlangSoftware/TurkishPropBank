@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="wheedle">
+    <roleset id="wheedle.01" name="coax">
+      <roles>
+        <role descr="coaxer" f="pag" n="0"/>
+        <role descr="request" f="ppt" n="1"/>
+        <role descr="source of requested object/action" f="dir" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

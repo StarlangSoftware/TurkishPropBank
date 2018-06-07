@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="catheterize">
+    <roleset id="catheterize.101" name="insert a small tube into">
+      <roles>
+        <role descr="Doctor" f="PAG" n="0"/>
+        <role descr="Patient/Body part" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

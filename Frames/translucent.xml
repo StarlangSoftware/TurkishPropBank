@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="translucent">
+    <roleset id="translucent.01" name="allowing light to pass through diffusely">
+      <roles>
+        <role descr="translucent entity" f="pag" n="1"/>
+        <role descr="the light" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

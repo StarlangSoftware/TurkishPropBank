@@ -1,0 +1,20 @@
+<frameset>
+  <predicate lemma="survey">
+    <roleset id="survey.01" name="poll, examine, research, to examine or poll">
+      <roles>
+        <role descr="examiner" f="pag" n="0"/>
+        <role descr="entity surveyed" f="ppt" n="1"/>
+        <role descr="surveyed about" f="ppt" n="2"/>
+        <role descr="beneficiary" f="gol" n="3"/>
+      </roles>
+    </roleset>
+    <roleset id="survey.02" name="inspect/measure/assess property">
+      <roles>
+        <role descr="surveyor" f="pag" n="0"/>
+        <role descr="location surveyed" f="ppt" n="1"/>
+        <role descr="in search of" f="vsp" n="2"/>
+        <role descr="value of the measurement/assessment" f="vsp" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

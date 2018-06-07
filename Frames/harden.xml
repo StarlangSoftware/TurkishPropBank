@@ -1,0 +1,31 @@
+<frameset>
+  <predicate lemma="harden">
+    <roleset id="harden.01" name="(cause to) become hard">
+      <roles>
+        <role descr="causer of hardness, agent" f="pag" n="0"/>
+        <role descr="thing becoming hard" f="ppt" n="1"/>
+        <role descr="hardened to what? conditions that arg1 is hardening towards" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="hard">
+    <roleset id="hard.02" name="difficult">
+      <roles>
+        <role descr="difficult thing (may require concatenation)" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="hard.03" name="hard of hearing (or similar)">
+      <roles>
+        <role descr="entity who has a hard time with arg1" f="pag" n="0"/>
+        <role descr="hearing, or other domain of difficulty" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="hard.04" name="sturdy, dense, resistant to pressure">
+      <roles>
+        <role descr="causer of hardness" f="pag" n="0"/>
+        <role descr="hard thing" f="ppt" n="1"/>
+        <role descr="hardened towards what/whom" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

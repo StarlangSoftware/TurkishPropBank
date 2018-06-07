@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="disillusion">
+    <roleset id="disillusion.01" name="to free from illusions, ideals">
+      <roles>
+        <role descr="causer of disillusionment" f="cau" n="0"/>
+        <role descr="entity without illusions" f="ppt" n="1"/>
+        <role descr="Concerning what?" f="pag" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

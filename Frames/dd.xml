@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="dd">
+    <roleset id="dd.01" name="designated drive">
+      <roles>
+        <role descr="designated driver" f="pag" n="0"/>
+        <role descr="beneficiary, drunk passenger" f="gol" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

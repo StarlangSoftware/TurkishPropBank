@@ -1,0 +1,20 @@
+<frameset>
+  <predicate lemma="profit">
+    <roleset id="profit.01" name="make money from, wages">
+      <roles>
+        <role descr="entity making money" f="pag" n="0"/>
+        <role descr="source" f="ppt" n="1"/>
+        <role descr="the profit itself, amount" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="profitable">
+    <roleset id="profitable.02" name="producing a profit">
+      <roles>
+        <role descr="entity making money" f="pag" n="0"/>
+        <role descr="source" f="ppt" n="1"/>
+        <role descr="the profit itself, amount" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

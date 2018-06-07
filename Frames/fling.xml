@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="fling">
+    <roleset id="fling.01" name="throw">
+      <roles>
+        <role descr="thrower" f="PAG" n="0"/>
+        <role descr="thing thrown" f="PPT" n="1"/>
+        <role descr="thrown at, to, over, etc" f="GOL" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

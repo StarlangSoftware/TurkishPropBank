@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="perambulate">
+    <roleset id="perambulate.01" name="perambulate">
+      <roles>
+        <role descr="entity moving, perambulater(s)" f="ppt" n="1"/>
+        <role descr="start point" f="dir" n="2"/>
+        <role descr="end point" f="gol" n="3"/>
+        <role descr="path" f="loc" n="4"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

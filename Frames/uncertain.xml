@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="uncertain">
+    <roleset id="uncertain.01" name="not guaranteed, sure">
+      <roles>
+        <role descr="unconfident believer" f="pag" n="0"/>
+        <role descr="proposition not guaranteed (may require concatenation)" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="sunburn">
+    <roleset id="sunburn.01" name="hurt with sunburn">
+      <roles>
+        <role descr="agent,experiencer" f="pag" n="0"/>
+        <role descr="sunburned thing" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

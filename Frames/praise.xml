@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="praise">
+    <roleset id="praise.01" name="praise">
+      <roles>
+        <role descr="praiser" f="pag" n="0"/>
+        <role descr="praised" f="ppt" n="1"/>
+        <role descr="reason" f="cau" n="2"/>
+      </roles>
+    
+    </roleset>
+  </predicate>
+</frameset>

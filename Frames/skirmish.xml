@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="skirmish">
+    <roleset id="skirmish.01" name="fight sporadically">
+      <roles>
+        <role descr="first or all combatants" f="PAG" n="0"/>
+        <role descr="additional combatants, if separate" f="COM" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

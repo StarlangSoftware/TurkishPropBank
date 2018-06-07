@@ -1,0 +1,13 @@
+<frameset>
+  <predicate lemma="nonunification">
+    <roleset id="nonunification.01" name="absence of joining into a whole">
+      <roles>
+        <role descr="agent" f="pag" n="0"/>
+        <role descr="first (or all) entities joined" f="ppt" n="1"/>
+        <role descr="second entity joined" f="ppt" n="2"/>
+        <role descr="unified whole" f="prd" n="3"/>
+        <role descr="specific aspect of args1/2 being unified (if in addition)" f="vsp" n="4"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

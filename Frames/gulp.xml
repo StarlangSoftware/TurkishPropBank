@@ -1,0 +1,18 @@
+<frameset>
+  <predicate lemma="gulp">
+    <roleset id="gulp.01" name="swig">
+      <roles>
+        <role descr="drinker" f="PAG" n="0"/>
+        <role descr="drink" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="gulp_down">
+    <roleset id="gulp_down.02" name="gulp_down: gulp all the way">
+      <roles>
+        <role descr="drinker" f="PAG" n="0"/>
+        <role descr="drink" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

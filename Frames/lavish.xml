@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="lavish">
+    <roleset id="lavish.01" name="to shower, give profusely">
+      <roles>
+        <role descr="giver, agent" f="PAG" n="0"/>
+        <role descr="thing lavished" f="ppt" n="1"/>
+        <role descr="lavished on" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

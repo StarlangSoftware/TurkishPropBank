@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="buffer">
+    <roleset id="buffer.01" name="protect">
+      <roles>
+        <role descr="protector" f="pag" n="0"/>
+        <role descr="protected" f="ppt" n="1"/>
+        <role descr="danger" f="vsp" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,26 @@
+<frameset>
+  <predicate lemma="afford">
+    <roleset id="afford.01" name="be able to spare, have the financial means">
+      <roles>
+        <role descr="haver of financial means, agent" f="pag" n="0"/>
+        <role descr="costly thing, theme" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="afford.02" name="provide, make available">
+      <roles>
+        <role descr="provider, agent" f="pag" n="0"/>
+        <role descr="provided, theme" f="ppt" n="1"/>
+        <role descr="recipient" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="affordable">
+    <roleset id="affordable.03" name="priced attainably">
+      <roles>
+        <role descr="entity able to pay for arg1" f="pag" n="0"/>
+        <role descr="commodity priced attainably" f="ppt" n="1"/>
+        <role descr="price" f="vsp" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

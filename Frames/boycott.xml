@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="boycott">
+    <roleset id="boycott.01" name="avoid for political reasons, avoid, in protest">
+      <roles>
+        <role descr="boycotter" f="PAG" n="0"/>
+        <role descr="unpleasant thing" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

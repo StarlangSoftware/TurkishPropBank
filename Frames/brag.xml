@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="brag">
+    <roleset id="brag.01" name="to talk boastfully">
+      <roles>
+        <role descr="boastful talker, agent" f="PAG" n="0"/>
+        <role descr="topic bragged about" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

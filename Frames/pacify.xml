@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="pacify">
+    <roleset id="pacify.01" name="make peaceful">
+      <roles>
+        <role descr="peacemaker" f="PAG" n="0"/>
+        <role descr="pacified entity" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="scapegoat">
+    <roleset id="scapegoat.01" name="to make a scapegoat of, slang for scapegoat">
+      <roles>
+        <role descr="agent, blamer making a scapegoat of someone/thing" f="pag" n="0"/>
+        <role descr="entity made a scapegoat" f="ppt" n="1"/>
+        <role descr="arg 1 is blamed for what?" f="cau" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

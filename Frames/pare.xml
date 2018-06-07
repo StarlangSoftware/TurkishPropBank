@@ -1,0 +1,40 @@
+<frameset>
+  <predicate lemma="pare">
+    <roleset id="pare.01" name="cut off unnecessary bits, reduce size">
+      <roles>
+        <role descr="cutter" f="pag" n="0"/>
+        <role descr="thing cut" f="ppt" n="1"/>
+        <role descr="medium, source" f="dir" n="2"/>
+        <role descr="instrument" f="mnr" n="3"/>
+      </roles>
+    </roleset>
+    <roleset id="pare.02" name="quantifiable reduction, reducing quantifiably">
+      <roles>
+        <role descr="cutter" f="pag" n="0"/>
+        <role descr="thing being reduced" f="ppt" n="1"/>
+        <role descr="EXT" f="ext" n="2"/>
+        <role descr="start point" f="dir" n="3"/>
+        <role descr="end point" f="gol" n="4"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="pare_down">
+    <roleset id="pare_down.03" name="phrasal cut off unnecessary bits, reduce size">
+      <roles>
+        <role descr="cutter" f="pag" n="0"/>
+        <role descr="thing cut" f="ppt" n="1"/>
+        <role descr="medium, source" f="dir" n="2"/>
+        <role descr="instrument" f="mnr" n="3"/>
+      </roles>
+    </roleset>
+    <roleset id="pare_down.04" name="phrasal quantifiable reduction, phrasal reducing quantifiably">
+      <roles>
+        <role descr="cutter" f="pag" n="0"/>
+        <role descr="thing being reduced" f="ppt" n="1"/>
+        <role descr="EXT" f="ext" n="2"/>
+        <role descr="start point" f="dir" n="3"/>
+        <role descr="end point" f="gol" n="4"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

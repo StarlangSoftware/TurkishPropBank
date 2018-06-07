@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="circumduct">
+    <roleset id="circumduct.01" name="move a body part in a conical motion (e.g. windmilling the arms, rolling the eyes)">
+      <roles>
+        <role descr="agent" f="pag" n="0"/>
+        <role descr="body part moving conically" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

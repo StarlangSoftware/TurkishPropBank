@@ -1,0 +1,26 @@
+<frameset>
+  <predicate lemma="eat">
+    <roleset id="eat.01" name="consume, comsuming">
+      <roles>
+        <role descr="consumer, eater" f="pag" n="0"/>
+        <role descr="meal" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="eat_up">
+    <roleset id="eat_up.02" name="consume fully">
+      <roles>
+        <role descr="consumer, eater" f="pag" n="0"/>
+        <role descr="meal" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="eat_away">
+    <roleset id="eat_away.03" name="consume partially">
+      <roles>
+        <role descr="consumer, eater" f="pag" n="0"/>
+        <role descr="meal" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

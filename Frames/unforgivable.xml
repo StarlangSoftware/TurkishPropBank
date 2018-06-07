@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="unforgivable">
+    <roleset id="unforgivable.01" name="not able to be absolved from blame">
+      <roles>
+        <role descr="agent unable to forgive" f="pag" n="0"/>
+        <role descr="entity not forgiven" f="ppt" n="1"/>
+        <role descr="crime of arg1, if in addition to arg1" f="vsp" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

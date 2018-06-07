@@ -1,0 +1,30 @@
+<frameset>
+  <predicate lemma="fantasize">
+    <roleset id="fantasize.01" name="dream">
+      <roles>
+        <role descr="dreamer" f="PAG" n="0"/>
+        <role descr="dream" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="fantastic">
+    <roleset id="fantastic.02" name="generally wonderful">
+      <roles>
+        <role descr="generally fantastic entity (may require concatenation)" f="pag" n="1"/>
+        <role descr="target of fantastic behavior" f="gol" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="fantastic.03" name="extremely skilled at">
+      <roles>
+        <role descr="skilled entity" f="pag" n="1"/>
+        <role descr="skill" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="fantastic.04" name="extremely beneficial, healthful">
+      <roles>
+        <role descr="beneficial thing" f="pag" n="1"/>
+        <role descr="beneficiary" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

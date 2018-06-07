@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="adipose">
+    <roleset id="adipose.01" name="relating to fat tissue">
+      <roles>
+        <role descr="adipose entity" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

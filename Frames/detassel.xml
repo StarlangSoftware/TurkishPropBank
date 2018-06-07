@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="detassel">
+    <roleset id="detassel.01" name="remove tassle">
+      <roles>
+        <role descr="remover" f="PAG" n="0"/>
+        <role descr="corn" f="DIR" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

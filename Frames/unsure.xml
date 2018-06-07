@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="unsure">
+    <roleset id="unsure.01" name="not having strong belief/confidence">
+      <roles>
+        <role descr="not quite believer" f="pag" n="0"/>
+        <role descr="not quite belief" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

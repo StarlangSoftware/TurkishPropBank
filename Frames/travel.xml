@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="travel">
+    <roleset id="travel.01" name="travel, voyaging">
+      <roles>
+        <role descr="traveller" f="ppt" n="0"/>
+        <role descr="location or path" f="loc" n="1"/>
+        <role descr="start point" f="dir" n="2"/>
+        <role descr="destination" f="gol" n="4"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

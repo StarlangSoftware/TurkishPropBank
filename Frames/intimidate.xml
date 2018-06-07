@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="intimidate">
+    <roleset id="intimidate.01" name="to make timid, fill with fear, causing fear/timidity in">
+      <roles>
+        <role descr="intimidating entity" f="pag" n="0"/>
+        <role descr="entity intimidated" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

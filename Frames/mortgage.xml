@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="mortgage">
+    <roleset id="mortgage.01" name="get money by giving up your possessions">
+      <roles>
+        <role descr="mortgager" f="pag" n="0"/>
+        <role descr="possession(s)" f="ppt" n="1"/>
+        <role descr="provider of money" f="gol" n="2"/>
+        <role descr="money" f="vsp" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,18 @@
+<frameset>
+  <predicate lemma="object">
+    <roleset id="object.01" name="complain about">
+      <roles>
+        <role descr="complainer" f="PAG" n="0"/>
+        <role descr="thing objected to" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="objectionable">
+    <roleset id="objectionable.02" name="offensive">
+      <roles>
+        <role descr="objector" f="pag" n="0"/>
+        <role descr="objectionable thing" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

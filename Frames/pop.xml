@@ -1,0 +1,48 @@
+<frameset>
+  <predicate lemma="pop">
+    <roleset id="pop.01" name="make a popping sound">
+      <roles>
+        <role descr="maker of sounds" f="pag" n="0"/>
+      </roles>
+    </roleset>
+    <roleset id="pop.02" name="pop, burst">
+      <roles>
+        <role descr="causer of popping" f="pag" n="0"/>
+        <role descr="thing popping, bubble" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="pop.04" name="move suddenly">
+      <roles>
+        <role descr="causer of motion" f="pag" n="0"/>
+        <role descr="entity in motion" f="ppt" n="1"/>
+        <role descr="EXT, distance moved" f="ext" n="2"/>
+        <role descr="start point" f="dir" n="3"/>
+        <role descr="end point" f="gol" n="4"/>
+        <role descr="direction" f="dir" n="5"/>
+      </roles>
+    </roleset>
+    <roleset id="pop.05" name="hit">
+      <roles>
+        <role descr="hitter" f="pag" n="0"/>
+        <role descr="person, thing hit" f="gol" n="1"/>
+        <role descr="mention of punch, hit itself if present" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="pop_up">
+    <roleset id="pop_up.03" name="pop up: appear">
+      <roles>
+        <role descr="agent, causer of appearance" f="pag" n="0"/>
+        <role descr="thing appearing" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="pop_off">
+    <roleset id="pop_off.06" name="do drugs (might be particular to heroin?)">
+      <roles>
+        <role descr="junkie" f="pag" n="0"/>
+        <role descr="drug" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="nag">
+    <roleset id="nag.01" name="nag, pester">
+      <roles>
+        <role descr="nagger" f="pag" n="0"/>
+        <role descr="nagged, impelled agent" f="ppt" n="1"/>
+        <role descr="impelled action" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="immiserate">
+    <roleset id="immiserate.01" name="impoverish, inflict misery upon">
+      <roles>
+        <role descr="causer of misery, agent" f="pag" n="0"/>
+        <role descr="entity immiserated" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

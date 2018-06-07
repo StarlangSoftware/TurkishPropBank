@@ -1,0 +1,13 @@
+<frameset>
+  <predicate lemma="phone">
+    <roleset id="phone.01" name="to telephone">
+      <roles>
+        <role descr="agent making a call" f="pag" n="0">
+</role>
+        <role descr="receiver" f="gol" n="1">
+</role>
+        <role descr="message" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

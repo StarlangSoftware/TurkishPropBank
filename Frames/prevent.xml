@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="prevent">
+    <roleset id="prevent.01" name="stop, prevent, stopping in advance">
+      <roles>
+        <role descr="Agent, intentional/animate" f="pag" n="0"/>
+        <role descr="Theme (action or object being prevented)" f="ppt" n="1"/>
+        <role descr="secondary predication or action" f="ppt" n="2"/>
+        <role descr="instrument" f="mnr" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

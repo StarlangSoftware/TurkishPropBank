@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="factor">
+    <roleset id="factor.01" name="include in calculation">
+      <roles>
+        <role descr="factorer" f="pag" n="0"/>
+        <role descr="thing included" f="ppt" n="1"/>
+        <role descr="calculation, or particle of direction" f="dir" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

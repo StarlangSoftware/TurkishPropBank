@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="typeset">
+    <roleset id="typeset.01" name="set into type">
+      <roles>
+        <role descr="agent, typesetter" f="pag" n="0"/>
+        <role descr="document" f="ppt" n="1"/>
+        <role descr="font, characters, typeset how" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,25 @@
+<frameset>
+  <predicate lemma="flick">
+    <roleset id="flick.01" name="move rapidly and lightly">
+      <roles>
+        <role descr="cause of motion" f="pag" n="0"/>
+        <role descr="thing in motion" f="ppt" n="1"/>
+        <role descr="path" f="dir" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="flick.02" name="touch rapidly and lightly">
+      <roles>
+        <role descr="toucher" f="pag" n="0"/>
+        <role descr="touched" f="ppt" n="1"/>
+        <role descr="instrument" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="flick.03" name="produce an effect with rapid light motion">
+      <roles>
+        <role descr="causer of effect" f="pag" n="0"/>
+        <role descr="thing effected" f="ppt" n="1"/>
+        <role descr="effect" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

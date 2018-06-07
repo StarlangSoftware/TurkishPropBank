@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="bechdel">
+    <roleset id="bechdel.01" name="subject to the bechdel test">
+      <roles>
+        <role descr="test-giver" f="pag" n="0"/>
+        <role descr="entity tested" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="resemble">
+    <roleset id="resemble.01" name="seem like">
+      <roles>
+        <role descr="copy" f="ppt" n="1"/>
+        <role descr="original" f="dir" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

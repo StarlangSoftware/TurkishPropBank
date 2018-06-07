@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="miscommunicate">
+    <roleset id="miscommunicate.01" name="communicate poorly, or failingly">
+      <roles>
+        <role descr="poor communicator" f="pag" n="0"/>
+        <role descr="topic" f="ppt" n="1"/>
+        <role descr="other communicator" f="com" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

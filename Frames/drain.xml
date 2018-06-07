@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="drain">
+    <roleset id="drain.01" name="unfill, empty">
+      <roles>
+        <role descr="causative agent" f="pag" n="0"/>
+        <role descr="container" f="dir" n="1"/>
+        <role descr="substance" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

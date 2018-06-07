@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="outfly">
+    <roleset id="outfly.01" name="fly beyond or faster than another">
+      <roles>
+        <role descr="first flier who is winning, flying faster/further" f="pag" n="0"/>
+        <role descr="other flier who is being outflown" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

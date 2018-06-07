@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="uturn">
+    <roleset id="uturn.01" name="turn 180 degrees">
+      <roles>
+        <role descr="turner" f="pag" n="0"/>
+        <role descr="thing turned (usually a car)" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="reinterview">
+    <roleset id="reinterview.01" name="interview or be interviewed again">
+      <roles>
+        <role descr="interviewer" f="pag" n="0"/>
+        <role descr="interviewee" f="gol" n="1"/>
+        <role descr="purpose/subject matter of interview" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

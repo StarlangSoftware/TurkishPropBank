@@ -1,0 +1,17 @@
+<frameset>
+  <predicate lemma="gnash">
+    <roleset id="gnash.01" name="grind together">
+      <roles>
+        <role descr="causer of grinding" f="pag" n="0"/>
+        <role descr="thing being ground" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="gnash.02" name="remove through grinding">
+      <roles>
+        <role descr="causer of removal" f="pag" n="0"/>
+        <role descr="thing being removed" f="ppt" n="1"/>
+        <role descr="source of arg1" f="dir" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

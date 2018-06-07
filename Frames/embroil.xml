@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="embroil">
+    <roleset id="embroil.01" name="involve in contention">
+      <roles>
+        <role descr="causer of contention, agent (rare)" f="pag" n="0"/>
+        <role descr="thing involved in contention" f="ppt" n="1"/>
+        <role descr="contention" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

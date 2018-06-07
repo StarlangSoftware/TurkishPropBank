@@ -1,0 +1,17 @@
+<frameset>
+  <predicate lemma="plank">
+    <roleset id="plank.01" name="cover with planks">
+      <roles>
+        <role descr="Plank-layer, agent" f="PAG" n="0"/>
+        <role descr="surface being covered" f="GOL" n="1"/>
+        <role descr="planks themselves, types of planks" f="PPT" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="plank.02" name="to broil and serve on a plank">
+      <roles>
+        <role descr="cook" f="PAG" n="0"/>
+        <role descr="food" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

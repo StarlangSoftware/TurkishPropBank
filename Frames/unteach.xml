@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="unteach">
+    <roleset id="unteach.01" name="make forget learning">
+      <roles>
+        <role descr="unteacher" f="pag" n="0"/>
+        <role descr="subject" f="ppt" n="1"/>
+        <role descr="(former) student" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

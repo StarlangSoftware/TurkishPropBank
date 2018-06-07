@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="discipline">
+    <roleset id="discipline.01" name="give punishment">
+      <roles>
+        <role descr="discipliner" f="pag" n="0"/>
+        <role descr="disciplined" f="ppt" n="1"/>
+        <role descr="cause" f="cau" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

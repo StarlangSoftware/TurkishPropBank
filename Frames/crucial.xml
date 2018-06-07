@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="crucial">
+    <roleset id="crucial.01" name="of utmost importance">
+      <roles>
+        <role descr="thing that is critical" f="pag" n="1"/>
+        <role descr="situation arg 1 is critical to" f="ppt" n="2"/>
+        <role descr="beneficiary, when seperate from arg 2" f="gol" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

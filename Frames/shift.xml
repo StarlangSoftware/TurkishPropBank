@@ -1,0 +1,13 @@
+<frameset>
+  <predicate lemma="shift">
+    <roleset id="shift.01" name="change location">
+      <roles>
+        <role descr="agent of movement" f="PAG" n="0"/>
+        <role descr="thing moving" f="ppt" n="1"/>
+        <role descr="destination" f="gol" n="2"/>
+        <role descr="source" f="dir" n="3"/>
+        <role descr="attribute of arg1 actually shifting (if in addition to arg1)" f="PRD" n="4"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

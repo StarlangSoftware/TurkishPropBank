@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="overexpress">
+    <roleset id="overexpress.01" name="excessively express a gene by producing too much of its effect or product">
+      <roles>
+        <role descr="causal agent" f="pag" n="0"/>
+        <role descr="gene being overexpressed" f="ppt" n="1"/>
+        <role descr="MNR of expression, symptoms" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,18 @@
+<frameset>
+  <predicate lemma="bash">
+    <roleset id="bash.01" name="to hit, with words or a bat (etc)">
+      <roles>
+        <role descr="critizer, hitter" f="pag" n="0"/>
+        <role descr="entity criticized/hit" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="bash_up">
+    <roleset id="bash_up.02" name="to hit, completive">
+      <roles>
+        <role descr="critizer, hitter" f="pag" n="0"/>
+        <role descr="entity criticized/hit" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

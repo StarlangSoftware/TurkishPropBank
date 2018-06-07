@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="exhaust">
+    <roleset id="exhaust.01" name="cause to become used up, tired">
+      <roles>
+        <role descr="agent/cause of depletion" f="pag" n="0"/>
+        <role descr="entity exhausted, depleted" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

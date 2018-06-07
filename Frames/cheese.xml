@@ -1,0 +1,18 @@
+<frameset>
+  <predicate lemma="cheese">
+    <roleset id="cheese.01" name="to be cheated, get the short end of the stick">
+      <roles>
+        <role descr="cheater" f="pag" n="0"/>
+        <role descr="cheated" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="cheese_off">
+    <roleset id="cheese_off.02" name="to anger, irritate">
+      <roles>
+        <role descr="cause of irritation" f="pag" n="0"/>
+        <role descr="irritated entity" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

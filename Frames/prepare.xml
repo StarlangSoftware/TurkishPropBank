@@ -1,0 +1,19 @@
+<frameset>
+  <predicate lemma="prepare">
+    <roleset id="prepare.01" name="prepare, make, create">
+      <roles>
+        <role descr="creator" f="pag" n="0"/>
+        <role descr="creation" f="ppt" n="1"/>
+        <role descr="created-from, thing changed" f="dir" n="2"/>
+        <role descr="benefactive" f="gol" n="3"/>
+      </roles>
+    </roleset>
+    <roleset id="prepare.02" name="make ready">
+      <roles>
+        <role descr="preparer" f="pag" n="0"/>
+        <role descr="thing made ready" f="ppt" n="1"/>
+        <role descr="ready for" f="prp" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

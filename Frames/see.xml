@@ -1,0 +1,36 @@
+<frameset>
+  <predicate lemma="see">
+    <roleset id="see.01" name="view">
+      <roles>
+        <role descr="viewer" f="pag" n="0"/>
+        <role descr="thing viewed" f="ppt" n="1"/>
+        <role descr="attribute of arg1, further description" f="prd" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="see.02" name="verb of motion: accompany">
+      <roles>
+        <role descr="accompanier" f="pag" n="0"/>
+        <role descr="entity in motion" f="ppt" n="1"/>
+        <role descr="destination" f="gol" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="see.03" name="discourse function">
+      <roles>
+        <role descr="you" f="pag" n="0"/>
+      </roles>
+    </roleset>
+    <roleset id="see.04" name="ensure">
+      <roles>
+        <role descr="ensurer" f="pag" n="0"/>
+        <role descr="fixed: 'to it'" f="ppt" n="1"/>
+        <role descr="proposition, event" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="see.05" name="date casually">
+      <roles>
+        <role descr="first entity" f="pag" n="0"/>
+        <role descr="second entity, or 'each other' (or variant)" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

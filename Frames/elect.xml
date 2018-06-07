@@ -1,0 +1,41 @@
+<frameset>
+  <predicate lemma="elect">
+    <roleset id="elect.01" name="elect someone to an office or position, elect">
+      <roles>
+        <role descr="voters" f="pag" n="0"/>
+        <role descr="candidate" f="ppt" n="1"/>
+        <role descr="office or position" f="prd" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="elect.02" name="choose an action or thing">
+      <roles>
+        <role descr="Chooser" f="pag" n="0"/>
+        <role descr="Thing chosen" f="ppt" n="1"/>
+        <role descr="Group or source chosen from" f="dir" n="2"/>
+        <role descr="Benefactive" f="gol" n="3"/>
+        <role descr="Secondary attribute of Arg1" f="prd" n="4"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="electoral">
+    <roleset id="electoral.03" name="of or relating to elctions">
+      <roles>
+        <role descr="thing that is related" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="electoral.04" name="relating to or composed of electors">
+      <roles>
+        <role descr="elector, voter" f="pag" n="0"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="electable">
+    <roleset id="electable.05" name="capable of being elected by voters">
+      <roles>
+        <role descr="voters" f="pag" n="0"/>
+        <role descr="entity elected" f="ppt" n="1"/>
+        <role descr="position elected to" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,17 @@
+<frameset>
+  <predicate lemma="rebut">
+    <roleset id="rebut.01" name="make a rebuttal, responding to in support of opposing viewpoint">
+      <roles>
+        <role descr="responder" f="pag" n="0"/>
+        <role descr="utterance, the response" f="ppt" n="1"/>
+        <role descr="in response to" f="gol" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="rebut.02" name="say as a rebuttal">
+      <roles>
+        <role descr="speaker" f="PAG" n="0"/>
+        <role descr="spoken words" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

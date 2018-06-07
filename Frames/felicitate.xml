@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="felicitate">
+    <roleset id="felicitate.01" name="to compliment upon a happy event">
+      <roles>
+        <role descr="expresser, agent" f="pag" n="0"/>
+        <role descr="person congratulated" f="ppt" n="1"/>
+        <role descr="achievement" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

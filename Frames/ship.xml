@@ -1,0 +1,20 @@
+<frameset>
+  <predicate lemma="ship">
+    <roleset id="ship.01" name="send a package">
+      <roles>
+        <role descr="sender" f="PAG" n="0"/>
+        <role descr="package" f="PPT" n="1"/>
+        <role descr="recipient" f="GOL" n="2"/>
+        <role descr="source" f="DIR" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="ship_out">
+    <roleset id="ship_out.02" name="depart, as a soldier">
+      <roles>
+        <role descr="soldier" f="pag" n="1"/>
+        <role descr="destination" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

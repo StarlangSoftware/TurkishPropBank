@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="repeal">
+    <roleset id="repeal.01" name="to revoke, annul">
+      <roles>
+        <role descr="revoker, agent" f="PAG" n="0"/>
+        <role descr="entity repealed" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

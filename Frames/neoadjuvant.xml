@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="neoadjuvant">
+    <roleset id="neoadjuvant.01" name="administered therapeutically before the main therapy">
+      <roles>
+        <role descr="neoadjuvant therapy" f="pag" n="1"/>
+        <role descr="main therapy that comes afterward" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

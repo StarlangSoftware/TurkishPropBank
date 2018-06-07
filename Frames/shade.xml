@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="shade">
+    <roleset id="shade.01" name="cast into shadow">
+      <roles>
+        <role descr="thing blocking light" f="PAG" n="0"/>
+        <role descr="thing in shadow" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

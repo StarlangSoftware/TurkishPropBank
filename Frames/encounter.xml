@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="encounter">
+    <roleset id="encounter.01" name="to meet unexpectedly">
+      <roles>
+        <role descr="entity encountering something" f="PAG" n="0"/>
+        <role descr="entity encountered" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

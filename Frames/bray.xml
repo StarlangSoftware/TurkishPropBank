@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="bray">
+    <roleset id="bray.01" name="to utter a harsh, loud sound, as that of a   donkey">
+      <roles>
+        <role descr="bray-er" f="PAG" n="0"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

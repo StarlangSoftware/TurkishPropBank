@@ -1,0 +1,13 @@
+<frameset>
+  <predicate lemma="about">
+    <roleset id="about.01" name="located 'around', in the general vicinity">
+      <roles>
+        <role descr="entity who is around" f="pag" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="about.02" name="about to __">
+      <roles>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

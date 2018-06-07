@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="overpursue">
+    <roleset id="overpursue.01" name="pursue too far">
+      <roles>
+        <role descr="pursuer" f="pag" n="0"/>
+        <role descr="entity pursued" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,51 @@
+<frameset>
+  <predicate lemma="warm">
+    <roleset id="warm.01" name="(cause to) become warm">
+      <roles>
+        <role descr="cause of warmth" f="pag" n="0"/>
+        <role descr="thing becoming warm" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="warm.03" name="become receptive to">
+      <roles>
+        <role descr="entity becoming receptive" f="pag" n="0"/>
+        <role descr="to what?" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="warm.06" name="be socially welcoming, nice">
+      <roles>
+        <role descr="agent of warm behavior" f="pag" n="0"/>
+        <role descr="warm behavior" f="ppt" n="1"/>
+        <role descr="target of warm behavior" f="gol" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="warm.07" name="(become) comfortably above average temperature">
+      <roles>
+        <role descr="causer of warmth" f="pag" n="0"/>
+        <role descr="warm thing (not 'it', if refering to empty weather pronoun)" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="warm_up">
+    <roleset id="warm_up.02" name="(cause to) become warm">
+      <roles>
+        <role descr="cause of warmth" f="pag" n="0"/>
+        <role descr="thing becoming warm" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="warm_up.05" name="warm-up: become receptive to">
+      <roles>
+        <role descr="entity becoming receptive" f="pag" n="0"/>
+        <role descr="to what?" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="warm_over">
+    <roleset id="warm_over.04" name="warm slightly">
+      <roles>
+        <role descr="causer of warming" f="pag" n="0"/>
+        <role descr="thing becoming warm" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

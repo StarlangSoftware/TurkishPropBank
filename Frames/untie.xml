@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="untie">
+    <roleset id="untie.01" name="unattach">
+      <roles>
+        <role descr="agent, entity doing the untying" f="PAG" n="0"/>
+        <role descr="patient, thing(s) being untied" f="PPT" n="1"/>
+        <role descr="untied from" f="PPT" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

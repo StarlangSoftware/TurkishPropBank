@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="presage">
+    <roleset id="presage.01" name="show the future">
+      <roles>
+        <role descr="sign" f="PAG" n="0"/>
+        <role descr="future" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

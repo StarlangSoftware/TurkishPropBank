@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="kink">
+    <roleset id="kink.01" name="tightly tangling, pinching, or impeding progress of">
+      <roles>
+        <role descr="Causer" f="pag" n="0"/>
+        <role descr="Entity kinked" f="ppt" n="1"/>
+        <role descr="Instrument" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

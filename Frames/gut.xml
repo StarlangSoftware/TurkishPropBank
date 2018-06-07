@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="gut">
+    <roleset id="gut.01" name="remove the guts from">
+      <roles>
+        <role descr="gutter (hmmmm)" f="PAG" n="0"/>
+        <role descr="victim" f="DIR" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

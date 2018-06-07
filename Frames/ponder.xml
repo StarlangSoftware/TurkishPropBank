@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="ponder">
+    <roleset id="ponder.01" name="think about">
+      <roles>
+        <role descr="thinker" f="PAG" n="0"/>
+        <role descr="thought" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

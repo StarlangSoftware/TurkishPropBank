@@ -1,0 +1,15 @@
+<frameset>
+  <predicate lemma="genuine">
+    <roleset id="genuine.01" name="sincere">
+      <roles>
+        <role descr="Sincere entity" f="ppt" n="1"/>
+        <role descr="Sincere in what aspect, endeavour?" f="prd" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="genuine.02" name="not fake, authentic">
+      <roles>
+        <role descr="authentic thing" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

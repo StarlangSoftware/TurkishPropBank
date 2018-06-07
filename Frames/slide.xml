@@ -1,0 +1,20 @@
+<frameset>
+  <predicate lemma="slide">
+    <roleset id="slide.01" name="slide, physical motion">
+      <roles>
+        <role descr="agent, causer of sliding" f="pag" n="0"/>
+        <role descr="thing sliding" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="slide.02" name="quantifiable motion, change in position on a scale">
+      <roles>
+        
+        <role descr="Logical subject, patient, thing falling" f="pag" n="1"/>
+        <role descr="EXT, amount fallen" f="ext" n="2"/>
+        <role descr="start point" f="dir" n="3"/>
+        <role descr="end point, end state of arg1" f="gol" n="4"/>
+        <role descr="medium" f="vsp" n="5"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

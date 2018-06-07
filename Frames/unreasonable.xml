@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="unreasonable">
+    <roleset id="unreasonable.01" name="irrational, not based on reason">
+      <roles>
+        <role descr="unreasonable entity/act (may require concatenation)" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

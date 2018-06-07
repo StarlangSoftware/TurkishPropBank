@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="backstab">
+    <roleset id="backstab.01" name="stab literally in the back, or betray">
+      <roles>
+        <role descr="backstabber" f="pag" n="0"/>
+        <role descr="entity stabbed" f="ppt" n="1"/>
+        <role descr="stabbing instrument: knife or act of betrayal" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

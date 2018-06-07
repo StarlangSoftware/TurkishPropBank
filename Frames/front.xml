@@ -1,0 +1,19 @@
+<frameset>
+  <predicate lemma="front">
+    <roleset id="front.01" name="spatially closer than or closest">
+      <roles>
+        <role descr="thing in the front" f="pag" n="1"/>
+        <role descr="in front of what (thing in back)" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="up_front">
+    <roleset id="up_front.02" name="be straightfoward and honest with">
+      <roles>
+        <role descr="speaker, one who is direct and honest" f="pag" n="0"/>
+        <role descr="subject matter, about what" f="ppt" n="1"/>
+        <role descr="listener" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

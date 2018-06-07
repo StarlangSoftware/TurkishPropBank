@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="decriminalize">
+    <roleset id="decriminalize.01" name="make into less of a crime (or not a crime)">
+      <roles>
+        <role descr="Agent" f="PAG" n="0"/>
+        <role descr="(former) crime" f="ppt" n="1"/>
+        <role descr="start state" f="dir" n="2"/>
+        <role descr="end state" f="prd" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

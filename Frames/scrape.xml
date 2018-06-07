@@ -1,0 +1,26 @@
+<frameset>
+  <predicate lemma="scrape">
+    <roleset id="scrape.01" name="remove by scraping">
+      <roles>
+        <role descr="agent, scraper" f="pag" n="0"/>
+        <role descr="thing removed" f="ppt" n="1"/>
+        <role descr="source" f="dir" n="2"/>
+        <role descr="instrument" f="mnr" n="3"/>
+      </roles>
+    </roleset>
+    <roleset id="scrape.02" name="collect with difficulty">
+      <roles>
+        <role descr="collector" f="pag" n="0"/>
+        <role descr="thing collected" f="ppt" n="1"/>
+        <role descr="quasi-phrasal attribute of arg1" f="prd" n="2"/>
+        <role descr="source" f="dir" n="3"/>
+      </roles>
+    </roleset>
+    <roleset id="scrape.03" name="just get by">
+      <roles>
+        <role descr="entity just getting by" f="pag" n="0"/>
+        <role descr="path, thing just barely accomplished" f="dir" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

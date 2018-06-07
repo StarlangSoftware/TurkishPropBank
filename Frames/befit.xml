@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="befit">
+    <roleset id="befit.01" name="be suitable or appriate for something.">
+      <roles>
+        <role descr="thing(s) fitting" f="ppt" n="1"/>
+        <role descr="befitting of" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

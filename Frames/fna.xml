@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="fna">
+    <roleset id="fna.01" name="fine needle aspiration - suck out fluid with a fine needle">
+      <roles>
+        <role descr="docotr" f="pag" n="0"/>
+        <role descr="substance" f="ppt" n="1"/>
+        <role descr="source" f="dir" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

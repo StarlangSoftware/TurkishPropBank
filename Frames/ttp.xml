@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="ttp">
+    <roleset id="ttp.01" name="having a specific blood clotting disorder">
+      <roles>
+        <role descr="entity with TTP" f="pag" n="1"/>
+        <role descr="in what region" f="loc" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

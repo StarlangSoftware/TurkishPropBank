@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="socialist">
+    <roleset id="socialist.01" name="adhering/related to socialism">
+      <roles>
+        <role descr="socialist entity" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

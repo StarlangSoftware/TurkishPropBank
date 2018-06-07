@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="avulse">
+    <roleset id="avulse.101" name="tear away">
+      <roles>
+        <role descr="Agent" f="PAG" n="0"/>
+        <role descr="Body part, object" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

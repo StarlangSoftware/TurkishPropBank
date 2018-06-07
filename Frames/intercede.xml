@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="intercede">
+    <roleset id="intercede.01" name="intervene, come between to   create a resolution">
+      <roles>
+        <role descr="intercessor" f="pag" n="0"/>
+        <role descr="resolution between/among/with whom" f="ppt" n="1"/>
+        <role descr="on behalf of" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

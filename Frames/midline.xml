@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="midline">
+    <roleset id="midline.01" name="existing along the (vertical) center line of the body">
+      <roles>
+        <role descr="thing in the center" f="ppt" n="1"/>
+        <role descr="the center of what" f="loc" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

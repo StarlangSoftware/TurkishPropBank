@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="quarry">
+    <roleset id="quarry.01" name="quarry,mine,search">
+      <roles>
+        <role descr="quarrier, agent" f="PAG" n="0"/>
+        <role descr="location (the quarry)" f="loc" n="1"/>
+        <role descr="the stone" f="PPT" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

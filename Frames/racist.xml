@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="racist">
+    <roleset id="racist.01" name="racially bigoted">
+      <roles>
+        <role descr="racist entity" f="pag" n="1"/>
+        <role descr="against which race" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="cobble">
+    <roleset id="cobble.01" name="build/create roughly">
+      <roles>
+        <role descr="builder" f="pag" n="0"/>
+        <role descr="built, creation, end state" f="ppt" n="1"/>
+        <role descr="material, start state" f="vsp" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

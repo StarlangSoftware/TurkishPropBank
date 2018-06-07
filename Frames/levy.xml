@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="levy">
+    <roleset id="levy.01" name="to impose or collect">
+      <roles>
+        <role descr="imposer, collector, agent" f="pag" n="0"/>
+        <role descr="entity levied, usually taxes" f="ppt" n="1"/>
+        <role descr="levied on what? entity being taxed" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

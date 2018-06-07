@@ -1,0 +1,84 @@
+<frameset>
+  <predicate lemma="strike">
+    <roleset id="strike.01" name="hit, attack">
+      <roles>
+        <role descr="animate, volitional hitter" f="pag" n="0"/>
+        <role descr="thing hit" f="ppt" n="1"/>
+        <role descr="instrument, non-volitional hitter" f="gol" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="strike.02" name="refrain from working">
+      <roles>
+        <role descr="workers" f="pag" n="0"/>
+        <role descr="employer" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="strike.03" name="remove">
+      <roles>
+        <role descr="remover" f="pag" n="0"/>
+        <role descr="thing removed" f="ppt" n="1"/>
+        <role descr="source, removed from" f="dir" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="strike.04" name="appear, seem">
+      <roles>
+        <role descr="thing seeming" f="pag" n="1"/>
+        <role descr="attribute" f="prd" n="2"/>
+        <role descr="viewer" f="ppt" n="3"/>
+      </roles>
+    </roleset>
+    <roleset id="strike.05" name="initiate">
+      <roles>
+        <role descr="Agent" f="pag" n="0"/>
+        <role descr="Theme(-Creation)" f="ppt" n="1"/>
+        <role descr="Instrument" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="strike.10" name="strike a pose">
+      <roles>
+        <role descr="poseur" f="pag" n="0"/>
+        <role descr="pose" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="strike.11" name="sports">
+      <roles>
+        <role descr="pitcher" f="pag" n="0"/>
+        <role descr="batter" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="strike_out">
+    <roleset id="strike_out.06" name="baseball">
+      <roles>
+        <role descr="pitcher" f="pag" n="0"/>
+        <role descr="batter" f="ppt" n="1"/>
+        <role descr="with respect to" f="gol" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="strike_out.07" name="remove">
+      <roles>
+        <role descr="remover" f="pag" n="0"/>
+        <role descr="thing removed" f="ppt" n="1"/>
+        <role descr="source, removed from" f="dir" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="strike_down">
+    <roleset id="strike_down.08" name="defeat, smite (cf. hit sense above)">
+      <roles>
+        <role descr="agent, hitter - animate only!" f="pag" n="0"/>
+        <role descr="thing hit" f="ppt" n="1"/>
+        <role descr="instrument, thing hit by or with" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="strike_up">
+    <roleset id="strike_up.09" name="initiate">
+      <roles>
+        <role descr="Agent" f="pag" n="0"/>
+        <role descr="Theme(-Creation)" f="ppt" n="1"/>
+        <role descr="Instrument" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

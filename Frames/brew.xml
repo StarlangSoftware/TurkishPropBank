@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="brew">
+    <roleset id="brew.01" name="create (beer)">
+      <roles>
+        <role descr="creator, brewer" f="pag" n="0"/>
+        <role descr="creation, beer" f="ppt" n="1"/>
+        <role descr="created-from, thing changed" f="vsp" n="2"/>
+        <role descr="benefactive" f="gol" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

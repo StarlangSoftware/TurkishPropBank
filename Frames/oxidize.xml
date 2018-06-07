@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="oxidize">
+    <roleset id="oxidize.01" name="to (cause to) convert into an oxide, combine with oxygen">
+      <roles>
+        <role descr="Cause of oxidizing, Scientist causing conversion" f="pag" n="0"/>
+        <role descr="Entity/element oxidizing" f="ppt" n="1"/>
+        <role descr="End state, oxidized to what" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

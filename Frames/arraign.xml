@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="arraign">
+    <roleset id="arraign.01" name="call before court to answer indictment">
+      <roles>
+        <role descr="legal authority" f="pag" n="0"/>
+        <role descr="person arraigned" f="ppt" n="1"/>
+        <role descr="crime" f="cau" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

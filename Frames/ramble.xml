@@ -1,0 +1,16 @@
+<frameset>
+  <predicate lemma="ramble">
+    <roleset id="ramble.01" name="move aimlessly">
+      <roles>
+        <role descr="entity in motion" f="PPT" n="0"/>
+        <role descr="path" f="LOC" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="ramble.02" name="talk aimlessly">
+      <roles>
+        <role descr="speaker" f="PAG" n="0"/>
+        <role descr="utterance, topic" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

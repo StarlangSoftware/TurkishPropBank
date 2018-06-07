@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="snuggle">
+    <roleset id="snuggle.01" name="snuggle">
+      <roles>
+        <role descr="snuggler" f="PAG" n="0"/>
+        <role descr="snuggled with" f="loc" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

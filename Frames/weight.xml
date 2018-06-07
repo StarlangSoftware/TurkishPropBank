@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="weight">
+    <roleset id="weight.01" name="to present with a bias">
+      <roles>
+        <role descr="presenter of bias, agent" f="pag" n="0"/>
+        <role descr="entity weighted" f="ppt" n="1"/>
+        <role descr="attribute" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

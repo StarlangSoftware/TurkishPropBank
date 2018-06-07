@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="widow">
+    <roleset id="widow.01" name="(cause to) become unmarried because of death">
+      <roles>
+        <role descr="causer of widowment" f="pag" n="0"/>
+        <role descr="widow" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

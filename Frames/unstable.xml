@@ -1,0 +1,16 @@
+<frameset>
+  <predicate lemma="unstable">
+    <roleset id="unstable.01" name="unsettle, destabilize">
+      <roles>
+        <role descr="agent, cause" f="PAG" n="0"/>
+        <role descr="thing unstabled" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="unstable.02" name="not held in equilibrium">
+      <roles>
+        <role descr="unstable entity" f="ppt" n="1"/>
+        <role descr="position/attribute not held in equilibrium" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

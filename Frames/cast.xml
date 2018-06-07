@@ -1,0 +1,32 @@
+<frameset>
+  <predicate lemma="cast">
+    <roleset id="cast.01" name="throw outward, throw (dice, fishing lines, shadows)">
+      <roles>
+        <role descr="thrower" f="pag" n="0"/>
+        <role descr="thing thrown" f="ppt" n="1"/>
+        <role descr="destination" f="gol" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="cast.02" name="name, assign a role">
+      <roles>
+        <role descr="namer, assigner of a role" f="pag" n="0"/>
+        <role descr="entity playing the role" f="ppt" n="1"/>
+        <role descr="role" f="prd" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="cast.03" name="make 3d reproductions from a mold">
+      <roles>
+        <role descr="foundry worker, agent" f="pag" n="0"/>
+        <role descr="final product" f="prd" n="1"/>
+        <role descr="material used" f="vsp" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="cast.04" name="bandage in plaster">
+      <roles>
+        <role descr="doctor" f="pag" n="0"/>
+        <role descr="patient, bone set" f="ppt" n="1"/>
+        <role descr="material used" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

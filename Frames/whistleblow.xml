@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="whistleblow">
+    <roleset id="whistleblow.01" name="blow the whistle on; alert the authorities or public of wrongdoing">
+      <roles>
+        <role descr="whistleblower" f="pag" n="0"/>
+        <role descr="action reported" f="ppt" n="1"/>
+        <role descr="perpetrator reported" f="vsp" n="2"/>
+        <role descr="authorities alerted" f="gol" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="strange">
+    <roleset id="strange.01" name="unusual, weird">
+      <roles>
+        <role descr="strange entity" f="ppt" n="1"/>
+        <role descr="perceiver" f="vsp" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,15 @@
+<frameset>
+  <predicate lemma="huge">
+    <roleset id="huge.01" name="generally large">
+      <roles>
+        <role descr="huge thing" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="huge.02" name="very popular, important">
+      <roles>
+        <role descr="popular entity" f="ppt" n="1"/>
+        <role descr="group holding arg1 as important" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

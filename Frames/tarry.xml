@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="tarry">
+    <roleset id="tarry.01" name="not be prompt">
+      <roles>
+        <role descr="one who tarries" f="PAG" n="0"/>
+        <role descr="thing tarried over" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

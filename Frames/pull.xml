@@ -1,0 +1,86 @@
+<frameset>
+  <predicate lemma="pull">
+    <roleset id="pull.01" name="(try to) cause motion, causing motion">
+      <roles>
+        <role descr="puller" f="pag" n="0"/>
+        <role descr="thing pulled" f="ppt" n="1"/>
+        <role descr="DIR, destination or attribute of arg1" f="dir" n="2"/>
+        <role descr="EXT, distance moved" f="ext" n="3"/>
+      </roles>
+    </roleset>
+    <roleset id="pull.06" name="various quasi-idiomatic usages">
+      <roles>
+        <role descr="puller" f="pag" n="0"/>
+        <role descr="the plug, the wool, etc" f="ppt" n="1"/>
+        <role descr="the rest of the idiom" f="vsp" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="pull.09" name="remove from availability for consumption">
+      <roles>
+        <role descr="remover" f="pag" n="0"/>
+        <role descr="thing removed" f="ppt" n="1"/>
+        <role descr="removed from" f="dir" n="2"/>
+      </roles>
+      <example name="pulling-n" src="" type="">
+        <text>Also, I'm pretty sure their pulling the show off the air and making it an online exclusive caused them
+ to make the shortsighted decision to cut the show's budget.</text>
+        <arg f="" n="0">their</arg>
+        <rel f="">pulling</rel>
+        <arg f="" n="1">the show</arg>
+        <arg f="" n="2">off the air</arg>
+      </example>
+    </roleset>
+  </predicate>
+  <predicate lemma="pull_out">
+    <roleset id="pull_out.02" name="exit, leave, withdrawing">
+      <roles>
+        <role descr="causal agent" f="pag" n="0"/>
+        <role descr="entity leaving" f="ppt" n="1"/>
+        <role descr="place left" f="dir" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="pull_through">
+    <roleset id="pull_through.04" name="make it, survive">
+      <roles>
+        <role descr="survivor" f="ppt" n="0"/>
+        <role descr="adverse circumstances" f="vsp" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="pull_off">
+    <roleset id="pull_off.03" name="manage to do despite">
+      <roles>
+        <role descr="manager" f="pag" n="0"/>
+        <role descr="deed accomplished" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="pull_over">
+    <roleset id="pull_over.05" name="(cause to) move to the side, moving to the side (of the road, for example)">
+      <roles>
+        <role descr="causal agent" f="pag" n="0"/>
+        <role descr="thing moving, pulling over" f="ppt" n="1"/>
+        <role descr="destination" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="pull_up">
+    <roleset id="pull_up.07" name="similar to a chin-up">
+      <roles>
+        <role descr="excerciser" f="PAG" n="0"/>
+        <role descr="destination pulled up to" f="gol" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="pull_down">
+    <roleset id="pull_down.08" name="pull protein complexes out of a solution">
+      <roles>
+        <role descr="intentional agent of pull-down (e.g. scientist)" f="pag" n="0" />
+        <role descr="thing pulled down, antigen (e.g. protein)" f="ppt" n="1" />
+        <role descr="pulled down from, solution" f="dir" n="2" />
+        <role descr="instrument" f="mnr" n="3" />
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

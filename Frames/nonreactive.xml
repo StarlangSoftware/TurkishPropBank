@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="nonreactive">
+    <roleset id="nonreactive.01" name="not giving a response">
+      <roles>
+        <role descr="reactor" f="pag" n="0"/>
+        <role descr="(not) reacting to" f="ppt" n="1"/>
+        <role descr="the non-reaction" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

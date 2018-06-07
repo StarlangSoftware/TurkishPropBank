@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="babysit">
+    <roleset id="babysit.01" name="watch/take care of something for someone else, child-caring">
+      <roles>
+        <role descr="babysitter" f="pag" n="0"/>
+        <role descr="thing being babysat" f="ppt" n="1"/>
+        <role descr="person/entity seeking babyistter" f="gol" n="2"/>
+      </roles>
+    
+    </roleset>
+  </predicate>
+</frameset>

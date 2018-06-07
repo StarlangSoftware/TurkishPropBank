@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="nadire">
+    <roleset id="nadire.01" name="reach the lowest point">
+      <roles>
+        <role descr="thing reaching the bottom" f="PAG" n="0"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

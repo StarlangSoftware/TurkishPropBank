@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="rhapsodize">
+    <roleset id="rhapsodize.01" name="rhapsodize">
+      <roles>
+        <role descr="experiencer of rhapsody" f="PPT" n="0"/>
+        <role descr="cause of rhapsody" f="PAG" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

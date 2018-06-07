@@ -1,0 +1,17 @@
+<frameset>
+  <predicate lemma="arrest">
+    <roleset id="arrest.01" name="like a criminal">
+      <roles>
+        <role descr="police" f="pag" n="0"/>
+        <role descr="criminal" f="ppt" n="1"/>
+        <role descr="crime" f="cau" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="arrest.02" name="stop">
+      <roles>
+        <role descr="causer of stopping" f="pag" n="0"/>
+        <role descr="thing stopping" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

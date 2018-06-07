@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="transparent">
+    <roleset id="transparent.01" name="able to be seen through, obvious">
+      <roles>
+        <role descr="obvious thing, thing that can be seen through" f="ppt" n="1"/>
+        <role descr="seer" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="sublux">
+    <roleset id="sublux.01" name="partially dislocate">
+      <roles>
+        <role descr="Agent" f="pag" n="0"/>
+        <role descr="Thing dislocated/subluxed" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

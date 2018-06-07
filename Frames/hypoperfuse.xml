@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="hypoperfuse">
+    <roleset id="hypoperfuse.01" name="decrease perfusion of blood through an organ">
+      <roles>
+        <role descr="Causal agent" f="pag" n="0"/>
+        <role descr="Entity losing perfusion of blood" f="dir" n="1"/>
+        <role descr="Blood/other fluid, if explicit" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

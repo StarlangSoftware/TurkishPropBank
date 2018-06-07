@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="reappoint">
+    <roleset id="reappoint.01" name="appoint again">
+      <roles>
+        <role descr="appointer" f="pag" n="0"/>
+        <role descr="appointed" f="ppt" n="1"/>
+        <role descr="position/office" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

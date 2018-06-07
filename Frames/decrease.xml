@@ -1,0 +1,13 @@
+<frameset>
+  <predicate lemma="decrease">
+    <roleset id="decrease.01" name="go down incrementally, having gone down">
+      <roles>
+        <role descr="causer of decline, agent" f="pag" n="0"/>
+        <role descr="thing decreasing" f="ppt" n="1"/>
+        <role descr="amount decreased by, EXT or MNR" f="ext" n="2"/>
+        <role descr="start point" f="dir" n="3"/>
+        <role descr="end point" f="prd" n="4"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

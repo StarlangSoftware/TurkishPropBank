@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="physiologic">
+    <roleset id="physiologic.01" name="of an organism's normal functioning">
+      <roles>
+        <role descr="physiologic thing" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

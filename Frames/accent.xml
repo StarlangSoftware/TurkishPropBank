@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="accent">
+    <roleset id="accent.01" name="to bring out certain features">
+      <roles>
+        <role descr="decorator" f="pag" n="0"/>
+        <role descr="thing decorated" f="gol" n="1"/>
+        <role descr="decorations" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

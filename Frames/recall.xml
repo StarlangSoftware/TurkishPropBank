@@ -1,0 +1,26 @@
+<frameset>
+  <predicate lemma="recall">
+    <roleset id="recall.01" name="manufactured defect">
+      <roles>
+        <role descr="entity recalling, manufacturer" f="pag" n="0"/>
+        <role descr="thing being recalled, defective thing" f="ppt" n="1"/>
+        <role descr="recalled from" f="dir" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="recall.02" name="remember">
+      <roles>
+        <role descr="rememberer" f="pag" n="0"/>
+        <role descr="memory" f="ppt" n="1"/>
+        <role descr="secondary attribute" f="prd" n="2"/>
+        <role descr="hearer" f="gol" n="3"/>
+      </roles>
+    </roleset>
+    <roleset id="recall.03" name="ask or order to go/come back">
+      <roles>
+        <role descr="recaller" f="pag" n="0"/>
+        <role descr="entity recalled" f="ppt" n="1"/>
+        <role descr="recalled to where" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

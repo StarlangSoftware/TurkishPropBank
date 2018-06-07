@@ -1,0 +1,16 @@
+<frameset>
+  <predicate lemma="contain">
+    <roleset id="contain.01" name="hold inside">
+      <roles>
+        <role descr="container" f="LOC" n="0"/>
+        <role descr="contents" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="contain.02" name="restrain, halt the spread of">
+      <roles>
+        <role descr="entity restraining arg1" f="pag" n="0"/>
+        <role descr="thing being restrained, halted" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

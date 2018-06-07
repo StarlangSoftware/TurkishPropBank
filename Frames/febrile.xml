@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="febrile">
+    <roleset id="febrile.01" name="having, causing or relating to a fever">
+      <roles>
+        <role descr="entity having a fever, febrile entity" f="ppt" n="1"/>
+        <role descr="temperature" f="ext" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

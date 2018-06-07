@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="parapelvic">
+    <roleset id="parapelvic.01" name="near the pelvic region">
+      <roles>
+        <role descr="entity in the pelvic region" f="pag" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

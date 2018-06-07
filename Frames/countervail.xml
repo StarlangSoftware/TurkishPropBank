@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="countervail">
+    <roleset id="countervail.01" name="act against">
+      <roles>
+        <role descr="countervailer" f="PAG" n="0"/>
+        <role descr="thing acted against" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

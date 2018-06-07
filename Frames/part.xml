@@ -1,0 +1,25 @@
+<frameset>
+  <predicate lemma="part">
+    <roleset id="part.01" name="to separate, break up">
+      <roles>
+        <role descr="agent, causer" f="PAG" n="0"/>
+        <role descr="entity/entities parted" f="PPT" n="1"/>
+        <role descr="second entity parted" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="partake">
+    <roleset id="partake.02" name="to take or have a part in; participate">
+      <roles>
+        <role descr="agent, entity participating" f="PAG" n="0"/>
+        <role descr="take a part in what?" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="partake.03" name="take a portion, perhaps as of a meal">
+      <roles>
+        <role descr="partaker" f="pag" n="0"/>
+        <role descr="meal, etc." f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

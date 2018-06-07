@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="diseased">
+    <roleset id="diseased.01" name="unhealthy">
+      <roles>
+        <role descr="infector, cause, germ, disease" f="pag" n="0"/>
+        <role descr="entity diseased" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

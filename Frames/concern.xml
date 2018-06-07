@@ -1,0 +1,26 @@
+<frameset>
+  <predicate lemma="concern">
+    <roleset id="concern.01" name="worry about, be emotionally involved with, cause anxiety about">
+      <roles>
+        <role descr="causer of concern" f="pag" n="0"/>
+        <role descr="worried entity" f="ppt" n="1"/>
+        <role descr="instrument, if separate from arg0" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="concern.02" name="deal with, have to do with, involved, pertained to">
+      <roles>
+        <role descr="entity dealing with something" f="ppt" n="0"/>
+        <role descr="thing dealt with" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="concerning">
+    <roleset id="concerning.03" name="indicating a particular condition or outcome.">
+      <roles>
+        <role descr="symptom, causer or concern" f="cau" n="0"/>
+        <role descr="entity experiencing concern" f="gol" n="1"/>
+        <role descr="condition or outcome indicated" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

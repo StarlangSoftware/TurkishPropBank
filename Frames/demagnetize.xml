@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="demagnetize">
+    <roleset id="demagnetize.01" name="cause to lose magnetic properties">
+      <roles>
+        <role descr="causer of loss of magnetism, agent" f="PAG" n="0"/>
+        <role descr="patient, thing getting demagnetized" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

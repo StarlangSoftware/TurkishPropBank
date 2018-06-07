@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="alone">
+    <roleset id="alone.01" name="isolated, unaccompanied, unique">
+      <roles>
+        <role descr="loner" f="pag" n="1"/>
+        <role descr="domain in which arg1 is unique" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="untrustly">
+    <roleset id="untrustly.01" name="have no confidence in">
+      <roles>
+        <role descr="distruster, Experiencer" f="ppt" n="0"/>
+        <role descr="something" f="pag" n="1"/>
+        <role descr="attribute" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

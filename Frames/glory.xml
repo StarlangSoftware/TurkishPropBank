@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="glory">
+    <roleset id="glory.01" name="feel glory, awe, inspiring awe">
+      <roles>
+        <role descr="entity experiencing awe, glory" f="ppt" n="0"/>
+        <role descr="glorious thing, thing gloried in" f="pag" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

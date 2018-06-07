@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="wrest">
+    <roleset id="wrest.01" name="get violently">
+      <roles>
+        <role descr="agent, entity acquiring something" f="PAG" n="0"/>
+        <role descr="thing acquired" f="PPT" n="1"/>
+        <role descr="acquired-from" f="DIR" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

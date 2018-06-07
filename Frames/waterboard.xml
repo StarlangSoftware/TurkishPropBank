@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="waterboard">
+    <roleset id="waterboard.01" name="torture by simulated drowning">
+      <roles>
+        <role descr="toturer" f="pag" n="0"/>
+        <role descr="victim" f="ppt" n="1"/>
+        <role descr="liquid/instrument of torture used" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

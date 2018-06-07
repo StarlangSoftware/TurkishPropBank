@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="imperil">
+    <roleset id="imperil.01" name="put into danger">
+      <roles>
+        <role descr="causer of danger (agent or instrument)" f="PAG" n="0"/>
+        <role descr="entity in danger" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

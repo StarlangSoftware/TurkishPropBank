@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="zilla">
+    <roleset id="zilla.01" name="zilla">
+      <roles>
+        <role descr="agent" f="pag" n="0"/>
+        <role descr="patient? theme? entity &quot;zilla'd&quot;" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

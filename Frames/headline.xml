@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="headline">
+    <roleset id="headline.01" name="to provide with a headline">
+      <roles>
+        <role descr="provider of headline" f="pag" n="0"/>
+        <role descr="thing headlined, article, movie, etc" f="ppt" n="1"/>
+        <role descr="headline itself" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

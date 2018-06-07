@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="mock">
+    <roleset id="mock.01" name="make fun of">
+      <roles>
+        <role descr="mocker" f="PAG" n="0"/>
+        <role descr="mocked" f="PPT" n="1"/>
+        <role descr="reason, what's so funny" f="PRD" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

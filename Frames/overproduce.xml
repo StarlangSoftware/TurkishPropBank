@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="overproduce">
+    <roleset id="overproduce.01" name="create too much">
+      <roles>
+        <role descr="Creator" f="pag" n="0"/>
+        <role descr="Creation" f="ppt" n="1"/>
+        <role descr="Created-from" f="dir" n="2"/>
+        <role descr="Benefactive" f="gol" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

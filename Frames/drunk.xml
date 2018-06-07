@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="drunk">
+    <roleset id="drunk.01" name="intoxicated (on alcohol)">
+      <roles>
+        <role descr="alcohol" f="cau" n="0"/>
+        <role descr="alcoholic" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

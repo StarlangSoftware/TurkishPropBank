@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="unlock">
+    <roleset id="unlock.01" name="detach, open">
+      <roles>
+        <role descr="entity with a key, agent" f="pag" n="0"/>
+        <role descr="thing that was locked" f="ppt" n="1"/>
+        <role descr="what it was locked to" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

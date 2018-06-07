@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="preregister">
+    <roleset id="preregister.01" name="register officially in advance">
+      <roles>
+        <role descr="entity registering something" f="pag" n="0"/>
+        <role descr="thing registered" f="ppt" n="1"/>
+        <role descr="registered with" f="gol" n="2"/>
+        <role descr="register for/as, predication on arg1" f="prd" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

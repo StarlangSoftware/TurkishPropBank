@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="frock">
+    <roleset id="frock.01" name="to dress">
+      <roles>
+        <role descr="causer of non-nudity, agent" f="pag" n="0"/>
+        <role descr="person dressed" f="gol" n="1"/>
+        <role descr="clothes" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

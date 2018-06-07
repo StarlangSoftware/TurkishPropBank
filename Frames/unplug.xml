@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="unplug">
+    <roleset id="unplug.01" name="pull the plug">
+      <roles>
+        <role descr="puller, agent" f="PAG" n="0"/>
+        <role descr="thing unplugged" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

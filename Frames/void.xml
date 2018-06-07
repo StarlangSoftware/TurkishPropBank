@@ -1,0 +1,30 @@
+<frameset>
+  <predicate lemma="void">
+    <roleset id="void.01" name="to invalidate">
+      <roles>
+        <role descr="voider, invalidator, agent" f="pag" n="0"/>
+        <role descr="entity made void" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="void.101" name="(cause to) become empty, often of waste products">
+      <roles>
+        <role descr="Causal agent/ Person eliminating" f="pag" n="0"/>
+        <role descr="Container being emptied" f="dir" n="1"/>
+        <role descr="Substance emptied of" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="void.02" name="to be invalid">
+      <roles>
+        <role descr="voider, invalidator, agent" f="pag" n="0"/>
+        <role descr="entity made void" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="void.03" name="be empty, often of waste products">
+      <roles>
+        <role descr="Causal agent/ Person eliminating" f="pag" n="0"/>
+        <role descr="Container being emptied" f="dir" n="1"/>
+        <role descr="Substance emptied of" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

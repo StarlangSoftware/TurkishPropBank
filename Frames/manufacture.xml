@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="manufacture">
+    <roleset id="manufacture.01" name="create">
+      <roles>
+        <role descr="creator" f="PAG" n="0"/>
+        <role descr="creation" f="PRD" n="1"/>
+        <role descr="created-from, thing changed" f="VSP" n="2"/>
+        <role descr="benefactive" f="GOL" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

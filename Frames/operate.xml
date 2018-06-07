@@ -1,0 +1,41 @@
+<frameset>
+  <predicate lemma="operate">
+    <roleset id="operate.01" name="cf work, working (of something)">
+      <roles>
+        <role descr="agent, operator" f="pag" n="0"/>
+        <role descr="thing operated" f="ppt" n="1"/>
+        <role descr="explicit patient (thing operated on)" f="gol" n="2"/>
+        <role descr="explicit role" f="prd" n="3"/>
+        <role descr="explicit instrument (with or on, ususally)" f="mnr" n="4"/>
+      </roles>
+    <note>OPERATE-V NOTES: (from operate.01-v)
+OPERATION-N NOTES: ~operate.01 (from operation.01-n)
+OPERATING-N NOTES: Roleset based on noun entry operation.01. Framed by Claire. (from operating.01-n)</note>
+    </roleset>
+    <roleset id="operate.101" name="perform surgery">
+      <roles>
+        <role descr="Surgeon/Person performing precise work" f="pag" n="0"/>
+        <role descr="Patient/Body Part being operated on" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="reoperate">
+    <roleset id="reoperate.02" name="performing surgery">
+      <roles>
+        <role descr="Surgeon/Person performing precise work" f="pag" n="0"/>
+        <role descr="Patient/Body part being operated on" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="operable">
+    <roleset id="operable.03" name="able to (be) operate(d)">
+      <roles>
+        <role descr="operator" f="pag" n="0"/>
+        <role descr="thing operat(ed/ing)" f="ppt" n="1"/>
+        <role descr="explicit patient (operated on)" f="gol" n="2"/>
+        <role descr="explicit role (operating as)" f="prd" n="3"/>
+        <role descr="explicit instrument (with or as, usually)" f="mnr" n="4"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

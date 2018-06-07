@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="disbelieve">
+    <roleset id="disbelieve.01" name="not believe">
+      <roles>
+        <role descr="non-believer" f="PPT" n="0"/>
+        <role descr="thing not believed (in)" f="PAG" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

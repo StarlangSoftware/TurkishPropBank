@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="nondefinitive">
+    <roleset id="nondefinitive.01" name="not giving a firm answer">
+      <roles>
+        <role descr="non-definitive thing" f="ppt" n="1"/>
+        <role descr="specific aspect of arg1 that is not definitive" f="vsp" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

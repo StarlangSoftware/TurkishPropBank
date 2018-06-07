@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="nonlabored">
+    <roleset id="nonlabored.01" name="not done with diffculty/suffering">
+      <roles>
+        <role descr="non-laborer" f="pag" n="0"/>
+        <role descr="thing done without suffering" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

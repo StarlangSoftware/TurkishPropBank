@@ -1,0 +1,24 @@
+<frameset>
+  <predicate lemma="darken">
+    <roleset id="darken.01" name="(cause to) become dark">
+      <roles>
+        <role descr="causer of darkening" f="PAG" n="0"/>
+        <role descr="thing becoming dark" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="dark">
+    <roleset id="dark.02" name="not reflecting much, if any, light">
+      <roles>
+        <role descr="thing that doesn't reflect light" f="ppt" n="1"/>
+        <role descr="specific part of arg1, if also mentioned" f="vsp" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="dark.03" name="morbid, depressive, evil, macabre">
+      <roles>
+        <role descr="macabre thing" f="pag" n="1"/>
+        <role descr="specific aspect of arg1 that is macabre" f="vsp" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

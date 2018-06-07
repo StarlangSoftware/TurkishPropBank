@@ -1,0 +1,16 @@
+<frameset>
+  <predicate lemma="keen">
+    <roleset id="keen.01" name="a sharp, biting, or piercing wail">
+      <roles>
+        <role descr="speaker" f="PAG" n="0"/>
+        <role descr="entity wailed about" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="keen.02" name="keen">
+      <roles>
+        <role descr="enthusiast, keen entity" f="PPT" n="1"/>
+        <role descr="target of enthusiasm, keen on what?" f="CAU" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

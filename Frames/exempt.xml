@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="exempt">
+    <roleset id="exempt.01" name="to free from an obligation">
+      <roles>
+        <role descr="releaser, agent" f="pag" n="0"/>
+        <role descr="entity exempted" f="ppt" n="1"/>
+        <role descr="entity exempted from" f="dir" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

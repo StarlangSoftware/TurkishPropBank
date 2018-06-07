@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="cording">
+    <roleset id="cording.01" name="development of ropelike structure in tissue often after surgery">
+      <roles>
+        <role descr="tissue developing cording" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

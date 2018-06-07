@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="subcontract">
+    <roleset id="subcontract.01" name="send out part of a job">
+      <roles>
+        <role descr="employer, entity with big job" f="pag" n="0"/>
+        <role descr="(part of) job" f="ppt" n="1"/>
+        <role descr="subcontractor" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

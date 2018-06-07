@@ -1,0 +1,25 @@
+<frameset>
+  <predicate lemma="remark">
+    <roleset id="remark.01" name="to express briefly">
+      <roles>
+        <role descr="speaker" f="PAG" n="0"/>
+        <role descr="utterance" f="ppt" n="1"/>
+        <role descr="hearer" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="remarkable">
+    <roleset id="remarkable.02" name="notable, worthy of remarking on">
+      <roles>
+        <role descr="entity taking note" f="pag" n="0"/>
+        <role descr="remarkable thing" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="remarkable.03" name="indicating a particular condition or outcome">
+      <roles>
+        <role descr="indicator" f="pag" n="1"/>
+        <role descr="condition or outcome indicated" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

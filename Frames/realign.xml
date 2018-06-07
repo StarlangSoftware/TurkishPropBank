@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="realign">
+    <roleset id="realign.01" name="align again">
+      <roles>
+        <role descr="arranger, agent" f="pag" n="0"/>
+        <role descr="thing being realigned" f="ppt" n="1"/>
+        <role descr="standard of comparison, realigned-to" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

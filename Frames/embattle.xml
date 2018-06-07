@@ -1,0 +1,13 @@
+<frameset>
+  <predicate lemma="embattle">
+    <roleset id="embattle.01" name="make ready for battle">
+      <roles>
+        <role descr="causal agent" f="pag" n="0"/>
+        <role descr="thing preparing" f="ppt" n="1"/>
+        <role descr="EXT" f="ext" n="2"/>
+        <role descr="start point" f="dir" n="3"/>
+        <role descr="end point" f="gol" n="4"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

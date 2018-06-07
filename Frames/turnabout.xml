@@ -1,0 +1,17 @@
+<frameset>
+  <predicate lemma="turnabout">
+    <roleset id="turnabout.01" name="motion in a new direction">
+      <roles>
+        <role descr="agent of turner (transitive)" f="pag" n="0"/>
+        <role descr="entity in motion" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="turnabout.02" name="transformation, becoming">
+      <roles>
+        <role descr="entity undergoing change" f="pag" n="1"/>
+        <role descr="start state" f="dir" n="2"/>
+        <role descr="end state" f="prd" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

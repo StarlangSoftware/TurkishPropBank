@@ -1,0 +1,37 @@
+<frameset>
+  <predicate lemma="note">
+    <roleset id="note.01" name="to say or take a note of">
+      <roles>
+        <role descr="noter" f="pag" n="0"/>
+        <role descr="utterance" f="ppt" n="1"/>
+        <role descr="hearer" f="gol" n="2"/>
+        <role descr="attribute of arg1" f="prd" n="3"/>
+      </roles>
+    </roleset>
+    <roleset id="note.02" name="noticed as remarkable, famed for">
+      <roles>
+        <role descr="entity noting as remarkable" f="ppt" n="0"/>
+        <role descr="entity under scrutiny" f="pag" n="1"/>
+        <role descr="why is it notable?" f="cau" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="noteworthy">
+    <roleset id="noteworthy.03" name="noticed as remarkable, famed for">
+      <roles>
+        <role descr="entity noting as remarkable" f="ppt" n="0"/>
+        <role descr="entity under scrutiny" f="pag" n="1"/>
+        <role descr="why is it notable?" f="cau" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="notable">
+    <roleset id="notable.04" name="worthy of notice, significant">
+      <roles>
+        <role descr="entity taking note" f="pag" n="0"/>
+        <role descr="notable thing" f="ppt" n="1"/>
+        <role descr="what arg1 is notable for" f="cau" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="govern">
+    <roleset id="govern.01" name="to control or influence, governing, leading">
+      <roles>
+        <role descr="governor" f="pag" n="0"/>
+        <role descr="governed" f="ppt" n="1"/>
+        <role descr="specific domain, aspect of arg1 being governed" f="vsp" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

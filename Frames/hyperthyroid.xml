@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="hyperthyroid">
+    <roleset id="hyperthyroid.01" name="having overactive thyroid function">
+      <roles>
+        <role descr="entity with overactive thyroid" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

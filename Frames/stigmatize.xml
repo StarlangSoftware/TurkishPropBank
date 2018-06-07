@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="stigmatize">
+    <roleset id="stigmatize.01" name="to set some mark of disgrace or infamy upon">
+      <roles>
+        <role descr="stigmatizer (agent only- not CAU)" f="pag" n="0"/>
+        <role descr="stigmatized" f="ppt" n="1"/>
+        <role descr="grounds, reason" f="cau" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

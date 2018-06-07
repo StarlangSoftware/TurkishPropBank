@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="unpack">
+    <roleset id="unpack.01" name="unload, remove stuff">
+      <roles>
+        <role descr="unpacker, agent" f="pag" n="0"/>
+        <role descr="thing(s) unpacked, theme" f="ppt" n="1"/>
+        <role descr="unpacked from, container" f="dir" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

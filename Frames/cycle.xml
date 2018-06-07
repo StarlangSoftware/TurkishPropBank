@@ -1,0 +1,17 @@
+<frameset>
+  <predicate lemma="cycle">
+    <roleset id="cycle.01" name="to ride a bicycle">
+      <roles>
+        <role descr="cyclist, agent" f="pag" n="0"/>
+      </roles>
+    </roleset>
+    <roleset id="cycle.02" name="to go through a cycle">
+      <roles>
+        <role descr="Thing going through cycle" f="ppt" n="1"/>
+        <role descr="EXT or MNR" f="ext" n="2"/>
+        <role descr="low point" f="dir" n="3"/>
+        <role descr="high point" f="gol" n="4"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

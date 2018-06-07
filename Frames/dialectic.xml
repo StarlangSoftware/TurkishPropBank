@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="dialectic">
+    <roleset id="dialectic.01" name="characterized by the exchange of logical arguments">
+      <roles>
+        <role descr="entity/action characterized by logical argument" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

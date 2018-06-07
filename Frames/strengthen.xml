@@ -1,0 +1,20 @@
+<frameset>
+  <predicate lemma="strengthen">
+    <roleset id="strengthen.01" name="(cause to) become stronger">
+      <roles>
+        <role descr="causal agent" f="pag" n="0"/>
+        <role descr="thing strengthening" f="ppt" n="1"/>
+        <role descr="EXT" f="ext" n="2"/>
+        <role descr="start point" f="dir" n="3"/>
+        <role descr="end point" f="gol" n="4"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="strong">
+    <roleset id="strong.02" name="have strength, intensity">
+      <roles>
+        <role descr="stong entity" f="pag" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

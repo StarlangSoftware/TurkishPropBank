@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="prophesy">
+    <roleset id="prophesy.01" name="prophesy">
+      <roles>
+        <role descr="prophet, agent" f="PAG" n="0"/>
+        <role descr="topic of prophecy, theme" f="PPT" n="1"/>
+        <role descr="prophecy itself, predicated" f="PRD" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

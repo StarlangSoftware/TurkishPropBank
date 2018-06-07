@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="cancan">
+    <roleset id="cancan.01" name="cancan can you do the cancan?">
+      <roles>
+        <role descr="Dancer" f="PAG" n="0"/>
+        <role descr="Body part made to dance, thing danced away/off" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

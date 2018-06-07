@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="reappraise">
+    <roleset id="reappraise.01" name="find value of, again">
+      <roles>
+        <role descr="appraiser" f="pag" n="0"/>
+        <role descr="thing appraised" f="ppt" n="1"/>
+        <role descr="value" f="vsp" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="unbuckle">
+    <roleset id="unbuckle.01" name="unbuckle">
+      <roles>
+        <role descr="unbuckler, agent" f="PAG" n="0"/>
+        <role descr="thing unbuckled, patient" f="PPT" n="1"/>
+        <role descr="unbuckled from, source" f="PPT" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

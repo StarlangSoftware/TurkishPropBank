@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="preposterous">
+    <roleset id="preposterous.01" name="outlandish, outrageous">
+      <roles>
+        <role descr="proposterous entity" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

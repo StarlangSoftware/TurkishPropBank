@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="upturn">
+    <roleset id="upturn.01" name="turn upwards">
+      <roles>
+        <role descr="agent of motion" f="pag" n="0"/>
+        <role descr="thing being turned upwards" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

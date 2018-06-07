@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="distal">
+    <roleset id="distal.01" name="situated away from the center (of body or attachment point)">
+      <roles>
+        <role descr="topic" f="ppt" n="1"/>
+        <role descr="distal to, reference point" f="loc" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="conization">
+    <roleset id="conization.01" name="performing a cone biopsy">
+      <roles>
+        <role descr="doctor" f="pag" n="0"/>
+        <role descr="tissue/patient" f="dir" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

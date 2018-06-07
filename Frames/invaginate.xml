@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="invaginate">
+    <roleset id="invaginate.01" name="turning or folding inwardly or into something else, creating a hollow space">
+      <roles>
+        <role descr="Tissue invaginating" f="ppt" n="1"/>
+        <role descr="GOL/DIR, invaginating into what" f="dir" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

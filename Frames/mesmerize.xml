@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="mesmerize">
+    <roleset id="mesmerize.01" name="hypnotize, spellbind">
+      <roles>
+        <role descr="mesmerizer" f="pag" n="0"/>
+        <role descr="mesmerized, victim" f="ppt" n="1"/>
+        <role descr="instrument, if separate from arg 0" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

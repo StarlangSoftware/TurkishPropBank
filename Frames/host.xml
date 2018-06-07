@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="host">
+    <roleset id="host.01" name="to serve as a host">
+      <roles>
+        <role descr="a host" f="pag" n="0"/>
+        <role descr="guests, social event" f="gol" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

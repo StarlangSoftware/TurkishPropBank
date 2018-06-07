@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="epimutate">
+    <roleset id="epimutate.01" name="heritable change in gene expression">
+      <roles>
+        <role descr="agent, causer of change" f="pag" n="0"/>
+        <role descr="gene; entity undergoing change" f="ppt" n="1"/>
+        <role descr="end state" f="prd" n="2"/>
+        <role descr="start state" f="dir" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="tweeze">
+    <roleset id="tweeze.01" name="to capture, obtain">
+      <roles>
+        <role descr="one doing the tweezing" f="pag" n="0"/>
+        <role descr="thing(s) tweezed" f="ppt" n="1"/>
+        <role descr="instrument, tweezed with (unlikely)" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

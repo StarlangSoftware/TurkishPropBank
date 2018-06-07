@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="hug">
+    <roleset id="hug.01" name="hug, embrace">
+      <roles>
+        <role descr="hugger" f="pag" n="0"/>
+        <role descr="hugged" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="conquer">
+    <roleset id="conquer.01" name="to gain control of">
+      <roles>
+        <role descr="conquering hero, agent" f="pag" n="0"/>
+        <role descr="entity conquered, spoils (if unclear whether the spoils or the loser, use this arg)" f="ppt" n="1"/>
+        <role descr="defeated entity; loser; former owner of arg1" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

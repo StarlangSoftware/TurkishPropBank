@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="unorthodox">
+    <roleset id="unorthodox.01" name="breaking with tradition">
+      <roles>
+        <role descr="unorthodox entity" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

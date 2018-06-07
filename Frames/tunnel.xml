@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="tunnel">
+    <roleset id="tunnel.01" name="dig for something, creating tunnels in">
+      <roles>
+        <role descr="digger, delver" f="pag" n="0"/>
+        <role descr="dug/delved into/through" f="loc" n="1"/>
+        <role descr="thing tunneled for, goal/theme (unlikely)" f="ppt" n="2"/>
+        <role descr="instrument (also unlikely)" f="mnr" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

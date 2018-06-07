@@ -1,0 +1,16 @@
+<frameset>
+  <predicate lemma="flop">
+    <roleset id="flop.01" name="to fall, drop, fail">
+      <roles>
+        <role descr="agent, causer" f="pag" n="0"/>
+        <role descr="entity dropped" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="flop.02" name="ungainly movement">
+      <roles>
+        <role descr="cause" f="pag" n="0"/>
+        <role descr="body part flopping" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="undisputed">
+    <roleset id="undisputed.01" name="not contested">
+      <roles>
+        <role descr="first arguer" f="pag" n="0"/>
+        <role descr="second arguer" f="com" n="1"/>
+        <role descr="topic" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

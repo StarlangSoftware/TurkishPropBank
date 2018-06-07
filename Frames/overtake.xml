@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="overtake">
+    <roleset id="overtake.01" name="surpass, go past">
+      <roles>
+        <role descr="thing going beyond" f="PAG" n="0"/>
+        <role descr="thing left in the dust" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

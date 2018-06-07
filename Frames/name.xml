@@ -1,0 +1,25 @@
+<frameset>
+  <predicate lemma="name">
+    <roleset id="name.01" name="call, giving a name">
+      <roles>
+        <role descr="namer" f="pag" n="0"/>
+        <role descr="named" f="ppt" n="1"/>
+        <role descr="name of arg1" f="prd" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="name.02" name="give someone else's name">
+      <roles>
+        <role descr="namer" f="pag" n="0"/>
+        <role descr="named" f="ppt" n="1"/>
+        <role descr="named after, namesake" f="prd" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="name.03" name="to appoint to  an office, assign a role">
+      <roles>
+        <role descr="Person appointing another" f="pag" n="0"/>
+        <role descr="Person named, appointed" f="ppt" n="1"/>
+        <role descr="Office/Job Arg 1 is appointed to" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

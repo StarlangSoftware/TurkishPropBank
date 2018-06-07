@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="swamp">
+    <roleset id="swamp.01" name="cover with water, overwhelm, inundated">
+      <roles>
+        <role descr="cause, agent" f="pag" n="0"/>
+        <role descr="entity swamped" f="ppt" n="1"/>
+        <role descr="instrument, swamped with" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

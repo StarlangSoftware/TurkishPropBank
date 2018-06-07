@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="misappropriate">
+    <roleset id="misappropriate.01" name="steal, embezzle">
+      <roles>
+        <role descr="embezzler" f="pag" n="0"/>
+        <role descr="thing embezzled" f="ppt" n="1"/>
+        <role descr="source" f="dir" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

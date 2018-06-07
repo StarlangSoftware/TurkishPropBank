@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="marinate">
+    <roleset id="marinate.01" name="soak for flavor">
+      <roles>
+        <role descr="agent" f="PAG" n="0"/>
+        <role descr="theme, food, marinated item" f="PPT" n="1"/>
+        <role descr="marinade" f="GOL" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

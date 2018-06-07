@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="kiyi">
+    <roleset id="kiyi.01" name="make a ki-yi-ing sound, like a dog (?)">
+      <roles>
+        <role descr="animal making the noise" f="pag" n="0"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

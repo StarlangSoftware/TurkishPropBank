@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="diminutive">
+    <roleset id="diminutive.01" name="small">
+      <roles>
+        <role descr="small thing" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

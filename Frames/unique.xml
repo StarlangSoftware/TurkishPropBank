@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="unique">
+    <roleset id="unique.01" name="individualistic, one of a kind">
+      <roles>
+        <role descr="unique thing" f="pag" n="1"/>
+        <role descr="entity applied exclusively to" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

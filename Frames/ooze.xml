@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="ooze">
+    <roleset id="ooze.01" name="secreting a thick liquid">
+      <roles>
+        <role descr="Oozer" f="PAG" n="0"/>
+        <role descr="Liquid" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

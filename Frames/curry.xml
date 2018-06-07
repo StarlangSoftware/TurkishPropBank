@@ -1,0 +1,24 @@
+<frameset>
+  <predicate lemma="curry">
+    <roleset id="curry.01" name="brush a horse">
+      <roles>
+        <role descr="agent, brusher, currier" f="pag" n="0"/>
+        <role descr="horse" f="ppt" n="1"/>
+        <role descr="brush, instrument" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="curry.02" name="curry favor">
+      <roles>
+        <role descr="entity seeking favor, agent" f="pag" n="0"/>
+        <role descr="fixed: favor" f="ppt" n="1"/>
+        <role descr="with whom" f="gol" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="curry.03" name="spicy indian food">
+      <roles>
+        <role descr="cook" f="pag" n="0"/>
+        <role descr="food" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

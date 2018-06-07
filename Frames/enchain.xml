@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="enchain">
+    <roleset id="enchain.01" name="put in chains">
+      <roles>
+        <role descr="causer of enchainment" f="PAG" n="0"/>
+        <role descr="entity in chains" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="invent">
+    <roleset id="invent.01" name="create">
+      <roles>
+        <role descr="creator" f="pag" n="0"/>
+        <role descr="thing created" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

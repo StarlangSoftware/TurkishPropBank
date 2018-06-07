@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="influence">
+    <roleset id="influence.01" name="have sway over, induce an action, swaying">
+      <roles>
+        <role descr="influencer" f="PAG" n="0"/>
+        <role descr="influenced" f="PPT" n="1"/>
+        <role descr="induced action" f="PRD" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

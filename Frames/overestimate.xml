@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="overestimate">
+    <roleset id="overestimate.01" name="guess">
+      <roles>
+        <role descr="estimator" f="PAG" n="0"/>
+        <role descr="thing overestimated" f="PPT" n="1"/>
+        <role descr="estimated-to-be, attribute of arg1" f="VSP" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

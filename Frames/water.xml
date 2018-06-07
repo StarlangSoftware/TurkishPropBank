@@ -1,0 +1,31 @@
+<frameset>
+  <predicate lemma="water">
+    <roleset id="water.01" name="to make wet">
+      <roles>
+        <role descr="provider of water, agent" f="pag" n="0"/>
+        <role descr="entity watered" f="gol" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="water.04" name="produce tears">
+      <roles>
+        <role descr="entity producing tears, usually eyes" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="water_down">
+    <roleset id="water_down.02" name="to reduce the strength or effectiveness of">
+      <roles>
+        <role descr="cause of lesser strength" f="pag" n="0"/>
+        <role descr="entity watered down" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="watery">
+    <roleset id="watery.03" name="permeated with water">
+      <roles>
+        <role descr="entity full of water" f="pag" n="0"/>
+        <role descr="watery entity" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

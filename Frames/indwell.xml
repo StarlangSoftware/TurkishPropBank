@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="indwell">
+    <roleset id="indwell.01" name="to exist within, especially as a spirit or driving force">
+      <roles>
+        <role descr="Thing existing within" f="ppt" n="1"/>
+        <role descr="Location, existing within what" f="loc" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

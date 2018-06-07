@@ -1,0 +1,48 @@
+<frameset>
+  <predicate lemma="tip">
+    <roleset id="tip.01" name="cause to not be level">
+      <roles>
+        <role descr="cause, agent" f="pag" n="0"/>
+        <role descr="thing not level" f="ppt" n="1"/>
+        <role descr="end state" f="gol" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="tip.02" name="leave a gratuity">
+      <roles>
+        <role descr="tipper" f="pag" n="0"/>
+        <role descr="gratuity" f="vsp" n="1"/>
+        <role descr="waiter, etc" f="gol" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="tip.05" name="inform, give advice, the giving of advice or information">
+      <roles>
+        <role descr="informant" f="pag" n="0"/>
+        <role descr="informed" f="gol" n="1"/>
+        <role descr="informed of what" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="tip.06" name="top with">
+      <roles>
+        <role descr="agent" f="pag" n="0"/>
+        <role descr="thing topped" f="ppt" n="1"/>
+        <role descr="topped with" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="tip_over">
+    <roleset id="tip_over.03" name="cause to be upside down">
+      <roles>
+        <role descr="causer" f="pag" n="0"/>
+        <role descr="thing upside down" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="tip_off">
+    <roleset id="tip_off.04" name="give a hint to">
+      <roles>
+        <role descr="giver of hint" f="pag" n="0"/>
+        <role descr="getter of hint" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

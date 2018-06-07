@@ -1,0 +1,18 @@
+<frameset>
+  <predicate lemma="ablate">
+    <roleset id="ablate.01" name="surgical removal of a body part; controlled surgical removal">
+      <roles>
+        <role descr="Agent, surgeon" f="pag" n="0"/>
+        <role descr="Part of body ablated" f="ppt" n="1"/>
+        <role descr="Patient undergoing ablation, removed from" f="dir" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="ablate.02" name="erode">
+      <roles>
+        <role descr="cause of erosion" f="pag" n="0"/>
+        <role descr="entity removed, eroded away" f="ppt" n="1"/>
+        <role descr="eroded from, source a piece is removed from" f="dir" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

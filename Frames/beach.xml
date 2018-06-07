@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="beach">
+    <roleset id="beach.01" name="to run, haul, or bring ashore">
+      <roles>
+        <role descr="beacher" f="PAG" n="0"/>
+        <role descr="thing beached" f="PPT" n="1"/>
+        <role descr="location" f="GOL" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

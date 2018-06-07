@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="hypercontrol">
+    <roleset id="hypercontrol.01" name="uber-control">
+      <roles>
+        <role descr="controller" f="pag" n="0"/>
+        <role descr="controlled" f="ppt" n="1"/>
+        <role descr="instrumental, controlled with" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

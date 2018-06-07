@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="sophisticate">
+    <roleset id="sophisticate.01" name="advanced, refined, ">
+      <roles>
+        <role descr="causer of sophistication" f="pag" n="0"/>
+        <role descr="sophisticated entity" f="ppt" n="1"/>
+        <role descr="aspect/domain of arg1 that is sophisticated (if in addition)" f="vsp" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

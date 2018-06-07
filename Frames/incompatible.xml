@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="incompatible">
+    <roleset id="incompatible.01" name="not in agreeable combination">
+      <roles>
+        <role descr="first item not in agreement" f="ppt" n="1"/>
+        <role descr="second item" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

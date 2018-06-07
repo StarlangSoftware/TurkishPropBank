@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="obstruct">
+    <roleset id="obstruct.01" name="to block">
+      <roles>
+        <role descr="blocker, obstruction" f="PAG" n="0"/>
+        <role descr="thing obstructed" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

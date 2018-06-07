@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="redesign">
+    <roleset id="redesign.01" name="to make a revision on the appearance or function of">
+      <roles>
+        <role descr="designer" f="pag" n="0"/>
+        <role descr="entity redesigned" f="ppt" n="1"/>
+        <role descr="beneficiary" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

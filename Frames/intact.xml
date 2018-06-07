@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="intact">
+    <roleset id="intact.01" name="in one piece, when it might have fallen apart">
+      <roles>
+        <role descr="thing in one piece" f="pag" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

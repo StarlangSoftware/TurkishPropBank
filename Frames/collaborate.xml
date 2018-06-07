@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="collaborate">
+    <roleset id="collaborate.01" name="to work together">
+      <roles>
+        <role descr="focussed party, agent" f="pag" n="0"/>
+        <role descr="second party" f="com" n="1"/>
+        <role descr="shared task" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

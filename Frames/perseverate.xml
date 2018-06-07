@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="perseverate">
+    <roleset id="perseverate.01" name="obsessive repetition, or repetitious obsession">
+      <roles>
+        <role descr="perseverator" f="pag" n="0"/>
+        <role descr="thing obsessed over, repeated" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

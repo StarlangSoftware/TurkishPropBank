@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="twinge">
+    <roleset id="twinge.01" name="sharp, sudden, stinging pain">
+      <roles>
+        <role descr="causer of pain" f="PAG" n="0"/>
+        <role descr="thing hurting" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

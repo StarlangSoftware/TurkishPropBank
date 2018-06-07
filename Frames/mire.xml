@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="mire">
+    <roleset id="mire.01" name="be stuck">
+      <roles>
+        <role descr="entity stuck" f="ppt" n="1"/>
+        <role descr="stuck in what?" f="loc" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

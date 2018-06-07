@@ -1,0 +1,16 @@
+<frameset>
+  <predicate lemma="moil">
+    <roleset id="moil.01" name="work hard">
+      <roles>
+        <role descr="laborer" f="PAG" n="0"/>
+        <role descr="task" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="moil.02" name="churn">
+      <roles>
+        <role descr="churning thing" f="PPT" n="1"/>
+        <role descr="location, destination" f="LOC" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

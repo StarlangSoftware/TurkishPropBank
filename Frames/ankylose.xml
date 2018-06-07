@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="ankylose">
+    <roleset id="ankylose.01" name="to fuse or stiffen by ankylosis">
+      <roles>
+        <role descr="Cause of fusing" f="pag" n="0"/>
+        <role descr="Entity being fused/suffering from ankylosis" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

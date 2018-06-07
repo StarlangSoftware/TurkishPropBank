@@ -1,0 +1,33 @@
+<frameset>
+  <predicate lemma="level">
+    <roleset id="level.01" name="cause to become level">
+      <roles>
+        <role descr="cause, agent" f="pag" n="0"/>
+        <role descr="thing becoming level" f="ppt" n="1"/>
+        <role descr="instrument, if separate from agent" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="level.03" name="direct emphatically">
+      <roles>
+        <role descr="director, agent" f="pag" n="0"/>
+        <role descr="us. charges or accusations" f="ppt" n="1"/>
+        <role descr="target" f="gol" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="level.04" name="even, flat, uniformly horizontal">
+      <roles>
+        <role descr="agent/causer of levelness" f="pag" n="0"/>
+        <role descr="level thing" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="level_off">
+    <roleset id="level_off.02" name="level off: become level, even">
+      <roles>
+        <role descr="cause, agent" f="pag" n="0"/>
+        <role descr="thing becoming level" f="ppt" n="1"/>
+        <role descr="instrument, if separate from agent" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

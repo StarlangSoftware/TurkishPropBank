@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="corrupt">
+    <roleset id="corrupt.01" name="to contaminate, deteriorate from normal  standard, turning bad">
+      <roles>
+        <role descr="agent/cause" f="pag" n="0"/>
+        <role descr="entity corrupted" f="ppt" n="1"/>
+        <role descr="instrument" f="mnr" n="2"/>
+        <role descr="specific aspect of arg1 being corrupted" f="vsp" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

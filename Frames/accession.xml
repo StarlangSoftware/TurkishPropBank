@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="accession">
+    <roleset id="accession.01" name="mathematics, mixing, add something to something else, increase">
+      <roles>
+        <role descr="agent" f="pag" n="0"/>
+        <role descr="supplement" f="ppt" n="1"/>
+        <role descr="original" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="plate">
+    <roleset id="plate.01" name="the process of orthopedic plate use">
+      <roles>
+        <role descr="agent, plate installer" f="pag" n="0"/>
+        <role descr="recipient; entity recieving plate" f="ppt" n="1"/>
+        <role descr="explicit mention of the plate or material" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

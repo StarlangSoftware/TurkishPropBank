@@ -1,0 +1,16 @@
+<frameset>
+  <predicate lemma="unwind">
+    <roleset id="unwind.01" name="(cause to) be uncoiled">
+      <roles>
+        <role descr="unroller" f="pag" n="0"/>
+        <role descr="thing unrolled or unrolling" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="unwind.02" name="relax">
+      <roles>
+        <role descr="relaxer" f="ppt" n="1"/>
+        <role descr="instrument" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

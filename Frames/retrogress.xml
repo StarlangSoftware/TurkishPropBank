@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="retrogress">
+    <roleset id="retrogress.01" name="move backwards, return to a previous state">
+      <roles>
+        <role descr="thing moving, going back to previous state" f="ppt" n="1"/>
+        <role descr="start point" f="dir" n="3"/>
+        <role descr="end point" f="gol" n="4"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

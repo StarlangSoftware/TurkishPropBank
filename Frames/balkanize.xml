@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="balkanize">
+    <roleset id="balkanize.01" name="to divide into smaller, quarrelsome and ineffectual groups">
+      <roles>
+        <role descr="causer, agent" f="pag" n="0"/>
+        <role descr="larger group/region divided, entity balkanized" f="ppt" n="1"/>
+        <role descr="resulting state of arg1, secondary predication on arg1" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

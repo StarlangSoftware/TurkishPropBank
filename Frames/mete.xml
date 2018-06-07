@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="mete_out">
+    <roleset id="mete_out.01" name="to distribute by measure, allot">
+      <roles>
+        <role descr="distributor" f="pag" n="0"/>
+        <role descr="thing distributed" f="ppt" n="1"/>
+        <role descr="distributed-to, recipient" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

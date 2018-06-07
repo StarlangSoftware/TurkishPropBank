@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="incorrect">
+    <roleset id="incorrect.01" name="false">
+      <roles>
+        <role descr="false entity/proposition" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

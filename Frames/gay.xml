@@ -1,0 +1,20 @@
+<frameset>
+  <predicate lemma="gay">
+    <roleset id="gay.01" name="homosexual">
+      <roles>
+        <role descr="homosexual entity" f="pag" n="1"/>
+        <role descr="object of desire" f="gol" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="gay.02" name="cheery, festive, mirthful">
+      <roles>
+        <role descr="mirthful one" f="pag" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="gay.03" name="negative connotation">
+      <roles>
+        <role descr="thing that is perceived negatively (may req. concatenation)" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

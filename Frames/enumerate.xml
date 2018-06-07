@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="enumerate">
+    <roleset id="enumerate.01" name="to count/specify as on a list">
+      <roles>
+        <role descr="agent, lister" f="pag" n="0"/>
+        <role descr="item enumerated" f="ppt" n="1"/>
+        <role descr="enumerated in what group/list" f="loc" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

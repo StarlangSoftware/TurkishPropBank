@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="massproduce">
+    <roleset id="massproduce.01" name="create">
+      <roles>
+        <role descr="creator" f="pag" n="0"/>
+        <role descr="creation" f="ppt" n="1"/>
+        <role descr="created-from, thing changed" f="dir" n="2"/>
+        <role descr="benefactive" f="gol" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="suckle">
+    <roleset id="suckle.01" name="suckle">
+      <roles>
+        <role descr="agent, one giving suckle" f="PAG" n="0"/>
+        <role descr="thing given (milk, etc.)" f="PPT" n="1"/>
+        <role descr="recipient, thing suckling" f="GOL" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

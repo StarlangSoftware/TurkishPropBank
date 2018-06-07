@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="reckless">
+    <roleset id="reckless.01" name="foolhardy, not careful">
+      <roles>
+        <role descr="reckless entity/act (may require concatenation)" f="pag" n="1"/>
+        <role descr="entity not protected" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

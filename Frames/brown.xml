@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="brown">
+    <roleset id="brown.01" name="(cause to) be brown by cooking or tanning">
+      <roles>
+        <role descr="causer of browning (eg sun, cook)" f="pag" n="0"/>
+        <role descr="browned entity" f="ppt" n="1"/>
+        <role descr="description of browning, attribute of arg1" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

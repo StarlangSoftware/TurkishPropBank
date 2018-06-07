@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="title">
+    <roleset id="title.01" name="to give a title to">
+      <roles>
+        <role descr="giver of title" f="pag" n="0"/>
+        <role descr="thing getting a title" f="ppt" n="1"/>
+        <role descr="name, title" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

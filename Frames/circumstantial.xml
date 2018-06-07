@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="circumstantial">
+    <roleset id="circumstantial.01" name="based on evidence provided by circumstance">
+      <roles>
+        <role descr="circumstantial thing" f="pag" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="flatulent">
+    <roleset id="flatulent.01" name="full of gas, farts">
+      <roles>
+        <role descr="Cause of flatulence" f="pag" n="0"/>
+        <role descr="Flatulent entity, farty person you want  to avoid" f="ppt" n="1"/>
+        <role descr="Explicit mention of gas, usually metaphorical when used" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

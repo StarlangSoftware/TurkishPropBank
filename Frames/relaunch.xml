@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="relaunch">
+    <roleset id="relaunch.01" name="to set off or start, again">
+      <roles>
+        <role descr="launcher" f="pag" n="0"/>
+        <role descr="launched thing" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

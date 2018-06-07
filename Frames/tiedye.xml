@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="tiedye">
+    <roleset id="tiedye.01" name="Create a dye pattern by tying fabric">
+      <roles>
+        <role descr="agent, one performng the tie-dying" f="pag" n="0"/>
+        <role descr="fabric" f="ppt" n="1"/>
+        <role descr="instrument" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

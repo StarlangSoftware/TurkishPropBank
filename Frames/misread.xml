@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="misread">
+    <roleset id="misread.01" name="to understand incorrectly">
+      <roles>
+        <role descr="misreader, agent" f="PAG" n="0"/>
+        <role descr="misread entity" f="PPT" n="1"/>
+        <role descr="(false) attribute of Arg1" f="PPT" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

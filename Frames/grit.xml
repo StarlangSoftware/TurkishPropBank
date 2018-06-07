@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="grit">
+    <roleset id="grit.01" name="grind together">
+      <roles>
+        <role descr="causer of grinding" f="PAG" n="0"/>
+        <role descr="thing being ground" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

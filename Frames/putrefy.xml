@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="putrefy">
+    <roleset id="putrefy.01" name="make putrid">
+      <roles>
+        <role descr="agent, causer of rotting" f="PAG" n="0"/>
+        <role descr="thing rotting" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

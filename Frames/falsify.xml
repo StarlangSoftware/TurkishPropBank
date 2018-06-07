@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="falsify">
+    <roleset id="falsify.01" name="to forge or misrepresent">
+      <roles>
+        <role descr="faker, agent" f="PAG" n="0"/>
+        <role descr="entity falsified" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

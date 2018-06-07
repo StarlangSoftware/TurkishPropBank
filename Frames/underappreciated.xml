@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="underappreciated">
+    <roleset id="underappreciated.01" name="not valued highly enough">
+      <roles>
+        <role descr="underappreciator" f="pag" n="0"/>
+        <role descr="thing not valued highly enough" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

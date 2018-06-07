@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="pepperspray">
+    <roleset id="pepperspray.01" name="spray with mace (or similar)">
+      <roles>
+        <role descr="sprayer" f="pag" n="0"/>
+        <role descr="victim" f="gol" n="1"/>
+        <role descr="the pepperspray itself" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

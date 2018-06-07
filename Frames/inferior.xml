@@ -1,0 +1,17 @@
+<frameset>
+  <predicate lemma="inferior">
+    <roleset id="inferior.01" name="inferior">
+      <roles>
+        <role descr="worse/inferior entity" f="pag" n="1"/>
+        <role descr="better entity, inferior to what?" f="ppt" n="2"/>
+        <role descr="specific aspect of arg1 that is inferior" f="vsp" n="3"/>
+      </roles>
+    </roleset>
+    <roleset id="inferior.02" name="lower than a given reference point; spacially lower">
+      <roles>
+        <role descr="first item; thing in a lower position" f="ppt" n="1"/>
+        <role descr="second item, reference point, thing in a relativly higher position" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

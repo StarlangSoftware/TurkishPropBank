@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="stipulate">
+    <roleset id="stipulate.01" name="define arbitrarily">
+      <roles>
+        <role descr="stipulator" f="pag" n="0"/>
+        <role descr="thing defined" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

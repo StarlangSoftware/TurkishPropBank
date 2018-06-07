@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="jinx">
+    <roleset id="jinx.01" name="cause magical bad luck">
+      <roles>
+        <role descr="causer of bad luck" f="PAG" n="0"/>
+        <role descr="unlucky schmuck" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

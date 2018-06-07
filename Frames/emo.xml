@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="emo">
+    <roleset id="emo.01" name="characteristic of a paticularly whiny form of punk rock">
+      <roles>
+        <role descr="emo entity" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="hog">
+    <roleset id="hog.01" name="to selfishly hoard">
+      <roles>
+        <role descr="selfish hogger" f="pag" n="0"/>
+        <role descr="thing hogged" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,13 @@
+<frameset>
+  <predicate lemma="shrivel">
+    <roleset id="shrivel.01" name="wither, shrink">
+      <roles>
+        <role descr="causer of shrivelment" f="PAG" n="0"/>
+        <role descr="thing shriveling" f="PPT" n="1"/>
+        <role descr="EXT" f="ext" n="2"/>
+        <role descr="start point" f="dir" n="3"/>
+        <role descr="end point" f="prd" n="4"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

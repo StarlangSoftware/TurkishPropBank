@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="shoplift">
+    <roleset id="shoplift.01" name="to steal merchandise from a store">
+      <roles>
+        <role descr="thief, agent" f="PAG" n="0"/>
+        <role descr="thing stolen" f="PPT" n="1"/>
+        <role descr="stolen from" f="DIR" n="2"/>
+        <role descr="stolen for" f="GOL" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

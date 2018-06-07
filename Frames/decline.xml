@@ -1,0 +1,19 @@
+<frameset>
+  <predicate lemma="decline">
+    <roleset id="decline.01" name="fall, ">
+      <roles>
+        <role descr="Logical subject, patient, thing declining" f="ppt" n="1"/>
+        <role descr="EXT, amount declined by" f="ext" n="2"/>
+        <role descr="start point" f="dir" n="3"/>
+        <role descr="end point, end state of arg1" f="gol" n="4"/>
+        <role descr="specific aspect of arg1 in decline" f="loc" n="5"/>
+      </roles>
+    </roleset>
+    <roleset id="decline.02" name="demure, turn down">
+      <roles>
+        <role descr="entity turning down" f="pag" n="0"/>
+        <role descr="thing turned down" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

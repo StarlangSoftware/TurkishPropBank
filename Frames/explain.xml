@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="explain">
+    <roleset id="explain.01" name="explain, descibing, justifying">
+      <roles>
+        <role descr="explainer" f="PAG" n="0"/>
+        <role descr="thing explained" f="PPT" n="1"/>
+        <role descr="explained to" f="GOL" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

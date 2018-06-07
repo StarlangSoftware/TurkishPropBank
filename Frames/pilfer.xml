@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="pilfer">
+    <roleset id="pilfer.01" name="steal in small quantities">
+      <roles>
+        <role descr="thief, agent" f="PAG" n="0"/>
+        <role descr="thing stolen" f="PPT" n="1"/>
+        <role descr="stolen from" f="DIR" n="2"/>
+        <role descr="sloten for" f="GOL" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

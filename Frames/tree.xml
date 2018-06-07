@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="tree">
+    <roleset id="tree.01" name="to drive up a tree">
+      <roles>
+        <role descr="driver" f="PAG" n="0"/>
+        <role descr="thing driven" f="PPT" n="1"/>
+        <role descr="tree, location" f="GOL" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

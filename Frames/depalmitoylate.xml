@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="depalmitoylate">
+    <roleset id="depalmitoylate.01" name="remove palmitate esters bound to a protein">
+      <roles>
+        <role descr="intentional agent of depalmitoylation (e.g. scientist)" f="pag" n="0" />
+        <role descr="thing depalmitoylated (e.g. protein)" f="ppt" n="1" />
+        <role descr="instrument" f="mnr" n="2" />
+        <role descr="result of depalmitoylation" f="prd" n="3" />
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

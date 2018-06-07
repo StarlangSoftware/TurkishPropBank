@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="forthcome">
+    <roleset id="forthcome.01" name="come forth">
+      <roles>
+        <role descr="entity coming forth" f="pag" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

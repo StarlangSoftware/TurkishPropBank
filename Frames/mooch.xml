@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="mooch">
+    <roleset id="mooch.01" name="take advantage of, like a sponge">
+      <roles>
+        <role descr="moocher" f="pag" n="0"/>
+        <role descr="thing taken" f="ppt" n="1"/>
+        <role descr="source" f="dir" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

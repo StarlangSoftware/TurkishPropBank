@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="imply">
+    <roleset id="imply.01" name="suggest">
+      <roles>
+        <role descr="implier" f="CAU" n="0"/>
+        <role descr="implication" f="PPT" n="1"/>
+        <role descr="listener" f="GOL" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

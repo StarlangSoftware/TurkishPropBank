@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="blend">
+    <roleset id="blend.01" name="blend, mix, combine">
+      <roles>
+        <role descr="agent, mixer" f="pag" n="0"/>
+        <role descr="ingredient one" f="ppt" n="1"/>
+        <role descr="ingredient two" f="ppt" n="2"/>
+        <role descr="end product" f="prd" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

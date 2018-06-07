@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="behoove">
+    <roleset id="behoove.01" name="be appropriate or necessary">
+      <roles>
+        <role descr="Thing worthwhile/necessary" f="ppt" n="1"/>
+        <role descr="benefactive" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

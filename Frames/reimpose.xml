@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="reimpose">
+    <roleset id="reimpose.01" name="be a bother">
+      <roles>
+        <role descr="reimposer (not reimposter)" f="pag" n="0"/>
+        <role descr="thing reimposed" f="ppt" n="1"/>
+        <role descr="reimposed on" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

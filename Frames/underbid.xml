@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="underbid">
+    <roleset id="underbid.01" name="bid lower than">
+      <roles>
+        <role descr="bidder" f="pag" n="0"/>
+        <role descr="item" f="ppt" n="1"/>
+        <role descr="higher bidder" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

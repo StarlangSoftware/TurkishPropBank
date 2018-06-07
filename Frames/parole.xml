@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="parole">
+    <roleset id="parole.01" name="release from detention, put on parole">
+      <roles>
+        <role descr="releaser" f="pag" n="0"/>
+        <role descr="criminal, parolee" f="ppt" n="1"/>
+        <role descr="released from" f="dir" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

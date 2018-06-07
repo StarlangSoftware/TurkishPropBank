@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="rectal">
+    <roleset id="rectal.01" name="in the rectal region of the gi tract">
+      <roles>
+        <role descr="thing in the rectal region" f="ppt" n="1"/>
+        <role descr="more specific part of the rectal region" f="vsp" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

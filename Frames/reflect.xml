@@ -1,0 +1,16 @@
+<frameset>
+  <predicate lemma="reflect">
+    <roleset id="reflect.01" name="cast an image back, casting back an image">
+      <roles>
+        <role descr="surface doing the reflecting" f="pag" n="1"/>
+        <role descr="reflected thing (usually the original model)" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="reflect.02" name="think about">
+      <roles>
+        <role descr="thinker" f="ppt" n="0"/>
+        <role descr="thoughts, reflected on/over" f="pag" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

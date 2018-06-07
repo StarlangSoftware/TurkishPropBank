@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="grok">
+    <roleset id="grok.01" name="the great indefinable">
+      <roles>
+        <role descr="grokker" f="PAG" n="0"/>
+        <role descr="grokked" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

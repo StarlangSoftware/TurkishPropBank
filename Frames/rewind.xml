@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="rewind">
+    <roleset id="rewind.01" name="wind backwards, perhaps as a cassette, back to the beginning state">
+      <roles>
+        <role descr="agent, rewinder" f="pag" n="0"/>
+        <role descr="thing rewound" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

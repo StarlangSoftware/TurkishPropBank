@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="southbound">
+    <roleset id="southbound.07" name="headed south">
+      <roles>
+        <role descr="entity headed south" f="ppt" n="1"/>
+        <role descr="other explicit destination" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="reposition">
+    <roleset id="reposition.01" name="to place in a new position, update">
+      <roles>
+        <role descr="repositioner, agent" f="pag" n="0"/>
+        <role descr="entity repositioned" f="ppt" n="1"/>
+        <role descr="attribute" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

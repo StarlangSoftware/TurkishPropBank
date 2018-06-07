@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="savor">
+    <roleset id="savor.01" name="to enjoy or taste">
+      <roles>
+        <role descr="taster, enjoyer" f="PPT" n="0"/>
+        <role descr="entity savored" f="PAG" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

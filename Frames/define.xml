@@ -1,0 +1,19 @@
+<frameset>
+  <predicate lemma="define">
+    <roleset id="define.01" name="assign a label or attribute; specify features or boundaries">
+      <roles>
+        <role descr="describer" f="PAG" n="0"/>
+        <role descr="thing defined" f="PPT" n="1"/>
+        <role descr="secondary attribute, described-as, definition" f="PRD" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="definition">
+    <roleset id="definition.02" name="highlighting, emphasizing">
+      <roles>
+        <role descr="highlighter" f="pag" n="0"/>
+        <role descr="thing highlighted/emphasized" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

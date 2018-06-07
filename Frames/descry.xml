@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="descry">
+    <roleset id="descry.01" name="recognize">
+      <roles>
+        <role descr="Viewer" f="ppt" n="0"/>
+        <role descr="thing discerned" f="pag" n="1"/>
+        <role descr="secondary attribute, described-as" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

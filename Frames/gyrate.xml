@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="gyrate">
+    <roleset id="gyrate.01" name="move repeatedly in circular fashion">
+      <roles>
+        <role descr="causer of gyration" f="PAG" n="0"/>
+        <role descr="thing gyrating" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

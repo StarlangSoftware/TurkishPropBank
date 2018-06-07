@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="far">
+    <roleset id="far.01" name="spatially distant">
+      <roles>
+        <role descr="entity that is far" f="pag" n="1"/>
+        <role descr="in relation to" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

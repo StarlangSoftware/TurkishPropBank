@@ -1,0 +1,15 @@
+<frameset>
+  <predicate lemma="say">
+    <roleset id="say.01" name="say">
+      <roles>
+        <role descr="Sayer" f="pag" n="0"/>
+        <role descr="Utterance" f="ppt" n="1"/>
+        <role descr="Hearer" f="gol" n="2"/>
+        <role descr="Attributive" f="adv" n="3"/>
+      </roles>
+    </roleset>
+    <roleset id="say.02" name="discourse function">
+        <roles/>
+    </roleset>
+  </predicate>
+</frameset>

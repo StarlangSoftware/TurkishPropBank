@@ -1,0 +1,21 @@
+<frameset>
+  <predicate lemma="happen">
+    <roleset id="happen.01" name="occur, take place">
+      <roles>
+        <role descr="event" f="ppt" n="1"/>
+        <role descr="benefactive" f="gol" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="happen.02" name="denoting coincidence">
+      <roles>
+        <role descr="coincidence" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="happen.03" name="find">
+      <roles>
+        <role descr="finder" f="pag" n="0"/>
+        <role descr="thing found" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

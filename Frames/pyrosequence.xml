@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="pyrosequence">
+    <roleset id="pyrosequence.01" name="sequence DNA using chemiluminescent enzymatic reactions">
+      <roles>
+        <role descr="scientist" f="pag" n="0"/>
+        <role descr="DNA, sample sequenced" f="ppt" n="1"/>
+        <role descr="sequenced for which genes, specifically" f="vsp" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

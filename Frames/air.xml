@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="air">
+    <roleset id="air.01" name="cause to be widely visible">
+      <roles>
+        <role descr="airer, agent" f="pag" n="0"/>
+        <role descr="thing aired" f="ppt" n="1"/>
+        <role descr="audience" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

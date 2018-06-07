@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="recalibrate">
+    <roleset id="recalibrate.01" name="fine-tune, again">
+      <roles>
+        <role descr="calibrator, agent" f="PAG" n="0"/>
+        <role descr="thing calibrated" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,18 @@
+<frameset>
+  <predicate lemma="belch">
+    <roleset id="belch.01" name="burp">
+      <roles>
+        <role descr="belcher" f="PAG" n="0"/>
+        <role descr="cognate object or utterance" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="belch_out">
+    <roleset id="belch_out.02" name="emit">
+      <roles>
+        <role descr="emitter" f="DIR" n="0"/>
+        <role descr="emitted" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

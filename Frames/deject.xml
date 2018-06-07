@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="deject">
+    <roleset id="deject.01" name="to cast down in spirit">
+      <roles>
+        <role descr="Causer of dejection" f="PAG" n="0"/>
+        <role descr="Entity dejected" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

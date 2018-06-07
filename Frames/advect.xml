@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="advect">
+    <roleset id="advect.01" name="horizontal transfer of mass (usually fluid or atmospheric)">
+      <roles>
+        <role descr="cause of movement" f="pag" n="0" />
+        <role descr="air, water, entity moved" f="ppt" n="1" />
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

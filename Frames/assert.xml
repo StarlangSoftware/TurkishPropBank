@@ -1,0 +1,26 @@
+<frameset>
+  <predicate lemma="assert">
+    <roleset id="assert.01" name="stand one's ground, speak up for oneself">
+      <roles>
+        <role descr="asserter" f="pag" n="0"/>
+        <role descr="self" f="rec" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="assert.02" name="manner of utterance, say, claim">
+      <roles>
+        <role descr="speaker, asserter" f="pag" n="0"/>
+        <role descr="utterance, claim" f="ppt" n="1"/>
+        <role descr="listener" f="gol" n="2"/>
+        <role descr="predication, arg1 is claimed to be what?" f="prd" n="3"/>
+      </roles>
+    </roleset>
+    <roleset id="assert.03" name="claim">
+      <roles>
+        <role descr="speaker, asserter" f="pag" n="0"/>
+        <role descr="utterance, claim" f="ppt" n="1"/>
+        <role descr="listener" f="gol" n="2"/>
+        <role descr="predication, arg1 is claimed to be what?" f="prd" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

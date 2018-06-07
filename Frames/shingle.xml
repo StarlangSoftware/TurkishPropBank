@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="shingle">
+    <roleset id="shingle.01" name="cover with shingles">
+      <roles>
+        <role descr="roofer, agent" f="PAG" n="0"/>
+        <role descr="roof, location being covered" f="GOL" n="1"/>
+        <role descr="shingles themselves, type of shingles" f="PPT" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

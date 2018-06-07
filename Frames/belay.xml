@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="belay">
+    <roleset id="belay.01" name="nautical or mt. climbing term, secure with a rope">
+      <roles>
+        <role descr="belayer, person securing something/someone else" f="PAG" n="0"/>
+        <role descr="climber, rope being secured" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

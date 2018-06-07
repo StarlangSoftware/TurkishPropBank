@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="palliate">
+    <roleset id="palliate.01" name="relieving or alleviating symptoms (temporarily)">
+      <roles>
+        <role descr="Cause of improvement, Agent" f="cau" n="0"/>
+        <role descr="Entity becoming better" f="ppt" n="1"/>
+        <role descr="Instrument, if separate from Agent" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="repossess">
+    <roleset id="repossess.01" name="take back material goods">
+      <roles>
+        <role descr="new/previous owner, holder of lien" f="PAG" n="0"/>
+        <role descr="goods" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

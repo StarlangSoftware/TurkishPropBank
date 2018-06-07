@@ -1,0 +1,20 @@
+<frameset>
+  <predicate lemma="coop">
+    <roleset id="coop.01" name="confine in a small space">
+      <roles>
+        <role descr="cooper" f="pag" n="0"/>
+        <role descr="entity cooped" f="ppt" n="1"/>
+        <role descr="coop, location" f="loc" n="m"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="coop_up">
+    <roleset id="coop_up.02" name="confine in a small space">
+      <roles>
+        <role descr="cooper" f="pag" n="0"/>
+        <role descr="entity cooped" f="ppt" n="1"/>
+        <role descr="coop, location" f="loc" n="m"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,20 @@
+<frameset>
+  <predicate lemma="farm">
+    <roleset id="farm.01" name="to cultivate or produce a crop on">
+      <roles>
+        <role descr="farmer" f="pag" n="0"/>
+        <role descr="land" f="ppt" n="1"/>
+        <role descr="crop, thing produced" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="farm_out">
+    <roleset id="farm_out.02" name="to subcontract">
+      <roles>
+        <role descr="distributor of work, agent" f="pag" n="0"/>
+        <role descr="work" f="ppt" n="1"/>
+        <role descr="contractor" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

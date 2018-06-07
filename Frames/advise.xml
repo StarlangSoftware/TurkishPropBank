@@ -1,0 +1,18 @@
+<frameset>
+  <predicate lemma="advise">
+    <roleset id="advise.01" name="give advice">
+      <roles>
+        <role descr="entity giving advice" f="pag" n="0"/>
+        <role descr="entity getting advice, impelled agent" f="gol" n="1"/>
+        <role descr="advice, impelled action" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="advisable">
+    <roleset id="advisable.02" name="prudent, wise">
+      <roles>
+        <role descr="prudent, wise thing" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

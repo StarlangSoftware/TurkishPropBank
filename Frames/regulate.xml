@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="regulate">
+    <roleset id="regulate.01" name="supervise, watch over, controlling">
+      <roles>
+        <role descr="regulator" f="pag" n="0"/>
+        <role descr="thing regulated" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="poststenotic">
+    <roleset id="poststenotic.01" name="located far from a stenosed segment">
+      <roles>
+        <role descr="poststenotic entity" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

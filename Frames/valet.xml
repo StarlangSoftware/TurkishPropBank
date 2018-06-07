@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="valet">
+    <roleset id="valet.01" name="valet">
+      <roles>
+        <role descr="valeter, car-lender" f="PAG" n="0"/>
+        <role descr="thing lent, car" f="GOL" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

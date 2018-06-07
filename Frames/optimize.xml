@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="optimize">
+    <roleset id="optimize.01" name="make efficient">
+      <roles>
+        <role descr="optimizer" f="PAG" n="0"/>
+        <role descr="thing optimized" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

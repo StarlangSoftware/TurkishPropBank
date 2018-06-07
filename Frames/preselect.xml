@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="preselect">
+    <roleset id="preselect.01" name="pick out beforehand">
+      <roles>
+        <role descr="selector" f="pag" n="0"/>
+        <role descr="entity selected" f="ppt" n="1"/>
+        <role descr="selected from" f="dir" n="2"/>
+        <role descr="attribute, selected for/as" f="prd" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

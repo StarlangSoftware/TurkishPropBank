@@ -1,0 +1,20 @@
+<frameset>
+  <predicate lemma="hobnob">
+    <roleset id="hobnob.01" name="talk, mingle">
+      <roles>
+        <role descr="First (or all if in one constituent) talker" f="pag" n="0"/>
+        <role descr="Other hobnobber (when separate constituent)" f="com" n="1"/>
+        <role descr="Topic, hobnobbed-about" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="hobnob_around">
+    <roleset id="hobnob_around.02" name="talk, mingle aimlessly">
+      <roles>
+        <role descr="first talker" f="pag" n="0"/>
+        <role descr="talked with, when separate mention" f="com" n="1"/>
+        <role descr="topic of discussion" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

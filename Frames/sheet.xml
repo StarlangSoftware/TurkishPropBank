@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="sheet">
+    <roleset id="sheet.01" name="rain very hard 1">
+      <roles>
+        <role descr="rain" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="glamorize">
+    <roleset id="glamorize.01" name="make glamorous">
+      <roles>
+        <role descr="causer of glamour, agent" f="pag" n="0"/>
+        <role descr="glamorous thing" f="ppt" n="1"/>
+        <role descr="adornment, instrument" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

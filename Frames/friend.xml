@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="friend">
+    <roleset id="friend.01" name="add/request as a 'friend' on social media">
+      <roles>
+        <role descr="friend request maker" f="pag" n="0"/>
+        <role descr="entity added/requested as friend" f="ppt" n="1"/>
+        <role descr="social media site used" f="loc" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

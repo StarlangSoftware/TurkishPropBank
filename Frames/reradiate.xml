@@ -1,0 +1,17 @@
+<frameset>
+  <predicate lemma="reradiate">
+    <roleset id="reradiate.01" name="hit with radiation again">
+      <roles>
+        <role descr="agent/causer" f="pag" n="0"/>
+        <role descr="entity hit with radiation" f="gol" n="1"/>
+        <role descr="the radiation" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="reradiate.02" name="emit or project, again">
+      <roles>
+        <role descr="entity emitting" f="pag" n="0"/>
+        <role descr="emitted" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,24 @@
+<frameset>
+  <predicate lemma="appreciate">
+    <roleset id="appreciate.01" name="increase in value">
+      <roles>
+        <role descr="thing increasing" f="ppt" n="1"/>
+        <role descr="EXT" f="ext" n="2"/>
+        <role descr="start point" f="dir" n="3"/>
+        <role descr="end point" f="prd" n="4"/>
+      </roles>
+    </roleset>
+    <roleset id="appreciate.02" name="esteem, value, have a fondness for, regard judgment">
+      <roles>
+        <role descr="emoter" f="ppt" n="0"/>
+        <role descr="thing appreciated" f="pag" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="appreciate.03" name="notice, discover">
+      <roles>
+        <role descr="noticer" f="pag" n="0"/>
+        <role descr="thing noticed" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

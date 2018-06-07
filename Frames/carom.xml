@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="carom">
+    <roleset id="carom.01" name="carom">
+      <roles>
+        <role descr="entity moving, thing caroming" f="ppt" n="1"/>
+        <role descr="start point" f="dir" n="2"/>
+        <role descr="end point" f="gol" n="3"/>
+        <role descr="path" f="dir" n="4"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

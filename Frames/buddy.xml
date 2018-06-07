@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="buddy">
+    <roleset id="buddy.01" name="partner with">
+      <roles>
+        <role descr="first partner" f="pag" n="0"/>
+        <role descr="second partner" f="com" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

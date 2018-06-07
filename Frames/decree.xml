@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="decree">
+    <roleset id="decree.01" name="to issue or demand  by decree">
+      <roles>
+        <role descr="ruler, issuer of decree" f="pag" n="0"/>
+        <role descr="entity decreed" f="ppt" n="1"/>
+        <role descr="listener" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

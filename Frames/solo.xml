@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="solo">
+    <roleset id="solo.01" name="perform unaccompanied">
+      <roles>
+        <role descr="soloist" f="PAG" n="0"/>
+        <role descr="what was performed" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

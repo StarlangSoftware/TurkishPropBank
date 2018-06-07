@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="doodle">
+    <roleset id="doodle.01" name="draw">
+      <roles>
+        <role descr="artist" f="PAG" n="0"/>
+        <role descr="doodle" f="PPT" n="1"/>
+        <role descr="destination" f="GOL" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

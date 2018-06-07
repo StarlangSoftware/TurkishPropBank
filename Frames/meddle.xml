@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="meddle">
+    <roleset id="meddle.01" name="provide unwanted help, interfering">
+      <roles>
+        <role descr="meddler" f="pag" n="0"/>
+        <role descr="thing medddled in" f="ppt" n="1"/>
+        <role descr="specific aspect of arg being interfered with" f="vsp" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

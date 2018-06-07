@@ -1,0 +1,72 @@
+<frameset>
+  <predicate lemma="hang">
+    <roleset id="hang.01" name="suspend, suspending (spatial, non-lehal sense)">
+      <roles>
+        <role descr="agent, entity causing something to be suspended" f="pag" n="0"/>
+        <role descr="thing suspended" f="ppt" n="1"/>
+        <role descr="suspended from" f="gol" n="2"/>
+      </roles>
+    
+    </roleset>
+    <roleset id="hang.02" name="exist, be (cool)">
+      <roles>
+        <role descr="entity in the position" f="pag" n="1"/>
+        <role descr="location" f="loc" n="2"/>
+      </roles>
+    
+    </roleset>
+  </predicate>
+  <predicate lemma="hang_on">
+    <roleset id="hang_on.04" name="wait">
+      <roles>
+        <role descr="person waiting" f="pag" n="1"/>
+        <role descr="what arg 1 is waiting for" f="prp" n="2"/>
+      </roles>
+    
+    </roleset>
+    <roleset id="hang_on.05" name="maintain possession of">
+      <roles>
+        <role descr="holder" f="pag" n="0"/>
+        <role descr="thing holding on to" f="ppt" n="1"/>
+        <role descr="benefactive" f="gol" n="2"/>
+      </roles>
+    
+    </roleset>
+  </predicate>
+  <predicate lemma="hang_up">
+    <roleset id="hang_up.03" name="hang up: terminate a phone call, hanging_up">
+      <roles>
+        <role descr="call terminator" f="pag" n="0"/>
+        <role descr="phone" f="ppt" n="1"/>
+        <role descr="other conversant" f="gol" n="2"/>
+      
+      </roles>
+    
+    </roleset>
+    <roleset id="hang_up.08" name="stuck on">
+      <roles>
+        <role descr="cause (agentive only!)" f="pag" n="0"/>
+        <role descr="captive" f="ppt" n="1"/>
+        <role descr="situation or location arg1 is not free of" f="loc" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="hang_out">
+    <roleset id="hang_out.06" name="spend time socially">
+      <roles>
+        <role descr="Focus person kickin' it, or all persons in one mention" f="pag" n="1"/>
+        <role descr="Other person that arg 1 is kickin' it with, when separate mention" f="com" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="hanging">
+    <roleset id="hanging.07" name="by the neck, execution">
+      <roles>
+        <role descr="judge, jury, executioner" f="pag" n="0"/>
+        <role descr="corpse" f="ppt" n="1"/>
+        <role descr="gallows" f="loc" n="2"/>
+        <role descr="crime" f="cau" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="elate">
+    <roleset id="elate.01" name="fill with joy">
+      <roles>
+        <role descr="agent or causer" f="pag" n="0"/>
+        <role descr="experiencer" f="ppt" n="1"/>
+        <role descr="instrument, if diff from cause in Arg0" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

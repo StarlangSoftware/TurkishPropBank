@@ -1,0 +1,27 @@
+<frameset>
+  <predicate lemma="argue">
+    <roleset id="argue.01" name="provide an argument, say, make an argument for or against something">
+      <roles>
+        <role descr="speaker" f="pag" n="0"/>
+        <role descr="argument" f="ppt" n="1"/>
+        <role descr="listener" f="gol" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="argue.02" name="argue with, have an argument with someone else">
+      <roles>
+        <role descr="first arguer" f="pag" n="0"/>
+        <role descr="second arguer" f="com" n="1"/>
+        <role descr="topic" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="arguable">
+    <roleset id="arguable.03" name="able to provide an argument for">
+      <roles>
+        <role descr="arguer" f="pag" n="0"/>
+        <role descr="argument" f="ppt" n="1"/>
+        <role descr="audience" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

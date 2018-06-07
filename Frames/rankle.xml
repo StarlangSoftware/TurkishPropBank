@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="rankle">
+    <roleset id="rankle.01" name="annoy">
+      <roles>
+        <role descr="rankler" f="PAG" n="0"/>
+        <role descr="rankled" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="retroflex">
+    <roleset id="retroflex.01" name="bend or turn backwards">
+      <roles>
+        <role descr="agent, turner" f="pag" n="0"/>
+        <role descr="patient, thing now backwards" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

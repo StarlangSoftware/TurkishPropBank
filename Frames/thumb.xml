@@ -1,0 +1,17 @@
+<frameset>
+  <predicate lemma="thumb">
+    <roleset id="thumb.01" name="look through idly">
+      <roles>
+        <role descr="thumber" f="pag" n="0"/>
+        <role descr="thing looked through" f="loc" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="thumb.02" name="make a rude gesture">
+      <roles>
+        <role descr="maker of gesture" f="pag" n="0"/>
+        <role descr="nose" f="ppt" n="1"/>
+        <role descr="at whom" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

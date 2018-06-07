@@ -1,0 +1,22 @@
+<frameset>
+  <predicate lemma="faint">
+    <roleset id="faint.01" name="faint, pass out">
+      <roles>
+        <role descr="fainter" f="PPT" n="0"/>
+      </roles>
+    </roleset>
+    <roleset id="faint.02" name="feeling weak, perhaps as precedes a loss of consciousness">
+      <roles>
+        <role descr="causer of faintness" f="pag" n="0"/>
+        <role descr="entity feeling faint" f="ppt" n="1"/>
+        <role descr="body part or domain of weakness" f="vsp" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="faint.03" name="faded, difficult to discern">
+      <roles>
+        <role descr="causer of faintness" f="pag" n="0"/>
+        <role descr="faded thing" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

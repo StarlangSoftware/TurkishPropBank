@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="puertorican">
+    <roleset id="puertorican.01" name="having puerto rican heritage, citizenship, or source">
+      <roles>
+        <role descr="entity originating in Puerto Rico" f="pag" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

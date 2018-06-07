@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="dismember">
+    <roleset id="dismember.01" name="take pieces off of">
+      <roles>
+        <role descr="agent, butcher" f="PAG" n="0"/>
+        <role descr="victim" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

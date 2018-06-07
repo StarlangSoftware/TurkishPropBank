@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="roger">
+    <roleset id="roger.01" name="communicate receipt of message">
+      <roles>
+        <role descr="entity saying 'roger', in response to receiving message" f="pag" n="0"/>
+        <role descr="message received" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

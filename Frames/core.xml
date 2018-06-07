@@ -1,0 +1,26 @@
+<frameset>
+  <predicate lemma="core">
+    <roleset id="core.01" name="remove core">
+      <roles>
+        <role descr="remover" f="pag" n="0"/>
+        <role descr="entity from which something is removed, what is being cored" f="dir" n="1"/>
+        <role descr="thing removed" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="core.02" name="center">
+      <roles>
+        <role descr="thing that is cored" f="ppt" n="1"/>
+        <role descr="cored on" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="core_out">
+    <roleset id="core_out.03" name="hollow out or remove">
+      <roles>
+        <role descr="remover" f="pag" n="0"/>
+        <role descr="entity from which something is removed, what is being cored" f="dir" n="1"/>
+        <role descr="thing removed" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

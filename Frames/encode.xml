@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="encode">
+    <roleset id="encode.01" name="make into a code, encrypt">
+      <roles>
+        <role descr="codemaker, agent" f="PAG" n="0"/>
+        <role descr="message etc." f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

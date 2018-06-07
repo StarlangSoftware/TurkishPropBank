@@ -1,0 +1,19 @@
+<frameset>
+  <predicate lemma="study">
+    <roleset id="study.01" name="examine closely">
+      <roles>
+        <role descr="student" f="pag" n="0"/>
+        <role descr="subject" f="ppt" n="1"/>
+        <role descr="teacher" f="dir" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="study_up">
+    <roleset id="study_up.02" name="examine closely">
+      <roles>
+        <role descr="student" f="pag" n="0"/>
+        <role descr="subject" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

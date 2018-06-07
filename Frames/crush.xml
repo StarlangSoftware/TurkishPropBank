@@ -1,0 +1,18 @@
+<frameset>
+  <predicate lemma="crush">
+    <roleset id="crush.01" name="press, break, pressing">
+      <roles>
+        <role descr="agent, causer" f="pag" n="0"/>
+        <role descr="thing crushed" f="ppt" n="1"/>
+        <role descr="instrument, if separate from arg0" f="mnr" n="2"/>
+        <role descr="crushed from or upon" f="dir" n="3"/>
+      </roles>
+    </roleset>
+    <roleset id="crush.02" name="be infatuated">
+      <roles>
+        <role descr="liker" f="pag" n="0"/>
+        <role descr="object of affection" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

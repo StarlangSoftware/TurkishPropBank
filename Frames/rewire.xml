@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="rewire">
+    <roleset id="rewire.01" name="reconfigure something's wiring">
+      <roles>
+        <role descr="agent of rewiring" f="PAG" n="0"/>
+        <role descr="thing getting rewired" f="ppt" n="1"/>
+        <role descr="end state, secondary predication on arg1" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

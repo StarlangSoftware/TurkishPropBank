@@ -1,0 +1,22 @@
+<frameset>
+  <predicate lemma="horrible">
+    <roleset id="horrible.01" name="generally very bad, displeasing">
+      <roles>
+        <role descr="generally bad entity (may require concatenation" f="pag" n="1"/>
+        <role descr="recipient of badness, entity it is directed toward" f="gol" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="horrible.02" name="really really unskilled at">
+      <roles>
+        <role descr="unskilled entity" f="pag" n="1"/>
+        <role descr="lacked skill" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="horrible.03" name="extremely unhealthy, unbeneficial">
+      <roles>
+        <role descr="unbeneficial thing" f="ppt" n="1"/>
+        <role descr="beneficiary" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

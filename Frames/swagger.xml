@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="swagger">
+    <roleset id="swagger.01" name="walk with excessive confidence">
+      <roles>
+        <role descr="walker, swaggerer" f="PAG" n="0"/>
+        <role descr="path" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

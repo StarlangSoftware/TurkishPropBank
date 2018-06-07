@@ -1,0 +1,13 @@
+<frameset>
+  <predicate lemma="rebound">
+    <roleset id="rebound.01" name="recover from, bounce">
+      <roles>
+        <role descr="thing rebounding" f="ppt" n="1"/>
+        <role descr="EXT or MNR" f="ext" n="2"/>
+        <role descr="start point, rebounded from" f="dir" n="3"/>
+        <role descr="end point, attribute of arg1" f="gol" n="4"/>
+        <role descr="Causal agent" f="pag" n="0"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

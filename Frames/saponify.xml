@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="saponify">
+    <roleset id="saponify.01" name="to convert to soap">
+      <roles>
+        <role descr="soap-maker, agent" f="pag" n="0"/>
+        <role descr="entity being converted to soap" f="ppt" n="1"/>
+        <role descr="Instrument or Manner if separate from arg 0" f="mnr" n="2"/>
+        <role descr="Soap, result" f="prd" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

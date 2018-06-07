@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="quirk">
+    <roleset id="quirk.01" name="curve">
+      <roles>
+        <role descr="agent, causer" f="pag" n="0"/>
+        <role descr="theme, thing curving" f="ppt" n="1"/>
+        <role descr="thing quirking at or in response to" f="dir" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

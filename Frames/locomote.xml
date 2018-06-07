@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="locomote">
+    <roleset id="locomote.01" name="move from place to place">
+      <roles>
+        <role descr="thing in motion" f="pag" n="0"/>
+        <role descr="path" f="loc" n="1"/>
+        <role descr="start point" f="dir" n="2"/>
+        <role descr="destination" f="gol" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

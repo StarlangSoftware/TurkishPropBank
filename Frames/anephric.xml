@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="anephric">
+    <roleset id="anephric.01" name="without functioning kidneys">
+      <roles>
+        <role descr="entity without functioning kidneys" f="pag" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

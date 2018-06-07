@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="intermediate">
+    <roleset id="intermediate.01" name="at a middle level">
+      <roles>
+        <role descr="thing at a middle level" f="ppt" n="1"/>
+        <role descr="domain, level of what" f="vsp" n="2"/>
+        <role descr="the level, if given in more detail" f="ext" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

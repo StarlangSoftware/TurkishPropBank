@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="old">
+    <roleset id="old.01" name="aged. having been around for a while">
+      <roles>
+        <role descr="aged one" f="pag" n="1"/>
+        <role descr="age" f="ext" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

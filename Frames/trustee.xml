@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="trustee">
+    <roleset id="trustee.01" name="act as a trustee">
+      <roles>
+        <role descr="trustee" f="pag" n="0"/>
+        <role descr="corporation, entity entrusted to arg0" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

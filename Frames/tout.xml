@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="tout">
+    <roleset id="tout.01" name="to solicit or advertise in strongly positive terms">
+      <roles>
+        <role descr="advertiser" f="pag" n="0"/>
+        <role descr="thing touted" f="ppt" n="1"/>
+        <role descr="attribute of arg1" f="prd" n="2"/>
+        <role descr="recipient" f="gol" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

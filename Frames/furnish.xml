@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="furnish">
+    <roleset id="furnish.01" name="to equip with what is needed, supply, or give">
+      <roles>
+        <role descr="supplier, agent" f="PAG" n="0"/>
+        <role descr="entity furnished" f="PPT" n="1"/>
+        <role descr="recipient" f="GOL" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

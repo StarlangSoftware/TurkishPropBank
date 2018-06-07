@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="crossfire">
+    <roleset id="crossfire.07" name="gunfire coming from both directions">
+      <roles>
+        <role descr="shooter" f="pag" n="0"/>
+        <role descr="gun/projectile" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

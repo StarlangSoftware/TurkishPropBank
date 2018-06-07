@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="redetect">
+    <roleset id="redetect.01" name="find again, notice again">
+      <roles>
+        <role descr="Detector" f="pag" n="0"/>
+        <role descr="Detected" f="ppt" n="1"/>
+        <role descr="Instrument, of separate from Arg0" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

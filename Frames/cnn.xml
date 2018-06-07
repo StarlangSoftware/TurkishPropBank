@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="cnn">
+    <roleset id="cnn.01" name="cable news network -like">
+      <roles>
+        <role descr="entity being compared to CNN" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="oath">
+    <roleset id="oath.01" name="promise">
+      <roles>
+        <role descr="promiser" f="pag" n="0"/>
+        <role descr="promised action" f="ppt" n="1"/>
+        <role descr="person promised to" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="speechify">
+    <roleset id="speechify.01" name="turning into a speech">
+      <roles>
+        <role descr="agent, cause of speechification" f="PAG" n="0"/>
+        <role descr="thing speechified" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

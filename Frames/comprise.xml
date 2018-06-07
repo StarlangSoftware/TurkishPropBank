@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="comprise">
+    <roleset id="comprise.01" name="to composed of, constitute">
+      <roles>
+        <role descr="group" f="ppt" n="1"/>
+        <role descr="parts or members" f="VSP" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

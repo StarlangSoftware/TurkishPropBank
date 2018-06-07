@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="upraise">
+    <roleset id="upraise.01" name="elevate, lift up">
+      <roles>
+        <role descr="raiser" f="pag" n="0"/>
+        <role descr="thing raised" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

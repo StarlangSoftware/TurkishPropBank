@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="coextrude">
+    <roleset id="coextrude.01" name="shape by forcing through a die, press or thrust out with another">
+      <roles>
+        <role descr="Machine, cause of coextrusion" f="pag" n="0"/>
+        <role descr="Entity shaped, thrusted out" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

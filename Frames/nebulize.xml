@@ -1,0 +1,18 @@
+<frameset>
+  <predicate lemma="nebulize">
+    <roleset id="nebulize.01" name="treat a patient with medicine using a nebulizer">
+      <roles>
+        <role descr="Agent administering treatment" f="pag" n="0"/>
+        <role descr="Patient being treated" f="ppt" n="1"/>
+        <role descr="Nebulized drug being treated with" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="nebulize.02" name="convert liquid into aerosol spray; atomize">
+      <roles>
+        <role descr="Agent, Cause of dispersing" f="pag" n="0"/>
+        <role descr="Thing dispersing" f="ppt" n="1"/>
+        <role descr="Instrument" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

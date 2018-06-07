@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="stun">
+    <roleset id="stun.01" name="to shock or surprise">
+      <roles>
+        <role descr="surprise" f="pag" n="0"/>
+        <role descr="surprised" f="ppt" n="1"/>
+        <role descr="source, instrument" f="cau" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,19 @@
+<frameset>
+  <predicate lemma="steer">
+    <roleset id="steer.01" name="provide direction">
+      <roles>
+        <role descr="steerer" f="PAG" n="0"/>
+        <role descr="thing steered" f="PPT" n="1"/>
+        <role descr="direction, steered towards" f="GOL" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="steer_clear">
+    <roleset id="steer_clear.02" name="avoid">
+      <roles>
+        <role descr="avoider" f="PAG" n="0"/>
+        <role descr="avoided" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

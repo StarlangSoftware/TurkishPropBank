@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="absolve">
+    <roleset id="absolve.01" name="remove guilt">
+      <roles>
+        <role descr="absolver, agent" f="CAU" n="0"/>
+        <role descr="guilty party" f="dir" n="1"/>
+        <role descr="guilt" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

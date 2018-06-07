@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="fledge">
+    <roleset id="fledge.01" name="supply with feathers, make ready for flight">
+      <roles>
+        <role descr="preparer" f="pag" n="0"/>
+        <role descr="thing made ready" f="ppt" n="1"/>
+        <role descr="feathers, fledge with what?" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

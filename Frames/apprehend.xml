@@ -1,0 +1,25 @@
+<frameset>
+  <predicate lemma="apprehend">
+    <roleset id="apprehend.01" name="seize, take into custody">
+      <roles>
+        <role descr="agent, apprehendor" f="pag" n="0"/>
+        <role descr="criminal,entity seized" f="ppt" n="1"/>
+        <role descr="crime, or attribute of arg 1" f="prd" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="apprehend.03" name="understand">
+      <roles>
+        <role descr="understander" f="pag" n="0"/>
+        <role descr="thing understood" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="apprehension">
+    <roleset id="apprehension.02" name="fear, anxiety">
+      <roles>
+        <role descr="fearful entity" f="pag" n="0"/>
+        <role descr="fearful of or about; misgiving; cause" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

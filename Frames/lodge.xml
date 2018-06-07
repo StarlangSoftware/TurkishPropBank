@@ -1,0 +1,24 @@
+<frameset>
+  <predicate lemma="lodge">
+    <roleset id="lodge.01" name="reside (temporarily?), residing (not the place resided)">
+      <roles>
+        <role descr="entity residing" f="ppt" n="0"/>
+        <role descr="location" f="loc" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="lodge.02" name="put firmly">
+      <roles>
+        <role descr="agent, putter" f="pag" n="0"/>
+        <role descr="thing lodged" f="ppt" n="1"/>
+        <role descr="where" f="gol" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="lodge.03" name="file a complaint">
+      <roles>
+        <role descr="complainer" f="pag" n="0"/>
+        <role descr="formal complaint, lawsuit etc" f="ppt" n="1"/>
+        <role descr="against whom" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="housekeep">
+    <roleset id="housekeep.01" name="clean or maintain a house, maintaining of a house">
+      <roles>
+        <role descr="housekeeper" f="pag" n="0"/>
+        <role descr="thing cleaned or maintained" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

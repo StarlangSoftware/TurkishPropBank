@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="quilt">
+    <roleset id="quilt.01" name="sew or stitch together">
+      <roles>
+        <role descr="quilter, agent" f="pag" n="0"/>
+        <role descr="material, things being quilted" f="ppt" n="1"/>
+        <role descr="attached to if seperate from arg 1, quilted where" f="loc" n="2"/>
+        <role descr="product, end state" f="prd" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

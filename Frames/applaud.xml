@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="applaud">
+    <roleset id="applaud.01" name="clap, sometimes metaphorically">
+      <roles>
+        <role descr="clapper" f="pag" n="0"/>
+        <role descr="thing approved of" f="ppt" n="1"/>
+        <role descr="grounds, reason for approval" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

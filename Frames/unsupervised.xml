@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="unsupervised">
+    <roleset id="unsupervised.01" name="not watched over, chaperoned">
+      <roles>
+        <role descr="potential supervisor" f="pag" n="0"/>
+        <role descr="entity not supervised" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

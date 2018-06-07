@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="disqualify">
+    <roleset id="disqualify.01" name="to declare unqualified">
+      <roles>
+        <role descr="declarer, agent" f="pag" n="0"/>
+        <role descr="entity disqualified" f="ppt" n="1"/>
+        <role descr="entity disqualified from" f="vsp" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

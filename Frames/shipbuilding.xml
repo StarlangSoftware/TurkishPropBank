@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="shipbuilding">
+    <roleset id="shipbuilding.01" name="building of ships">
+      <roles>
+        <role descr="builder" f="pag" n="0"/>
+        <role descr="specific ship built" f="ppt" n="1"/>
+        <role descr="material, start state" f="mnr" n="2"/>
+        <role descr="end state" f="prd" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,18 @@
+<frameset>
+  <predicate lemma="bottle">
+    <roleset id="bottle.01" name="to place in a bottle">
+      <roles>
+        <role descr="bottler, agent" f="PAG" n="0"/>
+        <role descr="entity bottled" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="bottle_up">
+    <roleset id="bottle_up.02" name="to supress">
+      <roles>
+        <role descr="suppressor, agent" f="PAG" n="0"/>
+        <role descr="entity bottled up" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

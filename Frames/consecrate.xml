@@ -1,0 +1,24 @@
+<frameset>
+  <predicate lemma="consecrate">
+    <roleset id="consecrate.01" name="to appoint, ordain to a clerical post">
+      <roles>
+        <role descr="Agent, appointer" f="pag" n="0"/>
+        <role descr="Person being ordained, appointed" f="ppt" n="1"/>
+        <role descr="Position, clerical post appointed to" f="prd" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="consecrate.02" name="give, devote to a cause">
+      <roles>
+        <role descr="Sacrificer, person giving to a cause" f="pag" n="0"/>
+        <role descr="Thing given, often reflexive" f="ppt" n="1"/>
+        <role descr="Recipient, religion or cause" f="gol" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="consecrate.03" name="dedicate to a deity, render holy">
+      <roles>
+        <role descr="entity dedicating the object" f="pag" n="0"/>
+        <role descr="object dedicated, made holy" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

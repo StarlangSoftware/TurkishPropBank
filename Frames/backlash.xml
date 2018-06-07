@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="backlash">
+    <roleset id="backlash.01" name="adverse reaction">
+      <roles>
+        <role descr="agent, one lashing back" f="pag" n="0"/>
+        <role descr="about, backlash over, topic" f="ppt" n="1"/>
+        <role descr="lashed at, beneficiary of lashing" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

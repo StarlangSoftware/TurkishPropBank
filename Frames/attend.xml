@@ -1,0 +1,16 @@
+<frameset>
+  <predicate lemma="attend">
+    <roleset id="attend.01" name="belong with or at, going to">
+      <roles>
+        <role descr="thing attending" f="pag" n="0"/>
+        <role descr="thing attended" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="attend.02" name="pay close attention to, attend to">
+      <roles>
+        <role descr="entity paying attention" f="pag" n="0"/>
+        <role descr="to what" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

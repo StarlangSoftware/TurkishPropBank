@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="absorb">
+    <roleset id="absorb.01" name="suck up">
+      <roles>
+        <role descr="absorber, cause or agent" f="pag" n="0"/>
+        <role descr="absorbed, us. liquid" f="ppt" n="1"/>
+        <role descr="sponge, arg 1 is absorbed into this, when separate from cause" f="gol" n="2"/>
+        <role descr="Source of liquid, absorbed from what?" f="dir" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

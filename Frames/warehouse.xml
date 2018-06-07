@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="warehouse">
+    <roleset id="warehouse.01" name="to keep or put in a warehouse">
+      <roles>
+        <role descr="storer" f="PAG" n="0"/>
+        <role descr="thing stored" f="PPT" n="1"/>
+        <role descr="warehouse, location" f="GOL" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

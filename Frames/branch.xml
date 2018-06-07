@@ -1,0 +1,18 @@
+<frameset>
+  <predicate lemma="branch">
+    <roleset id="branch.01" name="branch, fork, split">
+      <roles>
+        <role descr="thing branching" f="PPT" n="0"/>
+        <role descr="destination (into)" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="branch_out">
+    <roleset id="branch_out.02" name="branch, fork, split">
+      <roles>
+        <role descr="thing branching" f="PPT" n="0"/>
+        <role descr="destination (into)" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

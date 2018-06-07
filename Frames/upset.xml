@@ -1,0 +1,17 @@
+<frameset>
+  <predicate lemma="upset">
+    <roleset id="upset.01" name="cause emotional anguish">
+      <roles>
+        <role descr="agent of upsetting" f="pag" n="0"/>
+        <role descr="upset entity" f="ppt" n="1"/>
+        <role descr="instrument" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="upset.02" name="turn over">
+      <roles>
+        <role descr="turner" f="pag" n="0"/>
+        <role descr="turned (container, usually)" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

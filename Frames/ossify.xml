@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="ossify">
+    <roleset id="ossify.01" name="to make bone or like bone">
+      <roles>
+        <role descr="cause of solidification" f="pag" n="0"/>
+        <role descr="entity made bone-like" f="ppt" n="1"/>
+        <role descr="result, attribute of arg 1" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

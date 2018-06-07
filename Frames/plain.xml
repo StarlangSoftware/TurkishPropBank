@@ -1,0 +1,17 @@
+<frameset>
+  <predicate lemma="plain">
+    <roleset id="plain.01" name="apparent, clear">
+      <roles>
+        <role descr="causer of clarity, evidence" f="pag" n="0"/>
+        <role descr="apparent thing" f="ppt" n="1"/>
+        <role descr="to whom it is apparent" f="gol" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="plain.02" name="unadorned">
+      <roles>
+        <role descr="unadorned entity" f="ppt" n="1"/>
+        <role descr="specific aspect of arg1 that is plain" f="vsp" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

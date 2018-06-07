@@ -1,0 +1,21 @@
+<frameset>
+  <predicate lemma="pale">
+    <roleset id="pale.01" name="become pale, light in color (perhaps unhealthily so)">
+      <roles>
+        <role descr="entity becoming pale" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="pale.02" name="seem weak by comparison">
+      <roles>
+        <role descr="thing seeming pale, weak" f="ppt" n="1"/>
+        <role descr="in comparison to" f="vsp" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="pale.03" name="be characterized as light in color (perhaps unhealthily so), pallid, feeble">
+      <roles>
+        <role descr="entity described as pale" f="ppt" n="1"/>
+        <role descr="specific aspect of arg1 that is pale" f="vsp" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

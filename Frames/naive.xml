@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="naive">
+    <roleset id="naive.01" name="unknowledgeable due to inexperience">
+      <roles>
+        <role descr="agent/act deemed naive" f="pag" n="1"/>
+        <role descr="unknowledgeable about" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

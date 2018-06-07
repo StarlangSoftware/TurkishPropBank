@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="concus">
+    <roleset id="concus.01" name="temporarily injuring the brain">
+      <roles>
+        <role descr="Agent, entity causing injury" f="pag" n="0"/>
+        <role descr="Patient concussed" f="ppt" n="1"/>
+        <role descr="Instrument" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

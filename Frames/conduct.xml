@@ -1,0 +1,22 @@
+<frameset>
+  <predicate lemma="conduct">
+    <roleset id="conduct.01" name="directed motion">
+      <roles>
+        <role descr="conductor" f="pag" n="0"/>
+        <role descr="thing led" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="conduct.02" name="behavior">
+      <roles>
+        <role descr="agent" f="pag" n="0"/>
+        <role descr="manner" f="mnr" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="conduct.03" name="transmit, be a medium">
+      <roles>
+        <role descr="transmitter" f="pag" n="1"/>
+        <role descr="transmitted" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="mustached">
+    <roleset id="mustached.01" name="having a mustache">
+      <roles>
+        <role descr="entity with a mustache" f="ppt" n="1"/>
+        <role descr="characteristic of the mustache" f="adj" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="plow">
+    <roleset id="plow.01" name="make a furrow in the ground">
+      <roles>
+        <role descr="plower" f="pag" n="0"/>
+        <role descr="plowed" f="ppt" n="1"/>
+        <role descr="plowed where" f="dir" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="germinate">
+    <roleset id="germinate.01" name="young plants appearing, causing to sprout or grow">
+      <roles>
+        <role descr="farmer" f="pag" n="0"/>
+        <role descr="plant" f="ppt" n="1"/>
+        <role descr="field or medium" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

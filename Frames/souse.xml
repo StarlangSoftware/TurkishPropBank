@@ -1,0 +1,16 @@
+<frameset>
+  <predicate lemma="souse">
+    <roleset id="souse.01" name="immerse in a liquid">
+      <roles>
+        <role descr="Dunker" f="PAG" n="0"/>
+        <role descr="Thing dunked" f="PPT" n="1"/>
+        <role descr="Liquid" f="MNR" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="souse.02" name="become drunk">
+      <roles>
+        <role descr="Drinker" f="PAG" n="0"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,21 @@
+<frameset>
+  <predicate lemma="big">
+    <roleset id="big.01" name="generally large">
+      <roles>
+        <role descr="large entity" f="pag" n="1"/>
+        <role descr="contents filling up arg1" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="big.02" name="magnanimous, generous">
+      <roles>
+        <role descr="magnanimous" f="pag" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="big.03" name="trendy, important">
+      <roles>
+        <role descr="trendy, important entity" f="ppt" n="1"/>
+        <role descr="group holding arg1 as important" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

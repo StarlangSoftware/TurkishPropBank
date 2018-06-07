@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="impulsive">
+    <roleset id="impulsive.01" name="acting on impulse">
+      <roles>
+        <role descr="entity acting on impulse" f="pag" n="0"/>
+        <role descr="impulsive action" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

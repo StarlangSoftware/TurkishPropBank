@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="resist">
+    <roleset id="resist.01" name="resist">
+      <roles>
+        <role descr="resister" f="pag" n="0"/>
+        <role descr="thing resisted" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

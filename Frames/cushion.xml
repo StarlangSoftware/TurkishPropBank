@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="cushion">
+    <roleset id="cushion.01" name="to protect from impact">
+      <roles>
+        <role descr="protector, agent" f="pag" n="0"/>
+        <role descr="entity cushioned" f="ppt" n="1"/>
+        <role descr="cushioned for/from/against" f="vsp" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

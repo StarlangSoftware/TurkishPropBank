@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="bloat">
+    <roleset id="bloat.01" name="inflate, swelling">
+      <roles>
+        <role descr="causer of expansion" f="pag" n="0"/>
+        <role descr="thing inflated" f="ppt" n="1"/>
+        <role descr="substance" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

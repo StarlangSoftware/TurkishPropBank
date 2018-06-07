@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="omnipotent">
+    <roleset id="omnipotent.01" name="all-powerful">
+      <roles>
+        <role descr="Godlike entity" f="pag" n="1"/>
+        <role descr="entity ruled" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

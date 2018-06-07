@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="impair">
+    <roleset id="impair.01" name="to cause to diminish, diminished">
+      <roles>
+        <role descr="Stimulus" f="PAG" n="0"/>
+        <role descr="entity impaired" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="recriminate">
+    <roleset id="recriminate.01" name="make mutual/return accusations against">
+      <roles>
+        <role descr="accuser (in return)" f="pag" n="0"/>
+        <role descr="accused" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

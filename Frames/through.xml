@@ -1,0 +1,23 @@
+<frameset>
+  <predicate lemma="through">
+    <roleset id="through.01" name="finished, over">
+      <roles>
+        <role descr="doer" f="pag" n="0"/>
+        <role descr="entity that is done being affected/effected" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="through.02" name="spatial (may be metaphorical/abstract): on the other side of a barrier/passage">
+      <roles>
+        <role descr="entity in motion" f="pag" n="1"/>
+        <role descr="barrier/passage passed through" f="loc" n="2"/>
+        <role descr="the other side" f="gol" n="3"/>
+      </roles>
+    </roleset>
+    <roleset id="through.03" name="experiential: passage through an experience">
+      <roles>
+        <role descr="experiencer" f="pag" n="1"/>
+        <role descr="experiencer" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

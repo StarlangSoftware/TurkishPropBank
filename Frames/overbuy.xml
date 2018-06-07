@@ -1,0 +1,14 @@
+<frameset>
+  <predicate lemma="overbuy">
+    <roleset id="overbuy.01" name="to buy in excessive amounts">
+      <roles>
+        <role descr="buyer" f="pag" n="0"/>
+        <role descr="thing bought" f="ppt" n="1"/>
+        <role descr="seller" f="dir" n="2"/>
+        <role descr="price paid" f="vsp" n="3"/>
+        <role descr="beneficiary" f="gol" n="4"/>
+        <role descr="overbought by how much?" f="ext" n="5"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

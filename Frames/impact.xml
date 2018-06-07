@@ -1,0 +1,21 @@
+<frameset>
+  <predicate lemma="impact">
+    <roleset id="impact.01" name="have an effect on">
+      <roles>
+        <role descr="thing affecting" f="pag" n="0"/>
+        <role descr="thing affected" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="impact.02" name="hit, strike">
+      <roles>
+        <role descr="thing hit" f="ppt" n="1"/>
+        <role descr="instrument, thing hit by or with" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="impact.03" name="be very firmly packed, packing very firmly">
+      <roles>
+        <role descr="firmly packed thing" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,20 @@
+<frameset>
+  <predicate lemma="resect">
+    <roleset id="resect.01" name="to remove surgically, surgically excising part of a tissue">
+      <roles>
+        <role descr="Surgeon" f="pag" n="0"/>
+        <role descr="Entity removed" f="ppt" n="1"/>
+        <role descr="Removed from" f="dir" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="resectable">
+    <roleset id="resectable.02" name="able to be removed surgically">
+      <roles>
+        <role descr="agent, surgeon" f="pag" n="0"/>
+        <role descr="thing removed" f="ppt" n="1"/>
+        <role descr="source, removed from" f="dir" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

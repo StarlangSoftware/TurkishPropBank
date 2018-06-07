@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="ingratiate">
+    <roleset id="ingratiate.01" name="cause to be grateful, suck up to">
+      <roles>
+        <role descr="sycophant" f="pag" n="0"/>
+        <role descr="us. 'self'" f="ppt" n="1"/>
+        <role descr="grateful entity" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="solitary">
+    <roleset id="solitary.01" name="alone">
+      <roles>
+        <role descr="lone entity" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

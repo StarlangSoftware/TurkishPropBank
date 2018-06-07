@@ -1,0 +1,17 @@
+<frameset>
+  <predicate lemma="bother">
+    <roleset id="bother.01" name="cause stress in">
+      <roles>
+        <role descr="causer of bothering" f="pag" n="0"/>
+        <role descr="bothered" f="ppt" n="1"/>
+        <role descr="instrument of bothering (if in addition to arg0)" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="bother.02" name="semi-modal">
+      <roles>
+        <role descr="botherer" f="pag" n="0"/>
+        <role descr="real action" f="prd" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

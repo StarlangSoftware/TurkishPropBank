@@ -1,0 +1,20 @@
+<frameset>
+  <predicate lemma="share">
+    <roleset id="share.01" name="share, giving into co-ownership">
+      <roles>
+        <role descr="sharer" f="pag" n="0"/>
+        <role descr="thing shared" f="ppt" n="1"/>
+        <role descr="shared with, if separate from arg0" f="com" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="share_out">
+    <roleset id="share_out.02" name="distribute to shareholders">
+      <roles>
+        <role descr="distributor" f="pag" n="0"/>
+        <role descr="thing given out" f="ppt" n="1"/>
+        <role descr="shareholders" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

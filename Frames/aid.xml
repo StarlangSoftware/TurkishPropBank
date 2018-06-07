@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="aid">
+    <roleset id="aid.01" name="help">
+      <roles>
+        <role descr="helper" f="PAG" n="0"/>
+        <role descr="project" f="PPT" n="1"/>
+        <role descr="benefactor" f="GOL" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

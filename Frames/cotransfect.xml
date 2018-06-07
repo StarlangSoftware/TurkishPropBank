@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="cotransfect">
+    <roleset id="cotransfect.01" name="simultaneously transfect with two, unrelated nucleic acids, one of which carries a marker gene">
+      <roles>
+        <role descr="intentional agent of cotransfection (e.g. scientist)" f="pag" n="0" />
+        <role descr="recipient of cotransfection (e.g. cell)" f="gol" n="1" />
+        <role descr="nucleic acid(s) inserted into the cell" f="ppt" n="2" />
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="preexamine">
+    <roleset id="preexamine.01" name="inspecting beforehand">
+      <roles>
+        <role descr="examiner" f="pag" n="0"/>
+        <role descr="examined" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

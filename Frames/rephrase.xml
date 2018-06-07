@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="rephrase">
+    <roleset id="rephrase.01" name="to summarize or restate differently from   original statement or text">
+      <roles>
+        <role descr="speaker, writer, agent" f="pag" n="0"/>
+        <role descr="thing rephrased" f="ppt" n="1"/>
+        <role descr="rephrased as" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

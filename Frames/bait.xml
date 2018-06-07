@@ -1,0 +1,26 @@
+<frameset>
+  <predicate lemma="bait">
+    <roleset id="bait.01" name="tease, rag on">
+      <roles>
+        <role descr="teaser" f="pag" n="0"/>
+        <role descr="person being teased" f="gol" n="1"/>
+        <role descr="teased about what?" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="bait.02" name="lure, entice, entrap with bait">
+      <roles>
+        <role descr="agent, volitional entity enticing" f="pag" n="0"/>
+        <role descr="patient, entity lured, enticed, entrapped" f="ppt" n="1"/>
+        <role descr="Trap, entity, action arg1 is lured towards or into" f="prd" n="2"/>
+        <role descr="bait itself, instrument" f="mnr" n="3"/>
+      </roles>
+    </roleset>
+    <roleset id="bait.03" name="put bait on a trap, hook, etc.">
+      <roles>
+        <role descr="agent, entity putting bait on trap, hook" f="pag" n="0"/>
+        <role descr="entity baited, trap or hook itself" f="gol" n="1"/>
+        <role descr="instrument, bait itself" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

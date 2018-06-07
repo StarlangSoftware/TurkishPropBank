@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="infatuate">
+    <roleset id="infatuate.01" name="inspire with unreasoning love or attachment">
+      <roles>
+        <role descr="entity causing infatuation, infatuated-with" f="pag" n="0"/>
+        <role descr="experiencer of infatuation" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

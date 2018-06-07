@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="tingle">
+    <roleset id="tingle.01" name="experience prickling, stinging   sensation">
+      <roles>
+        <role descr="experiencer" f="PPT" n="1"/>
+        <role descr="cause" f="PAG" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

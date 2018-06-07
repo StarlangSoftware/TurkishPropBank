@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="wangle">
+    <roleset id="wangle.01" name="to accomplish or obtain by scheming or   underhand methods">
+      <roles>
+        <role descr="wangler" f="PAG" n="0"/>
+        <role descr="thing wangled" f="PPT" n="1"/>
+        <role descr="wangled from" f="DIR" n="2"/>
+        <role descr="wangled for" f="GOL" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

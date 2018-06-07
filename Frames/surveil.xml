@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="surveil">
+    <roleset id="surveil.01" name="to examine, inspect carefully">
+      <roles>
+        <role descr="surveiler" f="pag" n="0"/>
+        <role descr="entity surveiled" f="ppt" n="1"/>
+        <role descr="surveiled about" f="prp" n="2"/>
+        <role descr="beneficiary" f="gol" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

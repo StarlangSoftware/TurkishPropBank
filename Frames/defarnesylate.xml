@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="defarnesylate">
+    <roleset id="defarnesylate.01" name="remove the farnesyl group from a compound">
+      <roles>
+        <role descr="intentional agent of defarnesylation (e.g. scientist)" f="pag" n="0" />
+        <role descr="thing defarnesylated" f="ppt" n="1" />
+        <role descr="instrument" f="mnr" n="2" />
+        <role descr="result of defarnesylation" f="prd" n="3" />
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

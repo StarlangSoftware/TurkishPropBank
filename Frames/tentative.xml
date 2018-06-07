@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="tentative">
+    <roleset id="tentative.01" name="uncertain, subject to change">
+      <roles>
+        <role descr="thing subject to change" f="ppt" n="1"/>
+        <role descr="entity who hasn't made up their mind" f="pag" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

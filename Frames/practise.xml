@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="practise">
+    <roleset id="practise.01" name="practice">
+      <roles>
+        <role descr="practicer" f="pag" n="0"/>
+        <role descr="skill" f="ppt" n="1"/>
+        <role descr="instrument" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

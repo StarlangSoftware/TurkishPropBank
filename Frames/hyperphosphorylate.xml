@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="hyperphosphorylate">
+    <roleset id="hyperphosphorylate.01" name="phosphorylate fully, so that all potential phosphorylation sites are occupied">
+      <roles>
+        <role descr="intentional agent of hyperphosphorylation (e.g. scientist)" f="pag" n="0" />
+        <role descr="thing hyperphosphorylated (e.g. protein or another organic molecule)" f="ppt" n="1" />
+        <role descr="instrument (e.g. enzyme)" f="mnr" n="2" />
+        <role descr="result of hyperphosphorylation" f="prd" n="3" />
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,54 @@
+<frameset>
+  <predicate lemma="catch">
+    <roleset id="catch.01" name="get">
+      <roles>
+        <role descr="receiver" f="pag" n="0"/>
+        <role descr="thing gotten" f="ppt" n="1"/>
+        <role descr="giver" f="dir" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="catch.02" name="come upon, find">
+      <roles>
+        <role descr="events, usually" f="pag" n="0"/>
+        <role descr="entity" f="ppt" n="1"/>
+        <role descr="attribute" f="prd" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="catch.03" name="trap">
+      <roles>
+        <role descr="trapper" f="pag" n="0"/>
+        <role descr="trapped" f="ppt" n="1"/>
+        <role descr="trap, either place or instrument" f="MNR" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="catch_up">
+    <roleset id="catch_up.04" name="come even with, to catch up">
+      <roles>
+        <role descr="entity in motion" f="ppt" n="1"/>
+        <role descr="goal" f="gol" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="catch_up.07" name="cause something to become entangled">
+      <roles>
+        <role descr="causer" f="pag" n="0"/>
+        <role descr="entity becomeing caught" f="ppt" n="1"/>
+        <role descr="trap" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="catch_on">
+    <roleset id="catch_on.05" name="catch on: become popular, becoming popular">
+      <roles>
+        <role descr="thing becoming popular" f="ppt" n="1"/>
+        <role descr="popular with whom?" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="catch_on.06" name="catch on: become aware of, becoming aware of">
+      <roles>
+        <role descr="aware entity" f="pag" n="0"/>
+        <role descr="aware of what?" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

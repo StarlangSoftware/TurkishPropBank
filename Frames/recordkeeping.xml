@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="recordkeeping">
+    <roleset id="recordkeeping.01" name="keep records (of transactions, finances, etc.)">
+      <roles>
+        <role descr="keeper of records, recorder" f="pag" n="0"/>
+        <role descr="records kept" f="ppt" n="1"/>
+        <role descr="benefactive, owner of records" f="gol" n="2"/>
+        <role descr="topic or content of records" f="ppt" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

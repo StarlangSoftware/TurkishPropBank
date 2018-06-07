@@ -1,0 +1,28 @@
+<frameset>
+  <predicate lemma="redden">
+    <roleset id="redden.01" name="(cause to become) the color red">
+      <roles>
+        <role descr="causer of redness" f="pag" n="0"/>
+        <role descr="red thing" f="ppt" n="1"/>
+        <role descr="specific aspect of arg1 that is red" f="vsp" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="red">
+    <roleset id="red.02" name="be the color red">
+      <roles>
+        <role descr="causer of redness" f="pag" n="0"/>
+        <role descr="red entity" f="ppt" n="1"/>
+        <role descr="specific aspect of arg1 that is red" f="vsp" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="reddish">
+    <roleset id="reddish.03" name="slightly/somewhat red">
+      <roles>
+        <role descr="causer of redishness" f="pag" n="0"/>
+        <role descr="reddish thing" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

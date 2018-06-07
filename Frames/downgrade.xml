@@ -1,0 +1,20 @@
+<frameset>
+  <predicate lemma="downgrade">
+    <roleset id="downgrade.01" name="replace">
+      <roles>
+        <role descr="replacer" f="pag" n="0"/>
+        <role descr="old thing" f="ppt" n="1"/>
+        <role descr="new thing" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="downgrade.02" name="worsen">
+      <roles>
+        <role descr="causer of worsening, agent" f="pag" n="0"/>
+        <role descr="thing worsening" f="ppt" n="1"/>
+        <role descr="amount, EXT" f="ext" n="2"/>
+        <role descr="start point" f="dir" n="3"/>
+        <role descr="end point" f="gol" n="4"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

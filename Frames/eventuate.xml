@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="eventuate">
+    <roleset id="eventuate.01" name="to happen in the end, result in">
+      <roles>
+        <role descr="event transpiring" f="ppt" n="1"/>
+        <role descr="results of event, eventuated in what?" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

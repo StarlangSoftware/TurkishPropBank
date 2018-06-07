@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="geotag">
+    <roleset id="geotag.01" name="provide geographic location via metadata">
+      <roles>
+        <role descr="geotag-giver" f="pag" n="0"/>
+        <role descr="thing geotagged" f="ppt" n="1"/>
+        <role descr="location given" f="vsp" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="doff">
+    <roleset id="doff.01" name="remove">
+      <roles>
+        <role descr="remover" f="pag" n="0"/>
+        <role descr="clothing removed" f="ppt" n="1"/>
+        <role descr="removed from" f="dir" n="2"/>
+        <role descr="in exchange for, clothing put on instead" f="vsp" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

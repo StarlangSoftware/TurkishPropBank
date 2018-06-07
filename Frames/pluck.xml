@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="pluck">
+    <roleset id="pluck.01" name="to remove or detach">
+      <roles>
+        <role descr="remover, agent" f="PAG" n="0"/>
+        <role descr="entity plucked" f="PPT" n="1"/>
+        <role descr="plucked from" f="DIR" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

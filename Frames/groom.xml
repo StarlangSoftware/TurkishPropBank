@@ -1,0 +1,18 @@
+<frameset>
+  <predicate lemma="groom">
+    <roleset id="groom.01" name="brush a horse, attending to one's appearance or hygiene">
+      <roles>
+        <role descr="agent, groom" f="pag" n="0"/>
+        <role descr="thing groomed" f="ppt" n="1"/>
+        <role descr="instrument" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="groom.02" name="make ready, prepare">
+      <roles>
+        <role descr="agent" f="pag" n="0"/>
+        <role descr="entity being groomed" f="ppt" n="1"/>
+        <role descr="for what" f="prp" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

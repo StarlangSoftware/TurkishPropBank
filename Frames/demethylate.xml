@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="demethylate">
+    <roleset id="demethylate.01" name="remove a methyl group from a chemical compound">
+      <roles>
+        <role descr="agent of demethylation (e.g. scientist)" f="pag" n="0"></role>
+        <role descr="thing demethylated" f="ppt" n="1"></role>
+        <role descr="instrument" f="mnr" n="2"></role>
+        <role descr="product of demethylation" f="prd" n="3"></role>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

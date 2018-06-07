@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="pathetic">
+    <roleset id="pathetic.01" name="sad, pitiable">
+      <roles>
+        <role descr="pathetic entity" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

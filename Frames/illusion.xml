@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="illusion">
+    <roleset id="illusion.01" name="sham belief">
+      <roles>
+        <role descr="believer" f="pag" n="0"/>
+        <role descr="the illusion" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="ultrafilter">
+    <roleset id="ultrafilter.01" name="filtration through a semi-premeable membrane allowing ontly small molecules through">
+      <roles>
+        <role descr="Agent or instrument" f="pag" n="0"/>
+        <role descr="Things removed" f="ppt" n="1"/>
+        <role descr="Liquid Arg1 is being removed from" f="dir" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

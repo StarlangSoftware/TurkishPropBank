@@ -1,0 +1,19 @@
+<frameset>
+  <predicate lemma="cheapen">
+    <roleset id="cheapen.01" name="cause to lose value">
+      <roles>
+        <role descr="causer, agent" f="PAG" n="0"/>
+        <role descr="thing losing value" f="PPT" n="1"/>
+        <role descr="instrument" f="MNR" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="cheap">
+    <roleset id="cheap.02" name="inexpensive, lacking in quality">
+      <roles>
+        <role descr="inexpensive thing" f="ppt" n="1"/>
+        <role descr="cost of cheap thing" f="vsp" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

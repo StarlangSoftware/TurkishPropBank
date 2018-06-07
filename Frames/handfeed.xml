@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="handfeed">
+    <roleset id="handfeed.01" name="feed by hand">
+      <roles>
+        <role descr="Feeder, agent" f="PAG" n="0"/>
+        <role descr="Milk, food fed" f="PPT" n="1"/>
+        <role descr="Baby, recipient of food" f="GOL" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

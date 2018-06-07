@@ -1,0 +1,23 @@
+<frameset>
+  <predicate lemma="resign">
+    <roleset id="resign.01" name="quit, cease employment">
+      <roles>
+        <role descr="resigner" f="pag" n="0"/>
+        <role descr="position resigned" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="resign.02" name="adjectival, giving up (as in despair)">
+      <roles>
+        <role descr="experiencer of emotional resignation" f="ppt" n="1"/>
+        <role descr="resigned to what" f="gol" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="resign.03" name="re-sign, sign again">
+      <roles>
+        <role descr="Signer" f="pag" n="0"/>
+        <role descr="Talent, contract signed" f="ppt" n="1"/>
+        <role descr="Signed as what, what role arg1 is signed as" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

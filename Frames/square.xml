@@ -1,0 +1,33 @@
+<frameset>
+  <predicate lemma="square">
+    <roleset id="square.01" name="set to rights, arrange properly">
+      <roles>
+        <role descr="cause of rightness, agent" f="pag" n="0"/>
+        <role descr="thing being set to rights" f="gol" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="square.02" name="mathematics">
+      <roles>
+        <role descr="mathematician" f="pag" n="0"/>
+        <role descr="number" f="ppt" n="1"/>
+        <role descr="result" f="prd" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="square.04" name="make into a square shape">
+      <roles>
+        <role descr="cause/agent" f="pag" n="0"/>
+        <role descr="thing becoming square-shaped" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="square_off">
+    <roleset id="square_off.03" name="compete">
+      <roles>
+        <role descr="causal agent" f="pag" n="0"/>
+        <role descr="competitor" f="ppt" n="1"/>
+        <role descr="opponent" f="ppt" n="2"/>
+        <role descr="prize" f="prp" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

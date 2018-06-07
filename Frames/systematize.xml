@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="systematize">
+    <roleset id="systematize.01" name="make or become systematic">
+      <roles>
+        <role descr="causer, systematizer" f="PAG" n="0"/>
+        <role descr="thing made or becoming systematic" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

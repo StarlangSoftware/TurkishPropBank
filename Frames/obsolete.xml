@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="obsolete">
+    <roleset id="obsolete.01" name="out of date, no longer used">
+      <roles>
+        <role descr="obsolete entity" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

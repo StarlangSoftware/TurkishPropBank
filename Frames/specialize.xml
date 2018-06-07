@@ -1,0 +1,18 @@
+<frameset>
+  <predicate lemma="specialize">
+    <roleset id="specialize.01" name="specialize">
+      <roles>
+        <role descr="specialist" f="PAG" n="0"/>
+        <role descr="speciality" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="special">
+    <roleset id="special.02" name="unique">
+      <roles>
+        <role descr="thing that is unique, possibly cherished" f="pag" n="1"/>
+        <role descr="entity cherishing, holding arg1 as unique" f="adv" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

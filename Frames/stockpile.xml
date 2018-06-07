@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="stockpile">
+    <roleset id="stockpile.01" name="store">
+      <roles>
+        <role descr="agent, storer" f="PAG" n="0"/>
+        <role descr="commodity" f="PPT" n="1"/>
+        <role descr="location or destination" f="LOC" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="obey">
+    <roleset id="obey.01" name="obey, follow the rules, follow commands">
+      <roles>
+        <role descr="obeyer" f="PAG" n="0"/>
+        <role descr="rule or rule-giver" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

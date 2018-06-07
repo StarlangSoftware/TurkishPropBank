@@ -1,0 +1,17 @@
+<frameset>
+  <predicate lemma="reticulate">
+    <roleset id="reticulate.01" name="form a network">
+      <roles>
+        <role descr="network former" f="pag" n="0"/>
+        <role descr="network" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="reticulate.02" name="distribute via a network">
+      <roles>
+        <role descr="reticulater" f="pag" n="0"/>
+        <role descr="thing reticulated" f="ppt" n="1"/>
+        <role descr="recipient or beneficiary" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

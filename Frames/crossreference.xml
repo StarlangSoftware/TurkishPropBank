@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="crossreference">
+    <roleset id="crossreference.01" name="check information from one source against another source">
+      <roles>
+        <role descr="Person doing the checking" f="pag" n="0"/>
+        <role descr="First source of information" f="ppt" n="1"/>
+        <role descr="Source of information being referenced against" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

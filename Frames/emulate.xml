@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="emulate">
+    <roleset id="emulate.01" name="to strive to equal, compete with successfully">
+      <roles>
+        <role descr="agent or entity competing" f="pag" n="0"/>
+        <role descr="entity emulated" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

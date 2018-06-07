@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="insolate">
+    <roleset id="insolate.01" name="expose to rays of the sun">
+      
+      <roles>
+        <role descr="sun" f="pag" n="0"/>
+        <role descr="thing exposed to sun" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

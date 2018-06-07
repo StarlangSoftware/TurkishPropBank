@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="newsworthy">
+    <roleset id="newsworthy.01" name="worthy of telling">
+      <roles>
+        <role descr="news" f="ppt" n="1"/>
+        <role descr="entities considering it news" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

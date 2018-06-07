@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="gibber">
+    <roleset id="gibber.01" name="chatter">
+      <roles>
+        <role descr="speaker" f="PAG" n="0"/>
+        <role descr="utterance,sound" f="PPT" n="1"/>
+        <role descr="listener,recipient" f="GOL" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="wrought">
+    <roleset id="wrought.01" name="to cause a change of state">
+      <roles>
+        <role descr="Agent" f="pag" n="0"/>
+        <role descr="Theme, thing wrought" f="ppt" n="1"/>
+        <role descr="Patient, thing wrought upon" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

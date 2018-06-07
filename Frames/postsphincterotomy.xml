@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="postsphincterotomy">
+    <roleset id="postsphincterotomy.01" name="in the stage following a sphincterotomy">
+      <roles>
+        <role descr="entity in the post-sphincterotomy stage" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

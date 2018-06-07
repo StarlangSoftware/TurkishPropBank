@@ -1,0 +1,58 @@
+<frameset>
+  <predicate lemma="follow">
+    <roleset id="follow.01" name="be subsequent, temporally or spatially">
+      <roles>
+        <role descr="causal agent" f="pag" n="0"/>
+        <role descr="thing following, coming after" f="ppt" n="1"/>
+        <role descr="thing followed, coming before" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="follow.02" name="adhere to, accept, understand, pursue">
+      <roles>
+        <role descr="acceptor, pursuer" f="pag" n="0"/>
+        <role descr="thing followed" f="ppt" n="1"/>
+        <role descr="benefactive" f="gol" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="follow.04" name="list function">
+      <roles>
+        <role descr="described" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="follow.05" name="logical conclusion">
+      <roles>
+        <role descr="conclusion" f="ppt" n="1"/>
+        <role descr="thesis" f="dir" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="follow_suit">
+    <roleset id="follow_suit.06" name="do the same thing, imitate">
+      <roles>
+        <role descr="imitator" f="pag" n="0"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="follow_through">
+    <roleset id="follow_through.07" name="fulfill, complete">
+      <roles>
+        <role descr="fulfiller" f="pag" n="0"/>
+        <role descr="promise, plans, etc" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="follow_through.08" name="xray of the upper stomach involving barium">
+      <roles>
+        <role descr="radiologist, x-rayer" f="pag" n="0"/>
+        <role descr="subject" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="follow_up">
+    <roleset id="follow_up.03" name="be subsequent, pursue, do follow-up">
+      <roles>
+        <role descr="causal agent" f="pag" n="0"/>
+        <role descr="thing followed up on, coming before" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

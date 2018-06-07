@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="fund">
+    <roleset id="fund.01" name="provide money for, providing financial backing">
+      <roles>
+        <role descr="financier" f="pag" n="0"/>
+        <role descr="project, whom/what is being funded?" f="gol" n="1"/>
+        <role descr="funds" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

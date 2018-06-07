@@ -1,0 +1,26 @@
+<frameset>
+  <predicate lemma="compare">
+    <roleset id="compare.01" name="compare">
+      <roles>
+        <role descr="entity making comparison" f="PAG" n="0"/>
+        <role descr="first item in comparison" f="PPT" n="1"/>
+        <role descr="second item in comparison, usually prepositional" f="PPT" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="comparable">
+    <roleset id="comparable.02" name="able to be compared">
+      <roles>
+        <role descr="agent, entity doing the comparing" f="pag" n="0"/>
+        <role descr="first item (or all) in comparison" f="ppt" n="1"/>
+        <role descr="second item" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="comparable.03" name="similar">
+      <roles>
+        <role descr="first item (or all) that are similar" f="ppt" n="1"/>
+        <role descr="second item" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

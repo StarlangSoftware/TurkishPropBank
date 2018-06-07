@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="innocent">
+    <roleset id="innocent.01" name="innocent">
+      <roles>
+        <role descr="entity that is innocent" f="pag" n="1"/>
+        <role descr="role or crime, innocent from/of/in what?" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

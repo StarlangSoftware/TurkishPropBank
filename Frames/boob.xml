@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="boob_out">
+    <roleset id="boob_out.01" name="act like an idiot">
+      <roles>
+        <role descr="entity acting like a boob" f="pag" n="0"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

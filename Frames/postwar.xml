@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="postwar">
+    <roleset id="postwar.01" name="coming after a period of war">
+      <roles>
+        <role descr="thing coming after the war" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

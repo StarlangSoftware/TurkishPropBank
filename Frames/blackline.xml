@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="blackline">
+    <roleset id="blackline.01" name="Compare two documents by displaying only what has changed between them">
+      <roles>
+        <role descr="comparer" f="pag" n="0"/>
+        <role descr="first document or item compared" f="ppt" n="1"/>
+        <role descr="second item, compared against" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

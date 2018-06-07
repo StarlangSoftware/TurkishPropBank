@@ -1,0 +1,24 @@
+<frameset>
+  <predicate lemma="model">
+    <roleset id="model.01" name="to copy, example">
+      <roles>
+        <role descr="agent, causer" f="PAG" n="0"/>
+        <role descr="entity modeled" f="PRD" n="1"/>
+        <role descr="source" f="VSP" n="2"/>
+      </roles>
+      <example name="potentially confusing arg1" src="cryo" type="">
+        <inflection aspect="ns" form="ns" person="ns" tense="ns"
+        voice="ns"/>
+        <text>atmospheric modeling.</text>
+        <arg f="" n="1">atmospheric</arg>
+        <rel f="">modeling</rel>
+      </example>
+    </roleset>
+    <roleset id="model.02" name="to work as a fashion model">
+      <roles>
+        <role descr="fashion model" f="PAG" n="0"/>
+        <role descr="garment, thing being modeled." f="GOL" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

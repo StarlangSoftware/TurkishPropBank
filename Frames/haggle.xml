@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="haggle">
+    <roleset id="haggle.01" name="argue out (a price, us.)">
+      <roles>
+        <role descr="subject haggler" f="PAG" n="0"/>
+        <role descr="other haggler" f="COM" n="1"/>
+        <role descr="topic of argument" f="PPT" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="triumph">
+    <roleset id="triumph.01" name="win, victory">
+      <roles>
+        <role descr="winner" f="pag" n="0"/>
+        <role descr="loser" f="ppt" n="1"/>
+        <role descr="competition" f="vsp" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

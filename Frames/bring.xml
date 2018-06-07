@@ -1,0 +1,83 @@
+<frameset>
+  <predicate lemma="bring">
+    <roleset id="bring.01" name="carry along with, move literally or metaphorically">
+      <roles>
+        <note>Follow PReditor's suggestions for phrasal brings--the particle
+					is often the same as an attribute, but they can cooccur (eg "bring
+					in as president").</note>
+        <role descr="bringer" f="pag" n="0"/>
+        <role descr="thing brought" f="ppt" n="1"/>
+        <role descr="benefactive or destination brought-for, brought-to," f="gol" n="2"/>
+        <role descr="attribute, state after bringing, secondary action" f="prd" n="3"/>
+        <role descr="ablative, brought-from" f="dir" n="4"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="bring_up">
+    <roleset id="bring_up.02" name="broach the subject (but not child-rear)">
+      <roles>
+        <role descr="causer of rising, Agent" f="pag" n="0"/>
+        <role descr="Logical subject, patient, thing rising" f="ppt" n="1"/>
+        <role descr="EXT, amount risen" f="ext" n="2"/>
+        <role descr="Start point" f="dir" n="3"/>
+        <role descr="End point" f="gol" n="4"/>
+        <role descr="Medium" f="loc" n="m"/>
+      </roles>
+    </roleset>
+    <roleset id="bring_up.07" name="process criminal charges against">
+      <roles>
+        <role descr="entity bringing the charges" f="pag" n="0"/>
+        <role descr="entity charged" f="ppt" n="1"/>
+        <role descr="the charges" f="vsp" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="bring_up.08" name="rear a child (or other growing entity)">
+      <roles>
+        <role descr="parent figure, raiser" f="pag" n="0"/>
+        <role descr="child figure" f="ppt" n="1"/>
+        <role descr="curriculum/tradition brought up in" f="vsp" n="2"/>
+        <role descr="start state" f="dir" n="3"/>
+        <role descr="end state" f="prd" n="4"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="bring_down">
+    <roleset id="bring_down.03" name="make fall">
+      <roles>
+        <role descr="causer of fall, Agent" f="mnr" n="0"/>
+        <role descr="Logical subject, patient, thing falling" f="ppt" n="1"/>
+        <role descr="EXT, amount fallen" f="ext" n="2"/>
+        <role descr="Start point" f="dir" n="3"/>
+        <role descr="End point" f="gol" n="4"/>
+        <role descr="Medium" f="loc" n="m"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="bring_along">
+    <roleset id="bring_along.04" name="accompany">
+      <roles>
+        <role descr="bringer" f="mnr" n="0"/>
+        <role descr="thing brought" f="ppt" n="1"/>
+        <role descr="benefactive, brought-for, brought-to" f="gol" n="2"/>
+        <role descr="attribute" f="prd" n="3"/>
+        <role descr="ablative, brought-from" f="dir" n="4"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="bring_about">
+    <roleset id="bring_about.05" name="cause to be">
+      <roles>
+        <role descr="causer" f="pag" n="0"/>
+        <role descr="thing coming to be" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="bring_on">
+    <roleset id="bring_on.06" name="cause onset">
+      <roles>
+        <role descr="bringer" f="pag" n="0"/>
+        <role descr="thing beginning" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

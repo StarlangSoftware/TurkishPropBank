@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="renounce">
+    <roleset id="renounce.01" name="repudiate, deny">
+      <roles>
+        <role descr="denier" f="pag" n="0"/>
+        <role descr="thing denied" f="dir" n="1"/>
+        <role descr="benefactive" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

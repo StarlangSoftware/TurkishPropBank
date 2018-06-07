@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="strum">
+    <roleset id="strum.01" name="run fingers over musical wires/stringgs">
+      <roles>
+        <role descr="strummer" f="pag" n="0"/>
+        <role descr="strings" f="ppt" n="1"/>
+        <role descr="fingers, pick, or other strumming implement" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

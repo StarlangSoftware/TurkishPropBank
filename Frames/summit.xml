@@ -1,0 +1,17 @@
+<frameset>
+  <predicate lemma="summit">
+    <roleset id="summit.01" name="get together with">
+      <roles>
+        <role descr="one party" f="pag" n="0"/>
+        <role descr="reason to meet" f="ppt" n="1"/>
+        <role descr="other party" f="com" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="summit.02" name="reach the top of a mountain">
+      <roles>
+        <role descr="mountain climber" f="pag" n="0"/>
+        <role descr="mountain" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="upbraid">
+    <roleset id="upbraid.01" name="to find fault with or reproach severely">
+      <roles>
+        <role descr="upbraider" f="pag" n="0"/>
+        <role descr="guilty party" f="ppt" n="1"/>
+        <role descr="crime, fault" f="cau" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

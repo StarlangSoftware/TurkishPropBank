@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="reform">
+    <roleset id="reform.01" name="make changes, improve, forming anew, making changes or improvements">
+      <roles>
+        <role descr="reformer" f="pag" n="0"/>
+        <role descr="thing changed" f="ppt" n="1"/>
+        <role descr="end state" f="prd" n="2"/>
+        <role descr="start state" f="dir" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

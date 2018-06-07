@@ -1,0 +1,22 @@
+<frameset>
+  <predicate lemma="awful">
+    <roleset id="awful.01" name="generally terrible, displeasing">
+      <roles>
+        <role descr="terrible thing" f="pag" n="1"/>
+        <role descr="recipient, experiencer of awfulness" f="gol" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="awful.02" name="horribly unskilled at">
+      <roles>
+        <role descr="unskilled entity" f="pag" n="1"/>
+        <role descr="non-skill, at what" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="awful.03" name="extremely unbeneficial, unhealthful">
+      <roles>
+        <role descr="unbeneficial thing" f="pag" n="1"/>
+        <role descr="unbeneficiary" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

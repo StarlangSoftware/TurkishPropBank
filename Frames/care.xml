@@ -1,0 +1,28 @@
+<frameset>
+  <predicate lemma="care">
+    <roleset id="care.01" name="having an opinion, feeling tenderly/strongly for/about">
+      <roles>
+        <role descr="entity who has an opinion, cares" f="ppt" n="0"/>
+        <role descr="entity cared for/about" f="pag" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="care.02" name="liking/desiring/wanting">
+      <roles>
+        <role descr="liker, wanter" f="ppt" n="0"/>
+        <role descr="what arg0 does or doesn't want/like (to do)" f="pag" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="care.03" name="tending, taking care of">
+      <roles>
+        <role descr="care-giver" f="pag" n="0"/>
+        <role descr="entity tended, taken care of" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="care.04" name="being cautious, taking care to">
+      <roles>
+        <role descr="cautious entity" f="pag" n="0"/>
+        <role descr="thing treated/done carefully" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

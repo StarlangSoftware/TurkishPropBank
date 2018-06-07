@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="yap">
+    <roleset id="yap.01" name="to bark or speak sharply, shrilly, or snappishly">
+      <roles>
+        <role descr="yapper" f="pag" n="0"/>
+        <role descr="utterance, yap" f="ppt" n="1"/>
+        <role descr="hearer" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

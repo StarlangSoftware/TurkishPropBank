@@ -1,0 +1,26 @@
+<frameset>
+  <predicate lemma="tape">
+    <roleset id="tape.01" name="to secure of fasten with a tape">
+      <roles>
+        <role descr="taper, agent" f="PAG" n="0"/>
+        <role descr="entity taped" f="PPT" n="1"/>
+        <role descr="entity taped to" f="PPT" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="tape.02" name="to record on magnetic tape">
+      <roles>
+        <role descr="recorder, agent" f="PAG" n="0"/>
+        <role descr="entity taped" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="tape_up">
+    <roleset id="tape_up.03" name="affix with tape, completive">
+      <roles>
+        <role descr="agent of taping" f="PAG" n="0"/>
+        <role descr="thing taped up" f="ppt" n="1"/>
+        <role descr="the tape" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="od">
+    <roleset id="od.01" name="overdose">
+      <roles>
+        <role descr="entity who took too much" f="PAG" n="0"/>
+        <role descr="on what drug" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

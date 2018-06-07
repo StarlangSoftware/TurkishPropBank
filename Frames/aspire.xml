@@ -1,0 +1,26 @@
+<frameset>
+  <predicate lemma="aspire">
+    <roleset id="aspire.01" name="hope to">
+      <roles>
+        <role descr="hoper" f="pag" n="0"/>
+        <role descr="action hoped to" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="aspirate">
+    <roleset id="aspirate.101" name="to suck fluid from some kind of pocket/joint">
+      <roles>
+        <role descr="Doctor" f="pag" n="0"/>
+        <role descr="Substance" f="ppt" n="1"/>
+        <role descr="Source" f="dir" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="aspirate.102" name="suck fluid or object into lungs">
+      <roles>
+        <role descr="Agent inhaling" f="pag" n="0"/>
+        <role descr="Substance or object" f="ppt" n="1"/>
+        <role descr="Destination" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

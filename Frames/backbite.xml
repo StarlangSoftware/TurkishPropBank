@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="backbite">
+    <roleset id="backbite.01" name="to attack the character or reputation of   someone who is not present">
+      <roles>
+        <role descr="attacker, agent" f="pag" n="0"/>
+        <role descr="entity attacked" f="ppt" n="1"/>
+        <role descr="attacked about" f="cau" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

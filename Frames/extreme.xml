@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="extreme">
+    <roleset id="extreme.01" name="the highest degree of something">
+      <roles>
+        <role descr="Thing that is extreme" f="ppt" n="1"/>
+        <role descr="Attribute, in what quality/respect is arg1 extreme?" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

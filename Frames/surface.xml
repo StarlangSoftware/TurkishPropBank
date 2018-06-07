@@ -1,0 +1,16 @@
+<frameset>
+  <predicate lemma="surface">
+    <roleset id="surface.01" name="appear, as from underwater">
+      <roles>
+        <role descr="thing appearing" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="surface.02" name="put atop, apply a surface to">
+      <roles>
+        <role descr="applier, agent" f="pag" n="0"/>
+        <role descr="substrate, medium" f="gol" n="1"/>
+        <role descr="stuff on top" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

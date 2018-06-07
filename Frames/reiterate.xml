@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="reiterate">
+    <roleset id="reiterate.01" name="state again">
+      <roles>
+        <role descr="announcer" f="PAG" n="0"/>
+        <role descr="utterance" f="PPT" n="1"/>
+        <role descr="hearer" f="GOL" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,22 @@
+<frameset>
+  <predicate lemma="trigger">
+    <roleset id="trigger.01" name="begin, cause to begin">
+      <roles>
+        <role descr="Agent" f="pag" n="0"/>
+        <role descr="Theme(-Creation)" f="ppt" n="1"/>
+        <role descr="Instrument" f="mnr" n="2"/>
+        <role descr="secondary predication" f="prd" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="trigger_off">
+    <roleset id="trigger_off.02" name="start off">
+      <roles>
+        <role descr="agent starting/triggering something" f="pag" n="0"/>
+        <role descr="thing beginning, triggered off" f="ppt" n="1"/>
+        <role descr="instrument" f="mnr" n="2"/>
+        <role descr="attribute of arg1" f="prd" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

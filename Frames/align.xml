@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="align">
+    <roleset id="align.01" name="arrange so as to be parallel, harmonious with">
+      <roles>
+        <role descr="arranger, agent/cause" f="pag" n="0"/>
+        <role descr="first or all things aligned" f="ppt" n="1"/>
+        <role descr="second thing, standard of comparison, aligned-to" f="gol" n="2"/>
+        <role descr="subject matter, domain of alignment; issue aligned on" f="vsp" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

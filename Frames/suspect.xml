@@ -1,0 +1,25 @@
+<frameset>
+  <predicate lemma="suspect">
+    <roleset id="suspect.01" name="have a suspicion about something">
+      <roles>
+        <role descr="suspecter" f="pag" n="0"/>
+        <role descr="suspicion: what arg0 thinks" f="ppt" n="1"/>
+        <role descr="suspect; entity inspring suspicion in arg0" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="suspicious">
+    <roleset id="suspicious.02" name="being prone to suspect; distrustful">
+      <roles>
+        <role descr="suspecter" f="pag" n="0"/>
+        <role descr="thing or event viewed suspiciously" f="ppt" n="1"/>
+        <role descr="act expressing suspicion, often a glance" f="prd" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="suspicious.03" name="acting in a manner that evokes suspicion; shady">
+      <roles>
+        <role descr="thing or event acting in ways that evoke suspicion" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

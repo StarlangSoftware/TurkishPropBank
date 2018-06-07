@@ -1,0 +1,20 @@
+<frameset>
+  <predicate lemma="examine">
+    <roleset id="examine.01" name="look at closely">
+      <roles>
+        <role descr="examiner" f="pag" n="0"/>
+        <role descr="thing examined" f="ppt" n="1"/>
+        <role descr="in search of what" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="examination">
+    <roleset id="examination.02" name="test">
+      <roles>
+        <role descr="examiner" f="pag" n="0"/>
+        <role descr="examined" f="loc" n="1"/>
+        <role descr="subject, type of test" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

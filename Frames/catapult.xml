@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="catapult">
+    <roleset id="catapult.01" name="throw very energetically">
+      <roles>
+        <role descr="thrower" f="CAU" n="0"/>
+        <role descr="thing thrown" f="PPT" n="1"/>
+        <role descr="thrown at, to, over, etc" f="PRD" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

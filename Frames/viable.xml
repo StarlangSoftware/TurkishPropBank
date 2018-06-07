@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="viable">
+    <roleset id="viable.01" name="capable of success">
+      <roles>
+        <role descr="entity capable of success" f="pag" n="1"/>
+        <role descr="secondary predication" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

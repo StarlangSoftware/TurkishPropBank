@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="collude">
+    <roleset id="collude.01" name="to conspire">
+      <roles>
+        <role descr="focussed party, agent" f="pag" n="0"/>
+        <role descr="second party" f="com" n="1"/>
+        <role descr="conspiracy" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

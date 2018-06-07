@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="summarize">
+    <roleset id="summarize.01" name="to make a summary">
+      <roles>
+        <role descr="editor, summarizer, agent" f="pag" n="0"/>
+        <role descr="thing summarized" f="ppt" n="1"/>
+        <role descr="summary" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="revile">
+    <roleset id="revile.01" name="to criticize, speak harshly">
+      <roles>
+        <role descr="criticizer" f="PAG" n="0"/>
+        <role descr="entity scolded" f="PPT" n="1"/>
+        <role descr="reason reviled" f="cau" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

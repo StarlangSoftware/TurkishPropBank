@@ -1,0 +1,26 @@
+<frameset>
+  <predicate lemma="flush">
+    <roleset id="flush.01" name="remove, removing using water">
+      <roles>
+        <role descr="flusher" f="PAG" n="0"/>
+        <role descr="removed material" f="PPT" n="1"/>
+        <role descr="container, source" f="DIR" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="flush.03" name="turn red">
+      <roles>
+        <role descr="causer of color change" f="pag" n="0"/>
+        <role descr="entity turning red" f="PAG" n="1"/>
+        <role descr="eventual color" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="flush_out">
+    <roleset id="flush_out.02" name="cause to become visible, find">
+      <roles>
+        <role descr="flusher" f="PAG" n="0"/>
+        <role descr="thing found" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="outcry">
+    <roleset id="outcry.01" name="speaking out against">
+      <roles>
+        <role descr="speaker" f="pag" n="0"/>
+        <role descr="spoken out against/about" f="ppt" n="1"/>
+        <role descr="listener" f="gol" n="2"/>
+        <role descr="for what (if in addition to arg1)" f="cau" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

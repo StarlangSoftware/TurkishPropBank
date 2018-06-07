@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="ischemic">
+    <roleset id="ischemic.01" name="related to mechanically-induced local anemia">
+      <roles>
+        <role descr="ischemic entity" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

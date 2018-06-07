@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="enable">
+    <roleset id="enable.01" name="allow, let">
+      <roles>
+        <role descr="allower" f="pag" n="0"/>
+        <role descr="action allowed" f="prd" n="1"/>
+        <role descr="allowed agent" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

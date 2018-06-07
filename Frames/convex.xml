@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="convex">
+    <roleset id="convex.01" name="curved outward, like the outside of a sphere">
+      <roles>
+        <role descr="convex thing" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

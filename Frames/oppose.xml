@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="oppose">
+    <roleset id="oppose.01" name="oppose, object to, being against, being in an opposite position, against an issue">
+      <roles>
+        <role descr="opposer" f="PPT" n="0"/>
+        <role descr="thing opposed to" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

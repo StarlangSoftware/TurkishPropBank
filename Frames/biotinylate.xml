@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="biotinylate">
+    <roleset id="biotinylate.01" name="attach a biotin residue to a protein or other molecule">
+      <roles>
+        <role descr="intentional agent of biotinylation (e.g. scientist)" f="PAG" n="0" />
+        <role descr="thing biotinylated (e.g. protein)" f="PPT" n="1" />
+        <role descr="instrument" f="MNR" n="2" />
+        <role descr="result of biotinylation" f="PRD" n="3" />
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

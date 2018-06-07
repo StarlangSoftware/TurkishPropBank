@@ -1,0 +1,19 @@
+<frameset>
+  <predicate lemma="undersell">
+    <roleset id="undersell.01" name="sell some commodity at a   lower price than the competition">
+      <roles>
+        <role descr="seller" f="pag" n="0"/>
+        <role descr="competition" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="undersell.02" name="sell less of something, withold sales of a good">
+      <roles>
+        <role descr="seller witholding a good" f="pag" n="0"/>
+        <role descr="good, thing being sold" f="ppt" n="1"/>
+        <role descr="buyer, arg 1 sold to whom" f="gol" n="2"/>
+        <role descr="price paid" f="vsp" n="3"/>
+        <role descr="benefactive" f="gol" n="4"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

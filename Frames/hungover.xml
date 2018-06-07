@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="hungover">
+    <roleset id="hungover.01" name="suffering the residual effects of too much alcohol">
+      <roles>
+        <role descr="stimulus, alcohol, causer of hangover" f="pag" n="0"/>
+        <role descr="hungover one" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

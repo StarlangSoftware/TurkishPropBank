@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="lightheaded">
+    <roleset id="lightheaded.01" name="woozy">
+      <roles>
+        <role descr="causer of lightheadedness" f="pag" n="0"/>
+        <role descr="lightheaded one" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

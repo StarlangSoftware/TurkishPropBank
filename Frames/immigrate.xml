@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="immigrate">
+    <roleset id="immigrate.01" name="move population">
+      <roles>
+        <role descr="population" f="pag" n="0"/>
+        <role descr="destination" f="ppt" n="1"/>
+        <role descr="source" f="dir" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

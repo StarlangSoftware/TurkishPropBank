@@ -1,0 +1,26 @@
+<frameset>
+  <predicate lemma="screen">
+    <roleset id="screen.01" name="to test, examine, sort, testing, examining for">
+      <roles>
+        <role descr="tester, examiner" f="pag" n="0"/>
+        <role descr="entity screened" f="ppt" n="1"/>
+        <role descr="screened for" f="prp" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="screen.03" name="show a movie">
+      <roles>
+        <role descr="agent" f="pag" n="0"/>
+        <role descr="movie" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="screen_out">
+    <roleset id="screen_out.02" name="filter">
+      <roles>
+        <role descr="filterer" f="pag" n="0"/>
+        <role descr="entity screened" f="ppt" n="1"/>
+        <role descr="screened for" f="prp" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

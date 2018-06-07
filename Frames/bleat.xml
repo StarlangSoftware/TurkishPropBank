@@ -1,0 +1,21 @@
+<frameset>
+  <predicate lemma="bleat">
+    <roleset id="bleat.01" name="the cry of a sheep or goat, or an imitation of   that sound">
+      <roles>
+        <role descr="bleat-er" f="PAG" n="0"/>
+      </roles>
+    </roleset>
+    <roleset id="bleat.02" name="move while making a bleating sound">
+      <roles>
+        <role descr="Thing making bleating sound while in motion" f="PAG" n="0"/>
+        <role descr="Path of motion" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="bleat.03" name="whine">
+      <roles>
+        <role descr="sound emitter" f="PAG" n="0"/>
+        <role descr="complaint; sound emitted" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

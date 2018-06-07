@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="ward_off">
+    <roleset id="ward_off.01" name="avoid, keep away">
+      <roles>
+        <role descr="avoider, warder" f="pag" n="0"/>
+        <role descr="thing avoided, warded off" f="ppt" n="1"/>
+        <role descr="explicit instrument" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

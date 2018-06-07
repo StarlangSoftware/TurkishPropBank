@@ -1,0 +1,20 @@
+<frameset>
+  <predicate lemma="slag">
+    <roleset id="slag.01" name="talk badly about someone, denigrate">
+      <roles>
+        <role descr="speaker" f="pag" n="0"/>
+        <role descr="entity denigrated" f="ppt" n="1"/>
+        <role descr="grounds, reason for slagging" f="cau" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="slag_off">
+    <roleset id="slag_off.02" name="denigrate, insult">
+      <roles>
+        <role descr="speaker" f="pag" n="0"/>
+        <role descr="entity denigrated" f="ppt" n="1"/>
+        <role descr="grounds, reason for slagging" f="cau" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,23 @@
+<frameset>
+  <predicate lemma="knit">
+    <roleset id="knit.01" name="create by knotting yarn together">
+      <roles>
+        <role descr="builder" f="PAG" n="0"/>
+        <role descr="construction" f="PRD" n="1"/>
+        <role descr="material, start state" f="VSP" n="2"/>
+        <role descr="end state or attribute of arg1" f="PRD" n="4"/>
+      </roles>
+    </roleset>
+    <roleset id="knit.02" name="bones mending a break">
+      <roles>
+        <role descr="bones" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="knit.03" name="link or tie">
+      <roles>
+        <role descr="agent doing the tying" f="PAG" n="0"/>
+        <role descr="patient, thing(s) being tied" f="PRD" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

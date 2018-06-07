@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="pinion">
+    <roleset id="pinion.01" name="bind or restrain">
+      <roles>
+        <role descr="binder" f="PAG" n="0"/>
+        <role descr="entity being bound" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

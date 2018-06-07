@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="wield">
+    <roleset id="wield.01" name="hold, brandish">
+      <roles>
+        <role descr="holder" f="pag" n="0"/>
+        <role descr="thing held" f="ppt" n="1"/>
+        <role descr="benefactive" f="gol" n="2"/>
+        <role descr="secondary attribute of thing held" f="prd" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

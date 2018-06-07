@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="unthaw">
+    <roleset id="unthaw.01" name="defrost">
+      <roles>
+        <role descr="causer of defrosting" f="PAG" n="0"/>
+        <role descr="item losing its frost" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

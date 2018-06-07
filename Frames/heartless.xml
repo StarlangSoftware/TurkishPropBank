@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="heartless">
+    <roleset id="heartless.01" name="cruel, void of emotion">
+      <roles>
+        <role descr="entity not having a heart" f="pag" n="0"/>
+        <role descr="action, thing inherently void of emotion" f="ppt" n="1"/>
+        <role descr="target of cruel behavior" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

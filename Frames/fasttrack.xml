@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="fasttrack">
+    <roleset id="fasttrack.01" name="to put on a fast track">
+      <roles>
+        <role descr="Fasttracker, causer of fasttracking" f="pag" n="0"/>
+        <role descr="Thing fasttracked" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

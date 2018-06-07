@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="elicit">
+    <roleset id="elicit.01" name="call forth or draw out">
+      <roles>
+        <role descr="cause / elicitor" f="pag" n="0"/>
+        <role descr="thing elicited" f="ppt" n="1"/>
+        <role descr="source, what elicited from" f="dir" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

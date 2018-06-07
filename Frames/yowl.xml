@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="yowl">
+    <roleset id="yowl.01" name="a long wail, like that of a dog">
+      <roles>
+        <role descr="yowler" f="PAG" n="0"/>
+        <role descr="utterance" f="PPT" n="1"/>
+        <role descr="hearer" f="GOL" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

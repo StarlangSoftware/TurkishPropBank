@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="fanaticize">
+    <roleset id="fanaticize.01" name="(cause to) be fanatical">
+      <roles>
+        <role descr="causer of fanaticism" f="PAG" n="0"/>
+        <role descr="entity becoming fanatical" f="PPT" n="1"/>
+        <role descr="instrument, if separate from agent" f="MNR" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

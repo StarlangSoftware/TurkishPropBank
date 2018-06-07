@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="miscalculate">
+    <roleset id="miscalculate.01" name="to count or estimate incorrectly">
+      <roles>
+        <role descr="calculator, agent" f="pag" n="0"/>
+        <role descr="thing calculated" f="ppt" n="1"/>
+        <role descr="attribute" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="orchestrate">
+    <roleset id="orchestrate.01" name="coordinate, manage">
+      <roles>
+        <role descr="conductor, manager" f="PAG" n="0"/>
+        <role descr="things being coordinated or managed" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

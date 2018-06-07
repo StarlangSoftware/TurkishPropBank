@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="stratify">
+    <roleset id="stratify.01" name="divide (often social/cultural) or layer   (geology), social/cultural/geological etc division into layers">
+      <roles>
+        <role descr="agent/cause of layering" f="pag" n="0"/>
+        <role descr="entity divided" f="ppt" n="1"/>
+        <role descr="domain/aspect of arg1 being divided" f="vsp" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

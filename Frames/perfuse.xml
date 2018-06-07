@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="perfuse">
+    <roleset id="perfuse.01" name="permeate, suffuse, or forcing a liquid to flow over/through something">
+      <roles>
+        <role descr="Causal agent" f="pag" n="0"/>
+        <role descr="Entity suffused with fluid/substance (Patient)" f="ppt" n="1"/>
+        <role descr="Fluid/ substance introduced" f="vsp" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

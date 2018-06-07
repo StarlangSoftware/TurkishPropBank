@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="cc">
+    <roleset id="cc.01" name="carbon copy">
+      <roles>
+        <role descr="copier; email author" f="pag" n="0"/>
+        <role descr="thing copied or sent multiple places" f="ppt" n="1"/>
+        <role descr="beneficiary" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

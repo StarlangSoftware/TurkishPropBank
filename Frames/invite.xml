@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="invite">
+    <roleset id="invite.01" name="invite, summon, request to do or attend">
+      <roles>
+        <role descr="inviter" f="pag" n="0"/>
+        <role descr="invited" f="ppt" n="1"/>
+        <role descr="invited-to" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

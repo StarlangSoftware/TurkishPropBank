@@ -1,0 +1,20 @@
+<frameset>
+  <predicate lemma="crop">
+    <roleset id="crop.01" name="to cut">
+      <roles>
+        <role descr="cutter, agent" f="PAG" n="0"/>
+        <role descr="entity cropped" f="ppt" n="1"/>
+        <role descr="extend" f="ext" n="2"/>
+        <role descr="start point" f="dir" n="3"/>
+        <role descr="end point" f="gol" n="4"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="crop_up">
+    <roleset id="crop_up.02" name="to appear unexpectedly">
+      <roles>
+        <role descr="entity cropped" f="pag" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

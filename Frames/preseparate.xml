@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="preseparate">
+    <roleset id="preseparate.01" name="separate before another action">
+      <roles>
+        <role descr="entity causing separation" f="pag" n="0"/>
+        <role descr="thing being divided" f="ppt" n="1"/>
+        <role descr="source, separated from" f="dir" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

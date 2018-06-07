@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="guard">
+    <roleset id="guard.01" name="stand watch over">
+      <roles>
+        <role descr="guard" f="pag" n="0"/>
+        <role descr="guarded" f="gol" n="1"/>
+        <role descr="instrument" f="mnr" n="2"/>
+        <role descr="guard against what?" f="ppt" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

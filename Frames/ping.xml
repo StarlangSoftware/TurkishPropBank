@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="ping">
+    <roleset id="ping.01" name="make pinging noises">
+      <roles>
+        <role descr="pinger" f="PPT" n="0"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

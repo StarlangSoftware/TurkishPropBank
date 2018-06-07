@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="videotape">
+    <roleset id="videotape.01" name="to record on magnetic tape">
+      <roles>
+        <role descr="recorder, agent" f="PAG" n="0"/>
+        <role descr="entity taped" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

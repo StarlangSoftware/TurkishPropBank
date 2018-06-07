@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="asthmatic">
+    <roleset id="asthmatic.01" name="suffering from asthma">
+      <roles>
+        <role descr="asthma sufferer" f="pag" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

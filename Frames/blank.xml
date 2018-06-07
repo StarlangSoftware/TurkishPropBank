@@ -1,0 +1,25 @@
+<frameset>
+  <predicate lemma="blank">
+    <roleset id="blank.01" name="intentially ignore social interaction">
+      <roles>
+        <role descr="intentional ignorer" f="PAG" n="0"/>
+        <role descr="ignored" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="blank.02" name="empty, unfilled">
+      <roles>
+        <role descr="causer of blankness" f="pag" n="0"/>
+        <role descr="blank entity" f="loc" n="1"/>
+        <role descr="what isn't there" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="blanking">
+    <roleset id="blanking.03" name="making void or erasing">
+      <roles>
+        <role descr="Blanker" f="pag" n="0"/>
+        <role descr="Entity made blank, forgotten, ignored" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,18 @@
+<frameset>
+  <predicate lemma="plead">
+    <roleset id="plead.01" name="beg">
+      <roles>
+        <role descr="begger, appealer" f="pag" n="0"/>
+        <role descr="appealed to, begged from" f="gol" n="1"/>
+        <role descr="begged/appealed for" f="prp" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="plead.02" name="state guilt or innocence, give a plea in court, misspelling of plead?, give an answer, reply to charges, usually in court">
+      <roles>
+        <role descr="the accused" f="pag" n="0"/>
+        <role descr="guilty or innocent" f="ppt" n="1"/>
+        <role descr="alleged crime" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

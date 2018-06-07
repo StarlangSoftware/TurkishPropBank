@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="permanent">
+    <roleset id="permanent.01" name="lasting indefinately, fixed">
+      <roles>
+        <role descr="lasting thing" f="ppt" n="1"/>
+        <role descr="specific aspect of arg1 that lasts" f="vsp" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

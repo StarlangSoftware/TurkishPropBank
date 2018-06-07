@@ -1,0 +1,18 @@
+<frameset>
+  <predicate lemma="swallow">
+    <roleset id="swallow.01" name="cause to go down the throat">
+      <roles>
+        <role descr="swallower" f="pag" n="0"/>
+        <role descr="thing swallowed" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="swallow_up">
+    <roleset id="swallow_up.02" name="swallow completely">
+      <roles>
+        <role descr="swallower" f="pag" n="0"/>
+        <role descr="thing swallowed" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

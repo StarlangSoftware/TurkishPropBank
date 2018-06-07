@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="profane">
+    <roleset id="profane.01" name="desecrate, corrupt, make profane">
+      <roles>
+        <role descr="agent, desecrator" f="pag" n="0"/>
+        <role descr="desecrated entity" f="ppt" n="1"/>
+        <role descr="instrument (if in addition to arg0)" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

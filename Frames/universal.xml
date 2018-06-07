@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="universal">
+    <roleset id="universal.01" name="shared by all">
+      <roles>
+        <role descr="universal thing" f="ppt" n="1"/>
+        <role descr="shared by" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

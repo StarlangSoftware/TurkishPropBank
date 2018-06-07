@@ -1,0 +1,17 @@
+<frameset>
+  <predicate lemma="weary">
+    <roleset id="weary.01" name="(make) become tired">
+      <roles>
+        <role descr="causer of tiredness" f="pag" n="0"/>
+        <role descr="tired entity" f="ppt" n="1"/>
+        <role descr="Instrment or Manner if separate from arg 0" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="weary.02" name="prepositional usage">
+      <roles>
+        <role descr="tired entity" f="ppt" n="0"/>
+        <role descr="cause of weariness" f="pag" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

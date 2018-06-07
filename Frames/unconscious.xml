@@ -1,0 +1,15 @@
+<frameset>
+  <predicate lemma="unconscious">
+    <roleset id="unconscious.01" name="not aware of">
+      <roles>
+        <role descr="entity who isn't aware" f="pag" n="0"/>
+        <role descr="unaware of what" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="unconscious.02" name="knocked out; unawake from a medical standpoint">
+      <roles>
+        <role descr="unawake entity" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

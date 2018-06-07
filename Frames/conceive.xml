@@ -1,0 +1,17 @@
+<frameset>
+  <predicate lemma="conceive">
+    <roleset id="conceive.01" name="think of">
+      <roles>
+        <role descr="conceiver, thinker" f="pag" n="0"/>
+        <role descr="thought" f="ppt" n="1"/>
+        <role descr="attribute" f="prd" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="conceive.02" name="make babies">
+      <roles>
+        <role descr="parent(s)" f="pag" n="0"/>
+        <role descr="baby" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

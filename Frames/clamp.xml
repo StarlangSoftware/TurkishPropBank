@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="clamp">
+    <roleset id="clamp.01" name="attach firmly">
+      <roles>
+        <role descr="attacher, agent causing attachment" f="PAG" n="0"/>
+        <role descr="first thing being clamped" f="ppt" n="1"/>
+        <role descr="second thing, clamped to what" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

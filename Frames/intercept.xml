@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="intercept">
+    <roleset id="intercept.01" name="to stop, seize, or wiretap, stealing in the middle of transmission">
+      <roles>
+        <role descr="interceptor" f="pag" n="0"/>
+        <role descr="entity intercepted" f="ppt" n="1"/>
+        <role descr="intended goal/recipient/proposition" f="vsp" n="2"/>
+        <role descr="source intercepted from" f="dir" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

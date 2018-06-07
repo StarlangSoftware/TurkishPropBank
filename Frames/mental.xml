@@ -1,0 +1,14 @@
+<frameset>
+  <predicate lemma="mental">
+    <roleset id="mental.01" name="insane">
+      <roles>
+        <role descr="person or act that is crazy (often involves concatenation)" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="mental.02" name="in the mind">
+      <roles>
+        <role descr="thing in the mind" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

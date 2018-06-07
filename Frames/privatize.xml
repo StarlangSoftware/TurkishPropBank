@@ -1,0 +1,23 @@
+<frameset>
+  <predicate lemma="privatize">
+    <roleset id="privatize.01" name="sell off government property, selling off gov't property to the private sector">
+      <roles>
+        <role descr="government, usually" f="PAG" n="0"/>
+        <role descr="property, usually industry" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="private">
+    <roleset id="private.02" name="personal, intimate, exclusive">
+      <roles>
+        <role descr="personal thing" f="pag" n="1"/>
+        <role descr="person arg1 is particular to" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="private.03" name="not publicly traded or backed by gov't">
+      <roles>
+        <role descr="private enterprise" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,19 @@
+<frameset>
+  <predicate lemma="malign">
+    <roleset id="malign.01" name="talk down, slander">
+      <roles>
+        <role descr="maligner" f="PAG" n="0"/>
+        <role descr="maligned" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="malignant">
+    <roleset id="malignant.02" name="harmful, perhaps as cancer">
+      <roles>
+        <role descr="tumor/tissue" f="pag" n="1"/>
+        <role descr="cancer or other disease" f="vsp" n="2"/>
+        <role descr="medical patient" f="gol" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

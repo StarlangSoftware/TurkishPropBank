@@ -1,0 +1,17 @@
+<frameset>
+  <predicate lemma="differential">
+    <roleset id="differential.01" name="calculate percentages of blood cells">
+      <roles>
+        <role descr="calculator" f="pag" n="0"/>
+        <role descr="blood; cells; thing being measured" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="differential.02" name="constituting or contributing to making a distinction between entities">
+      <roles>
+        <role descr="cause of distinction" f="pag" n="0"/>
+        <role descr="first thing differentiated" f="ppt" n="1"/>
+        <role descr="differentiated from (if seperate from arg 1)" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

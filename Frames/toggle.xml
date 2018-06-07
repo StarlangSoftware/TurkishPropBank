@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="toggle">
+    <roleset id="toggle.01" name="release by a toggle switch">
+      <roles>
+        <role descr="toggler" f="PAG" n="0"/>
+        <role descr="thing released" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

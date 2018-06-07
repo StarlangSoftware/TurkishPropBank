@@ -1,0 +1,18 @@
+<frameset>
+  <predicate lemma="peel">
+    <roleset id="peel.01" name="to strip, pull off">
+      <roles>
+        <role descr="remover, agent" f="PAG" n="0"/>
+        <role descr="entity peeled" f="DIR" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="peel_off">
+    <roleset id="peel_off.02" name="to cut away,  pare">
+      <roles>
+        <role descr="remover, cutter, agent" f="PAG" n="0"/>
+        <role descr="entity peeled off" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

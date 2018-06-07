@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="rain">
+    <roleset id="rain.01" name="rain">
+      <roles>
+        <role descr="metaphorical agent" f="pag" n="0"/>
+        <role descr="metaphorical rain" f="ppt" n="1"/>
+        <role descr="rained upon" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

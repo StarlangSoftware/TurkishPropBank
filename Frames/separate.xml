@@ -1,0 +1,18 @@
+<frameset>
+  <predicate lemma="separate">
+    <roleset id="separate.01" name="(cause to) become separate, separate">
+      <roles>
+        <role descr="entity causing separation" f="pag" n="0"/>
+        <role descr="thing being divided" f="ppt" n="1"/>
+        <role descr="source, separated from" f="dir" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="separate.02" name="not together">
+      <roles>
+        <role descr="entity causing separation" f="pag" n="0"/>
+        <role descr="thing being divided" f="ppt" n="1"/>
+        <role descr="source, separated from" f="dir" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

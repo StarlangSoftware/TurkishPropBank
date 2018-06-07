@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="longwinded">
+    <roleset id="longwinded.01" name="using more words than necessary to convey a lengthy idea">
+      <roles>
+        <role descr="speaker" f="pag" n="0"/>
+        <role descr="too long speech" f="ppt" n="1"/>
+        <role descr="poor unfortunate listener" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

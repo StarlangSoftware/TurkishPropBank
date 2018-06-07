@@ -1,0 +1,17 @@
+<frameset>
+  <predicate lemma="spare">
+    <roleset id="spare.01" name="to save or relieve from">
+      <roles>
+        <role descr="savior" f="pag" n="0"/>
+        <role descr="entity spared" f="ppt" n="1"/>
+        <role descr="entity spared from" f="vsp" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="spare.02" name="to give up, part with">
+      <roles>
+        <role descr="agent able to do without" f="pag" n="0"/>
+        <role descr="entity spared" f="vsp" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

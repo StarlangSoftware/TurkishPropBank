@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="decide">
+    <roleset id="decide.01" name="decide">
+      <roles>
+        <role descr="decider" f="pag" n="0"/>
+        <role descr="the decision itself" f="ppt" n="1"/>
+        <role descr="beneficiary" f="gol" n="2"/>
+        <role descr="subject-matter of decision" f="vsp" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

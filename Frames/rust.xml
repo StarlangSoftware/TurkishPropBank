@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="rust">
+    <roleset id="rust.01" name="become rusty">
+      <roles>
+        <role descr="agent/causer of rust" f="PAG" n="0"/>
+        <role descr="rusty thing" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

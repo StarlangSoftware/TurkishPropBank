@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="sculpt">
+    <roleset id="sculpt.01" name="build by molding">
+      <roles>
+        <role descr="sculptor" f="PAG" n="0"/>
+        <role descr="sculpture" f="PRD" n="1"/>
+        <role descr="material, start state" f="VSP" n="2"/>
+        <role descr="end state" f="PRD" n="4"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="trounce">
+    <roleset id="trounce.01" name="win over some competitor">
+      <roles>
+        <role descr="winner" f="pag" n="0"/>
+        <role descr="loser" f="ppt" n="1"/>
+        <role descr="competition" f="vsp" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

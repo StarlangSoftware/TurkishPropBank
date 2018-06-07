@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="dangle">
+    <roleset id="dangle.01" name="to hang loosely">
+      <roles>
+        <role descr="causer of dangling, agent" f="PAG" n="0"/>
+        <role descr="entity dangling" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

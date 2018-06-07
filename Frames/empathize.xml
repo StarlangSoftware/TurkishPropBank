@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="empathize">
+    <roleset id="empathize.01" name="feel for">
+      <roles>
+        <role descr="empathizer" f="PPT" n="0"/>
+        <role descr="empathized with" f="PAG" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

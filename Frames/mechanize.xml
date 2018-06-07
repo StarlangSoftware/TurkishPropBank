@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="mechanize">
+    <roleset id="mechanize.01" name="make or equip with something mechanical">
+      <roles>
+        <role descr="agent" f="PAG" n="0"/>
+        <role descr="entity mechanized" f="PPT" n="1"/>
+        <role descr="instrument" f="MNR" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

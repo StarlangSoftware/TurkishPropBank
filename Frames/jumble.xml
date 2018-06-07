@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="jumble">
+    <roleset id="jumble.01" name="mixed together">
+      <roles>
+        <role descr="mixer" f="PAG" n="0"/>
+        <role descr="things mixed together" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

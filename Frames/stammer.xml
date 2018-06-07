@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="stammer">
+    <roleset id="stammer.01" name="not speak clearly">
+      <roles>
+        <role descr="speaker" f="pag" n="0"/>
+        <role descr="utterance" f="ppt" n="1"/>
+        <role descr="listener" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

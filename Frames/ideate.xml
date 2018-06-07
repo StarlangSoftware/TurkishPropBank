@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="ideate">
+    <roleset id="ideate.01" name="conceptualization of a mental image">
+      <roles>
+        <role descr="Conceptualizer, agent" f="pag" n="0"/>
+        <role descr="Image conceptualized" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

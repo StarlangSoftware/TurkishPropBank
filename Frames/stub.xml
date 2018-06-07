@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="stub">
+    <roleset id="stub.01" name="whack the toe into   something hard">
+      <roles>
+        <role descr="whacker" f="ppt" n="0"/>
+        <role descr="toe" f="ppt" n="1"/>
+        <role descr="obstacle" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

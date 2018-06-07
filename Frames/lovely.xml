@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="lovely">
+    <roleset id="lovely.01" name="sensorilly pleasing">
+      <roles>
+        <role descr="thing that is lovely (may require concatenation)" f="pag" n="1"/>
+        <role descr="perceiver" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="outflow">
+    <roleset id="outflow.01" name="move like water in an outward direction">
+      <roles>
+        <role descr="substance" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="dorsiflex">
+    <roleset id="dorsiflex.01" name="flexion in the dorsal direction">
+      <roles>
+        <role descr="Agent, flexor" f="pag" n="0"/>
+        <role descr="Flexing part, muscle" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

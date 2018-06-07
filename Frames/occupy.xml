@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="occupy">
+    <roleset id="occupy.01" name="be in a certain place">
+      <roles>
+        <role descr="occupier" f="pag" n="0"/>
+        <role descr="occupied" f="ppt" n="1"/>
+        <role descr="occupying activity (doing what)" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

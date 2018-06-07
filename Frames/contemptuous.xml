@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="contemptuous">
+    <roleset id="contemptuous.01" name="scornful">
+      <roles>
+        <role descr="entity feeling contempt" f="pag" n="0"/>
+        <role descr="entity contempt is directed toward" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="commodify">
+    <roleset id="commodify.01" name="to make into  a commodity, commercialize">
+      <roles>
+        <role descr="causer, agent" f="pag" n="0"/>
+        <role descr="thing commodified" f="ppt" n="1"/>
+        <role descr="instrument, if separate from arg 0" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

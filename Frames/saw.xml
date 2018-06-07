@@ -1,0 +1,20 @@
+<frameset>
+  <predicate lemma="saw_up">
+    <roleset id="saw_up.03" name="render into pieces">
+      <roles>
+        <role descr="sawer" f="pag" n="0"/>
+        <role descr="sawed" f="ppt" n="1"/>
+        <role descr="instrument" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="saw">
+    <roleset id="saw.04" name="cut with a saw">
+      <roles>
+        <role descr="cutter" f="pag" n="0"/>
+        <role descr="thing cut" f="ppt" n="1"/>
+        <role descr="Cut from what? source" f="dir" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

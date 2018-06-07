@@ -1,0 +1,20 @@
+<frameset>
+  <predicate lemma="recycle">
+    <roleset id="recycle.01" name="use again">
+      <roles>
+        <role descr="recycler" f="pag" n="0"/>
+        <role descr="garbage" f="ppt" n="1"/>
+        <role descr="shiny new product" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="recyclable">
+    <roleset id="recyclable.02" name="able to be recycled">
+      <roles>
+        <role descr="recycler" f="pag" n="0"/>
+        <role descr="garbage" f="ppt" n="1"/>
+        <role descr="shiny new product" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

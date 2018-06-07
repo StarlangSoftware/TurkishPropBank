@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="dog">
+    <roleset id="dog.01" name="follow and harass">
+      <roles>
+        <role descr="thing following and harassing" f="PAG" n="0"/>
+        <role descr="thing followed and harassed" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="doublecross">
+    <roleset id="doublecross.01" name="deceive, betray">
+      <roles>
+        <role descr="deceiver" f="pag" n="0"/>
+        <role descr="deceived" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

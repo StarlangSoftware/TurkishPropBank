@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="homework">
+    <roleset id="homework.01" name="do homework assignments">
+      <roles>
+        <role descr="student" f="pag" n="0"/>
+        <role descr="course or subject, homework for what?" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

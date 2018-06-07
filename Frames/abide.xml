@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="abide">
+    <roleset id="abide.01" name="conform to">
+      <roles>
+        <role descr="conformer" f="ppt" n="0"/>
+        <role descr="thing conformed to" f="gol" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

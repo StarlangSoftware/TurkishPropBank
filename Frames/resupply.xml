@@ -1,0 +1,18 @@
+<frameset>
+  <predicate lemma="resupply">
+    <roleset id="resupply.01" name="provide again">
+      <roles>
+        <role descr="provider" f="pag" n="0"/>
+        <role descr="thing provided" f="ppt" n="1"/>
+        <role descr="entity provided for (benefactive)" f="GOL" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="resupply.02" name="replenish with supplies">
+      <roles>
+        <role descr="agent" f="PAG" n="0"/>
+        <role descr="container" f="GOL" n="1"/>
+        <role descr="substance" f="PPT" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

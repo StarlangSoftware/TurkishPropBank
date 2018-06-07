@@ -1,0 +1,18 @@
+<frameset>
+  <predicate lemma="shipwreck">
+    <roleset id="shipwreck.01" name="destroy a ship">
+      <roles>
+        <role descr="Causer of wreck (rare)" f="pag" n="0"/>
+        <role descr="experiencer/ person shipwrecked" f="ppt" n="1"/>
+        <role descr="wreck site (location)" f="loc" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="shipwreck.02" name="fail or be ruined">
+      <roles>
+        <role descr="causer of destruction" f="pag" n="0"/>
+        <role descr="failed or ruined thing" f="ppt" n="1"/>
+        <role descr="instrument" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="sideline">
+    <roleset id="sideline.01" name="to remove or keep from active participation">
+      <roles>
+        <role descr="person preventing, removing arg1 from participation" f="pag" n="0"/>
+        <role descr="entity sidelined" f="ppt" n="1"/>
+        <role descr="sidelined from what?  mention of activity arg1 can't participate in" f="vsp" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

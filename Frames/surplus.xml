@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="surplus">
+    <roleset id="surplus.01" name="extra">
+      <roles>
+        <role descr="extra thing" f="pag" n="1"/>
+        <role descr="extra to what" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

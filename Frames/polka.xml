@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="polka">
+    <roleset id="polka.01" name="polka">
+      <roles>
+        <role descr="agent, causer of polka-ing, (transitive subject only)" f="PAG" n="0"/>
+        <role descr="polkaer(s), theme (intransitive subject, transitive object)" f="PPT" n="1"/>
+        <role descr="location of polka-ing" f="LOC" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

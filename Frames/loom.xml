@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="loom">
+    <roleset id="loom.01" name="appear in a threatening manner">
+      <roles>
+        <role descr="thing looming, esp 'disaster'" f="pag" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

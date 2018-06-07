@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="mar">
+    <roleset id="mar.01" name="damage slightly">
+      <roles>
+        <role descr="causer of damage, agent" f="pag" n="0"/>
+        <role descr="patient" f="ppt" n="1"/>
+        <role descr="instrument" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

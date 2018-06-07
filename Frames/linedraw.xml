@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="linedraw">
+    <roleset id="linedraw.01" name="draw the line">
+      <roles>
+        <role descr="entity drawing the line" f="PAG" n="0"/>
+        <role descr="draw the line where" f="loc" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

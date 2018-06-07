@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="abase">
+    <roleset id="abase.01" name="to lower in estimation, humble">
+      <roles>
+        <role descr="causer of humbling" f="pag" n="0"/>
+        <role descr="entity lowered, humbled" f="ppt" n="1"/>
+        <role descr="instrument, if separate from arg 0" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

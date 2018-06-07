@@ -1,0 +1,36 @@
+<frameset>
+  <predicate lemma="load">
+    <roleset id="load.01" name="cause to be burdened">
+      <roles>
+        <role descr="loader, agent" f="pag" n="0"/>
+        <role descr="beast of burden" f="gol" n="1"/>
+        <role descr="cargo" f="ppt" n="2"/>
+        <role descr="instrument" f="mnr" n="3"/>
+      </roles>
+    
+    </roleset>
+    <roleset id="load.03" name="fix, set up to cheat">
+      <roles>
+        <role descr="cheater" f="pag" n="0"/>
+        <role descr="thing loaded (dice, the deck, etc)" f="gol" n="1"/>
+        <role descr="with what" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="load.04" name="transfer data from one place to another">
+      <roles>
+        <role descr="loader, agent" f="pag" n="0"/>
+        <role descr="flle, program, site loaded" f="ppt" n="1"/>
+        <role descr="loaded where? (ie computer)" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="load_up">
+    <roleset id="load_up.02" name="phrasal cause to be burdened">
+      <roles>
+        <role descr="loader, agent" f="pag" n="0"/>
+        <role descr="beast of burden" f="gol" n="1"/>
+        <role descr="cargo" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

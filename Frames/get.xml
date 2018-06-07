@@ -1,0 +1,221 @@
+<frameset>
+  <predicate lemma="get">
+    <roleset id="get.01" name="transfer of goods, acquire">
+      <roles>
+        <role descr="receiver" f="pag" n="0"/>
+        <role descr="thing gotten" f="ppt" n="1"/>
+        <role descr="giver" f="dir" n="2"/>
+        <role descr="price paid, in-exchange-for" f="vsp" n="3"/>
+        <role descr="benefactive" f="gol" n="4"/>
+      </roles>
+    </roleset>
+    <roleset id="get.02" name="have-got: already possess">
+      <roles>
+        <role descr="haver, possessor" f="pag" n="0"/>
+        <role descr="thing had, possessed" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="get.03" name="become">
+      <roles>
+        
+        <role descr="thing" f="ppt" n="1"/>
+        <role descr="attribute of arg1 (not a VP node)" f="gol" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="get.04" name="cause to do or be something">
+      <roles>
+        <role descr="instigator" f="pag" n="0"/>
+        <role descr="a clause -- action done or descriptive small clause" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="get.05" name="move">
+      <roles>
+        <role descr="causer of motion" f="pag" n="0"/>
+        <role descr="thing in motion" f="ppt" n="1"/>
+        <role descr="destination" f="gol" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="get.06" name="must">
+      <roles>
+        <role descr="Subject" f="pag" n="0"/>
+        <role descr="Complement" f="prd" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="get.22" name="have the pleasure of doing something, &quot;i gettuh...&quot;">
+      <roles>
+        <role descr="Benefactive, partaker in desired action" f="pag" n="0"/>
+        <role descr="Action done, S-node or clause" f="prd" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="get.24" name="auxiliary usage (rel followed by a vp)">
+      <roles>
+      </roles>
+    </roleset>
+    <roleset id="get.28" name="get to: aggravate, annoy">
+      <roles>
+        <role descr="aggravator" f="pag" n="0"/>
+        <role descr="aggravated" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="get.30" name="understand, grasp conceptually">
+      <roles>
+        <role descr="understander" f="pag" n="0"/>
+        <role descr="thing understood" f="ppt" n="1"/>
+        <role descr="source of understood thing, perhaps another communicator" f="dir" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="get_out">
+    <roleset id="get_out.07" name="produce">
+      <roles>
+        <role descr="creator" f="pag" n="0"/>
+        <role descr="creation" f="ppt" n="1"/>
+        <role descr="created-from, thing changed" f="mnr" n="2"/>
+        <role descr="benefactive" f="gol" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="get_away">
+    <roleset id="get_away.08" name="manage to">
+      <roles>
+        <role descr="entity attempting some deed" f="pag" n="0"/>
+        <role descr="the deed" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="get_back">
+    <roleset id="get_back.09" name="recover">
+      <roles>
+        <role descr="recoverer" f="pag" n="0"/>
+        <role descr="thing regained" f="ppt" n="1"/>
+        <role descr="who had it before" f="dir" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="get_back.10" name="return">
+      <roles>
+        <role descr="thing" f="pag" n="1"/>
+        <role descr="original state" f="gol" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="get_back.19" name="get even: revenge">
+      <roles>
+        <role descr="revenger" f="pag" n="0"/>
+        <role descr="committer of prior offense" f="ppt" n="1"/>
+        <role descr="prior offense" f="cau" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="get_back.25" name="respond to an inquiry/correspondence">
+      <roles>
+        <role descr="entity responding to correspondence" f="pag" n="0"/>
+        <role descr="entity responded to, original caller" f="gol" n="1"/>
+        <role descr="subject matter" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="get_off">
+    <roleset id="get_off.11" name="begin">
+      <roles>
+        <role descr="thing beginning" f="pag" n="1"/>
+        <role descr="manner?" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="get_off.23" name="get away with something">
+      <roles>
+        <role descr="Outside causal agent, usually lawyer" f="pag" n="0"/>
+        <role descr="Person getting away with something" f="ppt" n="1"/>
+        <role descr="Deed gotten away with" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="get_off.29" name="reach a state of euphoria (via drugs, sex, or random happy things)">
+      <roles>
+        <role descr="outside agent" f="pag" n="0"/>
+        <role descr="entity experiencing euphoria" f="ppt" n="1"/>
+        <role descr="pleasure-giving stimulus" f="vsp" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="get_through">
+    <roleset id="get_through.12" name="reach, connect with">
+      <roles>
+        <role descr="entity trying to get through" f="pag" n="0"/>
+        <role descr="entity trying to be contacted" f="gol" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="get_through.13" name="persevere">
+      <roles>
+        <role descr="perseverer" f="pag" n="0"/>
+        <role descr="troubles" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="get_along">
+    <roleset id="get_along.18" name="have good relations">
+      <roles>
+        <role descr="entity 1" f="pag" n="1"/>
+        <role descr="with entity 2" f="com" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="get_by">
+    <roleset id="get_by.17" name="cope, manage">
+      <roles>
+        <role descr="agent" f="pag" n="0"/>
+        <role descr="what getting by with or without" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="get_down">
+    <roleset id="get_down.15" name="begin">
+      <roles>
+        <role descr="beginner" f="ppt" n="1"/>
+        <role descr="thing begun, task" f="gol" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="get_down.27" name="boogie, get in the groove with, possibly dance">
+      <roles>
+        <role descr="entity jamming out, getting down, boogying" f="pag" n="0"/>
+        <role descr="to/with what-- inspiration, mood setter, music, stimulus" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="get_even">
+    <roleset id="get_even.16" name="get even: revenge">
+      <roles>
+        <role descr="revenger" f="pag" n="0"/>
+        <role descr="committer of prior offense" f="ppt" n="1"/>
+        <role descr="prior offense" f="cau" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="get_together">
+    <roleset id="get_together.14" name="meet">
+      <roles>
+        <role descr="one party" f="pag" n="0"/>
+        <role descr="the other" f="com" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="get_on">
+    <roleset id="get_on.20" name="have good relations">
+      <roles>
+        <role descr="entity 1" f="pag" n="1"/>
+        <role descr="with entity 2 (if specified)" f="com" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="get_on.21" name="continue on with something">
+      <roles>
+        <role descr="causer of continuation" f="pag" n="0"/>
+        <role descr="thing continuing" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="get_up">
+    <roleset id="get_up.26" name="arise from slumber">
+      <roles>
+        <role descr="agent, alarm clock" f="pag" n="0"/>
+        <role descr="entity waking up" f="ppt" n="1"/>
+        <role descr="time of waking/arising" f="tmp" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

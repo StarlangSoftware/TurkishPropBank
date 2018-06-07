@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="comment">
+    <roleset id="comment.01" name="basic transitive, input">
+      <roles>
+        <role descr="commenter" f="pag" n="0"/>
+        <role descr="utterance" f="ppt" n="1"/>
+        <role descr="hearer" f="gol" n="2"/>
+        <role descr="attributive (comment on/about what)" f="vsp" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

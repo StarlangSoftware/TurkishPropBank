@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="monomorphic">
+    <roleset id="monomorphic.01" name="having only one form">
+      <roles>
+        <role descr="monomorphic entity" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

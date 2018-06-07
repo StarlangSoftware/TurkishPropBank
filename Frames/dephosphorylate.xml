@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="dephosphorylate">
+    <roleset id="dephosphorylate.01" name="remove a phosphate group from an organic compound by hydrolysis">
+      <roles>
+        <role descr="intentional agent of dephosphorylation (e.g. scientist)" f="pag" n="0"></role>
+        <role descr="thing dephosphorylated" f="ppt" n="1"></role>
+        <role descr="instrument" f="mnr" n="2"></role>
+        <role descr="product of dephosphorylation" f="prd" n="3"></role>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

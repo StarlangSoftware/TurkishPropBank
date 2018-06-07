@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="straightforward">
+    <roleset id="straightforward.01" name="candid, frank, unambiguous">
+      <roles>
+        <role descr="Frank" f="pag" n="0"/>
+        <role descr="subject matter, unambiguous thing" f="ppt" n="1"/>
+        <role descr="listener" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

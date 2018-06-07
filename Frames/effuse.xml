@@ -1,0 +1,17 @@
+<frameset>
+  <predicate lemma="effuse">
+    <roleset id="effuse.01" name="give out, radiate">
+      <roles>
+        <role descr="cause or source of what is given off" f="pag" n="0"/>
+        <role descr="substance given off, radiated" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="effuse.02" name="speak enthusiastically">
+      <roles>
+        <role descr="speaker" f="pag" n="0"/>
+        <role descr="utterance" f="ppt" n="1"/>
+        <role descr="listener" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

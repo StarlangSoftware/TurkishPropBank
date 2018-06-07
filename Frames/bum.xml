@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="bum">
+    <roleset id="bum.01" name="mooch, take advantage of, receive for free">
+      <roles>
+        <role descr="recipient, bum" f="pag" n="0"/>
+        <role descr="thing received" f="ppt" n="1"/>
+        <role descr="source, giver" f="dir" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

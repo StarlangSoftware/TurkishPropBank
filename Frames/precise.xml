@@ -1,0 +1,18 @@
+<frameset>
+  <predicate lemma="precise">
+    <roleset id="precise.01" name="exact and reproducible">
+      <roles>
+        <role descr="precise entity" f="PPT" n="0"/>
+        <role descr="secondary action" f="prd" n="1"/>
+      </roles>
+      <example name="both args" src="internet" type="">
+        <inflection aspect="ns" form="ns" person="ns" tense="ns"
+        voice="ns"/>
+        <text>The precision of the ultrasonic sounding in ice depth measurement.</text>
+        <rel f="">precision</rel>
+        <arg f="" n="0">of the ultrasonic sounding</arg>
+        <arg f="" n="1">in ice depth measurement</arg>
+      </example>
+    </roleset>
+  </predicate>
+</frameset>

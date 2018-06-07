@@ -1,0 +1,16 @@
+<frameset>
+  <predicate lemma="overnight">
+    <roleset id="overnight.01" name="spend a night">
+      <roles>
+        <role descr="alive entity" f="PPT" n="0"/>
+      </roles>
+    </roleset>
+    <roleset id="overnight.02" name="send by overnight mail">
+      <roles>
+        <role descr="mailer" f="pag" n="0"/>
+        <role descr="letter" f="ppt" n="1"/>
+        <role descr="mailed-to" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="borrow">
+    <roleset id="borrow.01" name="get temporarily">
+      <roles>
+        <role descr="borrower" f="pag" n="0"/>
+        <role descr="thing borrowed" f="ppt" n="1"/>
+        <role descr="loaner" f="dir" n="2"/>
+        <role descr="collateral" f="vsp" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

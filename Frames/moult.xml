@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="moult">
+    <roleset id="moult.01" name="molt">
+      <roles>
+        <role descr="cause, agent" f="pag" n="0"/>
+        <role descr="patient, thing undergoing moulting" f="ppt" n="1"/>
+        <role descr="end state" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

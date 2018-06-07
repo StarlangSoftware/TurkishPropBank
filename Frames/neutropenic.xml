@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="neutropenic">
+    <roleset id="neutropenic.01" name="suffering a low neutrophil count (blood level)">
+      <roles>
+        <role descr="entity suffering neutropenia" f="pag" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

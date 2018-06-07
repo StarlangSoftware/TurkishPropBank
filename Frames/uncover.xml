@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="uncover">
+    <roleset id="uncover.01" name="discover">
+      <roles>
+        <role descr="discoverer" f="pag" n="0"/>
+        <role descr="thing discovered" f="ppt" n="1"/>
+        <role descr="secondary attribute" f="prd" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

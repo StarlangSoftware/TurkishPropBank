@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="scandalize">
+    <roleset id="scandalize.01" name="shock, cause a scandal">
+      <roles>
+        <role descr="scandalizer" f="pag" n="0"/>
+        <role descr="person scandalized" f="ppt" n="1"/>
+        <role descr="instrument" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

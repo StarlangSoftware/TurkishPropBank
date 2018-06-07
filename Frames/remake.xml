@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="remake">
+    <roleset id="remake.01" name="make again">
+      <roles>
+        <role descr="creator" f="PAG" n="0"/>
+        <role descr="creation" f="PRD" n="1"/>
+        <role descr="created-from, thing changed" f="VSP" n="2"/>
+        <role descr="benefactive" f="GOL" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

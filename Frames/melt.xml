@@ -1,0 +1,18 @@
+<frameset>
+  <predicate lemma="melt">
+    <roleset id="melt.01" name="to change from a solid to a liquid state, melted, in a (hot) liquid state">
+      <roles>
+        <role descr="agent" f="PAG" n="0"/>
+        <role descr="thing melted" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="melt_down">
+    <roleset id="melt_down.02" name="experience (usually emotional) system failure">
+      <roles>
+        <role descr="entity having a fit" f="pag" n="0"/>
+        <role descr="over what" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

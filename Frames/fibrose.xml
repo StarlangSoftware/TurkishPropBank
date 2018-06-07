@@ -1,0 +1,16 @@
+<frameset>
+  <predicate lemma="fibrose">
+    <roleset id="fibrose.01" name="to form/consist of fibrous tissue">
+      <roles>
+        <role descr="Cause of fibrosing" f="pag" n="0"/>
+        <role descr="Tissue fibrosing" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="fibrose.02" name="consisting of fibers">
+      <roles>
+        <role descr="Cause of fibrosing" f="pag" n="0"/>
+        <role descr="Tissue fibrosing" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="premonition">
+    <roleset id="premonition.01" name="experience a forewarning via sixth sense">
+      <roles>
+        <role descr="entity having a premonition" f="pag" n="0"/>
+        <role descr="the forewarning" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

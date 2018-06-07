@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="meditate">
+    <roleset id="meditate.01" name="think or contemplate">
+      <roles>
+        <role descr="thinker" f="PPT" n="0"/>
+        <role descr="thought about" f="PAG" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,26 @@
+<frameset>
+  <predicate lemma="dash">
+    <roleset id="dash.01" name="hit">
+      <roles>
+        <role descr="hitter" f="pag" n="0"/>
+        <role descr="thing hit, dashed" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="dash.02" name="run for a short distance">
+      <roles>
+        <role descr="runner" f="ppt" n="0"/>
+        <role descr="path" f="loc" n="1"/>
+        <role descr="destination" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="dash_off">
+    <roleset id="dash_off.03" name="to write, make, or accomplish hastily">
+      <roles>
+        <role descr="hurried producer" f="pag" n="0"/>
+        <role descr="thing produced" f="ppt" n="1"/>
+        <role descr="benefactive" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

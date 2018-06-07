@@ -1,0 +1,35 @@
+<frameset>
+  <predicate lemma="slip">
+    <roleset id="slip.01" name="fall">
+      <roles>
+        <role descr="Logical subject, patient, thing falling" f="ppt" n="1"/>
+        <role descr="EXT, amount fallen" f="ext" n="2"/>
+        <role descr="start point" f="dir" n="3"/>
+        <role descr="end point, end state of arg1" f="gol" n="4"/>
+        <role descr="specific aspect of arg1 slipping" f="vsp" n="5"/>
+      </roles>
+    </roleset>
+    <roleset id="slip.02" name="change location">
+      <roles>
+        <role descr="mover" f="pag" n="0"/>
+        <role descr="moved" f="ppt" n="1"/>
+        <role descr="destination" f="gol" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="slip.03" name="give">
+      <roles>
+        <role descr="sender" f="pag" n="0"/>
+        <role descr="sent" f="ppt" n="1"/>
+        <role descr="sent-to" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="slip_in">
+    <roleset id="slip_in.04" name="slip in: include stealthily">
+      <roles>
+        <role descr="stealthy includer" f="pag" n="0"/>
+        <role descr="stealthy inclusion" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

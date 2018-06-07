@@ -1,0 +1,17 @@
+<frameset>
+  <predicate lemma="intermingle">
+    <roleset id="intermingle.01" name="socialize, be in close proximity">
+      <roles>
+        <role descr="first or all thing(s) mingling" f="ppt" n="0"/>
+        <role descr="additional things, if syntactically separate" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="intermingle.02" name="mix, put in close proximity">
+      <roles>
+        <role descr="intentional agent" f="pag" n="0"/>
+        <role descr="first (or all) ingredient(s)" f="ppt" n="1"/>
+        <role descr="additional ingredients, when syntactically separate" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

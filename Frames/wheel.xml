@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="wheel">
+    <roleset id="wheel.01" name="move something on wheels">
+      <roles>
+        <role descr="causer of motion, agent" f="PAG" n="0"/>
+        <role descr="thing on wheels, vehicle" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

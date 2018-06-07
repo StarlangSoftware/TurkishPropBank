@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="dysregulate">
+    <roleset id="dysregulate.01" name="impair a physiological regulatory mechanism">
+      <roles>
+        <role descr="agent of dysregulation (e.g. scientist)" f="pag" n="0"></role>
+        <role descr="thing dysregulated (e.g. signaling)" f="ppt" n="1"></role>
+        <role descr="instrument (e.g. protein, drug)" f="mnr" n="2"></role>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

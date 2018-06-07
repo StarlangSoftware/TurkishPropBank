@@ -1,0 +1,16 @@
+<frameset>
+  <predicate lemma="amount">
+    <roleset id="amount.01" name="sums to">
+      <roles>
+        <role descr="thing(s) being counted" f="ppt" n="1"/>
+        <role descr="count, total" f="prd" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="amount.02" name="is equivalent to">
+      <roles>
+        <role descr="focus" f="ppt" n="1"/>
+        <role descr="ground, introduced by 'to'" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

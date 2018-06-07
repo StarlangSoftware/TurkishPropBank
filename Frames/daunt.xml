@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="daunt">
+    <roleset id="daunt.01" name="cause courage to flag">
+      <roles>
+        <role descr="Stimulus" f="PAG" n="0"/>
+        <role descr="momentarily courageless entity" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

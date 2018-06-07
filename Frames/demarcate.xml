@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="demarcate">
+    <roleset id="demarcate.01" name="declare boundaries">
+      <roles>
+        <role descr="declarer" f="PAG" n="0"/>
+        <role descr="demarcated entity" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

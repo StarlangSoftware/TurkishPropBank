@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="founder">
+    <roleset id="founder.01" name="sinking awkwardly">
+      <roles>
+        <role descr="thing sinking" f="ppt" n="1"/>
+        <role descr="prepositional cause" f="cau" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

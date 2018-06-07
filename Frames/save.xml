@@ -1,0 +1,59 @@
+<frameset>
+  <predicate lemma="save">
+    <roleset id="save.01" name="keep from spending">
+      <roles>
+        <role descr="entity saving money, cause of savings, not necessarily recipient!" f="pag" n="0"/>
+        <role descr="money" f="ppt" n="1"/>
+        <role descr="beneficiary" f="gol" n="2"/>
+        <role descr="cause, reason, instrument/manner of savings" f="cau" n="3"/>
+      </roles>
+    </roleset>
+    <roleset id="save.02" name="desperate peril sense">
+      <roles>
+        <role descr="hero" f="pag" n="0"/>
+        <role descr="victim" f="ppt" n="1"/>
+        <role descr="peril" f="vsp" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="save.03" name="collect, accrue, save up (non phrasal, though)">
+      <roles>
+        <role descr="collector" f="pag" n="0"/>
+        <role descr="thing saved, collected" f="ppt" n="1"/>
+        <role descr="purpose" f="prp" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="save_up">
+    <roleset id="save_up.04" name="collect, accrue (phrasal variant)">
+      <roles>
+        <role descr="collector" f="pag" n="0"/>
+        <role descr="thing saved, collected" f="ppt" n="1"/>
+        <role descr="purpose" f="prp" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="saveable">
+    <roleset id="saveable.05" name="able to not be spent">
+      <roles>
+        <role descr="entity not spending" f="ppt" n="0"/>
+        <role descr="money, amount not spend" f="ppt" n="1"/>
+        <role descr="beneficiary" f="gol" n="2"/>
+        <role descr="cause/reason/source of savings" f="cau" n="3"/>
+      </roles>
+    </roleset>
+    <roleset id="saveable.06" name="able to be rescued from peril">
+      <roles>
+        <role descr="hero" f="pag" n="0"/>
+        <role descr="victim" f="ppt" n="1"/>
+        <role descr="peril" f="vsp" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="saveable.07" name="able to be collected, accrued">
+      <roles>
+        <role descr="hoarder" f="pag" n="0"/>
+        <role descr="hoard" f="ppt" n="1"/>
+        <role descr="for what purpose, goal" f="prp" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,19 @@
+<frameset>
+  <predicate lemma="enliven">
+    <roleset id="enliven.01" name="to make lively or spirited, animate">
+      <roles>
+        <role descr="Stimulus" f="PAG" n="0"/>
+        <role descr="entity animated" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="liven_up">
+    <roleset id="liven_up.02" name="make cheerful">
+      <roles>
+        <role descr="agent" f="pag" n="0"/>
+        <role descr="experiencer, entity made cheerful" f="ppt" n="1"/>
+        <role descr="instrument, cause of emotion" f="cau" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

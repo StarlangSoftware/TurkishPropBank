@@ -1,0 +1,20 @@
+<frameset>
+  <predicate lemma="brick">
+    <roleset id="brick.01" name="face, pave with brick">
+      <roles>
+        <role descr="construction worker, bricklayer" f="pag" n="0"/>
+        <role descr="entity, location faced/covered with brick" f="gol" n="1"/>
+        <role descr="brick itself, type of brick" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="brick_over">
+    <roleset id="brick_over.02" name="to face, cover with brick">
+      <roles>
+        <role descr="bricklayer" f="pag" n="0"/>
+        <role descr="location, entity being covered in brick" f="ppt" n="1"/>
+        <role descr="brick itself" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

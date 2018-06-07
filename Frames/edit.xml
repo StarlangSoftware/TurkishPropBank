@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="edit">
+    <roleset id="edit.01" name="edit, work on text (etc), amend text or media">
+      <roles>
+        <role descr="editor" f="PAG" n="0"/>
+        <role descr="text" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

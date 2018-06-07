@@ -1,0 +1,18 @@
+<frameset>
+  <predicate lemma="pucker">
+    <roleset id="pucker.01" name="gather into folds">
+      <roles>
+        <role descr="causer of motion" f="PAG" n="0"/>
+        <role descr="thing puckering" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="pucker_up">
+    <roleset id="pucker_up.02" name="gather lips into folds">
+      <roles>
+        <role descr="causer of motion" f="PAG" n="0"/>
+        <role descr="thing puckering up" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

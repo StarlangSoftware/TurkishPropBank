@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="smolder">
+    <roleset id="smolder.01" name="to burn with little smoke and no flame">
+      <roles>
+        <role descr="entity burning" f="PPT" n="0"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

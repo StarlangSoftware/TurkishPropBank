@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="pray">
+    <roleset id="pray.01" name="talk to god">
+      <roles>
+        <role descr="pray-er" f="pag" n="0"/>
+        <role descr="prayer" f="ppt" n="1"/>
+        <role descr="God" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

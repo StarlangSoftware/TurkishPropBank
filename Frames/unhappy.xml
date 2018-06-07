@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="unhappy">
+    <roleset id="unhappy.01" name="sad, joyless">
+      <roles>
+        <role descr="agent/cause/stimulus of unhappiness" f="pag" n="0"/>
+        <role descr="unhappy entity" f="ppt" n="1"/>
+        <role descr="what arg0 did to create arg1's unhappiness  (if all present)" f="cau" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

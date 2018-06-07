@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="charter">
+    <roleset id="charter.01" name="to hire or lease by charter">
+      <roles>
+        <role descr="hirer, leaser, agent" f="PAG" n="0"/>
+        <role descr="entity chartered" f="PPT" n="1"/>
+        <role descr="task" f="GOL" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="naysay">
+    <roleset id="naysay.01" name="to oppose or deny">
+      <roles>
+        <role descr="speaker, naysayer" f="pag" n="0"/>
+        <role descr="entity/position opposed" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

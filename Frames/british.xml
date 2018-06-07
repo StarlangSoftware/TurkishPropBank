@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="british">
+    <roleset id="british.01" name="of origin in britain">
+      <roles>
+        <role descr="British entity" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

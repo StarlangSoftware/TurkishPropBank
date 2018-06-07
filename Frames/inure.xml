@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="inure">
+    <roleset id="inure.01" name="make used to something unpleasant, habituate">
+      <roles>
+        <role descr="rare causal agent" f="pag" n="0"/>
+        <role descr="entity that becomes habituated to something unpleasant" f="ppt" n="1"/>
+        <role descr="unpleasantness that arg1 has to get used to" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

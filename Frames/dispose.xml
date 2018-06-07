@@ -1,0 +1,26 @@
+<frameset>
+  <predicate lemma="dispose">
+    <roleset id="dispose.01" name="get rid of">
+      <roles>
+        <role descr="agent, entity getting rid of something" f="pag" n="0"/>
+        <role descr="thing gotten rid of" f="ppt" n="1"/>
+        <role descr="instrument or manner, if separate from agent" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="dispose.02" name="(be) prepare(d)">
+      <roles>
+        <role descr="causer of disposition" f="pag" n="0"/>
+        <role descr="one prepared, with a disposition" f="ppt" n="1"/>
+        <role descr="prepared for what, kind of disposition" f="prp" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="disposal">
+    <roleset id="disposal.03" name="availability">
+      <roles>
+        <role descr="entity having arg1 available" f="pag" n="0"/>
+        <role descr="thing available" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

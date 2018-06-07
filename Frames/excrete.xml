@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="excrete">
+    <roleset id="excrete.01" name="discharge something from the system, removing or ejecting waste product">
+      <roles>
+        <role descr="Agent, entity excreting" f="dir" n="0"/>
+        <role descr="Substance being excreted" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

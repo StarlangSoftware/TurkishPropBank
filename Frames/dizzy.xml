@@ -1,0 +1,16 @@
+<frameset>
+  <predicate lemma="dizzy">
+    <roleset id="dizzy.01" name="(cause to) become dizzy">
+      <roles>
+        <role descr="causer of dizziness" f="PAG" n="0"/>
+        <role descr="dizzy entity" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="dizzy.02" name="feel a disorienting spinning sensation">
+      <roles>
+        <role descr="causer of dizziness" f="pag" n="0"/>
+        <role descr="dizzy entity" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

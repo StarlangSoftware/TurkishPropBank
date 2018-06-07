@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="unresponsive">
+    <roleset id="unresponsive.01" name="not reacting to treatment/stimulus">
+      <roles>
+        <role descr="responder" f="pag" n="0"/>
+        <role descr="in response to" f="gol" n="1"/>
+        <role descr="the non-response" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

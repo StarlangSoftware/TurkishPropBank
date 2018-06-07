@@ -1,0 +1,16 @@
+<frameset>
+  <predicate lemma="cribriform">
+    <roleset id="cribriform.01" name="perforate">
+      <roles>
+        <role descr="agent; hole poker" f="pag" n="0"/>
+        <role descr="entity perforated" f="ppt" n="1"/>
+        <role descr="instrument" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="cribriform.02" name="like a flat layer of bone">
+      <roles>
+        <role descr="flat bony layer" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

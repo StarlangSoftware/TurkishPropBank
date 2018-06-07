@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="pedestrian">
+    <roleset id="pedestrian.01" name="undistinguished">
+      <roles>
+        <role descr="ordinary entity" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

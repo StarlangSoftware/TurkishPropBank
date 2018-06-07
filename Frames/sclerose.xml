@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="sclerose">
+    <roleset id="sclerose.101" name="causing growth of dense, fibrous tissue">
+      <roles>
+        <role descr="Causer of sclerosis" f="pag" n="0"/>
+        <role descr="Tissue sclerosing" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

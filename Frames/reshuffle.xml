@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="reshuffle">
+    <roleset id="reshuffle.01" name="to arrange or organize anew, ">
+      <roles>
+        <role descr="shuffler, agent" f="PAG" n="0"/>
+        <role descr="entity reshuffled" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,25 @@
+<frameset>
+  <predicate lemma="reel">
+    <roleset id="reel.01" name="be astounded">
+      <roles>
+        <role descr="entity which is astounded" f="ppt" n="1"/>
+        <role descr="cause of reeling (us. 'from')" f="pag" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="reel.03" name="bring, put somewhere like a fish">
+      <roles>
+        <role descr="Reeler, causer of motion" f="pag" n="0"/>
+        <role descr="Fish, thing moved" f="ppt" n="1"/>
+        <role descr="Destination, moved where" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="reel_off">
+    <roleset id="reel_off.02" name="enumerate, announce">
+      <roles>
+        <role descr="speaker, enumerator" f="pag" n="0"/>
+        <role descr="list of things" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

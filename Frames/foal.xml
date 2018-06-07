@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="foal">
+    <roleset id="foal.01" name="give birth to a foal">
+      <roles>
+        <role descr="Mother" f="PAG" n="0"/>
+        <role descr="Baby" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

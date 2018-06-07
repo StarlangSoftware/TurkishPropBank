@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="outlandish">
+    <roleset id="outlandish.01" name="far fetched, bizarre">
+      <roles>
+        <role descr="outlandish entity" f="pag" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="objective">
+    <roleset id="objective.01" name="non-subjective, unbias">
+      <roles>
+        <role descr="non-bias entity" f="pag" n="0"/>
+        <role descr="objective about" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

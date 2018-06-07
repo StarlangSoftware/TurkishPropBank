@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="deglaciate">
+    <roleset id="deglaciate.01" name="lose glacier-cover">
+      <roles>
+        <role descr="causer of glacier-loss" f="pag" n="0"/>
+        <role descr="location losing its glacier cover" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

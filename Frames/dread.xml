@@ -1,0 +1,30 @@
+<frameset>
+  <predicate lemma="dread">
+    <roleset id="dread.01" name="fear a lot">
+      <roles>
+        <role descr="afraid entity" f="PPT" n="0"/>
+        <role descr="what you're afraid of" f="PAG" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="dreadful">
+    <roleset id="dreadful.02" name="generally awful">
+      <roles>
+        <role descr="generally awful thing" f="pag" n="1"/>
+        <role descr="target of awfulness" f="gol" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="dreadful.03" name="absolutely unskilled at">
+      <roles>
+        <role descr="unskilled entity" f="pag" n="1"/>
+        <role descr="non-skill" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="dreadful.04" name="extremely anti-beneficial, unhealthy">
+      <roles>
+        <role descr="unbeneficial thing" f="ppt" n="1"/>
+        <role descr="non-beneficiary" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

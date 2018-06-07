@@ -1,0 +1,35 @@
+<frameset>
+  <predicate lemma="join">
+    <roleset id="join.01" name="attach, connect things together">
+      <roles>
+        <role descr="agent, entity doing the tying" f="pag" n="0"/>
+        <role descr="first thing being tied" f="ppt" n="1"/>
+        <role descr="second thing, tied to what" f="ppt" n="2"/>
+        <role descr="instrument, string" f="mnr" n="3"/>
+      </roles>
+    </roleset>
+    <roleset id="join.04" name="come into the company of, be together with">
+      <roles>
+        <role descr="agent, person joining" f="pag" n="0"/>
+        <role descr="entity joined" f="ppt" n="1"/>
+        <role descr="secondary predication (with something, like news, for example)" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="join_in">
+    <roleset id="join_in.05" name="join in">
+      <roles>
+        <role descr="agent, entity joining" f="pag" n="0"/>
+        <role descr="group joined" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="join_up">
+    <roleset id="join_up.02" name="become a member of">
+      <roles>
+        <role descr="agent, entity joining" f="pag" n="0"/>
+        <role descr="group joined" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

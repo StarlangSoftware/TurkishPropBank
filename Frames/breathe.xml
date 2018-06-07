@@ -1,0 +1,18 @@
+<frameset>
+  <predicate lemma="breathe">
+    <roleset id="breathe.01" name="inhale and exhale air">
+      <roles>
+        <role descr="breather" f="pag" n="0"/>
+        <role descr="air, we hope" f="ppt" n="1"/>
+        <role descr="direction" f="gol" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="breathe.02" name="say in a breathy manner">
+      <roles>
+        <role descr="speaker" f="pag" n="0"/>
+        <role descr="utterance breathed" f="ppt" n="1"/>
+        <role descr="listener" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="underestimate">
+    <roleset id="underestimate.01" name="underestimate, perceiving something as having lower value than it actually has">
+      <roles>
+        <role descr="underestimator" f="pag" n="0"/>
+        <role descr="thing underestimated" f="ppt" n="1"/>
+        <role descr="by how much" f="ext" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

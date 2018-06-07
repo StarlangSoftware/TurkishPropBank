@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="playfight">
+    <roleset id="playfight.01" name="engage in playful combat">
+      <roles>
+        <role descr="First playfighter (or all if together)" f="pag" n="0"/>
+        <role descr="second playfighter" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,18 @@
+<frameset>
+  <predicate lemma="clash">
+    <roleset id="clash.01" name="to come into conflict, be in opposition">
+      <roles>
+        <role descr="1st, all in one mention, or agentive clasher" f="pag" n="0"/>
+        <role descr="entity clashed with when separat constituent" f="com" n="1"/>
+        <role descr="entity clashed over" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="clash.02" name="(cause to) emit a clashing noise, or cause discord between two non-agentive things">
+      <roles>
+        <role descr="agent, one causing a clashing noise" f="pag" n="0"/>
+        <role descr="theme, thing clashing into something" f="PPT" n="1"/>
+        <role descr="location, thing that the theme clashes against" f="LOC" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

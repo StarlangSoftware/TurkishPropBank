@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="casual">
+    <roleset id="casual.01" name="everyday, non-formal, non-chalant">
+      <roles>
+        <role descr="entity acting non-chalant" f="pag" n="0"/>
+        <role descr="everday, non-formal thing" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

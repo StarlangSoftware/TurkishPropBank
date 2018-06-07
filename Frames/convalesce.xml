@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="convalesce">
+    <roleset id="convalesce.01" name="recover">
+      <roles>
+        <role descr="Patient healing" f="ppt" n="1"/>
+        <role descr="affliction, disease, or injury" f="cau" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,20 @@
+<frameset>
+  <predicate lemma="conclude">
+    <roleset id="conclude.01" name="come to/point to a decision based on evidence">
+      <roles>
+        <role descr="decider" f="pag" n="0"/>
+        <role descr="decision made" f="ppt" n="1"/>
+        <role descr="question answered" f="ppt" n="2"/>
+        <role descr="evidence" f="cau" n="3"/>
+      </roles>
+    </roleset>
+    <roleset id="conclude.02" name="bring to an end">
+      <roles>
+        <role descr="Intentional agent" f="pag" n="0"/>
+        <role descr="Thing ending" f="ppt" n="1"/>
+        <role descr="Explicit instrument, thing ended with" f="mnr" n="2"/>
+        <role descr="point at which something ends" f="tmp" n="m"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="tetramerize">
+    <roleset id="tetramerize.01" name="form a four-unit oligomer">
+      <roles>
+        <role descr="agent of tetramerization" f="pag" n="0" />
+        <role descr="entity undergoing tetramerization" f="ppt" n="1" />
+        <role descr="start state (if arg1 is inappropriate)" f="dir" n="2" />
+        <role descr="result, tetramer" f="gol" n="3" />
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

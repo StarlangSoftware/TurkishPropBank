@@ -1,0 +1,26 @@
+<frameset>
+  <predicate lemma="nip">
+    <roleset id="nip.01" name="motion">
+      <roles>
+        <role descr="entity nipping" f="ppt" n="1"/>
+        <role descr="start point" f="dir" n="2"/>
+        <role descr="end point" f="gol" n="3"/>
+        <role descr="path" f="loc" n="4"/>
+      </roles>
+    </roleset>
+    <roleset id="nip.02" name="pinch, snip, bite (possibly off)">
+      <roles>
+        <role descr="biter" f="pag" n="0"/>
+        <role descr="thing bitten" f="ppt" n="1"/>
+        <role descr="source" f="dir" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="nip.03" name="nip_in_the_bud: fixed. = prevent, cause to end">
+      <roles>
+        <role descr="preventative nipper" f="pag" n="0"/>
+        <role descr="thing nipped, prevented" f="ppt" n="1"/>
+        <role descr="fixed: &quot;in the bud&quot;" f="loc" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

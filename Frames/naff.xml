@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="naff">
+    <roleset id="naff.01" name="poorly thought out, unworkable">
+      <roles>
+        <role descr="poorly though out thing" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

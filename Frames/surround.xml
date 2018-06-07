@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="surround">
+    <roleset id="surround.01" name="be on all sides of, encompassing">
+      <roles>
+        <role descr="causative agent" f="PAG" n="0"/>
+        <role descr="thing surrounding" f="PPT" n="1"/>
+        <role descr="thing surrounded" f="GOL" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

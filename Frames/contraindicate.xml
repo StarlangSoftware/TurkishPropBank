@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="contraindicate">
+    <roleset id="contraindicate.101" name="recommend against a course of action">
+      <roles>
+        <role descr="contraindicating item/symptom/situation" f="pag" n="1"/>
+        <role descr="contraindicated item/treatment/action/medication" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

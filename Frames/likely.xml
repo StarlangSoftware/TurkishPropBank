@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="likely">
+    <roleset id="likely.01" name="probable">
+      <roles>
+        <role descr="likely event (may require concatenation" f="pag" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

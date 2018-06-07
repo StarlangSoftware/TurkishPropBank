@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="harp">
+    <roleset id="harp.01" name="to dwell on">
+      <roles>
+        <role descr="entity who just can't let it go" f="pag" n="0"/>
+        <role descr="thing harped on" f="ppt" n="1"/>
+        <role descr="listener, who is arg0 harping to?" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

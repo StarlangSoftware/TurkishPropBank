@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="pip">
+    <roleset id="pip.01" name="remove (crusty scale from a bird's tongue)">
+      <roles>
+        <role descr="remover" f="PAG" n="0"/>
+        <role descr="entity having something removed (usually a bird)" f="DIR" n="1"/>
+        <role descr="scale, object removed" f="PPT" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

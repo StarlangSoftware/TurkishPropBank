@@ -1,0 +1,22 @@
+<frameset>
+  <predicate lemma="wax">
+    <roleset id="wax.01" name="apply wax to">
+      <roles>
+        <role descr="agent, waxer" f="pag" n="0"/>
+        <role descr="thing waxed" f="gol" n="1"/>
+        <role descr="explicit mention of wax" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="wax.02" name="grow">
+      <roles>
+        <role descr="thing growing" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="wax.03" name="become">
+      <roles>
+        <role descr="topic" f="ppt" n="1"/>
+        <role descr="description" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

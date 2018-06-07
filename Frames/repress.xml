@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="repress">
+    <roleset id="repress.01" name="to hold back, holding back/down">
+      <roles>
+        <role descr="represser" f="pag" n="0"/>
+        <role descr="repressed" f="ppt" n="1"/>
+        <role descr="domain in which arg1 is being repressed" f="vsp" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

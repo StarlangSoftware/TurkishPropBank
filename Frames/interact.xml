@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="interact">
+    <roleset id="interact.01" name="to associate with others, both responsive and receptive">
+      <roles>
+        <role descr="one participant" f="PAG" n="0"/>
+        <role descr="other participant(s)" f="COM" n="1"/>
+        <role descr="domain of the interaction" f="PPT" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

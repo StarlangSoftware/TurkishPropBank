@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="evoke">
+    <roleset id="evoke.01" name="summon, make allusions to">
+      <roles>
+        <role descr="evoker" f="pag" n="0"/>
+        <role descr="thing evoked" f="ppt" n="1"/>
+        <role descr="instrument" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

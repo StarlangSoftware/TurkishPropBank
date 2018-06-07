@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="truss">
+    <roleset id="truss.01" name="truss">
+      <roles>
+        <role descr="agent, binder" f="PAG" n="0"/>
+        <role descr="patient, thing trussed" f="PPT" n="1"/>
+        <role descr="second (optional) object, thing trussed *to*" f="PPT" n="2"/>
+        <role descr="trussed with what, instrument" f="mnr" n="m"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

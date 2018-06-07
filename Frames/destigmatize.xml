@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="destigmatize">
+    <roleset id="destigmatize.01" name="remove associations of shame or disgrace">
+      <roles>
+        <role descr="agent/cause" f="pag" n="0"/>
+        <role descr="destigmatized entity" f="ppt" n="1"/>
+        <role descr="attribute" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

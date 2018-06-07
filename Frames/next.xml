@@ -1,0 +1,22 @@
+<frameset>
+  <predicate lemma="next">
+    <roleset id="next.01" name="immediately follow in time">
+      <roles>
+        <role descr="thing coming after" f="ppt" n="1"/>
+        <role descr="thing coming before" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="next.02" name="be near spacially">
+      <roles>
+        <role descr="first item" f="ppt" n="1"/>
+        <role descr="second item, thing the first item is near" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="next.03" name="succeed">
+      <roles>
+        <role descr="entity being promoted" f="ppt" n="1"/>
+        <role descr="promoted to, next in line for what" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

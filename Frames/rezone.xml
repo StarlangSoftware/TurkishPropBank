@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="rezone">
+    <roleset id="rezone.01" name="redesignate an area for a new use">
+      <roles>
+        <role descr="zoning board" f="pag" n="0"/>
+        <role descr="area" f="ppt" n="1"/>
+        <role descr="new use" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

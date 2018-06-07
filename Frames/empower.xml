@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="empower">
+    <roleset id="empower.01" name="give power to">
+      <roles>
+        <role descr="giver of power" f="pag" n="0"/>
+        <role descr="empowered entity" f="ppt" n="1"/>
+        <role descr="use of power" f="prp" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

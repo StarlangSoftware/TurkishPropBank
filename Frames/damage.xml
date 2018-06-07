@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="damage">
+    <roleset id="damage.01" name="to harm or spoil, damaging, destructive, causing harm">
+      <roles>
+        <role descr="agent, causer" f="pag" n="0"/>
+        <role descr="entity damaged" f="ppt" n="1"/>
+        <role descr="instrument" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

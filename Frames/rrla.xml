@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="rrla">
+    <roleset id="rrla.01" name="round, reactive to light, accommodation (of pupils)">
+      <roles>
+        <role descr="pupils" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

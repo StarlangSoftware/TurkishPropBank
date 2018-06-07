@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="policy">
+    <roleset id="policy.01" name="(have/abide by) a predetermined course of action for governing, conduct">
+      <roles>
+        <role descr="entity holding the policy" f="pag" n="0"/>
+        <role descr="the policy" f="ppt" n="1"/>
+        <role descr="policy regarding" f="vsp" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="pg">
+    <roleset id="pg.01" name="parental guidance movie rating">
+      <roles>
+        <role descr="pg movie or entity" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

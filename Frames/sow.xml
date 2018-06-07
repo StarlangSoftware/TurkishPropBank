@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="sow">
+    <roleset id="sow.01" name="to scatter seed for growing">
+      <roles>
+        <role descr="farmer, sower" f="PAG" n="0"/>
+        <role descr="seed, entity sowed" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

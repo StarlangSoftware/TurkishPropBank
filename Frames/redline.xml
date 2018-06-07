@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="redline">
+    <roleset id="redline.01" name="mark as being a bad credit risk">
+      <roles>
+        <role descr="liner" f="pag" n="0"/>
+        <role descr="thing being redlined" f="ppt" n="1"/>
+        <role descr="attribute" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

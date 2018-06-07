@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="gen_up">
+    <roleset id="gen_up.01" name="brief/inform, fully">
+      <roles>
+        <role descr="agent, briefer" f="PAG" n="0"/>
+        <role descr="entity learning" f="gol" n="1"/>
+        <role descr="the intelliGENce; topic learned" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

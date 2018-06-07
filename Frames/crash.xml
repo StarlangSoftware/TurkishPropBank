@@ -1,0 +1,30 @@
+<frameset>
+  <predicate lemma="crash">
+    <roleset id="crash.01" name="to break, undergo damage, possibly producing a characteristic sound, possibly resulting in a sound">
+      <roles>
+        <role descr="causer of damage, agent" f="pag" n="0"/>
+        <role descr="entity crashed" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="crash.02" name="to enter uninvited, invite oneself in">
+      <roles>
+        <role descr="entity entering" f="pag" n="0"/>
+        <role descr="party" f="loc" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="crash.04" name="fall asleep heavily, maybe someplace other than home">
+      <roles>
+        <role descr="sleeper" f="pag" n="0"/>
+        <role descr="location" f="loc" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="crash_out">
+    <roleset id="crash_out.03" name="to create quickly and sloppily">
+      <roles>
+        <role descr="creator" f="pag" n="0"/>
+        <role descr="entity created" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

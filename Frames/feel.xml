@@ -1,0 +1,47 @@
+<frameset>
+  <predicate lemma="feel">
+    <roleset id="feel.01" name="experience emotion or sensation">
+      <roles>
+        <role descr="feeler, person experiencing emotion" f="ppt" n="0"/>
+        <role descr="emotion or sensation" f="ppt" n="1"/>
+        <role descr="entity towards or for whom the emotion is directed" f="gol" n="2"/>
+      </roles>
+    
+    </roleset>
+    <roleset id="feel.02" name="believe">
+      <roles>
+        <role descr="believer" f="pag" n="0"/>
+        <role descr="belief" f="ppt" n="1"/>
+        <role descr="attributive (whom/what the feeling is about)" f="prd" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="feel.03" name="caress">
+      <roles>
+        <role descr="feeler" f="pag" n="0"/>
+        <role descr="thing felt" f="ppt" n="1"/>
+        <role descr="instrument" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="feel.05" name="exhibit a (tactile or emotional) characteristic">
+      <roles>
+        <role descr="stimulus" f="pag" n="1"/>
+        <role descr="characteristic" f="prd" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="feel.06" name="feel like: want, have an inclination">
+      <roles>
+        <role descr="wanter" f="pag" n="0"/>
+        <role descr="like what: thing or action arg0 is inclined towards" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="feel_up">
+    <roleset id="feel_up.04" name="intentionally touch, phrasal">
+      <roles>
+        <role descr="feeler" f="pag" n="0"/>
+        <role descr="thing felt" f="ppt" n="1"/>
+        <role descr="instrument" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

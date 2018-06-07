@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="inactivation">
+    <roleset id="inactivation.01" name="make inactive">
+      <roles>
+        <role descr="inactivator, agent" f="pag" n="0"/>
+        <role descr="thing now inactive" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

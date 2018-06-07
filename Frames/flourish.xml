@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="flourish">
+    <roleset id="flourish.01" name="prosper, do well">
+      <roles>
+        <role descr="thing flourishing" f="ppt" n="1"/>
+        <role descr="secondary attribute" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

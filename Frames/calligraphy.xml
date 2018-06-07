@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="calligraphy">
+    <roleset id="calligraphy.01" name="write decoratively">
+      <roles>
+        <role descr="Writer, artist" f="pag" n="0"/>
+        <role descr="Words written in calligraphy" f="ppt" n="1"/>
+        <role descr="Entity decorated with calligraphy" f="loc" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

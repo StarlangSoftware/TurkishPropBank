@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="spam">
+    <roleset id="spam.01" name="sending spam mail, indiscriminate spreading of information in bulk">
+      <roles>
+        <role descr="agent, spammer" f="PAG" n="0"/>
+        <role descr="destination/recipient of spam" f="gol" n="1"/>
+        <role descr="the spam" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

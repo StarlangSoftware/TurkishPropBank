@@ -1,0 +1,23 @@
+<frameset>
+  <predicate lemma="sublimate">
+    <roleset id="sublimate.01" name="to have a purifying, ennobling effect; to change from solid to gas or vice versa">
+      <roles>
+        <role descr="agent, cause of sublimation" f="pag" n="0"/>
+        <role descr="entity undergoing change, sublimation" f="ppt" n="1"/>
+        <role descr="instrument" f="mnr" n="2"/>
+        <role descr="starting state of arg 1" f="vsp" n="3"/>
+        <role descr="final state of arg 1, result after sublimation" f="prd" n="4"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="sublimation">
+    <roleset id="sublimation.02" name="Transition directly from a solid state to a gas state.">
+      <roles>
+        <role descr="cause" f="pag" n="0"/>
+        <role descr="substance transitioning" f="ppt" n="1"/>
+        <role descr="start state" f="dir" n="2"/>
+        <role descr="end state" f="gol" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

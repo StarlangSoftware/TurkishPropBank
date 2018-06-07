@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="same">
+    <roleset id="same.01" name="alike, equivalent">
+      <roles>
+        <role descr="first same thing" f="pag" n="1"/>
+        <role descr="second same thing, thing being compared to" f="pag" n="2"/>
+        <role descr="domain in which args 0, 1 are the same" f="vsp" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

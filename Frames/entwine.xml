@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="entwine">
+    <roleset id="entwine.01" name="get all tangled up">
+      <roles>
+        <role descr="causer of mixture" f="PAG" n="0"/>
+        <role descr="first ingredient" f="PPT" n="1"/>
+        <role descr="other(s)" f="PPT" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

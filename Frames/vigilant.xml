@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="vigilant">
+    <roleset id="vigilant.01" name="carefully watchful">
+      <roles>
+        <role descr="watcher" f="pag" n="0"/>
+        <role descr="watched for" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

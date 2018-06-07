@@ -1,0 +1,25 @@
+<frameset>
+  <predicate lemma="feed">
+    <roleset id="feed.01" name="cause to eat">
+      <roles>
+        <role descr="causal agent" f="pag" n="0"/>
+        <role descr="food" f="ppt" n="1"/>
+        <role descr="eater" f="gol" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="feed.02" name="increase">
+      <roles>
+        <role descr="cause of increase" f="pag" n="0"/>
+        <role descr="thing increasing" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="feed_up">
+    <roleset id="feed_up.03" name="feed up: be(come) exasperated">
+      <roles>
+        <role descr="fed up entity, experiencer" f="ppt" n="1"/>
+        <role descr="causer of fed-up-ed-ness" f="pag" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

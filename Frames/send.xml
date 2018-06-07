@@ -1,0 +1,36 @@
+<frameset>
+  <predicate lemma="send">
+    <roleset id="send.01" name="give">
+      <roles>
+        <role descr="sender" f="pag" n="0"/>
+        <role descr="sent" f="ppt" n="1"/>
+        <role descr="sent-to" f="gol" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="send.02" name="cause to action">
+      <roles>
+        <role descr="sender" f="pag" n="0"/>
+        <role descr="sent, impelled agent" f="ppt" n="1"/>
+        <role descr="project, impelled action, attribute of arg1" f="prd" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="send.03" name="cause motion">
+      <roles>
+        <role descr="causer of motion" f="pag" n="0"/>
+        <role descr="entity in motion" f="ppt" n="1"/>
+        <role descr="EXT" f="ext" n="2"/>
+        <role descr="start point" f="dir" n="3"/>
+        <role descr="end point, attribute of arg1" f="gol" n="4"/>
+        <role descr="direction" f="dir" n="5"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="send_out">
+    <roleset id="send_out.04" name="summon, order for delivery">
+      <roles>
+        <role descr="orderer, agent" f="pag" n="0"/>
+        <role descr="theme, thing ordered" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="delay">
+    <roleset id="delay.01" name="cause to occur later in time than planned, occurring later than planned">
+      <roles>
+        <role descr="agent, causer of delay" f="pag" n="0"/>
+        <role descr="event delayed" f="ppt" n="1"/>
+        <role descr="delay itself, EXT, time period" f="tmp" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

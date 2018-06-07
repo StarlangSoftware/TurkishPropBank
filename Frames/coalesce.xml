@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="coalesce">
+    <roleset id="coalesce.01" name="to blend or come together">
+      <roles>
+        <role descr="agent, mixer" f="pag" n="0"/>
+        <role descr="ingredient one" f="ppt" n="1"/>
+        <role descr="ingredient two-1" f="ppt" n="2"/>
+        <role descr="end product" f="prd" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,16 @@
+<frameset>
+  <predicate lemma="bawl">
+    <roleset id="bawl.01" name="cry out loudly">
+      <roles>
+        <role descr="speaker" f="PAG" n="0"/>
+        <role descr="utterance" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="bawl.02" name="sell">
+      <roles>
+        <role descr="peddler" f="PAG" n="0"/>
+        <role descr="wares" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

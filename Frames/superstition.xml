@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="superstition">
+    <roleset id="superstition.01" name="strict belief in logically unrelated causes and effects">
+      <roles>
+        <role descr="believer" f="pag" n="0"/>
+        <role descr="belief" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="distort">
+    <roleset id="distort.01" name="alter badly">
+      <roles>
+        <role descr="alterer, agent" f="pag" n="0"/>
+        <role descr="thing distorted" f="vsp" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

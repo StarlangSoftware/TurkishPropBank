@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="fate">
+    <roleset id="fate.01" name="assign to a specific purpose">
+      <roles>
+        <role descr="entity destined" f="ppt" n="1"/>
+        <role descr="purpose" f="prp" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="bestow">
+    <roleset id="bestow.01" name="to present, give as a gift">
+      <roles>
+        <role descr="giver, agent" f="pag" n="0"/>
+        <role descr="gift, theme" f="ppt" n="1"/>
+        <role descr="recipient, bestowed on" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

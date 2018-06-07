@@ -1,0 +1,17 @@
+<frameset>
+  <predicate lemma="sanction">
+    <roleset id="sanction.01" name="approve">
+      <roles>
+        <role descr="approver, agent" f="pag" n="0"/>
+        <role descr="entity approved" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="sanction.02" name="punish by applying legal sanctions">
+      <roles>
+        <role descr="entity enforcing sanctions" f="pag" n="0"/>
+        <role descr="entity being punished" f="ppt" n="1"/>
+        <role descr="sanctions, manner of punishment" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

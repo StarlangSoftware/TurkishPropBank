@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="withhold">
+    <roleset id="withhold.01" name="to refrain from or deduct, holding back">
+      <roles>
+        <role descr="withholder, agent" f="pag" n="0"/>
+        <role descr="entity withheld" f="ppt" n="1"/>
+        <role descr="entity withheld from" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

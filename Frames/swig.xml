@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="swig">
+    <roleset id="swig.01" name="swig">
+      <roles>
+        <role descr="one swigging, agent" f="PAG" n="0"/>
+        <role descr="thing swigged, patient" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

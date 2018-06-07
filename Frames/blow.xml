@@ -1,0 +1,101 @@
+<frameset>
+  <predicate lemma="blow">
+    <roleset id="blow.01" name="cause motion by air current">
+      <roles>
+        <role descr="wind" f="pag" n="0"/>
+        <role descr="thing being moved" f="ppt" n="1"/>
+        <role descr="path or medium" f="dir" n="m"/>
+      </roles>
+    </roleset>
+    <roleset id="blow.11" name="waste, consume, use">
+      <roles>
+        <role descr="agent, one wasting stuff" f="pag" n="0"/>
+        <role descr="theme, stuff wasted" f="ppt" n="1"/>
+        <role descr="recipient, what stuff was wasted on" f="gol" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="blow.02" name="create, shape by blowing air">
+      <roles>
+        <role descr="shaper" f="pag" n="0"/>
+        <role descr="thing worked on" f="vsp" n="1"/>
+        <role descr="end state, if different from arg1" f="prd" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="blow.03" name="oral sex">
+      <roles>
+        <role descr="giver" f="pag" n="0"/>
+        <role descr="getter" f="gol" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="blow.04" name="like the wind">
+      <roles>
+        <role descr="wind" f="ppt" n="1"/>
+        <role descr="direction or location" f="loc" n="m"/>
+      </roles>
+    </roleset>
+    <roleset id="blow.08" name="explode, explosion">
+      <roles>
+        <role descr="cause of explosion" f="pag" n="0"/>
+        <role descr="thing exploding" f="ppt" n="1"/>
+        <role descr="entity damaged, damage caused by explosion" f="gol" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="blow.09" name="sound, like a trumpet">
+      <roles>
+        <role descr="player" f="pag" n="0"/>
+        <role descr="trumpet" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="blow.10" name="make an error">
+      <roles>
+        <role descr="errer" f="pag" n="0"/>
+        <role descr="error" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="blow.13" name="suck, be bad">
+      <roles>
+        <role descr="thing that is crappy" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="blow.14" name="strike">
+      <roles>
+        <role descr="agent, hitter" f="pag" n="0"/>
+        <role descr="thing hit" f="ppt" n="1"/>
+        <role descr="instrument, thing hit by or with" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="blow_up">
+    <roleset id="blow_up.05" name="inflate">
+      <roles>
+        <role descr="inflater, agent" f="pag" n="0"/>
+        <role descr="thing grown" f="prd" n="1"/>
+        <role descr="amount increased by, EXT or MNR" f="ext" n="2"/>
+        <role descr="start point" f="dir" n="3"/>
+        <role descr="end point, end state of arg1" f="prd" n="4"/>
+      </roles>
+    </roleset>
+    <roleset id="blow_up.06" name="explode">
+      <roles>
+        <role descr="causal agent" f="pag" n="0"/>
+        <role descr="thing exploding" f="ppt" n="1"/>
+        <role descr="instrument (bomb)" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="blow_out">
+    <roleset id="blow_out.07" name="explosive air motion">
+      <roles>
+        <role descr="air" f="pag" n="0"/>
+        <role descr="thing being moved" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="blow_over">
+    <roleset id="blow_over.12" name="pass">
+      <roles>
+        <role descr="thing that is passing, ending" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

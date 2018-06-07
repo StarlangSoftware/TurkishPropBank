@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="hogtie">
+    <roleset id="hogtie.01" name="hamper, (as if) by tying the legs/feet together">
+      <roles>
+        <role descr="entity doing the tying" f="pag" n="0"/>
+        <role descr="hog" f="ppt" n="1"/>
+        <role descr="string" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

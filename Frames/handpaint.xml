@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="handpaint">
+    <roleset id="handpaint.01" name="put paint on a surface by hand">
+      <roles>
+        <role descr="agent, painter" f="PAG" n="0"/>
+        <role descr="surface" f="GOL" n="1"/>
+        <role descr="explicit mention of paint" f="PPT" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

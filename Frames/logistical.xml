@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="logistical">
+    <roleset id="logistical.01" name="relating to logistics">
+      <roles>
+        <role descr="logistical entity" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

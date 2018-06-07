@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="underweight">
+    <roleset id="underweight.01" name="bias or underload">
+      <roles>
+        <role descr="agent weighting something" f="pag" n="0"/>
+        <role descr="entity underweighted" f="ppt" n="1"/>
+        <role descr="attribute, underweighted in what way?" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

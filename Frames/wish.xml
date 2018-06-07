@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="wish">
+    <roleset id="wish.01" name="wish, desire">
+      <roles>
+        <role descr="wisher" f="pag" n="0"/>
+        <role descr="thing wished for" f="ppt" n="1"/>
+        <role descr="benefactive" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

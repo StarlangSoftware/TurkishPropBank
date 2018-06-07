@@ -1,0 +1,13 @@
+<frameset>
+  <predicate lemma="increment">
+    <roleset id="increment.01" name="to increase by steps">
+      <roles>
+        <role descr="Causer of incrementing" f="pag" n="0"/>
+        <role descr="Thing being incremented" f="ppt" n="1"/>
+        <role descr="Amount incremented by (size of step)" f="ext" n="2"/>
+        <role descr="Start point" f="dir" n="3"/>
+        <role descr="End point" f="gol" n="4"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

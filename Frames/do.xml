@@ -1,0 +1,82 @@
+<frameset>
+  <predicate lemma="do">
+    <roleset id="do.01" name="auxiliary">
+        <roles/>
+    </roleset>
+    <roleset id="do.02" name="act">
+      <roles>
+        <role descr="agent, doer" f="pag" n="0"/>
+        <role descr="thing done" f="ppt" n="1"/>
+        <role descr="benefactive, done for or about" f="gol" n="2"/>
+        <role descr="instrumental" f="mnr" n="3"/>
+        <role descr="comitative, companion while doing" f="com" n="4"/>
+      </roles>
+    </roleset>
+    <roleset id="do.04" name="have some association with">
+      <roles>
+        <role descr="doer, usually  *PRO*" f="pag" n="0"/>
+        <role descr="thing with which something has to do, &quot;with...&quot; phrase" f="ppt" n="1"/>
+        <role descr="thing done, usually &quot;nothing&quot; &quot;something&quot; quantitative phrase" f="prd" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="do.11" name="serve time (usually a sentence but could be an appointment)">
+      <roles>
+        <role descr="entity serving time" f="pag" n="0"/>
+        <role descr="time, appointment, sentence" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="do.12" name="suffice">
+      <roles>
+        <role descr="thing that suffices" f="ppt" n="1"/>
+        <role descr="for/as what role/purpose" f="vsp" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="do_in">
+    <roleset id="do_in.03" name="kill">
+      <roles>
+        <role descr="killer" f="pag" n="0"/>
+        <role descr="corpse" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="do_away">
+    <roleset id="do_away.05" name="get rid of, eliminate">
+      <roles>
+        <role descr="eliminator" f="pag" n="0"/>
+        <role descr="eliminated" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="doing">
+    <roleset id="doing.07" name="nominal version of light verb">
+      <roles>
+        <role descr="maker, subject of the light-verbish noun" f="pag" n="0"/>
+        <role descr="true noun predicate" f="prd" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="done">
+    <roleset id="done.08" name="be completed; bring to completion">
+      <roles>
+        <role descr="person that brought arg1 to completion (mere agents of arg1 should just be within arg1)" f="pag" n="0"/>
+        <role descr="activity completed, event that has stopped" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="done_for">
+    <roleset id="done_for.06" name="set phrase: done for, doomed">
+      <roles>
+        <role descr="doomed entity" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="doable">
+    <roleset id="doable.10" name="able to be done/accomplished">
+      <roles>
+        <role descr="doer" f="pag" n="0"/>
+        <role descr="done" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="shroud">
+    <roleset id="shroud.01" name="cover with a shroud">
+      <roles>
+        <role descr="applier of cover" f="PAG" n="0"/>
+        <role descr="thing covered" f="GOL" n="1"/>
+        <role descr="covered with" f="PPT" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="abundant">
+    <roleset id="abundant.01" name="plentiful">
+      <roles>
+        <role descr="plentiful commodity" f="ppt" n="1"/>
+        <role descr="location with plenty of arg1" f="loc" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

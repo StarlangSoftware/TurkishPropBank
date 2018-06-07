@@ -1,0 +1,16 @@
+<frameset>
+  <predicate lemma="thrill">
+    <roleset id="thrill.01" name="excite">
+      <roles>
+        <role descr="causer of excitement" f="pag" n="0"/>
+        <role descr="excited entity" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="thrill.02" name="prepositional usage">
+      <roles>
+        <role descr="excited entity" f="ppt" n="0"/>
+        <role descr="cause of excitement" f="pag" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

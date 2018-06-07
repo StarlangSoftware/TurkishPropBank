@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="experiment">
+    <roleset id="experiment.01" name="to conduct an experiment">
+      <roles>
+        <role descr="scientist, agent" f="pag" n="0"/>
+        <role descr="experimental subject" f="ppt" n="1"/>
+        <role descr="experimental method" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

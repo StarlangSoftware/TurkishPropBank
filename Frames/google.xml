@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="google">
+    <roleset id="google.01" name="search for using google search engine">
+      <roles>
+        <role descr="agent of search" f="PAG" n="0"/>
+        <role descr="target of search" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="noncompliant">
+    <roleset id="noncompliant.01" name="uncooperative">
+      <roles>
+        <role descr="non-complier" f="pag" n="0"/>
+        <role descr="not complied with (ie, rule)" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

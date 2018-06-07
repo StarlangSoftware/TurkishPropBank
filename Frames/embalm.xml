@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="embalm">
+    <roleset id="embalm.01" name="preserve in chemicals or memory">
+      <roles>
+        <role descr="causer of preservation, embalmer" f="pag" n="0"/>
+        <role descr="thing preserved, embalmed" f="ppt" n="1"/>
+        <role descr="Preserved in or with what? Instrument or Manner" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

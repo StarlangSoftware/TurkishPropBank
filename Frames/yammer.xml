@@ -1,0 +1,26 @@
+<frameset>
+  <predicate lemma="yammer">
+    <roleset id="yammer.01" name="yammer">
+      <roles>
+        <role descr="Yammerer" f="PAG" n="0"/>
+        <role descr="Complaint, thing Yammered, topic of Yammering" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="yammer_away">
+    <roleset id="yammer_away.02" name="yammer away">
+      <roles>
+        <role descr="Yammerer" f="PAG" n="0"/>
+        <role descr="Complaint, thing Yammered, topic of Yammering" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="yammer_on">
+    <roleset id="yammer_on.03" name="yammer on.. and on.. and on...">
+      <roles>
+        <role descr="Yammerer" f="PAG" n="0"/>
+        <role descr="Complaint, thing Yammered, topic of Yammering" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="commence">
+    <roleset id="commence.01" name="begin">
+      <roles>
+        <role descr="beginner, Agent" f="pag" n="0"/>
+        <role descr="Theme(-Creation)" f="ppt" n="1"/>
+        <role descr="Instrument" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

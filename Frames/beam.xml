@@ -1,0 +1,16 @@
+<frameset>
+  <predicate lemma="beam">
+    <roleset id="beam.01" name="to emit or transmit">
+      <roles>
+        <role descr="transmitter, agent" f="PAG" n="0"/>
+        <role descr="thing transmitted" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="beam.02" name="to express with a smile">
+      <roles>
+        <role descr="smiler, agent" f="PAG" n="0"/>
+        <role descr="thing expressed" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

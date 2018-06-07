@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="eavesdrop">
+    <roleset id="eavesdrop.01" name="listen surreptitiously">
+      <roles>
+        <role descr="listener" f="PAG" n="0"/>
+        <role descr="listened-to" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

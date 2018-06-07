@@ -1,0 +1,18 @@
+<frameset>
+  <predicate lemma="encourage">
+    <roleset id="encourage.01" name="impelled action, giving courage to do something">
+      <roles>
+        <role descr="convincer" f="pag" n="0"/>
+        <role descr="impelled agent" f="ppt" n="1"/>
+        <role descr="impelled action" f="prd" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="encourage.02" name="provide favorable conditions for growth; promote">
+      <roles>
+        <role descr="outside agent" f="pag" n="0"/>
+        <role descr="thing favored" f="ppt" n="1"/>
+        <role descr="instrument" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

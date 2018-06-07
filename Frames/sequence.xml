@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="sequence">
+    <roleset id="sequence.01" name="order">
+      <roles>
+        <role descr="arranger, agent" f="pag" n="0"/>
+        <role descr="things put in order or first element" f="ppt" n="1"/>
+        <role descr="second or subsequent element, if seperate from arg 1" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

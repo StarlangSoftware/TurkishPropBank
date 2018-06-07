@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="oversleep">
+    <roleset id="oversleep.01" name="sleep too long">
+      <roles>
+        <role descr="sleepyhead" f="pag" n="0"/>
+        <role descr="amount overslept" f="ext" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

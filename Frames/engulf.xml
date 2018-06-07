@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="engulf">
+    <roleset id="engulf.01" name="to flow over or absorb">
+      <roles>
+        <role descr="entity causing engulfing" f="ppt" n="0"/>
+        <role descr="entity engulfed" f="ppt" n="1"/>
+        <role descr="engulfed in what? actual liquid/entity surrounding arg1" f="vsp" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

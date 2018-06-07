@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="dole_out">
+    <roleset id="dole_out.01" name="distribute grudgingly">
+      <roles>
+        <role descr="distributor" f="pag" n="0"/>
+        <role descr="thing distributed" f="ppt" n="1"/>
+        <role descr="distributed to" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

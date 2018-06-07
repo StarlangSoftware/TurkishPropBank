@@ -1,0 +1,31 @@
+<frameset>
+  <predicate lemma="rattle">
+    <roleset id="rattle.01" name="cause to shake">
+      <roles>
+        <role descr="shaker" f="PAG" n="0"/>
+        <role descr="thing shaking" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="rattle.02" name="emit rattling sounds">
+      <roles>
+        <role descr="rattler" f="PAG" n="0"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="rattle_on">
+    <roleset id="rattle_on.03" name="talk continuously">
+      <roles>
+        <role descr="talker, rattler" f="PAG" n="0"/>
+        <role descr="topic" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="rattle_off">
+    <roleset id="rattle_off.04" name="say/list things quickly">
+      <roles>
+        <role descr="talker, rattler" f="PAG" n="0"/>
+        <role descr="topic" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

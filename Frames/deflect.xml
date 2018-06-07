@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="deflect">
+    <roleset id="deflect.01" name="block, avoid, causing to change course so as to miss">
+      <roles>
+        <role descr="deflector" f="PAG" n="0"/>
+        <role descr="thing deflected" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

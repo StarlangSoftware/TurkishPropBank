@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="moonlight">
+    <roleset id="moonlight.01" name="hold a second job">
+      <roles>
+        <role descr="moonlighter" f="PAG" n="0"/>
+        <role descr="(second) job" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="lesson">
+    <roleset id="lesson.01" name="(try to) make learn">
+      <roles>
+        <role descr="teacher" f="pag" n="0"/>
+        <role descr="subject" f="ppt" n="1"/>
+        <role descr="student(s" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

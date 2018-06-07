@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="sublet">
+    <roleset id="sublet.01" name="to rent property one holds by lease to another">
+      <roles>
+        <role descr="original renter, agent" f="pag" n="0"/>
+        <role descr="property" f="ppt" n="1"/>
+        <role descr="new renter" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

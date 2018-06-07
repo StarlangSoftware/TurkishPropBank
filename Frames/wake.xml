@@ -1,0 +1,37 @@
+<frameset>
+  <predicate lemma="wake">
+    <roleset id="wake.01" name="(cause to) become awake">
+      <roles>
+        <role descr="alarm clock, cause of waking" f="pag" n="0"/>
+        <role descr="(former) sleeper" f="ppt" n="1"/>
+        <role descr="sleep (oft metaphorical)" f="dir" n="2"/>
+        <role descr="thing awoken to, outside reality" f="gol" n="3"/>
+      </roles>
+    </roleset>
+    <roleset id="wake.04" name="have a viewing for the dead">
+      <roles>
+        <role descr="mourners" f="pag" n="0"/>
+        <role descr="entity mourned, dead one" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="wake_up">
+    <roleset id="wake_up.02" name="(cause to) become awake, with particle">
+      <roles>
+        <role descr="alarm clock, eg" f="pag" n="0"/>
+        <role descr="sleeper" f="ppt" n="1"/>
+        <role descr="sleep (oft metaphorical)" f="dir" n="2"/>
+        <role descr="thing awoken to, outside reality" f="gol" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="awake">
+    <roleset id="awake.03" name="be awake">
+      <roles>
+        <role descr="(former) sleeper" f="ppt" n="1"/>
+        <role descr="sleep (oft metaphorical)" f="dir" n="2"/>
+        <role descr="thing awoken to, outside reality" f="gol" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

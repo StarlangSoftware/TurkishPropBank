@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="cagey">
+    <roleset id="cagey.01" name="shrewd and wary">
+      <roles>
+        <role descr="wary one" f="pag" n="0"/>
+        <role descr="wary of what" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,77 @@
+<frameset>
+  <predicate lemma="fill">
+    <roleset id="fill.01" name="to make or become full, containing, up to capacity">
+      <roles>
+        <role descr="agent, causer" f="pag" n="0"/>
+        <role descr="container" f="gol" n="1"/>
+        <role descr="substance" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="fill.06" name="fulfill, satisfy">
+      <roles>
+        <role descr="satisfier, (order) filler" f="pag" n="0"/>
+        <role descr="order, thing satisfied" f="ppt" n="1"/>
+        <role descr="secondary predication" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="fill_up">
+    <roleset id="fill_up.02" name="fill up: to make or become full">
+      <roles>
+        <role descr="agent, causer of fullness" f="pag" n="0"/>
+        <role descr="container" f="gol" n="1"/>
+        <role descr="substance" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="fill_out">
+    <roleset id="fill_out.03" name="fill out: to complete, fill in">
+      <roles>
+        <role descr="agent, poor schmuck with a pen" f="pag" n="0"/>
+        <role descr="forms to be filled out" f="gol" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="fill_out.04" name="fill out: bring to completion">
+      <roles>
+        <role descr="causer of completion" f="pag" n="0"/>
+        <role descr="thing becoming complete" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="fill_in">
+    <roleset id="fill_in.05" name="fill in, to complete">
+      <roles>
+        <role descr="agent, poor schmuck with a pen" f="pag" n="0"/>
+        <role descr="forms to be filled in" f="gol" n="1"/>
+        <role descr="information put in" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="fill_in.07" name="fill in: subsitute">
+      <roles>
+        <role descr="person, thing acting as something else" f="ppt" n="1"/>
+        <role descr="thing being substituted" f="gol" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="fill_in.08" name="provide with info/details">
+      <roles>
+        <role descr="info giver" f="pag" n="0"/>
+        <role descr="entity filled in" f="gol" n="1"/>
+        <role descr="subject matter" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="full">
+    <roleset id="full.09" name="complete, contain the maximum possible amount">
+      <roles>
+        <role descr="complete thing, container" f="pag" n="1"/>
+        <role descr="thing container, what you are full of" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="full.10" name="conceited">
+      <roles>
+        <role descr="conceited entity" f="pag" n="1"/>
+        <role descr="self-referential (of _self)" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

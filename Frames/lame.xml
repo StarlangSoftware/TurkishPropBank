@@ -1,0 +1,15 @@
+<frameset>
+  <predicate lemma="lame">
+    <roleset id="lame.01" name="uncool">
+      <roles>
+        <role descr="uncool entity (may require concatenation)" f="pag" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="lame.02" name="unable to walk">
+      <roles>
+        <role descr="causer of lameness" f="pag" n="0"/>
+        <role descr="entity who can't walk" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

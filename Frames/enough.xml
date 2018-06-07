@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="enough">
+    <roleset id="enough.01" name="sufficient, meeting a minimum requirement">
+      <roles>
+        <role descr="thing that is enough" f="pag" n="1"/>
+        <role descr="attribute of arg1 that arg1 is to a sufficient degree" f="adj" n="2"/>
+        <role descr="to satisfy what" f="ppt" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

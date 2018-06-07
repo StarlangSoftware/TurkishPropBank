@@ -1,0 +1,33 @@
+<frameset>
+  <predicate lemma="twang">
+    <roleset id="twang.01" name="pluck a stringed, twangy instrument">
+      <roles>
+        <role descr="musician" f="pag" n="0"/>
+        <role descr="guitar/string, etc." f="ppt" n="1"/>
+        <role descr="guitar pick, etc." f="mnr" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="twang.02" name="motion sound, directional">
+      <roles>
+        <role descr="causal agent (rare)" f="pag" n="0"/>
+        <role descr="thing producing the twanging noise" f="ppt" n="1"/>
+        <role descr="path" f="loc" n="2"/>
+        <role descr="destination" f="gol" n="3"/>
+      </roles>
+    </roleset>
+    <roleset id="twang.03" name="twitch or throb with pain">
+      <roles>
+        <role descr="agent, experiencer" f="ppt" n="0"/>
+        <role descr="body part twanging" f="ppt" n="1"/>
+        <role descr="cause of twanging" f="cau" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="twang.04" name="pronounce with a nasal twang">
+      <roles>
+        <role descr="speaker" f="pag" n="0"/>
+        <role descr="utterance or accent/language" f="ppt" n="1"/>
+        <role descr="hearer" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

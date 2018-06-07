@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="mutilate">
+    <roleset id="mutilate.01" name="to damage, disfigure">
+      <roles>
+        <role descr="agent" f="PAG" n="0"/>
+        <role descr="entity mutilated" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

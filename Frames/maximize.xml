@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="maximize">
+    <roleset id="maximize.01" name="make the most">
+      <roles>
+        <role descr="causer, agent" f="pag" n="0"/>
+        <role descr="thing which is being the most" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

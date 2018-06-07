@@ -1,0 +1,33 @@
+<frameset>
+  <predicate lemma="choke">
+    <roleset id="choke.01" name="to have or cause to have  difficulty in breathing">
+      <roles>
+        <role descr="causer of choking, agent" f="pag" n="0"/>
+        <role descr="entity choked" f="ppt" n="1"/>
+        <role descr="thing choked on" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="choke.02" name="to fill up completely, jam">
+      <roles>
+        <role descr="causer of filling, agent" f="pag" n="0"/>
+        <role descr="entity choked" f="gol" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="choke_off">
+    <roleset id="choke_off.03" name="to bring to an end">
+      <roles>
+        <role descr="causer of end, agent" f="pag" n="0"/>
+        <role descr="entity choked off" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="choke_up">
+    <roleset id="choke_up.04" name="overcome with emotion">
+      <roles>
+        <role descr="emotion" f="pag" n="0"/>
+        <role descr="experiencer" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

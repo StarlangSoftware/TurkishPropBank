@@ -1,0 +1,29 @@
+<frameset>
+  <predicate lemma="fork_over">
+    <roleset id="fork_over.01" name="to pay">
+      <roles>
+        <role descr="payer, agent" f="pag" n="0"/>
+        <role descr="thing paid for" f="ppt" n="1"/>
+        <role descr="person paid" f="rec" n="2"/>
+        <role descr="price" f="vsp" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="fork_out">
+    <roleset id="fork_out.02" name="to pay">
+      <roles>
+        <role descr="payer, agent" f="pag" n="0"/>
+        <role descr="thing paid for" f="ppt" n="1"/>
+        <role descr="person paid" f="gol" n="2"/>
+        <role descr="price" f="vsp" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="fork">
+    <roleset id="fork.03" name="branching, forking, dividing">
+      <roles>
+        <role descr="thing branching" f="pag" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

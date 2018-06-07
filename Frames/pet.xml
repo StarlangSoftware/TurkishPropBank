@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="pet">
+    <roleset id="pet.01" name="pet">
+      <roles>
+        <role descr="petter(s), agent" f="pag" n="0"/>
+        <role descr="thing(s) petted, patient" f="ppt" n="1"/>
+        <role descr="instrument of petting" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

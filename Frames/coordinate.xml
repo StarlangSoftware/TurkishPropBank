@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="coordinate">
+    <roleset id="coordinate.01" name="to organize">
+      <roles>
+        <role descr="organizer, agent" f="PAG" n="0"/>
+        <role descr="entity coordinated" f="PPT" n="1"/>
+        <role descr="entity coordinated with" f="com" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

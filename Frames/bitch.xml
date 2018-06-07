@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="bitch">
+    <roleset id="bitch.01" name="bitch and moan">
+      <roles>
+        <role descr="complainer" f="PAG" n="0"/>
+        <role descr="cause, complain of or about" f="PPT" n="1"/>
+        <role descr="hearer, complain to" f="GOL" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

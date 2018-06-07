@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="equivalent">
+    <roleset id="equivalent.01" name="equal">
+      <roles>
+        <role descr="focus, one side of equation or equal things in one mention" f="ppt" n="1"/>
+        <role descr="other side of equation when separate mention" f="ppt" n="2"/>
+        <role descr="attribute, quality in which args are equal" f="prd" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

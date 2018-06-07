@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="feature">
+    <roleset id="feature.01" name="bring into prominence">
+      <roles>
+        <role descr="cause of prominence" f="pag" n="0"/>
+        <role descr="thing featured" f="ppt" n="1"/>
+        <role descr="featured in" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

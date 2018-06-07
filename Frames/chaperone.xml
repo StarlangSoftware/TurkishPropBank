@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="chaperone">
+    <roleset id="chaperone.01" name="act as a chaperone">
+      <roles>
+        <role descr="entity acting as a chaperone" f="PAG" n="0"/>
+        <role descr="person chaperoned, the chaperoned-for" f="GOL" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

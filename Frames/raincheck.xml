@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="raincheck">
+    <roleset id="raincheck.01" name="postpone current plans">
+      <roles>
+        <role descr="entity postponing" f="pag" n="0"/>
+        <role descr="plans postoned" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

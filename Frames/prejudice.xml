@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="prejudice">
+    <roleset id="prejudice.01" name="cause to have a preformed opinion">
+      <roles>
+        <role descr="causer" f="pag" n="0"/>
+        <role descr="prejudiced entity" f="ppt" n="1"/>
+        <role descr="prejudiced against" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

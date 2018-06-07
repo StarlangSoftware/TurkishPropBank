@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="laud">
+    <roleset id="laud.01" name="to praise, glorify">
+      <roles>
+        <role descr="praiser, agent" f="PAG" n="0"/>
+        <role descr="entity praised" f="PPT" n="1"/>
+        <role descr="praised for what?" f="PRD" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

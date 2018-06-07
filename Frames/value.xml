@@ -1,0 +1,26 @@
+<frameset>
+  <predicate lemma="value">
+    <roleset id="value.01" name="evaluate for cost; assess">
+      <roles>
+        <role descr="entity establishing value" f="pag" n="0"/>
+        <role descr="commodity being valued" f="ppt" n="1"/>
+        <role descr="value" f="prd" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="value.02" name="hold dear">
+      <roles>
+        <role descr="entity holding arg1 dear" f="pag" n="0"/>
+        <role descr="entity held dear/valued by arg0" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="valuable">
+    <roleset id="valuable.03" name="able to be assigned a cost">
+      <roles>
+        <role descr="entity establishing value" f="pag" n="0"/>
+        <role descr="commodity being valued" f="ppt" n="1"/>
+        <role descr="value" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

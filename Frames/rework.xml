@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="rework">
+    <roleset id="rework.01" name="update, improve">
+      <roles>
+        <role descr="worker" f="PAG" n="0"/>
+        <role descr="thing improved" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

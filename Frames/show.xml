@@ -1,0 +1,35 @@
+<frameset>
+  <predicate lemma="show">
+    <roleset id="show.01" name="cause to see">
+      <roles>
+        <role descr="shower" f="cau" n="0"/>
+        <role descr="thing seen/shown" f="ppt" n="1"/>
+        <role descr="seer" f="gol" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="show.04" name="show/production">
+      <roles>
+        <role descr="Show creator" f="pag" n="0"/>
+        <role descr="Type of show, title, or message" f="ppt" n="1"/>
+        <role descr="Audience" f="gol" n="2"/>
+        <role descr="Source (TV/channel/venue to watch at)" f="dir" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="show_up">
+    <roleset id="show_up.02" name="appear">
+      <roles>
+        <role descr="thing appearing, showing up" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="show_off">
+    <roleset id="show_off.03" name="display something (often oneself) proudly">
+      <roles>
+        <role descr="displayer" f="pag" n="0"/>
+        <role descr="thing displayed" f="ppt" n="1"/>
+        <role descr="seer / witness" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

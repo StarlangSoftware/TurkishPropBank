@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="overcrowd">
+    <roleset id="overcrowd.01" name="crowd together too much">
+      <roles>
+        <role descr="causer of overcrowding" f="pag" n="0"/>
+        <role descr="container, space that is overcrowded" f="gol" n="1"/>
+        <role descr="substance, crowd, that is overcrowding arg1" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

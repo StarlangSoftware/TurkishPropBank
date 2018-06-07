@@ -1,0 +1,18 @@
+<frameset>
+  <predicate lemma="resorb">
+    <roleset id="resorb.01" name="dissolve/assimilate bone tissue, destruction of bone">
+      <roles>
+        <role descr="cause of bone loss (pathology or osteoclasts)" f="pag" n="0"/>
+        <role descr="entity undergoing resorption" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="resorb.02" name="absorb again">
+      <roles>
+        <role descr="resorber, cause or agent" f="pag" n="0"/>
+        <role descr="resorbed thing/substance" f="ppt" n="1"/>
+        <role descr="resorbed into what, destination" f="gol" n="2"/>
+        <role descr="resorbed from what, source" f="dir" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="strangulate">
+    <roleset id="strangulate.01" name="to constrict">
+      <roles>
+        <role descr="strangler" f="PAG" n="0"/>
+        <role descr="victim" f="PPT" n="1"/>
+        <role descr="instrument" f="MNR" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="homicide">
+    <roleset id="homicide.01" name="kill another">
+      <roles>
+        <role descr="killer" f="pag" n="0"/>
+        <role descr="victim" f="ppt" n="1"/>
+        <role descr="instrument" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

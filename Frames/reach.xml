@@ -1,0 +1,30 @@
+<frameset>
+  <predicate lemma="reach">
+    <roleset id="reach.01" name="arrive at an end state, outcome or destination, get to, attain">
+      <roles>
+        <role descr="thing striving" f="pag" n="0"/>
+        <role descr="goal, destination, end state, thing attained" f="gol" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="reach.02" name="get in contact with (often over the phone)">
+      <roles>
+        <role descr="reacher" f="pag" n="0"/>
+        <role descr="reached" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="reach.03" name="stretch, grasp, move (as if a limb) outwards toward a goal">
+      <roles>
+        <role descr="reacher" f="pag" n="0"/>
+        <role descr="body part" f="ppt" n="1"/>
+        <role descr="goal" f="gol" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="reach.04" name="span (static)">
+      <roles>
+        <role descr="thing spanning" f="ppt" n="1"/>
+        <role descr="one end of the span (from where)" f="dir" n="2"/>
+        <role descr="the other end of the span (to where)" f="gol" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

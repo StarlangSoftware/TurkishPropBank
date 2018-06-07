@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="nuptials">
+    <roleset id="nuptials.01" name="wedding ceremony">
+      <roles>
+        <role descr="officiant" f="pag" n="0"/>
+        <role descr="entity being married, or first marriage partner mention" f="ppt" n="1"/>
+        <role descr="married to; second marriage partner" f="com" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

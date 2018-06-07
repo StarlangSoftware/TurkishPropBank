@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="tar">
+    <roleset id="tar.01" name="apply tar to a surface">
+      <roles>
+        <role descr="applier, agent" f="PAG" n="0"/>
+        <role descr="surface" f="GOL" n="1"/>
+        <role descr="explicit mention of tar" f="PPT" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

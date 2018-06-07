@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="premise">
+    <roleset id="premise.01" name="except something as preexisting and given">
+      <roles>
+        <role descr="supposer" f="pag" n="0"/>
+        <role descr="thing assumed" f="ppt" n="1"/>
+        <role descr="based upon" f="dir" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

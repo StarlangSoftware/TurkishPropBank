@@ -1,0 +1,51 @@
+<frameset>
+  <predicate lemma="cover">
+    <roleset id="cover.01" name="has responsibility for, handles, insures, accounts for">
+      <roles>
+        <role descr="agent" f="pag" n="0"/>
+        <role descr="thing, entity covered" f="ppt" n="1"/>
+        <role descr="covered with, value" f="mnr" n="2"/>
+        <role descr="danger, insured against" f="vsp" n="3"/>
+      </roles>
+    </roleset>
+    <roleset id="cover.02" name="smear, put over, spreading across">
+      <roles>
+        <role descr="causer of covering" f="pag" n="0"/>
+        <role descr="thing covered" f="ppt" n="1"/>
+        <role descr="covered with" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="cover.03" name="broadcast">
+      <roles>
+        <role descr="news organization, media" f="pag" n="0"/>
+        <role descr="event, thing covered" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="cover_up">
+    <roleset id="cover_up.04" name="obscure">
+      <roles>
+        <role descr="coverer" f="pag" n="0"/>
+        <role descr="thing covered" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="cover_over">
+    <roleset id="cover_over.05" name="cover completely">
+      <roles>
+        <role descr="agent" f="pag" n="0"/>
+        <role descr="thing being covered" f="ppt" n="1"/>
+        <role descr="the cover itself" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="coverage">
+    <roleset id="coverage.06" name="physical coverage">
+      <roles>
+        <role descr="intentional agent" f="pag" n="0"/>
+        <role descr="thing covered" f="gol" n="1"/>
+        <role descr="covered with" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

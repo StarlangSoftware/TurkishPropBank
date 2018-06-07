@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="tousle">
+    <roleset id="tousle.01" name="tangle or treat roughly">
+      <roles>
+        <role descr="agent, tousler" f="pag" n="0"/>
+        <role descr="thing tousled" f="ppt" n="1"/>
+        <role descr="instrument" f="mnr" n="2"/>
+        <role descr="end point" f="prd" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

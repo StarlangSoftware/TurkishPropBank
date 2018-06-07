@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="reinform">
+    <roleset id="reinform.01" name="inform again">
+      <roles>
+        <role descr="informer" f="pag" n="0"/>
+        <role descr="informed" f="gol" n="1"/>
+        <role descr="information" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

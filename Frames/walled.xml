@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="walled">
+    <roleset id="walled.01" name="having walls">
+      <roles>
+        <role descr="entity with walls" f="loc" n="1"/>
+        <role descr="characteristic of the walls" f="adj" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

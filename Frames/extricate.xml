@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="extricate">
+    <roleset id="extricate.01" name="remove thyself">
+      <roles>
+        <role descr="agent of removing" f="pag" n="0"/>
+        <role descr="thing removed" f="ppt" n="1"/>
+        <role descr="from where" f="dir" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

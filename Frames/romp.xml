@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="romp">
+    <roleset id="romp.01" name="mode of motion">
+      <roles>
+        <role descr="entity in motion" f="PPT" n="0"/>
+        <role descr="path" f="LOC" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

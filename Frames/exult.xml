@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="exult">
+    <roleset id="exult.01" name="feel great joy">
+      <roles>
+        <role descr="entity feeling joy" f="PPT" n="0"/>
+        <role descr="joyful of what?" f="PAG" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

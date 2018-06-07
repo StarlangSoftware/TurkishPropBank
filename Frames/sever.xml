@@ -1,0 +1,18 @@
+<frameset>
+  <predicate lemma="sever">
+    <roleset id="sever.01" name="to divide or separate">
+      <roles>
+        <role descr="causer" f="PAG" n="0"/>
+        <role descr="entity severed" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="severable">
+    <roleset id="severable.02" name="able to be severed">
+      <roles>
+        <role descr="entity severed" f="ppt" n="1"/>
+        <role descr="from what" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

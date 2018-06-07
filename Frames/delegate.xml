@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="delegate">
+    <roleset id="delegate.01" name="delegate">
+      <roles>
+        <role descr="delegator" f="pag" n="0"/>
+        <role descr="thing given out (ie authority)" f="ppt" n="1"/>
+        <role descr="to whom" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

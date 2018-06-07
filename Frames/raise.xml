@@ -1,0 +1,38 @@
+<frameset>
+  <predicate lemma="raise">
+    <roleset id="raise.01" name="move upward, quantifiably or metaphorically, (cause of) upward movement/increase">
+      <roles>
+        
+        <role descr="Agent" f="pag" n="0"/>
+        <role descr="Logical subject, patient, thing rising" f="ppt" n="1"/>
+        <role descr="EXT, amount risen" f="ext" n="2"/>
+        <role descr="Start point" f="dir" n="3"/>
+        <role descr="End point" f="gol" n="4"/>
+        <role descr="beneficiary" f="gol" n="5"/>
+        <role descr="medium" f="loc" n="m"/>
+      </roles>
+    </roleset>
+    <roleset id="raise.02" name="raising funds">
+      <roles>
+        <role descr="getter of money" f="pag" n="0"/>
+        <role descr="money" f="ppt" n="1"/>
+        <role descr="giver of money" f="dir" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="raise.03" name="rear or nurture">
+      <roles>
+        <role descr="parent" f="pag" n="0"/>
+        <role descr="child" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="fundraise">
+    <roleset id="fundraise.04" name="raise funds">
+      <roles>
+        <role descr="raiser of funds" f="pag" n="0"/>
+        <role descr="amount raised" f="ppt" n="1"/>
+        <role descr="beneficiary" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

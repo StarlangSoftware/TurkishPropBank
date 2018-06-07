@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="nonlocal">
+    <roleset id="nonlocal.01" name="not belonging to a particular area">
+      <roles>
+        <role descr="nonlocal entity" f="ppt" n="1"/>
+        <role descr="nonlocal to where" f="loc" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

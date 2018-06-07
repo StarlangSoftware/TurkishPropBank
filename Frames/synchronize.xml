@@ -1,0 +1,20 @@
+<frameset>
+  <predicate lemma="synchronize">
+    <roleset id="synchronize.01" name="make coincide in time">
+      <roles>
+        <role descr="cause, agent" f="pag" n="0"/>
+        <role descr="first thing synchronized" f="ppt" n="1"/>
+        <role descr="second thing, if separate" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="synchronous">
+    <roleset id="synchronous.02" name="coincide in time">
+      <roles>
+        <role descr="cause, agent" f="pag" n="0"/>
+        <role descr="first thing synchronized" f="ppt" n="1"/>
+        <role descr="second thing, if separate" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

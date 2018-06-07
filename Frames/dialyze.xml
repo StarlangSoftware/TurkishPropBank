@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="dialyze">
+    <roleset id="dialyze.01" name="to subject to or undergo dialysis">
+      <roles>
+        <role descr="Performer of dialysis (doctor, technician, nurse)" f="pag" n="0"/>
+        <role descr="Undergoer of dialysis (patient)" f="ppt" n="1"/>
+        <role descr="Instrument; dialysis machine, if explicit" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

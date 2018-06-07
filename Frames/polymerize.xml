@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="polymerize">
+    <roleset id="polymerize.01" name="to change into another substance with the   same atomic proportions, but a different molecular weight">
+      <roles>
+        <role descr="Causer of polymerization, agent" f="pag" n="0"/>
+        <role descr="substance undergoing polymerization" f="ppt" n="1"/>
+        <role descr="Instrument or manner if separate from arg 0" f="mnr" n="2"/>
+        <role descr="Resulting substance" f="prd" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

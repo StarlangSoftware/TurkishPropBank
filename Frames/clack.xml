@@ -1,0 +1,26 @@
+<frameset>
+  <predicate lemma="clack">
+    <roleset id="clack.01" name="make a rattling sound">
+      <roles>
+        <role descr="causal agent" f="pag" n="0"/>
+        <role descr="thing actually clacking" f="ppt" n="1"/>
+        <role descr="location of clacking" f="loc" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="clack.02" name="make a clacking sound (like a hen)">
+      <roles>
+        <role descr="clacking-maker" f="pag" n="0"/>
+        <role descr="the clack sound" f="ppt" n="1"/>
+        <role descr="hearer" f="gol" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="clack.03" name="prattle on rapidly and incessantly">
+      <roles>
+        <role descr="speaker" f="pag" n="0"/>
+        <role descr="his/her tongue" f="ppt" n="1"/>
+        <role descr="topic/ utterance" f="ppt" n="2"/>
+        <role descr="hearer" f="gol" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

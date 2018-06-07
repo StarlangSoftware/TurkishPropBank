@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="henna">
+    <roleset id="henna.01" name="draw with henna">
+      <roles>
+        <role descr="agent" f="PAG" n="0"/>
+        <role descr="location of henna drawing" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

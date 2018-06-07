@@ -1,0 +1,13 @@
+<frameset>
+  <predicate lemma="reassume">
+    <roleset id="reassume.01" name="acquire again">
+      <roles>
+        <role descr="entity acquiring something" f="pag" n="0"/>
+        <role descr="thing acquired" f="ppt" n="1"/>
+        <role descr="acquired-from" f="dir" n="2"/>
+        <role descr="price paid" f="vsp" n="3"/>
+        <role descr="beneficiary, acquired-for" f="gol" n="4"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

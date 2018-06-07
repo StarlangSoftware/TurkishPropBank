@@ -1,0 +1,17 @@
+<frameset>
+  <predicate lemma="lour">
+    <roleset id="lour.01" name="glower">
+      <roles>
+        <role descr="Glowerer" f="PAG" n="0"/>
+        <role descr="recipient of look" f="GOL" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="lour.02" name="lower">
+      <roles>
+        <role descr="One doing the lowering" f="PAG" n="0"/>
+        <role descr="thing lessened" f="ppt" n="1"/>
+        <role descr="lowered to" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

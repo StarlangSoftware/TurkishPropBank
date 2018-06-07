@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="chunk">
+    <roleset id="chunk.01" name="put together in a chunk">
+      <roles>
+        <role descr="agent chunking" f="PAG" n="0"/>
+        <role descr="entity put into chunk" f="PPT" n="1"/>
+        <role descr="chunk itself, group arg1 is chunked into" f="GOL" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

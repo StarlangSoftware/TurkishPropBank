@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="nonindurated">
+    <roleset id="nonindurated.01" name="not having hardened">
+      <roles>
+        <role descr="causer of hardening" f="pag" n="0"/>
+        <role descr="entity not hardened" f="ppt" n="1"/>
+        <role descr="instrument" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

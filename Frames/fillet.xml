@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="fillet">
+    <roleset id="fillet.01" name="cut into fillets">
+      <roles>
+        <role descr="Agent/cause of cutting" f="pag" n="0"/>
+        <role descr="entity becoming cut" f="ppt" n="1"/>
+        <role descr="Instrument used" f="mnr" n="2"/>
+        <role descr="resulting state of arg1, often prepositional" f="prd" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,20 @@
+<frameset>
+  <predicate lemma="way">
+    <roleset id="way.01" name="progress; make one's way; route">
+      <roles>
+        <role descr="entity making progress" f="pag" n="0"/>
+        <role descr="path, goal" f="dir" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="way.02" name="manner, course of action">
+      <roles>
+        <role descr="entity having a manner of doing" f="pag" n="0"/>
+        <role descr="doing what" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="way.03" name="discourse function: by the way">
+      <roles>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

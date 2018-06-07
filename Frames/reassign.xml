@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="reassign">
+    <roleset id="reassign.01" name="give, associate with again">
+      <roles>
+        <role descr="agent, assigner" f="PAG" n="0"/>
+        <role descr="thing assigned" f="PPT" n="1"/>
+        <role descr="assigned to" f="GOL" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

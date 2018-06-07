@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="infer">
+    <roleset id="infer.01" name="deduce, come to believe">
+      <roles>
+        <role descr="agent, entity now believing something" f="PAG" n="0"/>
+        <role descr="belief" f="PPT" n="1"/>
+        <role descr="source of belief" f="DIR" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

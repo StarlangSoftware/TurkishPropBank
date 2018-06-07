@@ -1,0 +1,25 @@
+<frameset>
+  <predicate lemma="pen">
+    <roleset id="pen.01" name="write (with a pen)">
+      <roles>
+        <role descr="writer" f="pag" n="0"/>
+        <role descr="thing written" f="ppt" n="1"/>
+        <role descr="written-to" f="gol" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="pen.02" name="put into a pen, enclose">
+      <roles>
+        <role descr="penner" f="pag" n="0"/>
+        <role descr="penned" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="pen_up">
+    <roleset id="pen_up.03" name="keep repressed, in a real/metaphorical pen">
+      <roles>
+        <role descr="person/agent causing something to be penned up" f="pag" n="0"/>
+        <role descr="thing being penned up" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,16 @@
+<frameset>
+  <predicate lemma="scuttle">
+    <roleset id="scuttle.01" name="sink, as a ship">
+      <roles>
+        <role descr="sinker" f="pag" n="0"/>
+        <role descr="thing sinking" f="ppt" n="1"/>
+        <role descr="instrument" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="scuttle.02" name="run like a spider or crab">
+      <roles>
+        <role descr="scuttler" f="ppt" n="0"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

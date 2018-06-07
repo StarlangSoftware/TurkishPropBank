@@ -1,0 +1,17 @@
+<frameset>
+  <predicate lemma="trough">
+    <roleset id="trough.01" name="eat in a vulgar manner">
+      <roles>
+        <role descr="eater" f="pag" n="0"/>
+        <role descr="thing eaten" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="trough_out">
+    <roleset id="trough_out.02" name="reach the bottom">
+      <roles>
+        <role descr="thing reaching the bottom" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

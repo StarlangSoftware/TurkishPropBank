@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="redeploy">
+    <roleset id="redeploy.01" name="set into place, again">
+      <roles>
+        <role descr="deployer" f="pag" n="0"/>
+        <role descr="deployed" f="ppt" n="1"/>
+        <role descr="secondary predication" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="twin">
+    <roleset id="twin.01" name="match exactly, like an identical twin">
+      <roles>
+        <role descr="person performing match" f="PAG" n="0"/>
+        <role descr="first thing matched" f="ppt" n="1"/>
+        <role descr="second thing, matched with what" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

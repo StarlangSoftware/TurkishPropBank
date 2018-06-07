@@ -1,0 +1,25 @@
+<frameset>
+  <predicate lemma="calm">
+    <roleset id="calm.01" name="make calm">
+      <roles>
+        <role descr="agent of calming" f="pag" n="0"/>
+        <role descr="entity becoming calm" f="ppt" n="1"/>
+        <role descr="instrument of calming" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="calm.03" name="still, relaxed">
+      <roles>
+        <role descr="calm entity" f="pag" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="calm_down">
+    <roleset id="calm_down.02" name="make calm, with particle">
+      <roles>
+        <role descr="agent of calming" f="pag" n="0"/>
+        <role descr="entity becoming calm" f="ppt" n="1"/>
+        <role descr="instrument of calming" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

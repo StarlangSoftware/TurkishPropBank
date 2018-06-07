@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="irresponsible">
+    <roleset id="irresponsible.01" name="characterized as not worthy of or inspiring trust">
+      <roles>
+        <role descr="entity/act characterized as not worthy or inspiring of trust (concatenation may be required)" f="pag" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

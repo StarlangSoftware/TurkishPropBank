@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="impale">
+    <roleset id="impale.01" name="pierce, spike">
+      <roles>
+        <role descr="agent" f="PAG" n="0"/>
+        <role descr="thing impaled" f="PPT" n="1"/>
+        <role descr="skewer" f="MNR" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

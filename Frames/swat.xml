@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="swat">
+    <roleset id="swat.01" name="swat">
+      <roles>
+        <role descr="swatter, agent" f="pag" n="0"/>
+        <role descr="entity swatted, patient" f="ppt" n="1"/>
+        <role descr="instrument, swatted with" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="mucinous">
+    <roleset id="mucinous.01" name="full of mucin">
+      <roles>
+        <role descr="thing that is full of mucin" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

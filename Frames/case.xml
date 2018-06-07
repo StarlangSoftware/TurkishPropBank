@@ -1,0 +1,30 @@
+<frameset>
+  <predicate lemma="case">
+    <roleset id="case.01" name="to put or enclose in a case">
+      <roles>
+        <role descr="packer" f="pag" n="0"/>
+        <role descr="thing packed" f="ppt" n="1"/>
+        <role descr="case, location" f="gol" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="case.02" name="case the joint, observe covertly">
+      <roles>
+        <role descr="Thief or spy" f="pag" n="0"/>
+        <role descr="Place being observed" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="case.03" name="a formal argument/petition/big deal">
+      <roles>
+        <role descr="authority making a case" f="pag" n="0"/>
+        <role descr="the argument" f="ppt" n="1"/>
+        <role descr="against whom" f="gol" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="case.04" name="instance">
+      <roles>
+        <role descr="instance of, thing happenening or occuring, example" f="ppt" n="1"/>
+        <role descr="category" f="vsp" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="freelance">
+    <roleset id="freelance.01" name="work independently on temporary contracts, working independently">
+      <roles>
+        <role descr="freelancer, worker" f="PAG" n="0"/>
+        <role descr="job or service sold" f="ppt" n="1"/>
+        <role descr="worked for or with" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="endow">
+    <roleset id="endow.01" name="give (often generously), act of giving">
+      <roles>
+        <role descr="giver" f="PAG" n="0"/>
+        <role descr="gift" f="PPT" n="1"/>
+        <role descr="given-to" f="GOL" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

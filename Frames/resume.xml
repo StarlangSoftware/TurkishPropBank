@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="resume">
+    <roleset id="resume.01" name="begin again">
+      <roles>
+        <role descr="Agent" f="pag" n="0"/>
+        <role descr="Theme(-Creation)" f="ppt" n="1"/>
+        <role descr="Instrument" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

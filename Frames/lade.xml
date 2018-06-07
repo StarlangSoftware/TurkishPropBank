@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="lade">
+    <roleset id="lade.01" name="cause to be burdened">
+      <roles>
+        <role descr="loader, agent" f="pag" n="0"/>
+        <role descr="beast of burden, laden entity" f="gol" n="1"/>
+        <role descr="cargo, laden with what?" f="ppt" n="2"/>
+        <role descr="instrument" f="mnr" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

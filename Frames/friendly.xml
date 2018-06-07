@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="friendly">
+    <roleset id="friendly.01" name="friendly">
+      <roles>
+        <role descr="friendly entity" f="ppt" n="1"/>
+        <role descr="target of friendship" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

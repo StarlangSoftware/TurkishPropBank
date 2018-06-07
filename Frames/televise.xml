@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="televise">
+    <roleset id="televise.01" name="put on television">
+      <roles>
+        <role descr="who put it on tv, agent" f="PAG" n="0"/>
+        <role descr="event on television" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

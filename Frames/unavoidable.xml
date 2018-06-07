@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="unavoidable">
+    <roleset id="unavoidable.01" name="unable to be avoided">
+      <roles>
+        <role descr="would-be avoider" f="pag" n="0"/>
+        <role descr="thing not avoided" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="purpose">
+    <roleset id="purpose.01" name="purpose">
+      <roles>
+        <role descr="agent, speaker, purposer" f="pag" n="0"/>
+        <role descr="utterance, quotation, topic" f="ppt" n="1"/>
+        <role descr="addressee(s), recipient" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

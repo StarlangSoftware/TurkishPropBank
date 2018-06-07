@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="disturb">
+    <roleset id="disturb.01" name="bother">
+      <roles>
+        <role descr="disturber" f="pag" n="0"/>
+        <role descr="disturbed" f="ppt" n="1"/>
+        <role descr="instrument, if separate from arg0" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

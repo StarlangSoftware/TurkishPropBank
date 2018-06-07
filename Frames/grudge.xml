@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="grudge">
+    <roleset id="grudge.01" name="submit to unwillingly">
+      <roles>
+        <role descr="grudger" f="ppt" n="0"/>
+        <role descr="thing grudged" f="pag" n="1"/>
+        <role descr="secondary attribute of thing grudged" f="prd" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

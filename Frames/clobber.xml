@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="clobber">
+    <roleset id="clobber.01" name="hit repeatedly">
+      <roles>
+        <role descr="agent, hitter - animate only!" f="PAG" n="0"/>
+        <role descr="thing hit" f="PPT" n="1"/>
+        <role descr="instrument, thing hit by or with" f="MNR" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

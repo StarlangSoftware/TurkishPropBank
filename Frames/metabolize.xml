@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="metabolize">
+    <roleset id="metabolize.01" name="cause a change in something">
+      <roles>
+        <role descr="causer of change" f="pag" n="0"/>
+        <role descr="thing changing" f="ppt" n="1"/>
+        <role descr="source, original substance" f="dir" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

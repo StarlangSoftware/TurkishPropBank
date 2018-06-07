@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="vertical">
+    <roleset id="vertical.01" name="straight up and down">
+      <roles>
+        <role descr="straight up and down entity" f="pag" n="1"/>
+        <role descr="in comparison to; frame of reference" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

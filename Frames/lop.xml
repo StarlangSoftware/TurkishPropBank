@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="lop">
+    <roleset id="lop.01" name="to cut off">
+      <roles>
+        <role descr="cutter, agent" f="PAG" n="0"/>
+        <role descr="entity lopped" f="PPT" n="1"/>
+        <role descr="entity lopped off/from" f="DIR" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

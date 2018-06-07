@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="glove">
+    <roleset id="glove.01" name="to cover with or as if with a glove">
+      <roles>
+        <role descr="agentive glover" f="pag" n="0"/>
+        <role descr="thing gloved" f="ppt" n="1"/>
+        <role descr="instrument" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="lord">
+    <roleset id="lord.01" name="act like a lord">
+      <roles>
+        <role descr="lord" f="pag" n="0"/>
+        <role descr="lordship, power" f="ppt" n="1"/>
+        <role descr="dominion" f="ext" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

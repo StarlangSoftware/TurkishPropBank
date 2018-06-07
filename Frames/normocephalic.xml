@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="normocephalic">
+    <roleset id="normocephalic.01" name="having a normal head">
+      <roles>
+        <role descr="entity with a normal head" f="pag" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

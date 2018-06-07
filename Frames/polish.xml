@@ -1,0 +1,30 @@
+<frameset>
+  <predicate lemma="polish">
+    <roleset id="polish.01" name="make shiny">
+      <roles>
+        <role descr="polisher" f="pag" n="0"/>
+        <role descr="thing getting shiny" f="ppt" n="1"/>
+        <role descr="instrument" f="mnr" n="2"/>
+        <role descr="end state, attribute" f="prd" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="polish_off">
+    <roleset id="polish_off.02" name="finish">
+      <roles>
+        <role descr="finisher, agent" f="pag" n="0"/>
+        <role descr="thing finished" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="polish_up">
+    <roleset id="polish_up.03" name="polish completely">
+      <roles>
+        <role descr="polisher" f="pag" n="0"/>
+        <role descr="thing being polished" f="ppt" n="1"/>
+        <role descr="instrument" f="mnr" n="2"/>
+        <role descr="end state" f="prd" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

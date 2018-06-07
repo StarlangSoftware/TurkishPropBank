@@ -1,0 +1,19 @@
+<frameset>
+  <predicate lemma="conjugate">
+    <roleset id="conjugate.01" name="to add inflections, recite conjugations">
+      <roles>
+        <role descr="Language student, conjugator" f="pag" n="0"/>
+        <role descr="verb, word inflected" f="ppt" n="1"/>
+        <role descr="inflection, arg1 is conjugated into the...?" f="prd" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="conjugate.02" name="biology: join together two compounds">
+      <roles>
+        <role descr="intentional agent of conjugation (e.g. scientist)" f="pag" n="0" />
+        <role descr="first compound" f="ppt" n="1" />
+        <role descr="second compound" f="ppt" n="2" />
+        <role descr="resulting conjugate" f="prd" n="3" />
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

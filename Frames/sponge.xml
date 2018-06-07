@@ -1,0 +1,19 @@
+<frameset>
+  <predicate lemma="sponge">
+    <roleset id="sponge.01" name="to gather sponges (the sea creature)">
+      <roles>
+        <role descr="agent or causer" f="pag" n="0"/>
+        <role descr="entity gathered" f="ppt" n="1"/>
+        <role descr="gathered into" f="loc" n="2"/>
+        <role descr="beneficiary" f="gol" n="3"/>
+      </roles>
+    </roleset>
+    <roleset id="sponge.02" name="act like a sponge, leach off some entity">
+      <roles>
+        <role descr="entity acting like a sponge/leach" f="pag" n="0"/>
+        <role descr="thing gained, (&quot;absorbed&quot;)" f="ppt" n="1"/>
+        <role descr="source, entity taken advantage of" f="dir" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

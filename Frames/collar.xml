@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="collar">
+    <roleset id="collar.01" name="apprehend, perhaps grabbing by the collar">
+      <roles>
+        <role descr="entity doing the apprehending" f="pag" n="0"/>
+        <role descr="person nabbed" f="ppt" n="1"/>
+        <role descr="accusations, crimes, for what" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

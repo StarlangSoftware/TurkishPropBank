@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="amnesty">
+    <roleset id="amnesty.01" name="official pardoning">
+      <roles>
+        <role descr="forgiver, granter of pardon" f="PAG" n="0"/>
+        <role descr="pardoned entity" f="PPT" n="1"/>
+        <role descr="forgiven acts" f="vsp" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

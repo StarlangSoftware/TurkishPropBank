@@ -1,0 +1,18 @@
+<frameset>
+  <predicate lemma="soar">
+    <roleset id="soar.01" name="go up very rapidly">
+      <roles>
+        <role descr="Logical subject, patient, thing rising" f="PPT" n="1"/>
+        <role descr="EXT, amount risen" f="EXT" n="2"/>
+        <role descr="start point" f="dir" n="3"/>
+        <role descr="end point" f="gol" n="4"/>
+        <role descr="medium" f="PRD" n="5"/>
+      </roles>
+    </roleset>
+    <roleset id="soar.02" name="fly">
+      <roles>
+        <role descr="thing flying" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="thrive">
+    <roleset id="thrive.01" name="to grow, make steady progress">
+      <roles>
+        <role descr="entity thriving" f="pag" n="1"/>
+        <role descr="source, thrive on" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

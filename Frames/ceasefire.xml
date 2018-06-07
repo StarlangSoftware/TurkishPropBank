@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="ceasefire">
+    <roleset id="ceasefire.01" name="stop firing">
+      <roles>
+        <role descr="implementer of cease-fire" f="PAG" n="0"/>
+        <role descr="cease-fire with or between who?" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

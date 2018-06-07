@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="shortcircuit">
+    <roleset id="shortcircuit.01" name="cut-off or aviod standard procedure">
+      <roles>
+        <role descr="agent or cause" f="pag" n="0"/>
+        <role descr="thing shortciruited" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

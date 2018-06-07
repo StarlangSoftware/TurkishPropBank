@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="nonlearned">
+    <roleset id="nonlearned.01" name="not learned (including not consciously learned or innate behaviors and not yet learned skills)">
+      <roles>
+        <role descr="student" f="pag" n="0"/>
+        <role descr="subject" f="ppt" n="1"/>
+        <role descr="teacher" f="dir" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

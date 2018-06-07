@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="balk">
+    <roleset id="balk.01" name="flinch, be hesitant">
+      <roles>
+        <role descr="balker" f="PPT" n="0"/>
+        <role descr="balk at, cause of hesitation" f="PAG" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

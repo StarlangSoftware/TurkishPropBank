@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="state">
+    <roleset id="state.01" name="state, say, state or say">
+      <roles>
+        <role descr="announcer" f="pag" n="0"/>
+        <role descr="utterance" f="ppt" n="1"/>
+        <role descr="hearer" f="gol" n="2"/>
+        <role descr="attributive" f="prd" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

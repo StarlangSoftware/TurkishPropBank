@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="gymnastics">
+    <roleset id="gymnastics.01" name="perform athletic, acrobatic endeavors">
+      <roles>
+        <role descr="agent, person doing gymnastic exercises" f="pag" n="0"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

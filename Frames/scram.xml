@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="scram">
+    <roleset id="scram.01" name="scram">
+      <roles>
+        <role descr="entity scramming" f="ppt" n="1"/>
+        <role descr="start point" f="dir" n="2"/>
+        <role descr="end point" f="gol" n="3"/>
+        <role descr="path" f="dir" n="4"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

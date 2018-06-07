@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="nc">
+    <roleset id="nc.01" name="normocephalic:">
+      <roles>
+        <role descr="entity with a normally shaped head" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

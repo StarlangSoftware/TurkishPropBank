@@ -1,0 +1,20 @@
+<frameset>
+  <predicate lemma="deny">
+    <roleset id="deny.01" name="turn down, reject">
+      <roles>
+        <role descr="denier" f="pag" n="0"/>
+        <role descr="thing denied" f="ppt" n="1"/>
+        <role descr="anti-benefactive: entity being denied arg1" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="deniable">
+    <roleset id="deniable.02" name="able to be denied">
+      <roles>
+        <role descr="denier" f="pag" n="0"/>
+        <role descr="thing denied" f="ppt" n="1"/>
+        <role descr="hearer" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

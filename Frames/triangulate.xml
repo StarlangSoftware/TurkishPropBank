@@ -1,0 +1,19 @@
+<frameset>
+  <predicate lemma="triangulate">
+    <roleset id="triangulate.01" name="pinpoint a location using known points and/or distances">
+      <roles>
+        <role descr="triangulator" f="pag" n="0"/>
+        <role descr="location searched for" f="ppt" n="1"/>
+        <role descr="based on, known info" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="triangulate.02" name="surveying technique: dividing a region into equilateral triangles">
+      <roles>
+        <role descr="triangulator" f="pag" n="0"/>
+        <role descr="region divided into triangles" f="ppt" n="1"/>
+        <role descr="triangle side length measurement" f="vsp" n="2"/>
+        <role descr="number of nodes" f="vsp" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

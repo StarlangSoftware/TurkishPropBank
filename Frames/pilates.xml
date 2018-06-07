@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="pilates">
+    <roleset id="pilates.01" name="do pilates exercises">
+      <roles>
+        <role descr="exerciser" f="pag" n="0"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

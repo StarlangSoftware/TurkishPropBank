@@ -1,0 +1,55 @@
+<frameset>
+  <predicate lemma="blast">
+    <roleset id="blast.01" name="make a loud noise">
+      <roles>
+        <role descr="causer, agent" f="pag" n="0"/>
+        <role descr="source of loud noise, noise itself" f="ppt" n="1"/>
+      </roles>
+    
+    </roleset>
+    <roleset id="blast.02" name="assign blame harshly">
+      <roles>
+        <role descr="blamer" f="pag" n="0"/>
+        <role descr="blamed" f="ppt" n="1"/>
+        <role descr="blamed for" f="cau" n="2"/>
+      </roles>
+    
+    </roleset>
+    <roleset id="blast.04" name="mode of motion">
+      <roles>
+        <role descr="entity in motion" f="ppt" n="0"/>
+      </roles>
+    </roleset>
+    <roleset id="blast.05" name="attack, usually with explosives, explosion (focus on physics/motion, not sound)">
+      <roles>
+        <role descr="agent" f="pag" n="0"/>
+        <role descr="explosive thing, fire" f="ppt" n="1"/>
+        <role descr="target of explosion" f="loc" n="2"/>
+        <role descr="the resulting hole" f="loc" n="3"/>
+      
+      </roles>
+    
+    </roleset>
+    <roleset id="blast.07" name="Have a good time">
+      <roles>
+        <role descr="stimulous, cause of fun time" f="pag" n="0"/>
+        <role descr="experiencer" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="blast_away">
+    <roleset id="blast_away.03" name="fire a gun haphazardly">
+      <roles>
+        <role descr="shooter" f="pag" n="0"/>
+        <role descr="target" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="blast_off">
+    <roleset id="blast_off.06" name="take off">
+      <roles>
+        <role descr="thing taking off" f="ppt" n="0"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

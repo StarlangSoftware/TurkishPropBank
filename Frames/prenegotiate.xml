@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="prenegotiate">
+    <roleset id="prenegotiate.01" name="negotiate before something else">
+      <roles>
+        <role descr="negotiator" f="pag" n="0"/>
+        <role descr="other party arg 0 is negotiating with when separate mention" f="ppt" n="1"/>
+        <role descr="deal negotiated" f="prp" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

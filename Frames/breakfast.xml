@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="breakfast">
+    <roleset id="breakfast.01" name="eat breakfast">
+      <roles>
+        <role descr="eater" f="pag" n="0"/>
+        <role descr="food" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

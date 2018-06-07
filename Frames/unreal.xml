@@ -1,0 +1,9 @@
+<frameset>
+  <predicate lemma="unreal">
+    <roleset id="unreal.01" name="not actual">
+      <roles>
+        <role descr="unactual thing" f="pag" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

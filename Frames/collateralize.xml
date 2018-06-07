@@ -1,0 +1,19 @@
+<frameset>
+  <predicate lemma="collateralize">
+    <roleset id="collateralize.01" name="growing of a blood vessel that serves the same end as another vessel that cannot adequately supply that organ">
+      <roles>
+        <role descr="Intentional agent or cause" f="pag" n="0"/>
+        <role descr="Blood vessel growing" f="ppt" n="1"/>
+        <role descr="Organ now adequately supplied" f="gol" n="2"/>
+        <role descr="Inadequate vessel Arg1 is compensating for" f="prp" n="3"/>
+      </roles>
+    </roleset>
+    <roleset id="collateralize.02" name="secure a loan with collateral">
+      <roles>
+        <role descr="agent doing/causing collateralizing" f="pag" n="0"/>
+        <role descr="loan collateralized" f="ppt" n="1"/>
+        <role descr="collateral itself, collateralized with what?" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

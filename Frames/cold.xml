@@ -1,0 +1,22 @@
+<frameset>
+  <predicate lemma="cold">
+    <roleset id="cold.01" name="relatively low temperature">
+      <roles>
+        <role descr="thing with few degrees (temperature-wise)" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="cold.02" name="unfriendly, unenthusiastic, emotionless, frigid">
+      <roles>
+        <role descr="agent of cold behavior" f="pag" n="0"/>
+        <role descr="cold behavior/actions" f="ppt" n="1"/>
+        <role descr="target of cold behavior" f="gol" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="cold.03" name="trail having lost freshness over time">
+      <roles>
+        <role descr="perceiver, bloodhound, search party" f="pag" n="0"/>
+        <role descr="trail" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

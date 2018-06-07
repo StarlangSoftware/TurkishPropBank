@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="bedevil">
+    <roleset id="bedevil.01" name="bother, plague">
+      <roles>
+        <role descr="botherer, devil, agent" f="pag" n="0"/>
+        <role descr="bothered" f="ppt" n="1"/>
+        <role descr="bothered by, plagued with" f="mnr" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

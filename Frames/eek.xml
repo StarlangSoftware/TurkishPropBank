@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="eek">
+    <roleset id="eek.01" name="move with struggle but ultimately success">
+      <roles>
+        <role descr="entity in motion" f="pag" n="0"/>
+        <role descr="destination" f="ppt" n="1"/>
+        <role descr="source, point of departure" f="dir" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

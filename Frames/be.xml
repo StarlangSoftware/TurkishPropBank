@@ -1,0 +1,36 @@
+<frameset>
+  <predicate lemma="be">
+    <roleset id="be.01" name="copula">
+      <roles>
+        <role descr="topic" f="ppt" n="1"/>
+        <role descr="comment" f="prd" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="be.02" name="existential, existing">
+      <roles>
+        <role descr="thing that is" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="be.03" name="auxiliary">
+      <roles>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="be_like">
+    <roleset id="be_like.04" name="be_like: multiword expression akin to &quot;say&quot;">
+      <roles>
+        <role descr="speaker" f="pag" n="0"/>
+        <role descr="utterance" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="be_all">
+    <roleset id="be_all.05" name="say">
+      <roles>
+        <role descr="speaker" f="pag" n="0"/>
+        <role descr="utterance" f="ppt" n="1"/>
+        <role descr="attributive, comment on utterance, topic of utterance" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

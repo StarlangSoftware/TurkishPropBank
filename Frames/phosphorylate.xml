@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="phosphorylate">
+    <roleset id="phosphorylate.01" name="introduce a phosphate group into an organic compound">
+      <roles>
+        <role descr="intentional agent of phosphorylation (e.g. person)" f="pag" n="0"></role>
+        <role descr="thing phosphorylated (e.g. protein or another organic molecule)" f="ppt" n="1"></role>
+        <role descr="instrument (e.g. enzyme)" f="mnr" n="2"></role>
+        <role descr="product of phosphorylation (e.g. protein or another organic molecule)" f="prd" n="3"></role>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

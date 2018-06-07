@@ -1,0 +1,18 @@
+<frameset>
+  <predicate lemma="refill">
+    <roleset id="refill.01" name="fill again">
+      <roles>
+        <role descr="agent, causer" f="pag" n="0"/>
+        <role descr="container" f="gol" n="1"/>
+        <role descr="substance" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="refill.02" name="fulfill or satisfy again">
+      <roles>
+        <role descr="Satisfier, Order-filler" f="pag" n="0"/>
+        <role descr="Order, thing satisfied" f="ppt" n="1"/>
+        <role descr="Secondary predication" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="layover">
+    <roleset id="layover.01" name="a stop in the course of a trip">
+      <roles>
+        <role descr="waiting entitiy" f="ppt" n="0"/>
+        <role descr="length of stop" f="ext" n="1"/>
+        <role descr="area or location of wait" f="loc" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

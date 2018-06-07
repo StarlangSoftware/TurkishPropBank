@@ -1,0 +1,16 @@
+<frameset>
+  <predicate lemma="hopeless">
+    <roleset id="hopeless.01" name="not feeling hope">
+      <roles>
+        <role descr="entity not feeling hope" f="ppt" n="1"/>
+        <role descr="activity, issue that arg0 has no hope for" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="hopeless.02" name="not at all skilled at">
+      <roles>
+        <role descr="non-skilled entity" f="pag" n="1"/>
+        <role descr="non-skill" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

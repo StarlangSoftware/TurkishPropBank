@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="snare">
+    <roleset id="snare.01" name="catch in a snare">
+      <roles>
+        <role descr="catcher, agent" f="PAG" n="0"/>
+        <role descr="captured entity" f="PPT" n="1"/>
+        <role descr="explicit mention of snare (usually when metaphorical)" f="GOL" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

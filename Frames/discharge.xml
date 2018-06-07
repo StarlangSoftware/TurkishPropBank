@@ -1,0 +1,17 @@
+<frameset>
+  <predicate lemma="discharge">
+    <roleset id="discharge.01" name="remove supply, as with electricity">
+      <roles>
+        <role descr="supplier" f="pag" n="0"/>
+        <role descr="supply" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="discharge.101" name="to release, release from a location (not stuff being released itself)">
+      <roles>
+        <role descr="releaser" f="pag" n="0"/>
+        <role descr="patient" f="ppt" n="1"/>
+        <role descr="place released from (often implied)" f="dir" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

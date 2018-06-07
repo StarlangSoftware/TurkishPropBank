@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="deregulate">
+    <roleset id="deregulate.01" name="supervise, watch over, removing/relaxing regulation">
+      <roles>
+        <role descr="deregulator" f="pag" n="0"/>
+        <role descr="thing deregulated" f="ppt" n="1"/>
+        <role descr="start state" f="dir" n="2"/>
+        <role descr="end state" f="prd" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

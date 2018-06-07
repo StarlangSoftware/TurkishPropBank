@@ -1,0 +1,25 @@
+<frameset>
+  <predicate lemma="abandon">
+    <roleset id="abandon.01" name="leave behind">
+      <roles>
+        <role descr="abandoner" f="ppt" n="0"/>
+        <role descr="thing abandoned, left behind" f="dir" n="1"/>
+        <role descr="attribute of arg1" f="prd" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="abandon.02" name="exchange">
+      <roles>
+        <role descr="abandoner" f="pag" n="0"/>
+        <role descr="thing abandoned, left behind" f="ppt" n="1"/>
+        <role descr="preferred item" f="gol" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="abandon.03" name="surrender, give_over">
+      <roles>
+        <role descr="entity abandoning something" f="pag" n="0"/>
+        <role descr="thing abandoned" f="ppt" n="1"/>
+        <role descr="benefactive, abandoned-to" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

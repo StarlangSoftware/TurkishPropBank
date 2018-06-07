@@ -1,0 +1,20 @@
+<frameset>
+  <predicate lemma="drill">
+    <roleset id="drill.01" name="put holes into">
+      <roles>
+        <role descr="driller, agent" f="pag" n="0"/>
+        <role descr="thing drilled, gaining holes" f="ppt" n="1"/>
+        <role descr="drill" f="mnr" n="2"/>
+        <role descr="seeking (oil)" f="prp" n="3"/>
+        <role descr="holes" f="prd" n="4"/>
+      </roles>
+    </roleset>
+    <roleset id="drill.02" name="train, make practice">
+      <roles>
+        <role descr="drill sargeant" f="pag" n="0"/>
+        <role descr="recruits" f="ppt" n="1"/>
+        <role descr="action" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

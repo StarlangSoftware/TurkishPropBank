@@ -1,0 +1,17 @@
+<frameset>
+  <predicate lemma="tailgate">
+    <roleset id="tailgate.01" name="follow too closely on someone else's tailgate">
+      <roles>
+        <role descr="driver following too closely" f="pag" n="0"/>
+        <role descr="driver of the car being followed" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="tailgate.02" name="parking lot party">
+      <roles>
+        <role descr="partier" f="pag" n="0"/>
+        <role descr="party with" f="ppt" n="1"/>
+        <role descr="occasion (ie football game)" f="cau" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

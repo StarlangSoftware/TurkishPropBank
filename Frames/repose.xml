@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="repose">
+    <roleset id="repose.01" name="repose">
+      <roles>
+        <role descr="agent, causer of reposing (transitive subject only)" f="PAG" n="0"/>
+        <role descr="reposer(s), theme (transitive object, intransitive subject)" f="PPT" n="1"/>
+        <role descr="location of reposing" f="LOC" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

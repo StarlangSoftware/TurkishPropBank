@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="overflow">
+    <roleset id="overflow.01" name="be too full">
+      <roles>
+        <role descr="container" f="gol" n="1"/>
+        <role descr="substance" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

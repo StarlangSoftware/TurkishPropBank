@@ -1,0 +1,31 @@
+<frameset>
+  <predicate lemma="oil">
+    <roleset id="oil.01" name="make oily">
+      <roles>
+        <role descr="oiler" f="pag" n="0"/>
+        <role descr="thing getting oily" f="gol" n="1"/>
+        <role descr="oil" f="ppt" n="2"/>
+        <role descr="end state, attribute" f="prd" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="oil_up">
+    <roleset id="oil_up.02" name="make oily">
+      <roles>
+        <role descr="oiler" f="pag" n="0"/>
+        <role descr="thing getting oily" f="gol" n="1"/>
+        <role descr="oil" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="oily">
+    <roleset id="oily.03" name="make oily">
+      <roles>
+        <role descr="oiler" f="pag" n="0"/>
+        <role descr="thing getting oily" f="gol" n="1"/>
+        <role descr="oil" f="ppt" n="2"/>
+        <role descr="end state, attribute" f="prd" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

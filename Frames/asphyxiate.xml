@@ -1,0 +1,12 @@
+<frameset>
+  <predicate lemma="asphyxiate">
+    <roleset id="asphyxiate.01" name="(cause to) not be able to breathe">
+      <roles>
+        <role descr="cause of not breathing" f="pag" n="0"/>
+        <role descr="entity not breathing" f="ppt" n="1"/>
+        <role descr="instrument, if cause also present as arg0" f="mnr" n="2"/>
+        <role descr="aspect of arg1 actually suffocating" f="vsp" n="3"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

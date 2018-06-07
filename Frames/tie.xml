@@ -1,0 +1,50 @@
+<frameset>
+  <predicate lemma="tie">
+    <roleset id="tie.01" name="attach">
+      <roles>
+        <role descr="agent, entity doing the tying" f="pag" n="0"/>
+        <role descr="first thing being tied" f="ppt" n="1"/>
+        <role descr="second thing, tied to what" f="ppt" n="2"/>
+        <role descr="instrument, string" f="mnr" n="3"/>
+        <role descr="attribute of arg1" f="prd" n="4"/>
+      </roles>
+    </roleset>
+    <roleset id="tie.03" name="score the same">
+      <roles>
+        <role descr="causer of equal score" f="pag" n="0"/>
+        <role descr="in comparison to" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="tie_in">
+    <roleset id="tie_in.02" name="attach">
+      <roles>
+        <role descr="agent, entity doing the tying" f="pag" n="0"/>
+        <role descr="first thing tied in" f="ppt" n="1"/>
+        <role descr="second thing, tied in with/to what" f="ppt" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="tie_up">
+    <roleset id="tie_up.04" name="bind with rope (eg)">
+      <roles>
+        <role descr="tie-er" f="pag" n="0"/>
+        <role descr="tied" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="tie_up.05" name="be involved in">
+      <roles>
+        <role descr="thing involved" f="ppt" n="1"/>
+        <role descr="thing involved in/with" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="tie_down">
+    <roleset id="tie_down.06" name="be stuck">
+      <roles>
+        <role descr="stuck entity" f="ppt" n="1"/>
+        <role descr="cause of stuckness" f="cau" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

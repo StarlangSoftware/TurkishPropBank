@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="historicize">
+    <roleset id="historicize.01" name="to make or make appear historical">
+      <roles>
+        <role descr="person making something seem historical" f="pag" n="0"/>
+        <role descr="thing made legendary" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

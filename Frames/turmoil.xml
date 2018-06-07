@@ -1,0 +1,10 @@
+<frameset>
+  <predicate lemma="turmoil">
+    <roleset id="turmoil.01" name="unrest, aggitation">
+      <roles>
+        <role descr="entity in turmoil" f="ppt" n="1"/>
+        <role descr="attribute of arg1 experiencing turmoil (if separate from arg1)" f="adj" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

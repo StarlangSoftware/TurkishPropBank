@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="squabble">
+    <roleset id="squabble.01" name="argue with">
+      <roles>
+        <role descr="first arguer" f="PAG" n="0"/>
+        <role descr="second arguer" f="COM" n="1"/>
+        <role descr="topic" f="PPT" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

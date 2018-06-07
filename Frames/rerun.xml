@@ -1,0 +1,22 @@
+<frameset>
+  <predicate lemma="rerun">
+    <roleset id="rerun.01" name="reshow a play or broadcast">
+      <roles>
+        <role descr="network replaying" f="PAG" n="0"/>
+        <role descr="show" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="rerun.02" name="cause to perform again">
+      <roles>
+        <role descr="causer of repeat performance" f="PAG" n="0"/>
+        <role descr="thing rerun" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="rerun.03" name="run for office again">
+      <roles>
+        <role descr="politician" f="PAG" n="0"/>
+        <role descr="office" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

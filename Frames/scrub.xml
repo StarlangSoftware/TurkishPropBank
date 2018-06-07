@@ -1,0 +1,18 @@
+<frameset>
+  <predicate lemma="scrub">
+    <roleset id="scrub.01" name="clean with some difficulty">
+      <roles>
+        <role descr="cleaner, scrubber" f="PAG" n="0"/>
+        <role descr="was dirty, now clean" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="scrub_up">
+    <roleset id="scrub_up.02" name="achieve cleanliness, with difficulty">
+      <roles>
+        <role descr="scrubber" f="PAG" n="0"/>
+        <role descr="was dirty, now clean" f="PPT" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

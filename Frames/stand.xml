@@ -1,0 +1,124 @@
+<frameset>
+  <predicate lemma="stand">
+    <roleset id="stand.01" name="(cause to) be in a vertical position">
+      <roles>
+        <role descr="causal agent" f="pag" n="0"/>
+        <role descr="thing standing" f="ppt" n="1"/>
+        <role descr="location" f="loc" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="stand.02" name="be poised for an action">
+      <roles>
+        <role descr="entity poised" f="ppt" n="1"/>
+        <role descr="action" f="prd" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="stand.03" name="tolerate">
+      <roles>
+        <role descr="tolerator" f="ppt" n="0"/>
+        <role descr="thing tolerated" f="pag" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="stand.04" name="be">
+      <roles>
+        <role descr="focus" f="ppt" n="1"/>
+        <role descr="attribute" f="prd" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="stand.08" name="represent">
+      <roles>
+        <role descr="representative entity" f="pag" n="0"/>
+        <role descr="represented, stand for what?" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="stand.11" name="have a strong stance, having a strong position on a subject matter">
+      <roles>
+        <role descr="entity having a strong stance" f="pag" n="0"/>
+        <role descr="description of the stance" f="ppt" n="1"/>
+        <role descr="stance directed at or regarding" f="gol" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="stand.12" name="balance upside down">
+      <roles>
+        <role descr="balancer" f="pag" n="0"/>
+        <role descr="balanced on; type of stand (hand, head)" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="stand_by">
+    <roleset id="stand_by.05" name="be ready">
+      <roles>
+        <role descr="stander" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="stand_out">
+    <roleset id="stand_out.06" name="be noticeable">
+      <roles>
+        <role descr="noticeable entity" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="stand_up">
+    <roleset id="stand_up.07" name="rise, perhaps in defense or opposition">
+      <roles>
+        <role descr="riser" f="pag" n="1"/>
+        <role descr="entity opposed; stand up to or against" f="gol" n="2"/>
+      </roles>
+    </roleset>
+    <roleset id="stand_up.09" name="not show up for a date">
+      <roles>
+        <role descr="entity not showing up" f="pag" n="0"/>
+        <role descr="entity that got ditched" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+    <roleset id="stand_up.13" name="stand up comedy act">
+      <roles>
+        <role descr="comedian" f="pag" n="0"/>
+        <role descr="subject matter" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="stand_down">
+    <roleset id="stand_down.10" name="(cause to) back off, withdraw">
+      <roles>
+        <role descr="agent, causer of arg1 withdrawing" f="pag" n="0"/>
+        <role descr="entity backing off, withdrawing" f="ppt" n="1"/>
+        <role descr="action backed off, withdrawn from" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="keg_stand">
+    <roleset id="keg_stand.14" name="keg_stand, do a handstand on a keg, while drinking from the keg">
+      <roles>
+        <role descr="balancing drinker" f="pag" n="0"/>
+        <role descr="contents of keg" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="stanced">
+    <roleset id="stanced.15" name="having particular leg-positioning, when standing">
+      <roles>
+        <role descr="entity having a leg position" f="ppt" n="1"/>
+        <role descr="characteristic of the leg position" f="adj" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="standoff">
+    <roleset id="standoff.16" name="stalemate, deadlock, be at an impasse">
+      <roles>
+        <role descr="first party (or both if together)" f="pag" n="0"/>
+        <role descr="topic" f="ppt" n="1"/>
+        <role descr="second party" f="gol" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="longstanding">
+    <roleset id="longstanding.17" name="having existed for a long time">
+      <roles>
+        <role descr="focus" f="ppt" n="1"/>
+        <role descr="attribute" f="prd" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

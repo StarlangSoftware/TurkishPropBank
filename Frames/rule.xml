@@ -1,0 +1,27 @@
+<frameset>
+  <predicate lemma="rule">
+    <roleset id="rule.01" name="the act of deciding, regulation, law, decide">
+      <roles>
+        <role descr="lawmaker, rule creator" f="pag" n="0"/>
+        <role descr="domain the rule applies to" f="ppt" n="1"/>
+        <role descr="beneficiary (entities following the rule)" f="gol" n="2"/>
+        <role descr="specifics of the rule itself" f="prd" n="3"/>
+      </roles>
+    </roleset>
+    <roleset id="rule.03" name="show leadership">
+      <roles>
+        <role descr="ruler, leader" f="pag" n="0"/>
+        <role descr="unwashed masses, minions" f="ppt" n="1"/>
+      </roles>
+    </roleset>
+  </predicate>
+  <predicate lemma="rule_out">
+    <roleset id="rule_out.02" name="eliminate from consideration">
+      <roles>
+        <role descr="eliminator" f="pag" n="0"/>
+        <role descr="thing eliminated" f="ppt" n="1"/>
+        <role descr="eliminated from (?)" f="dir" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>

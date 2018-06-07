@@ -1,0 +1,11 @@
+<frameset>
+  <predicate lemma="monitor">
+    <roleset id="monitor.01" name="look closely at, observing">
+      <roles>
+        <role descr="observer" f="PAG" n="0"/>
+        <role descr="thing looked at" f="LOC" n="1"/>
+        <role descr="looking for what?" f="PPT" n="2"/>
+      </roles>
+    </roleset>
+  </predicate>
+</frameset>
