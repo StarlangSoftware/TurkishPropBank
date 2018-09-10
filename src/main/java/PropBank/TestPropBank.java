@@ -6,7 +6,11 @@ public class TestPropBank {
         new PredicateList();
     }
 
+    public static void readFrameSetList(){
+        new FramesetList();
+    }
+
     public static void main(String[] args){
-        readPredicateList();
+        readFrameSetList();
     }
 }

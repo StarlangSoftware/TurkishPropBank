@@ -20,9 +20,18 @@ public class FramesetList {
     private Document doc;
     private ArrayList<Frameset> frames;
 
+    public FramesetList(){
+        this.fileName = "frameset.xml";
+        ClassLoader classLoader = getClass().getClassLoader();
+        frames = XMLToFrames(classLoader.getResourceAsStream(fileName));
+    }
+
     public FramesetList(String fileName){
         this.fileName = fileName;
-        frames = XMLToFrames();
+        try {
+            frames = XMLToFrames(new FileInputStream(new File(fileName)));
+        } catch (FileNotFoundException e) {
+        }
     }
 
     public Map<ArgumentType, String> readFromXML(String id) {
@@ -119,12 +128,10 @@ public class FramesetList {
         }
     }
 
-    public ArrayList<Frameset> XMLToFrames(){
-        File file = new File(fileName);
+    public ArrayList<Frameset> XMLToFrames(InputStream inputStream){
         ArrayList<Frameset> framesets = new ArrayList<Frameset>();
         DocumentBuilderFactory dbFactory = DocumentBuilderFactory.newInstance();
         try {
-            FileInputStream inputStream = new FileInputStream(file);
             DocumentBuilder dBuilder = dbFactory.newDocumentBuilder();
             doc = dBuilder.parse(inputStream, "UTF-8");
             doc.getDocumentElement().normalize();
