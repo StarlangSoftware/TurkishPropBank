@@ -26,7 +26,7 @@ public class Frameset {
         boolean check = false;
         for (FramesetArgument a : framesetArguments) {
             if (a.getArgumentType().equals(type)) {
-                framesetArguments.get(framesetArguments.indexOf(a)).setDefinition(definition);
+                a.setDefinition(definition);
                 check = true;
                 break;
             }
