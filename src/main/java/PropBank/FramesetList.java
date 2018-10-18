@@ -11,17 +11,11 @@ public class FramesetList {
 
     public FramesetList(){
         frames = new ArrayList<Frameset>();
-        ClassLoader classLoader = getClass().getClassLoader();
-        URL url = classLoader.getResource(".");
-        try {
-            File[] listOfFiles = new File(url.toURI().getPath()).listFiles();
-            for (File file : listOfFiles){
-                if (file.getName().startsWith("TUR10-") && file.getName().endsWith(".xml")){
-                    frames.add(new Frameset(classLoader.getResourceAsStream(file.getName())));
-                }
-            }
-        } catch (URISyntaxException e) {
-            e.printStackTrace();
+        ClassLoader classLoader = ClassLoader.getSystemClassLoader();
+        InputStream inputStream = classLoader.getResourceAsStream("files.txt");
+        Scanner scanner = new Scanner(inputStream);
+        while (scanner.hasNext()){
+            frames.add(new Frameset(classLoader.getResourceAsStream(scanner.next())));
         }
     }
 
