@@ -16,7 +16,7 @@ public class FramesetList {
         try {
             File[] listOfFiles = new File(url.toURI().getPath()).listFiles();
             for (File file : listOfFiles){
-                if (file.getName().endsWith(".xml")){
+                if (file.getName().startsWith("TUR10-") && file.getName().endsWith(".xml")){
                     frames.add(new Frameset(classLoader.getResourceAsStream(file.getName())));
                 }
             }
