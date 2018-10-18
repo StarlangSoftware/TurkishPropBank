@@ -7,7 +7,7 @@ public class TestPropBank {
     }
 
     public static void readFrameSetList(){
-        new FramesetList();
+        FramesetList framesetList = new FramesetList();
     }
 
     public static void main(String[] args){

@@ -1,5 +1,13 @@
 package PropBank;
 
+import org.w3c.dom.Document;
+import org.w3c.dom.Element;
+import org.xml.sax.SAXException;
+
+import javax.xml.parsers.DocumentBuilder;
+import javax.xml.parsers.DocumentBuilderFactory;
+import javax.xml.parsers.ParserConfigurationException;
+import java.io.*;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -11,6 +19,22 @@ public class Frameset {
     public Frameset(String id) {
         this.id = id;
         this.framesetArguments = new ArrayList<FramesetArgument>();
+    }
+
+    public Frameset(InputStream inputStream){
+        DocumentBuilderFactory dbFactory = DocumentBuilderFactory.newInstance();
+        try {
+            DocumentBuilder dBuilder = dbFactory.newDocumentBuilder();
+            Document doc = dBuilder.parse(inputStream, "UTF-8");
+            Element eElement = doc.getDocumentElement();
+            id = eElement.getAttribute("id");
+            framesetArguments = new ArrayList<FramesetArgument>();
+            for (int i = 0; i < eElement.getElementsByTagName("ARG").getLength(); i++) {
+                framesetArguments.add(new FramesetArgument(((Element) eElement.getElementsByTagName("ARG").item(i)).getAttribute("name"), eElement.getElementsByTagName("ARG").item(i).getTextContent()));
+            }
+        } catch (ParserConfigurationException | SAXException | IOException e) {
+            e.printStackTrace();
+        }
     }
 
     public boolean containsArgument(ArgumentType argumentType){
@@ -54,6 +78,19 @@ public class Frameset {
 
     public void setId(String id) {
         this.id = id;
+    }
+
+    public void saveAsXml(){
+        try {
+            BufferedWriter fout = new BufferedWriter(new OutputStreamWriter(new FileOutputStream(id + ".xml"), "UTF-8"));
+            fout.write("\t<FRAMESET id=\"" + id + "\">\n");
+            for (FramesetArgument framesetArgument : framesetArguments) {
+                fout.write("\t\t<ARG name=\"" + framesetArgument.getArgumentType() + "\">" + framesetArgument.getDefinition() + "</ARG>\n");
+            }
+            fout.write("\t</FRAMESET>\n");
+            fout.close();
+        } catch (IOException e){
+        }
     }
 
 }

@@ -1,0 +1,8 @@
+<FRAMESET id="TUR10-0006500">
+	<ARG name="ARG0">Açan</ARG>
+	<ARG name="ARG1">Açılan şey</ARG>
+	<ARG name="ARGMTMP">Açılma zamanı</ARG>
+	<ARG name="ARGMEXT">Miktar</ARG>
+	<ARG name="ARGMDIS">Söylem işaretçisi, Bağlaç(i.e. fakat ama vs)</ARG>
+	<ARG name="ARGMLOC">Açma yeri</ARG>
+</FRAMESET>

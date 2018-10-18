@@ -1,0 +1,12 @@
+<FRAMESET id="TUR10-0048030">
+	<ARG name="ARG0">Artan</ARG>
+	<ARG name="ARGMTMP">Artma zamanı</ARG>
+	<ARG name="ARGMEXT">Artış miktarı</ARG>
+	<ARG name="ARG1">Artan şey</ARG>
+	<ARG name="ARG3">Artma Başlangıcı </ARG>
+	<ARG name="ARG4">Arttığı Miktar</ARG>
+	<ARG name="ARGMDIS">Söylem işaretçisi, Bağlaç(i.e. fakat ama vs)</ARG>
+	<ARG name="ARGMMNR">Artma şekli</ARG>
+	<ARG name="ARGMADV">Artma Koşulu</ARG>
+	<ARG name="ARGMLOC">Artma yeri</ARG>
+</FRAMESET>

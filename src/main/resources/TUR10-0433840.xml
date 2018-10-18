@@ -1,0 +1,10 @@
+<FRAMESET id="TUR10-0433840">
+	<ARG name="ARG0">Kayan</ARG>
+	<ARG name="ARGMLOC">Kayma yeri</ARG>
+	<ARG name="ARGMDIR">Kayma yönü</ARG>
+	<ARG name="ARG3">Kayma başlangıç noktası</ARG>
+	<ARG name="ARG4">Kayma bitiş noktası</ARG>
+	<ARG name="ARG2">Kayma miktarı</ARG>
+	<ARG name="ARGMTMP">Kayma zamanı</ARG>
+	<ARG name="ARGMDIS">Söylem işaretçisi, Bağlaç(i.e. fakat ama vs)</ARG>
+</FRAMESET>

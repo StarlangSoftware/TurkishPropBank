@@ -1,0 +1,11 @@
+<FRAMESET id="TUR10-0374180">
+	<ARG name="ARG0">kapatan</ARG>
+	<ARG name="ARGMCAU">kapatılma sebebi</ARG>
+	<ARG name="ARG2">neyde kapandığı</ARG>
+	<ARG name="ARGMTMP">ne zaman kapandığı</ARG>
+	<ARG name="ARGMMNR">nasıl kapandığı</ARG>
+	<ARG name="ARG1">Kapatılan şey</ARG>
+	<ARG name="ARGMDIS">Söylem işaretçisi, Bağlaç(i.e. fakat ama vs)</ARG>
+	<ARG name="ARGMADV">Zarf Tümleci</ARG>
+	<ARG name="ARGMLOC">kapatma yeri</ARG>
+</FRAMESET>

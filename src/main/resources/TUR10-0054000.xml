@@ -1,0 +1,9 @@
+<FRAMESET id="TUR10-0054000">
+	<ARG name="ARGMLOC">Aşma yeri</ARG>
+	<ARG name="ARG0">Aşan</ARG>
+	<ARG name="ARG1">Aşılan şey</ARG>
+	<ARG name="ARGMTMP">Aşma zamanı</ARG>
+	<ARG name="ARGMEXT">Aşma miktarı</ARG>
+	<ARG name="ARGMADV">Zarf tümleci</ARG>
+	<ARG name="ARGMDIS">Söylem işaretçisi, Bağlaç(i.e. fakat ama vs)</ARG>
+</FRAMESET>

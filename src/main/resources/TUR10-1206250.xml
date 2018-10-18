@@ -1,0 +1,6 @@
+<FRAMESET id="TUR10-1206250">
+	<ARG name="ARGMDIS">Söylem işaretçisi, Bağlaç(i.e. fakat ama vs)</ARG>
+	<ARG name="ARG1">Ses çıkarılan şey</ARG>
+	<ARG name="ARG0">Ses çıkaran</ARG>
+	<ARG name="ARGMMNR">Ses çıkarma şekli</ARG>
+</FRAMESET>

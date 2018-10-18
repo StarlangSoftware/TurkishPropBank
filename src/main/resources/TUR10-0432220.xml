@@ -1,0 +1,7 @@
+<FRAMESET id="TUR10-0432220">
+	<ARG name="ARG0">Kaybeden</ARG>
+	<ARG name="ARG1">Kaybedilen  şey</ARG>
+	<ARG name="ARGMEXT">Kaybedilen miktar</ARG>
+	<ARG name="ARGMTMP">Kaybetme zamanı</ARG>
+	<ARG name="ARGMDIS">Söylem işaretçisi, Bağlaç(i.e. fakat ama vs)</ARG>
+</FRAMESET>

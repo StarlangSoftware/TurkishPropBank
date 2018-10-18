@@ -1,0 +1,9 @@
+<FRAMESET id="TUR10-0089660">
+	<ARG name="ARG0">Bekleyen</ARG>
+	<ARG name="ARG1">Beklenen şey</ARG>
+	<ARG name="ARGMTMP">Bekleme zamanı</ARG>
+	<ARG name="ARGMMNR">Bekleme şekli</ARG>
+	<ARG name="ARGMLOC">Bekleme yeri</ARG>
+	<ARG name="ARGMADV">Bağlaç</ARG>
+	<ARG name="ARGMDIR">Bekleme yönü</ARG>
+</FRAMESET>
