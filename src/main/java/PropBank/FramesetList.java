@@ -1,8 +1,6 @@
 package PropBank;
 
 import java.io.*;
-import java.net.URISyntaxException;
-import java.net.URL;
 import java.util.*;
 
 public class FramesetList {
@@ -19,16 +17,16 @@ public class FramesetList {
         }
     }
 
-    public Map<ArgumentType, String> readFromXML(String id) {
+    public Map<ArgumentType, String> readFromXML(String synSetId) {
         Map<ArgumentType, String> frameset = new HashMap<ArgumentType, String>();
         for (Frameset f:frames){
-            if (f.getId().equals(id)){
-                for(int i = 0;i<f.getFramesetArguments().size();i++){
+            if (f.getId().equals(synSetId)){
+                for (int i = 0; i < f.getFramesetArguments().size(); i++){
                     frameset.put(ArgumentType.valueOf(f.getFramesetArguments().get(i).getArgumentType()), f.getFramesetArguments().get(i).getDefinition());
                 }
             }
         }
-        return  frameset;
+        return frameset;
     }
 
     public boolean frameExists(String synSetId){
