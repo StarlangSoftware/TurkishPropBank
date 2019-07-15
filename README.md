@@ -25,6 +25,19 @@ The following Table shows typical semantic role types. Only Arg0 and Arg1 indica
 |ArgM-PNC|Purpose|
 |ArgM-TMP|Temporals|
 
++ Directional modifiers give information regarding the path of motion in the sentence. Directional modifiers may be mistakenly tagged as locatives.
++ Locatives are used for the place where the action takes place.
++ Manners define how the action is performed.
++ Extent markers represent the amount of change that occurs in the action.
++ Temporal modifiers keep the time of the action.
++ Reciprocals are reflexives that refer to other arguments, like “himself,” “itself,” “together,” “each other,” and “both.”
++ Secondary predication markers are used for adjuncts of the predicate, which holds predicate structure.
++ Purpose clauses show the motivation for the action. Cause clauses simply show the reason for an action.
++ Discourse markers connect the sentence to the previous sentence, such as “also,” “however,” “as well,” and “but.”
++ Adverbials are used for syntactic elements that modify the sentence and are not labeled with one of the modifier tags stated above.
++ “Will,” “may,” “can,” “must,” “shall,” “might,” “should,” “could,” “would,” and also “going (to),” “have (to),” and “used (to)” are modality adjuncts of the predicate and tagged as modal in PropBank.
++ Negation is used to tag negative markers of the sentences.
+
 ## Data Format
 
 The structure of a sample frameset is as follows:
