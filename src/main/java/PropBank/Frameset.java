@@ -16,11 +16,21 @@ public class Frameset {
     private ArrayList<FramesetArgument> framesetArguments;
     private String id;
 
+    /**
+     * A constructor of {@link Frameset} class which takes id as input and initializes corresponding attribute
+     *
+     * @param id  Id of the frameset
+     */
     public Frameset(String id) {
         this.id = id;
         this.framesetArguments = new ArrayList<FramesetArgument>();
     }
 
+    /**
+     * Another constructor of {@link Frameset} class which takes inputStream as input and reads the frameset
+     *
+     * @param inputStream  inputStream to read frameset
+     */
     public Frameset(InputStream inputStream){
         DocumentBuilderFactory dbFactory = DocumentBuilderFactory.newInstance();
         try {
@@ -72,10 +82,20 @@ public class Frameset {
         return framesetArguments;
     }
 
+    /**
+     * Accessor for id.
+     *
+     * @return id.
+     */
     public String getId() {
         return id;
     }
 
+    /**
+     * Mutator for id.
+     *
+     * @param id to set.
+     */
     public void setId(String id) {
         this.id = id;
     }
