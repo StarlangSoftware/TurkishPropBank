@@ -7,11 +7,16 @@ import org.xml.sax.SAXException;
 
 import java.io.File;
 import java.io.IOException;
+import java.util.ArrayList;
 import java.util.HashMap;
 
 public class PredicateList {
     private HashMap<String, Predicate> list;
 
+    /**
+     * A constructor of {@link PredicateList} class which reads all predicate files inside the 'Frames' folder. For each
+     * file inside that folder, the constructor creates a Predicate and puts in inside the list {@link HashMap}.
+     */
     public PredicateList(){
         Document doc;
         Node frameSetNode, predicateNode, roleSetNode, roleNode, rolesNode;
@@ -66,10 +71,21 @@ public class PredicateList {
         }
     }
 
+    /**
+     * The size method returns the number of predicates inside the list.
+     *
+     * @return the size of the list {@link HashMap}.
+     */
     public int size(){
         return list.size();
     }
 
+    /**
+     * getPredicate method returns the {@link Predicate} with the given lemma.
+     *
+     * @param lemma  Lemma of the searched predicate
+     * @return {@link Predicate} which has the given lemma.
+     */
     public Predicate getPredicate(String lemma){
         return list.get(lemma);
     }
