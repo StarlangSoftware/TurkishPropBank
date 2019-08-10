@@ -1,8 +1,20 @@
 package PropBank;
 
+import java.util.ArrayList;
+
+/**
+ * Enumerated class for argument type.
+ */
+
 public enum ArgumentType {
     NONE, PREDICATE, ARG0, ARG1, ARG2, ARG3, ARG4, ARG5, ARGMNONE, ARGMEXT, ARGMLOC, ARGMDIS, ARGMADV, ARGMCAU, ARGMTMP, ARGMPNC, ARGMMNR, ARGMDIR;
 
+    /**
+     * The getArguments method takes an argumentsType string and returns the {@link ArgumentType} form of it.
+     *
+     * @param argumentsType  Type of the argument in string form
+     * @return Type of the argument in {@link ArgumentType} form
+     */
     public static ArgumentType getArguments(String argumentsType){
         if (argumentsType == null){
             return ArgumentType.NONE;
@@ -80,6 +92,12 @@ public enum ArgumentType {
         }
     }
 
+    /**
+     * The getPropbankType method takes an argumentType in {@link ArgumentType} form and returns the string form of it.
+     *
+     * @param argumentType  Type of the argument in {@link ArgumentType} form
+     * @return Type of the argument in string form
+     */
     public static String getPropbankType(ArgumentType argumentType){
         if (argumentType == null)
             return "NONE";
