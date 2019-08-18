@@ -1,7 +1,5 @@
 package PropBank;
 
-import java.util.ArrayList;
-
 /**
  * Enumerated class for argument type.
  */
