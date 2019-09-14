@@ -1,9 +1,5 @@
 <FRAMESET id="TUR10-1110570">
 	<ARG name="ARG0">Ortaya çıkan</ARG>
-	<ARG name="ARGMPNC">Ortaya çıkma amacı</ARG>
 	<ARG name="ARG1">Ortaya çıkan şey</ARG>
-	<ARG name="ARGMADV">Zarf Tümleci</ARG>
-	<ARG name="ARGMTMP">Ortaya çıkma zamanı</ARG>
-	<ARG name="ARGMMNR">Ortaya çıkma şekli</ARG>
 	<ARG name="ARG2">Ortaya çıkma yeri</ARG>
 </FRAMESET>

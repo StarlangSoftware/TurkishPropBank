@@ -1,9 +1,5 @@
 <FRAMESET id="TUR10-0038000">
 	<ARG name="ARG0">Anlaşan</ARG>
-	<ARG name="ARGMTMP">Anlaşma zamanı</ARG>
-	<ARG name="ARGMPNC">Anlaşma amacı</ARG>
 	<ARG name="ARG1">Anlaşılan şey</ARG>
-	<ARG name="ARGMLOC">Anlaşma yeri</ARG>
-	<ARG name="ARGMMNR">Anlaşma şekli</ARG>
 	<ARG name="ARG2">Anlaşma fiyatı</ARG>
 </FRAMESET>

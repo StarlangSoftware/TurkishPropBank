@@ -2,7 +2,4 @@
 	<ARG name="ARG0">Gösteren</ARG>
 	<ARG name="ARG1">Gösterilen şey</ARG>
 	<ARG name="ARG2">Gösterilen kişi</ARG>
-	<ARG name="ARGMLOC">Gösterilen yer</ARG>
-	<ARG name="ARGMTMP">Gösterilen zaman</ARG>
-	<ARG name="ARGMDIS">Söylem işaretçisi, Bağlaç(i.e. fakat ama vs)</ARG>
 </FRAMESET>

@@ -1,9 +1,4 @@
 <FRAMESET id="TUR10-0630890">
 	<ARG name="ARG0">Planlayan</ARG>
 	<ARG name="ARG1">Planlanan şey</ARG>
-	<ARG name="ARGMLOC">Planladığı yer</ARG>
-	<ARG name="ARGMEXT">Planladığı miktar</ARG>
-	<ARG name="ARGMTMP">Planlama zamanı</ARG>
-	<ARG name="ARGMCAU">Planlama nedeni</ARG>
-	<ARG name="ARGMDIS">Söylem işaretçisi, Bağlaç(i.e. fakat ama vs)</ARG>
 </FRAMESET>

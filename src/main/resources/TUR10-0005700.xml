@@ -1,9 +1,4 @@
 <FRAMESET id="TUR10-0005700">
-	<ARG name="ARGMEXT">Açılan miktar</ARG>
-	<ARG name="ARGMMNR">Açılma şekli</ARG>
-	<ARG name="ARGMLOC">Açılan yer</ARG>
-	<ARG name="ARGMTMP">Açılma zamanı</ARG>
 	<ARG name="ARG0">Açılan</ARG>
-	<ARG name="ARGMCAU">Açılma nedeni</ARG>
 	<ARG name="ARG1">Açılan şey</ARG>
 </FRAMESET>

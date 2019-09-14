@@ -1,8 +1,3 @@
 <FRAMESET id="TUR10-0881180">
 	<ARG name="ARG1">Düşen</ARG>
-	<ARG name="ARGMTMP">Düşme zamanı</ARG>
-	<ARG name="ARGMEXT">Düşme miktarı</ARG>
-	<ARG name="ARGMLOC">Düşme yeri</ARG>
-	<ARG name="ARGMDIS">Söylem işaretçisi, Bağlaç (i.e. fakat ama vs)</ARG>
-	<ARG name="ARGMMNR">Düşme şekli</ARG>
 </FRAMESET>

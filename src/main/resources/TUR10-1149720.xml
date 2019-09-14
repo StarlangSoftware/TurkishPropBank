@@ -1,8 +1,5 @@
 <FRAMESET id="TUR10-1149720">
-	<ARG name="ARGMDIS">Söylem işaretçisi, Bağlaç(i.e. fakat ama vs)</ARG>
 	<ARG name="ARG0">Tahmin eden</ARG>
 	<ARG name="ARG1">Tahmin edilen şey</ARG>
-	<ARG name="ARGMADV">Zarf Tümleci</ARG>
-	<ARG name="ARGMTMP">Tahmin etme zamanı</ARG>
 	<ARG name="ARG2">Tahmin edilme şekli</ARG>
 </FRAMESET>

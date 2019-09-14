@@ -1,6 +1,4 @@
 <FRAMESET id="TUR10-0834470">
 	<ARG name="ARG1">Yapılan şey</ARG>
-	<ARG name="ARGMDIS">Söylem işaretçisi, Bağlaç(i.e. fakat ama vs)</ARG>
-	<ARG name="ARGMCAU">Yapma nedeni</ARG>
 	<ARG name="ARG0">Yapan</ARG>
 </FRAMESET>

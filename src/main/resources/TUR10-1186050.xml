@@ -1,7 +1,4 @@
 <FRAMESET id="TUR10-1186050">
-	<ARG name="ARGMDIS">Söylem işaretçisi, Bağlaç(i.e. fakat ama vs)</ARG>
-	<ARG name="ARGMTMP">Yol bulma zamanı</ARG>
 	<ARG name="ARG0">Yol bulan</ARG>
 	<ARG name="ARG1">Yol bulunan şey</ARG>
-	<ARG name="ARGMMNR">Yol bulma şekli</ARG>
 </FRAMESET>

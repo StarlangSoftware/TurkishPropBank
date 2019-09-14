@@ -1,6 +1,4 @@
 <FRAMESET id="TUR10-0710680">
 	<ARG name="ARG1">Suçlanan şey</ARG>
-	<ARG name="ARGMPNC">Suçlama amacı</ARG>
 	<ARG name="ARG0">Suçlayan</ARG>
-	<ARG name="ARGMDIS">Söylem işaretçisi, Bağlaç(i.e. fakat ama vs)</ARG>
 </FRAMESET>

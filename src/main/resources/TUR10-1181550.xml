@@ -1,8 +1,4 @@
 <FRAMESET id="TUR10-1181550">
 	<ARG name="ARG1">Yeğ tutulan şey</ARG>
 	<ARG name="ARG0">Yeğ tutan</ARG>
-	<ARG name="ARGMEXT">Yeğ tutma miktarı</ARG>
-	<ARG name="ARGMTMP">Yeğ tutma zamanı</ARG>
-	<ARG name="ARGMADV">Zarf Tümleci</ARG>
-	<ARG name="ARGMDIS">Söylem işaretçisi, Bağlaç(i.e. fakat ama vs)</ARG>
 </FRAMESET>

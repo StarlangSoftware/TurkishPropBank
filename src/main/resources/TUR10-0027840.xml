@@ -1,8 +1,5 @@
 <FRAMESET id="TUR10-0027840">
 	<ARG name="ARG1">Alınan</ARG>
-	<ARG name="ARGMADV">Zarf Tümleci</ARG>
-	<ARG name="ARGMTMP">Alınma zamanı</ARG>
-	<ARG name="ARGMDIS">Söylem işaretçisi, Bağlaç(i.e. fakat ama vs)</ARG>
 	<ARG name="ARG0">Alan</ARG>
 	<ARG name="ARG2">Alındığı yer</ARG>
 </FRAMESET>

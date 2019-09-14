@@ -1,10 +1,4 @@
 <FRAMESET id="TUR10-0405220">
 	<ARG name="ARG0">Olan</ARG>
 	<ARG name="ARG1">Olulan şey</ARG>
-	<ARG name="ARGMTMP">Olma zamanı</ARG>
-	<ARG name="ARGMDIS">Söylem işaretçisi, Bağlaç(i.e. fakat ama vs)</ARG>
-	<ARG name="ARGMMNR">Olma şekli</ARG>
-	<ARG name="ARGMLOC">Olma yeri</ARG>
-	<ARG name="ARGMPNC">Olma amacı</ARG>
-	<ARG name="ARGMCAU">Olma nedeni</ARG>
 </FRAMESET>

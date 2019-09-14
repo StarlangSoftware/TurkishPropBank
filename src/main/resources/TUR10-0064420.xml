@@ -1,7 +1,4 @@
 <FRAMESET id="TUR10-0064420">
-	<ARG name="ARGMDIS">Söylem işaretçisi, Bağlaç(i.e. fakat ama vs)</ARG>
 	<ARG name="ARG0">Azalan</ARG>
 	<ARG name="ARG1">Azalılan şey</ARG>
-	<ARG name="ARGMADV">Zarf tümleci</ARG>
-	<ARG name="ARGMEXT">Azalma miktarı</ARG>
 </FRAMESET>

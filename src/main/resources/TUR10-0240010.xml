@@ -1,13 +1,6 @@
 <FRAMESET id="TUR10-0240010">
 	<ARG name="ARG0">Azalan</ARG>
-	<ARG name="ARGMEXT">Azalma miktarı</ARG>
-	<ARG name="ARGMTMP">Azalma zamanı</ARG>
-	<ARG name="ARGMDIS">Bağlaç</ARG>
-	<ARG name="ARGMADV">Zarf tümleci</ARG>
-	<ARG name="ARGMLOC">Azalma yeri</ARG>
 	<ARG name="ARG1">Azalılan şey</ARG>
-	<ARG name="ARGMDIR">Azalma yönü</ARG>
-	<ARG name="ARGMMNR">Azalma şekli</ARG>
 	<ARG name="ARG3">Azalma noktası</ARG>
 	<ARG name="ARG4">Azaldığı nokta</ARG>
 </FRAMESET>

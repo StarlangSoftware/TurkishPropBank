@@ -1,7 +1,4 @@
 <FRAMESET id="TUR10-0290450">
 	<ARG name="ARG0">Yönelen</ARG>
 	<ARG name="ARG1">Yönelilen şey</ARG>
-	<ARG name="ARGMTMP">Yönelme zamanı</ARG>
-	<ARG name="ARGMDIS">Söylem işaretçisi, Bağlaç(i.e. fakat ama vs)</ARG>
-	<ARG name="ARGMEXT">Yönelme miktarı</ARG>
 </FRAMESET>

@@ -1,8 +1,4 @@
 <FRAMESET id="TUR10-0306160">
-	<ARG name="ARGMLOC">Vurma yeri</ARG>
 	<ARG name="ARG0">Vuran</ARG>
 	<ARG name="ARG1">Vurulan şey</ARG>
-	<ARG name="ARGMDIS">Söylem işaretçisi, Bağlaç(i.e. fakat ama vs)</ARG>
-	<ARG name="ARGMTMP">Görünme zamanı</ARG>
-	<ARG name="ARGMMNR">Görünme şekli</ARG>
 </FRAMESET>

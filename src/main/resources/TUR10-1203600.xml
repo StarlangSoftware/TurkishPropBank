@@ -1,7 +1,4 @@
 <FRAMESET id="TUR10-1203600">
 	<ARG name="ARG0">Yayınlayan</ARG>
 	<ARG name="ARG1">Yayınlanan şey</ARG>
-	<ARG name="ARGMTMP">Yayınlama zamanı</ARG>
-	<ARG name="ARGMLOC">Yayınlama yeri</ARG>
-	<ARG name="ARGMDIS">Söylem işaretçisi, Bağlaç(i.e. fakat ama vs)</ARG>
 </FRAMESET>

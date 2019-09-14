@@ -1,6 +1,4 @@
 <FRAMESET id="TUR10-1054160">
 	<ARG name="ARG0">İhtiyacı olan</ARG>
-	<ARG name="ARGMDIS">Söylem işaretçisi, Bağlaç(i.e. fakat ama vs)</ARG>
-	<ARG name="ARGMTMP">İhtiyacı olma zamanı</ARG>
 	<ARG name="ARG1">İhtiyacı olunan şey</ARG>
 </FRAMESET>

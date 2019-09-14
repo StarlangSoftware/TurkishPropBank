@@ -1,6 +1,4 @@
 <FRAMESET id="TUR10-1095820">
-	<ARG name="ARGMDIS">Söylem işaretçisi, Bağlaç(i.e. fakat ama vs)</ARG>
 	<ARG name="ARG0">Maruz kalan</ARG>
 	<ARG name="ARG1">Maruz kalınan şey</ARG>
-	<ARG name="ARGMTMP">Maruz kalma zamanı</ARG>
 </FRAMESET>

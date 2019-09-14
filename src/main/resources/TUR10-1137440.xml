@@ -1,7 +1,4 @@
 <FRAMESET id="TUR10-1137440">
 	<ARG name="ARG0">Sipariş alan</ARG>
-	<ARG name="ARGMLOC">Sipariş alma yeri</ARG>
-	<ARG name="ARGMTMP">Sipariş alma zamanı</ARG>
 	<ARG name="ARG1">Sipariş alınan şey</ARG>
-	<ARG name="ARGMDIS">Söylem işaretçisi, Bağlaç(i.e. fakat ama vs)</ARG>
 </FRAMESET>

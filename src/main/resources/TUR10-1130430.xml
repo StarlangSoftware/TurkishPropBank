@@ -1,10 +1,5 @@
 <FRAMESET id="TUR10-1130430">
 	<ARG name="ARG0">Yol açan</ARG>
 	<ARG name="ARG1">Yol açılan şey</ARG>
-	<ARG name="ARGMADV">Zarf Tümleci</ARG>
 	<ARG name="ARG2">Neye yol açıldığı</ARG>
-	<ARG name="ARGMMNR">Yol açma şekli</ARG>
-	<ARG name="ARGMDIS">Söylem işaretçisi, Bağlaç(i.e. fakat ama vs)</ARG>
-	<ARG name="ARGMLOC">Yol açma yeri</ARG>
-	<ARG name="ARGMTMP">Yol açma zamanı</ARG>
 </FRAMESET>

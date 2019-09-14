@@ -1,7 +1,4 @@
 <FRAMESET id="TUR10-1128330">
 	<ARG name="ARG0">Başarısız olan</ARG>
-	<ARG name="ARGMLOC">Başarısız olma yeri</ARG>
 	<ARG name="ARG1">Başarısız olunan şey</ARG>
-	<ARG name="ARGMDIS">Söylem işaretçisi, Bağlaç(i.e. fakat ama vs)</ARG>
-	<ARG name="ARGMTMP">Başarısız olma zamanı</ARG>
 </FRAMESET>

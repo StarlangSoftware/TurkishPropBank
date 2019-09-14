@@ -1,8 +1,4 @@
 <FRAMESET id="TUR10-0133220">
 	<ARG name="ARG0">Bağıran</ARG>
-	<ARG name="ARGMCAU">Bağırma sebebi</ARG>
-	<ARG name="ARGMTMP">Bağırma zamanı</ARG>
 	<ARG name="ARG1">Bağırılan şey</ARG>
-	<ARG name="ARGMDIS">Söylem işaretçisi, Bağlaç(i.e. fakat ama vs)</ARG>
-	<ARG name="ARGMDIR">Bağırma yönü</ARG>
 </FRAMESET>

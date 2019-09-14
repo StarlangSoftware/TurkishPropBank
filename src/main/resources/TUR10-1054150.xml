@@ -1,6 +1,4 @@
 <FRAMESET id="TUR10-1054150">
 	<ARG name="ARG0">İçeren şey</ARG>
 	<ARG name="ARG1">İçerilen şey</ARG>
-	<ARG name="ARGMDIS">Söylem işaretçisi, Bağlaç(i.e. fakat ama vs)</ARG>
-	<ARG name="ARGMLOC">İçerilen yer</ARG>
 </FRAMESET>

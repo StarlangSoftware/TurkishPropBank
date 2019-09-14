@@ -1,6 +1,4 @@
 <FRAMESET id="TUR10-1149790">
-	<ARG name="ARGMDIS">Söylem işaretçisi, Bağlaç(i.e. fakat ama vs)</ARG>
 	<ARG name="ARG0">Tahsis eden</ARG>
 	<ARG name="ARG1">Tahsis edilen şey</ARG>
-	<ARG name="ARGMPNC">Tahsis etme amacı</ARG>
 </FRAMESET>

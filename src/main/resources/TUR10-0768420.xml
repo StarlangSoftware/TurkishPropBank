@@ -1,9 +1,4 @@
 <FRAMESET id="TUR10-0768420">
 	<ARG name="ARG0">Geri dönen</ARG>
 	<ARG name="ARG1">Geri dönülen şey</ARG>
-	<ARG name="ARGMCAU">Geri dönme nedeni</ARG>
-	<ARG name="ARGMTMP">Geri dönme zamanı</ARG>
-	<ARG name="ARGMDIS">Söylem işaretçisi, Bağlaç(i.e. fakat ama vs)</ARG>
-	<ARG name="ARGMADV">Zarf tümleci</ARG>
-	<ARG name="ARGMLOC">Geri dönme yeri</ARG>
 </FRAMESET>

@@ -1,7 +1,4 @@
 <FRAMESET id="TUR10-0812410">
 	<ARG name="ARG1">Vadetilen şey</ARG>
-	<ARG name="ARGMEXT">Vadetme miktarı</ARG>
 	<ARG name="ARG0">Vadeden</ARG>
-	<ARG name="ARGMTMP">Vadetme zamanı</ARG>
-	<ARG name="ARGMPNC">Vadetme amacı</ARG>
 </FRAMESET>

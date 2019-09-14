@@ -1,9 +1,4 @@
 <FRAMESET id="TUR10-1102980">
-	<ARG name="ARGMTMP">Mümkün görünme zamanı</ARG>
 	<ARG name="ARG1">Mümkün görünülen şey</ARG>
-	<ARG name="ARGMDIS">Söylem işaretçisi, Bağlaç(i.e. fakat ama vs)</ARG>
 	<ARG name="ARG0">Mümkün görünen</ARG>
-	<ARG name="ARGMMNR">Mümkün görünme şekli</ARG>
-	<ARG name="ARGMADV">Zarf Tümleci</ARG>
-	<ARG name="ARGMLOC">Mümkün görünme yeri</ARG>
 </FRAMESET>

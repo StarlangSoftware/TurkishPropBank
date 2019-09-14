@@ -1,12 +1,5 @@
 <FRAMESET id="TUR10-0029370">
 	<ARG name="ARG1">Alınan</ARG>
-	<ARG name="ARGMMNR">Alma şekli</ARG>
 	<ARG name="ARG0">Alan</ARG>
-	<ARG name="ARGMDIS">Söylem işaretçisi, Bağlaç(i.e. fakat ama vs)</ARG>
-	<ARG name="ARGMEXT">Alınan miktar</ARG>
-	<ARG name="ARGMCAU">Alma nedeni</ARG>
-	<ARG name="ARGMTMP">Alma zamanı</ARG>
 	<ARG name="ARG2">Aldığı kişi/yer</ARG>
-	<ARG name="ARGMPNC">Alma amacı</ARG>
-	<ARG name="ARGMLOC">Alma yeri</ARG>
 </FRAMESET>

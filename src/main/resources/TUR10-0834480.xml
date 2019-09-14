@@ -2,5 +2,4 @@
 	<ARG name="ARG0">Yapan</ARG>
 	<ARG name="ARG1">Yapılan şey</ARG>
 	<ARG name="ARG2">Neye yapıldığı</ARG>
-	<ARG name="ARGMDIS">Söylem işaretçisi, Bağlaç(i.e. fakat ama vs)</ARG>
 </FRAMESET>

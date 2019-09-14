@@ -1,8 +1,4 @@
 <FRAMESET id="TUR10-0100250">
 	<ARG name="ARG0">Bırakan</ARG>
 	<ARG name="ARG1">Bırakılan şey</ARG>
-	<ARG name="ARGMMNR">Bırakma şekli</ARG>
-	<ARG name="ARGMPNC">Bırakma amacı</ARG>
-	<ARG name="ARGMTMP">Bırakma zamanı</ARG>
-	<ARG name="ARGMLOC">Nereden bırakıldığı</ARG>
 </FRAMESET>
