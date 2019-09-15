@@ -9,6 +9,8 @@ import java.io.File;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.HashMap;
+import java.util.HashSet;
+import java.util.Set;
 
 public class PredicateList {
     private HashMap<String, Predicate> list;
@@ -88,5 +90,13 @@ public class PredicateList {
      */
     public Predicate getPredicate(String lemma){
         return list.get(lemma);
+    }
+
+    /**
+     * The method returns all lemma in the predicate list.
+     * @return All lemma in the predicate list.
+     */
+    public Set<String> getLemmaList(){
+        return list.keySet();
     }
 }

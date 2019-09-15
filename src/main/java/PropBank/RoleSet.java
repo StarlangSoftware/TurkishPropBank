@@ -58,6 +58,21 @@ public class RoleSet {
     }
 
     /**
+     * Finds and returns the role with the given argument number n. For example, if n == 0, the method returns
+     * the argument ARG0.
+     * @param n Argument number
+     * @return The role with the given argument number n.
+     */
+    public Role getRoleWithArgument(String n){
+        for (Role role : roles){
+            if (role.getN().equals(n)){
+                return role;
+            }
+        }
+        return null;
+    }
+
+    /**
      * The size method returns the size of the roles {@link ArrayList}.
      *
      * @return the size of the roles {@link ArrayList}.
