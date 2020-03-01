@@ -1,4 +1,4 @@
 <FRAMESET id="TUR10-0290660">
-	<ARG name="ARG0">gelen</ARG>
-	<ARG name="ARG1">gelilen şey</ARG>
+	<ARG name="ARG0" function="pag">belli bir yere, zamana ulaşan kişi</ARG>
+	<ARG name="ARG1" function="ppt">yer, zaman, konum</ARG>
 </FRAMESET>

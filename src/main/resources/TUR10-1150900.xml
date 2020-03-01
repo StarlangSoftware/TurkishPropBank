@@ -1,0 +1,5 @@
+<FRAMESET id="TUR10-1150900">
+	<ARG name="ARG0" function="pag">bilgi kazandıran kişi</ARG>
+	<ARG name="ARG1" function="gol">bilgi kazandırılan kişi</ARG>
+	<ARG name="ARG2" function="loc">bilgi kazandırılan konu</ARG>
+</FRAMESET>

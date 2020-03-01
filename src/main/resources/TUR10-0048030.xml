@@ -1,6 +1,3 @@
 <FRAMESET id="TUR10-0048030">
-	<ARG name="ARG0">Artan</ARG>
-	<ARG name="ARG1">Artan şey</ARG>
-	<ARG name="ARG3">Artma Başlangıcı </ARG>
-	<ARG name="ARG4">Arttığı Miktar</ARG>
+	<ARG name="ARG1" function="ppt">değerlenen şey</ARG>
 </FRAMESET>

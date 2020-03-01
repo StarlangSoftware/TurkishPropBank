@@ -1,4 +1,5 @@
 <FRAMESET id="TUR10-0479010">
-	<ARG name="ARG1">ne koyduğu</ARG>
-	<ARG name="ARG0">koyan</ARG>
+	<ARG name="ARG0" function="pag">bırakan kişi</ARG>
+	<ARG name="ARG1" function="ppt">bıraktığı şey</ARG>
+	<ARG name="ARG2" function="loc">bırakılan yer</ARG>
 </FRAMESET>

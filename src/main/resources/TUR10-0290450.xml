@@ -1,4 +1,5 @@
 <FRAMESET id="TUR10-0290450">
-	<ARG name="ARG0">Yönelen</ARG>
-	<ARG name="ARG1">Yönelilen şey</ARG>
+	<ARG name="ARG0" function="pag">birinden birine ya da bir yerden bir yere yönelen şey</ARG>
+	<ARG name="ARG1" function="dir">o yöndeki şey</ARG>
+	<ARG name="ARG2" function="src">çıkış noktası</ARG>
 </FRAMESET>

@@ -1,5 +1,4 @@
 <FRAMESET id="TUR10-0161290">
-	<ARG name="ARG0">Çeviren</ARG>
-	<ARG name="ARG1">Çevirilen şey</ARG>
-	<ARG name="ARG2">Çevrildiği şey</ARG>
+	<ARG name="ARG0" function="pag">çeviren kişi</ARG>
+	<ARG name="ARG1" function="ppt">çevrilen şey</ARG>
 </FRAMESET>

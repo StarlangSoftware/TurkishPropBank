@@ -1,4 +1,4 @@
 <FRAMESET id="TUR10-0232020">
-	<ARG name="ARG1">Düzeltilen şey</ARG>
-	<ARG name="ARG0">Düzelten</ARG>
+	<ARG name="ARG0" function="pag">yanlıştan kurtaran kişi</ARG>
+	<ARG name="ARG1" function="ppt">yanlıştan kurtarılan şey</ARG>
 </FRAMESET>

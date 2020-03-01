@@ -1,5 +1,4 @@
 <FRAMESET id="TUR10-0390310">
-	<ARG name="ARG0">İzleyen</ARG>
-	<ARG name="ARG1">İzlenen şey</ARG>
-	<ARG name="ARG2">Nereden izlediği</ARG>
+	<ARG name="ARG0" function="pag">izleyen kişi</ARG>
+	<ARG name="ARG1" function="ppt">izlenen şey</ARG>
 </FRAMESET>

@@ -1,3 +1,4 @@
 <FRAMESET id="TUR10-0288510">
-	<ARG name="ARG1">Geçtiği şey</ARG>
+	<ARG name="ARG0" function="pag">geçen kişi, araç</ARG>
+	<ARG name="ARG1" function="ppt">geride kalan şey, yer</ARG>
 </FRAMESET>

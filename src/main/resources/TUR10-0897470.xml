@@ -1,4 +1,5 @@
 <FRAMESET id="TUR10-0897470">
-	<ARG name="ARG0">gerekli kılan</ARG>
-	<ARG name="ARG1">gerekli kılılan şey</ARG>
+	<ARG name="ARG0" function="pag">gerekli kılan kişi</ARG>
+	<ARG name="ARG1" function="ppt">gerekli kıldığı şey</ARG>
+	<ARG name="ARG2" function="dir">gerekli kırılan şey</ARG>
 </FRAMESET>

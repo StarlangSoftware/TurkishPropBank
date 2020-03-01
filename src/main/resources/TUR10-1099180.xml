@@ -1,3 +1,4 @@
 <FRAMESET id="TUR10-1099180">
-	<ARG name="ARG0">İlgi gösteren</ARG>
+	<ARG name="ARG0" function="pag">meyleden</ARG>
+	<ARG name="ARG1" function="dir">meyledilen</ARG>
 </FRAMESET>

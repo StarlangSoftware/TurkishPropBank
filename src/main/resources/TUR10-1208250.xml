@@ -1,4 +1,4 @@
 <FRAMESET id="TUR10-1208250">
-	<ARG name="ARG0">ittifak kuran</ARG>
-	<ARG name="ARG1">ittifak kurulan şey</ARG>
+	<ARG name="ARG0" function="pag">ittifak kuran kişi</ARG>
+	<ARG name="ARG1" function="com">ittifak kurulan kişi</ARG>
 </FRAMESET>

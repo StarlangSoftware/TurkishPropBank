@@ -1,4 +1,5 @@
 <FRAMESET id="TUR10-0887740">
-	<ARG name="ARG0">Cesaretini Kıran</ARG>
-	<ARG name="ARG1">Cesareti Kırılan</ARG>
+	<ARG name="ARG0" function="pag">cesaretini kıran kişi</ARG>
+	<ARG name="ARG1" function="ppt">cesaretini kırdığı kişi</ARG>
+	<ARG name="ARG2" function="loc">cesaretini kırdığı konu</ARG>
 </FRAMESET>

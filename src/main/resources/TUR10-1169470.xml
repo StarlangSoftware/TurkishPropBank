@@ -1,2 +1,5 @@
 <FRAMESET id="TUR10-1169470">
+	<ARG name="ARG0" function="pag">uzak tutan kişi</ARG>
+	<ARG name="ARG1" function="ppt">uzak tuttuğu şey</ARG>
+	<ARG name="ARG2" function="src">uzak tutulan şey</ARG>
 </FRAMESET>

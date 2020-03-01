@@ -1,4 +1,4 @@
 <FRAMESET id="TUR10-0445260">
-	<ARG name="ARG0">kesen</ARG>
-	<ARG name="ARG1">kesilen şey</ARG>
+	<ARG name="ARG0" function="pag">akımı durduran kişi</ARG>
+	<ARG name="ARG1" function="ppt">durdurulan akım</ARG>
 </FRAMESET>

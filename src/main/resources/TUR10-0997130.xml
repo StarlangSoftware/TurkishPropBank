@@ -1,5 +1,5 @@
 <FRAMESET id="TUR10-0997130">
-	<ARG name="ARG0">Dava açan</ARG>
-	<ARG name="ARG1">Dava açılan şey</ARG>
-	<ARG name="ARG2">Dava açma sebebi</ARG>
+	<ARG name="ARG0" function="pag">dava eden kişi</ARG>
+	<ARG name="ARG1" function="ppt">dava ettiği kişi</ARG>
+	<ARG name="ARG2" function="com">dava edilen şey</ARG>
 </FRAMESET>

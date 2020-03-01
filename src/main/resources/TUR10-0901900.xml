@@ -1,3 +1,3 @@
 <FRAMESET id="TUR10-0901900">
-	<ARG name="ARG0">İç geçiren</ARG>
+	<ARG name="ARG0" function="pag">iç geçiren kişi</ARG>
 </FRAMESET>

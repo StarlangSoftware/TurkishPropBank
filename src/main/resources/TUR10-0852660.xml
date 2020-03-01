@@ -1,4 +1,5 @@
 <FRAMESET id="TUR10-0852660">
-	<ARG name="ARG0">yetişen</ARG>
-	<ARG name="ARG1">yetişilen şey</ARG>
+	<ARG name="ARG0" function="pag">büyüyen kişi</ARG>
+	<ARG name="ARG1" function="tmp">büyüdüğü zaman</ARG>
+	<ARG name="ARG2" function="loc">büyüdüğü yer</ARG>
 </FRAMESET>

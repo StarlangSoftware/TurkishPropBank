@@ -1,4 +1,4 @@
 <FRAMESET id="TUR10-1125550">
-	<ARG name="ARG1">Saf dışı edilen şey</ARG>
-	<ARG name="ARG2">Saf dışı edilen yer</ARG>
+	<ARG name="ARG0" function="pag">saf dışı eden</ARG>
+	<ARG name="ARG1" function="ppt">saf dışı edilen</ARG>
 </FRAMESET>

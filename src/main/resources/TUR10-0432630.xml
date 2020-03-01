@@ -1,2 +1,4 @@
 <FRAMESET id="TUR10-0432630">
+	<ARG name="ARG0" function="pag">yazılan kişi</ARG>
+	<ARG name="ARG1" function="ppt">yazıldığı yer</ARG>
 </FRAMESET>

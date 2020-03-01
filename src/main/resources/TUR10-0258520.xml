@@ -1,4 +1,5 @@
 <FRAMESET id="TUR10-0258520">
-	<ARG name="ARG0">Eden</ARG>
-	<ARG name="ARG1">Edilen</ARG>
+	<ARG name="ARG0" function="pag">yoksun bırakan kişi</ARG>
+	<ARG name="ARG1" function="ppt">yoksun bırakılan kişi</ARG>
+	<ARG name="ARG2" function="ppt">kendisinden yoksun bırakılan şey</ARG>
 </FRAMESET>

@@ -1,3 +1,4 @@
 <FRAMESET id="TUR10-0474870">
-	<ARG name="ARG1">Kurtululan şey</ARG>
+	<ARG name="ARG0" function="pag">kurtulan kişi</ARG>
+	<ARG name="ARG1" function="src">kurtulduğu şey</ARG>
 </FRAMESET>

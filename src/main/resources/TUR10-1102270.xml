@@ -1,3 +1,5 @@
 <FRAMESET id="TUR10-1102270">
-	<ARG name="ARG1">mutabakat sağlanan şey</ARG>
+	<ARG name="ARG0" function="pag">mutabakat sağlayan taraf</ARG>
+	<ARG name="ARG1" function="com">mutabakat sağlanan taraf</ARG>
+	<ARG name="ARG2" function="src">mutabakata konu olan şey</ARG>
 </FRAMESET>

@@ -1,3 +1,4 @@
 <FRAMESET id="TUR10-1154260">
-	<ARG name="ARG0">Kapanan</ARG>
+	<ARG name="ARG1" function="ppt">tatile giren şey</ARG>
+	<ARG name="ARG2" function="tmp">tatil süresi</ARG>
 </FRAMESET>

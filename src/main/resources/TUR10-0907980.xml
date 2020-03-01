@@ -1,3 +1,4 @@
 <FRAMESET id="TUR10-0907980">
-	<ARG name="ARG0">Kıyamet kopan</ARG>
+	<ARG name="ARG0" function="pag">olan gürültü</ARG>
+	<ARG name="ARG1" function="loc">olduğu yer</ARG>
 </FRAMESET>

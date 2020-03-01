@@ -1,3 +1,4 @@
 <FRAMESET id="TUR10-0750040">
-	<ARG name="ARG0">Taşıyan</ARG>
+	<ARG name="ARG0" function="pag">sahip olan kişi</ARG>
+	<ARG name="ARG1" function="ppt">sahip olduğu şey</ARG>
 </FRAMESET>

@@ -1,4 +1,4 @@
 <FRAMESET id="TUR10-0042620">
-	<ARG name="ARG0">Arayan</ARG>
-	<ARG name="ARG1">Aranan</ARG>
+	<ARG name="ARG0" function="pag">isteyen</ARG>
+	<ARG name="ARG1" function="ppt">istenen</ARG>
 </FRAMESET>

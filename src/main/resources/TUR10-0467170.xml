@@ -1,4 +1,4 @@
 <FRAMESET id="TUR10-0467170">
-	<ARG name="ARG0">Meydan okuyan</ARG>
-	<ARG name="ARG1">Meydan okunan şey</ARG>
+	<ARG name="ARG0" function="pag">kokorozlanan kişi</ARG>
+	<ARG name="ARG1" function="dir">kokorozlandığı kişi</ARG>
 </FRAMESET>

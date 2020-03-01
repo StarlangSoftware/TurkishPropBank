@@ -1,4 +1,4 @@
 <FRAMESET id="TUR10-0351080">
-	<ARG name="ARG0">Hükmeden</ARG>
-	<ARG name="ARG1">Hükmedilen şey</ARG>
+	<ARG name="ARG0" function="pag">hükmeden kişi</ARG>
+	<ARG name="ARG1" function="ppt">hükmedilen kişi, topluluk</ARG>
 </FRAMESET>

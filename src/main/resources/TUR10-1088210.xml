@@ -1,4 +1,4 @@
 <FRAMESET id="TUR10-1088210">
-	<ARG name="ARG0">Kulağını çeken</ARG>
-	<ARG name="ARG1">Kulağı çekilen</ARG>
+	<ARG name="ARG0" function="pag">anan kişi</ARG>
+	<ARG name="ARG1" function="ppt">anılan kişi</ARG>
 </FRAMESET>

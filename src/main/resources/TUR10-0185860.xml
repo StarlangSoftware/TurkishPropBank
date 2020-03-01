@@ -1,3 +1,4 @@
 <FRAMESET id="TUR10-0185860">
-	<ARG name="ARG0">Dayanan</ARG>
+	<ARG name="ARG1" function="ppt">dayanan şey</ARG>
+	<ARG name="ARG2" function="ppt">dayaılan şey</ARG>
 </FRAMESET>

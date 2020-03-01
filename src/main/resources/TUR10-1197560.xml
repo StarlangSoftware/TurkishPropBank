@@ -1,3 +1,3 @@
 <FRAMESET id="TUR10-1197560">
-	<ARG name="ARG1">parçalara ayrılan şey</ARG>
+	<ARG name="ARG1" function="ppt">parçalara ayrılan şey</ARG>
 </FRAMESET>

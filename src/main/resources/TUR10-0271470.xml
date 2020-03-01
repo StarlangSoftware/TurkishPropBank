@@ -1,3 +1,4 @@
 <FRAMESET id="TUR10-0271470">
-	<ARG name="ARG0">Fırlayan</ARG>
+	<ARG name="ARG0" function="pag">aniden yer değiştiren kişi</ARG>
+	<ARG name="ARG1" function="gol">varılan nokta</ARG>
 </FRAMESET>

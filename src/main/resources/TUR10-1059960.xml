@@ -1,4 +1,4 @@
 <FRAMESET id="TUR10-1059960">
-	<ARG name="ARG0">Yer alan</ARG>
-	<ARG name="ARG2">Yerini alma şekli</ARG>
+	<ARG name="ARG0" function="pag">konumlanan </ARG>
+	<ARG name="ARG1" function="loc">konumlanılan yer</ARG>
 </FRAMESET>

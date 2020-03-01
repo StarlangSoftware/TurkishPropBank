@@ -1,4 +1,3 @@
 <FRAMESET id="TUR10-0306600">
-	<ARG name="ARG0">Görüşen</ARG>
-	<ARG name="ARG1">Görüşülen</ARG>
+	<ARG name="ARG0" function="rec">görüşen kişiler</ARG>
 </FRAMESET>

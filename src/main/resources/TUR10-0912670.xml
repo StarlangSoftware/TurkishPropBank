@@ -1,4 +1,4 @@
 <FRAMESET id="TUR10-0912670">
-	<ARG name="ARG0">Peşinde koşan</ARG>
-	<ARG name="ARG1">Peşinde koşulan şey</ARG>
+	<ARG name="ARG0" function="pag">peşinden koşan kişi</ARG>
+	<ARG name="ARG1" function="ppt">peşinden koştuğu kişi</ARG>
 </FRAMESET>

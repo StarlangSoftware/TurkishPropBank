@@ -1,4 +1,4 @@
 <FRAMESET id="TUR10-0390350">
-	<ARG name="ARG0">izleyen</ARG>
-	<ARG name="ARG1">neyi izlediği</ARG>
+	<ARG name="ARG0" function="pag">bir düşünceyi benimseyen kişi</ARG>
+	<ARG name="ARG1" function="ppt">benimsediği düşünce</ARG>
 </FRAMESET>

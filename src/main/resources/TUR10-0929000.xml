@@ -1,0 +1,5 @@
+<FRAMESET id="TUR10-0929000">
+	<ARG name="ARG0" function="pag">aktarma yapan kişi</ARG>
+	<ARG name="ARG1" function="com">aktarma yaptığı araç</ARG>
+	<ARG name="ARG2" function="gol">aktarma yaptığı yer</ARG>
+</FRAMESET>

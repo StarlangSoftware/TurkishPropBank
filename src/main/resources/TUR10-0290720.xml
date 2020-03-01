@@ -1,3 +1,4 @@
 <FRAMESET id="TUR10-0290720">
-	<ARG name="ARG0">Gelen</ARG>
+	<ARG name="ARG1" function="ppt">bir sıralaması olan kişi, şey</ARG>
+	<ARG name="ARG2" function="loc">sıra</ARG>
 </FRAMESET>

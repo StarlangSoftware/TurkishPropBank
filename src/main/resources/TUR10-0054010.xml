@@ -1,3 +1,4 @@
 <FRAMESET id="TUR10-0054010">
-	<ARG name="ARG1">Aşılan şey</ARG>
+	<ARG name="ARG0" function="pag">aşan kişi</ARG>
+	<ARG name="ARG1" function="tmp">geçen zaman</ARG>
 </FRAMESET>

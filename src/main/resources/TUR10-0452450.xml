@@ -1,3 +1,4 @@
 <FRAMESET id="TUR10-0452450">
-	<ARG name="ARG1">kırılan</ARG>
+	<ARG name="ARG0" function="pag">kıran kişi</ARG>
+	<ARG name="ARG1" function="ppt">kırdığı rekor</ARG>
 </FRAMESET>

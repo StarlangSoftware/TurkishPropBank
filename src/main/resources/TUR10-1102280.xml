@@ -1,4 +1,5 @@
 <FRAMESET id="TUR10-1102280">
-	<ARG name="ARG0">Anlaşmaya varan</ARG>
-	<ARG name="ARG1">Anlaşmaya varılan şey</ARG>
+	<ARG name="ARG0" function="pag">anlaşmaya varan taraf</ARG>
+	<ARG name="ARG1" function="com">anlaşmaya varılan taraf</ARG>
+	<ARG name="ARG2" function="ppt">anlaşma konusu</ARG>
 </FRAMESET>

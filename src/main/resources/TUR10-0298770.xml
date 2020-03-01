@@ -1,4 +1,4 @@
 <FRAMESET id="TUR10-0298770">
-	<ARG name="ARG0">giren</ARG>
-	<ARG name="ARG1">girilen şey</ARG>
+	<ARG name="ARG0" function="pag">inceleyen kişi</ARG>
+	<ARG name="ARG1" function="dir">ayrıntılar, küçük şeyler</ARG>
 </FRAMESET>

@@ -1,4 +1,4 @@
 <FRAMESET id="TUR10-1197010">
-	<ARG name="ARG0">haline gelen</ARG>
-	<ARG name="ARG1">haline gelinen şey</ARG>
+	<ARG name="ARG0" function="pag">hale gelen şey</ARG>
+	<ARG name="ARG1" function="ppt">gelinen hal</ARG>
 </FRAMESET>

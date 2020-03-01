@@ -1,4 +1,3 @@
 <FRAMESET id="TUR10-0025730">
-	<ARG name="ARG0">aldanan</ARG>
-	<ARG name="ARG1">aldanılan şey</ARG>
+	<ARG name="ARG1" function="ppt">düş kırıklığına uğrayan kişi</ARG>
 </FRAMESET>

@@ -1,3 +1,4 @@
 <FRAMESET id="TUR10-1013840">
-	<ARG name="ARG0">Durum alan</ARG>
+	<ARG name="ARG0" function="pag">belli bir duruşa geçen kişi</ARG>
+	<ARG name="ARG1" function="ppt">geçtiği duruş</ARG>
 </FRAMESET>

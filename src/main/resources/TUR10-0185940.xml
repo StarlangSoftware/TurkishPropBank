@@ -1,4 +1,3 @@
 <FRAMESET id="TUR10-0185940">
-	<ARG name="ARG0">Yeterli olan</ARG>
-	<ARG name="ARG1">Yeterli olunan şey</ARG>
+	<ARG name="ARG0" function="pag">yeterli miktarda olan şey</ARG>
 </FRAMESET>

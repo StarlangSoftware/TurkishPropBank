@@ -1,4 +1,3 @@
 <FRAMESET id="TUR10-0006630">
-	<ARG name="ARG0">Açan</ARG>
-	<ARG name="ARG1">Açılan şey</ARG>
+	<ARG name="ARG0" function="pag">çay, ırmak, dağ</ARG>
 </FRAMESET>

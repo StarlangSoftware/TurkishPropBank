@@ -1,3 +1,4 @@
 <FRAMESET id="TUR10-0115170">
-	<ARG name="ARG0">Boşanan</ARG>
+	<ARG name="ARG0" function="pag">boşanan kişi</ARG>
+	<ARG name="ARG1" function="src">boşanılan kişi</ARG>
 </FRAMESET>

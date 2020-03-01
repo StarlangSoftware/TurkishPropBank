@@ -1,4 +1,6 @@
 <FRAMESET id="TUR10-0879610">
-	<ARG name="ARG0">Atan</ARG>
-	<ARG name="ARG1">Atılan şey</ARG>
+	<ARG name="ARG0" function="pag">yerini değiştiren kişi</ARG>
+	<ARG name="ARG1" function="ppt">yerini değiştirdiği şey</ARG>
+	<ARG name="ARG2" function="src">değiştirilen yer</ARG>
+	<ARG name="ARG3" function="gol">yeni yer</ARG>
 </FRAMESET>

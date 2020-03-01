@@ -1,4 +1,4 @@
 <FRAMESET id="TUR10-0191180">
-	<ARG name="ARG0">Diyen</ARG>
-	<ARG name="ARG1">Denilen şey</ARG>
+	<ARG name="ARG0" function="pag">ses çıkaran şey, kişi</ARG>
+	<ARG name="ARG1" function="ppt">çıkan ses</ARG>
 </FRAMESET>

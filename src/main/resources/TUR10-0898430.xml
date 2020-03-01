@@ -1,3 +1,4 @@
 <FRAMESET id="TUR10-0898430">
-	<ARG name="ARG0">Güven veren</ARG>
+	<ARG name="ARG0" function="pag">güven veren kişi</ARG>
+	<ARG name="ARG1" function="dir">güven verdiği kişi</ARG>
 </FRAMESET>

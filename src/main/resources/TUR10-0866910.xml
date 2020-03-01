@@ -1,3 +1,4 @@
 <FRAMESET id="TUR10-0866910">
-	<ARG name="ARG0">İlerleyen</ARG>
+	<ARG name="ARG0" function="pag">ilerleyen şey</ARG>
+	<ARG name="ARG1" function="dir">ilerlediği yer </ARG>
 </FRAMESET>

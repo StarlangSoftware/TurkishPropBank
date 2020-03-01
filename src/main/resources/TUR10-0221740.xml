@@ -1,4 +1,4 @@
 <FRAMESET id="TUR10-0221740">
-	<ARG name="ARG0">Dönen</ARG>
-	<ARG name="ARG1">Dönülen şey</ARG>
+	<ARG name="ARG0" function="pag">yarım kalan işe devam eden kişi</ARG>
+	<ARG name="ARG1" function="ppt">yarım kalan iş, hareket</ARG>
 </FRAMESET>

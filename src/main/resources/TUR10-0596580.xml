@@ -1,3 +1,5 @@
 <FRAMESET id="TUR10-0596580">
-	<ARG name="ARG0">oynama işini yapan</ARG>
+	<ARG name="ARG0" function="pag">oyalanan kişi</ARG>
+	<ARG name="ARG1" function="ppt">oyalandığı şey</ARG>
+	<ARG name="ARG2" function="com">oyalanılan şey</ARG>
 </FRAMESET>

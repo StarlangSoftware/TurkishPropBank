@@ -1,4 +1,4 @@
 <FRAMESET id="TUR10-0894280">
-	<ARG name="ARG0">Elinde bulunduran</ARG>
-	<ARG name="ARG1">Elinde bulundurulan şey</ARG>
+	<ARG name="ARG0" function="pag">elinde bulunan kişi</ARG>
+	<ARG name="ARG1" function="dir">elinde bulunan şey</ARG>
 </FRAMESET>

@@ -1,3 +1,5 @@
 <FRAMESET id="TUR10-0007360">
-	<ARG name="ARG1">adanan şey</ARG>
+	<ARG name="ARG0" function="pag">kendini adayan kişi</ARG>
+	<ARG name="ARG1" function="ppt">kurban edilen şey, vakfedilen şey</ARG>
+	<ARG name="ARG2" function="gol">kutsal</ARG>
 </FRAMESET>

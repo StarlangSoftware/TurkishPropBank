@@ -1,5 +1,4 @@
 <FRAMESET id="TUR10-0374180">
-	<ARG name="ARG0">kapatan</ARG>
-	<ARG name="ARG2">neyde kapandığı</ARG>
-	<ARG name="ARG1">Kapatılan şey</ARG>
+	<ARG name="ARG0" function="pag">kapayan kişi</ARG>
+	<ARG name="ARG1" function="ppt">kapanan şey</ARG>
 </FRAMESET>

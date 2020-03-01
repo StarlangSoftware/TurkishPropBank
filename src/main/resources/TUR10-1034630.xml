@@ -1,4 +1,5 @@
 <FRAMESET id="TUR10-1034630">
-	<ARG name="ARG0">görevinden alan</ARG>
-	<ARG name="ARG1">görevinden alılan şey</ARG>
+	<ARG name="ARG0" function="pag">çıkaran kişi</ARG>
+	<ARG name="ARG1" function="ppt">çıkardığı kişi</ARG>
+	<ARG name="ARG2" function="src">çıkardığı görev</ARG>
 </FRAMESET>

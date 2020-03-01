@@ -1,3 +1,5 @@
 <FRAMESET id="TUR10-0290350">
-	<ARG name="ARG0">Gelen</ARG>
+	<ARG name="ARG0" function="pag">gelen kişi</ARG>
+	<ARG name="ARG1" function="dir">varılan yer</ARG>
+	<ARG name="ARG2" function="src">çıkış noktası</ARG>
 </FRAMESET>

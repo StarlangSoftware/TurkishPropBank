@@ -1,3 +1,4 @@
 <FRAMESET id="TUR10-1068420">
-	<ARG name="ARG1">Keyfini çıkarılan şey</ARG>
+	<ARG name="ARG0" function="pag">keyfini çıkaran</ARG>
+	<ARG name="ARG1" function="src">keyfi çıkarılan</ARG>
 </FRAMESET>

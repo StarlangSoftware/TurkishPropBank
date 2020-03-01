@@ -1,4 +1,4 @@
 <FRAMESET id="TUR10-0906470">
-	<ARG name="ARG0">kavgaya girişen</ARG>
-	<ARG name="ARG1">kavgaya girişilen şey</ARG>
+	<ARG name="ARG0" function="pag">kavga eden kişi</ARG>
+	<ARG name="ARG1" function="">kavga ettiği kişi</ARG>
 </FRAMESET>

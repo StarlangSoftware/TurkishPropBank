@@ -1,3 +1,4 @@
 <FRAMESET id="TUR10-0290510">
-	<ARG name="ARG0">Gelen</ARG>
+	<ARG name="ARG0" function="pag">meydana çıkan sonuç</ARG>
+	<ARG name="ARG1" function="ppt">sebep olan davranış, tutum, yapılan şey</ARG>
 </FRAMESET>

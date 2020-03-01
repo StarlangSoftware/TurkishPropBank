@@ -1,4 +1,4 @@
 <FRAMESET id="TUR10-0476830">
-	<ARG name="ARG0">Koruyan</ARG>
-	<ARG name="ARG1">Korunan şey</ARG>
+	<ARG name="ARG0" function="pag">koruyan kişi</ARG>
+	<ARG name="ARG1" function="gol">koruduğu şey</ARG>
 </FRAMESET>

@@ -1,0 +1,5 @@
+<FRAMESET id="TUR10-1008920">
+	<ARG name="ARG0" function="pag">direksiyonu döndüren kişi</ARG>
+	<ARG name="ARG1" function="ppt">döndürdüğü direksiyon</ARG>
+	<ARG name="ARG2" function="dir">direksiyonu döndürdüğü yön</ARG>
+</FRAMESET>

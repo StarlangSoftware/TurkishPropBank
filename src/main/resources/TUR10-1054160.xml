@@ -1,4 +1,4 @@
 <FRAMESET id="TUR10-1054160">
-	<ARG name="ARG0">İhtiyacı olan</ARG>
-	<ARG name="ARG1">İhtiyacı olunan şey</ARG>
+	<ARG name="ARG0" function="pag">ihtiyaç duyan</ARG>
+	<ARG name="ARG1" function="ppt">ihtiyaç duyulan</ARG>
 </FRAMESET>

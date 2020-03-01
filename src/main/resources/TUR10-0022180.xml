@@ -1,4 +1,6 @@
 <FRAMESET id="TUR10-0022180">
-	<ARG name="ARG0">aktaran</ARG>
-	<ARG name="ARG1">aktarılan şey</ARG>
+	<ARG name="ARG0" function="pag">aktaran kişi</ARG>
+	<ARG name="ARG1" function="ppt">aktarılan şey</ARG>
+	<ARG name="ARG2" function="src">aktarmanın kaynağı</ARG>
+	<ARG name="ARG3" function="dir">aktarmanın hedefi</ARG>
 </FRAMESET>

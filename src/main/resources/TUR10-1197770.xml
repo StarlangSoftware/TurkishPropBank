@@ -1,4 +1,3 @@
 <FRAMESET id="TUR10-1197770">
-	<ARG name="ARG0">sıvılaşan</ARG>
-	<ARG name="ARG1">sıvılaşılan şey</ARG>
+	<ARG name="ARG1" function="ppt">sıvılaşan şey</ARG>
 </FRAMESET>

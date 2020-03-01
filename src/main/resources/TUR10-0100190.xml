@@ -1,4 +1,4 @@
 <FRAMESET id="TUR10-0100190">
-	<ARG name="ARG0">bırakan</ARG>
-	<ARG name="ARG1">bırakılan şey</ARG>
+	<ARG name="ARG0" function="pag">engel olmayan kişi</ARG>
+	<ARG name="ARG1" function="dir">engel olunmayan şey</ARG>
 </FRAMESET>

@@ -1,4 +1,4 @@
 <FRAMESET id="TUR10-0198530">
-	<ARG name="ARG0">Destekleyen</ARG>
-	<ARG name="ARG1">Desteklenen</ARG>
+	<ARG name="ARG0" function="pag">destekleyen kişi, destekçi, destek</ARG>
+	<ARG name="ARG1" function="dir">üzerinde destek kullanılan şey, kişi</ARG>
 </FRAMESET>

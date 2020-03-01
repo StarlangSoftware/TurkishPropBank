@@ -1,4 +1,4 @@
 <FRAMESET id="TUR10-0940600">
-	<ARG name="ARG0">Öven</ARG>
-	<ARG name="ARG1">Övülen şey</ARG>
+	<ARG name="ARG0" function="pag">yücelten</ARG>
+	<ARG name="ARG1" function="ppt">yüceltilen</ARG>
 </FRAMESET>

@@ -1,4 +1,4 @@
 <FRAMESET id="TUR10-0725160">
-	<ARG name="ARG0">karıştırıcı olan</ARG>
-	<ARG name="ARG1">karışmış olan</ARG>
+	<ARG name="ARG0" function="pag">şaşıran kişi</ARG>
+	<ARG name="ARG1" function="ppt">şaşırdığı şey</ARG>
 </FRAMESET>

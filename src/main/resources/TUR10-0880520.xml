@@ -1,5 +1,6 @@
 <FRAMESET id="TUR10-0880520">
-	<ARG name="ARG0">Çıkan</ARG>
-	<ARG name="ARG1">Çıkılan şey</ARG>
-	<ARG name="ARG2">Çıkıldığı şey</ARG>
+	<ARG name="ARG0" function="pag">fiyatı arttıran kişi</ARG>
+	<ARG name="ARG1" function="src">yükselttiği oran </ARG>
+	<ARG name="ARG2" function="dir">yükseltilen oran</ARG>
+	<ARG name="ARG3" function="loc">yükselttiği alan</ARG>
 </FRAMESET>

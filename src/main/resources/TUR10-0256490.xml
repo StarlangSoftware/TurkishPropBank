@@ -1,4 +1,4 @@
 <FRAMESET id="TUR10-0256490">
-	<ARG name="ARG0">Eşlik eden</ARG>
-	<ARG name="ARG1">Eşlik edilen şey</ARG>
+	<ARG name="ARG0" function="pag">eşlik eden müzisyen</ARG>
+	<ARG name="ARG1" function="dir">eşlik edilen müzisyen, orkestra</ARG>
 </FRAMESET>

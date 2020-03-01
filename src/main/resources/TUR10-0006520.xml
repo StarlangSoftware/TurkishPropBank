@@ -1,4 +1,4 @@
 <FRAMESET id="TUR10-0006520">
-	<ARG name="ARG0">açan</ARG>
-	<ARG name="ARG1">açılan şey</ARG>
+	<ARG name="ARG0" function="pag">alışverişi başlatan kişi</ARG>
+	<ARG name="ARG1" function="ppt">alışveriş, piyasa</ARG>
 </FRAMESET>

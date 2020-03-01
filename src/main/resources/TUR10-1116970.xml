@@ -1,3 +1,4 @@
 <FRAMESET id="TUR10-1116970">
-	<ARG name="ARG0">Paraya çeviren</ARG>
+	<ARG name="ARG0" function="pag">paraya çeviren</ARG>
+	<ARG name="ARG1" function="ppt">paraya çevrilen</ARG>
 </FRAMESET>

@@ -1,0 +1,5 @@
+<FRAMESET id="TUR10-1103230">
+	<ARG name="ARG0" function="pag">müracaat eden</ARG>
+	<ARG name="ARG1" function="dir">müracaat edilen</ARG>
+	<ARG name="ARG2" function="src">müracaat konusu</ARG>
+</FRAMESET>

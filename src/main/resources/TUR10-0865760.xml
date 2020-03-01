@@ -1,4 +1,4 @@
 <FRAMESET id="TUR10-0865760">
-	<ARG name="ARG0">Yükselen</ARG>
-	<ARG name="ARG1">Yükselilen şey</ARG>
+	<ARG name="ARG0" function="pag">aşaması artan şey</ARG>
+	<ARG name="ARG1" function="ext">aşamasının arttığı oran</ARG>
 </FRAMESET>

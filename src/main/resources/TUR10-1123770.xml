@@ -1,4 +1,3 @@
 <FRAMESET id="TUR10-1123770">
-	<ARG name="ARG0">Riske giren</ARG>
-	<ARG name="ARG1">Riske girilen şey</ARG>
+	<ARG name="ARG0" function="pag">zararı göze alan</ARG>
 </FRAMESET>

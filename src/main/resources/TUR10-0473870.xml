@@ -1,4 +1,4 @@
 <FRAMESET id="TUR10-0473870">
-	<ARG name="ARG0">konuşan</ARG>
-	<ARG name="ARG1">konuşulan şey</ARG>
+	<ARG name="ARG0" function="pag">konuşan kişi</ARG>
+	<ARG name="ARG1" function="com">konuştuğu araç</ARG>
 </FRAMESET>

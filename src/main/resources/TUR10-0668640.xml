@@ -1,4 +1,5 @@
 <FRAMESET id="TUR10-0668640">
-	<ARG name="ARG0">Gözden çıkaran kişi</ARG>
-	<ARG name="ARG1">Gözden çıkarılan nesne</ARG>
+	<ARG name="ARG0" function="pag">feda eden kişi</ARG>
+	<ARG name="ARG1" function="ppt">feda ettiği şey</ARG>
+	<ARG name="ARG2" function="gol">feda edilen kişi</ARG>
 </FRAMESET>

@@ -1,4 +1,4 @@
 <FRAMESET id="TUR10-0850840">
-	<ARG name="ARG0">yerleşen</ARG>
-	<ARG name="ARG1">yerleşilen şey</ARG>
+	<ARG name="ARG0" function="pag">eşyayı yerine koyan kişi</ARG>
+	<ARG name="ARG1" function="dir">koyduğu yer</ARG>
 </FRAMESET>

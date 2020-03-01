@@ -1,2 +1,5 @@
 <FRAMESET id="TUR10-0678300">
+	<ARG name="ARG0" function="pag">serdeten kişi</ARG>
+	<ARG name="ARG1" function="ppt">serdettiği şey</ARG>
+	<ARG name="ARG2" function="loc">serdettiği alan</ARG>
 </FRAMESET>

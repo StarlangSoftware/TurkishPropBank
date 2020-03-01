@@ -1,4 +1,4 @@
 <FRAMESET id="TUR10-1005560">
-	<ARG name="ARG0">Dışına çıkan</ARG>
-	<ARG name="ARG1">Dışına çıkılan şey</ARG>
+	<ARG name="ARG0" function="pag">yetkileri aşan kişi</ARG>
+	<ARG name="ARG1" function="ppt">aştığı yetkiler</ARG>
 </FRAMESET>

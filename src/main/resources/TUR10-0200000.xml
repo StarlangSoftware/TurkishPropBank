@@ -1,0 +1,4 @@
+<FRAMESET id="TUR10-0200000">
+	<ARG name="ARG0" function="pag">okuyucu, okuyan kişi</ARG>
+	<ARG name="ARG1" function="ppt">kitap, okunacak şey</ARG>
+</FRAMESET>

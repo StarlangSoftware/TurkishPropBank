@@ -1,5 +1,4 @@
 <FRAMESET id="TUR10-1130430">
-	<ARG name="ARG0">Yol açan</ARG>
-	<ARG name="ARG1">Yol açılan şey</ARG>
-	<ARG name="ARG2">Neye yol açıldığı</ARG>
+	<ARG name="ARG0" function="pag">sebep olan</ARG>
+	<ARG name="ARG1" function="ppt">sebep olunan</ARG>
 </FRAMESET>

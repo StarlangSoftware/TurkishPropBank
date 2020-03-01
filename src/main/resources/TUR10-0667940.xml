@@ -1,4 +1,4 @@
 <FRAMESET id="TUR10-0667940">
-	<ARG name="ARG1">sarsılan şey</ARG>
-	<ARG name="ARG0">sarsma işini yapan</ARG>
+	<ARG name="ARG0" function="pag">sarsan kişi</ARG>
+	<ARG name="ARG1" function="ppt">sarstığı şey</ARG>
 </FRAMESET>

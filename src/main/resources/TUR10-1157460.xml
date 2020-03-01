@@ -1,2 +1,4 @@
 <FRAMESET id="TUR10-1157460">
+	<ARG name="ARG0" function="pag">telefon eden kişi</ARG>
+	<ARG name="ARG1" function="ppt">telefon edilen kişi</ARG>
 </FRAMESET>

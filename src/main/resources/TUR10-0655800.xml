@@ -1,3 +1,5 @@
 <FRAMESET id="TUR10-0655800">
-	<ARG name="ARG1">sağlanan şey</ARG>
+	<ARG name="ARG0" function="pag">Temin eden</ARG>
+	<ARG name="ARG1" function="ppt">Temin edilen</ARG>
+	<ARG name="ARG2" function="gol">Temin edilenin hedefi</ARG>
 </FRAMESET>

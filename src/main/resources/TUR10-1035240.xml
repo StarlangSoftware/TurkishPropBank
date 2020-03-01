@@ -1,5 +1,4 @@
 <FRAMESET id="TUR10-1035240">
-	<ARG name="ARG0">Müzakere eden</ARG>
-	<ARG name="ARG1">Müzakere edilen kişi</ARG>
-	<ARG name="ARG2">Müzakare edilen şey</ARG>
+	<ARG name="ARG0" function="pag">görüşme yapan kişi</ARG>
+	<ARG name="ARG1" function="com">görüşme yaptığı kişi</ARG>
 </FRAMESET>

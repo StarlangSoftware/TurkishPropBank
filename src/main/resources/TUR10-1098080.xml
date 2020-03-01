@@ -1,3 +1,4 @@
 <FRAMESET id="TUR10-1098080">
-	<ARG name="ARG1">Mesaj bırakılan şey</ARG>
+	<ARG name="ARG0" function="pag">mesaj bırakan</ARG>
+	<ARG name="ARG1" function="gol">kendisine mesaj bırakılan</ARG>
 </FRAMESET>

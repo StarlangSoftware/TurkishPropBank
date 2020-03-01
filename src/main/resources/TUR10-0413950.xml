@@ -1,4 +1,4 @@
 <FRAMESET id="TUR10-0413950">
-	<ARG name="ARG1">Doldurulan</ARG>
-	<ARG name="ARG2">İçine doldurulan eşya</ARG>
+	<ARG name="ARG0" function="pag">dolmasını sağlayan kişi</ARG>
+	<ARG name="ARG1" function="ppt">dolması sağlanan şey</ARG>
 </FRAMESET>

@@ -1,4 +1,4 @@
 <FRAMESET id="TUR10-1208920">
-	<ARG name="ARG0">beceremeyen</ARG>
-	<ARG name="ARG1">becerilmeyen şey</ARG>
+	<ARG name="ARG0" function="pag">Başaramayan kişi</ARG>
+	<ARG name="ARG1" function="ppt">Başarılamayan şey</ARG>
 </FRAMESET>

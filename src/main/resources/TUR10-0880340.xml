@@ -1,3 +1,5 @@
 <FRAMESET id="TUR10-0880340">
-	<ARG name="ARG0">Çıkan</ARG>
+	<ARG name="ARG0" function="pag">ortalıkta görünen kişi</ARG>
+	<ARG name="ARG1" function="ppt">ortalıkta göründüğü hal</ARG>
+	<ARG name="ARG2" function="loc">göründüğü yer</ARG>
 </FRAMESET>

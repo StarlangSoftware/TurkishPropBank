@@ -1,3 +1,4 @@
 <FRAMESET id="TUR10-0881360">
-	<ARG name="ARG0">Düşen</ARG>
+	<ARG name="ARG0" function="pag">teslim olan kişi</ARG>
+	<ARG name="ARG1" function="gol">teslim olduğu kişi</ARG>
 </FRAMESET>

@@ -1,4 +1,4 @@
 <FRAMESET id="TUR10-0305700">
-	<ARG name="ARG0">Ziyaret eden</ARG>
-	<ARG name="ARG1">Ziyaret etilen şey</ARG>
+	<ARG name="ARG0" function="pag">ziyaretçi</ARG>
+	<ARG name="ARG1" function="ppt">ziyaret edilen kişi, yer</ARG>
 </FRAMESET>

@@ -1,3 +1,4 @@
 <FRAMESET id="TUR10-1094390">
-	<ARG name="ARG2">Mahkum edilme şekli</ARG>
+	<ARG name="ARG0" function="pag">hüküm veren</ARG>
+	<ARG name="ARG1" function="ppt">hüküm giyen</ARG>
 </FRAMESET>

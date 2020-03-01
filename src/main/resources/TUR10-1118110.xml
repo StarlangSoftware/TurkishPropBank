@@ -1,4 +1,3 @@
 <FRAMESET id="TUR10-1118110">
-	<ARG name="ARG0">patlak veren</ARG>
-	<ARG name="ARG1">patlak verilen şey</ARG>
+	<ARG name="ARG0" function="pag">ortaya çıkan olay</ARG>
 </FRAMESET>

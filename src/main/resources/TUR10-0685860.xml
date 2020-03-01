@@ -1,3 +1,3 @@
 <FRAMESET id="TUR10-0685860">
-	<ARG name="ARG0">sıkılma işini yapan</ARG>
+	<ARG name="ARG0" function="pag">sıkılan kişi</ARG>
 </FRAMESET>

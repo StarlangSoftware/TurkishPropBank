@@ -1,4 +1,4 @@
 <FRAMESET id="TUR10-0961310">
-	<ARG name="ARG0">Bel bağlayan</ARG>
-	<ARG name="ARG1">Bel bağlanan şey</ARG>
+	<ARG name="ARG0" function="pag">güvenen</ARG>
+	<ARG name="ARG1" function="dir">güvenilen</ARG>
 </FRAMESET>

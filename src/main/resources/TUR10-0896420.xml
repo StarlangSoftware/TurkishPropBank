@@ -1,3 +1,6 @@
 <FRAMESET id="TUR10-0896420">
-	<ARG name="ARG1">Garanti edilen şey</ARG>
+	<ARG name="ARG0" function="pag">garanti eden kişi</ARG>
+	<ARG name="ARG1" function="ppt">garanti ettiği şey</ARG>
+	<ARG name="ARG2" function="dir">garanti ettiği kişi</ARG>
+	<ARG name="ARG3" function="tmp">garanti ettiği zaman</ARG>
 </FRAMESET>

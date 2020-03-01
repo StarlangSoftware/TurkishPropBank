@@ -1,4 +1,5 @@
 <FRAMESET id="TUR10-1197860">
-	<ARG name="ARG0">Dahil eden</ARG>
-	<ARG name="ARG1">Dahil edilen şey</ARG>
+	<ARG name="ARG0" function="pag">dahil eden kişi</ARG>
+	<ARG name="ARG1" function="ppt">dahil edilen şey</ARG>
+	<ARG name="ARG2" function="dir">içine dahil edilen grup</ARG>
 </FRAMESET>

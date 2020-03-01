@@ -1,3 +1,4 @@
 <FRAMESET id="TUR10-0880400">
-	<ARG name="ARG0">Çıkan</ARG>
+	<ARG name="ARG0" function="pag">anlaşılan şey</ARG>
+	<ARG name="ARG1" function="tmp">anlaşıldığı zaman</ARG>
 </FRAMESET>

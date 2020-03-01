@@ -1,3 +1,4 @@
 <FRAMESET id="TUR10-0305620">
-	<ARG name="ARG1">Yaşanılan şey</ARG>
+	<ARG name="ARG0" function="pag">deneyimleyen kişi</ARG>
+	<ARG name="ARG1" function="ppt">deneyim, tecrübe, olay</ARG>
 </FRAMESET>

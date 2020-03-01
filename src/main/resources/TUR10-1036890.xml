@@ -1,3 +1,4 @@
 <FRAMESET id="TUR10-1036890">
-	<ARG name="ARG0">Gözlerini kaçıran</ARG>
+	<ARG name="ARG0" function="pag">gözlerini kaçıran kişi</ARG>
+	<ARG name="ARG1" function="src">kaçırdığı şey</ARG>
 </FRAMESET>

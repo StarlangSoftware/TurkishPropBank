@@ -1,3 +1,3 @@
 <FRAMESET id="TUR10-0058070">
-	<ARG name="ARG0">Dönen</ARG>
+	<ARG name="ARG0" function="pag">geri gelen</ARG>
 </FRAMESET>

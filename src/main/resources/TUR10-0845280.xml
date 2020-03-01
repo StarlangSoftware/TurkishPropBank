@@ -1,4 +1,3 @@
 <FRAMESET id="TUR10-0845280">
-	<ARG name="ARG0">yazan</ARG>
-	<ARG name="ARG1">yazılan şey</ARG>
+	<ARG name="ARG0" function="pag">geleceği belirleyen kişi</ARG>
 </FRAMESET>

@@ -1,3 +1,4 @@
 <FRAMESET id="TUR10-0293640">
-	<ARG name="ARG0">Gerginlik yaratan</ARG>
+	<ARG name="ARG0" function="pag">gerginleştiren kişi</ARG>
+	<ARG name="ARG1" function="ppt">gerginleştirilen şey</ARG>
 </FRAMESET>

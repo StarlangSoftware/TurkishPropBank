@@ -1,4 +1,3 @@
 <FRAMESET id="TUR10-0893530">
-	<ARG name="ARG0">el tutan</ARG>
-	<ARG name="ARG1">el tutulan şey</ARG>
+	<ARG name="ARG1" function="ppt">vakit kaybettiren şey</ARG>
 </FRAMESET>

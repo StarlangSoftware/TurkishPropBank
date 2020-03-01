@@ -1,4 +1,4 @@
 <FRAMESET id="TUR10-0934260">
-	<ARG name="ARG0">altında kalan</ARG>
-	<ARG name="ARG1">altında kalılan şey</ARG>
+	<ARG name="ARG1" function="ppt">ezilen kişi</ARG>
+	<ARG name="ARG2" function="loc">ezildiği yer</ARG>
 </FRAMESET>

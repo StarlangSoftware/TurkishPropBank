@@ -1,4 +1,4 @@
 <FRAMESET id="TUR10-0462050">
-	<ARG name="ARG0">kiralayan</ARG>
-	<ARG name="ARG1">kiraladığı</ARG>
+	<ARG name="ARG0" function="pag">kiraya veren kişi</ARG>
+	<ARG name="ARG1" function="ppt">kiraya verdiği şey</ARG>
 </FRAMESET>

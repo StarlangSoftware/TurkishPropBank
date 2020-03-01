@@ -1,4 +1,5 @@
 <FRAMESET id="TUR10-1182470">
-	<ARG name="ARG0">Yer değiştiren</ARG>
-	<ARG name="ARG1">Yer değiştirilen şey</ARG>
+	<ARG name="ARG0" function="pag">yer değiştiren kişi</ARG>
+	<ARG name="ARG1" function="src">ilk yer</ARG>
+	<ARG name="ARG2" function="gol">son yer</ARG>
 </FRAMESET>

@@ -1,3 +1,4 @@
 <FRAMESET id="TUR10-0425900">
-	<ARG name="ARG1">kastedilen</ARG>
+	<ARG name="ARG0" function="pag">kasteden kişi </ARG>
+	<ARG name="ARG1" function="ppt">kastettiği şey</ARG>
 </FRAMESET>

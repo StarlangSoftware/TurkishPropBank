@@ -1,4 +1,5 @@
 <FRAMESET id="TUR10-0903840">
-	<ARG name="ARG0">işaret veren</ARG>
-	<ARG name="ARG1">işaret verilen şey</ARG>
+	<ARG name="ARG0" function="pag">işaret veren kişi</ARG>
+	<ARG name="ARG1" function="ppt">verilen işaret</ARG>
+	<ARG name="ARG2" function="gol">işaret verilen kişi</ARG>
 </FRAMESET>

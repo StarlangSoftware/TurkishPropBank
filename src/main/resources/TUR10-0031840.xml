@@ -1,4 +1,4 @@
 <FRAMESET id="TUR10-0031840">
-	<ARG name="ARG0">Amaçlayan</ARG>
-	<ARG name="ARG1">Amaçlanılan</ARG>
+	<ARG name="ARG0" function="pag">amaçlayan</ARG>
+	<ARG name="ARG1" function="gol">amaçlanan</ARG>
 </FRAMESET>

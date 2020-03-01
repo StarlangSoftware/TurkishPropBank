@@ -1,5 +1,5 @@
 <FRAMESET id="TUR10-1184190">
-	<ARG name="ARG0">Yetki veren</ARG>
-	<ARG name="ARG1">Yetki verilen şey</ARG>
-	<ARG name="ARG2">Yetki Verilen kişi</ARG>
+	<ARG name="ARG0" function="pag">yetki veren kişi</ARG>
+	<ARG name="ARG1" function="ppt">verilen yetki</ARG>
+	<ARG name="ARG2" function="gol">yetki verilen kişi</ARG>
 </FRAMESET>

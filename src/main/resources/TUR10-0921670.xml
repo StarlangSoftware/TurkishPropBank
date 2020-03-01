@@ -1,3 +1,4 @@
 <FRAMESET id="TUR10-0921670">
-	<ARG name="ARG0">Haber alan</ARG>
+	<ARG name="ARG0" function="pag">bilgi alan kişi</ARG>
+	<ARG name="ARG1" function="ppt">aldığı bilgi</ARG>
 </FRAMESET>

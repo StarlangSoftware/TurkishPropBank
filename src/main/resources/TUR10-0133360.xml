@@ -1,4 +1,3 @@
 <FRAMESET id="TUR10-0133360">
-	<ARG name="ARG0">Casusluk eden</ARG>
-	<ARG name="ARG1">Casusluk edilen şey</ARG>
+	<ARG name="ARG0" function="pag">casus</ARG>
 </FRAMESET>

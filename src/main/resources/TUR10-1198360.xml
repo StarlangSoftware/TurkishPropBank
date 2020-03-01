@@ -1,3 +1,5 @@
 <FRAMESET id="TUR10-1198360">
-	<ARG name="ARG0">Eğitim gören</ARG>
+	<ARG name="ARG0" function="pag">eğitim gören kişi</ARG>
+	<ARG name="ARG1" function="loc">eğitim görülen alan</ARG>
+	<ARG name="ARG2" function="src">eğitim görülen kişi / kurum</ARG>
 </FRAMESET>

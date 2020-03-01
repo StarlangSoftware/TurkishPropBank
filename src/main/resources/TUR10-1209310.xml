@@ -1,4 +1,4 @@
 <FRAMESET id="TUR10-1209310">
-	<ARG name="ARG0">kapsamayan</ARG>
-	<ARG name="ARG1">kapsamanılan şey</ARG>
+	<ARG name="ARG0" function="pag">Kapsayan şey</ARG>
+	<ARG name="ARG1" function="ppt">Kapsanan şey</ARG>
 </FRAMESET>

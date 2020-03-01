@@ -1,4 +1,4 @@
 <FRAMESET id="TUR10-1141100">
-	<ARG name="ARG0">sözleşme yapan</ARG>
-	<ARG name="ARG1">sözleşme yapılan şey</ARG>
+	<ARG name="ARG0" function="pag">sözleşme yapan kişi</ARG>
+	<ARG name="ARG1" function="com">sözleşme yaptığı kişi</ARG>
 </FRAMESET>

@@ -1,3 +1,4 @@
 <FRAMESET id="TUR10-0783970">
-	<ARG name="ARG1">toslanan şey</ARG>
+	<ARG name="ARG0" function="pag">toslayan kişi</ARG>
+	<ARG name="ARG1" function="dir">tosladığı şey</ARG>
 </FRAMESET>

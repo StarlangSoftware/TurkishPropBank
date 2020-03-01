@@ -1,4 +1,4 @@
 <FRAMESET id="TUR10-0412210">
-	<ARG name="ARG1">pananan</ARG>
-	<ARG name="ARG2">neyde kapandığı</ARG>
+	<ARG name="ARG0" function="pag">üzerinde durmayan kişi</ARG>
+	<ARG name="ARG1" function="ppt">üzerinde durmadığı şey</ARG>
 </FRAMESET>

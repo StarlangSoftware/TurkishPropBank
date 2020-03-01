@@ -1,3 +1,4 @@
 <FRAMESET id="TUR10-0060120">
-	<ARG name="ARG1">Ayarlanan şey</ARG>
+	<ARG name="ARG0" function="pag">ayarlayan kişi</ARG>
+	<ARG name="ARG1" function="ppt">aygıt, cihaz</ARG>
 </FRAMESET>

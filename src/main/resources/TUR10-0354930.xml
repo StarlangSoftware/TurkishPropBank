@@ -1,0 +1,5 @@
+<FRAMESET id="TUR10-0354930">
+	<ARG name="ARG0" function="pag">sipariş veren kişi</ARG>
+	<ARG name="ARG1" function="ppt">sipariş verilen ürün</ARG>
+	<ARG name="ARG2" function="src">siparişin verildiği kişi</ARG>
+</FRAMESET>

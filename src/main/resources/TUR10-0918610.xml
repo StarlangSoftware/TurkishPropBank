@@ -1,4 +1,4 @@
 <FRAMESET id="TUR10-0918610">
-	<ARG name="ARG0">açık kapı bırakan</ARG>
-	<ARG name="ARG1">açık kapı bırakılan şey</ARG>
+	<ARG name="ARG0" function="pag">açık kapı bırakan kişi</ARG>
+	<ARG name="ARG1" function="ppt">açık kapı bıraktığı şey</ARG>
 </FRAMESET>

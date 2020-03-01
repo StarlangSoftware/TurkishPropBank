@@ -1,4 +1,5 @@
 <FRAMESET id="TUR10-0850820">
-	<ARG name="ARG0">Yerleşen</ARG>
-	<ARG name="ARG1">Yerleşilen şey</ARG>
+	<ARG name="ARG0" function="pag">işe başlayan kişi</ARG>
+	<ARG name="ARG1" function="ppt">başladığı iş</ARG>
+	<ARG name="ARG2" function="loc">işe başlanan yer</ARG>
 </FRAMESET>

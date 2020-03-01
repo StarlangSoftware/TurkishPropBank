@@ -1,5 +1,4 @@
 <FRAMESET id="TUR10-0061640">
-	<ARG name="ARG0">Ayıran</ARG>
-	<ARG name="ARG1">Ayırılan şey</ARG>
-	<ARG name="ARG2">Neye ayırdığı</ARG>
+	<ARG name="ARG0" function="pag">bölen kişi</ARG>
+	<ARG name="ARG1" function="ppt">bölünen şey</ARG>
 </FRAMESET>

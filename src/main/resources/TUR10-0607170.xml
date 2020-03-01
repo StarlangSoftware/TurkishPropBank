@@ -1,4 +1,5 @@
 <FRAMESET id="TUR10-0607170">
-	<ARG name="ARG0">öykünen</ARG>
-	<ARG name="ARG1">öykünülen şey</ARG>
+	<ARG name="ARG0" function="pag">öykünen kişi</ARG>
+	<ARG name="ARG1" function="dir">öykündüğü kişi </ARG>
+	<ARG name="ARG2" function="src">öykündüğü alan</ARG>
 </FRAMESET>

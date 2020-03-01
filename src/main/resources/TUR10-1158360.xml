@@ -1,4 +1,4 @@
 <FRAMESET id="TUR10-1158360">
-	<ARG name="ARG0">Temsil eden</ARG>
-	<ARG name="ARG1">Temsil edilen şey</ARG>
+	<ARG name="ARG0" function="pag">başkası adına davranan kişi</ARG>
+	<ARG name="ARG1" function="gol">adına davranılan kişi</ARG>
 </FRAMESET>

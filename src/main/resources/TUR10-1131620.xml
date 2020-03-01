@@ -1,4 +1,4 @@
 <FRAMESET id="TUR10-1131620">
-	<ARG name="ARG0">sempati duyan</ARG>
-	<ARG name="ARG1">sempati duyulan şey</ARG>
+	<ARG name="ARG0" function="pag">sempati duyan</ARG>
+	<ARG name="ARG1" function="ppt">sempati duyulan</ARG>
 </FRAMESET>

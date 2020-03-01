@@ -1,4 +1,4 @@
 <FRAMESET id="TUR10-0636350">
-	<ARG name="ARG0">Programlayan</ARG>
-	<ARG name="ARG1">Programlanan şey</ARG>
+	<ARG name="ARG0" function="pag">Program yapan</ARG>
+	<ARG name="ARG1" function="ppt">Programı yapılan</ARG>
 </FRAMESET>

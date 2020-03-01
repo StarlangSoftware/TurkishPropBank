@@ -1,4 +1,3 @@
 <FRAMESET id="TUR10-0906903">
-	<ARG name="ARG0">kendine gelen</ARG>
-	<ARG name="ARG1">kendine gelilen şey</ARG>
+	<ARG name="ARG0" function="pag">kendine gelen kişi</ARG>
 </FRAMESET>

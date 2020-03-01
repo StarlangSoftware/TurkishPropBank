@@ -1,3 +1,4 @@
 <FRAMESET id="TUR10-1033140">
-	<ARG name="ARG0">Gölge düşüren</ARG>
+	<ARG name="ARG0" function="pag">değerini azaltan kişi</ARG>
+	<ARG name="ARG1" function="ppt">azalttığı değer</ARG>
 </FRAMESET>

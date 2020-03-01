@@ -1,4 +1,4 @@
 <FRAMESET id="TUR10-0217210">
-	<ARG name="ARG0">kaplayan</ARG>
-	<ARG name="ARG1">kaplanan</ARG>
+	<ARG name="ARG0" function="pag">bir yeri kaplayan sıvı, gaz</ARG>
+	<ARG name="ARG1" function="loc">kapalı yer, yüzey</ARG>
 </FRAMESET>

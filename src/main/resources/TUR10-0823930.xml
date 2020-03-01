@@ -1,4 +1,5 @@
 <FRAMESET id="TUR10-0823930">
-	<ARG name="ARG1">Etiketlenen</ARG>
-	<ARG name="ARG0">Etiketleyen</ARG>
+	<ARG name="ARG0" function="pag">Etiketleyen kişi</ARG>
+	<ARG name="ARG1" function="ppt">etiketlenen şey</ARG>
+	<ARG name="ARG2" function="com">etiket</ARG>
 </FRAMESET>

@@ -1,3 +1,4 @@
 <FRAMESET id="TUR10-0750000">
-	<ARG name="ARG1">taşınan şey</ARG>
+	<ARG name="ARG0" function="pag">üstünde bulunduran kişi</ARG>
+	<ARG name="ARG1" function="ppt">üstünde bulundurduğu şey</ARG>
 </FRAMESET>

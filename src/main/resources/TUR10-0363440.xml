@@ -1,3 +1,4 @@
 <FRAMESET id="TUR10-0363440">
-	<ARG name="ARG1">Çıkarılan</ARG>
+	<ARG name="ARG0" function="pag">ihraç eden kişi</ARG>
+	<ARG name="ARG1" function="ppt">ihraç edilen şey</ARG>
 </FRAMESET>

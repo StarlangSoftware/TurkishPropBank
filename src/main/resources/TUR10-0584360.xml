@@ -1,5 +1,5 @@
 <FRAMESET id="TUR10-0584360">
-	<ARG name="ARG0">Çağıran</ARG>
-	<ARG name="ARG2">kimin için çağrıldığı</ARG>
-	<ARG name="ARG1">Çağırılan şey</ARG>
+	<ARG name="ARG0" function="pag">davet eden kişi</ARG>
+	<ARG name="ARG1" function="ppt">davet edilen kişi</ARG>
+	<ARG name="ARG2" function="dir">davet edilen yer</ARG>
 </FRAMESET>

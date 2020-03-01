@@ -1,4 +1,4 @@
 <FRAMESET id="TUR10-0643980">
-	<ARG name="ARG0">reddetme işini yapan</ARG>
-	<ARG name="ARG1">reddedilen şey</ARG>
+	<ARG name="ARG0" function="pag">Geri çeviren</ARG>
+	<ARG name="ARG1" function="ppt">Geri çevrilen</ARG>
 </FRAMESET>

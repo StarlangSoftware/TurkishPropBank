@@ -1,3 +1,5 @@
 <FRAMESET id="TUR10-1005580">
-	<ARG name="ARG1">Dışında bırakılan şey</ARG>
+	<ARG name="ARG0" function="pag">hariç tutan kişi</ARG>
+	<ARG name="ARG1" function="ppt">hariç tuttuğu şey</ARG>
+	<ARG name="ARG2" function="loc">hariç tutulan yer</ARG>
 </FRAMESET>

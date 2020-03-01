@@ -1,3 +1,4 @@
 <FRAMESET id="TUR10-0089650">
-	<ARG name="ARG1">Umut etilen şey</ARG>
+	<ARG name="ARG0" function="pag">uman kişi</ARG>
+	<ARG name="ARG1" function="ppt">umulan şey</ARG>
 </FRAMESET>

@@ -1,3 +1,3 @@
 <FRAMESET id="TUR10-0839660">
-	<ARG name="ARG1">yaşanan şey</ARG>
+	<ARG name="ARG0" function="pag">Bir durumu hisseden kişi</ARG>
 </FRAMESET>

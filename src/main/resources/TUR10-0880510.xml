@@ -1,3 +1,5 @@
 <FRAMESET id="TUR10-0880510">
-	<ARG name="ARG0">Çıkan</ARG>
+	<ARG name="ARG1" function="ppt">yükselen fiyat</ARG>
+	<ARG name="ARG2" function="src">yükseldiği oran </ARG>
+	<ARG name="ARG3" function="gol">yüksenilen oran </ARG>
 </FRAMESET>

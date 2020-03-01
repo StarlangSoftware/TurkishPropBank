@@ -1,4 +1,5 @@
 <FRAMESET id="TUR10-0964280">
-	<ARG name="ARG0">beyan eden</ARG>
-	<ARG name="ARG1">beyan etilen şey</ARG>
+	<ARG name="ARG0" function="pag">beyan eden</ARG>
+	<ARG name="ARG1" function="ppt">beyan edilen şey</ARG>
+	<ARG name="ARG2" function="dir">beyanın hitap ettiği kişi ya da kişiler</ARG>
 </FRAMESET>

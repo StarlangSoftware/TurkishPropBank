@@ -1,3 +1,4 @@
 <FRAMESET id="TUR10-1107840">
-	<ARG name="ARG0">Etkisini gösteren</ARG>
+	<ARG name="ARG0" function="pag">etkili olan</ARG>
+	<ARG name="ARG1" function="dir">üzerinde etkili olunan</ARG>
 </FRAMESET>

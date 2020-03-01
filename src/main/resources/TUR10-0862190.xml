@@ -1,3 +1,4 @@
 <FRAMESET id="TUR10-0862190">
-	<ARG name="ARG0">Göz yuman</ARG>
+	<ARG name="ARG0" function="pag">yuman kişi</ARG>
+	<ARG name="ARG1" function="ppt">yumduğu şey</ARG>
 </FRAMESET>

@@ -1,4 +1,5 @@
 <FRAMESET id="TUR10-0864500">
-	<ARG name="ARG0">yuvarlanan</ARG>
-	<ARG name="ARG1">yuvarlanılan şey</ARG>
+	<ARG name="ARG0" function="pag">devrilen kişi</ARG>
+	<ARG name="ARG1" function="src">devrildiği yer</ARG>
+	<ARG name="ARG2" function="dir">devrinilen yer</ARG>
 </FRAMESET>

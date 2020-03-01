@@ -1,3 +1,4 @@
 <FRAMESET id="TUR10-1117870">
-	<ARG name="ARG1">Pastörize edilen şey</ARG>
+	<ARG name="ARG0" function="pag">pastörize eden</ARG>
+	<ARG name="ARG1" function="ppt">pastörize edilen</ARG>
 </FRAMESET>

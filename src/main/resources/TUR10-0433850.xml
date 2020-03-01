@@ -1,4 +1,4 @@
 <FRAMESET id="TUR10-0433850">
-	<ARG name="ARG0">Kayyan</ARG>
-	<ARG name="ARG1">Kayyılan şey</ARG>
+	<ARG name="ARG0" function="pag">anlamı değişen şey</ARG>
+	<ARG name="ARG1" function="gol">kaydığı anlam</ARG>
 </FRAMESET>

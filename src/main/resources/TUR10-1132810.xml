@@ -1,4 +1,3 @@
 <FRAMESET id="TUR10-1132810">
-	<ARG name="ARG0">sesini yükselten</ARG>
-	<ARG name="ARG1">sesini yükseltilen şey</ARG>
+	<ARG name="ARG0" function="pag">sesini yükselten</ARG>
 </FRAMESET>

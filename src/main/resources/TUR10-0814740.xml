@@ -1,3 +1,4 @@
 <FRAMESET id="TUR10-0814740">
-	<ARG name="ARG0">Varan</ARG>
+	<ARG name="ARG0" function="pag">hoş olmayan sonuca varan kişi</ARG>
+	<ARG name="ARG1" function="gol">varılan sonuç</ARG>
 </FRAMESET>

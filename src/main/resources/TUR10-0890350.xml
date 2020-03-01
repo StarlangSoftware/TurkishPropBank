@@ -1,3 +1,6 @@
 <FRAMESET id="TUR10-0890350">
-	<ARG name="ARG1">dört gözle beklenen şey</ARG>
+	<ARG name="ARG0" function="pag">bekleyen kişi</ARG>
+	<ARG name="ARG1" function="ppt">beklediği şey</ARG>
+	<ARG name="ARG2" function="loc">beklediği yer</ARG>
+	<ARG name="ARG3" function="tmp">beklediği süre </ARG>
 </FRAMESET>

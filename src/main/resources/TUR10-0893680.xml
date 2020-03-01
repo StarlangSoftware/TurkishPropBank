@@ -1,4 +1,5 @@
 <FRAMESET id="TUR10-0893680">
-	<ARG name="ARG0">elden bırakmayan</ARG>
-	<ARG name="ARG1">elden bırakmanılan şey</ARG>
+	<ARG name="ARG0" function="pag">elden düşürmeyen kişi</ARG>
+	<ARG name="ARG1" function="ppt">elden düşürmediği şey</ARG>
+	<ARG name="ARG2" function="tmp">elden düşürmediği süre</ARG>
 </FRAMESET>

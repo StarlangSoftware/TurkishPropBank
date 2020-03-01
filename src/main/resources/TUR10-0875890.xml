@@ -1,5 +1,4 @@
 <FRAMESET id="TUR10-0875890">
-	<ARG name="ARG0">Zikreden</ARG>
-	<ARG name="ARG1">Zikretilen şey</ARG>
-	<ARG name="ARG2">Kime zikrettiği</ARG>
+	<ARG name="ARG0" function="pag">zikreden kişi</ARG>
+	<ARG name="ARG1" function="ppt">zikrettiği şey</ARG>
 </FRAMESET>

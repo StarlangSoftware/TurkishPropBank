@@ -1,4 +1,5 @@
 <FRAMESET id="TUR10-0801700">
-	<ARG name="ARG0">uyarlayan</ARG>
-	<ARG name="ARG1">uyarlanılan şey</ARG>
+	<ARG name="ARG0" function="pag">uyduran</ARG>
+	<ARG name="ARG1" function="ppt">uydurduğu şey</ARG>
+	<ARG name="ARG2" function="ppt">uydurulan şey</ARG>
 </FRAMESET>

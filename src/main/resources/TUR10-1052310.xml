@@ -1,4 +1,5 @@
 <FRAMESET id="TUR10-1052310">
-	<ARG name="ARG0">ibraz eden</ARG>
-	<ARG name="ARG1">ibraz etilen şey</ARG>
+	<ARG name="ARG0" function="pag">ibraz eden </ARG>
+	<ARG name="ARG1" function="ppt">ibraz edilen şey</ARG>
+	<ARG name="ARG2" function="gol">ibraz edilen mevki, makan, kurum ya da kişi</ARG>
 </FRAMESET>

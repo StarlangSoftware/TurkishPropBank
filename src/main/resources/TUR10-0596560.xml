@@ -1,3 +1,4 @@
 <FRAMESET id="TUR10-0596560">
-	<ARG name="ARG0">Oynayan</ARG>
+	<ARG name="ARG0" function="pag">değişiklik gösteren şey</ARG>
+	<ARG name="ARG1" function="dir">değiştiği durum</ARG>
 </FRAMESET>

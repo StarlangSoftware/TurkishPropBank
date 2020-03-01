@@ -1,4 +1,4 @@
 <FRAMESET id="TUR10-0990200">
-	<ARG name="ARG0">Çıkmaza sokan</ARG>
-	<ARG name="ARG1">Çıkmaza sokulan şey</ARG>
+	<ARG name="ARG0" function="pag">çıkmaza sokan kişi</ARG>
+	<ARG name="ARG1" function="ppt">çıkmaza soktuğu iş</ARG>
 </FRAMESET>

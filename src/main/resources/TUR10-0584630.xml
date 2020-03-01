@@ -1,3 +1,4 @@
 <FRAMESET id="TUR10-0584630">
-	<ARG name="ARG0">Ders veren</ARG>
+	<ARG name="ARG0" function="pag">ders veren kişi</ARG>
+	<ARG name="ARG1" function="dir">ders verdiği kişi</ARG>
 </FRAMESET>

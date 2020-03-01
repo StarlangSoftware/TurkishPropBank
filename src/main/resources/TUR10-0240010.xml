@@ -1,6 +1,3 @@
 <FRAMESET id="TUR10-0240010">
-	<ARG name="ARG0">Azalan</ARG>
-	<ARG name="ARG1">Azalılan şey</ARG>
-	<ARG name="ARG3">Azalma noktası</ARG>
-	<ARG name="ARG4">Azaldığı nokta</ARG>
+	<ARG name="ARG1" function="ppt">azalan şey</ARG>
 </FRAMESET>

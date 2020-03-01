@@ -1,3 +1,4 @@
 <FRAMESET id="TUR10-0013990">
-	<ARG name="ARG1">ağlanan şey</ARG>
+	<ARG name="ARG0" function="pag">ağlayan</ARG>
+	<ARG name="ARG1" function="src">ağlama sebebi, üzüntü</ARG>
 </FRAMESET>

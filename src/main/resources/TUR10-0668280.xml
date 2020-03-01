@@ -1,4 +1,5 @@
 <FRAMESET id="TUR10-0668280">
-	<ARG name="ARG0">satılan</ARG>
-	<ARG name="ARG1">satılılan şey</ARG>
+	<ARG name="ARG0" function="pag">satılan kişi</ARG>
+	<ARG name="ARG1" function="ppt">satıldığı kişi</ARG>
+	<ARG name="ARG2" function="ppt">satın alınan hizmeti</ARG>
 </FRAMESET>

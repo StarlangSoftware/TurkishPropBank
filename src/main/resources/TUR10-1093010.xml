@@ -1,4 +1,4 @@
 <FRAMESET id="TUR10-1093010">
-	<ARG name="ARG0">Lanse eden</ARG>
-	<ARG name="ARG1">Lanse edilen şey</ARG>
+	<ARG name="ARG0" function="pag">önceye alan</ARG>
+	<ARG name="ARG1" function="ppt">önceye alınan</ARG>
 </FRAMESET>

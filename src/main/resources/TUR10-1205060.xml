@@ -1,0 +1,5 @@
+<FRAMESET id="TUR10-1205060">
+	<ARG name="ARG0" function="pag">pozisyon değiştiren kişi</ARG>
+	<ARG name="ARG1" function="src">baştaki pozisyon</ARG>
+	<ARG name="ARG2" function="dir">sondaki pozisyon</ARG>
+</FRAMESET>

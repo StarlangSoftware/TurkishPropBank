@@ -1,4 +1,4 @@
 <FRAMESET id="TUR10-0642620">
-	<ARG name="ARG0">raporlama işini yapan kişi</ARG>
-	<ARG name="ARG1">raporlanan şey</ARG>
+	<ARG name="ARG0" function="pag">Rapor haline getiren</ARG>
+	<ARG name="ARG1" function="ppt">Rapor haline getirilen</ARG>
 </FRAMESET>

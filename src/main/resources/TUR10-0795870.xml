@@ -1,4 +1,4 @@
 <FRAMESET id="TUR10-0795870">
-	<ARG name="ARG0">Uçan</ARG>
-	<ARG name="ARG1">Uçulan şey</ARG>
+	<ARG name="ARG0" function="pag">havayolu ile giden kişi</ARG>
+	<ARG name="ARG1" function="dir">gittiği yer </ARG>
 </FRAMESET>

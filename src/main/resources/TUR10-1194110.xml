@@ -1,4 +1,4 @@
 <FRAMESET id="TUR10-1194110">
-	<ARG name="ARG0">zorluk çıkaran</ARG>
-	<ARG name="ARG1">zorluk çıkarılan şey</ARG>
+	<ARG name="ARG0" function="pag">zorluk çıkaran kişi</ARG>
+	<ARG name="ARG1" function="ppt">zorluk çıkarılan şey</ARG>
 </FRAMESET>

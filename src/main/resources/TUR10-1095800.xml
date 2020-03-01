@@ -1,5 +1,5 @@
 <FRAMESET id="TUR10-1095800">
-	<ARG name="ARG0">Maruz bırakan</ARG>
-	<ARG name="ARG1">Maruz bırakılan şey</ARG>
-	<ARG name="ARG2">Maruz bırakılan durum</ARG>
+	<ARG name="ARG0" function="pag">maruz bırakan</ARG>
+	<ARG name="ARG1" function="dir">maruz kalan</ARG>
+	<ARG name="ARG2" function="ppt">maruz kalınan şey</ARG>
 </FRAMESET>

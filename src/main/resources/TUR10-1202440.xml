@@ -1,0 +1,5 @@
+<FRAMESET id="TUR10-1202440">
+	<ARG name="ARG0" function="pag">parkeden kişi</ARG>
+	<ARG name="ARG1" function="ppt">parkedilen taşıt</ARG>
+	<ARG name="ARG2" function="loc">parkedilen yer</ARG>
+</FRAMESET>

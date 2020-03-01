@@ -1,3 +1,4 @@
 <FRAMESET id="TUR10-0402350">
-	<ARG name="ARG1">neyi kaldıracağı</ARG>
+	<ARG name="ARG0" function="pag">piyasadan çeken kişi</ARG>
+	<ARG name="ARG1" function="ppt">piyasadan çekilen şey</ARG>
 </FRAMESET>

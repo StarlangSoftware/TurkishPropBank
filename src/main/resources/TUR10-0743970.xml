@@ -1,4 +1,5 @@
 <FRAMESET id="TUR10-0743970">
-	<ARG name="ARG0">Tanıyan</ARG>
-	<ARG name="ARG1">Tanınan şey</ARG>
+	<ARG name="ARG0" function="pag">süre veren kişi</ARG>
+	<ARG name="ARG1" function="gol">süre verilen kişi</ARG>
+	<ARG name="ARG2" function="tmp">verilen süre </ARG>
 </FRAMESET>

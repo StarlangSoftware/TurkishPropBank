@@ -1,3 +1,5 @@
 <FRAMESET id="TUR10-0889040">
-	<ARG name="ARG0">Dara düşen</ARG>
+	<ARG name="ARG0" function="pag">dara düşen kişi</ARG>
+	<ARG name="ARG1" function="tmp">dara düştüğü zaman</ARG>
+	<ARG name="ARG2" function="loc">dara düştüğü durum</ARG>
 </FRAMESET>

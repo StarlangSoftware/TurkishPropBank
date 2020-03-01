@@ -1,5 +1,5 @@
 <FRAMESET id="TUR10-0071360">
-	<ARG name="ARG1">Bahsedilen</ARG>
-	<ARG name="ARG0">Bahseden</ARG>
-	<ARG name="ARG2">Bahsettiği kişi/şey</ARG>
+	<ARG name="ARG0" function="pag">söz eden kişi</ARG>
+	<ARG name="ARG1" function="ppt">sözü edilen şey</ARG>
+	<ARG name="ARG2" function="gol">söz edilen kişi</ARG>
 </FRAMESET>

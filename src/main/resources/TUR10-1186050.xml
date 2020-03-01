@@ -1,4 +1,4 @@
 <FRAMESET id="TUR10-1186050">
-	<ARG name="ARG0">Yol bulan</ARG>
-	<ARG name="ARG1">Yol bulunan şey</ARG>
+	<ARG name="ARG0" function="pag">çare bulan kişi</ARG>
+	<ARG name="ARG1" function="gol">çare bulunan konu</ARG>
 </FRAMESET>

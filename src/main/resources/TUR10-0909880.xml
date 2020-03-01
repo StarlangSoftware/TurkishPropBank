@@ -1,4 +1,5 @@
 <FRAMESET id="TUR10-0909880">
-	<ARG name="ARG0">Alay eden</ARG>
-	<ARG name="ARG1">Alay edilen kişi</ARG>
+	<ARG name="ARG0" function="pag">maskaraya alan kişi</ARG>
+	<ARG name="ARG1" function="ppt">maskaraya aldığı kişi</ARG>
+	<ARG name="ARG2" function="src">maskaraya aldığı alan</ARG>
 </FRAMESET>

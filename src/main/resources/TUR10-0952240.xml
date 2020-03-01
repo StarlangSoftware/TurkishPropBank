@@ -1,4 +1,6 @@
 <FRAMESET id="TUR10-0952240">
-	<ARG name="ARG0">bağlantı kuran</ARG>
-	<ARG name="ARG1">bağlantı kurulan şey</ARG>
+	<ARG name="ARG0" function="pag">irtibat sağlayan kişi</ARG>
+	<ARG name="ARG1" function="ppt">sağladığı irtibat</ARG>
+	<ARG name="ARG2" function="gol">irtibat sağladığı kişi</ARG>
+	<ARG name="ARG3" function="com">irtibat sağladığı araç</ARG>
 </FRAMESET>

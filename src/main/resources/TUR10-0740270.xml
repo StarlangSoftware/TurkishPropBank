@@ -1,4 +1,4 @@
 <FRAMESET id="TUR10-0740270">
-	<ARG name="ARG1">Takip etilen şey</ARG>
-	<ARG name="ARG0">Takip eden</ARG>
+	<ARG name="ARG0" function="pag">dinleyen kişi </ARG>
+	<ARG name="ARG1" function="ppt">dinlediği şey</ARG>
 </FRAMESET>

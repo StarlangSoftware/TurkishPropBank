@@ -1,3 +1,4 @@
 <FRAMESET id="TUR10-0682580">
-	<ARG name="ARG0">sevme işini yapan</ARG>
+	<ARG name="ARG0" function="pag">uygun bulan kişi</ARG>
+	<ARG name="ARG1" function="ppt">uygun bulduğu şey</ARG>
 </FRAMESET>

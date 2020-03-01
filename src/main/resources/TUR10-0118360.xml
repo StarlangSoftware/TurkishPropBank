@@ -1,4 +1,3 @@
 <FRAMESET id="TUR10-0118360">
-	<ARG name="ARG0">bozuşan</ARG>
-	<ARG name="ARG1">bozuşulan şey</ARG>
+	<ARG name="ARG0" function="rec">bozuşan kişi</ARG>
 </FRAMESET>

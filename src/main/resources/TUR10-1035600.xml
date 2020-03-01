@@ -1,3 +1,4 @@
 <FRAMESET id="TUR10-1035600">
-	<ARG name="ARG1">Göz ardı edilen şey</ARG>
+	<ARG name="ARG0" function="pag">önem vermeyen kişi</ARG>
+	<ARG name="ARG1" function="ppt">önem vermediği şey</ARG>
 </FRAMESET>

@@ -1,0 +1,5 @@
+<FRAMESET id="TUR10-1033540">
+	<ARG name="ARG0" function="pag">gönderme yapan kişi</ARG>
+	<ARG name="ARG1" function="ppt">gönderme yaptığı şey</ARG>
+	<ARG name="ARG2" function="dir">gönderme yapılan şey</ARG>
+</FRAMESET>

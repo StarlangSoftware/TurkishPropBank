@@ -1,4 +1,4 @@
 <FRAMESET id="TUR10-1098570">
-	<ARG name="ARG0">metanet gösteren</ARG>
-	<ARG name="ARG1">metanet gösterilen şey</ARG>
+	<ARG name="ARG0" function="pag">kötü duruma katlanan</ARG>
+	<ARG name="ARG1" function="ppt">katlanılaln kötü durum</ARG>
 </FRAMESET>

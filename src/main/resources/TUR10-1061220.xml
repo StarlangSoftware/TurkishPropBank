@@ -1,4 +1,4 @@
 <FRAMESET id="TUR10-1061220">
-	<ARG name="ARG0">Sarf eden</ARG>
-	<ARG name="ARG1">Sarf etilen şey</ARG>
+	<ARG name="ARG0" function="pag">kullanan </ARG>
+	<ARG name="ARG1" function="ppt">kullanılan</ARG>
 </FRAMESET>

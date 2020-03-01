@@ -1,4 +1,4 @@
 <FRAMESET id="TUR10-0543230">
-	<ARG name="ARG0">Mırıldanan</ARG>
-	<ARG name="ARG1">Mırıldanılan şey</ARG>
+	<ARG name="ARG0" function="pag">mırıldanan kişi</ARG>
+	<ARG name="ARG1" function="ppt">mırıldandığı şey</ARG>
 </FRAMESET>

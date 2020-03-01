@@ -1,4 +1,4 @@
 <FRAMESET id="TUR10-0769950">
-	<ARG name="ARG0">Tecrübe eden</ARG>
-	<ARG name="ARG1">Tecrübe edilen şey</ARG>
+	<ARG name="ARG0" function="pag">sınayan kişi</ARG>
+	<ARG name="ARG1" function="ppt">sınadığı şey</ARG>
 </FRAMESET>

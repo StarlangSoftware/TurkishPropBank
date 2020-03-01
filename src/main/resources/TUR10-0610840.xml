@@ -1,3 +1,4 @@
 <FRAMESET id="TUR10-0610840">
-	<ARG name="ARG1">Paketlenen</ARG>
+	<ARG name="ARG0" function="pag">paketleyen kişi</ARG>
+	<ARG name="ARG1" function="ppt">paketlediği şey</ARG>
 </FRAMESET>

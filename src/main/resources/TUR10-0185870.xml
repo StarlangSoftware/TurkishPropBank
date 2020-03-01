@@ -1,4 +1,4 @@
 <FRAMESET id="TUR10-0185870">
-	<ARG name="ARG0">Dayanan</ARG>
-	<ARG name="ARG1">Dayanılan şey</ARG>
+	<ARG name="ARG0" function="pag">karşı koyan şey, kişi</ARG>
+	<ARG name="ARG1" function="dir">karşı konulan şey, kişi</ARG>
 </FRAMESET>

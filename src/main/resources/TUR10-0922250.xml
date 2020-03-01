@@ -1,4 +1,5 @@
 <FRAMESET id="TUR10-0922250">
-	<ARG name="ARG0">ağır basan</ARG>
-	<ARG name="ARG1">ağır basılan şey</ARG>
+	<ARG name="ARG0" function="pag">etkisi üstün basan şey</ARG>
+	<ARG name="ARG1" function="dir">etkisinin üstün geldiği şey</ARG>
+	<ARG name="ARG2" function="loc">etkisinin üstün geldiği alan</ARG>
 </FRAMESET>

@@ -1,4 +1,4 @@
 <FRAMESET id="TUR10-0390320">
-	<ARG name="ARG0">seyretme işini yapan</ARG>
-	<ARG name="ARG1">seyredilen şey</ARG>
+	<ARG name="ARG0" function="pag">bakan kişi</ARG>
+	<ARG name="ARG1" function="dir">bakılan şey</ARG>
 </FRAMESET>

@@ -1,4 +1,3 @@
 <FRAMESET id="TUR10-1152000">
-	<ARG name="ARG0">tansiyonu çıkan</ARG>
-	<ARG name="ARG1">tansiyonu çıkılan şey</ARG>
+	<ARG name="ARG1" function="ppt">tansiyonu yükselen kişi</ARG>
 </FRAMESET>

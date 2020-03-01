@@ -1,3 +1,3 @@
 <FRAMESET id="TUR10-1134400">
-	<ARG name="ARG0">Sıkıntıda olan</ARG>
+	<ARG name="ARG1" function="ppt">sıkıntıda olan</ARG>
 </FRAMESET>

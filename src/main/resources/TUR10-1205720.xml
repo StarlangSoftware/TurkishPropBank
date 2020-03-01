@@ -1,3 +1,4 @@
 <FRAMESET id="TUR10-1205720">
-	<ARG name="ARG0">Rüya gören</ARG>
+	<ARG name="ARG0" function="pag">rüya gören kişi</ARG>
+	<ARG name="ARG1" function="ppt">gördüğü rüya</ARG>
 </FRAMESET>

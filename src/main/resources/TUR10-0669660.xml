@@ -1,4 +1,5 @@
 <FRAMESET id="TUR10-0669660">
-	<ARG name="ARG1">savunulan şey</ARG>
-	<ARG name="ARG0">savunma işini yapan</ARG>
+	<ARG name="ARG0" function="pag">savunan kişi</ARG>
+	<ARG name="ARG1" function="ppt">savunduğu şey</ARG>
+	<ARG name="ARG2" function="ppt">savunulan kişi</ARG>
 </FRAMESET>

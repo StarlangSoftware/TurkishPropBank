@@ -1,4 +1,4 @@
 <FRAMESET id="TUR10-0982910">
-	<ARG name="ARG0">cevap veren</ARG>
-	<ARG name="ARG1">cevap verilen şey</ARG>
+	<ARG name="ARG0" function="pag">gereksinimini karşılayan kişi</ARG>
+	<ARG name="ARG1" function="gol">gereksinimini karşıladığı şey</ARG>
 </FRAMESET>

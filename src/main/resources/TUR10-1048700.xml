@@ -1,4 +1,4 @@
 <FRAMESET id="TUR10-1048700">
-	<ARG name="ARG1">Kale almanılan şey</ARG>
-	<ARG name="ARG0">Kale almayan</ARG>
+	<ARG name="ARG0" function="pag">önem vermeyen kişi</ARG>
+	<ARG name="ARG1" function="gol">önem vermediği şey</ARG>
 </FRAMESET>

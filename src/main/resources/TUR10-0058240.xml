@@ -1,4 +1,4 @@
 <FRAMESET id="TUR10-0058240">
-	<ARG name="ARG0">Avlayan</ARG>
-	<ARG name="ARG1">Avlanan şey</ARG>
+	<ARG name="ARG0" function="pag">kurnaz, sahtekar</ARG>
+	<ARG name="ARG1" function="ppt">kandırılan kişi</ARG>
 </FRAMESET>

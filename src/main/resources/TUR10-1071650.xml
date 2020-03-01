@@ -1,4 +1,4 @@
 <FRAMESET id="TUR10-1071650">
-	<ARG name="ARG0">kara yasa bürünen</ARG>
-	<ARG name="ARG1">kara yasa bürünülen şey</ARG>
+	<ARG name="ARG0" function="pag">düşünen</ARG>
+	<ARG name="ARG1" function="ppt">düşündüğü şey</ARG>
 </FRAMESET>

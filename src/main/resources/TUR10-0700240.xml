@@ -1,5 +1,4 @@
 <FRAMESET id="TUR10-0700240">
-	<ARG name="ARG0">Sokan</ARG>
-	<ARG name="ARG1">Sokulan şey</ARG>
-	<ARG name="ARG2">Kimi soktuğu</ARG>
+	<ARG name="ARG0" function="pag">sokan kişi</ARG>
+	<ARG name="ARG1" function="ppt">sokulan şey</ARG>
 </FRAMESET>

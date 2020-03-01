@@ -1,3 +1,4 @@
 <FRAMESET id="TUR10-0298990">
-	<ARG name="ARG0">Giden</ARG>
+	<ARG name="ARG0" function="pag">bir işi, görevi bırakıp oradan giden kişi</ARG>
+	<ARG name="ARG1" function="src">ayrılınan yer</ARG>
 </FRAMESET>

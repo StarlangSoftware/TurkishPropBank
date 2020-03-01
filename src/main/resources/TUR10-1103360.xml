@@ -1,3 +1,5 @@
 <FRAMESET id="TUR10-1103360">
-	<ARG name="ARG0">Yol açan</ARG>
+	<ARG name="ARG0" function="pag">müsaade eden kişi</ARG>
+	<ARG name="ARG1" function="gol">müsaade edilen kişi</ARG>
+	<ARG name="ARG2" function="src">müsaadeye konu olan şey</ARG>
 </FRAMESET>

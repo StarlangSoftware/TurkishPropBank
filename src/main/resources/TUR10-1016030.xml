@@ -1,4 +1,4 @@
 <FRAMESET id="TUR10-1016030">
-	<ARG name="ARG0">Düşünüp taşınan</ARG>
-	<ARG name="ARG1">Düşünüp taşınılan şey</ARG>
+	<ARG name="ARG0" function="pag">iyice düşünen kişi</ARG>
+	<ARG name="ARG1" function="ppt">düşündüğü şey</ARG>
 </FRAMESET>

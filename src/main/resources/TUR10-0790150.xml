@@ -1,3 +1,4 @@
 <FRAMESET id="TUR10-0790150">
-	<ARG name="ARG0">Süren</ARG>
+	<ARG name="ARG1" function="ppt">süren şey</ARG>
+	<ARG name="ARG2" function="tmp">süre</ARG>
 </FRAMESET>

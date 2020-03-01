@@ -1,2 +1,6 @@
 <FRAMESET id="TUR10-0913810">
+	<ARG name="ARG0" function="pag">imkan veren kişi</ARG>
+	<ARG name="ARG1" function="ppt">verdiği imkan</ARG>
+	<ARG name="ARG2" function="ppt">imkan verdiği şey</ARG>
+	<ARG name="ARG3" function="gol">imkan verilen şey</ARG>
 </FRAMESET>

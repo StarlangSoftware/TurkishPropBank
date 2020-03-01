@@ -1,3 +1,4 @@
 <FRAMESET id="TUR10-0801710">
-	<ARG name="ARG2">Neyden uyarlandığı</ARG>
+	<ARG name="ARG0" function="pag">uyarlayan kişi</ARG>
+	<ARG name="ARG1" function="ppt">uyarladığı şey</ARG>
 </FRAMESET>

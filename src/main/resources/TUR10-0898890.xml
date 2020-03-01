@@ -1,4 +1,4 @@
 <FRAMESET id="TUR10-0898890">
-	<ARG name="ARG0">Arasını açan</ARG>
-	<ARG name="ARG2">Arası açılan kişiler</ARG>
+	<ARG name="ARG0" function="pag">hadise çıkaran kişi</ARG>
+	<ARG name="ARG1" function="ppt">hadisesini çıkardığı şey</ARG>
 </FRAMESET>

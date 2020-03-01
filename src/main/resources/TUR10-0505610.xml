@@ -1,4 +1,4 @@
 <FRAMESET id="TUR10-0505610">
-	<ARG name="ARG0">Lağveden</ARG>
-	<ARG name="ARG1">Lağvedilen şey</ARG>
+	<ARG name="ARG0" function="pag">yürürlükten kaldıran kişi</ARG>
+	<ARG name="ARG1" function="ppt">yürürlükten kaldırdığı şey</ARG>
 </FRAMESET>

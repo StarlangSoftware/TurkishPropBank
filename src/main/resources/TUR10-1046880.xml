@@ -1,3 +1,4 @@
 <FRAMESET id="TUR10-1046880">
-	<ARG name="ARG1">Hayal edilen şey</ARG>
+	<ARG name="ARG0" function="pag">zihninde tasarlayan kişi</ARG>
+	<ARG name="ARG1" function="ppt">tasarladığı şey</ARG>
 </FRAMESET>

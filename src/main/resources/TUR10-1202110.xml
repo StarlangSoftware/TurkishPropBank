@@ -1,4 +1,5 @@
 <FRAMESET id="TUR10-1202110">
-	<ARG name="ARG0">delik açan</ARG>
-	<ARG name="ARG1">delik açılan şey</ARG>
+	<ARG name="ARG0" function="pag">delik açan kişi</ARG>
+	<ARG name="ARG1" function="dir">delik açılan yer</ARG>
+	<ARG name="ARG2" function="com">kullanılan alet</ARG>
 </FRAMESET>

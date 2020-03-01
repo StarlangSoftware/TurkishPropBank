@@ -1,3 +1,4 @@
 <FRAMESET id="TUR10-1185820">
-	<ARG name="ARG0">Yola çıkan</ARG>
+	<ARG name="ARG0" function="pag">esas alan kişi</ARG>
+	<ARG name="ARG1" function="ppt">esas alınan şey</ARG>
 </FRAMESET>

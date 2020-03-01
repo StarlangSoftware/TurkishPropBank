@@ -1,4 +1,4 @@
 <FRAMESET id="TUR10-1058560">
-	<ARG name="ARG1">İnkâr edilen şey</ARG>
-	<ARG name="ARG0">İnkâr eden</ARG>
+	<ARG name="ARG0" function="pag">inkar eden</ARG>
+	<ARG name="ARG1" function="ppt">inkar edilen</ARG>
 </FRAMESET>

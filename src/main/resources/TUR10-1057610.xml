@@ -1,4 +1,5 @@
 <FRAMESET id="TUR10-1057610">
-	<ARG name="ARG1">Güvence verilen şey</ARG>
-	<ARG name="ARG2">Güvence verilme konusu</ARG>
+	<ARG name="ARG0" function="pag">güvence veren</ARG>
+	<ARG name="ARG1" function="dir">güvence verilen</ARG>
+	<ARG name="ARG2" function="loc">güvence konusu</ARG>
 </FRAMESET>
