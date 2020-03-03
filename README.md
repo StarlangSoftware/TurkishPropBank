@@ -52,6 +52,8 @@ Each entry in the frame file is enclosed by <FRAMESET> and </FRAMESET> tags. id 
 
 For Developers
 ============
+You can also see either [Python](https://github.com/olcaytaner/TurkishPropBank-Py) 
+or [C++](https://github.com/olcaytaner/TurkishPropBank-CPP) repository.
 
 ## Requirements
 
