@@ -137,10 +137,8 @@ PropBank
 
 ### Maven Usage
 
-    <groupId>NlpToolkit</groupId>
-    <artifactId>PropBank</artifactId>
-    <version>1.0.2</version>
-    <properties>
-        <maven.compiler.source>1.8</maven.compiler.source>
-        <maven.compiler.target>1.8</maven.compiler.target>
-    </properties>
+	<dependency>
+  	<groupId>NlpToolkit</groupId>
+  	<artifactId>PropBank</artifactId>
+  	<version>1.0.6</version>
+	</dependency>
