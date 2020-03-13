@@ -1,15 +1,15 @@
 package PropBank;
 
-import com.sun.org.apache.xerces.internal.parsers.DOMParser;
 import org.w3c.dom.Document;
 import org.w3c.dom.Node;
 import org.xml.sax.SAXException;
 
+import javax.xml.parsers.DocumentBuilder;
+import javax.xml.parsers.DocumentBuilderFactory;
+import javax.xml.parsers.ParserConfigurationException;
 import java.io.File;
 import java.io.IOException;
-import java.util.ArrayList;
 import java.util.HashMap;
-import java.util.HashSet;
 import java.util.Set;
 
 public class PredicateList {
@@ -20,18 +20,23 @@ public class PredicateList {
      * file inside that folder, the constructor creates a Predicate and puts in inside the list {@link HashMap}.
      */
     public PredicateList(){
-        Document doc;
+        Document doc = null;
         Node frameSetNode, predicateNode, roleSetNode, roleNode, rolesNode;
-        DOMParser parser = new DOMParser();
+        DocumentBuilder builder = null;
+        DocumentBuilderFactory factory = DocumentBuilderFactory.newInstance();
+        try {
+            builder = factory.newDocumentBuilder();
+        } catch (ParserConfigurationException e) {
+            e.printStackTrace();
+        }
         list = new HashMap<>();
         File[] listOfFiles = new File("Frames").listFiles();
         for (File file : listOfFiles){
             try {
-                parser.parse(file.getAbsolutePath());
+                doc = builder.parse(file.getAbsolutePath());
             } catch (SAXException | IOException e) {
                 e.printStackTrace();
             }
-            doc = parser.getDocument();
             frameSetNode = doc.getFirstChild();
             predicateNode = frameSetNode.getFirstChild();
             while (predicateNode != null){

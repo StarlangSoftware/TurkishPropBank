@@ -25,9 +25,10 @@ public class TestPropBank {
 
     public static void readFrameSetList(){
         FramesetList framesetList = new FramesetList();
+        System.out.println(framesetList.size());
     }
 
     public static void main(String[] args){
-        readPredicateList();
+        readFrameSetList();
     }
 }
