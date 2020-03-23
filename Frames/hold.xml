@@ -49,9 +49,6 @@
     </roleset>
 		
     <roleset id="hold.14" name="adhere to, follow">
-			<note>HOLD-V NOTES: Frame for hold based on instances in webtext 2.5
-				(800-899). No relevant framenet or verbnet entry. Comparison to
-				adhere. Framed by Katie. (from hold.14-v)</note>
       <roles>
         <role descr="Follower" f="pag" n="0" />
         <role descr="Policy/rule/given path" f="ppt" n="1" />
@@ -125,9 +122,6 @@
     </roleset>
 		
     <roleset id="hold_up.11" name="persevere, last">
-			<note>HOLD_UP-V NOTES: Hold up can also be in the "keep" roleset:
-				Hold the book up: upis now an attribute of book. Likewise hold down.
-				(from hold.11-v predicate notes)</note>
       <roles>
         <role descr="thing lasting" f="ppt" n="1" />
       </roles>

@@ -8,8 +8,6 @@
         <role descr="end state" f="prd" n="3"/>
       </roles>
     </roleset>
-  </predicate>
-  <predicate lemma="upscale">
     <roleset id="upscale.02" name="increase the scale of, enlarge">
       <roles>
         <role descr="agent" f="pag" n="0"/>

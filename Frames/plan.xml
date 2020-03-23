@@ -7,9 +7,6 @@
         <role descr="grounds for planning" f="CAU" n="2"/>
         <role descr="beneficiary" f="gol" n="3"/>
       </roles>
-    <note>PLAN-V NOTES: (from plan.01-v)
-PLAN-N NOTES: Roleset based on verb entry plan.01 Corresponds to VN entry wish-62. (from plan.01-n)
-PLANNING-N NOTES: Roleset based on verb entry plan.01 Corresponds to VN entry wish-62. (from planning.01-n)</note>
     </roleset>
   </predicate>
 </frameset>

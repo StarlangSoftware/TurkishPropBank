@@ -2,11 +2,6 @@
   <predicate lemma="deal">
     <roleset id="deal.01" name="handle, deal with, transaction">
       <roles>
-        <note>This nominalization takes syntax that is somewhere between the
-					deal-v.01(handling) and deal-n.01(transacting) rolesets. I'm
-					breaking up dealing.01 and .02 based on syntactic behavior rather
-					than the semantic distinctions shown in deal-v and deal-n, which					looks like it's going to put 'drug dealing' into dealing.02. So,
-					fair warning. (from dealing.01-n)</note>
         <role descr="dealer (or all dealers)" f="pag" n="0"/>
         <role descr="co-dealer" f="ppt" n="1"/>
         <role descr="subject/type of transaction" f="prd" n="2"/>

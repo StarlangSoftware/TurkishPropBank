@@ -6,13 +6,6 @@
         <role descr="entity modeled" f="PRD" n="1"/>
         <role descr="source" f="VSP" n="2"/>
       </roles>
-      <example name="potentially confusing arg1" src="cryo" type="">
-        <inflection aspect="ns" form="ns" person="ns" tense="ns"
-        voice="ns"/>
-        <text>atmospheric modeling.</text>
-        <arg f="" n="1">atmospheric</arg>
-        <rel f="">modeling</rel>
-      </example>
     </roleset>
     <roleset id="model.02" name="to work as a fashion model">
       <roles>

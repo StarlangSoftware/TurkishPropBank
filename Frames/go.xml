@@ -15,9 +15,6 @@
         <role descr="start point" f="dir" n="3"/>
         <role descr="end point" f="gol" n="4"/>
       </roles>
-    <note>GO-V NOTES: Member of VNcls escape-51.1-2. (from go.02-v)
-GONE-J NOTES: Based on Thyme and Sharp data. Comparison to and extention of go.02 and leave.01. Go.02 is a member of VN class escape-51.1-2. Leave.01 is a member of VN classes escape-51.1-1, leave-51.2-1, and resign-10.11. Framed by Katie. (from gone.01-j)
-GO-V NOTES: This is an incorrect parse from Treebank; "be gone" is clearly notpassive but rather copula+adjective. I hope this is anisolated example (it's not, unfortunately) (from go.13-v)</note>
     </roleset>
     <roleset id="go.03" name="pursue (often with after)">
       <roles>

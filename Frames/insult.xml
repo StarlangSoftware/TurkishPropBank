@@ -5,9 +5,6 @@
         <role descr="insulter" f="pag" n="0"/>
         <role descr="insulted" f="ppt" n="1"/>
       </roles>
-    <note>INSULT-V NOTES: 'disparate' above is certainly a typo for 'disparage.' (from insult.01-v)
-INSULT-N NOTES: Based on sentences in nouns-00040. Comparison to insult.01-v. FN classes amuse-31.1 and judgement-33.1-1. FN class cause_emotion. Framed by Katie. (from insult.01-n)
-INSULTING-J NOTES: Added by Julia based on BOLT-1, insult.01. Corresponds to VNcls amuse-31.1, judgement-33. (from insulting.01-j)</note>
     </roleset>
   </predicate>
 </frameset>

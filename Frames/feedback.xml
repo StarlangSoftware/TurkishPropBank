@@ -2,21 +2,10 @@
   <predicate lemma="feedback">
     <roleset id="feedback.01" name="provide a responce">
       <roles>
-        <note/>
-        <note/>
         <role descr="replier, conveyer of information" f="pag" n="0"/>
         <role descr="topic, subject feedback provided for" f="ppt" n="1"/>
         <role descr="recipient, entity receiving information" f="gol" n="2"/>
       </roles>
-      <example name="Weird to be used as a verb" src="" type="">
-        <inflection aspect="ns" form="full" person="ns" tense="past" voice="active"/>
-        <text>Be sure to *PRO* feedback to them in a timely manner when you
-        have ideas. </text>
-        <arg f="" n="0">*PRO*</arg>
-        <rel f="">feedback</rel>
-        <arg f="" n="2">to them</arg>
-        <arg f="MNR" n="m">in a timely manner</arg>
-      </example>
     </roleset>
   </predicate>
 </frameset>

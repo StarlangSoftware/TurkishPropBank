@@ -2,10 +2,6 @@
   <predicate lemma="walk">
     <roleset id="walk.01" name="walk, be a pedestrian, forward motion, one foot in front of the other">
       <roles>
-        <note>Arg 2 is for underspecifed locations (e.g. "around the campus")
-        or Paths realized as objects: "he walked a mile/the plank."  For
-        more semantically specific realizations of DIR and GOL, use the
-        ARGM.</note>
         <role descr="walker, thing in motion" f="pag" n="0"/>
         <role descr="entity being walked, where there is outside Agent" f="ppt" n="1"/>
         <role descr="path/ underspecified location walked" f="loc" n="2"/>

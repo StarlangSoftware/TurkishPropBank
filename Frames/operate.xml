@@ -8,9 +8,6 @@
         <role descr="explicit role" f="prd" n="3"/>
         <role descr="explicit instrument (with or on, ususally)" f="mnr" n="4"/>
       </roles>
-    <note>OPERATE-V NOTES: (from operate.01-v)
-OPERATION-N NOTES: ~operate.01 (from operation.01-n)
-OPERATING-N NOTES: Roleset based on noun entry operation.01. Framed by Claire. (from operating.01-n)</note>
     </roleset>
     <roleset id="operate.101" name="perform surgery">
       <roles>

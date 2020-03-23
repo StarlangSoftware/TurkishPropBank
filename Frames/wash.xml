@@ -21,6 +21,14 @@
         <role descr="Thing arriving on land from water" f="PPT" n="1"/>
       </roles>
     </roleset>
+    <roleset id="wash_up.06" name="make become clean, completive">
+      <roles>
+        <role descr="washer" f="pag" n="0"/>
+        <role descr="thing becoming clean" f="ppt" n="1"/>
+        <role descr="washing liquid" f="mnr" n="2"/>
+        <role descr="dirt removed" f="ppt" n="3"/>
+      </roles>
+    </roleset>
   </predicate>
   <predicate lemma="wash_down">
     <roleset id="wash_down.04" name="using liquid to swallow something">
@@ -35,16 +43,6 @@
         <role descr="washer" f="PAG" n="0"/>
         <role descr="formerly dirty thing" f="ppt" n="1"/>
         <role descr="soap/water" f="mnr" n="2"/>
-      </roles>
-    </roleset>
-  </predicate>
-  <predicate lemma="wash_up">
-    <roleset id="wash_up.06" name="make become clean, completive">
-      <roles>
-        <role descr="washer" f="pag" n="0"/>
-        <role descr="thing becoming clean" f="ppt" n="1"/>
-        <role descr="washing liquid" f="mnr" n="2"/>
-        <role descr="dirt removed" f="ppt" n="3"/>
       </roles>
     </roleset>
   </predicate>

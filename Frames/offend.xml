@@ -6,10 +6,6 @@
         <role descr="offended" f="ppt" n="1"/>
         <role descr="instrument, if separate from arg0" f="mnr" n="2"/>
       </roles>
-    <note>OFFEND-V NOTES: Frames file for 'offend' based on sentences in wsj. Verbnet entry 31.1 (verbs of emotion). (from offend.01-vpredicate notes)
-OFFENSE-N NOTES: Added by Julia based on BOLT, WordNet,offend.01. Corresponds to VNcls amuse-31.1. (from offense.01-n)
-OFFENSIVE-J NOTES: Added by Julia based on BOLT-1, offend.01.Corresponds to VNcls amuse-31.1. (from offensive.01-j)
-OFFENDED-J NOTES: Added by Julia based on BOLT-1, offend.01.Corresponds to VNcls amuse-31.1. (from offended.01-j)</note>
     </roleset>
     <roleset id="offend.03" name="Commit an illegal act">
       <roles>

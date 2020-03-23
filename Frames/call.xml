@@ -14,9 +14,6 @@
         <role descr="entity summoned" f="ppt" n="1"/>
         <role descr="benefactive" f="gol" n="2"/>
       </roles>
-    <note>CALL-V NOTES: (from call-v.02)
-CALL-N NOTES: (from call-n.11)
-CALLING-N NOTES: Based on Comparison to verb entry call.02, which maps to 13.5.1. No FN for gerund. (from calling-n.02)</note>
     </roleset>
     <roleset id="call.03" name="demand">
       <roles>
@@ -24,9 +21,6 @@ CALLING-N NOTES: Based on Comparison to verb entry call.02, which maps to 13.5.1
         <role descr="thing being demanded" f="ppt" n="1"/>
         <role descr="demandee, of whom is arg1 being demanded?" f="gol" n="2"/>
       </roles>
-    <note>CALL-V NOTES: VN class 0rder-60. (from call-v.03)
-CALL-N NOTES: Based on verb roleset call.03. (from call-n.02)
-CALLING-N NOTES: Based on comparison to verb entry call.03, which maps to VN class 60, No FN for gerund. (from calling-n.03)</note>
     </roleset>
     <roleset id="call.07" name="say across a distance">
       <roles>
@@ -34,9 +28,6 @@ CALLING-N NOTES: Based on comparison to verb entry call.03, which maps to VN cla
         <role descr="utterance" f="ppt" n="1"/>
         <role descr="distant listener" f="gol" n="2"/>
       </roles>
-    <note>CALL-V NOTES: (from call-v.07)
-CALL-N NOTES: (from call-n.01)
-CALLING-N NOTES: Based on comparison to verb entry call.07, which maps to VN class 37.3. No FN. (from calling-n.04)</note>
     </roleset>
     <roleset id="call.09" name="call into question, doubt">
       <roles>

@@ -6,9 +6,6 @@
         <role descr="one half" f="ppt" n="1"/>
         <role descr="second half" f="ppt" n="2"/>
       </roles>
-    <note>MARRY-V NOTES: Frames file for 'marry' based on survey of sentences in the WSJ corpus. (from marry.01-v predicate notes)
-MARRIAGE-N NOTES: Based on sentences in nouns-00040. Comparison to marry.01. VN classes amalgamate-22.2-3-1-1 and marry-36.2. FN classes forming_relationships and personal_relationship. Framed by Katie. (from marriage.01-n)
-MARRIED-J NOTES: Based on Thyme and Sharp data. Comparison to marry.01. Marry.01 is a member of VN classes amalgamate-22.2-3-1-1 andmarry-36.2. Framed by Katie. (from married.01-j)</note>
     </roleset>
   </predicate>
   <predicate lemma="marry_off">

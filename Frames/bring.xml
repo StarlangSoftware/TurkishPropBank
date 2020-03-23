@@ -2,9 +2,6 @@
   <predicate lemma="bring">
     <roleset id="bring.01" name="carry along with, move literally or metaphorically">
       <roles>
-        <note>Follow PReditor's suggestions for phrasal brings--the particle
-					is often the same as an attribute, but they can cooccur (eg "bring
-					in as president").</note>
         <role descr="bringer" f="pag" n="0"/>
         <role descr="thing brought" f="ppt" n="1"/>
         <role descr="benefactive or destination brought-for, brought-to," f="gol" n="2"/>

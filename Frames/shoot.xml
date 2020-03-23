@@ -2,9 +2,6 @@
   <predicate lemma="shoot">
     <roleset id="shoot.01" name="propel projectile">
       <roles>
-        <note>SHOT-N NOTES: Seems doubtful mention of projectile will appear
-					unless the rel is "shooting". Thing shot tends to be understood
-					when it exists.</note>
         <role descr="shooter" f="pag" n="0"/>
         <role descr="projectile" f="ppt" n="1"/>
         <role descr="target" f="gol" n="2"/>

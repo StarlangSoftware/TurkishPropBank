@@ -2,7 +2,6 @@
   <predicate lemma="coprecipitate">
     <roleset id="coprecipitate.01" name="cause to precipitate together">
       <roles>
-        <note/>
         <role descr="causer of coprecipitation" f="pag" n="0"/>
         <role descr="first chemical" f="ppt" n="1"/>
         <role descr="second chemical, coprecipitated with" f="ppt" n="2"/>

@@ -12,8 +12,6 @@
         <role descr="skill lacked" f="ppt" n="2"/>
       </roles>
     </roleset>
-  </predicate>
-  <predicate lemma="poor">
     <roleset id="poor.03" name="unfortunate, pitiable">
       <roles>
         <role descr="unfortunate entity" f="ppt" n="1"/>

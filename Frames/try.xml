@@ -45,9 +45,6 @@
         <role descr="patient, consumer" f="ppt" n="1"/>
         <role descr="medication/ treatment, thing tested" f="mnr" n="2"/>
       </roles>
-    <note>TRIAL-V NOTES: Based on medical data. Slight comparison to try.01 and trial.01-n. No VN class. Framed by Katie. (from trial.01-v)
-TRIAL-N NOTES: Roleset based on try.01. No corresponding VN class. Framed by Katie. (from trial.01-n)
-TRIAL-N NOTES: Added by Julia for unification with trial-v.01. (from trial.03-n)</note>
     </roleset>
   </predicate>
 </frameset>

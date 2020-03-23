@@ -8,9 +8,6 @@
         <role descr="start point" f="dir" n="3"/>
         <role descr="end point, end state of arg1" f="prd" n="4"/>
       </roles>
-    <note>GROW-V NOTES: VN, FN updated by Julia (from grow.01-v)
-GROWING-N NOTES: grow.01 (from growing.01-n)
-GROWING-J NOTES: Based on Thyme and Sharp data. Comparison to grow.01. Grow.01 is a member of VN classes other_cos-45.4 and calibratable_cos-45.6-1-1. (from growing.01-j)</note>
     </roleset>
     <roleset id="grow.02" name="become">
       <roles>

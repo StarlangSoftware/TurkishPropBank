@@ -21,14 +21,6 @@
         <role descr="thing removed" f="ppt" n="1"/>
         <role descr="removed from" f="dir" n="2"/>
       </roles>
-      <example name="pulling-n" src="" type="">
-        <text>Also, I'm pretty sure their pulling the show off the air and making it an online exclusive caused them
- to make the shortsighted decision to cut the show's budget.</text>
-        <arg f="" n="0">their</arg>
-        <rel f="">pulling</rel>
-        <arg f="" n="1">the show</arg>
-        <arg f="" n="2">off the air</arg>
-      </example>
     </roleset>
   </predicate>
   <predicate lemma="pull_out">

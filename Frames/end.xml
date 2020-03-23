@@ -7,15 +7,6 @@
         <role descr="Explicit instrument, thing ended with, end portion" f="mnr" n="2"/>
         <role descr="point at which something ends" f="tmp" n="m"/>
       </roles>
-      <example name="result" src="" type="">
-        <inflection aspect="ns" form="ns" person="ns" tense="ns"
-        voice="ns"/>
-        <text>This will end in tears.</text>
-        <arg f="" n="1">This</arg>
-        <arg f="mod" n="m">will</arg>
-        <rel f="">end</rel>
-        <arg f="" n="2">in tears</arg>
-      </example>
     </roleset>
     <roleset id="end.02" name="terminate, esp stocks">
       <roles>

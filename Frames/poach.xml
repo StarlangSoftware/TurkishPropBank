@@ -1,9 +1,6 @@
 <frameset>
   <predicate lemma="poach">
     <roleset id="poach.01" name="cook in water">
-			<note>POACH-V NOTES: Frames file for 'poach' based on sentences in
-wsj. Verbnet entries 45.3 35.1 and 26.3; Framenet entry Apply heat.
-(from poach.01-v predicate notes)</note>
       <roles>
         <role descr="cook" f="PAG" n="0">
 				</role>
@@ -12,38 +9,15 @@ wsj. Verbnet entries 45.3 35.1 and 26.3; Framenet entry Apply heat.
         <role descr="water" f="MNR" n="2">
 				</role>
       </roles>
-			<example name="down home cookin'" src="" type="">
-				<inflection aspect="ns" form="full" person="ns" tense="past"
-					voice="active" />
-				<text>John poached his eggs in Mad Dog.</text>
-				<arg f="" n="0">John</arg>
-				<rel f="">poached</rel>
-				<arg f="" n="1">his eggs</arg>
-				<arg f="" n="2">in Mad Dog</arg>
-			</example>
     </roleset>
 		
     <roleset id="poach.02" name="hunt illegally">
-			<note>POACH-V NOTES: Frames file for 'poach' based on sentences in
-wsj. Verbnet entries 45.3 35.1 and 26.3; Framenet entry Apply heat.
-(from poach.02-v predicate notes)</note>
       <roles>
         <role descr="hunter" f="PAG" n="0">
 				</role>
         <role descr="prey" f="PPT" n="1">
 				</role>
       </roles>
-			<example name="not quite illegal" src="" type="">
-				<inflection aspect="ns" form="gerund" person="ns" tense="present"
-					voice="active" />
-				<text>That doesn't scare Digital, which [*T*-1]-2 has grown to be
-the world's second-largest computer maker by [*-2]poaching
-customers of IBM's mid-range machines.</text>
-				<arg f="" n="0">[*-2]</arg>
-				<arg f="RCL" n="M">which -&gt; Digital</arg>
-				<rel f="">poaching</rel>
-				<arg f="" n="1">customers of IBM's mid-range machines</arg>
-			</example>
     </roleset>
   </predicate>
 </frameset>

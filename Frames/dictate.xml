@@ -6,9 +6,6 @@
         <role descr="message, command dictated" f="ppt" n="1"/>
         <role descr="listener, dictated-to" f="gol" n="2"/>
       </roles>
-    <note>DICTATE-V NOTES: Frames file for 'dictate' based on survey of sentences in the WSJ corpus. (from dictate.01-v predicate notes)
-DICTATION-N NOTES: dictate.01 (from dictation.01-n)
-DICTATING-N NOTES: Based on Thyme and Sharp data. Comparison to dicatate.01. Dicatate.01 is a member of VN class transfer_mesg-37.1.1. Framed by Katie. (from dictating.01-n)</note>
     </roleset>
     <roleset id="dictate.02" name="speaking aloud for someone to write down">
       <roles>
