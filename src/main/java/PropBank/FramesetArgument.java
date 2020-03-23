@@ -3,6 +3,7 @@ package PropBank;
 public class FramesetArgument {
 
     private String argumentType;
+    private String function;
     private String definition;
 
     /**
@@ -10,10 +11,12 @@ public class FramesetArgument {
      *
      * @param argumentType  ArgumentType of the frameset argument
      * @param definition  Definition of the frameset argument
+     * @param function  Function of the frameset argument
      */
-    public FramesetArgument(String argumentType, String definition) {
+    public FramesetArgument(String argumentType, String definition, String function) {
         this.argumentType = argumentType;
         this.definition = definition;
+        this.function = function;
     }
 
     /**
@@ -23,6 +26,15 @@ public class FramesetArgument {
      */
     public String getArgumentType() {
         return argumentType;
+    }
+
+    /**
+     * Accessor for function.
+     *
+     * @return function.
+     */
+    public String getFunction() {
+        return function;
     }
 
     /**
@@ -41,6 +53,15 @@ public class FramesetArgument {
      */
     public void setDefinition(String definition) {
         this.definition = definition;
+    }
+
+    /**
+     * Mutator for function.
+     *
+     * @param function to set.
+     */
+    public void setFunction(String function) {
+        this.function = function;
     }
 
     /**

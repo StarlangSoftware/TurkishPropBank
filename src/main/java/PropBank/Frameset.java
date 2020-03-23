@@ -40,7 +40,8 @@ public class Frameset {
             id = eElement.getAttribute("id");
             framesetArguments = new ArrayList<FramesetArgument>();
             for (int i = 0; i < eElement.getElementsByTagName("ARG").getLength(); i++) {
-                framesetArguments.add(new FramesetArgument(((Element) eElement.getElementsByTagName("ARG").item(i)).getAttribute("name"), eElement.getElementsByTagName("ARG").item(i).getTextContent()));
+                Element argumentElement= ((Element) eElement.getElementsByTagName("ARG").item(i));
+                framesetArguments.add(new FramesetArgument(argumentElement.getAttribute("name"), argumentElement.getTextContent(), argumentElement.getAttribute("function")));
             }
         } catch (ParserConfigurationException | SAXException | IOException e) {
             e.printStackTrace();
@@ -69,7 +70,7 @@ public class Frameset {
      * @param type  Type of the new {@link FramesetArgument}
      * @param definition Definition of the new {@link FramesetArgument}
      */
-    public void addArgument(String type, String definition) {
+    public void addArgument(String type, String definition, String function) {
         boolean check = false;
         for (FramesetArgument a : framesetArguments) {
             if (a.getArgumentType().equals(type)) {
@@ -79,7 +80,7 @@ public class Frameset {
             }
         }
         if (!check) {
-            FramesetArgument arg = new FramesetArgument(type, definition);
+            FramesetArgument arg = new FramesetArgument(type, definition, function);
             framesetArguments.add(arg);
         }
     }
@@ -135,7 +136,8 @@ public class Frameset {
             BufferedWriter fout = new BufferedWriter(new OutputStreamWriter(new FileOutputStream(id + ".xml"), "UTF-8"));
             fout.write("\t<FRAMESET id=\"" + id + "\">\n");
             for (FramesetArgument framesetArgument : framesetArguments) {
-                fout.write("\t\t<ARG name=\"" + framesetArgument.getArgumentType() + "\">" + framesetArgument.getDefinition() + "</ARG>\n");
+                fout.write("\t\t<ARG name=\"" + framesetArgument.getArgumentType() + "\" function=\"" +
+                        framesetArgument.getFunction() + "\">" + framesetArgument.getDefinition() + "</ARG>\n");
             }
             fout.write("\t</FRAMESET>\n");
             fout.close();
