@@ -164,3 +164,39 @@ Bir fiile ait olan Frameseti bulmak için
 Bir framesetin tüm argümanlarını bulmak için
 
 	List<FramesetArgument> getFramesetArguments()
+
+## Cite
+If you use this resource on your research, please cite the following paper: 
+
+```
+@article{ak2018,
+	journal = "Turkish Journal of Electrical Engineering and Computer Science",
+	issn = "1300-0632",
+	address = "T\”{U}B\.{I}TAK",
+	year = "2018",
+	volume = "26",
+	pages = "570 - 581",
+	title = "Construction of a {T}urkish proposition bank",
+	author = "Ak, K. and Y{\i}ld{\i}z, O. T. and Esgel, V. and Toprak, C."
+}
+
+@inproceedings{ak2019
+    title = "Automatic {P}ropbank Generation for {T}urkish",
+    author = "AK, Koray  and
+      Y{\i}ld{\i}z, Olcay Taner",
+    booktitle = "Proceedings of the International Conference on Recent Advances in Natural Language Processing (RANLP 2019)",
+    month = sep,
+    year = "2019",
+    address = "Varna, Bulgaria",
+    publisher = "INCOMA Ltd.",
+    url = "https://www.aclweb.org/anthology/R19-1005",
+    pages = "33--41",
+}
+
+@inproceedings{ak2018b, 
+	author={K. {Ak} and Ö. {Bakay} and O. {Taner Yıldız}}, 
+	booktitle={2018 3rd International Conference on Computer Science and Engineering (UBMK)}, 
+	title={Comparison of Turkish Proposition Banks by Frame Matching}, 
+	year={2018}, 
+	pages={352-356}
+}
