@@ -1,5 +1,9 @@
 # PropBank
 
+You can also see [Python](https://github.com/starlangsoftware/TurkishPropBank-Py), [C++](https://github.com/starlangsoftware/TurkishPropBank-CPP), or [C#](https://github.com/starlangsoftware/TurkishPropBank-CS) repository.
+
+## PropBank
+
 Turkish PropBank (TRopBank) is a corpus of over 17.000 Turkish verbs, each annotated with their syntactic arguments and thematic roles. Arguments are bits of essential information attached to a verb (such as subject or object), and thematic roles are semantic classifications associated with these arguments (such as agent or patient). This resource allows matching between the syntax layer and the semantics layer for the processing of Turkish data.
 
 In the field of SRL, PropBank is one of the studies widely recognized by the computational linguistics communities. PropBank is the bank of propositions where predicate- argument information of the corpora is annotated, and the semantic roles or arguments that each verb can take are posited.
