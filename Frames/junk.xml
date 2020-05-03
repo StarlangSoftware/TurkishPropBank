@@ -2,8 +2,8 @@
   <predicate lemma="junk">
     <roleset id="junk.01" name="to discard as useless">
       <roles>
-        <role descr="discarder, agent" f="PAG" n="0"/>
-        <role descr="entity junked" f="PPT" n="1"/>
+        <role descr="discarder, agent" f="pag" n="0"/>
+        <role descr="entity junked" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

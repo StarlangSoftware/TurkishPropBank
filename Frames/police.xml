@@ -2,8 +2,8 @@
   <predicate lemma="police">
     <roleset id="police.01" name="monitor, watch, serve as   police for, enforcing the law">
       <roles>
-        <role descr="police" f="PAG" n="0"/>
-        <role descr="thing or place being monitored" f="GOL" n="1"/>
+        <role descr="police" f="pag" n="0"/>
+        <role descr="thing or place being monitored" f="gol" n="1"/>
       </roles>
     </roleset>
   </predicate>

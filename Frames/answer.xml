@@ -11,9 +11,9 @@
   <predicate lemma="answerable">
     <roleset id="answerable.02" name="answerable">
       <roles>
-        <role descr="perpetrator, answerable one" f="PPT" n="1"/>
-        <role descr="role or crime, answerable for what?" f="PPT" n="2"/>
-        <role descr="judge, answerable to whom?" f="GOL" n="3"/>
+        <role descr="perpetrator, answerable one" f="ppt" n="1"/>
+        <role descr="role or crime, answerable for what?" f="ppt" n="2"/>
+        <role descr="judge, answerable to whom?" f="gol" n="3"/>
       </roles>
     </roleset>
   </predicate>

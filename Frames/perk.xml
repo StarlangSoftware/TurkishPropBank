@@ -2,8 +2,8 @@
   <predicate lemma="perk_up">
     <roleset id="perk_up.01" name="to gain or regain energy or liveliness">
       <roles>
-        <role descr="causer" f="PAG" n="0"/>
-        <role descr="entity energised" f="PPT" n="1"/>
+        <role descr="causer" f="pag" n="0"/>
+        <role descr="entity energised" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

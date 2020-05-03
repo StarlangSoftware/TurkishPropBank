@@ -2,8 +2,8 @@
   <predicate lemma="fluff">
     <roleset id="fluff.01" name="cause to be fluffy">
       <roles>
-        <role descr="fluffer" f="PAG" n="0"/>
-        <role descr="entity becoming fluffy" f="PPT" n="1"/>
+        <role descr="fluffer" f="pag" n="0"/>
+        <role descr="entity becoming fluffy" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

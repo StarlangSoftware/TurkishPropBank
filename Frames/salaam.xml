@@ -2,9 +2,9 @@
   <predicate lemma="salaam">
     <roleset id="salaam.01" name="salaam">
       <roles>
-        <role descr="salaamer(s), agent" f="PAG" n="0"/>
-        <role descr="other salaamer(s), salaamee (*tee-hee*)" f="GOL" n="1"/>
-        <role descr="thing salaamed (e.g., &quot;their welcome&quot;, &quot;their assent&quot;), theme" f="PPT" n="2"/>
+        <role descr="salaamer(s), agent" f="pag" n="0"/>
+        <role descr="other salaamer(s), salaamee (*tee-hee*)" f="gol" n="1"/>
+        <role descr="thing salaamed (e.g., &quot;their welcome&quot;, &quot;their assent&quot;), theme" f="ppt" n="2"/>
       </roles>
     </roleset>
   </predicate>

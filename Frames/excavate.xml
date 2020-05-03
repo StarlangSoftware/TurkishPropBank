@@ -2,8 +2,8 @@
   <predicate lemma="excavate">
     <roleset id="excavate.01" name="dig a big hole">
       <roles>
-        <role descr="excavator, digger" f="PAG" n="0"/>
-        <role descr="hole" f="LOC" n="1"/>
+        <role descr="excavator, digger" f="pag" n="0"/>
+        <role descr="hole" f="loc" n="1"/>
       </roles>
     </roleset>
   </predicate>

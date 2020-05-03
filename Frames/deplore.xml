@@ -2,8 +2,8 @@
   <predicate lemma="deplore">
     <roleset id="deplore.01" name="anti-admire">
       <roles>
-        <role descr="despiser" f="PPT" n="0"/>
-        <role descr="thing despised" f="CAU" n="1"/>
+        <role descr="despiser" f="ppt" n="0"/>
+        <role descr="thing despised" f="cau" n="1"/>
       </roles>
     </roleset>
   </predicate>

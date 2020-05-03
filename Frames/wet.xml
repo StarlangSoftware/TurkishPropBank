@@ -2,9 +2,9 @@
   <predicate lemma="wet">
     <roleset id="wet.01" name="cause to be wet">
       <roles>
-        <role descr="cause" f="PAG" n="0"/>
-        <role descr="now-wet thing" f="PPT" n="1"/>
-        <role descr="liquid" f="MNR" n="2"/>
+        <role descr="cause" f="pag" n="0"/>
+        <role descr="now-wet thing" f="ppt" n="1"/>
+        <role descr="liquid" f="mnr" n="2"/>
       </roles>
     </roleset>
   </predicate>

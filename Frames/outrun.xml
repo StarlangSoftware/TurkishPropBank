@@ -2,8 +2,8 @@
   <predicate lemma="outrun">
     <roleset id="outrun.01" name="run faster than">
       <roles>
-        <role descr="chaser" f="PAG" n="0"/>
-        <role descr="slow-poke" f="PPT" n="1"/>
+        <role descr="chaser" f="pag" n="0"/>
+        <role descr="slow-poke" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

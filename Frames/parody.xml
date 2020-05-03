@@ -2,8 +2,8 @@
   <predicate lemma="parody">
     <roleset id="parody.01" name="to satirize or imitate">
       <roles>
-        <role descr="imitator" f="PAG" n="0"/>
-        <role descr="entity imitated" f="PPT" n="1"/>
+        <role descr="imitator" f="pag" n="0"/>
+        <role descr="entity imitated" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

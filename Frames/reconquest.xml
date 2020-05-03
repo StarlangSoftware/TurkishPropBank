@@ -2,7 +2,7 @@
   <predicate lemma="reconquest">
     <roleset id="reconquest.01" name="conquer again">
       <roles>
-        <role descr="conqueror" f="PAG" n="0"/>
+        <role descr="conqueror" f="pag" n="0"/>
         <role descr="thing conquered" f="ppt" n="1"/>
         <role descr="former possessors" f="dir" n="2"/>
       </roles>

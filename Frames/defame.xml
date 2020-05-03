@@ -2,9 +2,9 @@
   <predicate lemma="defame">
     <roleset id="defame.01" name="damage the reputation, character, or good   name by slander or libel, slander, libel">
       <roles>
-        <role descr="speaker" f="PAG" n="0"/>
-        <role descr="subject" f="PPT" n="1"/>
-        <role descr="reason" f="PRD" n="2"/>
+        <role descr="speaker" f="pag" n="0"/>
+        <role descr="subject" f="ppt" n="1"/>
+        <role descr="reason" f="prd" n="2"/>
       </roles>
     </roleset>
   </predicate>

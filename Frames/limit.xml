@@ -2,9 +2,9 @@
   <predicate lemma="limit">
     <roleset id="limit.01" name="ensure something stays below a certain level, cap, keep below a ceratin level">
       <roles>
-        <role descr="agent, limiter" f="CAU" n="0"/>
-        <role descr="thing limited" f="PPT" n="1"/>
-        <role descr="limit" f="GOL" n="2"/>
+        <role descr="agent, limiter" f="cau" n="0"/>
+        <role descr="thing limited" f="ppt" n="1"/>
+        <role descr="limit" f="gol" n="2"/>
       </roles>
     </roleset>
   </predicate>

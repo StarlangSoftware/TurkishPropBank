@@ -2,9 +2,9 @@
   <predicate lemma="deforest">
     <roleset id="deforest.01" name="remove trees">
       <roles>
-        <role descr="remover" f="PAG" n="0"/>
-        <role descr="victim, source trees removed from" f="DIR" n="1"/>
-        <role descr="trees, forest, thing removed" f="PPT" n="2"/>
+        <role descr="remover" f="pag" n="0"/>
+        <role descr="victim, source trees removed from" f="dir" n="1"/>
+        <role descr="trees, forest, thing removed" f="ppt" n="2"/>
       </roles>
     </roleset>
   </predicate>

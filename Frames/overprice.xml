@@ -2,8 +2,8 @@
   <predicate lemma="overprice">
     <roleset id="overprice.01" name="charge too much">
       <roles>
-        <role descr="seller" f="PAG" n="0"/>
-        <role descr="commodity" f="PPT" n="1"/>
+        <role descr="seller" f="pag" n="0"/>
+        <role descr="commodity" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

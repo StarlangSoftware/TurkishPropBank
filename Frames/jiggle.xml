@@ -2,8 +2,8 @@
   <predicate lemma="jiggle">
     <roleset id="jiggle.01" name="jiggle">
       <roles>
-        <role descr="causer of jiggling" f="PAG" n="0"/>
-        <role descr="thing jiggling" f="PPT" n="1"/>
+        <role descr="causer of jiggling" f="pag" n="0"/>
+        <role descr="thing jiggling" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

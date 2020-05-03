@@ -2,8 +2,8 @@
   <predicate lemma="naturalize">
     <roleset id="naturalize.01" name="confer rights of citizenship, make more natural">
       <roles>
-        <role descr="government for first sense, agent for second sense" f="PAG" n="0"/>
-        <role descr="citizen or thing naturalized" f="PPT" n="1"/>
+        <role descr="government for first sense, agent for second sense" f="pag" n="0"/>
+        <role descr="citizen or thing naturalized" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

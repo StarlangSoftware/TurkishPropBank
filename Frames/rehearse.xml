@@ -2,8 +2,8 @@
   <predicate lemma="rehearse">
     <roleset id="rehearse.01" name="practice, play without audience">
       <roles>
-        <role descr="practicer" f="PAG" n="0"/>
-        <role descr="skill" f="PPT" n="1"/>
+        <role descr="practicer" f="pag" n="0"/>
+        <role descr="skill" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

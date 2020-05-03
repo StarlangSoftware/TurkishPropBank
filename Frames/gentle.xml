@@ -2,8 +2,8 @@
   <predicate lemma="gentle">
     <roleset id="gentle.01" name="to pacify, make gentle">
       <roles>
-        <role descr="Agent, cause of gentling" f="PAG" n="0"/>
-        <role descr="Entity soothed, becoming gentle" f="PPT" n="1"/>
+        <role descr="Agent, cause of gentling" f="pag" n="0"/>
+        <role descr="Entity soothed, becoming gentle" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

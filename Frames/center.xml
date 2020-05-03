@@ -9,8 +9,8 @@
     </roleset>
     <roleset id="center.02" name="politically/socially moderate">
       <roles>
-        <role descr="politically/socially centrist entity" f="PPT" n="1"/>
-        <role descr="domain or topic of centrism" f="PPT" n="2"/>
+        <role descr="politically/socially centrist entity" f="ppt" n="1"/>
+        <role descr="domain or topic of centrism" f="ppt" n="2"/>
       </roles>
     </roleset>
   </predicate>

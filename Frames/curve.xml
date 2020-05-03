@@ -2,7 +2,7 @@
   <predicate lemma="curve">
     <roleset id="curve.01" name="to turn sharply">
       <roles>
-        <role descr="thing curving" f="VSP" n="1"/>
+        <role descr="thing curving" f="vsp" n="1"/>
       </roles>
     </roleset>
   </predicate>

@@ -2,8 +2,8 @@
   <predicate lemma="intoxicate">
     <roleset id="intoxicate.01" name="enrapture, captivate, endrunken">
       <roles>
-        <role descr="captivating thing" f="PAG" n="0"/>
-        <role descr="experiencer, thing captivated" f="PPT" n="1"/>
+        <role descr="captivating thing" f="pag" n="0"/>
+        <role descr="experiencer, thing captivated" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

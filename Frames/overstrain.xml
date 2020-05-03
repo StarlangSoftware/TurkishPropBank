@@ -2,8 +2,8 @@
   <predicate lemma="overstrain">
     <roleset id="overstrain.01" name="strain too much">
       <roles>
-        <role descr="causer of strain" f="PAG" n="0"/>
-        <role descr="strained entity" f="PPT" n="1"/>
+        <role descr="causer of strain" f="pag" n="0"/>
+        <role descr="strained entity" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

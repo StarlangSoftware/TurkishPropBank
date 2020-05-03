@@ -2,7 +2,7 @@
   <predicate lemma="hopscotch">
     <roleset id="hopscotch.01" name="manner of motion">
       <roles>
-        <role descr="hopscotcher" f="PPT" n="0"/>
+        <role descr="hopscotcher" f="ppt" n="0"/>
       </roles>
     </roleset>
   </predicate>

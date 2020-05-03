@@ -2,8 +2,8 @@
   <predicate lemma="pollute">
     <roleset id="pollute.01" name="to contaminate, contaminating of">
       <roles>
-        <role descr="causer" f="PAG" n="0"/>
-        <role descr="entity polluted" f="GOL" n="1"/>
+        <role descr="causer" f="pag" n="0"/>
+        <role descr="entity polluted" f="gol" n="1"/>
       </roles>
     </roleset>
   </predicate>

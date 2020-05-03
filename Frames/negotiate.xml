@@ -2,9 +2,9 @@
   <predicate lemma="negotiate">
     <roleset id="negotiate.01" name="work out terms of agreement">
       <roles>
-        <role descr="negotiator" f="PAG" n="0"/>
-        <role descr="explicit other party" f="COM" n="1"/>
-        <role descr="agreement" f="PPT" n="2"/>
+        <role descr="negotiator" f="pag" n="0"/>
+        <role descr="explicit other party" f="com" n="1"/>
+        <role descr="agreement" f="ppt" n="2"/>
       </roles>
     </roleset>
   </predicate>

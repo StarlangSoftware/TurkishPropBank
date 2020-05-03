@@ -2,9 +2,9 @@
   <predicate lemma="mail">
     <roleset id="mail.01" name="send">
       <roles>
-        <role descr="mailer" f="PAG" n="0"/>
-        <role descr="letter" f="PPT" n="1"/>
-        <role descr="mailed-to" f="GOL" n="2"/>
+        <role descr="mailer" f="pag" n="0"/>
+        <role descr="letter" f="ppt" n="1"/>
+        <role descr="mailed-to" f="gol" n="2"/>
       </roles>
     </roleset>
   </predicate>

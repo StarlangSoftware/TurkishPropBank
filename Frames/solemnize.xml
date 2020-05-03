@@ -2,8 +2,8 @@
   <predicate lemma="solemnize">
     <roleset id="solemnize.01" name="make grave or official">
       <roles>
-        <role descr="Agent or Priest, cause" f="PAG" n="0"/>
-        <role descr="Thing made real or serious" f="PPT" n="1"/>
+        <role descr="Agent or Priest, cause" f="pag" n="0"/>
+        <role descr="Thing made real or serious" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

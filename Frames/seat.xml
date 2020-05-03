@@ -2,15 +2,15 @@
   <predicate lemma="seat">
     <roleset id="seat.01" name="to place in a seat, provide seats">
       <roles>
-        <role descr="placer, provider of seat" f="PAG" n="0"/>
-        <role descr="entity seated" f="VSP" n="1"/>
-        <role descr="location" f="LOC" n="2"/>
+        <role descr="placer, provider of seat" f="pag" n="0"/>
+        <role descr="entity seated" f="vsp" n="1"/>
+        <role descr="location" f="loc" n="2"/>
       </roles>
     </roleset>
     <roleset id="seat.02" name="to place in a position of authority">
       <roles>
-        <role descr="agent" f="PAG" n="0"/>
-        <role descr="entity seated" f="VSP" n="1"/>
+        <role descr="agent" f="pag" n="0"/>
+        <role descr="entity seated" f="vsp" n="1"/>
       </roles>
     </roleset>
   </predicate>

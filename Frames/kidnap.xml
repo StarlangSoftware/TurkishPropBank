@@ -2,8 +2,8 @@
   <predicate lemma="kidnap">
     <roleset id="kidnap.01" name="to seize and detain unlawfully">
       <roles>
-        <role descr="kidnapper, agent" f="PAG" n="0"/>
-        <role descr="person kidnapped" f="PPT" n="1"/>
+        <role descr="kidnapper, agent" f="pag" n="0"/>
+        <role descr="person kidnapped" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

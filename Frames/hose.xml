@@ -2,10 +2,10 @@
   <predicate lemma="hose">
     <roleset id="hose.01" name="spray, clean with hose">
       <roles>
-        <role descr="Hoser, cleaner" f="PAG" n="0"/>
-        <role descr="Dirt, thing cleaned off of surface" f="PPT" n="1"/>
-        <role descr="surface (ie, floor, car, etc)" f="DIR" n="2"/>
-        <role descr="instrument (defaults to 'hose')" f="MNR" n="3"/>
+        <role descr="Hoser, cleaner" f="pag" n="0"/>
+        <role descr="Dirt, thing cleaned off of surface" f="ppt" n="1"/>
+        <role descr="surface (ie, floor, car, etc)" f="dir" n="2"/>
+        <role descr="instrument (defaults to 'hose')" f="mnr" n="3"/>
       </roles>
     </roleset>
   </predicate>

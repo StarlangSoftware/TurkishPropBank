@@ -2,8 +2,8 @@
   <predicate lemma="slobber">
     <roleset id="slobber.01" name="let saliva or liquid spill from the mouth; drool">
       <roles>
-        <role descr="drooler" f="PAG" n="0"/>
-        <role descr="drool (cognate object)" f="PPT" n="1"/>
+        <role descr="drooler" f="pag" n="0"/>
+        <role descr="drool (cognate object)" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

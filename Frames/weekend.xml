@@ -2,8 +2,8 @@
   <predicate lemma="weekend">
     <roleset id="weekend.01" name="weekend">
       <roles>
-        <role descr="weekender(s)" f="PPT" n="0"/>
-        <role descr="location of weekend vacation" f="LOC" n="1"/>
+        <role descr="weekender(s)" f="ppt" n="0"/>
+        <role descr="location of weekend vacation" f="loc" n="1"/>
       </roles>
     </roleset>
   </predicate>

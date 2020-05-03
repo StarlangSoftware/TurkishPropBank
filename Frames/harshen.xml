@@ -2,8 +2,8 @@
   <predicate lemma="harshen">
     <roleset id="harshen.01" name="to make or become harsh">
       <roles>
-        <role descr="agent, cause of harshening" f="PAG" n="0"/>
-        <role descr="thing harshened" f="PPT" n="1"/>
+        <role descr="agent, cause of harshening" f="pag" n="0"/>
+        <role descr="thing harshened" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

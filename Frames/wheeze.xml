@@ -2,14 +2,14 @@
   <predicate lemma="wheeze">
     <roleset id="wheeze.01" name="speak while short of breath">
       <roles>
-        <role descr="speaker" f="PAG" n="0"/>
-        <role descr="utterance" f="PPT" n="1"/>
-        <role descr="hearer" f="GOL" n="2"/>
+        <role descr="speaker" f="pag" n="0"/>
+        <role descr="utterance" f="ppt" n="1"/>
+        <role descr="hearer" f="gol" n="2"/>
       </roles>
     </roleset>
     <roleset id="wheeze.02" name="breathe with difficulty">
       <roles>
-        <role descr="breather, wheezer" f="PAG" n="0"/>
+        <role descr="breather, wheezer" f="pag" n="0"/>
       </roles>
     </roleset>
   </predicate>

@@ -2,8 +2,8 @@
   <predicate lemma="malign">
     <roleset id="malign.01" name="talk down, slander">
       <roles>
-        <role descr="maligner" f="PAG" n="0"/>
-        <role descr="maligned" f="PPT" n="1"/>
+        <role descr="maligner" f="pag" n="0"/>
+        <role descr="maligned" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

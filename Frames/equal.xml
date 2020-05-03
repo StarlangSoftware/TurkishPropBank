@@ -17,9 +17,9 @@
   <predicate lemma="equalize">
     <roleset id="equalize.03" name="make equal">
       <roles>
-        <role descr="agent, equalizer" f="PAG" n="0"/>
-        <role descr="equalized" f="PPT" n="1"/>
-        <role descr="Instrument, method" f="MNR" n="2"/>
+        <role descr="agent, equalizer" f="pag" n="0"/>
+        <role descr="equalized" f="ppt" n="1"/>
+        <role descr="Instrument, method" f="mnr" n="2"/>
       </roles>
     </roleset>
   </predicate>

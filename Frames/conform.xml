@@ -2,9 +2,9 @@
   <predicate lemma="conform">
     <roleset id="conform.01" name="(cause) to be similar, comply">
       <roles>
-        <role descr="causer of similarity" f="PAG" n="0"/>
-        <role descr="entity conforming" f="PPT" n="1"/>
-        <role descr="entity conforming to" f="GOL" n="2"/>
+        <role descr="causer of similarity" f="pag" n="0"/>
+        <role descr="entity conforming" f="ppt" n="1"/>
+        <role descr="entity conforming to" f="gol" n="2"/>
       </roles>
     </roleset>
   </predicate>

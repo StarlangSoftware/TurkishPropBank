@@ -2,9 +2,9 @@
   <predicate lemma="complain">
     <roleset id="complain.01" name="bitch and moan, express dissatisfaction, problem, concern, complaint">
       <roles>
-        <role descr="complainer" f="PAG" n="0"/>
-        <role descr="cause, complain of or about" f="PPT" n="1"/>
-        <role descr="hearer, complain to" f="GOL" n="2"/>
+        <role descr="complainer" f="pag" n="0"/>
+        <role descr="cause, complain of or about" f="ppt" n="1"/>
+        <role descr="hearer, complain to" f="gol" n="2"/>
       </roles>
     </roleset>
   </predicate>

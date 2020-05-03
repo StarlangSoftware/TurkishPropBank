@@ -3,8 +3,8 @@
     <roleset id="civilize.01" name="make civil, educate">
       <roles>
         
-        <role descr="agent causing civilization" f="PAG" n="0"/>
-        <role descr="entity becoming civil" f="PPT" n="1"/>
+        <role descr="agent causing civilization" f="pag" n="0"/>
+        <role descr="entity becoming civil" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

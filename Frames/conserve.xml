@@ -2,15 +2,15 @@
   <predicate lemma="conserve">
     <roleset id="conserve.01" name="to preserve, economize">
       <roles>
-        <role descr="causer" f="PAG" n="0"/>
-        <role descr="entity conserved" f="PPT" n="1"/>
+        <role descr="causer" f="pag" n="0"/>
+        <role descr="entity conserved" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>
   <predicate lemma="conservative">
     <roleset id="conservative.04" name="politically leaning towards conservative">
       <roles>
-        <role descr="politically/socially conservative entity" f="PPT" n="1"/>
+        <role descr="politically/socially conservative entity" f="ppt" n="1"/>
         <role descr="domain in which arg1 is conservative" f="vsp" n="2"/>
         <role descr="the whole group, of which one faction is conservative" f="vsp" n="3"/>
       </roles>
@@ -19,10 +19,10 @@
   <predicate lemma="con">
     <roleset id="con.03" name="trick into doing something">
       <roles>
-        <role descr="con artist" f="PAG" n="0"/>
-        <role descr="victim, induced agent" f="PPT" n="1"/>
-        <role descr="induced action" f="PRD" n="2"/>
-        <role descr="ill-gotten booty; what one was conned out of" f="PPT" n="3"/>
+        <role descr="con artist" f="pag" n="0"/>
+        <role descr="victim, induced agent" f="ppt" n="1"/>
+        <role descr="induced action" f="prd" n="2"/>
+        <role descr="ill-gotten booty; what one was conned out of" f="ppt" n="3"/>
       </roles>
     </roleset>
   </predicate>

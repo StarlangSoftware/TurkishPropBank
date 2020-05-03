@@ -2,8 +2,8 @@
   <predicate lemma="dribble">
     <roleset id="dribble.01" name="to let fall in drops, dripping">
       <roles>
-        <role descr="dribbler" f="PAG" n="0"/>
-        <role descr="thing being dribbled" f="PPT" n="1"/>
+        <role descr="dribbler" f="pag" n="0"/>
+        <role descr="thing being dribbled" f="ppt" n="1"/>
       </roles>
     </roleset>
     <roleset id="dribble.02" name="bounce a ball">

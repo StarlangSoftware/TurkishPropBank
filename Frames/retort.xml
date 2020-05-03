@@ -2,9 +2,9 @@
   <predicate lemma="retort">
     <roleset id="retort.01" name="reply">
       <roles>
-        <role descr="replier" f="PAG" n="0"/>
-        <role descr="in response to" f="GOL" n="1"/>
-        <role descr="answer" f="PPT" n="2"/>
+        <role descr="replier" f="pag" n="0"/>
+        <role descr="in response to" f="gol" n="1"/>
+        <role descr="answer" f="ppt" n="2"/>
       </roles>
     </roleset>
   </predicate>

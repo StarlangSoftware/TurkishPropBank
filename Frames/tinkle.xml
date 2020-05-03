@@ -2,7 +2,7 @@
   <predicate lemma="tinkle">
     <roleset id="tinkle.01" name="make a high tinny sound">
       <roles>
-        <role descr="emitter of sound" f="PPT" n="1"/>
+        <role descr="emitter of sound" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

@@ -3,10 +3,10 @@
     <roleset id="outbreak.01" name="natural disaster: rampant spread of disease">
       <roles>
         
-        <role descr="disease" f="PPT" n="1"/>
-        <role descr="victims, sick entities" f="GOL" n="2"/>
+        <role descr="disease" f="ppt" n="1"/>
+        <role descr="victims, sick entities" f="gol" n="2"/>
         <role descr="casualties/injury toll" f="vsp" n="3"/>
-        <role descr="damages/cost" f="VSP" n="4"/>
+        <role descr="damages/cost" f="vsp" n="4"/>
       </roles>
     </roleset>
   </predicate>

@@ -2,9 +2,9 @@
   <predicate lemma="emulsify">
     <roleset id="emulsify.01" name="disperse in an emulsion">
       <roles>
-        <role descr="agent, causal entity" f="PAG" n="0"/>
-        <role descr="thing made into emulsion" f="PPT" n="1"/>
-        <role descr="instrument or method" f="MNR" n="2"/>
+        <role descr="agent, causal entity" f="pag" n="0"/>
+        <role descr="thing made into emulsion" f="ppt" n="1"/>
+        <role descr="instrument or method" f="mnr" n="2"/>
       </roles>
     </roleset>
   </predicate>

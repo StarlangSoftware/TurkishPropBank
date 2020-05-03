@@ -2,17 +2,17 @@
   <predicate lemma="constellate">
     <roleset id="constellate.01" name="scatter like dots">
       <roles>
-        <role descr="causal agent" f="PAG" n="0"/>
+        <role descr="causal agent" f="pag" n="0"/>
         <role descr="destination, place speckled with stars" f="gol" n="1"/>
         <role descr="stars" f="ppt" n="2"/>
       </roles>
     </roleset>
     <roleset id="constellate.02" name="group into a constellation or cluster">
       <roles>
-        <role descr="agent" f="PAG" n="0"/>
-        <role descr="things grouped together" f="PPT" n="1"/>
-        <role descr="the group" f="GOL" n="2"/>
-        <role descr="constellated as what" f="GOL" n="3"/>
+        <role descr="agent" f="pag" n="0"/>
+        <role descr="things grouped together" f="ppt" n="1"/>
+        <role descr="the group" f="gol" n="2"/>
+        <role descr="constellated as what" f="gol" n="3"/>
       </roles>
     </roleset>
   </predicate>

@@ -2,7 +2,7 @@
   <predicate lemma="fort_up">
     <roleset id="fort_up.01" name="put oneself into a fortress-like   position">
       <roles>
-        <role descr="fortifier" f="PAG" n="0"/>
+        <role descr="fortifier" f="pag" n="0"/>
       </roles>
     </roleset>
   </predicate>

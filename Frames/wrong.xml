@@ -2,8 +2,8 @@
   <predicate lemma="wrong">
     <roleset id="wrong.01" name="to treat dishonorably or  unjustly">
       <roles>
-        <role descr="treater, agent" f="PAG" n="0"/>
-        <role descr="wronged entity" f="PPT" n="1"/>
+        <role descr="treater, agent" f="pag" n="0"/>
+        <role descr="wronged entity" f="ppt" n="1"/>
       </roles>
     </roleset>
     <roleset id="wrong.02" name="morally/legally bad, not as it should be">

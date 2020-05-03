@@ -2,8 +2,8 @@
   <predicate lemma="glance">
     <roleset id="glance.01" name="look at briefly">
       <roles>
-        <role descr="looker" f="PPT" n="0"/>
-        <role descr="looked-at" f="PAG" n="1"/>
+        <role descr="looker" f="ppt" n="0"/>
+        <role descr="looked-at" f="pag" n="1"/>
       </roles>
     </roleset>
   </predicate>

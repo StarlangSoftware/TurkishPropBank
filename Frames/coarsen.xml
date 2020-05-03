@@ -2,9 +2,9 @@
   <predicate lemma="coarsen">
     <roleset id="coarsen.01" name="(cause to) be more coarse">
       <roles>
-        <role descr="causer of coarseness" f="PAG" n="0"/>
-        <role descr="thing getting coarse" f="PPT" n="1"/>
-        <role descr="instrument or manner if separate from arg 0" f="MNR" n="2"/>
+        <role descr="causer of coarseness" f="pag" n="0"/>
+        <role descr="thing getting coarse" f="ppt" n="1"/>
+        <role descr="instrument or manner if separate from arg 0" f="mnr" n="2"/>
       </roles>
     </roleset>
   </predicate>

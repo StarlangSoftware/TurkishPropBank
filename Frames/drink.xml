@@ -2,23 +2,23 @@
   <predicate lemma="drink">
     <roleset id="drink.01" name="ingest liquids">
       <roles>
-        <role descr="drinker" f="PAG" n="0"/>
-        <role descr="liquid" f="PPT" n="1"/>
-        <role descr="source of liquid" f="DIR" n="2"/>
+        <role descr="drinker" f="pag" n="0"/>
+        <role descr="liquid" f="ppt" n="1"/>
+        <role descr="source of liquid" f="dir" n="2"/>
       </roles>
     </roleset>
     <roleset id="drink.02" name="salute">
       <roles>
-        <role descr="drinker" f="PAG" n="0"/>
-        <role descr="thing saluted" f="PPT" n="1"/>
+        <role descr="drinker" f="pag" n="0"/>
+        <role descr="thing saluted" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>
   <predicate lemma="drink_up">
     <roleset id="drink_up.03" name="drink up: drink completely">
       <roles>
-        <role descr="drinker" f="PAG" n="0"/>
-        <role descr="drink" f="PPT" n="1"/>
+        <role descr="drinker" f="pag" n="0"/>
+        <role descr="drink" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

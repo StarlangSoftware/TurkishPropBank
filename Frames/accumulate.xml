@@ -2,8 +2,8 @@
   <predicate lemma="accumulate">
     <roleset id="accumulate.01" name="amass">
       <roles>
-        <role descr="entity accumulating something" f="PAG" n="0"/>
-        <role descr="thing/stuff accumulated" f="PPT" n="1"/>
+        <role descr="entity accumulating something" f="pag" n="0"/>
+        <role descr="thing/stuff accumulated" f="ppt" n="1"/>
         <role descr="price" f="vsp" n="3"/>
       </roles>
     </roleset>

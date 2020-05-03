@@ -60,7 +60,7 @@
   <predicate lemma="pull_up">
     <roleset id="pull_up.07" name="similar to a chin-up">
       <roles>
-        <role descr="excerciser" f="PAG" n="0"/>
+        <role descr="excerciser" f="pag" n="0"/>
         <role descr="destination pulled up to" f="gol" n="1"/>
       </roles>
     </roleset>

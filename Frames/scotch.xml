@@ -2,8 +2,8 @@
   <predicate lemma="scotch">
     <roleset id="scotch.01" name="ruin, rule out">
       <roles>
-        <role descr="ruiner, ruler out" f="PAG" n="0"/>
-        <role descr="ruined, ruled out" f="PPT" n="1"/>
+        <role descr="ruiner, ruler out" f="pag" n="0"/>
+        <role descr="ruined, ruled out" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

@@ -2,9 +2,9 @@
   <predicate lemma="perfume">
     <roleset id="perfume.01" name="apply perfume to">
       <roles>
-        <role descr="applier" f="PAG" n="0"/>
-        <role descr="thing getting perfumed" f="GOL" n="1"/>
-        <role descr="explicit mention of perfume itself" f="PPT" n="2"/>
+        <role descr="applier" f="pag" n="0"/>
+        <role descr="thing getting perfumed" f="gol" n="1"/>
+        <role descr="explicit mention of perfume itself" f="ppt" n="2"/>
       </roles>
     </roleset>
   </predicate>

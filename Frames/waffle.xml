@@ -2,8 +2,8 @@
   <predicate lemma="waffle">
     <roleset id="waffle.01" name="to speak, write, or act evasively about">
       <roles>
-        <role descr="speaker, writer, actor" f="PAG" n="0"/>
-        <role descr="topic" f="PPT" n="1"/>
+        <role descr="speaker, writer, actor" f="pag" n="0"/>
+        <role descr="topic" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

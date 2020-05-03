@@ -2,8 +2,8 @@
   <predicate lemma="ford">
     <roleset id="ford.01" name="cross a river at a ford">
       <roles>
-        <role descr="entity in motion" f="PAG" n="0"/>
-        <role descr="barrier" f="PPT" n="1"/>
+        <role descr="entity in motion" f="pag" n="0"/>
+        <role descr="barrier" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

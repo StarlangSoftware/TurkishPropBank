@@ -2,8 +2,8 @@
   <predicate lemma="abut">
     <roleset id="abut.01" name="be one the edge of">
       <roles>
-        <role descr="abutter" f="PPT" n="1"/>
-        <role descr="abutted" f="PPT" n="2"/>
+        <role descr="abutter" f="ppt" n="1"/>
+        <role descr="abutted" f="ppt" n="2"/>
       </roles>
     </roleset>
   </predicate>

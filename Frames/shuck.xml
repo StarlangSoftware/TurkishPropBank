@@ -2,9 +2,9 @@
   <predicate lemma="shuck">
     <roleset id="shuck.01" name="shuck">
       <roles>
-        <role descr="shucker, agent" f="PAG" n="0"/>
-        <role descr="thing shucked" f="DIR" n="1"/>
-        <role descr="thing removed" f="PPT" n="2"/>
+        <role descr="shucker, agent" f="pag" n="0"/>
+        <role descr="thing shucked" f="dir" n="1"/>
+        <role descr="thing removed" f="ppt" n="2"/>
       </roles>
     </roleset>
   </predicate>

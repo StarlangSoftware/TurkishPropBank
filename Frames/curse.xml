@@ -2,9 +2,9 @@
   <predicate lemma="curse">
     <roleset id="curse.01" name="use bad language">
       <roles>
-        <role descr="speaker" f="PAG" n="0"/>
-        <role descr="utterance, four letter words" f="PPT" n="1"/>
-        <role descr="listener" f="PPT" n="2"/>
+        <role descr="speaker" f="pag" n="0"/>
+        <role descr="utterance, four letter words" f="ppt" n="1"/>
+        <role descr="listener" f="ppt" n="2"/>
       </roles>
     </roleset>
     <roleset id="curse.02" name="condemn">

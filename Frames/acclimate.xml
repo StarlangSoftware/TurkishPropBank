@@ -2,7 +2,7 @@
   <predicate lemma="acclimate">
     <roleset id="acclimate.01" name="(cause to) become used to">
       <roles>
-        <role descr="agent, cause of adjustment" f="PAG" n="0"/>
+        <role descr="agent, cause of adjustment" f="pag" n="0"/>
         <role descr="entity becoming accustomed" f="ppt" n="1"/>
         <role descr="to what; the new climate" f="gol" n="2"/>
       </roles>

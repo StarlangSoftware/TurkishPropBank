@@ -2,8 +2,8 @@
   <predicate lemma="forsake">
     <roleset id="forsake.01" name="to give up, abandon">
       <roles>
-        <role descr="abandoner, agent" f="PAG" n="0"/>
-        <role descr="entity forsaken" f="PPT" n="1"/>
+        <role descr="abandoner, agent" f="pag" n="0"/>
+        <role descr="entity forsaken" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

@@ -2,8 +2,8 @@
   <predicate lemma="shamble">
     <roleset id="shamble.01" name="walk in an awkward manner">
       <roles>
-        <role descr="agent, shambling entity" f="PPT" n="0"/>
-        <role descr="path" f="LOC" n="1"/>
+        <role descr="agent, shambling entity" f="ppt" n="0"/>
+        <role descr="path" f="loc" n="1"/>
       </roles>
     </roleset>
   </predicate>

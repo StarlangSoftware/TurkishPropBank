@@ -2,8 +2,8 @@
   <predicate lemma="humble">
     <roleset id="humble.01" name="cause to be humble">
       <roles>
-        <role descr="Stimulus of humility" f="PAG" n="0"/>
-        <role descr="humbled entity" f="PPT" n="1"/>
+        <role descr="Stimulus of humility" f="pag" n="0"/>
+        <role descr="humbled entity" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

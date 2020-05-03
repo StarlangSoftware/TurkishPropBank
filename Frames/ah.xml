@@ -2,8 +2,8 @@
   <predicate lemma="ah">
     <roleset id="ah.01" name="express admiration or pleasure">
       <roles>
-        <role descr="ah-er" f="PAG" n="0"/>
-        <role descr="cause of awe (ah?)" f="PPT" n="1"/>
+        <role descr="ah-er" f="pag" n="0"/>
+        <role descr="cause of awe (ah?)" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

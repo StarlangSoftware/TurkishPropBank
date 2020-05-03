@@ -2,8 +2,8 @@
   <predicate lemma="lunge">
     <roleset id="lunge.01" name="move suddenly">
       <roles>
-        <role descr="lunger" f="PAG" n="0"/>
-        <role descr="lunged at" f="PPT" n="1"/>
+        <role descr="lunger" f="pag" n="0"/>
+        <role descr="lunged at" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

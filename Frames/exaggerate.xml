@@ -2,8 +2,8 @@
   <predicate lemma="exaggerate">
     <roleset id="exaggerate.01" name="make seem bigger">
       <roles>
-        <role descr="liar liar, agent" f="PAG" n="0"/>
-        <role descr="thing exaggerated" f="PPT" n="1"/>
+        <role descr="liar liar, agent" f="pag" n="0"/>
+        <role descr="thing exaggerated" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

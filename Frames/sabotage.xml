@@ -2,8 +2,8 @@
   <predicate lemma="sabotage">
     <roleset id="sabotage.01" name="wreck clandestinely">
       <roles>
-        <role descr="saboteur" f="PAG" n="0"/>
-        <role descr="thing wrecked" f="PPT" n="1"/>
+        <role descr="saboteur" f="pag" n="0"/>
+        <role descr="thing wrecked" f="ppt" n="1"/>
         <role descr="instrument" f="mnr" n="2"/>
       </roles>
     </roleset>

@@ -2,8 +2,8 @@
   <predicate lemma="rarefy">
     <roleset id="rarefy.01" name="make rare">
       <roles>
-        <role descr="cause, agent" f="PAG" n="0"/>
-        <role descr="rare thing" f="PPT" n="1"/>
+        <role descr="cause, agent" f="pag" n="0"/>
+        <role descr="rare thing" f="ppt" n="1"/>
       </roles>
     </roleset>
     <roleset id="rarefy.04" name="decrease the density/pressure of">
@@ -21,7 +21,7 @@
     </roleset>
     <roleset id="rare.03" name="cooked a short time, still red">
       <roles>
-        <role descr="meat" f="PPT" n="1"/>
+        <role descr="meat" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

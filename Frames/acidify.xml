@@ -2,8 +2,8 @@
   <predicate lemma="acidify">
     <roleset id="acidify.01" name="make acidic">
       <roles>
-        <role descr="causer of acidity, agent" f="PAG" n="0"/>
-        <role descr="thing now acidic" f="PPT" n="1"/>
+        <role descr="causer of acidity, agent" f="pag" n="0"/>
+        <role descr="thing now acidic" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

@@ -2,9 +2,9 @@
   <predicate lemma="panel">
     <roleset id="panel.01" name="cover with panels">
       <roles>
-        <role descr="Agent, placer of panels" f="PAG" n="0"/>
-        <role descr="Wall, entity being covered with panels" f="GOL" n="1"/>
-        <role descr="Panels themselves, type of panel" f="PPT" n="2"/>
+        <role descr="Agent, placer of panels" f="pag" n="0"/>
+        <role descr="Wall, entity being covered with panels" f="gol" n="1"/>
+        <role descr="Panels themselves, type of panel" f="ppt" n="2"/>
       </roles>
     </roleset>
   </predicate>

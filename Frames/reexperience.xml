@@ -2,8 +2,8 @@
   <predicate lemma="reexperience">
     <roleset id="reexperience.01" name="have a sensation or experience again">
       <roles>
-        <role descr="Experiencer" f="PAG" n="0"/>
-        <role descr="Experienced" f="PPT" n="1"/>
+        <role descr="Experiencer" f="pag" n="0"/>
+        <role descr="Experienced" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

@@ -2,9 +2,9 @@
   <predicate lemma="portion">
     <roleset id="portion.01" name="portion">
       <roles>
-        <role descr="giver / leaver / portioner" f="PAG" n="0"/>
-        <role descr="thing portioned" f="PPT" n="1"/>
-        <role descr="benefactive / given-to" f="GOL" n="2"/>
+        <role descr="giver / leaver / portioner" f="pag" n="0"/>
+        <role descr="thing portioned" f="ppt" n="1"/>
+        <role descr="benefactive / given-to" f="gol" n="2"/>
       </roles>
     </roleset>
   </predicate>

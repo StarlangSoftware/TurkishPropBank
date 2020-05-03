@@ -2,8 +2,8 @@
   <predicate lemma="dwell">
     <roleset id="dwell.01" name="reside, linger">
       <roles>
-        <role descr="dweller, inhabitant, entity in discourse" f="PPT" n="0"/>
-        <role descr="location, place, dwelling, topic" f="LOC" n="1"/>
+        <role descr="dweller, inhabitant, entity in discourse" f="ppt" n="0"/>
+        <role descr="location, place, dwelling, topic" f="loc" n="1"/>
       </roles>
     </roleset>
   </predicate>

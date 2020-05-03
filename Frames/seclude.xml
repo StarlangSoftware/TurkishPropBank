@@ -2,9 +2,9 @@
   <predicate lemma="seclude">
     <roleset id="seclude.01" name="seclude">
       <roles>
-        <role descr="secluder, agent" f="PAG" n="0"/>
-        <role descr="thing hidden, secluded, patient" f="PPT" n="1"/>
-        <role descr="hidden from" f="GOL" n="2"/>
+        <role descr="secluder, agent" f="pag" n="0"/>
+        <role descr="thing hidden, secluded, patient" f="ppt" n="1"/>
+        <role descr="hidden from" f="gol" n="2"/>
       </roles>
     </roleset>
   </predicate>

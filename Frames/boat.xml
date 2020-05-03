@@ -2,7 +2,7 @@
   <predicate lemma="boat">
     <roleset id="boat.01" name="to ride in a boat">
       <roles>
-        <role descr="boater, agent" f="PAG" n="0"/>
+        <role descr="boater, agent" f="pag" n="0"/>
       </roles>
     </roleset>
   </predicate>

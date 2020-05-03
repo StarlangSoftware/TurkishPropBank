@@ -2,9 +2,9 @@
   <predicate lemma="probe">
     <roleset id="probe.01" name="examine internally, closely">
       <roles>
-        <role descr="prober" f="PAG" n="0"/>
-        <role descr="thing probed" f="LOC" n="1"/>
-        <role descr="in search of" f="PPT" n="2"/>
+        <role descr="prober" f="pag" n="0"/>
+        <role descr="thing probed" f="loc" n="1"/>
+        <role descr="in search of" f="ppt" n="2"/>
       </roles>
     </roleset>
   </predicate>

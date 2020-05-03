@@ -2,8 +2,8 @@
   <predicate lemma="legislate">
     <roleset id="legislate.01" name="control via law">
       <roles>
-        <role descr="law-giving body" f="PAG" n="0"/>
-        <role descr="thing controlled" f="PPT" n="1"/>
+        <role descr="law-giving body" f="pag" n="0"/>
+        <role descr="thing controlled" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

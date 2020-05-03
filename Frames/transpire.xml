@@ -2,8 +2,8 @@
   <predicate lemma="transpire">
     <roleset id="transpire.01" name="occur, take place">
       <roles>
-        <role descr="event" f="PPT" n="1"/>
-        <role descr="transpired between, location" f="LOC" n="2"/>
+        <role descr="event" f="ppt" n="1"/>
+        <role descr="transpired between, location" f="loc" n="2"/>
       </roles>
     </roleset>
   </predicate>

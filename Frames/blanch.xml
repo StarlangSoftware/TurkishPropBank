@@ -2,13 +2,13 @@
   <predicate lemma="blanch">
     <roleset id="blanch.01" name="turn pale">
       <roles>
-        <role descr="fainter" f="PPT" n="0"/>
+        <role descr="fainter" f="ppt" n="0"/>
       </roles>
     </roleset>
     <roleset id="blanch.02" name="blanch,parboil">
       <roles>
-        <role descr="cook" f="PAG" n="0"/>
-        <role descr="food" f="PPT" n="1"/>
+        <role descr="cook" f="pag" n="0"/>
+        <role descr="food" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

@@ -2,8 +2,8 @@
   <predicate lemma="cement">
     <roleset id="cement.01" name="to bind with or as if with cement">
       <roles>
-        <role descr="causer of connection, agent" f="PAG" n="0"/>
-        <role descr="entity cemented" f="PPT" n="1"/>
+        <role descr="causer of connection, agent" f="pag" n="0"/>
+        <role descr="entity cemented" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

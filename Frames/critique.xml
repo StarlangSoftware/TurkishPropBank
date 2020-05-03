@@ -2,8 +2,8 @@
   <predicate lemma="critique">
     <roleset id="critique.01" name="offer an oppinion judgement,or to criticize">
       <roles>
-        <role descr="critiquer" f="PAG" n="0"/>
-        <role descr="entity being critiqued" f="PPT" n="1"/>
+        <role descr="critiquer" f="pag" n="0"/>
+        <role descr="entity being critiqued" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

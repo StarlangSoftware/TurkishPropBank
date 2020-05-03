@@ -2,7 +2,7 @@
   <predicate lemma="scurry">
     <roleset id="scurry.01" name="to scamper">
       <roles>
-        <role descr="entity in motion" f="PPT" n="0"/>
+        <role descr="entity in motion" f="ppt" n="0"/>
       </roles>
     </roleset>
   </predicate>

@@ -2,8 +2,8 @@
   <predicate lemma="autograph">
     <roleset id="autograph.01" name="to sign">
       <roles>
-        <role descr="celebrity, autographer, agent" f="PAG" n="0"/>
-        <role descr="entity autographed" f="PPT" n="1"/>
+        <role descr="celebrity, autographer, agent" f="pag" n="0"/>
+        <role descr="entity autographed" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

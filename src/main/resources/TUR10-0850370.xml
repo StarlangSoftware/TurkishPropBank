@@ -1,5 +1,5 @@
 <FRAMESET id="TUR10-0850370">
 	<ARG name="ARG0" function="pag">yer eden şey</ARG>
 	<ARG name="ARG1" function="ppt">ettiği yer </ARG>
-	<ARG name="ARG2" function="">yer edilen yer</ARG>
+	<ARG name="ARG2" function="src">yer edilen yer</ARG>
 </FRAMESET>

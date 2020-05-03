@@ -2,14 +2,14 @@
   <predicate lemma="tense">
     <roleset id="tense.01" name="(cause to) become tight(er)">
       <roles>
-        <role descr="causer of tightening" f="PAG" n="0"/>
-        <role descr="thing tightening" f="PPT" n="1"/>
+        <role descr="causer of tightening" f="pag" n="0"/>
+        <role descr="thing tightening" f="ppt" n="1"/>
       </roles>
     </roleset>
     <roleset id="tense.03" name="be tight(er)">
       <roles>
-        <role descr="causer of tightening" f="PAG" n="0"/>
-        <role descr="thing tightening" f="PPT" n="1"/>
+        <role descr="causer of tightening" f="pag" n="0"/>
+        <role descr="thing tightening" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

@@ -2,8 +2,8 @@
   <predicate lemma="nauseate">
     <roleset id="nauseate.01" name="stomach ache">
       <roles>
-        <role descr="Stimulus of ache" f="PAG" n="0"/>
-        <role descr="person with ache" f="PPT" n="1"/>
+        <role descr="Stimulus of ache" f="pag" n="0"/>
+        <role descr="person with ache" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

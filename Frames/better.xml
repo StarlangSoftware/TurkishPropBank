@@ -2,8 +2,8 @@
   <predicate lemma="better">
     <roleset id="better.01" name="to improve">
       <roles>
-        <role descr="causer of improvement, agent" f="PAG" n="0"/>
-        <role descr="entity made better" f="PPT" n="1"/>
+        <role descr="causer of improvement, agent" f="pag" n="0"/>
+        <role descr="entity made better" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

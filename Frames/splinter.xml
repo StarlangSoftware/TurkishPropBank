@@ -4,7 +4,7 @@
       <roles>
         <role descr="agent or cause" f="pag" n="0"/>
         <role descr="thing broken" f="ppt" n="1"/>
-        <role descr="instrument" f="MNR" n="2"/>
+        <role descr="instrument" f="mnr" n="2"/>
       </roles>
     </roleset>
   </predicate>

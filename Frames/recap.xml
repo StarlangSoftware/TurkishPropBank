@@ -4,7 +4,7 @@
       <roles>
         <role descr="editor, summarizer, agent" f="pag" n="0"/>
         <role descr="thing summarized" f="ppt" n="1"/>
-        <role descr="listener" f="GOL" n="2"/>
+        <role descr="listener" f="gol" n="2"/>
       </roles>
     </roleset>
   </predicate>

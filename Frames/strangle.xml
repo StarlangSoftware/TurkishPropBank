@@ -2,8 +2,8 @@
   <predicate lemma="strangle">
     <roleset id="strangle.01" name="to suppress, repress">
       <roles>
-        <role descr="stranger, agent" f="PAG" n="0"/>
-        <role descr="entity strangled" f="PPT" n="1"/>
+        <role descr="stranger, agent" f="pag" n="0"/>
+        <role descr="entity strangled" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

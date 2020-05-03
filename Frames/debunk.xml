@@ -2,8 +2,8 @@
   <predicate lemma="debunk">
     <roleset id="debunk.01" name="eliminate falsehoods">
       <roles>
-        <role descr="agent of truth" f="PAG" n="0"/>
-        <role descr="subject of falsehoods" f="PPT" n="1"/>
+        <role descr="agent of truth" f="pag" n="0"/>
+        <role descr="subject of falsehoods" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

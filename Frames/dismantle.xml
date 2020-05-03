@@ -2,8 +2,8 @@
   <predicate lemma="dismantle">
     <roleset id="dismantle.01" name="to take apart">
       <roles>
-        <role descr="taker apart, agent" f="PAG" n="0"/>
-        <role descr="entity dismantled" f="PPT" n="1"/>
+        <role descr="taker apart, agent" f="pag" n="0"/>
+        <role descr="entity dismantled" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

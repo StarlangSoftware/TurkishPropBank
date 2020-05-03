@@ -2,8 +2,8 @@
   <predicate lemma="desecrate">
     <roleset id="desecrate.01" name="to violate the sacredness of">
       <roles>
-        <role descr="causer of desecration" f="PAG" n="0"/>
-        <role descr="entity desecrated" f="PPT" n="1"/>
+        <role descr="causer of desecration" f="pag" n="0"/>
+        <role descr="entity desecrated" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

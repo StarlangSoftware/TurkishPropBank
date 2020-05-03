@@ -2,8 +2,8 @@
   <predicate lemma="notice">
     <roleset id="notice.01" name="become aware of">
       <roles>
-        <role descr="noticer" f="PPT" n="0"/>
-        <role descr="noticed" f="PAG" n="1"/>
+        <role descr="noticer" f="ppt" n="0"/>
+        <role descr="noticed" f="pag" n="1"/>
       </roles>
     </roleset>
     <roleset id="notice.03" name="usually written alert as to a coming event">

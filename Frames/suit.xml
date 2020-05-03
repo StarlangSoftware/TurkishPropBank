@@ -28,7 +28,7 @@
   <predicate lemma="suitable">
     <roleset id="suitable.04" name="suitable">
       <roles>
-        <role descr="suitable thing" f="PPT" n="1"/>
+        <role descr="suitable thing" f="ppt" n="1"/>
         <role descr="suitable for what/whom?" f="prp" n="2"/>
       </roles>
     </roleset>

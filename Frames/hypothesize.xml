@@ -2,8 +2,8 @@
   <predicate lemma="hypothesize">
     <roleset id="hypothesize.01" name="make an educated guess">
       <roles>
-        <role descr="guesser" f="PAG" n="0"/>
-        <role descr="hypothesis" f="PPT" n="1"/>
+        <role descr="guesser" f="pag" n="0"/>
+        <role descr="hypothesis" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

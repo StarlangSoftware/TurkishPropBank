@@ -2,8 +2,8 @@
   <predicate lemma="cock">
     <roleset id="cock.01" name="set at an angle">
       <roles>
-        <role descr="setter at upward angle" f="PAG" n="0"/>
-        <role descr="angled thing" f="PPT" n="1"/>
+        <role descr="setter at upward angle" f="pag" n="0"/>
+        <role descr="angled thing" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

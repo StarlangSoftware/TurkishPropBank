@@ -2,7 +2,7 @@
   <predicate lemma="flinch">
     <roleset id="flinch.01" name="to make a sudden small movement">
       <roles>
-        <role descr="entity flinching" f="PPT" n="0"/>
+        <role descr="entity flinching" f="ppt" n="0"/>
       </roles>
     </roleset>
   </predicate>

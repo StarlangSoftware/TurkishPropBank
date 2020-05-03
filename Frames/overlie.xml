@@ -2,8 +2,8 @@
   <predicate lemma="overlie">
     <roleset id="overlie.01" name="be positioned on top of">
       <roles>
-        <role descr="Thing lying over something" f="PAG" n="0"/>
-        <role descr="Thing being lied on" f="PPT" n="1"/>
+        <role descr="Thing lying over something" f="pag" n="0"/>
+        <role descr="Thing being lied on" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

@@ -32,16 +32,16 @@
   <predicate lemma="revolutionize">
     <roleset id="revolutionize.05" name="to bring about a radical change">
       <roles>
-        <role descr="causer" f="PAG" n="0"/>
-        <role descr="entity changed" f="PPT" n="1"/>
+        <role descr="causer" f="pag" n="0"/>
+        <role descr="entity changed" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>
   <predicate lemma="revolve">
     <roleset id="revolve.06" name="to move in a circle,  be centered">
       <roles>
-        <role descr="entity revolving" f="PPT" n="1"/>
-        <role descr="location" f="LOC" n="2"/>
+        <role descr="entity revolving" f="ppt" n="1"/>
+        <role descr="location" f="loc" n="2"/>
       </roles>
     </roleset>
   </predicate>

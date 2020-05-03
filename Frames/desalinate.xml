@@ -2,8 +2,8 @@
   <predicate lemma="desalinate">
     <roleset id="desalinate.01" name="remove salt from">
       <roles>
-        <role descr="cause of loss of salt, agent" f="PAG" n="0"/>
-        <role descr="patient, thing losing salt" f="PPT" n="1"/>
+        <role descr="cause of loss of salt, agent" f="pag" n="0"/>
+        <role descr="patient, thing losing salt" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

@@ -2,8 +2,8 @@
   <predicate lemma="till">
     <roleset id="till.01" name="turn soil">
       <roles>
-        <role descr="tiller" f="PAG" n="0"/>
-        <role descr="soil" f="PPT" n="1"/>
+        <role descr="tiller" f="pag" n="0"/>
+        <role descr="soil" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

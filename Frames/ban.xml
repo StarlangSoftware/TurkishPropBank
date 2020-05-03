@@ -2,7 +2,7 @@
   <predicate lemma="ban">
     <roleset id="ban.01" name="prohibit">
       <roles>
-        <role descr="lawgiver, usually" f="PAG" n="0"/>
+        <role descr="lawgiver, usually" f="pag" n="0"/>
         <role descr="activity/place/item not allowed; banned from" f="ppt" n="1"/>
         <role descr="secondary agent; entity banned from engaging in/entering arg1" f="gol" n="2"/>
       </roles>

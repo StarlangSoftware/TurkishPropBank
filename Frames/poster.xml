@@ -2,9 +2,9 @@
   <predicate lemma="poster">
     <roleset id="poster.01" name="cover with posters">
       <roles>
-        <role descr="agent, person putting up posters" f="PAG" n="0"/>
-        <role descr="wall, surface covered with posters" f="GOL" n="1"/>
-        <role descr="posters themselves, types of posters" f="PPT" n="2"/>
+        <role descr="agent, person putting up posters" f="pag" n="0"/>
+        <role descr="wall, surface covered with posters" f="gol" n="1"/>
+        <role descr="posters themselves, types of posters" f="ppt" n="2"/>
       </roles>
     </roleset>
   </predicate>

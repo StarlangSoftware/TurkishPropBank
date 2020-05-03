@@ -2,8 +2,8 @@
   <predicate lemma="actualize">
     <roleset id="actualize.01" name="make real or more real">
       <roles>
-        <role descr="agent" f="PAG" n="0"/>
-        <role descr="thing actualized, theme" f="PPT" n="1"/>
+        <role descr="agent" f="pag" n="0"/>
+        <role descr="thing actualized, theme" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

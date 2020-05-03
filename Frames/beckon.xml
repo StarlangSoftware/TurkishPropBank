@@ -2,8 +2,8 @@
   <predicate lemma="beckon">
     <roleset id="beckon.01" name="summon, entice nearer">
       <roles>
-        <role descr="summoner" f="PAG" n="0"/>
-        <role descr="summoned, distant entity" f="PPT" n="1"/>
+        <role descr="summoner" f="pag" n="0"/>
+        <role descr="summoned, distant entity" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

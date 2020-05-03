@@ -2,8 +2,8 @@
   <predicate lemma="pod">
     <roleset id="pod.01" name="remove seed">
       <roles>
-        <role descr="remover" f="PAG" n="0"/>
-        <role descr="thing podded" f="DIR" n="1"/>
+        <role descr="remover" f="pag" n="0"/>
+        <role descr="thing podded" f="dir" n="1"/>
       </roles>
     </roleset>
   </predicate>

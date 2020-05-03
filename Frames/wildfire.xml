@@ -2,10 +2,10 @@
   <predicate lemma="wildfire">
     <roleset id="wildfire.01" name="natural disaster: burning wild land">
       <roles>
-        <role descr="vegetation burned" f="PPT" n="1"/>
-        <role descr="acre count" f="EXT" n="2"/>
-        <role descr="death/injury toll" f="VSP" n="3"/>
-        <role descr="damages/cost" f="VSP" n="4"/>
+        <role descr="vegetation burned" f="ppt" n="1"/>
+        <role descr="acre count" f="ext" n="2"/>
+        <role descr="death/injury toll" f="vsp" n="3"/>
+        <role descr="damages/cost" f="vsp" n="4"/>
       </roles>
     </roleset>
   </predicate>

@@ -2,8 +2,8 @@
   <predicate lemma="chaff">
     <roleset id="chaff.01" name="tease good-naturedly">
       <roles>
-        <role descr="agent, chaffer" f="PAG" n="0"/>
-        <role descr="patient, entity chaffed" f="PPT" n="1"/>
+        <role descr="agent, chaffer" f="pag" n="0"/>
+        <role descr="patient, entity chaffed" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

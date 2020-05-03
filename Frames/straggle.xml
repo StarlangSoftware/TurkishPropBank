@@ -2,7 +2,7 @@
   <predicate lemma="straggle">
     <roleset id="straggle.01" name="move in a lagging raggedy way">
       <roles>
-        <role descr="mover" f="PPT" n="0"/>
+        <role descr="mover" f="ppt" n="0"/>
       </roles>
     </roleset>
   </predicate>

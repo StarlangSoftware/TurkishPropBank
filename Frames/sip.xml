@@ -2,8 +2,8 @@
   <predicate lemma="sip">
     <roleset id="sip.01" name="to drink in small quantities">
       <roles>
-        <role descr="drinker, agent" f="PAG" n="0"/>
-        <role descr="drink" f="PPT" n="1"/>
+        <role descr="drinker, agent" f="pag" n="0"/>
+        <role descr="drink" f="ppt" n="1"/>
         <role descr="container" f="dir" n="2"/>
       </roles>
     </roleset>

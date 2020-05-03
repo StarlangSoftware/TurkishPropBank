@@ -2,9 +2,9 @@
   <predicate lemma="unscrew">
     <roleset id="unscrew.01" name="unscrew">
       <roles>
-        <role descr="entity unscrewing, agent" f="PAG" n="0"/>
-        <role descr="thing unscrewed, patient" f="PPT" n="1"/>
-        <role descr="unscrewed from, source" f="PPT" n="2"/>
+        <role descr="entity unscrewing, agent" f="pag" n="0"/>
+        <role descr="thing unscrewed, patient" f="ppt" n="1"/>
+        <role descr="unscrewed from, source" f="ppt" n="2"/>
       </roles>
     </roleset>
   </predicate>

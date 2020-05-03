@@ -2,8 +2,8 @@
   <predicate lemma="transcend">
     <roleset id="transcend.01" name="go beyond (may be spiritual/mystical)">
       <roles>
-        <role descr="thing going beyond" f="PPT" n="0"/>
-        <role descr="thing transcended" f="PPT" n="1"/>
+        <role descr="thing going beyond" f="ppt" n="0"/>
+        <role descr="thing transcended" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

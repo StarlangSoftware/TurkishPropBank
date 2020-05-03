@@ -2,9 +2,9 @@
   <predicate lemma="omit">
     <roleset id="omit.01" name="leave out (of)">
       <roles>
-        <role descr="omitter" f="PAG" n="0"/>
+        <role descr="omitter" f="pag" n="0"/>
         <role descr="thing left out" f="ppt" n="1"/>
-        <role descr="left out of what" f="DIR" n="2"/>
+        <role descr="left out of what" f="dir" n="2"/>
       </roles>
     </roleset>
   </predicate>

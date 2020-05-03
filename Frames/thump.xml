@@ -8,7 +8,7 @@
     </roleset>
     <roleset id="thump.02" name="emit regular dull sounds">
       <roles>
-        <role descr="emitter of sound" f="PPT" n="1"/>
+        <role descr="emitter of sound" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

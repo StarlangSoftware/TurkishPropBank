@@ -2,8 +2,8 @@
   <predicate lemma="luxuriate">
     <roleset id="luxuriate.01" name="indulge to excess">
       <roles>
-        <role descr="Enjoyer or big spender" f="PPT" n="0"/>
-        <role descr="luxury" f="PAG" n="1"/>
+        <role descr="Enjoyer or big spender" f="ppt" n="0"/>
+        <role descr="luxury" f="pag" n="1"/>
       </roles>
     </roleset>
   </predicate>

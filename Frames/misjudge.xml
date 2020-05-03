@@ -2,8 +2,8 @@
   <predicate lemma="misjudge">
     <roleset id="misjudge.01" name="judge incorrectly">
       <roles>
-        <role descr="judger" f="PAG" n="0"/>
-        <role descr="thing judged" f="PPT" n="1"/>
+        <role descr="judger" f="pag" n="0"/>
+        <role descr="thing judged" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

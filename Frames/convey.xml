@@ -2,8 +2,8 @@
   <predicate lemma="convey">
     <roleset id="convey.01" name="send (a statement)">
       <roles>
-        <role descr="sender, speaker" f="PAG" n="0"/>
-        <role descr="thing sent, utterance" f="PPT" n="1"/>
+        <role descr="sender, speaker" f="pag" n="0"/>
+        <role descr="thing sent, utterance" f="ppt" n="1"/>
         <role descr="recipient, hearer" f="gol" n="2"/>
       </roles>
     </roleset>

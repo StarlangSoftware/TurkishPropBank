@@ -2,8 +2,8 @@
   <predicate lemma="patch">
     <roleset id="patch.01" name="to mend or supply with a patch">
       <roles>
-        <role descr="mender, agent" f="PAG" n="0"/>
-        <role descr="thing patched" f="GOL" n="1"/>
+        <role descr="mender, agent" f="pag" n="0"/>
+        <role descr="thing patched" f="gol" n="1"/>
       </roles>
     </roleset>
     <roleset id="patch.03" name="administer an eyepatch">
@@ -17,8 +17,8 @@
   <predicate lemma="patch_up">
     <roleset id="patch_up.02" name="to mend or supply with a patch">
       <roles>
-        <role descr="mender, agent" f="PAG" n="0"/>
-        <role descr="thing patched" f="PPT" n="1"/>
+        <role descr="mender, agent" f="pag" n="0"/>
+        <role descr="thing patched" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

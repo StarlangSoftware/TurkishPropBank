@@ -2,10 +2,10 @@
   <predicate lemma="cabbage">
     <roleset id="cabbage.01" name="to steal or pilfer">
       <roles>
-        <role descr="thief, agent" f="PAG" n="0"/>
-        <role descr="thing stolen" f="PPT" n="1"/>
-        <role descr="stolen from" f="DIR" n="2"/>
-        <role descr="sloten for" f="GOL" n="3"/>
+        <role descr="thief, agent" f="pag" n="0"/>
+        <role descr="thing stolen" f="ppt" n="1"/>
+        <role descr="stolen from" f="dir" n="2"/>
+        <role descr="sloten for" f="gol" n="3"/>
       </roles>
     </roleset>
   </predicate>

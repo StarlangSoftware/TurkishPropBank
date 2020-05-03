@@ -2,8 +2,8 @@
   <predicate lemma="spruce_up">
     <roleset id="spruce_up.01" name="tidy, clean">
       <roles>
-        <role descr="cleaner" f="PAG" n="0"/>
-        <role descr="thing made tidy" f="PPT" n="1"/>
+        <role descr="cleaner" f="pag" n="0"/>
+        <role descr="thing made tidy" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

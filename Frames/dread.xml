@@ -2,8 +2,8 @@
   <predicate lemma="dread">
     <roleset id="dread.01" name="fear a lot">
       <roles>
-        <role descr="afraid entity" f="PPT" n="0"/>
-        <role descr="what you're afraid of" f="PAG" n="1"/>
+        <role descr="afraid entity" f="ppt" n="0"/>
+        <role descr="what you're afraid of" f="pag" n="1"/>
       </roles>
     </roleset>
   </predicate>

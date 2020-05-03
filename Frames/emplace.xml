@@ -2,9 +2,9 @@
   <predicate lemma="emplace">
     <roleset id="emplace.01" name="location">
       <roles>
-        <role descr="putter" f="PAG" n="0"/>
-        <role descr="thing put" f="PPT" n="1"/>
-        <role descr="where put" f="LOC" n="2"/>
+        <role descr="putter" f="pag" n="0"/>
+        <role descr="thing put" f="ppt" n="1"/>
+        <role descr="where put" f="loc" n="2"/>
       </roles>
     </roleset>
   </predicate>

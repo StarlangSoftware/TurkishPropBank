@@ -2,8 +2,8 @@
   <predicate lemma="incense">
     <roleset id="incense.01" name="anger">
       <roles>
-        <role descr="Stimulus of anger" f="PAG" n="0"/>
-        <role descr="experiencer" f="PPT" n="1"/>
+        <role descr="Stimulus of anger" f="pag" n="0"/>
+        <role descr="experiencer" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

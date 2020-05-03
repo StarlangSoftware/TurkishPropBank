@@ -2,8 +2,8 @@
   <predicate lemma="amalgamate">
     <roleset id="amalgamate.01" name="mix, combine">
       <roles>
-        <role descr="mixer, agent" f="PAG" n="0"/>
-        <role descr="ingredient(s)" f="PPT" n="1"/>
+        <role descr="mixer, agent" f="pag" n="0"/>
+        <role descr="ingredient(s)" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

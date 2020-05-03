@@ -2,8 +2,8 @@
   <predicate lemma="zap">
     <roleset id="zap.01" name="destroy">
       <roles>
-        <role descr="destroyer" f="PAG" n="0"/>
-        <role descr="destroyed" f="PPT" n="1"/>
+        <role descr="destroyer" f="pag" n="0"/>
+        <role descr="destroyed" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

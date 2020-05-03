@@ -2,9 +2,9 @@
   <predicate lemma="glean">
     <roleset id="glean.01" name="to collect bit by bit">
       <roles>
-        <role descr="collector, agent" f="PAG" n="0"/>
-        <role descr="entity gleaned" f="PPT" n="1"/>
-        <role descr="entity gleaned from" f="DIR" n="2"/>
+        <role descr="collector, agent" f="pag" n="0"/>
+        <role descr="entity gleaned" f="ppt" n="1"/>
+        <role descr="entity gleaned from" f="dir" n="2"/>
       </roles>
     </roleset>
   </predicate>

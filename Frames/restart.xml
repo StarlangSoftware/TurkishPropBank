@@ -2,8 +2,8 @@
   <predicate lemma="restart">
     <roleset id="restart.01" name="to start again or anew">
       <roles>
-        <role descr="starter, agent" f="PAG" n="0"/>
-        <role descr="entity restarted" f="PPT" n="1"/>
+        <role descr="starter, agent" f="pag" n="0"/>
+        <role descr="entity restarted" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

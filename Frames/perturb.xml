@@ -2,8 +2,8 @@
   <predicate lemma="perturb">
     <roleset id="perturb.01" name="disturb, upset">
       <roles>
-        <role descr="Stimulus of perturbation" f="PAG" n="0"/>
-        <role descr="perturbed entity" f="PPT" n="1"/>
+        <role descr="Stimulus of perturbation" f="pag" n="0"/>
+        <role descr="perturbed entity" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

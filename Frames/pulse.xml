@@ -2,7 +2,7 @@
   <predicate lemma="pulse">
     <roleset id="pulse.01" name="expand and contract; in an up and down or on and off manner">
       <roles>
-        <role descr="thing pulsing" f="PPT" n="1"/>
+        <role descr="thing pulsing" f="ppt" n="1"/>
         <role descr="manner" f="mnr" n="2"/>
       </roles>
     </roleset>

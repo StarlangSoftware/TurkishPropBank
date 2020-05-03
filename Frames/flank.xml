@@ -2,8 +2,8 @@
   <predicate lemma="flank">
     <roleset id="flank.01" name="be on the side of">
       <roles>
-        <role descr="things on the side" f="PPT" n="0"/>
-        <role descr="thing in the middle" f="PPT" n="1"/>
+        <role descr="things on the side" f="ppt" n="0"/>
+        <role descr="thing in the middle" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

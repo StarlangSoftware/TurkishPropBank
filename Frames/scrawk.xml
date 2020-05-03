@@ -2,7 +2,7 @@
   <predicate lemma="scrawk">
     <roleset id="scrawk.01" name="make the noise 'scrawk'">
       <roles>
-        <role descr="scrawk" f="PAG" n="0"/>
+        <role descr="scrawk" f="pag" n="0"/>
       </roles>
     </roleset>
   </predicate>

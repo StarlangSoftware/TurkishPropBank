@@ -2,16 +2,16 @@
   <predicate lemma="phase_out">
     <roleset id="phase_out.01" name="eliminate">
       <roles>
-        <role descr="eliminator" f="PAG" n="0"/>
-        <role descr="thing eliminated" f="PPT" n="1"/>
+        <role descr="eliminator" f="pag" n="0"/>
+        <role descr="thing eliminated" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>
   <predicate lemma="phase_in">
     <roleset id="phase_in.02" name="introduce in increments">
       <roles>
-        <role descr="agent" f="PAG" n="0"/>
-        <role descr="thing being phased in" f="PPT" n="1"/>
+        <role descr="agent" f="pag" n="0"/>
+        <role descr="thing being phased in" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

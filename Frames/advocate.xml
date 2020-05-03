@@ -2,7 +2,7 @@
   <predicate lemma="advocate">
     <roleset id="advocate.01" name="suggest">
       <roles>
-        <role descr="advocate, suggest" f="PAG" n="0"/>
+        <role descr="advocate, suggest" f="pag" n="0"/>
         <role descr="suggestion" f="ppt" n="1"/>
         <role descr="recipient of advice" f="gol" n="2"/>
       </roles>

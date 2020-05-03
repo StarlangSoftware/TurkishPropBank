@@ -2,8 +2,8 @@
   <predicate lemma="scuff">
     <roleset id="scuff.01" name="move in a scraping manner">
       <roles>
-        <role descr="entity in motion" f="PAG" n="0"/>
-        <role descr="path" f="PAG" n="1"/>
+        <role descr="entity in motion" f="pag" n="0"/>
+        <role descr="path" f="pag" n="1"/>
       </roles>
     </roleset>
   </predicate>

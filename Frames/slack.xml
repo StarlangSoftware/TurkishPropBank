@@ -2,7 +2,7 @@
   <predicate lemma="slack_off">
     <roleset id="slack_off.01" name="to become less intense">
       <roles>
-        <role descr="entity becoming less intense" f="PPT" n="1"/>
+        <role descr="entity becoming less intense" f="ppt" n="1"/>
         <role descr="extent" f="ext" n="2"/>
       </roles>
     </roleset>

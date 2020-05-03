@@ -2,10 +2,10 @@
   <predicate lemma="purloin">
     <roleset id="purloin.01" name="to steal, filch, or pilfer">
       <roles>
-        <role descr="thief, agent" f="PAG" n="0"/>
-        <role descr="thing stolen" f="PPT" n="1"/>
-        <role descr="stolen from" f="DIR" n="2"/>
-        <role descr="stolen for" f="GOL" n="3"/>
+        <role descr="thief, agent" f="pag" n="0"/>
+        <role descr="thing stolen" f="ppt" n="1"/>
+        <role descr="stolen from" f="dir" n="2"/>
+        <role descr="stolen for" f="gol" n="3"/>
       </roles>
     </roleset>
   </predicate>

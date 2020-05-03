@@ -2,9 +2,9 @@
   <predicate lemma="release">
     <roleset id="release.01" name="let go">
       <roles>
-        <role descr="releaser" f="CAU" n="0"/>
-        <role descr="thing released" f="PPT" n="1"/>
-        <role descr="released from" f="DIR" n="2"/>
+        <role descr="releaser" f="cau" n="0"/>
+        <role descr="thing released" f="ppt" n="1"/>
+        <role descr="released from" f="dir" n="2"/>
       </roles>
     </roleset>
   </predicate>

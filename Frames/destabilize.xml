@@ -2,8 +2,8 @@
   <predicate lemma="destabilize">
     <roleset id="destabilize.01" name="to upset the stability">
       <roles>
-        <role descr="agent, causer" f="PAG" n="0"/>
-        <role descr="entity destabilized" f="PPT" n="1"/>
+        <role descr="agent, causer" f="pag" n="0"/>
+        <role descr="entity destabilized" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

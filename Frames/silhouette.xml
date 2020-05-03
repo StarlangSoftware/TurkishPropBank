@@ -3,7 +3,7 @@
     <roleset id="silhouette.01" name="project a shadow or contour against a background">
       <roles>
         <role descr="lightsource causing the silhouette" f="cau" n="0"/>
-        <role descr="theme. the silhouette" f="PPT" n="1"/>
+        <role descr="theme. the silhouette" f="ppt" n="1"/>
         <role descr="background against which the silhouette is seen" f="loc" n="2"/>
       </roles>
     </roleset>

@@ -3,7 +3,7 @@
     <roleset id="shower.01" name="fall, sprinkle, rain">
       <roles>
         <role descr="causer of things falling" f="cau" n="0"/>
-        <role descr="things falling" f="PPT" n="1"/>
+        <role descr="things falling" f="ppt" n="1"/>
         <role descr="falling on what" f="gol" n="2"/>
       </roles>
     </roleset>

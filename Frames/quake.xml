@@ -2,8 +2,8 @@
   <predicate lemma="quake">
     <roleset id="quake.01" name="quake (trembling sense)">
       <roles>
-        <role descr="thing trembling/quaking" f="PPT" n="0"/>
-        <role descr="cause of trembling/quaking" f="PAG" n="1"/>
+        <role descr="thing trembling/quaking" f="ppt" n="0"/>
+        <role descr="cause of trembling/quaking" f="pag" n="1"/>
       </roles>
     </roleset>
   </predicate>

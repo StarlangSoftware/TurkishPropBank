@@ -2,8 +2,8 @@
   <predicate lemma="mediate">
     <roleset id="mediate.01" name="to resolve or settle differences">
       <roles>
-        <role descr="resolver, agent" f="PAG" n="0"/>
-        <role descr="thing mediated" f="PPT" n="1"/>
+        <role descr="resolver, agent" f="pag" n="0"/>
+        <role descr="thing mediated" f="ppt" n="1"/>
         <role descr="mediated between" f="gol" n="2"/>
       </roles>
     </roleset>

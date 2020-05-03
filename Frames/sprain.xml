@@ -2,8 +2,8 @@
   <predicate lemma="sprain">
     <roleset id="sprain.01" name="break">
       <roles>
-        <role descr="breaker" f="PPT" n="0"/>
-        <role descr="broken" f="PPT" n="1"/>
+        <role descr="breaker" f="ppt" n="0"/>
+        <role descr="broken" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

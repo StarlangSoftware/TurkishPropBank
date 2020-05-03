@@ -2,8 +2,8 @@
   <predicate lemma="gripe">
     <roleset id="gripe.01" name="to complain">
       <roles>
-        <role descr="complainer" f="PAG" n="0"/>
-        <role descr="complaint" f="PPT" n="1"/>
+        <role descr="complainer" f="pag" n="0"/>
+        <role descr="complaint" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

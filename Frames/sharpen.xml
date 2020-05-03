@@ -2,9 +2,9 @@
   <predicate lemma="sharpen">
     <roleset id="sharpen.01" name="(cause to) become sharp(er)">
       <roles>
-        <role descr="sharpener" f="PAG" n="0"/>
-        <role descr="thing getting sharper" f="PPT" n="1"/>
-        <role descr="instrument, if agent is also present" f="MNR" n="2"/>
+        <role descr="sharpener" f="pag" n="0"/>
+        <role descr="thing getting sharper" f="ppt" n="1"/>
+        <role descr="instrument, if agent is also present" f="mnr" n="2"/>
       </roles>
     </roleset>
   </predicate>

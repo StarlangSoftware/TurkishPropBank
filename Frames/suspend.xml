@@ -9,9 +9,9 @@
     </roleset>
     <roleset id="suspend.02" name="hang">
       <roles>
-        <role descr="agent, entity causing something to be suspended" f="PAG" n="0"/>
-        <role descr="thing suspended" f="PPT" n="1"/>
-        <role descr="suspended from" f="GOL" n="2"/>
+        <role descr="agent, entity causing something to be suspended" f="pag" n="0"/>
+        <role descr="thing suspended" f="ppt" n="1"/>
+        <role descr="suspended from" f="gol" n="2"/>
       </roles>
     </roleset>
   </predicate>

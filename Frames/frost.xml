@@ -2,25 +2,25 @@
   <predicate lemma="frost">
     <roleset id="frost.01" name="cover with whitish, semi-opaque surface, as ice">
       <roles>
-        <role descr="causer of frosting" f="PAG" n="0"/>
-        <role descr="thing frosted" f="PPT" n="1"/>
-        <role descr="with what" f="MNR" n="2"/>
+        <role descr="causer of frosting" f="pag" n="0"/>
+        <role descr="thing frosted" f="ppt" n="1"/>
+        <role descr="with what" f="mnr" n="2"/>
       </roles>
     </roleset>
     <roleset id="frost.02" name="decorate with frosting, ">
       <roles>
-        <role descr="Pastry chef" f="PAG" n="0"/>
-        <role descr="pastry, or thing being covered in frosting" f="GOL" n="1"/>
-        <role descr="the frosting" f="PPT" n="2"/>
+        <role descr="Pastry chef" f="pag" n="0"/>
+        <role descr="pastry, or thing being covered in frosting" f="gol" n="1"/>
+        <role descr="the frosting" f="ppt" n="2"/>
       </roles>
     </roleset>
   </predicate>
   <predicate lemma="frost_up">
     <roleset id="frost_up.03" name="become completely obscurred by frost">
       <roles>
-        <role descr="agent or cause of frostiness" f="PAG" n="0"/>
-        <role descr="thing becoming obscurred with frost" f="PPT" n="1"/>
-        <role descr="instrument/frost itself" f="MNR" n="2"/>
+        <role descr="agent or cause of frostiness" f="pag" n="0"/>
+        <role descr="thing becoming obscurred with frost" f="ppt" n="1"/>
+        <role descr="instrument/frost itself" f="mnr" n="2"/>
       </roles>
     </roleset>
   </predicate>

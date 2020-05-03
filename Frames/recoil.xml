@@ -2,8 +2,8 @@
   <predicate lemma="recoil">
     <roleset id="recoil.01" name="flinch, draw back">
       <roles>
-        <role descr="one who recoils" f="PPT" n="0"/>
-        <role descr="cause for recoil" f="PAG" n="1"/>
+        <role descr="one who recoils" f="ppt" n="0"/>
+        <role descr="cause for recoil" f="pag" n="1"/>
       </roles>
     </roleset>
   </predicate>

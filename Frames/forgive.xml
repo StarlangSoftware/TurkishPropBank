@@ -2,7 +2,7 @@
   <predicate lemma="forgive">
     <roleset id="forgive.01" name="release from blame/sin">
       <roles>
-        <role descr="forgiver" f="PAG" n="0"/>
+        <role descr="forgiver" f="pag" n="0"/>
         <role descr="entity forgiven" f="ppt" n="1"/>
         <role descr="for what" f="cau" n="2"/>
       </roles>

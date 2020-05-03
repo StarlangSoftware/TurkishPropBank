@@ -2,8 +2,8 @@
   <predicate lemma="microfilm">
     <roleset id="microfilm.01" name="film">
       <roles>
-        <role descr="recorder, filmer" f="PAG" n="0"/>
-        <role descr="thing recorded, filmed" f="PPT" n="1"/>
+        <role descr="recorder, filmer" f="pag" n="0"/>
+        <role descr="thing recorded, filmed" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

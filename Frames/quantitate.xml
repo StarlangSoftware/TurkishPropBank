@@ -2,8 +2,8 @@
   <predicate lemma="quantitate">
     <roleset id="quantitate.01" name="to measure the quantity of">
       <roles>
-        <role descr="Measurer" f="PAG" n="0"/>
-        <role descr="Thing measured" f="PPT" n="1"/>
+        <role descr="Measurer" f="pag" n="0"/>
+        <role descr="Thing measured" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

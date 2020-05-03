@@ -2,9 +2,9 @@
   <predicate lemma="caution">
     <roleset id="caution.01" name="say, warn">
       <roles>
-        <role descr="Sayer" f="PAG" n="0"/>
-        <role descr="Utterance" f="PPT" n="1"/>
-        <role descr="Hearer" f="GOL" n="2"/>
+        <role descr="Sayer" f="pag" n="0"/>
+        <role descr="Utterance" f="ppt" n="1"/>
+        <role descr="Hearer" f="gol" n="2"/>
       </roles>
     </roleset>
   </predicate>

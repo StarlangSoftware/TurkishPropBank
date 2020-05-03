@@ -2,8 +2,8 @@
   <predicate lemma="buttress">
     <roleset id="buttress.01" name="to support or reinforce">
       <roles>
-        <role descr="supporter, agent" f="PAG" n="0"/>
-        <role descr="entity buttressed" f="PPT" n="1"/>
+        <role descr="supporter, agent" f="pag" n="0"/>
+        <role descr="entity buttressed" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

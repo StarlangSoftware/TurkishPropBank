@@ -2,9 +2,9 @@
   <predicate lemma="extort">
     <roleset id="extort.01" name="extract money from, under pressure">
       <roles>
-        <role descr="agent, extorter" f="PAG" n="0"/>
-        <role descr="money" f="PPT" n="1"/>
-        <role descr="source" f="DIR" n="2"/>
+        <role descr="agent, extorter" f="pag" n="0"/>
+        <role descr="money" f="ppt" n="1"/>
+        <role descr="source" f="dir" n="2"/>
       </roles>
     </roleset>
   </predicate>

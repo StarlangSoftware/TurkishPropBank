@@ -2,9 +2,9 @@
   <predicate lemma="cede">
     <roleset id="cede.01" name="give graciously">
       <roles>
-        <role descr="giver" f="PAG" n="0"/>
-        <role descr="gift" f="PPT" n="1"/>
-        <role descr="recipient" f="GOL" n="2"/>
+        <role descr="giver" f="pag" n="0"/>
+        <role descr="gift" f="ppt" n="1"/>
+        <role descr="recipient" f="gol" n="2"/>
       </roles>
     </roleset>
   </predicate>

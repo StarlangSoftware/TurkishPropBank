@@ -2,8 +2,8 @@
   <predicate lemma="abound">
     <roleset id="abound.01" name="be plentiful">
       <roles>
-        <role descr="thing which is plentiful" f="LOC" n="1"/>
-        <role descr="thing which has arg1 in great supply" f="PPT" n="2"/>
+        <role descr="thing which is plentiful" f="loc" n="1"/>
+        <role descr="thing which has arg1 in great supply" f="ppt" n="2"/>
       </roles>
     </roleset>
   </predicate>

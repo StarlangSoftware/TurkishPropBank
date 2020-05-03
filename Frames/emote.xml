@@ -2,14 +2,14 @@
   <predicate lemma="emote">
     <roleset id="emote.01" name="express emotion">
       <roles>
-        <role descr="expresser" f="PAG" n="0"/>
+        <role descr="expresser" f="pag" n="0"/>
       </roles>
     </roleset>
   </predicate>
   <predicate lemma="emotional">
     <roleset id="emotional.02" name="having strong emotions">
       <roles>
-        <role descr="thing exhibiting emotion" f="PAG" n="0"/>
+        <role descr="thing exhibiting emotion" f="pag" n="0"/>
       </roles>
     </roleset>
   </predicate>

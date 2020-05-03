@@ -2,15 +2,15 @@
   <predicate lemma="pressure">
     <roleset id="pressure.01" name="apply pressure, pressure someone to do something">
       <roles>
-        <role descr="presser" f="PAG" n="0"/>
-        <role descr="pressed (on)" f="PPT" n="1"/>
-        <role descr="goal, pressed-for" f="PRD" n="2"/>
+        <role descr="presser" f="pag" n="0"/>
+        <role descr="pressed (on)" f="ppt" n="1"/>
+        <role descr="goal, pressed-for" f="prd" n="2"/>
       </roles>
     </roleset>
     <roleset id="pressure.02" name="move, cause motion by pressure">
       <roles>
-        <role descr="mover" f="PAG" n="0"/>
-        <role descr="moved" f="PPT" n="1"/>
+        <role descr="mover" f="pag" n="0"/>
+        <role descr="moved" f="ppt" n="1"/>
         <role descr="ahead, usually" f="dir" n="m"/>
       </roles>
     </roleset>

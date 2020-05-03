@@ -2,8 +2,8 @@
   <predicate lemma="hallucinate">
     <roleset id="hallucinate.01" name="perceive what is not there">
       <roles>
-        <role descr="hallucinator" f="PPT" n="0"/>
-        <role descr="hallucination" f="PAG" n="1"/>
+        <role descr="hallucinator" f="ppt" n="0"/>
+        <role descr="hallucination" f="pag" n="1"/>
       </roles>
     </roleset>
   </predicate>

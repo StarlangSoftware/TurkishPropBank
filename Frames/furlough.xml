@@ -2,8 +2,8 @@
   <predicate lemma="furlough">
     <roleset id="furlough.01" name="to lay off">
       <roles>
-        <role descr="employer" f="PAG" n="0"/>
-        <role descr="worker" f="PPT" n="1"/>
+        <role descr="employer" f="pag" n="0"/>
+        <role descr="worker" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

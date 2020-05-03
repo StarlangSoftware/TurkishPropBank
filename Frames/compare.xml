@@ -2,9 +2,9 @@
   <predicate lemma="compare">
     <roleset id="compare.01" name="compare">
       <roles>
-        <role descr="entity making comparison" f="PAG" n="0"/>
-        <role descr="first item in comparison" f="PPT" n="1"/>
-        <role descr="second item in comparison, usually prepositional" f="PPT" n="2"/>
+        <role descr="entity making comparison" f="pag" n="0"/>
+        <role descr="first item in comparison" f="ppt" n="1"/>
+        <role descr="second item in comparison, usually prepositional" f="ppt" n="2"/>
       </roles>
     </roleset>
   </predicate>

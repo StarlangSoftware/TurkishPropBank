@@ -2,8 +2,8 @@
   <predicate lemma="competent">
     <roleset id="competent.01" name="competent, skillful">
       <roles>
-        <role descr="entity that is good at something, competent one" f="PAG" n="1"/>
-        <role descr="competent in/at" f="PPT" n="2"/>
+        <role descr="entity that is good at something, competent one" f="pag" n="1"/>
+        <role descr="competent in/at" f="ppt" n="2"/>
       </roles>
     </roleset>
   </predicate>

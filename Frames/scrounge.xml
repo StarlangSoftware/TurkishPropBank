@@ -2,8 +2,8 @@
   <predicate lemma="scrounge">
     <roleset id="scrounge.01" name="to obtain with some difficulty">
       <roles>
-        <role descr="scrounger, agent" f="PAG" n="0"/>
-        <role descr="thing obtained" f="PPT" n="1"/>
+        <role descr="scrounger, agent" f="pag" n="0"/>
+        <role descr="thing obtained" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

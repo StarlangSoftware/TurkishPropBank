@@ -2,8 +2,8 @@
   <predicate lemma="jettison">
     <roleset id="jettison.01" name="get rid of in a hurry">
       <roles>
-        <role descr="agent, entity getting rid of something" f="PAG" n="0"/>
-        <role descr="thing gotten rid of" f="PPT" n="1"/>
+        <role descr="agent, entity getting rid of something" f="pag" n="0"/>
+        <role descr="thing gotten rid of" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

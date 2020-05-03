@@ -2,8 +2,8 @@
   <predicate lemma="cherish">
     <roleset id="cherish.01" name="like a lot, place much value in">
       <roles>
-        <role descr="cherisher" f="PPT" n="0"/>
-        <role descr="cherished" f="PAG" n="1"/>
+        <role descr="cherisher" f="ppt" n="0"/>
+        <role descr="cherished" f="pag" n="1"/>
       </roles>
     </roleset>
   </predicate>

@@ -2,14 +2,14 @@
   <predicate lemma="spell">
     <roleset id="spell.01" name="sequence of letters">
       <roles>
-        <role descr="speller" f="PAG" n="0"/>
-        <role descr="word" f="PPT" n="1"/>
+        <role descr="speller" f="pag" n="0"/>
+        <role descr="word" f="ppt" n="1"/>
         <role descr="spelling" f="prd" n="2"/>
       </roles>
     </roleset>
     <roleset id="spell.02" name="mean">
       <roles>
-        <role descr="theme" f="PAG" n="0"/>
+        <role descr="theme" f="pag" n="0"/>
         <role descr="explanation" f="ppt" n="1"/>
       </roles>
     </roleset>
@@ -17,7 +17,7 @@
   <predicate lemma="spell_out">
     <roleset id="spell_out.03" name="explain in detail">
       <roles>
-        <role descr="thing explaining" f="PAG" n="0"/>
+        <role descr="thing explaining" f="pag" n="0"/>
         <role descr="thing explained" f="ppt" n="1"/>
       </roles>
     </roleset>

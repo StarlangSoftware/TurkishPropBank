@@ -2,9 +2,9 @@
   <predicate lemma="tackle">
     <roleset id="tackle.01" name="to deal with">
       <roles>
-        <role descr="tackler, entity dealing with something, agent" f="PAG" n="0"/>
-        <role descr="thing tackled" f="PPT" n="1"/>
-        <role descr="means, strategy" f="MNR" n="2"/>
+        <role descr="tackler, entity dealing with something, agent" f="pag" n="0"/>
+        <role descr="thing tackled" f="ppt" n="1"/>
+        <role descr="means, strategy" f="mnr" n="2"/>
       </roles>
     </roleset>
   </predicate>

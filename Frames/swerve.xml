@@ -2,8 +2,8 @@
   <predicate lemma="swerve">
     <roleset id="swerve.01" name="move to avoid">
       <roles>
-        <role descr="entity in motion" f="PPT" n="0"/>
-        <role descr="description of path" f="LOC" n="1"/>
+        <role descr="entity in motion" f="ppt" n="0"/>
+        <role descr="description of path" f="loc" n="1"/>
       </roles>
     </roleset>
   </predicate>

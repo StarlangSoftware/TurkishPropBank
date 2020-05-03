@@ -2,14 +2,14 @@
   <predicate lemma="sniff">
     <roleset id="sniff.01" name="use the nose, smell">
       <roles>
-        <role descr="sniffer" f="PPT" n="0"/>
-        <role descr="thing sniffed" f="PAG" n="1"/>
+        <role descr="sniffer" f="ppt" n="0"/>
+        <role descr="thing sniffed" f="pag" n="1"/>
       </roles>
     </roleset>
     <roleset id="sniff.02" name="mode of speaking">
       <roles>
-        <role descr="speaker" f="PAG" n="0"/>
-        <role descr="utterance" f="PPT" n="1"/>
+        <role descr="speaker" f="pag" n="0"/>
+        <role descr="utterance" f="ppt" n="1"/>
         <role descr="listener" f="gol" n="2"/>
       </roles>
     </roleset>
@@ -17,8 +17,8 @@
   <predicate lemma="sniff_out">
     <roleset id="sniff_out.03" name="find">
       <roles>
-        <role descr="finder" f="PAG" n="0"/>
-        <role descr="found" f="PPT" n="1"/>
+        <role descr="finder" f="pag" n="0"/>
+        <role descr="found" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

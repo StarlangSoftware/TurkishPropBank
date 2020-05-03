@@ -2,8 +2,8 @@
   <predicate lemma="supervise">
     <roleset id="supervise.01" name="supervise, overseeing">
       <roles>
-        <role descr="supervisor" f="PAG" n="0"/>
-        <role descr="thing supervised" f="PPT" n="1"/>
+        <role descr="supervisor" f="pag" n="0"/>
+        <role descr="thing supervised" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

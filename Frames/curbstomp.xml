@@ -2,7 +2,7 @@
   <predicate lemma="curbstomp">
     <roleset id="curbstomp.01" name="stomp someone's face into a curb">
       <roles>
-        <role descr="stomper" f="PAG" n="0"/>
+        <role descr="stomper" f="pag" n="0"/>
         <role descr="victim" f="ppt" n="1"/>
       </roles>
     </roleset>

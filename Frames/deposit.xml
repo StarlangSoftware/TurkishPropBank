@@ -2,9 +2,9 @@
   <predicate lemma="deposit">
     <roleset id="deposit.01" name="put, the act of putting something somewhere">
       <roles>
-        <role descr="depositor, agent" f="PAG" n="0"/>
-        <role descr="thing deposited" f="PPT" n="1"/>
-        <role descr="where" f="GOL" n="2"/>
+        <role descr="depositor, agent" f="pag" n="0"/>
+        <role descr="thing deposited" f="ppt" n="1"/>
+        <role descr="where" f="gol" n="2"/>
       </roles>
     </roleset>
   </predicate>

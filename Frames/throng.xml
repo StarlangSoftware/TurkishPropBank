@@ -2,8 +2,8 @@
   <predicate lemma="throng">
     <roleset id="throng.01" name="move chaotically in a group">
       <roles>
-        <role descr="the swarmer" f="PPT" n="0"/>
-        <role descr="location" f="LOC" n="1"/>
+        <role descr="the swarmer" f="ppt" n="0"/>
+        <role descr="location" f="loc" n="1"/>
       </roles>
     </roleset>
   </predicate>

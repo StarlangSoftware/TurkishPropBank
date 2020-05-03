@@ -2,8 +2,8 @@
   <predicate lemma="bivouac">
     <roleset id="bivouac.01" name="to camp in the open">
       <roles>
-        <role descr="entity camping" f="PPT" n="0"/>
-        <role descr="location, made campsite" f="LOC" n="1"/>
+        <role descr="entity camping" f="ppt" n="0"/>
+        <role descr="location, made campsite" f="loc" n="1"/>
       </roles>
     </roleset>
   </predicate>

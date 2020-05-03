@@ -2,8 +2,8 @@
   <predicate lemma="autoanticoagulate">
     <roleset id="autoanticoagulate.01" name="be prevented from coagulating">
       <roles>
-        <role descr="&quot;auto&quot;, causer of coagulation prevention (should be rare)" f="PAG" n="0"/>
-        <role descr="entity lacking coagulation" f="PPT" n="1"/>
+        <role descr="&quot;auto&quot;, causer of coagulation prevention (should be rare)" f="pag" n="0"/>
+        <role descr="entity lacking coagulation" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

@@ -2,16 +2,16 @@
   <predicate lemma="buoy">
     <roleset id="buoy.01" name="cause to float">
       <roles>
-        <role descr="causer, agent" f="PAG" n="0"/>
-        <role descr="thing floating" f="PPT" n="1"/>
+        <role descr="causer, agent" f="pag" n="0"/>
+        <role descr="thing floating" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>
   <predicate lemma="buoy_up">
     <roleset id="buoy_up.02" name="buoy up: cause to float">
       <roles>
-        <role descr="cause" f="PAG" n="0"/>
-        <role descr="floating thing" f="PPT" n="1"/>
+        <role descr="cause" f="pag" n="0"/>
+        <role descr="floating thing" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

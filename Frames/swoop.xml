@@ -2,15 +2,15 @@
   <predicate lemma="swoop">
     <roleset id="swoop.01" name="to make a sudden sweeping movement, as a bird descending upon its prey.">
       <roles>
-        <role descr="swooper" f="PAG" n="0"/>
+        <role descr="swooper" f="pag" n="0"/>
       </roles>
     </roleset>
   </predicate>
   <predicate lemma="swoop_up">
     <roleset id="swoop_up.02" name="to grab with a swooping motion">
       <roles>
-        <role descr="grabber" f="PAG" n="0"/>
-        <role descr="grabbed" f="PPT" n="1"/>
+        <role descr="grabber" f="pag" n="0"/>
+        <role descr="grabbed" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

@@ -2,8 +2,8 @@
   <predicate lemma="slay">
     <roleset id="slay.01" name="to kill violently">
       <roles>
-        <role descr="killer" f="PAG" n="0"/>
-        <role descr="corpse" f="PPT" n="1"/>
+        <role descr="killer" f="pag" n="0"/>
+        <role descr="corpse" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

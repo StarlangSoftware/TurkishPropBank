@@ -2,9 +2,9 @@
   <predicate lemma="lilt">
     <roleset id="lilt.01" name="move, sing, speak in a cheerful manner">
       <roles>
-        <role descr="lilter" f="PAG" n="0"/>
-        <role descr="utterance, movement, music" f="PPT" n="1"/>
-        <role descr="listener" f="GOL" n="2"/>
+        <role descr="lilter" f="pag" n="0"/>
+        <role descr="utterance, movement, music" f="ppt" n="1"/>
+        <role descr="listener" f="gol" n="2"/>
       </roles>
     </roleset>
   </predicate>

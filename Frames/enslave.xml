@@ -2,8 +2,8 @@
   <predicate lemma="enslave">
     <roleset id="enslave.01" name="to subjugate, make a slave of">
       <roles>
-        <role descr="causer, agent" f="PAG" n="0"/>
-        <role descr="entity enslaved" f="PPT" n="1"/>
+        <role descr="causer, agent" f="pag" n="0"/>
+        <role descr="entity enslaved" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

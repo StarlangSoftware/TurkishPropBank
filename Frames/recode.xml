@@ -2,10 +2,10 @@
   <predicate lemma="recode">
     <roleset id="recode.01" name="recode">
       <roles>
-        <role descr="recoder, agent" f="PAG" n="0"/>
-        <role descr="entity recoded, theme" f="PPT" n="1"/>
-        <role descr="destination of recoding" f="GOL" n="2"/>
-        <role descr="recoded as what, predicate" f="GOL" n="3"/>
+        <role descr="recoder, agent" f="pag" n="0"/>
+        <role descr="entity recoded, theme" f="ppt" n="1"/>
+        <role descr="destination of recoding" f="gol" n="2"/>
+        <role descr="recoded as what, predicate" f="gol" n="3"/>
       </roles>
     </roleset>
   </predicate>

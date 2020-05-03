@@ -2,7 +2,7 @@
   <predicate lemma="sig">
     <roleset id="sig.01" name="to write (latin), label a prescription">
       <roles>
-        <role descr="writer" f="PAG" n="0"/>
+        <role descr="writer" f="pag" n="0"/>
         <role descr="thing written" f="ppt" n="1"/>
       </roles>
     </roleset>

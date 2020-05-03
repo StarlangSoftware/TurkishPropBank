@@ -2,9 +2,9 @@
   <predicate lemma="scintillate">
     <roleset id="scintillate.01" name="scintillate">
       <roles>
-        <role descr="causer of scintillation, agent (transitive clauses only)" f="PAG" n="0"/>
-        <role descr="thing scintillating, theme (intranstiive subject, transitive object)" f="PPT" n="1"/>
-        <role descr="location of scintillation" f="LOC" n="2"/>
+        <role descr="causer of scintillation, agent (transitive clauses only)" f="pag" n="0"/>
+        <role descr="thing scintillating, theme (intranstiive subject, transitive object)" f="ppt" n="1"/>
+        <role descr="location of scintillation" f="loc" n="2"/>
       </roles>
     </roleset>
   </predicate>

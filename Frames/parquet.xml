@@ -2,9 +2,9 @@
   <predicate lemma="parquet">
     <roleset id="parquet.01" name="to decorate a floor with parquetry (inlaid woodwork)">
       <roles>
-        <role descr="Decorator" f="PAG" n="0"/>
-        <role descr="Floor decorated" f="GOL" n="1"/>
-        <role descr="Parquetry itself, type of parquetry" f="PPT" n="2"/>
+        <role descr="Decorator" f="pag" n="0"/>
+        <role descr="Floor decorated" f="gol" n="1"/>
+        <role descr="Parquetry itself, type of parquetry" f="ppt" n="2"/>
       </roles>
     </roleset>
   </predicate>

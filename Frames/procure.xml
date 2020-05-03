@@ -4,7 +4,7 @@
       <roles>
         <role descr="receiver" f="pag" n="0"/>
         <role descr="thing procured" f="ppt" n="1"/>
-        <role descr="procured from" f="DIR" n="2"/>
+        <role descr="procured from" f="dir" n="2"/>
       </roles>
     </roleset>
   </predicate>

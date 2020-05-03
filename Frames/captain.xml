@@ -2,8 +2,8 @@
   <predicate lemma="captain">
     <roleset id="captain.01" name="to command or direct">
       <roles>
-        <role descr="captain, agent" f="PAG" n="0"/>
-        <role descr="entity directed" f="GOL" n="1"/>
+        <role descr="captain, agent" f="pag" n="0"/>
+        <role descr="entity directed" f="gol" n="1"/>
       </roles>
     </roleset>
   </predicate>

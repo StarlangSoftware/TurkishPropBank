@@ -2,8 +2,8 @@
   <predicate lemma="philosophize">
     <roleset id="philosophize.01" name="talk philosophically">
       <roles>
-        <role descr="philosopher" f="PAG" n="0"/>
-        <role descr="philosophical topic" f="PPT" n="1"/>
+        <role descr="philosopher" f="pag" n="0"/>
+        <role descr="philosophical topic" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

@@ -3,7 +3,7 @@
     <roleset id="simplify.01" name="make simple or simpler">
       <roles>
         <role descr="agent, causer" f="cau" n="0"/>
-        <role descr="entity simplified" f="PPT" n="1"/>
+        <role descr="entity simplified" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

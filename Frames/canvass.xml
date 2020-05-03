@@ -2,8 +2,8 @@
   <predicate lemma="canvass">
     <roleset id="canvass.01" name="to survey widely">
       <roles>
-        <role descr="surveyor, agent" f="PAG" n="0"/>
-        <role descr="entity canvassed" f="LOC" n="1"/>
+        <role descr="surveyor, agent" f="pag" n="0"/>
+        <role descr="entity canvassed" f="loc" n="1"/>
       </roles>
     </roleset>
   </predicate>

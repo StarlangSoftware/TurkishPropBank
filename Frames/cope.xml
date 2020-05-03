@@ -2,8 +2,8 @@
   <predicate lemma="cope">
     <roleset id="cope.01" name="get by">
       <roles>
-        <role descr="entity coping" f="PAG" n="0"/>
-        <role descr="coping with" f="PPT" n="1"/>
+        <role descr="entity coping" f="pag" n="0"/>
+        <role descr="coping with" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

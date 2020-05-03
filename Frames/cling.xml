@@ -2,13 +2,13 @@
   <predicate lemma="cling">
     <roleset id="cling.01" name="stick to, overly obsessive lover">
       <roles>
-        <role descr="clingy thing" f="PPT" n="0"/>
-        <role descr="clung to" f="PPT" n="1"/>
+        <role descr="clingy thing" f="ppt" n="0"/>
+        <role descr="clung to" f="ppt" n="1"/>
       </roles>
     </roleset>
     <roleset id="cling.02" name="make a sound like a small bell">
       <roles>
-        <role descr="small bell" f="PPT" n="1"/>
+        <role descr="small bell" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

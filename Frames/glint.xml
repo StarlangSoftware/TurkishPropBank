@@ -2,13 +2,13 @@
   <predicate lemma="glint">
     <roleset id="glint.01" name="emit light intermittently">
       <roles>
-        <role descr="thing emitting light" f="PPT" n="0"/>
+        <role descr="thing emitting light" f="ppt" n="0"/>
       </roles>
     </roleset>
     <roleset id="glint.02" name="look at with shining eyes">
       <roles>
-        <role descr="looker" f="PAG" n="0"/>
-        <role descr="sight" f="PPT" n="1"/>
+        <role descr="looker" f="pag" n="0"/>
+        <role descr="sight" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

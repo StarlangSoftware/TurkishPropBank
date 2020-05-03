@@ -2,14 +2,14 @@
   <predicate lemma="emerge">
     <roleset id="emerge.01" name="exit">
       <roles>
-        <role descr="thing exiting" f="PPT" n="0"/>
-        <role descr="thing/place exited from" f="DIR" n="1"/>
+        <role descr="thing exiting" f="ppt" n="0"/>
+        <role descr="thing/place exited from" f="dir" n="1"/>
       </roles>
     </roleset>
     <roleset id="emerge.02" name="come to be seen as">
       <roles>
-        <role descr="thing emerging" f="PAG" n="0"/>
-        <role descr="as what" f="PPT" n="1"/>
+        <role descr="thing emerging" f="pag" n="0"/>
+        <role descr="as what" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

@@ -2,8 +2,8 @@
   <predicate lemma="skimp">
     <roleset id="skimp.01" name="to use less than is necessary">
       <roles>
-        <role descr="one using less" f="PAG" n="0"/>
-        <role descr="entity used" f="PPT" n="1"/>
+        <role descr="one using less" f="pag" n="0"/>
+        <role descr="entity used" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

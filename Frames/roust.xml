@@ -2,9 +2,9 @@
   <predicate lemma="roust">
     <roleset id="roust.01" name="to rouse or disturb someone">
       <roles>
-        <role descr="cause of disturbance" f="PAG" n="0"/>
-        <role descr="thing or person disturbed" f="PPT" n="1"/>
-        <role descr="disturbed from" f="DIR" n="2"/>
+        <role descr="cause of disturbance" f="pag" n="0"/>
+        <role descr="thing or person disturbed" f="ppt" n="1"/>
+        <role descr="disturbed from" f="dir" n="2"/>
       </roles>
     </roleset>
   </predicate>

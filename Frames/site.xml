@@ -3,7 +3,7 @@
     <roleset id="site.01" name="(cause to) be located in">
       <roles>
         <role descr="causer" f="cau" n="0"/>
-        <role descr="thing that is located" f="PPT" n="1"/>
+        <role descr="thing that is located" f="ppt" n="1"/>
         <role descr="location" f="loc" n="m"/>
       </roles>
     </roleset>

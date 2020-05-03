@@ -2,8 +2,8 @@
   <predicate lemma="shag">
     <roleset id="shag.01" name="to chase and catch fly balls in baseball">
       <roles>
-        <role descr="catcher" f="PAG" n="0"/>
-        <role descr="balls" f="PPT" n="1"/>
+        <role descr="catcher" f="pag" n="0"/>
+        <role descr="balls" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

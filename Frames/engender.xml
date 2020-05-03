@@ -2,8 +2,8 @@
   <predicate lemma="engender">
     <roleset id="engender.01" name="cause, create, bring about">
       <roles>
-        <role descr="creator, cause" f="CAU" n="0"/>
-        <role descr="creation, effect" f="PPT" n="1"/>
+        <role descr="creator, cause" f="cau" n="0"/>
+        <role descr="creation, effect" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

@@ -2,8 +2,8 @@
   <predicate lemma="concrete_over">
     <roleset id="concrete_over.01" name="pour concrete over">
       <roles>
-        <role descr="agent, concrete layer" f="PAG" n="0"/>
-        <role descr="thing now covered in concrete" f="PPT" n="1"/>
+        <role descr="agent, concrete layer" f="pag" n="0"/>
+        <role descr="thing now covered in concrete" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

@@ -2,8 +2,8 @@
   <predicate lemma="exhume">
     <roleset id="exhume.01" name="remove something (body) previously burried">
       <roles>
-        <role descr="digger, agent" f="PAG" n="0"/>
-        <role descr="entity exhumed" f="PPT" n="1"/>
+        <role descr="digger, agent" f="pag" n="0"/>
+        <role descr="entity exhumed" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

@@ -2,8 +2,8 @@
   <predicate lemma="foreclose">
     <roleset id="foreclose.01" name="when good mortgages go bad">
       <roles>
-        <role descr="bank" f="PAG" n="0"/>
-        <role descr="property" f="PPT" n="1"/>
+        <role descr="bank" f="pag" n="0"/>
+        <role descr="property" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

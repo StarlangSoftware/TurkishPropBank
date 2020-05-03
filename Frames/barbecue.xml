@@ -2,8 +2,8 @@
   <predicate lemma="barbecue">
     <roleset id="barbecue.01" name="cook by barbecuing">
       <roles>
-        <role descr="cook, agent" f="PAG" n="0"/>
-        <role descr="food,meaterial" f="PPT" n="1"/>
+        <role descr="cook, agent" f="pag" n="0"/>
+        <role descr="food,meaterial" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

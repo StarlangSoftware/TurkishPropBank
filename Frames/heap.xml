@@ -2,9 +2,9 @@
   <predicate lemma="heap">
     <roleset id="heap.01" name="to bestow in large quantities, perhaps into a pile">
       <roles>
-        <role descr="distributor" f="PAG" n="0"/>
-        <role descr="constituents of the heap" f="PPT" n="1"/>
-        <role descr="placement of the heap" f="GOL" n="2"/>
+        <role descr="distributor" f="pag" n="0"/>
+        <role descr="constituents of the heap" f="ppt" n="1"/>
+        <role descr="placement of the heap" f="gol" n="2"/>
       </roles>
     </roleset>
   </predicate>

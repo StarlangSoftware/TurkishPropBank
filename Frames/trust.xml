@@ -2,15 +2,15 @@
   <predicate lemma="trust">
     <roleset id="trust.01" name="trust someone with something">
       <roles>
-        <role descr="truster" f="PAG" n="0"/>
-        <role descr="something" f="PPT" n="1"/>
-        <role descr="someone" f="GOL" n="2"/>
+        <role descr="truster" f="pag" n="0"/>
+        <role descr="something" f="ppt" n="1"/>
+        <role descr="someone" f="gol" n="2"/>
       </roles>
     </roleset>
     <roleset id="trust.02" name="put faith in">
       <roles>
-        <role descr="truster" f="PPT" n="0"/>
-        <role descr="thing trusted" f="PAG" n="1"/>
+        <role descr="truster" f="ppt" n="0"/>
+        <role descr="thing trusted" f="pag" n="1"/>
       </roles>
     </roleset>
   </predicate>

@@ -2,8 +2,8 @@
   <predicate lemma="appropriate">
     <roleset id="appropriate.01" name="to take possession of">
       <roles>
-        <role descr="taker of possession, agent" f="PAG" n="0"/>
-        <role descr="entity appropriated" f="PPT" n="1"/>
+        <role descr="taker of possession, agent" f="pag" n="0"/>
+        <role descr="entity appropriated" f="ppt" n="1"/>
       </roles>
     </roleset>
     <roleset id="appropriate.02" name="suitable">

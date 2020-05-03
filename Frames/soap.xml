@@ -2,8 +2,8 @@
   <predicate lemma="soap">
     <roleset id="soap.01" name="soap">
       <roles>
-        <role descr="agent, soaper" f="PAG" n="0"/>
-        <role descr="thing soaped, patient" f="PPT" n="1"/>
+        <role descr="agent, soaper" f="pag" n="0"/>
+        <role descr="thing soaped, patient" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

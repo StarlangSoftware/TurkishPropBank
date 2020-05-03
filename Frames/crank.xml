@@ -2,16 +2,16 @@
   <predicate lemma="crank_up">
     <roleset id="crank_up.01" name="increase intensity of">
       <roles>
-        <role descr="cranker" f="PAG" n="0"/>
-        <role descr="what's gotten more intense" f="PPT" n="1"/>
+        <role descr="cranker" f="pag" n="0"/>
+        <role descr="what's gotten more intense" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>
   <predicate lemma="crank_out">
     <roleset id="crank_out.02" name="produce">
       <roles>
-        <role descr="producer, creator" f="PAG" n="0"/>
-        <role descr="product" f="PPT" n="1"/>
+        <role descr="producer, creator" f="pag" n="0"/>
+        <role descr="product" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

@@ -2,8 +2,8 @@
   <predicate lemma="substantiate">
     <roleset id="substantiate.01" name="prove, justify">
       <roles>
-        <role descr="prover" f="PAG" n="0"/>
-        <role descr="justified" f="PPT" n="1"/>
+        <role descr="prover" f="pag" n="0"/>
+        <role descr="justified" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

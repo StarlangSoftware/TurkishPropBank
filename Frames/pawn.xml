@@ -2,8 +2,8 @@
   <predicate lemma="pawn">
     <roleset id="pawn.01" name="to temporarily sell (personal property), ">
       <roles>
-        <role descr="seller" f="PAG" n="0"/>
-        <role descr="thing deposited" f="PPT" n="1"/>
+        <role descr="seller" f="pag" n="0"/>
+        <role descr="thing deposited" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

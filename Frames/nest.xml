@@ -2,8 +2,8 @@
   <predicate lemma="nest">
     <roleset id="nest.01" name="like a bird">
       <roles>
-        <role descr="bird-like entity" f="PAG" n="0"/>
-        <role descr="location of nest" f="PPT" n="1"/>
+        <role descr="bird-like entity" f="pag" n="0"/>
+        <role descr="location of nest" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

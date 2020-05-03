@@ -22,8 +22,8 @@
   <predicate lemma="smart">
     <roleset id="smart.03" name="experience mild pain">
       <roles>
-        <role descr="entity which is experiencing pain" f="PPT" n="1"/>
-        <role descr="cause of pain (us. 'at')" f="PAG" n="2"/>
+        <role descr="entity which is experiencing pain" f="ppt" n="1"/>
+        <role descr="cause of pain (us. 'at')" f="pag" n="2"/>
       </roles>
     </roleset>
     <roleset id="smart.04" name="aesthetically sharp, stylish">

@@ -2,8 +2,8 @@
   <predicate lemma="simper">
     <roleset id="simper.01" name="simper, speak">
       <roles>
-        <role descr="simperer, agent" f="PAG" n="0"/>
-        <role descr="topic of simpering, simpered about, quotation" f="PPT" n="1"/>
+        <role descr="simperer, agent" f="pag" n="0"/>
+        <role descr="topic of simpering, simpered about, quotation" f="ppt" n="1"/>
         <role descr="recipient, simpered-to" f="gol" n="2"/>
       </roles>
     </roleset>

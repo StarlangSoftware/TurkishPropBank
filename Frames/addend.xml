@@ -2,7 +2,7 @@
   <predicate lemma="addend">
     <roleset id="addend.01" name="add an addendum to">
       <roles>
-        <role descr="Causer of addition" f="PAG" n="0"/>
+        <role descr="Causer of addition" f="pag" n="0"/>
         <role descr="thing changed" f="ppt" n="1"/>
       </roles>
     </roleset>

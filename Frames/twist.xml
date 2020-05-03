@@ -2,8 +2,8 @@
   <predicate lemma="twist">
     <roleset id="twist.01" name="to change form,  shape, etc, compression with a spiral motion">
       <roles>
-        <role descr="cause of change, agent" f="PAG" n="0"/>
-        <role descr="entity twisted" f="PPT" n="1"/>
+        <role descr="cause of change, agent" f="pag" n="0"/>
+        <role descr="entity twisted" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

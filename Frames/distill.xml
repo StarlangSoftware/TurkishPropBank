@@ -2,9 +2,9 @@
   <predicate lemma="distill">
     <roleset id="distill.01" name="remove impurities">
       <roles>
-        <role descr="remover of impurities, agent" f="PAG" n="0"/>
-        <role descr="impurities" f="PPT" n="1"/>
-        <role descr="source, pure substance" f="DIR" n="2"/>
+        <role descr="remover of impurities, agent" f="pag" n="0"/>
+        <role descr="impurities" f="ppt" n="1"/>
+        <role descr="source, pure substance" f="dir" n="2"/>
       </roles>
     </roleset>
   </predicate>

@@ -2,9 +2,9 @@
   <predicate lemma="commission">
     <roleset id="commission.01" name="to grant a commission, authorize, hiring by commission">
       <roles>
-        <role descr="granter, agent" f="PAG" n="0"/>
-        <role descr="task" f="PRD" n="1"/>
-        <role descr="recepient" f="PPT" n="2"/>
+        <role descr="granter, agent" f="pag" n="0"/>
+        <role descr="task" f="prd" n="1"/>
+        <role descr="recepient" f="ppt" n="2"/>
       </roles>
     </roleset>
   </predicate>

@@ -2,9 +2,9 @@
   <predicate lemma="headquarter">
     <roleset id="headquarter.01" name="provide with base or be based in">
       <roles>
-        <role descr="causer of basing" f="PAG" n="0"/>
-        <role descr="organization" f="PPT" n="1"/>
-        <role descr="location" f="LOC" n="M"/>
+        <role descr="causer of basing" f="pag" n="0"/>
+        <role descr="organization" f="ppt" n="1"/>
+        <role descr="location" f="loc" n="m"/>
       </roles>
     </roleset>
   </predicate>

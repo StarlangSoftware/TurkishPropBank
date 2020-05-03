@@ -2,9 +2,9 @@
   <predicate lemma="garrotte">
     <roleset id="garrotte.01" name="strangle">
       <roles>
-        <role descr="Causer of strangling" f="PAG" n="0"/>
-        <role descr="strangled entity" f="PPT" n="1"/>
-        <role descr="instrument, strangled with what device?" f="MNR" n="2"/>
+        <role descr="Causer of strangling" f="pag" n="0"/>
+        <role descr="strangled entity" f="ppt" n="1"/>
+        <role descr="instrument, strangled with what device?" f="mnr" n="2"/>
       </roles>
     </roleset>
   </predicate>

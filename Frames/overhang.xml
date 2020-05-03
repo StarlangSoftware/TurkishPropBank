@@ -2,8 +2,8 @@
   <predicate lemma="overhang">
     <roleset id="overhang.01" name="hang over">
       <roles>
-        <role descr="thing hanging, thing over" f="PPT" n="0"/>
-        <role descr="thing hung over, thing under" f="PPT" n="1"/>
+        <role descr="thing hanging, thing over" f="ppt" n="0"/>
+        <role descr="thing hung over, thing under" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

@@ -11,14 +11,14 @@
     </roleset>
     <roleset id="wash.02" name="cut it, be adequate">
       <roles>
-        <role descr="inadequate thing" f="PAG" n="0"/>
+        <role descr="inadequate thing" f="pag" n="0"/>
       </roles>
     </roleset>
   </predicate>
   <predicate lemma="wash_up">
     <roleset id="wash_up.03" name="arrive on unknown shore, reach land from water">
       <roles>
-        <role descr="Thing arriving on land from water" f="PPT" n="1"/>
+        <role descr="Thing arriving on land from water" f="ppt" n="1"/>
       </roles>
     </roleset>
     <roleset id="wash_up.06" name="make become clean, completive">
@@ -33,14 +33,14 @@
   <predicate lemma="wash_down">
     <roleset id="wash_down.04" name="using liquid to swallow something">
       <roles>
-        <role descr="Agent of swallowing" f="PAG" n="0"/>
+        <role descr="Agent of swallowing" f="pag" n="0"/>
         <role descr="Thing being swallowed" f="ppt" n="1"/>
         <role descr="Liquid enabling swallowing" f="mnr" n="2"/>
       </roles>
     </roleset>
     <roleset id="wash_down.05" name="kinda like 'hose down'">
       <roles>
-        <role descr="washer" f="PAG" n="0"/>
+        <role descr="washer" f="pag" n="0"/>
         <role descr="formerly dirty thing" f="ppt" n="1"/>
         <role descr="soap/water" f="mnr" n="2"/>
       </roles>

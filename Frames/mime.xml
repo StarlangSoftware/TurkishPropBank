@@ -2,8 +2,8 @@
   <predicate lemma="mime">
     <roleset id="mime.01" name="mimic or perform">
       <roles>
-        <role descr="mime" f="PAG" n="0"/>
-        <role descr="entity or motion mimed" f="PPT" n="1"/>
+        <role descr="mime" f="pag" n="0"/>
+        <role descr="entity or motion mimed" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

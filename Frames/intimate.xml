@@ -2,15 +2,15 @@
   <predicate lemma="intimate">
     <roleset id="intimate.01" name="suggest subtly">
       <roles>
-        <role descr="suggester" f="PAG" n="0"/>
-        <role descr="suggestion" f="PPT" n="1"/>
-        <role descr="hearer" f="GOL" n="2"/>
+        <role descr="suggester" f="pag" n="0"/>
+        <role descr="suggestion" f="ppt" n="1"/>
+        <role descr="hearer" f="gol" n="2"/>
       </roles>
     </roleset>
     <roleset id="intimate.02" name="intimate">
       <roles>
-        <role descr="feeler/knower, first intimate entity" f="PPT" n="1"/>
-        <role descr="target of intimacy, intimate with whom/what?" f="GOL" n="2"/>
+        <role descr="feeler/knower, first intimate entity" f="ppt" n="1"/>
+        <role descr="target of intimacy, intimate with whom/what?" f="gol" n="2"/>
       </roles>
     </roleset>
   </predicate>

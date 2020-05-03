@@ -2,8 +2,8 @@
   <predicate lemma="clout">
     <roleset id="clout.01" name="to strike (often a ball) hard">
       <roles>
-        <role descr="hitter" f="PAG" n="0"/>
-        <role descr="victim or ball" f="PPT" n="1"/>
+        <role descr="hitter" f="pag" n="0"/>
+        <role descr="victim or ball" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

@@ -2,9 +2,9 @@
   <predicate lemma="bake">
     <roleset id="bake.01" name="create via heat">
       <roles>
-        <role descr="baker" f="PAG" n="0"/>
+        <role descr="baker" f="pag" n="0"/>
         <role descr="creation" f="ppt" n="1"/>
-        <role descr="ingredients" f="VSP" n="2"/>
+        <role descr="ingredients" f="vsp" n="2"/>
         <role descr="benefactive" f="gol" n="3"/>
       </roles>
     </roleset>

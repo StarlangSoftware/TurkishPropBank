@@ -2,10 +2,10 @@
   <predicate lemma="rope">
     <roleset id="rope.01" name="rope">
       <roles>
-        <role descr="roper, agent" f="PAG" n="0"/>
-        <role descr="first thing(s) roped" f="PPT" n="1"/>
-        <role descr="roped to what, second thing roped (if separate from Arg1)" f="PPT" n="2"/>
-        <role descr="instrument of roping (rope itself)" f="MNR" n="3"/>
+        <role descr="roper, agent" f="pag" n="0"/>
+        <role descr="first thing(s) roped" f="ppt" n="1"/>
+        <role descr="roped to what, second thing roped (if separate from Arg1)" f="ppt" n="2"/>
+        <role descr="instrument of roping (rope itself)" f="mnr" n="3"/>
       </roles>
     </roleset>
   </predicate>

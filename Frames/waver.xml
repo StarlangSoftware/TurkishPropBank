@@ -2,8 +2,8 @@
   <predicate lemma="waver">
     <roleset id="waver.01" name="go back and forth, not make up one's mind">
       <roles>
-        <role descr="undecided entity" f="PAG" n="0"/>
-        <role descr="topic, question" f="PPT" n="1"/>
+        <role descr="undecided entity" f="pag" n="0"/>
+        <role descr="topic, question" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

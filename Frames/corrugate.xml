@@ -2,8 +2,8 @@
   <predicate lemma="corrugate">
     <roleset id="corrugate.01" name="shape into ripples and ridges">
       <roles>
-        <role descr="agent/cause of corrugation" f="PAG" n="0"/>
-        <role descr="patient, entity wrinkled" f="PPT" n="1"/>
+        <role descr="agent/cause of corrugation" f="pag" n="0"/>
+        <role descr="patient, entity wrinkled" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

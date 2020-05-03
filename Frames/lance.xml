@@ -2,15 +2,15 @@
   <predicate lemma="lance">
     <roleset id="lance.01" name="pierce">
       <roles>
-        <role descr="agent/cause of piercing" f="PAG" n="0"/>
-        <role descr="entity becoming pierced" f="PPT" n="1"/>
-        <role descr="instrument used" f="MNR" n="2"/>
+        <role descr="agent/cause of piercing" f="pag" n="0"/>
+        <role descr="entity becoming pierced" f="ppt" n="1"/>
+        <role descr="instrument used" f="mnr" n="2"/>
       </roles>
     </roleset>
     <roleset id="lance.02" name="move sharply">
       <roles>
-        <role descr="thing in motion" f="PPT" n="0"/>
-        <role descr="path" f="LOC" n="1"/>
+        <role descr="thing in motion" f="ppt" n="0"/>
+        <role descr="path" f="loc" n="1"/>
       </roles>
     </roleset>
   </predicate>

@@ -2,7 +2,7 @@
   <predicate lemma="shred">
     <roleset id="shred.01" name="turn wide flat object into small flat objects">
       <roles>
-        <role descr="shredder" f="PAG" n="0"/>
+        <role descr="shredder" f="pag" n="0"/>
         <role descr="thing shredded, whole" f="ppt" n="1"/>
         <role descr="instrument" f="mnr" n="2"/>
         <role descr="pieces" f="prd" n="3"/>

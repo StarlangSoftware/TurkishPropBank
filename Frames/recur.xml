@@ -2,7 +2,7 @@
   <predicate lemma="recur">
     <roleset id="recur.01" name="occur over again">
       <roles>
-        <role descr="event" f="PPT" n="0"/>
+        <role descr="event" f="ppt" n="0"/>
         <role descr="count of recurrences" f="adv" n="1"/>
       </roles>
     </roleset>

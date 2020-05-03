@@ -2,8 +2,8 @@
   <predicate lemma="bat">
     <roleset id="bat.01" name="move in a swinging or fluttering motion">
       <roles>
-        <role descr="batter, agent" f="PAG" n="0"/>
-        <role descr="eye(s)" f="PPT" n="1"/>
+        <role descr="batter, agent" f="pag" n="0"/>
+        <role descr="eye(s)" f="ppt" n="1"/>
       </roles>
     </roleset>
     <roleset id="bat.02" name="play baseball, earn stat in baseball">
@@ -19,8 +19,8 @@
   <predicate lemma="bat_in">
     <roleset id="bat_in.03" name="bring in runs by hitting a baseball">
       <roles>
-        <role descr="batter" f="PAG" n="0"/>
-        <role descr="runs" f="PPT" n="1"/>
+        <role descr="batter" f="pag" n="0"/>
+        <role descr="runs" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

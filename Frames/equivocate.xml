@@ -2,8 +2,8 @@
   <predicate lemma="equivocate">
     <roleset id="equivocate.01" name="waver, use ambiguous language, ambiguous">
       <roles>
-        <role descr="one who equivocates" f="PAG" n="0"/>
-        <role descr="thing equivocated over" f="PPT" n="1"/>
+        <role descr="one who equivocates" f="pag" n="0"/>
+        <role descr="thing equivocated over" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

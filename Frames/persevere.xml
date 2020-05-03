@@ -2,8 +2,8 @@
   <predicate lemma="persevere">
     <roleset id="persevere.01" name="persist on face of hardship">
       <roles>
-        <role descr="person persisting" f="PAG" n="0"/>
-        <role descr="continued action" f="PPT" n="1"/>
+        <role descr="person persisting" f="pag" n="0"/>
+        <role descr="continued action" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

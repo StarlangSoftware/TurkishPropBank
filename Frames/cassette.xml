@@ -2,7 +2,7 @@
   <predicate lemma="cassette">
     <roleset id="cassette.01" name="put on a cassette">
       <roles>
-        <role descr="Cause of transfer to cassette" f="PAG" n="0"/>
+        <role descr="Cause of transfer to cassette" f="pag" n="0"/>
         <role descr="thing now on cassette" f="ppt" n="1"/>
       </roles>
     </roleset>

@@ -2,18 +2,18 @@
   <predicate lemma="shuttle">
     <roleset id="shuttle.01" name="move something back and forth">
       <roles>
-        <role descr="mover" f="PAG" n="0"/>
-        <role descr="thing moved" f="PPT" n="1"/>
-        <role descr="one (or both) location(s), start point" f="DIR" n="2"/>
-        <role descr="other location, destination" f="GOL" n="3"/>
+        <role descr="mover" f="pag" n="0"/>
+        <role descr="thing moved" f="ppt" n="1"/>
+        <role descr="one (or both) location(s), start point" f="dir" n="2"/>
+        <role descr="other location, destination" f="gol" n="3"/>
       </roles>
     </roleset>
   </predicate>
   <predicate lemma="shuttle_off">
     <roleset id="shuttle_off.02" name="move (away) with little fanfare">
       <roles>
-        <role descr="agent of motion" f="PAG" n="0"/>
-        <role descr="thing moved" f="PPT" n="1"/>
+        <role descr="agent of motion" f="pag" n="0"/>
+        <role descr="thing moved" f="ppt" n="1"/>
         <role descr="destination" f="gol" n="2"/>
       </roles>
     </roleset>

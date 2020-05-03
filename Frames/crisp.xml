@@ -2,7 +2,7 @@
   <predicate lemma="crisp">
     <roleset id="crisp.01" name="fry">
       <roles>
-        <role descr="cook" f="PAG" n="0"/>
+        <role descr="cook" f="pag" n="0"/>
         <role descr="food" f="ppt" n="1"/>
       </roles>
     </roleset>
@@ -10,7 +10,7 @@
   <predicate lemma="crisp_up">
     <roleset id="crisp_up.02" name="crisp up">
       <roles>
-        <role descr="cook" f="PAG" n="0"/>
+        <role descr="cook" f="pag" n="0"/>
         <role descr="food" f="ppt" n="1"/>
       </roles>
     </roleset>

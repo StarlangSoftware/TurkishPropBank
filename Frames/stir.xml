@@ -2,23 +2,23 @@
   <predicate lemma="stir">
     <roleset id="stir.01" name="mix with a circular motion">
       <roles>
-        <role descr="stirer" f="PAG" n="0"/>
-        <role descr="thing stirred or stirring" f="PPT" n="1"/>
+        <role descr="stirer" f="pag" n="0"/>
+        <role descr="thing stirred or stirring" f="ppt" n="1"/>
         <role descr="instrument" f="mnr" n="2"/>
       </roles>
     </roleset>
     <roleset id="stir.02" name="cause (emotional) reaction">
       <roles>
-        <role descr="agent, stirrer" f="PAG" n="0"/>
-        <role descr="patient, stirred" f="PPT" n="1"/>
+        <role descr="agent, stirrer" f="pag" n="0"/>
+        <role descr="patient, stirred" f="ppt" n="1"/>
         <role descr="instrument" f="mnr" n="2"/>
         <role descr="induced action" f="prd" n="3"/>
       </roles>
     </roleset>
     <roleset id="stir.03" name="move, rouse, awaken">
       <roles>
-        <role descr="mover" f="PAG" n="0"/>
-        <role descr="moved" f="PPT" n="1"/>
+        <role descr="mover" f="pag" n="0"/>
+        <role descr="moved" f="ppt" n="1"/>
         <role descr="destination" f="gol" n="2"/>
       </roles>
     </roleset>

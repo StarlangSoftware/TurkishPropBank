@@ -2,9 +2,9 @@
   <predicate lemma="splotch">
     <roleset id="splotch.01" name="splotch">
       <roles>
-        <role descr="splotcher, agent" f="PAG" n="0"/>
-        <role descr="thing splotched, destination" f="GOL" n="1"/>
-        <role descr="splotched with what, theme" f="PPT" n="2"/>
+        <role descr="splotcher, agent" f="pag" n="0"/>
+        <role descr="thing splotched, destination" f="gol" n="1"/>
+        <role descr="splotched with what, theme" f="ppt" n="2"/>
       </roles>
     </roleset>
   </predicate>

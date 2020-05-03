@@ -2,7 +2,7 @@
   <predicate lemma="support">
     <roleset id="support.01" name="lend aid, credence to">
       <roles>
-        <role descr="helper" f="PAG" n="0"/>
+        <role descr="helper" f="pag" n="0"/>
         <role descr="person, thing or project being supported" f="ppt" n="1"/>
       </roles>
     </roleset>

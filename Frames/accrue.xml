@@ -2,8 +2,8 @@
   <predicate lemma="accrue">
     <roleset id="accrue.01" name="accumulate, gather">
       <roles>
-        <role descr="agent, gatherer" f="PAG" n="0"/>
-        <role descr="thing gathered, accrued" f="PPT" n="1"/>
+        <role descr="agent, gatherer" f="pag" n="0"/>
+        <role descr="thing gathered, accrued" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

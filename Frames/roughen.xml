@@ -2,9 +2,9 @@
   <predicate lemma="roughen">
     <roleset id="roughen.01" name="make rough">
       <roles>
-        <role descr="agent, cause" f="PAG" n="0"/>
-        <role descr="thing made rough" f="PPT" n="1"/>
-        <role descr="instrument or method" f="MNR" n="2"/>
+        <role descr="agent, cause" f="pag" n="0"/>
+        <role descr="thing made rough" f="ppt" n="1"/>
+        <role descr="instrument or method" f="mnr" n="2"/>
       </roles>
     </roleset>
   </predicate>

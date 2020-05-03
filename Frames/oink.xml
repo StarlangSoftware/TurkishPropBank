@@ -2,7 +2,7 @@
   <predicate lemma="oink">
     <roleset id="oink.01" name="make the characteristic noise of a pig, grunt">
       <roles>
-        <role descr="oinker" f="PAG" n="0"/>
+        <role descr="oinker" f="pag" n="0"/>
       </roles>
     </roleset>
   </predicate>

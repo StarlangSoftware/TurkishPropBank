@@ -2,9 +2,9 @@
   <predicate lemma="disarm">
     <roleset id="disarm.01" name="to divest of a weapon or weapons, render harmless, taking away weapons, disarm">
       <roles>
-        <role descr="entity removing weapons, agent" f="PAG" n="0"/>
-        <role descr="entity disarmed of weapons" f="PPT" n="1"/>
-        <role descr="weapons removed" f="PPT" n="2"/>
+        <role descr="entity removing weapons, agent" f="pag" n="0"/>
+        <role descr="entity disarmed of weapons" f="ppt" n="1"/>
+        <role descr="weapons removed" f="ppt" n="2"/>
       </roles>
     </roleset>
   </predicate>

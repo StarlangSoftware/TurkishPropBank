@@ -2,9 +2,9 @@
   <predicate lemma="weed">
     <roleset id="weed.01" name="remove">
       <roles>
-        <role descr="weeder" f="PAG" n="0"/>
-        <role descr="location the weeds are removed from" f="DIR" n="1"/>
-        <role descr="weed, thing removed" f="PPT" n="2"/>
+        <role descr="weeder" f="pag" n="0"/>
+        <role descr="location the weeds are removed from" f="dir" n="1"/>
+        <role descr="weed, thing removed" f="ppt" n="2"/>
       </roles>
     </roleset>
   </predicate>

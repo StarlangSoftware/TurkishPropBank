@@ -2,8 +2,8 @@
   <predicate lemma="woo">
     <roleset id="woo.01" name="pursue with intent to marry">
       <roles>
-        <role descr="pursuer" f="PAG" n="0"/>
-        <role descr="pursued" f="PPT" n="1"/>
+        <role descr="pursuer" f="pag" n="0"/>
+        <role descr="pursued" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

@@ -2,8 +2,8 @@
   <predicate lemma="abdicate">
     <roleset id="abdicate.01" name="to relinquish (power or responsibility)">
       <roles>
-        <role descr="abdicator, agent" f="PAG" n="0"/>
-        <role descr="responsibility" f="DIR" n="1"/>
+        <role descr="abdicator, agent" f="pag" n="0"/>
+        <role descr="responsibility" f="dir" n="1"/>
       </roles>
     </roleset>
   </predicate>

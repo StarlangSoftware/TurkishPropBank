@@ -2,8 +2,8 @@
   <predicate lemma="overturn">
     <roleset id="overturn.01" name="invalidate, reverse">
       <roles>
-        <role descr="overturner (us. judge or court)" f="PAG" n="0"/>
-        <role descr="thing overturned, law or judgement" f="PPT" n="1"/>
+        <role descr="overturner (us. judge or court)" f="pag" n="0"/>
+        <role descr="thing overturned, law or judgement" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

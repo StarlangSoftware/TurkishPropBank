@@ -4,7 +4,7 @@
       <roles>
         <role descr="thing appearing" f="ppt" n="1"/>
         <role descr="reflexive pronoun" f="gol" n="2"/>
-        <role descr="medium of appearance" f="PRD" n="3"/>
+        <role descr="medium of appearance" f="prd" n="3"/>
       </roles>
     </roleset>
   </predicate>

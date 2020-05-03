@@ -2,18 +2,18 @@
   <predicate lemma="poke">
     <roleset id="poke.01" name="touch with long slender object, touching with a pointy thing">
       <roles>
-        <role descr="toucher, agent" f="PAG" n="0"/>
+        <role descr="toucher, agent" f="pag" n="0"/>
         <role descr="thing touched" f="ppt" n="1"/>
-        <role descr="long slender object" f="MNR" n="2"/>
+        <role descr="long slender object" f="mnr" n="2"/>
       </roles>
     </roleset>
   </predicate>
   <predicate lemma="poke_around">
     <roleset id="poke_around.02" name="rummage, look for idly">
       <roles>
-        <role descr="looker, searcher, agent" f="PAG" n="0"/>
-        <role descr="place looked in" f="LOC" n="1"/>
-        <role descr="thing looked for, goal" f="PPT" n="2"/>
+        <role descr="looker, searcher, agent" f="pag" n="0"/>
+        <role descr="place looked in" f="loc" n="1"/>
+        <role descr="thing looked for, goal" f="ppt" n="2"/>
       </roles>
     </roleset>
   </predicate>

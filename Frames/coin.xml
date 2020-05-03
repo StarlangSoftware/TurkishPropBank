@@ -2,8 +2,8 @@
   <predicate lemma="coin">
     <roleset id="coin.01" name="create something new">
       <roles>
-        <role descr="coiner" f="PAG" n="0"/>
-        <role descr="thing coined (rarely a coin)" f="PRD" n="1"/>
+        <role descr="coiner" f="pag" n="0"/>
+        <role descr="thing coined (rarely a coin)" f="prd" n="1"/>
       </roles>
     </roleset>
   </predicate>

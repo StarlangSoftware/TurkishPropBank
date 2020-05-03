@@ -2,9 +2,9 @@
   <predicate lemma="bridge">
     <roleset id="bridge.01" name="to connect">
       <roles>
-        <role descr="connector, agent" f="PAG" n="0"/>
-        <role descr="entity connected" f="PPT" n="1"/>
-        <role descr="entity connected with" f="PPT" n="2"/>
+        <role descr="connector, agent" f="pag" n="0"/>
+        <role descr="entity connected" f="ppt" n="1"/>
+        <role descr="entity connected with" f="ppt" n="2"/>
       </roles>
     </roleset>
     <roleset id="bridge.02" name="to temporarily substitute one medicine with another">

@@ -2,8 +2,8 @@
   <predicate lemma="disperse">
     <roleset id="disperse.01" name="to scatter">
       <roles>
-        <role descr="scatterer, agent" f="PAG" n="0"/>
-        <role descr="entity dispersed" f="PPT" n="1"/>
+        <role descr="scatterer, agent" f="pag" n="0"/>
+        <role descr="entity dispersed" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

@@ -2,9 +2,9 @@
   <predicate lemma="softboil">
     <roleset id="softboil.01" name="softboil">
       <roles>
-        <role descr="softboiler, agent" f="PAG" n="0"/>
-        <role descr="thing being softboiled, patient" f="PPT" n="1"/>
-        <role descr="softboiled with what, instrument" f="MNR" n="2"/>
+        <role descr="softboiler, agent" f="pag" n="0"/>
+        <role descr="thing being softboiled, patient" f="ppt" n="1"/>
+        <role descr="softboiled with what, instrument" f="mnr" n="2"/>
       </roles>
     </roleset>
   </predicate>

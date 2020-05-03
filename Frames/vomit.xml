@@ -2,16 +2,16 @@
   <predicate lemma="vomit">
     <roleset id="vomit.01" name="puke, throw up">
       <roles>
-        <role descr="person vomiting" f="PAG" n="0"/>
-        <role descr="vomit" f="PPT" n="1"/>
+        <role descr="person vomiting" f="pag" n="0"/>
+        <role descr="vomit" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>
   <predicate lemma="vomit_up">
     <roleset id="vomit_up.02" name="puke with object">
       <roles>
-        <role descr="puker" f="PAG" n="0"/>
-        <role descr="former contents of stomach" f="PPT" n="1"/>
+        <role descr="puker" f="pag" n="0"/>
+        <role descr="former contents of stomach" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

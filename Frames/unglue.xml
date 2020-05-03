@@ -2,9 +2,9 @@
   <predicate lemma="unglue">
     <roleset id="unglue.01" name="unglue">
       <roles>
-        <role descr="ungluer, agent" f="PAG" n="0"/>
-        <role descr="thing unglued, patient" f="PPT" n="1"/>
-        <role descr="unglued from, source" f="PPT" n="2"/>
+        <role descr="ungluer, agent" f="pag" n="0"/>
+        <role descr="thing unglued, patient" f="ppt" n="1"/>
+        <role descr="unglued from, source" f="ppt" n="2"/>
       </roles>
     </roleset>
   </predicate>

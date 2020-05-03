@@ -2,8 +2,8 @@
   <predicate lemma="pollinate">
     <roleset id="pollinate.01" name="to fertilize by transfering pollen">
       <roles>
-        <role descr="fertilizer, agent" f="PAG" n="0"/>
-        <role descr="plant  pollinated" f="PPT" n="1"/>
+        <role descr="fertilizer, agent" f="pag" n="0"/>
+        <role descr="plant  pollinated" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

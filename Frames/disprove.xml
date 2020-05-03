@@ -2,8 +2,8 @@
   <predicate lemma="disprove">
     <roleset id="disprove.01" name="show to be false">
       <roles>
-        <role descr="demonstrator of falseness, agent" f="PAG" n="0"/>
-        <role descr="false thing" f="PPT" n="1"/>
+        <role descr="demonstrator of falseness, agent" f="pag" n="0"/>
+        <role descr="false thing" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

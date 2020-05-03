@@ -2,8 +2,8 @@
   <predicate lemma="mummify">
     <roleset id="mummify.01" name="remove organs and preserve">
       <roles>
-        <role descr="preserver" f="PAG" n="0"/>
-        <role descr="thing preserved" f="PPT" n="1"/>
+        <role descr="preserver" f="pag" n="0"/>
+        <role descr="thing preserved" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

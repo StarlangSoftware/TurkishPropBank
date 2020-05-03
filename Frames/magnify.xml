@@ -2,8 +2,8 @@
   <predicate lemma="magnify">
     <roleset id="magnify.01" name="make greater or bigger">
       <roles>
-        <role descr="causer of magnification" f="PAG" n="0"/>
-        <role descr="thing getting bigger/greater" f="PPT" n="1"/>
+        <role descr="causer of magnification" f="pag" n="0"/>
+        <role descr="thing getting bigger/greater" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

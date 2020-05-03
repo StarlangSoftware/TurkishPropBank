@@ -2,8 +2,8 @@
   <predicate lemma="blackmail">
     <roleset id="blackmail.01" name="to exert pressure on someone through threats">
       <roles>
-        <role descr="blackmailer, agent" f="PAG" n="0"/>
-        <role descr="entity blackmailed" f="PPT" n="1"/>
+        <role descr="blackmailer, agent" f="pag" n="0"/>
+        <role descr="entity blackmailed" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

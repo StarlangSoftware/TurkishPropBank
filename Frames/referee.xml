@@ -2,8 +2,8 @@
   <predicate lemma="referee">
     <roleset id="referee.01" name="referee">
       <roles>
-        <role descr="referee, agent" f="PAG" n="0"/>
-        <role descr="thing refereed, theme" f="GOL" n="1"/>
+        <role descr="referee, agent" f="pag" n="0"/>
+        <role descr="thing refereed, theme" f="gol" n="1"/>
       </roles>
     </roleset>
   </predicate>

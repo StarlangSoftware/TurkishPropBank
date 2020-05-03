@@ -3,7 +3,7 @@
     <roleset id="coexist.01" name="exist together">
       <roles>
         <role descr="first entity co-existing" f="ppt" n="1"/>
-        <role descr="second entity co-existing" f="COM" n="2"/>
+        <role descr="second entity co-existing" f="com" n="2"/>
       </roles>
     </roleset>
   </predicate>

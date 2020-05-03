@@ -2,8 +2,8 @@
   <predicate lemma="finetune">
     <roleset id="finetune.01" name="to make small adjustments">
       <roles>
-        <role descr="adjuster, agent" f="PAG" n="0"/>
-        <role descr="entity fine-tuned" f="PPT" n="1"/>
+        <role descr="adjuster, agent" f="pag" n="0"/>
+        <role descr="entity fine-tuned" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

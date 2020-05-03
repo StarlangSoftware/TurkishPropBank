@@ -2,9 +2,9 @@
   <predicate lemma="quiz">
     <roleset id="quiz.01" name="ask questions repeatedly">
       <roles>
-        <role descr="asker" f="PAG" n="0"/>
-        <role descr="quizzed" f="LOC" n="1"/>
-        <role descr="topic" f="PPT" n="2"/>
+        <role descr="asker" f="pag" n="0"/>
+        <role descr="quizzed" f="loc" n="1"/>
+        <role descr="topic" f="ppt" n="2"/>
       </roles>
     </roleset>
   </predicate>

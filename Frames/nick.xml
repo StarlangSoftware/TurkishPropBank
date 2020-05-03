@@ -2,7 +2,7 @@
   <predicate lemma="nick">
     <roleset id="nick.01" name="cut slightly">
       <roles>
-        <role descr="cutter" f="PAG" n="0"/>
+        <role descr="cutter" f="pag" n="0"/>
         <role descr="thing cut" f="ppt" n="1"/>
         <role descr="instrument" f="mnr" n="3"/>
       </roles>

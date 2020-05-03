@@ -2,9 +2,9 @@
   <predicate lemma="allot">
     <roleset id="allot.01" name="give to, allow to have">
       <roles>
-        <role descr="giver" f="PAG" n="0"/>
-        <role descr="thing alloted" f="PPT" n="1"/>
-        <role descr="benefactive, allotted-to" f="GOL" n="2"/>
+        <role descr="giver" f="pag" n="0"/>
+        <role descr="thing alloted" f="ppt" n="1"/>
+        <role descr="benefactive, allotted-to" f="gol" n="2"/>
       </roles>
     </roleset>
   </predicate>

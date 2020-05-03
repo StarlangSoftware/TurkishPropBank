@@ -2,8 +2,8 @@
   <predicate lemma="harvest">
     <roleset id="harvest.01" name="to reap or gather">
       <roles>
-        <role descr="harvester" f="PAG" n="0"/>
-        <role descr="substance harvested" f="PPT" n="1"/>
+        <role descr="harvester" f="pag" n="0"/>
+        <role descr="substance harvested" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

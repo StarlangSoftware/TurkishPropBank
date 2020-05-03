@@ -2,14 +2,14 @@
   <predicate lemma="crown">
     <roleset id="crown.01" name="put a crown on somebody/thing">
       <roles>
-        <role descr="putter of crown" f="PAG" n="0"/>
+        <role descr="putter of crown" f="pag" n="0"/>
         <role descr="receiver of crown" f="ppt" n="1"/>
         <role descr="crown, or attribute of arg1" f="prd" n="2"/>
       </roles>
     </roleset>
     <roleset id="crown.02" name="culminating event">
       <roles>
-        <role descr="agent/ owner of culmination/achievment" f="PAG" n="0"/>
+        <role descr="agent/ owner of culmination/achievment" f="pag" n="0"/>
         <role descr="crowned event" f="gol" n="1"/>
         <role descr="crowning event/achievment" f="ppt" n="2"/>
       </roles>

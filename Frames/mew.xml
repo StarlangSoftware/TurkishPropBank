@@ -2,7 +2,7 @@
   <predicate lemma="mew">
     <roleset id="mew.01" name="make cat sounds">
       <roles>
-        <role descr="cat" f="PAG" n="0"/>
+        <role descr="cat" f="pag" n="0"/>
       </roles>
     </roleset>
   </predicate>

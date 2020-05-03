@@ -2,8 +2,8 @@
   <predicate lemma="dni">
     <roleset id="dni.01" name="do no intubate">
       <roles>
-        <role descr="doctor; intubator" f="PAG" n="0"/>
-        <role descr="patient" f="PPT" n="1"/>
+        <role descr="doctor; intubator" f="pag" n="0"/>
+        <role descr="patient" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

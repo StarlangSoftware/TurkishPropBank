@@ -2,7 +2,7 @@
   <predicate lemma="rate">
     <roleset id="rate.01" name="establish value or worth, evaluation">
       <roles>
-        <role descr="rater / entity establishing value" f="PAG" n="0"/>
+        <role descr="rater / entity establishing value" f="pag" n="0"/>
         <role descr="entity being evaluated" f="ppt" n="1"/>
         <role descr="value, worth, grade" f="prd" n="2"/>
         <role descr="aspect of arg1 actually being rated" f="vsp" n="3"/>

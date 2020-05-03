@@ -2,7 +2,7 @@
   <predicate lemma="glimmer">
     <roleset id="glimmer.01" name="give off glimmering lights">
       <roles>
-        <role descr="entity glimmering" f="PPT" n="1"/>
+        <role descr="entity glimmering" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

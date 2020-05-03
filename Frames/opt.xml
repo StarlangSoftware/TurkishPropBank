@@ -2,8 +2,8 @@
   <predicate lemma="opt">
     <roleset id="opt.01" name="choose, pick, decide on">
       <roles>
-        <role descr="chooser" f="PAG" n="0"/>
-        <role descr="choice" f="PPT" n="1"/>
+        <role descr="chooser" f="pag" n="0"/>
+        <role descr="choice" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

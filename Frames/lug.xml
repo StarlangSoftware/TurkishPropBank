@@ -2,8 +2,8 @@
   <predicate lemma="lug">
     <roleset id="lug.01" name="carry some awkward object">
       <roles>
-        <role descr="lugger" f="PAG" n="0"/>
-        <role descr="lugged, luggage" f="PPT" n="1"/>
+        <role descr="lugger" f="pag" n="0"/>
+        <role descr="lugged, luggage" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

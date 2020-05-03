@@ -2,15 +2,15 @@
   <predicate lemma="nurse">
     <roleset id="nurse.01" name="try to cure">
       <roles>
-        <role descr="nurse, agent" f="PAG" n="0"/>
-        <role descr="entity nursed" f="GOL" n="1"/>
+        <role descr="nurse, agent" f="pag" n="0"/>
+        <role descr="entity nursed" f="gol" n="1"/>
       </roles>
     </roleset>
     <roleset id="nurse.02" name="breastfeed, feeding by/with breast">
       <roles>
-        <role descr="Feeder, mother" f="PAG" n="0"/>
-        <role descr="Milk" f="PPT" n="1"/>
-        <role descr="Recipient, baby" f="GOL" n="2"/>
+        <role descr="Feeder, mother" f="pag" n="0"/>
+        <role descr="Milk" f="ppt" n="1"/>
+        <role descr="Recipient, baby" f="gol" n="2"/>
       </roles>
     </roleset>
   </predicate>

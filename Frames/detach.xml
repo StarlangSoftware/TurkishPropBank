@@ -2,9 +2,9 @@
   <predicate lemma="detach">
     <roleset id="detach.01" name="take off">
       <roles>
-        <role descr="entity removing, agent" f="PAG" n="0"/>
-        <role descr="thing removed" f="PPT" n="1"/>
-        <role descr="whole, source" f="PPT" n="2"/>
+        <role descr="entity removing, agent" f="pag" n="0"/>
+        <role descr="thing removed" f="ppt" n="1"/>
+        <role descr="whole, source" f="ppt" n="2"/>
       </roles>
     </roleset>
   </predicate>

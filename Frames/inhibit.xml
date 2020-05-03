@@ -2,8 +2,8 @@
   <predicate lemma="inhibit">
     <roleset id="inhibit.01" name="to restrain, suppress">
       <roles>
-        <role descr="inhibitor" f="PAG" n="0"/>
-        <role descr="entity inhibited" f="PPT" n="1"/>
+        <role descr="inhibitor" f="pag" n="0"/>
+        <role descr="entity inhibited" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

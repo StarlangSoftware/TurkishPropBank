@@ -2,8 +2,8 @@
   <predicate lemma="debut">
     <roleset id="debut.01" name="make an appearance for the first time">
       <roles>
-        <role descr="causer of appearance" f="PAG" n="0"/>
-        <role descr="thing appearing" f="PPT" n="1"/>
+        <role descr="causer of appearance" f="pag" n="0"/>
+        <role descr="thing appearing" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

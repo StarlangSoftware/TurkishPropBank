@@ -2,24 +2,24 @@
   <predicate lemma="carve">
     <roleset id="carve.01" name="cut carefully">
       <roles>
-        <role descr="carver" f="PAG" n="0"/>
-        <role descr="thing carved" f="PPT" n="1"/>
-        <role descr="instrument" f="MNR" n="2"/>
+        <role descr="carver" f="pag" n="0"/>
+        <role descr="thing carved" f="ppt" n="1"/>
+        <role descr="instrument" f="mnr" n="2"/>
       </roles>
     </roleset>
     <roleset id="carve.02" name="create by carving">
       <roles>
-        <role descr="builder" f="PAG" n="0"/>
-        <role descr="construction" f="PRD" n="1"/>
-        <role descr="material, start state" f="VSP" n="2"/>
+        <role descr="builder" f="pag" n="0"/>
+        <role descr="construction" f="prd" n="1"/>
+        <role descr="material, start state" f="vsp" n="2"/>
       </roles>
     </roleset>
   </predicate>
   <predicate lemma="carve_out">
     <roleset id="carve_out.03" name="create variant">
       <roles>
-        <role descr="builder" f="PAG" n="0"/>
-        <role descr="construction" f="PPT" n="1"/>
+        <role descr="builder" f="pag" n="0"/>
+        <role descr="construction" f="ppt" n="1"/>
         <role descr="material, start state" f="dir" n="2"/>
         <role descr="benefactive" f="gol" n="3"/>
         <role descr="end state" f="prd" n="4"/>

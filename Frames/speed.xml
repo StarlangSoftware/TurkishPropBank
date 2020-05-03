@@ -2,15 +2,15 @@
   <predicate lemma="speed">
     <roleset id="speed.01" name="(cause to) go fast">
       <roles>
-        <role descr="causer of fast motion" f="PAG" n="0"/>
-        <role descr="entity in motion" f="PPT" n="1"/>
+        <role descr="causer of fast motion" f="pag" n="0"/>
+        <role descr="entity in motion" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>
   <predicate lemma="speed_up">
     <roleset id="speed_up.02" name="speed up: accelerate, cause to move fast">
       <roles>
-        <role descr="causer of fast motion" f="PAG" n="0"/>
+        <role descr="causer of fast motion" f="pag" n="0"/>
         <role descr="entity in motion" f="ppt" n="1"/>
       </roles>
     </roleset>
@@ -18,8 +18,8 @@
   <predicate lemma="speedy">
     <roleset id="speedy.03" name="going fast">
       <roles>
-        <role descr="causer of fast motion" f="PAG" n="0"/>
-        <role descr="entity in motion" f="PPT" n="1"/>
+        <role descr="causer of fast motion" f="pag" n="0"/>
+        <role descr="entity in motion" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

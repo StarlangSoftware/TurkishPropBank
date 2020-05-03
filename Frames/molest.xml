@@ -2,8 +2,8 @@
   <predicate lemma="molest">
     <roleset id="molest.01" name="to (sexually) abuse">
       <roles>
-        <role descr="molester, agent" f="PAG" n="0"/>
-        <role descr="entity molested" f="PPT" n="1"/>
+        <role descr="molester, agent" f="pag" n="0"/>
+        <role descr="entity molested" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

@@ -2,9 +2,9 @@
   <predicate lemma="provide">
     <roleset id="provide.01" name="cf give">
       <roles>
-        <role descr="provider" f="PAG" n="0"/>
-        <role descr="thing provided" f="PPT" n="1"/>
-        <role descr="entity provided for (benefactive)" f="GOL" n="2"/>
+        <role descr="provider" f="pag" n="0"/>
+        <role descr="thing provided" f="ppt" n="1"/>
+        <role descr="entity provided for (benefactive)" f="gol" n="2"/>
       </roles>
     </roleset>
   </predicate>

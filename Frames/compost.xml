@@ -2,8 +2,8 @@
   <predicate lemma="compost">
     <roleset id="compost.01" name="turn organic waste into enviornmentally   friendly goo">
       <roles>
-        <role descr="composter" f="PAG" n="0"/>
-        <role descr="organic waste composted" f="PPT" n="1"/>
+        <role descr="composter" f="pag" n="0"/>
+        <role descr="organic waste composted" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

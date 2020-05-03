@@ -2,8 +2,8 @@
   <predicate lemma="hypopigment">
     <roleset id="hypopigment.01" name="to abnormally reduce in pigmentation">
       <roles>
-        <role descr="Cause of hypopigmentation (pathogen, chemical, etc.)" f="PAG" n="0"/>
-        <role descr="Entity hypopigmenting" f="PPT" n="1"/>
+        <role descr="Cause of hypopigmentation (pathogen, chemical, etc.)" f="pag" n="0"/>
+        <role descr="Entity hypopigmenting" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

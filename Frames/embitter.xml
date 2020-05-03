@@ -2,9 +2,9 @@
   <predicate lemma="embitter">
     <roleset id="embitter.01" name="(cause to) become more bitter">
       <roles>
-        <role descr="agent, cause of bitterness" f="PAG" n="0"/>
-        <role descr="thing becoming bitter" f="PPT" n="1"/>
-        <role descr="instrument or manner if separate from arg 0" f="MNR" n="2"/>
+        <role descr="agent, cause of bitterness" f="pag" n="0"/>
+        <role descr="thing becoming bitter" f="ppt" n="1"/>
+        <role descr="instrument or manner if separate from arg 0" f="mnr" n="2"/>
       </roles>
     </roleset>
   </predicate>

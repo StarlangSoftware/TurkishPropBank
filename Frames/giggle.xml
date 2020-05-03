@@ -2,7 +2,7 @@
   <predicate lemma="giggle">
     <roleset id="giggle.01" name="laugh nervously">
       <roles>
-        <role descr="giggler" f="PAG" n="0"/>
+        <role descr="giggler" f="pag" n="0"/>
       </roles>
     </roleset>
   </predicate>

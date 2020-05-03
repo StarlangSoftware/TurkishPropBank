@@ -2,10 +2,10 @@
   <predicate lemma="transmute">
     <roleset id="transmute.01" name="transmute">
       <roles>
-        <role descr="causer of change, agent" f="PAG" n="0"/>
-        <role descr="entity undergoing transmutation" f="PPT" n="1"/>
-        <role descr="end state, arg 1 transmuted into what?" f="PRD" n="2"/>
-        <role descr="start state, arg 1 transmuted from what?" f="VSP" n="3"/>
+        <role descr="causer of change, agent" f="pag" n="0"/>
+        <role descr="entity undergoing transmutation" f="ppt" n="1"/>
+        <role descr="end state, arg 1 transmuted into what?" f="prd" n="2"/>
+        <role descr="start state, arg 1 transmuted from what?" f="vsp" n="3"/>
       </roles>
     </roleset>
   </predicate>

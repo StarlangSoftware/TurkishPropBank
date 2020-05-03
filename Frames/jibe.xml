@@ -2,9 +2,9 @@
   <predicate lemma="jibe">
     <roleset id="jibe.01" name="agree; fit">
       <roles>
-        <role descr="agreer" f="PAG" n="0"/>
-        <role descr="proposition" f="GOL" n="1"/>
-        <role descr="other entity agreeing" f="COM" n="2"/>
+        <role descr="agreer" f="pag" n="0"/>
+        <role descr="proposition" f="gol" n="1"/>
+        <role descr="other entity agreeing" f="com" n="2"/>
       </roles>
     </roleset>
   </predicate>

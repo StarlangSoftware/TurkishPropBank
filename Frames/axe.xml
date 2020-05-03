@@ -2,7 +2,7 @@
   <predicate lemma="axe">
     <roleset id="axe.01" name="chop/remove/end, as with an axe">
       <roles>
-        <role descr="lumberjack" f="PAG" n="0"/>
+        <role descr="lumberjack" f="pag" n="0"/>
         <role descr="thing chopped/removed" f="ppt" n="1"/>
       </roles>
     </roleset>

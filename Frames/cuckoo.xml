@@ -2,12 +2,12 @@
   <predicate lemma="cuckoo">
     <roleset id="cuckoo.01" name="make the noise of a cuckoo">
       <roles>
-        <role descr="cuckoo-er" f="PAG" n="0"/>
+        <role descr="cuckoo-er" f="pag" n="0"/>
       </roles>
     </roleset>
     <roleset id="cuckoo.02" name="repeat monotonously">
       <roles>
-        <role descr="cuckoo-er" f="PAG" n="0"/>
+        <role descr="cuckoo-er" f="pag" n="0"/>
       </roles>
     </roleset>
   </predicate>

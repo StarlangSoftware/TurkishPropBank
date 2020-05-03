@@ -2,7 +2,7 @@
   <predicate lemma="crop">
     <roleset id="crop.01" name="to cut">
       <roles>
-        <role descr="cutter, agent" f="PAG" n="0"/>
+        <role descr="cutter, agent" f="pag" n="0"/>
         <role descr="entity cropped" f="ppt" n="1"/>
         <role descr="extend" f="ext" n="2"/>
         <role descr="start point" f="dir" n="3"/>

@@ -2,8 +2,8 @@
   <predicate lemma="persecute">
     <roleset id="persecute.01" name="to oppress or harass">
       <roles>
-        <role descr="persecutor" f="PAG" n="0"/>
-        <role descr="persecutee" f="PPT" n="1"/>
+        <role descr="persecutor" f="pag" n="0"/>
+        <role descr="persecutee" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

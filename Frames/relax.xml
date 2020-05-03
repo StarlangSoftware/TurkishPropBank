@@ -2,8 +2,8 @@
   <predicate lemma="relax">
     <roleset id="relax.01" name="(cause to) become less tight, becoming more loose">
       <roles>
-        <role descr="thing causing relaxation" f="PAG" n="0"/>
-        <role descr="thing relaxing" f="PPT" n="1"/>
+        <role descr="thing causing relaxation" f="pag" n="0"/>
+        <role descr="thing relaxing" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

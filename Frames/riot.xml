@@ -2,7 +2,7 @@
   <predicate lemma="riot">
     <roleset id="riot.01" name="cause a public disturbance">
       <roles>
-        <role descr="rioter(s)" f="PAG" n="0"/>
+        <role descr="rioter(s)" f="pag" n="0"/>
         <role descr="who/what the riot is against" f="cau" n="1"/>
       </roles>
     </roleset>

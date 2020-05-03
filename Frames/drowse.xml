@@ -2,7 +2,7 @@
   <predicate lemma="drowse">
     <roleset id="drowse.01" name="become drowsy, doze, be tired">
       <roles>
-        <role descr="drowsy entity" f="PAG" n="0"/>
+        <role descr="drowsy entity" f="pag" n="0"/>
       </roles>
     </roleset>
   </predicate>

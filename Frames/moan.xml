@@ -2,8 +2,8 @@
   <predicate lemma="moan">
     <roleset id="moan.01" name="to utter a moan or complain">
       <roles>
-        <role descr="moaner, agent" f="PAG" n="0"/>
-        <role descr="a complaint" f="PPT" n="1"/>
+        <role descr="moaner, agent" f="pag" n="0"/>
+        <role descr="a complaint" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

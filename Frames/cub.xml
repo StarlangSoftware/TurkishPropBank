@@ -2,8 +2,8 @@
   <predicate lemma="cub">
     <roleset id="cub.01" name="give birth to a cub">
       <roles>
-        <role descr="Mother bear" f="PAG" n="0"/>
-        <role descr="Baby bear" f="PPT" n="1"/>
+        <role descr="Mother bear" f="pag" n="0"/>
+        <role descr="Baby bear" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

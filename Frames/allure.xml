@@ -2,9 +2,9 @@
   <predicate lemma="allure">
     <roleset id="allure.01" name="to attract or tempt by something flattering   or desirable">
       <roles>
-        <role descr="allurer, agent" f="PAG" n="0"/>
-        <role descr="allured thing(s) or person" f="PPT" n="1"/>
-        <role descr="allured with, behavior or thing" f="PRD" n="2"/>
+        <role descr="allurer, agent" f="pag" n="0"/>
+        <role descr="allured thing(s) or person" f="ppt" n="1"/>
+        <role descr="allured with, behavior or thing" f="prd" n="2"/>
       </roles>
     </roleset>
   </predicate>

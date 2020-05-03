@@ -2,8 +2,8 @@
   <predicate lemma="decelerate">
     <roleset id="decelerate.01" name="(cause to) slow down, slowing down or causing to slow down">
       <roles>
-        <role descr="agent, causer of slowing" f="PAG" n="0"/>
-        <role descr="entity slowing down" f="PPT" n="1"/>
+        <role descr="agent, causer of slowing" f="pag" n="0"/>
+        <role descr="entity slowing down" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

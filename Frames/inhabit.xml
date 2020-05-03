@@ -2,8 +2,8 @@
   <predicate lemma="inhabit">
     <roleset id="inhabit.01" name="to reside or be present in">
       <roles>
-        <role descr="resident" f="PAG" n="0"/>
-        <role descr="place of residence" f="PPT" n="1"/>
+        <role descr="resident" f="pag" n="0"/>
+        <role descr="place of residence" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

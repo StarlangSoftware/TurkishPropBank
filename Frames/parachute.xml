@@ -2,8 +2,8 @@
   <predicate lemma="parachute">
     <roleset id="parachute.01" name="travel via parachute">
       <roles>
-        <role descr="thing with a parachute" f="PPT" n="0"/>
-        <role descr="where?" f="LOC" n="1"/>
+        <role descr="thing with a parachute" f="ppt" n="0"/>
+        <role descr="where?" f="loc" n="1"/>
       </roles>
     </roleset>
   </predicate>

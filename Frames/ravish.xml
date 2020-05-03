@@ -2,8 +2,8 @@
   <predicate lemma="ravish">
     <roleset id="ravish.01" name="fill with joy">
       <roles>
-        <role descr="causer of emotion" f="PAG" n="0"/>
-        <role descr="emotional entity" f="PPT" n="1"/>
+        <role descr="causer of emotion" f="pag" n="0"/>
+        <role descr="emotional entity" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

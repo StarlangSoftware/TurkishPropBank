@@ -2,9 +2,9 @@
   <predicate lemma="quaver">
     <roleset id="quaver.01" name="quaver">
       <roles>
-        <role descr="quaverer, agent" f="PAG" n="0"/>
-        <role descr="quavered about, topic, quotation" f="PPT" n="1"/>
-        <role descr="quavered to, recipient" f="GOL" n="2"/>
+        <role descr="quaverer, agent" f="pag" n="0"/>
+        <role descr="quavered about, topic, quotation" f="ppt" n="1"/>
+        <role descr="quavered to, recipient" f="gol" n="2"/>
       </roles>
     </roleset>
   </predicate>

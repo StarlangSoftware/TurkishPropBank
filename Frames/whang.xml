@@ -2,9 +2,9 @@
   <predicate lemma="whang">
     <roleset id="whang.01" name="beat or attack with force">
       <roles>
-        <role descr="Attacker" f="PAG" n="0"/>
-        <role descr="Thing hit or attacked" f="PPT" n="1"/>
-        <role descr="Instrument" f="MNR" n="2"/>
+        <role descr="Attacker" f="pag" n="0"/>
+        <role descr="Thing hit or attacked" f="ppt" n="1"/>
+        <role descr="Instrument" f="mnr" n="2"/>
       </roles>
     </roleset>
   </predicate>

@@ -2,7 +2,7 @@
   <predicate lemma="cheep">
     <roleset id="cheep.01" name="to chirp; peep">
       <roles>
-        <role descr="cheep-er" f="PAG" n="0"/>
+        <role descr="cheep-er" f="pag" n="0"/>
       </roles>
     </roleset>
   </predicate>

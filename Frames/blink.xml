@@ -2,8 +2,8 @@
   <predicate lemma="blink">
     <roleset id="blink.01" name="close eyes for a second">
       <roles>
-        <role descr="blinker" f="PAG" n="0"/>
-        <role descr="eyes, usually unstated" f="PPT" n="1"/>
+        <role descr="blinker" f="pag" n="0"/>
+        <role descr="eyes, usually unstated" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

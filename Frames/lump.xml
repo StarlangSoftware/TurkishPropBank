@@ -2,7 +2,7 @@
   <predicate lemma="lump">
     <roleset id="lump.01" name="to put together">
       <roles>
-        <role descr="creator of collection, agent" f="PAG" n="0"/>
+        <role descr="creator of collection, agent" f="pag" n="0"/>
         <role descr="entity lumped" f="ppt" n="1"/>
         <role descr="entity lumped with" f="gol" n="2"/>
       </roles>

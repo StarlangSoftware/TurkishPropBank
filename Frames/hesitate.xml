@@ -2,8 +2,8 @@
   <predicate lemma="hesitate">
     <roleset id="hesitate.01" name="hesitate, thinking twice while pausing before acting, lacking decisiveness">
       <roles>
-        <role descr="hesitator" f="PAG" n="0"/>
-        <role descr="secondary action" f="PPT" n="1"/>
+        <role descr="hesitator" f="pag" n="0"/>
+        <role descr="secondary action" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

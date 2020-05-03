@@ -2,8 +2,8 @@
   <predicate lemma="blacktop">
     <roleset id="blacktop.01" name="cover with blacktop">
       <roles>
-        <role descr="applier of cover, agent" f="PAG" n="0"/>
-        <role descr="surface" f="GOL" n="1"/>
+        <role descr="applier of cover, agent" f="pag" n="0"/>
+        <role descr="surface" f="gol" n="1"/>
       </roles>
     </roleset>
   </predicate>

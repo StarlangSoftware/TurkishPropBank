@@ -10,8 +10,8 @@
     </roleset>
     <roleset id="process.02" name="logistics of doing something">
       <roles>
-        <role descr="agent" f="PAG" n="0"/>
-        <role descr="(purpose of) the process" f="PPT" n="1"/>
+        <role descr="agent" f="pag" n="0"/>
+        <role descr="(purpose of) the process" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

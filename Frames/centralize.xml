@@ -2,8 +2,8 @@
   <predicate lemma="centralize">
     <roleset id="centralize.01" name="collect into one location">
       <roles>
-        <role descr="collector" f="PAG" n="0"/>
-        <role descr="thing(s) collected" f="PPT" n="1"/>
+        <role descr="collector" f="pag" n="0"/>
+        <role descr="thing(s) collected" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

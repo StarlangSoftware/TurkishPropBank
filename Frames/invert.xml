@@ -2,8 +2,8 @@
   <predicate lemma="invert">
     <roleset id="invert.01" name="turn upside down">
       <roles>
-        <role descr="agent, turner" f="PAG" n="0"/>
-        <role descr="thing now upside down" f="PPT" n="1"/>
+        <role descr="agent, turner" f="pag" n="0"/>
+        <role descr="thing now upside down" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

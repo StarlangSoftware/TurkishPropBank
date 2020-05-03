@@ -10,8 +10,8 @@
     </roleset>
     <roleset id="slash.02" name="reduce">
       <roles>
-        <role descr="cutter" f="PAG" n="0"/>
-        <role descr="thing reduced" f="PPT" n="1"/>
+        <role descr="cutter" f="pag" n="0"/>
+        <role descr="thing reduced" f="ppt" n="1"/>
         <role descr="amount reduced by" f="ext" n="2"/>
         <role descr="start point" f="dir" n="3"/>
         <role descr="end point" f="gol" n="4"/>

@@ -2,8 +2,8 @@
   <predicate lemma="disintegrate">
     <roleset id="disintegrate.01" name="fall apart completely">
       <roles>
-        <role descr="causer of disintegration" f="PAG" n="0"/>
-        <role descr="thing disintegating" f="PPT" n="1"/>
+        <role descr="causer of disintegration" f="pag" n="0"/>
+        <role descr="thing disintegating" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

@@ -2,8 +2,8 @@
   <predicate lemma="immobilize">
     <roleset id="immobilize.01" name="cause to be immobile">
       <roles>
-        <role descr="agent causing immobility" f="PAG" n="0"/>
-        <role descr="thing made immobile" f="PPT" n="1"/>
+        <role descr="agent causing immobility" f="pag" n="0"/>
+        <role descr="thing made immobile" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

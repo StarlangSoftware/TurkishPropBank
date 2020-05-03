@@ -2,8 +2,8 @@
   <predicate lemma="leak">
     <roleset id="leak.01" name="leak, let forth water sparingly, letting water through accidentally or because of damage, let forth">
       <roles>
-        <role descr="thing leaking" f="DIR" n="0"/>
-        <role descr="substance leaked" f="PPT" n="1"/>
+        <role descr="thing leaking" f="dir" n="0"/>
+        <role descr="substance leaked" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

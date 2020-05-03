@@ -2,10 +2,10 @@
   <predicate lemma="sneer">
     <roleset id="sneer.01" name="sneer">
       <roles>
-        <role descr="sneerer, agent" f="PAG" n="0"/>
-        <role descr="theme (usually redundant, e.g., &quot;a sneer&quot;)" f="PPT" n="1"/>
-        <role descr="cause of or reason for sneering" f="CAU" n="2"/>
-        <role descr="recipient of sneer, sneered-at" f="GOL" n="3"/>
+        <role descr="sneerer, agent" f="pag" n="0"/>
+        <role descr="theme (usually redundant, e.g., &quot;a sneer&quot;)" f="ppt" n="1"/>
+        <role descr="cause of or reason for sneering" f="cau" n="2"/>
+        <role descr="recipient of sneer, sneered-at" f="gol" n="3"/>
       </roles>
     </roleset>
   </predicate>

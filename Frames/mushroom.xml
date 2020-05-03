@@ -3,7 +3,7 @@
     <roleset id="mushroom.01" name="grow very rapidly, as mushrooms after rain">
       <roles>
         <role descr="thing growing" f="ppt" n="1"/>
-        <role descr="EXT" f="ext" n="2"/>
+        <role descr="ext" f="ext" n="2"/>
         <role descr="start point" f="dir" n="3"/>
         <role descr="end point" f="gol" n="4"/>
       </roles>

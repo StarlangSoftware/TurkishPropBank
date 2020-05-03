@@ -2,9 +2,9 @@
   <predicate lemma="ting">
     <roleset id="ting.01" name="ting">
       <roles>
-        <role descr="agent, causer of tinging (transitive subject)" f="PAG" n="0"/>
-        <role descr="theme, actual thing tinging (intransitive subject, transitive object)" f="PPT" n="1"/>
-        <role descr="location of tinging" f="LOC" n="2"/>
+        <role descr="agent, causer of tinging (transitive subject)" f="pag" n="0"/>
+        <role descr="theme, actual thing tinging (intransitive subject, transitive object)" f="ppt" n="1"/>
+        <role descr="location of tinging" f="loc" n="2"/>
       </roles>
     </roleset>
   </predicate>

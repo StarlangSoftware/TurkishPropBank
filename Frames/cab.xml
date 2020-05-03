@@ -2,11 +2,11 @@
   <predicate lemma="cab">
     <roleset id="cab.01" name="drive, ferry">
       <roles>
-        <role descr="agent, driver or causer of cabbing" f="PAG" n="0"/>
-        <role descr="passenger" f="PPT" n="1"/>
-        <role descr="start point" f="DIR" n="2"/>
-        <role descr="destination" f="GOL" n="3"/>
-        <role descr="location, path" f="LOC" n="4"/>
+        <role descr="agent, driver or causer of cabbing" f="pag" n="0"/>
+        <role descr="passenger" f="ppt" n="1"/>
+        <role descr="start point" f="dir" n="2"/>
+        <role descr="destination" f="gol" n="3"/>
+        <role descr="location, path" f="loc" n="4"/>
       </roles>
     </roleset>
   </predicate>

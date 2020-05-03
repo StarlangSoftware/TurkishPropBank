@@ -2,8 +2,8 @@
   <predicate lemma="syncopate">
     <roleset id="syncopate.01" name="to accent a normally unaccented beat">
       <roles>
-        <role descr="agent, person accenting the rythm" f="PAG" n="0"/>
-        <role descr="words, motions that are syncopated" f="PPT" n="1"/>
+        <role descr="agent, person accenting the rythm" f="pag" n="0"/>
+        <role descr="words, motions that are syncopated" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

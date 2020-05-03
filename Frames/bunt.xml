@@ -2,10 +2,10 @@
   <predicate lemma="bunt">
     <roleset id="bunt.01" name="to strike as if with horns, or to bat lightly (baseball)">
       <roles>
-        <role descr="Striker, batter" f="PAG" n="0"/>
-        <role descr="Thing struck, ball" f="PPT" n="1"/>
-        <role descr="Source location, struck from where?" f="DIR" n="2"/>
-        <role descr="Destination, location or other player" f="GOL" n="3"/>
+        <role descr="Striker, batter" f="pag" n="0"/>
+        <role descr="Thing struck, ball" f="ppt" n="1"/>
+        <role descr="Source location, struck from where?" f="dir" n="2"/>
+        <role descr="Destination, location or other player" f="gol" n="3"/>
       </roles>
     </roleset>
   </predicate>

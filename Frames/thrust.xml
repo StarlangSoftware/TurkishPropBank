@@ -2,9 +2,9 @@
   <predicate lemma="thrust">
     <roleset id="thrust.01" name="to push quickly and forcibly, a forcful forward push">
       <roles>
-        <role descr="agent, causer" f="PAG" n="0"/>
-        <role descr="entity pushed" f="PPT" n="1"/>
-        <role descr="direction, destination" f="GOL" n="2"/>
+        <role descr="agent, causer" f="pag" n="0"/>
+        <role descr="entity pushed" f="ppt" n="1"/>
+        <role descr="direction, destination" f="gol" n="2"/>
       </roles>
     </roleset>
   </predicate>

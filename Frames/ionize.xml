@@ -2,8 +2,8 @@
   <predicate lemma="ionize">
     <roleset id="ionize.01" name="convert into ions">
       <roles>
-        <role descr="cause of ionization" f="PAG" n="0"/>
-        <role descr="entity ionized" f="PPT" n="1"/>
+        <role descr="cause of ionization" f="pag" n="0"/>
+        <role descr="entity ionized" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

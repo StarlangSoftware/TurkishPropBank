@@ -2,7 +2,7 @@
   <predicate lemma="bumrush">
     <roleset id="bumrush.01" name="crash, slam or invade, possibly unexpectedly">
       <roles>
-        <role descr="agent, entity in motion" f="PAG" n="0"/>
+        <role descr="agent, entity in motion" f="pag" n="0"/>
         <role descr="entity hit/crashed/invaded" f="ppt" n="1"/>
       </roles>
     </roleset>

@@ -2,8 +2,8 @@
   <predicate lemma="burnish">
     <roleset id="burnish.01" name="to make smooth, polish">
       <roles>
-        <role descr="burnishing agent" f="PAG" n="0"/>
-        <role descr="entity burnished" f="PPT" n="1"/>
+        <role descr="burnishing agent" f="pag" n="0"/>
+        <role descr="entity burnished" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

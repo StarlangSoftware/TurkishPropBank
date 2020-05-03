@@ -2,8 +2,8 @@
   <predicate lemma="objectify">
     <roleset id="objectify.01" name="treat as object">
       <roles>
-        <role descr="agent, cause" f="PAG" n="0"/>
-        <role descr="thing objectified" f="PPT" n="1"/>
+        <role descr="agent, cause" f="pag" n="0"/>
+        <role descr="thing objectified" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

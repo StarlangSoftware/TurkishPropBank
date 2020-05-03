@@ -2,9 +2,9 @@
   <predicate lemma="sliver">
     <roleset id="sliver.01" name="produce slivers">
       <roles>
-        <role descr="agent, slicer" f="PAG" n="0"/>
-        <role descr="patient, thing sliced up" f="PPT" n="1"/>
-        <role descr="source material, what arg1 is sliced off of" f="DIR" n="2"/>
+        <role descr="agent, slicer" f="pag" n="0"/>
+        <role descr="patient, thing sliced up" f="ppt" n="1"/>
+        <role descr="source material, what arg1 is sliced off of" f="dir" n="2"/>
       </roles>
     </roleset>
   </predicate>

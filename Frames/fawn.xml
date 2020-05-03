@@ -2,8 +2,8 @@
   <predicate lemma="fawn">
     <roleset id="fawn.01" name="seek favor with">
       <roles>
-        <role descr="seeker" f="PAG" n="0"/>
-        <role descr="with whom, fawned-over" f="PPT" n="1"/>
+        <role descr="seeker" f="pag" n="0"/>
+        <role descr="with whom, fawned-over" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

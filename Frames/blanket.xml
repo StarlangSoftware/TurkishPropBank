@@ -2,9 +2,9 @@
   <predicate lemma="blanket">
     <roleset id="blanket.01" name="cover heavily">
       <roles>
-        <role descr="coverer" f="PAG" n="0"/>
-        <role descr="thing covered" f="GOL" n="1"/>
-        <role descr="instrument, covered by" f="PPT" n="2"/>
+        <role descr="coverer" f="pag" n="0"/>
+        <role descr="thing covered" f="gol" n="1"/>
+        <role descr="instrument, covered by" f="ppt" n="2"/>
       </roles>
     </roleset>
   </predicate>

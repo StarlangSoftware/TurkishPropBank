@@ -2,8 +2,8 @@
   <predicate lemma="europeanize">
     <roleset id="europeanize.01" name="make european in trait">
       <roles>
-        <role descr="agent, cause" f="PAG" n="0"/>
-        <role descr="thing changing" f="PPT" n="1"/>
+        <role descr="agent, cause" f="pag" n="0"/>
+        <role descr="thing changing" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

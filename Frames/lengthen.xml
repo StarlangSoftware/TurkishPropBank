@@ -4,7 +4,7 @@
       <roles>
         <role descr="cause, agent" f="pag" n="0"/>
         <role descr="thing getting longer" f="ppt" n="1"/>
-        <role descr="EXT" f="ext" n="2"/>
+        <role descr="ext" f="ext" n="2"/>
         <role descr="start point" f="dir" n="3"/>
         <role descr="end point" f="gol" n="4"/>
       </roles>
@@ -13,8 +13,8 @@
   <predicate lemma="long">
     <roleset id="long.02" name="want, desire">
       <roles>
-        <role descr="wanter" f="PAG" n="0"/>
-        <role descr="wanted" f="PPT" n="1"/>
+        <role descr="wanter" f="pag" n="0"/>
+        <role descr="wanted" f="ppt" n="1"/>
       </roles>
     </roleset>
     <roleset id="long.03" name="having a great length measurement">

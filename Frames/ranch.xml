@@ -2,8 +2,8 @@
   <predicate lemma="ranch">
     <roleset id="ranch.01" name="to cultivate or produce a crop on">
       <roles>
-        <role descr="farmer" f="PAG" n="0"/>
-        <role descr="land" f="PPT" n="1"/>
+        <role descr="farmer" f="pag" n="0"/>
+        <role descr="land" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

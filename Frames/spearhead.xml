@@ -2,8 +2,8 @@
   <predicate lemma="spearhead">
     <roleset id="spearhead.01" name="be in the lead">
       <roles>
-        <role descr="leader" f="PAG" n="0"/>
-        <role descr="thing led" f="PPT" n="1"/>
+        <role descr="leader" f="pag" n="0"/>
+        <role descr="thing led" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

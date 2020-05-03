@@ -2,9 +2,9 @@
   <predicate lemma="degut">
     <roleset id="degut.01" name="remove gut or substance">
       <roles>
-        <role descr="remover" f="PAG" n="0"/>
-        <role descr="victim" f="DIR" n="1"/>
-        <role descr="thing removed" f="PPT" n="2"/>
+        <role descr="remover" f="pag" n="0"/>
+        <role descr="victim" f="dir" n="1"/>
+        <role descr="thing removed" f="ppt" n="2"/>
       </roles>
     </roleset>
   </predicate>

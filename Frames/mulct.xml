@@ -2,10 +2,10 @@
   <predicate lemma="mulct">
     <roleset id="mulct.01" name="fine">
       <roles>
-        <role descr="mulcter, receiver of money" f="PAG" n="0"/>
+        <role descr="mulcter, receiver of money" f="pag" n="0"/>
         <role descr="money, amount" f="ppt" n="1"/>
         <role descr="fined, victim, giver of money" f="dir" n="2"/>
-        <role descr="reason, cause" f="CAU" n="3"/>
+        <role descr="reason, cause" f="cau" n="3"/>
       </roles>
     </roleset>
   </predicate>

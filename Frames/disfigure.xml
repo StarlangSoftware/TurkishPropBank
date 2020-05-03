@@ -2,8 +2,8 @@
   <predicate lemma="disfigure">
     <roleset id="disfigure.01" name="to mar the appearance or beauty of">
       <roles>
-        <role descr="agent" f="PAG" n="0"/>
-        <role descr="entity mutilated" f="PPT" n="1"/>
+        <role descr="agent" f="pag" n="0"/>
+        <role descr="entity mutilated" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

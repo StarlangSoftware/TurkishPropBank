@@ -2,7 +2,7 @@
   <predicate lemma="deploy">
     <roleset id="deploy.01" name="set into place">
       <roles>
-        <role descr="Deployer" f="PAG" n="0"/>
+        <role descr="Deployer" f="pag" n="0"/>
         <role descr="Deployed" f="ppt" n="1"/>
         <role descr="deployed where" f="loc" n="2"/>
       </roles>

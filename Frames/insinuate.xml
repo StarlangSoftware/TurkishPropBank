@@ -2,8 +2,8 @@
   <predicate lemma="insinuate">
     <roleset id="insinuate.01" name="to suggest">
       <roles>
-        <role descr="suggester" f="PAG" n="0"/>
-        <role descr="thing insinuated" f="GOL" n="1"/>
+        <role descr="suggester" f="pag" n="0"/>
+        <role descr="thing insinuated" f="gol" n="1"/>
       </roles>
     </roleset>
   </predicate>

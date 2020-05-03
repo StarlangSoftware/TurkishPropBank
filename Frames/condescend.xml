@@ -2,8 +2,8 @@
   <predicate lemma="condescend">
     <roleset id="condescend.01" name="descend to lower level of behavior">
       <roles>
-        <role descr="agent, person condescending" f="PAG" n="0"/>
-        <role descr="level or action condescended to" f="PPT" n="1"/>
+        <role descr="agent, person condescending" f="pag" n="0"/>
+        <role descr="level or action condescended to" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

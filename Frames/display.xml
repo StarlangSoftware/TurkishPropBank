@@ -3,9 +3,9 @@
     <roleset id="display.01" name="to present, exhibit">
       <roles>
         <role descr="displayer, agent" f="pag" n="0"/>
-        <role descr="entity displayed" f="PPT" n="1"/>
+        <role descr="entity displayed" f="ppt" n="1"/>
         <role descr="location" f="loc" n="2"/>
-        <role descr="displayed to whom? Seer of thing displayed" f="GOL" n="3"/>
+        <role descr="displayed to whom? Seer of thing displayed" f="gol" n="3"/>
       </roles>
     </roleset>
   </predicate>

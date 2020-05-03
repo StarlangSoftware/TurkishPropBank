@@ -2,8 +2,8 @@
   <predicate lemma="encrypt">
     <roleset id="encrypt.01" name="encode, scramble digital information">
       <roles>
-        <role descr="scrambler, agent" f="PAG" n="0"/>
-        <role descr="information" f="PPT" n="1"/>
+        <role descr="scrambler, agent" f="pag" n="0"/>
+        <role descr="information" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

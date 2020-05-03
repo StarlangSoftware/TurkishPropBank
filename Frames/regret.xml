@@ -2,8 +2,8 @@
   <predicate lemma="regret">
     <roleset id="regret.01" name="regret, feel bad about">
       <roles>
-        <role descr="regreter" f="PPT" n="0"/>
-        <role descr="thing regretted" f="CAU" n="1"/>
+        <role descr="regreter" f="ppt" n="0"/>
+        <role descr="thing regretted" f="cau" n="1"/>
       </roles>
     </roleset>
   </predicate>

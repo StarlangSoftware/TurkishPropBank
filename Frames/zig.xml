@@ -3,7 +3,7 @@
     <roleset id="zig.01" name="(cause to) move in \/\/\/ fashion">
       <roles>
         <role descr="cause of zigging" f="pag" n="0"/>
-        <role descr="entity in motion" f="PPT" n="1"/>
+        <role descr="entity in motion" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

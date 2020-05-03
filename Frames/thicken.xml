@@ -2,9 +2,9 @@
   <predicate lemma="thicken">
     <roleset id="thicken.01" name="(cause to) become thicker">
       <roles>
-        <role descr="cause, agent" f="PAG" n="0"/>
-        <role descr="thing becoming thick" f="PPT" n="1"/>
-        <role descr="instrument" f="MNR" n="2"/>
+        <role descr="cause, agent" f="pag" n="0"/>
+        <role descr="thing becoming thick" f="ppt" n="1"/>
+        <role descr="instrument" f="mnr" n="2"/>
       </roles>
     </roleset>
   </predicate>

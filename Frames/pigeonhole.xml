@@ -2,9 +2,9 @@
   <predicate lemma="pigeonhole">
     <roleset id="pigeonhole.01" name="to assign to a definite place in an orderly system">
       <roles>
-        <role descr="agent, person assigning another entity a definite role/place" f="PAG" n="0"/>
-        <role descr="entity pigeonholed, assigned a role/place" f="PPT" n="1"/>
-        <role descr="pigenholed as what? role or position assigned/describing arg 1" f="PRD" n="2"/>
+        <role descr="agent, person assigning another entity a definite role/place" f="pag" n="0"/>
+        <role descr="entity pigeonholed, assigned a role/place" f="ppt" n="1"/>
+        <role descr="pigenholed as what? role or position assigned/describing arg 1" f="prd" n="2"/>
       </roles>
     </roleset>
   </predicate>

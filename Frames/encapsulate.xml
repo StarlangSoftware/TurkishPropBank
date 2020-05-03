@@ -2,8 +2,8 @@
   <predicate lemma="encapsulate">
     <roleset id="encapsulate.01" name="to encase in a capsule">
       <roles>
-        <role descr="encaser, agent" f="PAG" n="0"/>
-        <role descr="entity encapsulated" f="PPT" n="1"/>
+        <role descr="encaser, agent" f="pag" n="0"/>
+        <role descr="entity encapsulated" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

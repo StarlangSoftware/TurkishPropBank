@@ -2,8 +2,8 @@
   <predicate lemma="rave">
     <roleset id="rave.01" name="to speak wildly or with enthusiasm">
       <roles>
-        <role descr="speaker" f="PPT" n="0"/>
-        <role descr="utterance" f="PAG" n="1"/>
+        <role descr="speaker" f="ppt" n="0"/>
+        <role descr="utterance" f="pag" n="1"/>
       </roles>
     </roleset>
   </predicate>

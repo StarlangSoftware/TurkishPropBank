@@ -2,8 +2,8 @@
   <predicate lemma="deafen">
     <roleset id="deafen.01" name="cause to go deaf">
       <roles>
-        <role descr="causer of deafness" f="PAG" n="0"/>
-        <role descr="now-deaf entity" f="PPT" n="1"/>
+        <role descr="causer of deafness" f="pag" n="0"/>
+        <role descr="now-deaf entity" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

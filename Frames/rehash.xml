@@ -2,8 +2,8 @@
   <predicate lemma="rehash">
     <roleset id="rehash.01" name="to discuss again">
       <roles>
-        <role descr="discussants" f="PAG" n="0"/>
-        <role descr="topic of conversation" f="PPT" n="1"/>
+        <role descr="discussants" f="pag" n="0"/>
+        <role descr="topic of conversation" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

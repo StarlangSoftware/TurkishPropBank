@@ -2,8 +2,8 @@
   <predicate lemma="accommodate">
     <roleset id="accommodate.01" name="allow, be helpful">
       <roles>
-        <role descr="accommodater" f="PAG" n="0"/>
-        <role descr="thing accommodated" f="PPT" n="1"/>
+        <role descr="accommodater" f="pag" n="0"/>
+        <role descr="thing accommodated" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

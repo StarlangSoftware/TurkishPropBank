@@ -2,8 +2,8 @@
   <predicate lemma="reformulate">
     <roleset id="reformulate.01" name="to formulate again">
       <roles>
-        <role descr="formulator, agent" f="PAG" n="0"/>
-        <role descr="entity reformulated" f="PPT" n="1"/>
+        <role descr="formulator, agent" f="pag" n="0"/>
+        <role descr="entity reformulated" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

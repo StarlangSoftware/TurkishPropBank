@@ -2,8 +2,8 @@
   <predicate lemma="mimic">
     <roleset id="mimic.01" name="imitate">
       <roles>
-        <role descr="copy" f="PAG" n="0"/>
-        <role descr="original" f="PPT" n="1"/>
+        <role descr="copy" f="pag" n="0"/>
+        <role descr="original" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

@@ -2,8 +2,8 @@
   <predicate lemma="teem">
     <roleset id="teem.01" name="to be full">
       <roles>
-        <role descr="entity teeming" f="LOC" n="0"/>
-        <role descr="teeming with" f="PPT" n="1"/>
+        <role descr="entity teeming" f="loc" n="0"/>
+        <role descr="teeming with" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

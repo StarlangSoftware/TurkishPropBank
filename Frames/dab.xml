@@ -2,9 +2,9 @@
   <predicate lemma="dab">
     <roleset id="dab.01" name="to touch lightly">
       <roles>
-        <role descr="toucher, agent" f="PAG" n="0"/>
-        <role descr="thing hit, touched" f="PPT" n="1"/>
-        <role descr="paint,etc. dabbed with what?" f="PPT" n="2"/>
+        <role descr="toucher, agent" f="pag" n="0"/>
+        <role descr="thing hit, touched" f="ppt" n="1"/>
+        <role descr="paint,etc. dabbed with what?" f="ppt" n="2"/>
       </roles>
     </roleset>
   </predicate>

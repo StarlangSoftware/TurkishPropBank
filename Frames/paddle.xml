@@ -2,9 +2,9 @@
   <predicate lemma="paddle">
     <roleset id="paddle.01" name="propel with a paddle">
       <roles>
-        <role descr="person doing the paddling" f="PAG" n="0"/>
+        <role descr="person doing the paddling" f="pag" n="0"/>
         <role descr="thing being paddled" f="ppt" n="1"/>
-        <role descr="source" f="DIR" n="2"/>
+        <role descr="source" f="dir" n="2"/>
         <role descr="destination/location" f="loc" n="3"/>
       </roles>
     </roleset>

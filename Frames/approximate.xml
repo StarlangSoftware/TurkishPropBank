@@ -2,8 +2,8 @@
   <predicate lemma="approximate">
     <roleset id="approximate.01" name="to be close or similar, cause to come near to or approach again">
       <roles>
-        <role descr="entity coming close" f="PAG" n="0"/>
-        <role descr="entity coming close to" f="PPT" n="1"/>
+        <role descr="entity coming close" f="pag" n="0"/>
+        <role descr="entity coming close to" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

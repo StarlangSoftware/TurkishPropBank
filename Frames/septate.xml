@@ -2,8 +2,8 @@
   <predicate lemma="septate">
     <roleset id="septate.01" name="divide a cavity by means of a partition">
       <roles>
-        <role descr="agent, cause" f="PAG" n="0"/>
-        <role descr="entity septated" f="PPT" n="1"/>
+        <role descr="agent, cause" f="pag" n="0"/>
+        <role descr="entity septated" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

@@ -2,8 +2,8 @@
   <predicate lemma="pore">
     <roleset id="pore.01" name="to study carefully">
       <roles>
-        <role descr="studier, agent" f="PAG" n="0"/>
-        <role descr="entity pored over" f="PPT" n="1"/>
+        <role descr="studier, agent" f="pag" n="0"/>
+        <role descr="entity pored over" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

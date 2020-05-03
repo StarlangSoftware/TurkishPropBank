@@ -2,7 +2,7 @@
   <predicate lemma="loaf">
     <roleset id="loaf.01" name="to be lazy or move about in a lazy   fashion">
       <roles>
-        <role descr="lazy person" f="PAG" n="0"/>
+        <role descr="lazy person" f="pag" n="0"/>
       </roles>
     </roleset>
   </predicate>

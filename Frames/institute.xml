@@ -2,8 +2,8 @@
   <predicate lemma="institute">
     <roleset id="institute.01" name="establish, establishment of something">
       <roles>
-        <role descr="agent, setter" f="PAG" n="0"/>
-        <role descr="thing set" f="PPT" n="1"/>
+        <role descr="agent, setter" f="pag" n="0"/>
+        <role descr="thing set" f="ppt" n="1"/>
         <role descr="attribute" f="prd" n="2"/>
       </roles>
     </roleset>

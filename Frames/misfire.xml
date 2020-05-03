@@ -2,7 +2,7 @@
   <predicate lemma="misfire">
     <roleset id="misfire.01" name="fail to fire">
       <roles>
-        <role descr="gun" f="PPT" n="1"/>
+        <role descr="gun" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

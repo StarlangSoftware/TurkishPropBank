@@ -29,7 +29,7 @@
       <roles>
         <role descr="knocker" f="pag" n="0"/>
         <role descr="thing knocked and going down" f="ppt" n="1"/>
-        <role descr="EXT" f="ext" n="2"/>
+        <role descr="ext" f="ext" n="2"/>
         <role descr="start point" f="dir" n="3"/>
         <role descr="end point" f="gol" n="4"/>
         <role descr="instrument" f="mnr" n="5"/>

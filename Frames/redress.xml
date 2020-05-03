@@ -2,8 +2,8 @@
   <predicate lemma="redress">
     <roleset id="redress.01" name="right a wrong">
       <roles>
-        <role descr="agent, redresser" f="PAG" n="0"/>
-        <role descr="wrong, recipient of compensation" f="GOL" n="1"/>
+        <role descr="agent, redresser" f="pag" n="0"/>
+        <role descr="wrong, recipient of compensation" f="gol" n="1"/>
       </roles>
     </roleset>
   </predicate>

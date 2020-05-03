@@ -2,7 +2,7 @@
   <predicate lemma="revert">
     <roleset id="revert.01" name="to return, turn back">
       <roles>
-        <role descr="agent/cause" f="PAG" n="0"/>
+        <role descr="agent/cause" f="pag" n="0"/>
         <role descr="entity going back" f="ppt" n="1"/>
         <role descr="reverted to (previous state)" f="prd" n="2"/>
         <role descr="previous owner given back to" f="gol" n="3"/>

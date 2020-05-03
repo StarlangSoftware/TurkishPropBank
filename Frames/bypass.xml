@@ -2,8 +2,8 @@
   <predicate lemma="bypass">
     <roleset id="bypass.01" name="avoid, go around">
       <roles>
-        <role descr="thing going around" f="PAG" n="0"/>
-        <role descr="thing gone around" f="PPT" n="1"/>
+        <role descr="thing going around" f="pag" n="0"/>
+        <role descr="thing gone around" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

@@ -2,15 +2,15 @@
   <predicate lemma="manipulate">
     <roleset id="manipulate.01" name="handle, manually handling">
       <roles>
-        <role descr="handler" f="PAG" n="0"/>
-        <role descr="thing handled" f="PPT" n="1"/>
+        <role descr="handler" f="pag" n="0"/>
+        <role descr="thing handled" f="ppt" n="1"/>
       </roles>
     </roleset>
     <roleset id="manipulate.02" name="force, influencing or tampering with">
       <roles>
-        <role descr="causal agent" f="PAG" n="0"/>
-        <role descr="impelled agent" f="PPT" n="1"/>
-        <role descr="impelled action" f="PRD" n="2"/>
+        <role descr="causal agent" f="pag" n="0"/>
+        <role descr="impelled agent" f="ppt" n="1"/>
+        <role descr="impelled action" f="prd" n="2"/>
       </roles>
     </roleset>
   </predicate>

@@ -2,8 +2,8 @@
   <predicate lemma="palm_off">
     <roleset id="palm_off.01" name="dispose of by deception">
       <roles>
-        <role descr="disposer, agent" f="PAG" n="0"/>
-        <role descr="thing disposed of" f="PPT" n="1"/>
+        <role descr="disposer, agent" f="pag" n="0"/>
+        <role descr="thing disposed of" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

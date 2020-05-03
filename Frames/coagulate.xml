@@ -2,9 +2,9 @@
   <predicate lemma="coagulate">
     <roleset id="coagulate.01" name="(cause to) convert liquid to solid, convert liquid to solid via an electric current">
       <roles>
-        <role descr="cause of coagulation" f="PAG" n="0"/>
-        <role descr="entity coagulated" f="PPT" n="1"/>
-        <role descr="instrument or manner, if separate from arg 0" f="MNR" n="2"/>
+        <role descr="cause of coagulation" f="pag" n="0"/>
+        <role descr="entity coagulated" f="ppt" n="1"/>
+        <role descr="instrument or manner, if separate from arg 0" f="mnr" n="2"/>
       </roles>
     </roleset>
   </predicate>

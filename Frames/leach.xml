@@ -2,9 +2,9 @@
   <predicate lemma="leach">
     <roleset id="leach.01" name="dissolve out soluble constitents from by percolation">
       <roles>
-        <role descr="agent of percolation process" f="PAG" n="0"/>
-        <role descr="soluble constituents, product of leaching process" f="PPT" n="1"/>
-        <role descr="source from which arg1 is drawn, pure substance undergoing percolation" f="DIR" n="2"/>
+        <role descr="agent of percolation process" f="pag" n="0"/>
+        <role descr="soluble constituents, product of leaching process" f="ppt" n="1"/>
+        <role descr="source from which arg1 is drawn, pure substance undergoing percolation" f="dir" n="2"/>
       </roles>
     </roleset>
   </predicate>

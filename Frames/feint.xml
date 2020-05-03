@@ -2,8 +2,8 @@
   <predicate lemma="feint">
     <roleset id="feint.01" name="deceive with a mock action">
       <roles>
-        <role descr="Person feinting" f="PAG" n="0"/>
-        <role descr="Mock action" f="PPT" n="1"/>
+        <role descr="Person feinting" f="pag" n="0"/>
+        <role descr="Mock action" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

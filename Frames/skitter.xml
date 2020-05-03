@@ -2,8 +2,8 @@
   <predicate lemma="skitter">
     <roleset id="skitter.01" name="(cause to) move in a light skipping manner">
       <roles>
-        <role descr="agent of skittering motion (transitive only)" f="PAG" n="0"/>
-        <role descr="thing in motion" f="PPT" n="1"/>
+        <role descr="agent of skittering motion (transitive only)" f="pag" n="0"/>
+        <role descr="thing in motion" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

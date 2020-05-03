@@ -2,8 +2,8 @@
   <predicate lemma="accrete">
     <roleset id="accrete.01" name="accumulate, gain">
       <roles>
-        <role descr="accreting entity" f="PAG" n="0"/>
-        <role descr="stuff gained" f="PPT" n="1"/>
+        <role descr="accreting entity" f="pag" n="0"/>
+        <role descr="stuff gained" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

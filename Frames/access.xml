@@ -2,8 +2,8 @@
   <predicate lemma="access">
     <roleset id="access.01" name="access, gain entry">
       <roles>
-        <role descr="accessor" f="PAG" n="0"/>
-        <role descr="thing accessed" f="PPT" n="1"/>
+        <role descr="accessor" f="pag" n="0"/>
+        <role descr="thing accessed" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

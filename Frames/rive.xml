@@ -2,8 +2,8 @@
   <predicate lemma="rive">
     <roleset id="rive.01" name="render asunder">
       <roles>
-        <role descr="agent, destroyer, Shiva" f="PAG" n="0"/>
-        <role descr="patient, thign destroyed" f="PPT" n="1"/>
+        <role descr="agent, destroyer, Shiva" f="pag" n="0"/>
+        <role descr="patient, thign destroyed" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

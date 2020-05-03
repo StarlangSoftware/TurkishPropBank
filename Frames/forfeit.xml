@@ -2,9 +2,9 @@
   <predicate lemma="forfeit">
     <roleset id="forfeit.01" name="give up (to)">
       <roles>
-        <role descr="giver" f="PAG" n="0"/>
-        <role descr="thing given" f="PPT" n="1"/>
-        <role descr="entity given to" f="GOL" n="2"/>
+        <role descr="giver" f="pag" n="0"/>
+        <role descr="thing given" f="ppt" n="1"/>
+        <role descr="entity given to" f="gol" n="2"/>
       </roles>
     </roleset>
   </predicate>

@@ -2,8 +2,8 @@
   <predicate lemma="bruise">
     <roleset id="bruise.01" name="bruise, causing to become or becoming bruised">
       <roles>
-        <role descr="bruiser" f="PAG" n="0"/>
-        <role descr="bruised" f="PPT" n="1"/>
+        <role descr="bruiser" f="pag" n="0"/>
+        <role descr="bruised" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

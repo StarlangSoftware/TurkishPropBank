@@ -2,9 +2,9 @@
   <predicate lemma="rim">
     <roleset id="rim.01" name="(cause to) be along the periphery of">
       <roles>
-        <role descr="causal agent" f="PAG" n="0"/>
-        <role descr="thing on the rim" f="PPT" n="1"/>
-        <role descr="the rim, thing enclosed" f="PPT" n="2"/>
+        <role descr="causal agent" f="pag" n="0"/>
+        <role descr="thing on the rim" f="ppt" n="1"/>
+        <role descr="the rim, thing enclosed" f="ppt" n="2"/>
       </roles>
     </roleset>
   </predicate>

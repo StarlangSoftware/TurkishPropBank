@@ -2,8 +2,8 @@
   <predicate lemma="whirl">
     <roleset id="whirl.01" name="move in a circle or spiral, quickly">
       <roles>
-        <role descr="thing in motion" f="PPT" n="1"/>
-        <role descr="axis (rare)" f="LOC" n="2"/>
+        <role descr="thing in motion" f="ppt" n="1"/>
+        <role descr="axis (rare)" f="loc" n="2"/>
       </roles>
     </roleset>
     <roleset id="whirl.02" name="natural disaster: tornado (usually fire)">

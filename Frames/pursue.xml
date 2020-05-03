@@ -2,8 +2,8 @@
   <predicate lemma="pursue">
     <roleset id="pursue.01" name="follow, chase, a quest; chase after; follow">
       <roles>
-        <role descr="thing following" f="PAG" n="0"/>
-        <role descr="thing followed" f="PPT" n="1"/>
+        <role descr="thing following" f="pag" n="0"/>
+        <role descr="thing followed" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

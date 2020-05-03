@@ -2,8 +2,8 @@
   <predicate lemma="decentralize">
     <roleset id="decentralize.01" name="cause to not have a center">
       <roles>
-        <role descr="causer, agent" f="PAG" n="0"/>
-        <role descr="decentralized thing" f="PPT" n="1"/>
+        <role descr="causer, agent" f="pag" n="0"/>
+        <role descr="decentralized thing" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

@@ -2,9 +2,9 @@
   <predicate lemma="instrumentate">
     <roleset id="instrumentate.01" name="write musical score for instruments">
       <roles>
-        <role descr="composer" f="PAG" n="0"/>
-        <role descr="music written or had instruments added to" f="PPT" n="1"/>
-        <role descr="the instruments" f="MNR" n="2"/>
+        <role descr="composer" f="pag" n="0"/>
+        <role descr="music written or had instruments added to" f="ppt" n="1"/>
+        <role descr="the instruments" f="mnr" n="2"/>
       </roles>
     </roleset>
   </predicate>

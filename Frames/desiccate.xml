@@ -2,9 +2,9 @@
   <predicate lemma="desiccate">
     <roleset id="desiccate.01" name="(cause to) become dried out, cause to become dried out via an electric current">
       <roles>
-        <role descr="cause of transformation" f="PAG" n="0"/>
-        <role descr="entity dried" f="PPT" n="1"/>
-        <role descr="instrument or manner if separate from arg 0" f="MNR" n="2"/>
+        <role descr="cause of transformation" f="pag" n="0"/>
+        <role descr="entity dried" f="ppt" n="1"/>
+        <role descr="instrument or manner if separate from arg 0" f="mnr" n="2"/>
       </roles>
     </roleset>
   </predicate>

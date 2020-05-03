@@ -2,8 +2,8 @@
   <predicate lemma="devalue">
     <roleset id="devalue.01" name="to lessen the value of">
       <roles>
-        <role descr="causer of lower value, agent" f="PAG" n="0"/>
-        <role descr="thing with lower value" f="PPT" n="1"/>
+        <role descr="causer of lower value, agent" f="pag" n="0"/>
+        <role descr="thing with lower value" f="ppt" n="1"/>
         <role descr="original state" f="dir" n="2"/>
       </roles>
     </roleset>

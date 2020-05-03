@@ -2,7 +2,7 @@
   <predicate lemma="herniate">
     <roleset id="herniate.01" name="protrude through containing tissue">
       <roles>
-        <role descr="Entity herniating" f="PPT" n="1"/>
+        <role descr="Entity herniating" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

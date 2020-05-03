@@ -2,8 +2,8 @@
   <predicate lemma="winter">
     <roleset id="winter.01" name="vacation during the winter">
       <roles>
-        <role descr="vacationer(s)" f="PPT" n="0"/>
-        <role descr="location of vacation" f="LOC" n="1"/>
+        <role descr="vacationer(s)" f="ppt" n="0"/>
+        <role descr="location of vacation" f="loc" n="1"/>
       </roles>
     </roleset>
   </predicate>

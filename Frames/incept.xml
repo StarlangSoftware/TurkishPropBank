@@ -2,14 +2,14 @@
   <predicate lemma="incept">
     <roleset id="incept.01" name="beginning, origination">
       <roles>
-        <role descr="agent (probably rare)" f="PAG" n="0"/>
+        <role descr="agent (probably rare)" f="pag" n="0"/>
         <role descr="thing originating" f="ppt" n="1"/>
         <role descr="inception as what" f="prd" n="2"/>
       </roles>
     </roleset>
     <roleset id="incept.02" name="graduate from a university">
       <roles>
-        <role descr="student" f="PAG" n="0"/>
+        <role descr="student" f="pag" n="0"/>
         <role descr="learning institution" f="loc" n="1"/>
         <role descr="with which degree" f="mnr" n="2"/>
       </roles>

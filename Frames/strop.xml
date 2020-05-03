@@ -2,8 +2,8 @@
   <predicate lemma="strop">
     <roleset id="strop.01" name="sharpen">
       <roles>
-        <role descr="agent" f="PAG" n="0"/>
-        <role descr="razor" f="PPT" n="1"/>
+        <role descr="agent" f="pag" n="0"/>
+        <role descr="razor" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

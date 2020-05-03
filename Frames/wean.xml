@@ -2,9 +2,9 @@
   <predicate lemma="wean">
     <roleset id="wean.01" name="cause to be no longer dependent on">
       <roles>
-        <role descr="causer, agent" f="PAG" n="0"/>
-        <role descr="newly independent entity" f="PPT" n="1"/>
-        <role descr="former dependency" f="DIR" n="2"/>
+        <role descr="causer, agent" f="pag" n="0"/>
+        <role descr="newly independent entity" f="ppt" n="1"/>
+        <role descr="former dependency" f="dir" n="2"/>
       </roles>
     </roleset>
   </predicate>

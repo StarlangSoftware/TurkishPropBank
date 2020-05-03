@@ -2,8 +2,8 @@
   <predicate lemma="cradle">
     <roleset id="cradle.01" name="support protectively">
       <roles>
-        <role descr="agent, cradler" f="PAG" n="0"/>
-        <role descr="theme, thing cradled" f="PPT" n="1"/>
+        <role descr="agent, cradler" f="pag" n="0"/>
+        <role descr="theme, thing cradled" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

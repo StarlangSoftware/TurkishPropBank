@@ -1,5 +1,5 @@
 <FRAMESET id="TUR10-0881150">
 	<ARG name="ARG0" function="pag">rastlayan şey</ARG>
 	<ARG name="ARG1" function="ppt">rastladığı şey</ARG>
-	<ARG name="ARG2" function="exc">rastladığı oran</ARG>
+	<ARG name="ARG2" function="ext">rastladığı oran</ARG>
 </FRAMESET>

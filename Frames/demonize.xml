@@ -2,8 +2,8 @@
   <predicate lemma="demonize">
     <roleset id="demonize.01" name="portray as a demon">
       <roles>
-        <role descr="portrayer, agent" f="PAG" n="0"/>
-        <role descr="demonic entity" f="PPT" n="1"/>
+        <role descr="portrayer, agent" f="pag" n="0"/>
+        <role descr="demonic entity" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

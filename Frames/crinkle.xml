@@ -2,8 +2,8 @@
   <predicate lemma="crinkle">
     <roleset id="crinkle.01" name="furrow">
       <roles>
-        <role descr="crinkler" f="PPT" n="0"/>
-        <role descr="thing crinkled" f="PPT" n="1"/>
+        <role descr="crinkler" f="ppt" n="0"/>
+        <role descr="thing crinkled" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

@@ -2,7 +2,7 @@
   <predicate lemma="mentate">
     <roleset id="mentate.01" name="thinking, mentally processing">
       <roles>
-        <role descr="Thinker" f="PAG" n="0"/>
+        <role descr="Thinker" f="pag" n="0"/>
         <role descr="Thought (may be rare)" f="ppt" n="1"/>
       </roles>
     </roleset>

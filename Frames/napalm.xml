@@ -2,7 +2,7 @@
   <predicate lemma="napalm">
     <roleset id="napalm.01" name="attacking with napalm">
       <roles>
-        <role descr="attacker" f="PAG" n="0"/>
+        <role descr="attacker" f="pag" n="0"/>
         <role descr="victim" f="ppt" n="1"/>
       </roles>
     </roleset>

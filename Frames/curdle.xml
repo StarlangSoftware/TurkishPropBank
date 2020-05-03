@@ -2,8 +2,8 @@
   <predicate lemma="curdle">
     <roleset id="curdle.01" name="causer">
       <roles>
-        <role descr="causer" f="PAG" n="0"/>
-        <role descr="patient, thing curdling" f="PPT" n="1"/>
+        <role descr="causer" f="pag" n="0"/>
+        <role descr="patient, thing curdling" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

@@ -48,9 +48,9 @@
   <predicate lemma="shorten">
     <roleset id="shorten.04" name="make shorter">
       <roles>
-        <role descr="causal agent" f="PAG" n="0"/>
-        <role descr="thing becoming shorter" f="PPT" n="1"/>
-        <role descr="EXT" f="ext" n="2"/>
+        <role descr="causal agent" f="pag" n="0"/>
+        <role descr="thing becoming shorter" f="ppt" n="1"/>
+        <role descr="ext" f="ext" n="2"/>
         <role descr="start point" f="dir" n="3"/>
         <role descr="end point" f="gol" n="4"/>
       </roles>

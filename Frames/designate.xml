@@ -2,9 +2,9 @@
   <predicate lemma="designate">
     <roleset id="designate.01" name="assign to a role">
       <roles>
-        <role descr="designator" f="PAG" n="0"/>
-        <role descr="designated" f="PPT" n="1"/>
-        <role descr="role of arg1" f="PRD" n="2"/>
+        <role descr="designator" f="pag" n="0"/>
+        <role descr="designated" f="ppt" n="1"/>
+        <role descr="role of arg1" f="prd" n="2"/>
       </roles>
     </roleset>
   </predicate>

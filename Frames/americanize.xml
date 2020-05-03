@@ -2,9 +2,9 @@
   <predicate lemma="americanize">
     <roleset id="americanize.01" name="make more american">
       <roles>
-        <role descr="causer, agent" f="PAG" n="0"/>
-        <role descr="victim" f="PPT" n="1"/>
-        <role descr="instrument" f="MNR" n="2"/>
+        <role descr="causer, agent" f="pag" n="0"/>
+        <role descr="victim" f="ppt" n="1"/>
+        <role descr="instrument" f="mnr" n="2"/>
       </roles>
     </roleset>
   </predicate>

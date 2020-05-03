@@ -2,7 +2,7 @@
   <predicate lemma="forecast">
     <roleset id="forecast.01" name="tell the future">
       <roles>
-        <role descr="fortune teller" f="PAG" n="0"/>
+        <role descr="fortune teller" f="pag" n="0"/>
         <role descr="prediction" f="ppt" n="1"/>
         <role descr="secondary predication" f="prd" n="2"/>
       </roles>

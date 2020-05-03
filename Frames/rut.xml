@@ -2,9 +2,9 @@
   <predicate lemma="rut">
     <roleset id="rut.01" name="put ruts in, furrow">
       <roles>
-        <role descr="agent, maker of ruts" f="PAG" n="0"/>
-        <role descr="location/entity rutted" f="GOL" n="1"/>
-        <role descr="rut itself, type of rut" f="PPT" n="2"/>
+        <role descr="agent, maker of ruts" f="pag" n="0"/>
+        <role descr="location/entity rutted" f="gol" n="1"/>
+        <role descr="rut itself, type of rut" f="ppt" n="2"/>
       </roles>
     </roleset>
   </predicate>

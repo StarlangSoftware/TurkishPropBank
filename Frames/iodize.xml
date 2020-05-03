@@ -2,9 +2,9 @@
   <predicate lemma="iodize">
     <roleset id="iodize.01" name="treat with iodide">
       <roles>
-        <role descr="agent, treater" f="PAG" n="0"/>
-        <role descr="thing iodized" f="PPT" n="1"/>
-        <role descr="instrument" f="MNR" n="2"/>
+        <role descr="agent, treater" f="pag" n="0"/>
+        <role descr="thing iodized" f="ppt" n="1"/>
+        <role descr="instrument" f="mnr" n="2"/>
       </roles>
     </roleset>
   </predicate>

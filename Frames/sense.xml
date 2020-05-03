@@ -2,9 +2,9 @@
   <predicate lemma="sense">
     <roleset id="sense.01" name="perceive">
       <roles>
-        <role descr="sensor" f="PPT" n="0"/>
-        <role descr="thing sensed" f="PAG" n="1"/>
-        <role descr="secondary attribute" f="PRD" n="2"/>
+        <role descr="sensor" f="ppt" n="0"/>
+        <role descr="thing sensed" f="pag" n="1"/>
+        <role descr="secondary attribute" f="prd" n="2"/>
       </roles>
     </roleset>
     <roleset id="sense.02" name="be reasonable">

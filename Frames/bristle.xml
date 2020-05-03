@@ -2,8 +2,8 @@
   <predicate lemma="bristle">
     <roleset id="bristle.01" name="to react in an angry manner">
       <roles>
-        <role descr="entity reacting, agent" f="PPT" n="0"/>
-        <role descr="bristle at" f="LOC" n="1"/>
+        <role descr="entity reacting, agent" f="ppt" n="0"/>
+        <role descr="bristle at" f="loc" n="1"/>
       </roles>
     </roleset>
   </predicate>

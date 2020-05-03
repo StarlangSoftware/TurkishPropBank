@@ -2,8 +2,8 @@
   <predicate lemma="serenade">
     <roleset id="serenade.01" name="perform a vocal accompaniment">
       <roles>
-        <role descr="agent, serenader" f="PAG" n="0"/>
-        <role descr="entity serenaded" f="PPT" n="1"/>
+        <role descr="agent, serenader" f="pag" n="0"/>
+        <role descr="entity serenaded" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

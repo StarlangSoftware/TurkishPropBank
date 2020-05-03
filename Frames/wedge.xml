@@ -2,9 +2,9 @@
   <predicate lemma="wedge">
     <roleset id="wedge.01" name="to squeeze or stick">
       <roles>
-        <role descr="wedger, agent" f="PAG" n="0"/>
-        <role descr="entity wedged" f="PPT" n="1"/>
-        <role descr="wedged into" f="GOL" n="2"/>
+        <role descr="wedger, agent" f="pag" n="0"/>
+        <role descr="entity wedged" f="ppt" n="1"/>
+        <role descr="wedged into" f="gol" n="2"/>
       </roles>
     </roleset>
   </predicate>

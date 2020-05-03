@@ -2,8 +2,8 @@
   <predicate lemma="demast">
     <roleset id="demast.01" name="remove mast">
       <roles>
-        <role descr="remover" f="PAG" n="0"/>
-        <role descr="thing demasted (such as ship)" f="DIR" n="1"/>
+        <role descr="remover" f="pag" n="0"/>
+        <role descr="thing demasted (such as ship)" f="dir" n="1"/>
       </roles>
     </roleset>
   </predicate>

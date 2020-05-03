@@ -2,9 +2,9 @@
   <predicate lemma="crate">
     <roleset id="crate.01" name="to pack in a crate">
       <roles>
-        <role descr="packer" f="PAG" n="0"/>
-        <role descr="thing packed" f="PPT" n="1"/>
-        <role descr="crate, location" f="GOL" n="2"/>
+        <role descr="packer" f="pag" n="0"/>
+        <role descr="thing packed" f="ppt" n="1"/>
+        <role descr="crate, location" f="gol" n="2"/>
       </roles>
     </roleset>
   </predicate>

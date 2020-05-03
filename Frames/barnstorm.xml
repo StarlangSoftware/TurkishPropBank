@@ -2,8 +2,8 @@
   <predicate lemma="barnstorm">
     <roleset id="barnstorm.01" name="work towards a goal">
       <roles>
-        <role descr="campaigner" f="PAG" n="0"/>
-        <role descr="cause, goal" f="PPT" n="1"/>
+        <role descr="campaigner" f="pag" n="0"/>
+        <role descr="cause, goal" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

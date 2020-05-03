@@ -2,8 +2,8 @@
   <predicate lemma="button">
     <roleset id="button.01" name="fasten the buttons on">
       <roles>
-        <role descr="agent, buttoner" f="PAG" n="0"/>
-        <role descr="theme, thing buttoned" f="PPT" n="1"/>
+        <role descr="agent, buttoner" f="pag" n="0"/>
+        <role descr="theme, thing buttoned" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

@@ -3,8 +3,8 @@
     <roleset id="hustle.01" name="to act or cause to proceed quickly">
       <roles>
         <role descr="agentive hustler" f="pag" n="0"/>
-        <role descr="entity being sent in a hustle (if in addition to arg0)" f="PAG" n="1"/>
-        <role descr="hustled to/into" f="PPT" n="2"/>
+        <role descr="entity being sent in a hustle (if in addition to arg0)" f="pag" n="1"/>
+        <role descr="hustled to/into" f="ppt" n="2"/>
       </roles>
     </roleset>
   </predicate>

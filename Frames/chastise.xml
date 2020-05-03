@@ -2,9 +2,9 @@
   <predicate lemma="chastise">
     <roleset id="chastise.01" name="give mild verbal punishment">
       <roles>
-        <role descr="chastiser, agent" f="PAG" n="0"/>
-        <role descr="entity being chastised" f="PPT" n="1"/>
-        <role descr="cause" f="PRD" n="2"/>
+        <role descr="chastiser, agent" f="pag" n="0"/>
+        <role descr="entity being chastised" f="ppt" n="1"/>
+        <role descr="cause" f="prd" n="2"/>
       </roles>
     </roleset>
   </predicate>

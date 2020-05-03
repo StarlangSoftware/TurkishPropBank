@@ -2,7 +2,7 @@
   <predicate lemma="jive">
     <roleset id="jive.01" name="dance to music">
       <roles>
-        <role descr="dancer" f="PAG" n="0"/>
+        <role descr="dancer" f="pag" n="0"/>
       </roles>
     </roleset>
   </predicate>

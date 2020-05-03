@@ -2,7 +2,7 @@
   <predicate lemma="identical">
     <roleset id="identical.01" name="identical">
       <roles>
-        <role descr="original, first identical thing" f="PPT" n="1"/>
+        <role descr="original, first identical thing" f="ppt" n="1"/>
         <role descr="compared to, second identical thing, identical to what?" f="ppt" n="2"/>
       </roles>
     </roleset>

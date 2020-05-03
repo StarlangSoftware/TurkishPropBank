@@ -2,9 +2,9 @@
   <predicate lemma="immolate">
     <roleset id="immolate.01" name="sacrifice">
       <roles>
-        <role descr="killer" f="PAG" n="0"/>
-        <role descr="corpse" f="PPT" n="1"/>
-        <role descr="instrument" f="MNR" n="2"/>
+        <role descr="killer" f="pag" n="0"/>
+        <role descr="corpse" f="ppt" n="1"/>
+        <role descr="instrument" f="mnr" n="2"/>
       </roles>
     </roleset>
   </predicate>

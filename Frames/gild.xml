@@ -2,7 +2,7 @@
   <predicate lemma="gild">
     <roleset id="gild.01" name="apply thin layer">
       <roles>
-        <role descr="decorator" f="PAG" n="0"/>
+        <role descr="decorator" f="pag" n="0"/>
         <role descr="thing decorated" f="gol" n="1"/>
         <role descr="decoration" f="ppt" n="2"/>
       </roles>

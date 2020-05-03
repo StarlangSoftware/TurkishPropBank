@@ -2,8 +2,8 @@
   <predicate lemma="hellenize">
     <roleset id="hellenize.01" name="make or become greek">
       <roles>
-        <role descr="agent, hellenizing entity" f="PAG" n="0"/>
-        <role descr="entity hellenized" f="PPT" n="1"/>
+        <role descr="agent, hellenizing entity" f="pag" n="0"/>
+        <role descr="entity hellenized" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

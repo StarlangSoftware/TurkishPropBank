@@ -2,7 +2,7 @@
   <predicate lemma="grovel">
     <roleset id="grovel.01" name="abase oneself">
       <roles>
-        <role descr="groveler" f="PAG" n="0"/>
+        <role descr="groveler" f="pag" n="0"/>
       </roles>
     </roleset>
   </predicate>

@@ -2,15 +2,15 @@
   <predicate lemma="divorce">
     <roleset id="divorce.01" name="to obtain a divorce">
       <roles>
-        <role descr="initiator of end of marriage, agent" f="PAG" n="0"/>
-        <role descr="ex-spouse" f="COM" n="1"/>
+        <role descr="initiator of end of marriage, agent" f="pag" n="0"/>
+        <role descr="ex-spouse" f="com" n="1"/>
       </roles>
     </roleset>
     <roleset id="divorce.02" name="to separate">
       <roles>
-        <role descr="causer of separation, agent" f="PAG" n="0"/>
-        <role descr="entity separated" f="PPT" n="1"/>
-        <role descr="entity separated from" f="PPT" n="2"/>
+        <role descr="causer of separation, agent" f="pag" n="0"/>
+        <role descr="entity separated" f="ppt" n="1"/>
+        <role descr="entity separated from" f="ppt" n="2"/>
       </roles>
     </roleset>
   </predicate>

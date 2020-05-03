@@ -2,14 +2,14 @@
   <predicate lemma="up">
     <roleset id="up.01" name="make higher">
       <roles>
-        <role descr="causer" f="PAG" n="0"/>
-        <role descr="ante" f="PPT" n="1"/>
+        <role descr="causer" f="pag" n="0"/>
+        <role descr="ante" f="ppt" n="1"/>
       </roles>
     </roleset>
     <roleset id="up.02" name="at an increase">
       <roles>
         <role descr="increased entity" f="ppt" n="1"/>
-        <role descr="EXT" f="ext" n="2"/>
+        <role descr="ext" f="ext" n="2"/>
         <role descr="start point" f="dir" n="3"/>
         <role descr="end point" f="loc" n="4"/>
         <role descr="specific aspect of/domain in which arg1 is increased" f="vsp" n="5"/>

@@ -2,8 +2,8 @@
   <predicate lemma="handicap">
     <roleset id="handicap.01" name="to make difficult">
       <roles>
-        <role descr="causer of difficulty" f="PAG" n="0"/>
-        <role descr="entity made difficult" f="PPT" n="1"/>
+        <role descr="causer of difficulty" f="pag" n="0"/>
+        <role descr="entity made difficult" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

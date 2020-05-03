@@ -2,8 +2,8 @@
   <predicate lemma="swill">
     <roleset id="swill.01" name="swill">
       <roles>
-        <role descr="drinker, swiller, agent" f="PAG" n="0"/>
-        <role descr="thing swilled, patient" f="PPT" n="1"/>
+        <role descr="drinker, swiller, agent" f="pag" n="0"/>
+        <role descr="thing swilled, patient" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

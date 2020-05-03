@@ -2,9 +2,9 @@
   <predicate lemma="unzip">
     <roleset id="unzip.01" name="unzip">
       <roles>
-        <role descr="unzipper, agent" f="PAG" n="0"/>
-        <role descr="thing unzipped, patient" f="PPT" n="1"/>
-        <role descr="unzipped from, source" f="PPT" n="2"/>
+        <role descr="unzipper, agent" f="pag" n="0"/>
+        <role descr="thing unzipped, patient" f="ppt" n="1"/>
+        <role descr="unzipped from, source" f="ppt" n="2"/>
       </roles>
     </roleset>
   </predicate>

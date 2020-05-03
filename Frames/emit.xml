@@ -2,8 +2,8 @@
   <predicate lemma="emit">
     <roleset id="emit.01" name="emit, let forth">
       <roles>
-        <role descr="emitting entity" f="PAG" n="0"/>
-        <role descr="thing emitted" f="PPT" n="1"/>
+        <role descr="emitting entity" f="pag" n="0"/>
+        <role descr="thing emitted" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

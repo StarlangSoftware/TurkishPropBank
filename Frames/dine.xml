@@ -10,7 +10,7 @@
   <predicate lemma="dine_out">
     <roleset id="dine_out.02" name="eat dinner at a restaurant">
       <roles>
-        <role descr="eater, diner" f="PAG" n="0"/>
+        <role descr="eater, diner" f="pag" n="0"/>
       </roles>
     </roleset>
   </predicate>

@@ -2,8 +2,8 @@
   <predicate lemma="pout">
     <roleset id="pout.01" name="frown">
       <roles>
-        <role descr="pouter" f="PAG" n="0"/>
-        <role descr="pout at" f="GOL" n="1"/>
+        <role descr="pouter" f="pag" n="0"/>
+        <role descr="pout at" f="gol" n="1"/>
       </roles>
     </roleset>
   </predicate>

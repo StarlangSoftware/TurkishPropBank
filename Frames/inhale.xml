@@ -2,8 +2,8 @@
   <predicate lemma="inhale">
     <roleset id="inhale.01" name="to take in air, scent, etc., vapors">
       <roles>
-        <role descr="agent, breather" f="PAG" n="0"/>
-        <role descr="air or vapor inhaled" f="PPT" n="1"/>
+        <role descr="agent, breather" f="pag" n="0"/>
+        <role descr="air or vapor inhaled" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

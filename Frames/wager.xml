@@ -2,9 +2,9 @@
   <predicate lemma="wager">
     <roleset id="wager.01" name="wager">
       <roles>
-        <role descr="wagerer" f="PAG" n="0"/>
+        <role descr="wagerer" f="pag" n="0"/>
         <role descr="amount of money wagered" f="vsp" n="1"/>
-        <role descr="basis, proposition, bet on" f="PPT" n="2"/>
+        <role descr="basis, proposition, bet on" f="ppt" n="2"/>
         <role descr="wagered to, hearer of wager" f="gol" n="3"/>
       </roles>
     </roleset>

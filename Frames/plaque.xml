@@ -2,7 +2,7 @@
   <predicate lemma="plaque">
     <roleset id="plaque.01" name="accumulating (passively)">
       <roles>
-        <role descr="Entity accumulated, built up" f="PPT" n="1"/>
+        <role descr="Entity accumulated, built up" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

@@ -2,8 +2,8 @@
   <predicate lemma="stunt">
     <roleset id="stunt.01" name="to check the growth or development of">
       <roles>
-        <role descr="preventer of growth, agent" f="PAG" n="0"/>
-        <role descr="growth" f="PPT" n="1"/>
+        <role descr="preventer of growth, agent" f="pag" n="0"/>
+        <role descr="growth" f="ppt" n="1"/>
       </roles>
     </roleset>
     <roleset id="stunt.02" name="unusual feat">

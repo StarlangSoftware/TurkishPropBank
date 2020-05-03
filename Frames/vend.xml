@@ -2,8 +2,8 @@
   <predicate lemma="vend">
     <roleset id="vend.01" name="sell">
       <roles>
-        <role descr="seller, vendor" f="PAG" n="0"/>
-        <role descr="commodity" f="PPT" n="1"/>
+        <role descr="seller, vendor" f="pag" n="0"/>
+        <role descr="commodity" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

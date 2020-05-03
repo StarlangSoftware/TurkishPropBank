@@ -2,8 +2,8 @@
   <predicate lemma="shudder">
     <roleset id="shudder.01" name="shudder">
       <roles>
-        <role descr="entity shuddering" f="PPT" n="1"/>
-        <role descr="fixed: at+NP" f="PAG" n="2"/>
+        <role descr="entity shuddering" f="ppt" n="1"/>
+        <role descr="fixed: at+NP" f="pag" n="2"/>
       </roles>
     </roleset>
   </predicate>

@@ -2,8 +2,8 @@
   <predicate lemma="glycosylate">
     <roleset id="glycosylate.01" name="to add glyosyl radicals to a protein to form a glycoprotein">
       <roles>
-        <role descr="Agent" f="PAG" n="0"/>
-        <role descr="Protein glycosylated" f="PPT" n="1"/>
+        <role descr="Agent" f="pag" n="0"/>
+        <role descr="Protein glycosylated" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

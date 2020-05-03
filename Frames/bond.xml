@@ -2,15 +2,15 @@
   <predicate lemma="bond">
     <roleset id="bond.01" name="attach, as with glue">
       <roles>
-        <role descr="attacher, agent" f="PAG" n="0"/>
-        <role descr="focus of attachment" f="PPT" n="1"/>
-        <role descr="thing bonded to" f="PPT" n="2"/>
-        <role descr="instrument of bonding, glue" f="MNR" n="3"/>
+        <role descr="attacher, agent" f="pag" n="0"/>
+        <role descr="focus of attachment" f="ppt" n="1"/>
+        <role descr="thing bonded to" f="ppt" n="2"/>
+        <role descr="instrument of bonding, glue" f="mnr" n="3"/>
       </roles>
     </roleset>
     <roleset id="bond.02" name="secure with financial bond">
       <roles>
-        <role descr="secured item" f="PPT" n="1"/>
+        <role descr="secured item" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

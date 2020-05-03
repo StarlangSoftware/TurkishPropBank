@@ -2,9 +2,9 @@
   <predicate lemma="dewax">
     <roleset id="dewax.01" name="remove wax">
       <roles>
-        <role descr="remover" f="PAG" n="0"/>
-        <role descr="dewaxed entity" f="DIR" n="1"/>
-        <role descr="wax, thing removed" f="PPT" n="2"/>
+        <role descr="remover" f="pag" n="0"/>
+        <role descr="dewaxed entity" f="dir" n="1"/>
+        <role descr="wax, thing removed" f="ppt" n="2"/>
       </roles>
     </roleset>
   </predicate>

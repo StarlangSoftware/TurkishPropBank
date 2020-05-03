@@ -2,9 +2,9 @@
   <predicate lemma="whore">
     <roleset id="whore.01" name="to act like a prostitute, or consort with prostitutes">
       <roles>
-        <role descr="agent (whore, sometimes)" f="PAG" n="0"/>
-        <role descr="thing whored, often reflexive (&quot;himself/herself&quot;)" f="PPT" n="1"/>
-        <role descr="to or for whom" f="GOL" n="2"/>
+        <role descr="agent (whore, sometimes)" f="pag" n="0"/>
+        <role descr="thing whored, often reflexive (&quot;himself/herself&quot;)" f="ppt" n="1"/>
+        <role descr="to or for whom" f="gol" n="2"/>
       </roles>
     </roleset>
   </predicate>

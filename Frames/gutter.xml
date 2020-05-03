@@ -2,7 +2,7 @@
   <predicate lemma="gutter">
     <roleset id="gutter.01" name="flicker">
       <roles>
-        <role descr="flame" f="PPT" n="1"/>
+        <role descr="flame" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

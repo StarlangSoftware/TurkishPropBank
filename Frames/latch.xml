@@ -2,16 +2,16 @@
   <predicate lemma="latch">
     <roleset id="latch.01" name="fasten">
       <roles>
-        <role descr="agent" f="PAG" n="0"/>
-        <role descr="thing(s) being latched" f="PPT" n="1"/>
+        <role descr="agent" f="pag" n="0"/>
+        <role descr="thing(s) being latched" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>
   <predicate lemma="latch_on">
     <roleset id="latch_on.02" name="to get hold of, obtain">
       <roles>
-        <role descr="obtainer, agent" f="PAG" n="0"/>
-        <role descr="entity latched on" f="PPT" n="1"/>
+        <role descr="obtainer, agent" f="pag" n="0"/>
+        <role descr="entity latched on" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

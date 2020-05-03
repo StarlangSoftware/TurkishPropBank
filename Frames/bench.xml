@@ -2,9 +2,9 @@
   <predicate lemma="bench">
     <roleset id="bench.01" name="to keep out of or remove from a game">
       <roles>
-        <role descr="bencher" f="PAG" n="0"/>
-        <role descr="person benched" f="PPT" n="1"/>
-        <role descr="location" f="GOL" n="2"/>
+        <role descr="bencher" f="pag" n="0"/>
+        <role descr="person benched" f="ppt" n="1"/>
+        <role descr="location" f="gol" n="2"/>
       </roles>
     </roleset>
   </predicate>

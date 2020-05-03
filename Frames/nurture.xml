@@ -2,8 +2,8 @@
   <predicate lemma="nurture">
     <roleset id="nurture.01" name="help grow, develop">
       <roles>
-        <role descr="caring entity, agent" f="PAG" n="0"/>
-        <role descr="entity nurtured" f="PPT" n="1"/>
+        <role descr="caring entity, agent" f="pag" n="0"/>
+        <role descr="entity nurtured" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

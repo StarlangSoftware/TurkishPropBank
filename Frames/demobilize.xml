@@ -2,8 +2,8 @@
   <predicate lemma="demobilize">
     <roleset id="demobilize.01" name="to discharge from military service">
       <roles>
-        <role descr="supreme commander, agent" f="PAG" n="0"/>
-        <role descr="person demobilized" f="PPT" n="1"/>
+        <role descr="supreme commander, agent" f="pag" n="0"/>
+        <role descr="person demobilized" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

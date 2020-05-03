@@ -2,7 +2,7 @@
   <predicate lemma="off">
     <roleset id="off.01" name="murder">
       <roles>
-        <role descr="murderer" f="PAG" n="0"/>
+        <role descr="murderer" f="pag" n="0"/>
         <role descr="victim" f="ppt" n="1"/>
         <role descr="weapon" f="mnr" n="2"/>
       </roles>

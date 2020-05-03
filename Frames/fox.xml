@@ -2,13 +2,13 @@
   <predicate lemma="fox">
     <roleset id="fox.01" name="deceive or confuse">
       <roles>
-        <role descr="confounding factor" f="PAG" n="0"/>
-        <role descr="confused entity" f="PPT" n="1"/>
+        <role descr="confounding factor" f="pag" n="0"/>
+        <role descr="confused entity" f="ppt" n="1"/>
       </roles>
     </roleset>
     <roleset id="fox.02" name="become discolored">
       <roles>
-        <role descr="cause" f="PAG" n="0"/>
+        <role descr="cause" f="pag" n="0"/>
         <role descr="discolored item" f="ppt" n="1"/>
       </roles>
     </roleset>

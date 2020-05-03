@@ -2,7 +2,7 @@
   <predicate lemma="quit">
     <roleset id="quit.01" name="leave your job">
       <roles>
-        <role descr="quitter" f="PAG" n="0"/>
+        <role descr="quitter" f="pag" n="0"/>
         <role descr="job" f="ppt" n="1"/>
       </roles>
     </roleset>

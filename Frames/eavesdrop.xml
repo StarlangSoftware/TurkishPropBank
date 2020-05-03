@@ -2,8 +2,8 @@
   <predicate lemma="eavesdrop">
     <roleset id="eavesdrop.01" name="listen surreptitiously">
       <roles>
-        <role descr="listener" f="PAG" n="0"/>
-        <role descr="listened-to" f="PPT" n="1"/>
+        <role descr="listener" f="pag" n="0"/>
+        <role descr="listened-to" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

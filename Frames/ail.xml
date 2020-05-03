@@ -2,8 +2,8 @@
   <predicate lemma="ail">
     <roleset id="ail.01" name="be ill">
       <roles>
-        <role descr="illness" f="PAG" n="0"/>
-        <role descr="sick entity" f="PPT" n="1"/>
+        <role descr="illness" f="pag" n="0"/>
+        <role descr="sick entity" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

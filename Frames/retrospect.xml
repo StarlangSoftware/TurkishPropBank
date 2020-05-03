@@ -2,7 +2,7 @@
   <predicate lemma="retrospect">
     <roleset id="retrospect.01" name="looking backward (hindsight)">
       <roles>
-        <role descr="entity looking backward" f="PAG" n="0"/>
+        <role descr="entity looking backward" f="pag" n="0"/>
         <role descr="thing in the past looked backward at" f="ppt" n="1"/>
       </roles>
     </roleset>

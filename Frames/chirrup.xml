@@ -2,7 +2,7 @@
   <predicate lemma="chirrup">
     <roleset id="chirrup.01" name="to chirp">
       <roles>
-        <role descr="chirrup-er" f="PAG" n="0"/>
+        <role descr="chirrup-er" f="pag" n="0"/>
       </roles>
     </roleset>
   </predicate>

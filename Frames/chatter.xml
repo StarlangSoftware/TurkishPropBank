@@ -2,15 +2,15 @@
   <predicate lemma="chatter">
     <roleset id="chatter.01" name="make rapid talking noises">
       <roles>
-        <role descr="emitter of noise, speaker" f="PAG" n="0"/>
-        <role descr="topic, if arg0 is speaker" f="PPT" n="1"/>
+        <role descr="emitter of noise, speaker" f="pag" n="0"/>
+        <role descr="topic, if arg0 is speaker" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>
   <predicate lemma="chatter_away">
     <roleset id="chatter_away.02" name="talk rapidly">
       <roles>
-        <role descr="chatterer" f="PAG" n="0"/>
+        <role descr="chatterer" f="pag" n="0"/>
         <role descr="subject matter" f="ppt" n="1"/>
       </roles>
     </roleset>

@@ -2,7 +2,7 @@
   <predicate lemma="prefill">
     <roleset id="prefill.01" name="to fill ahead of time">
       <roles>
-        <role descr="Agent, Causer of filling" f="PAG" n="0"/>
+        <role descr="Agent, Causer of filling" f="pag" n="0"/>
         <role descr="Container" f="gol" n="1"/>
         <role descr="Substance" f="ppt" n="2"/>
       </roles>

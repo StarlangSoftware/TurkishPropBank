@@ -2,15 +2,15 @@
   <predicate lemma="spout">
     <roleset id="spout.01" name="emit liquid">
       <roles>
-        <role descr="spouter" f="DIR" n="0"/>
-        <role descr="liquid" f="PPT" n="1"/>
+        <role descr="spouter" f="dir" n="0"/>
+        <role descr="liquid" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>
   <predicate lemma="spout_off">
     <roleset id="spout_off.02" name="say flippantly or quickly, phrasal">
       <roles>
-        <role descr="speaker" f="PAG" n="0"/>
+        <role descr="speaker" f="pag" n="0"/>
         <role descr="explicit mention of 'mouth' (or equivalent)" f="dir" n="1"/>
         <role descr="utterance iteslf (quote/ 'that __')" f="ppt" n="2"/>
         <role descr="subject matter of utterance ('about __')" f="vsp" n="3"/>

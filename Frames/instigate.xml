@@ -2,8 +2,8 @@
   <predicate lemma="instigate">
     <roleset id="instigate.01" name="cause a response">
       <roles>
-        <role descr="instigator" f="PAG" n="0"/>
-        <role descr="reaction" f="PPT" n="1"/>
+        <role descr="instigator" f="pag" n="0"/>
+        <role descr="reaction" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

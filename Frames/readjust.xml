@@ -2,8 +2,8 @@
   <predicate lemma="readjust">
     <roleset id="readjust.01" name="adjust to a new position">
       <roles>
-        <role descr="agent, readjuster" f="PAG" n="0"/>
-        <role descr="theme, thing being adjusted" f="PPT" n="1"/>
+        <role descr="agent, readjuster" f="pag" n="0"/>
+        <role descr="theme, thing being adjusted" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

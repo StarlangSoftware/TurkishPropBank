@@ -14,8 +14,8 @@
   <predicate lemma="arise">
     <roleset id="arise.02" name="(cause to) come into existence">
       <roles>
-        <role descr="causer" f="PAG" n="0"/>
-        <role descr="thing (state) arising" f="PPT" n="1"/>
+        <role descr="causer" f="pag" n="0"/>
+        <role descr="thing (state) arising" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

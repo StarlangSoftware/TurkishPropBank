@@ -2,8 +2,8 @@
   <predicate lemma="traverse">
     <roleset id="traverse.01" name="cross">
       <roles>
-        <role descr="traveller" f="PPT" n="0"/>
-        <role descr="wide area" f="PPT" n="1"/>
+        <role descr="traveller" f="ppt" n="0"/>
+        <role descr="wide area" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

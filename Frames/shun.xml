@@ -2,8 +2,8 @@
   <predicate lemma="shun">
     <roleset id="shun.01" name="to avoid, keep away from">
       <roles>
-        <role descr="avoider, agent" f="PAG" n="0"/>
-        <role descr="thing avoided" f="PPT" n="1"/>
+        <role descr="avoider, agent" f="pag" n="0"/>
+        <role descr="thing avoided" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

@@ -2,8 +2,8 @@
   <predicate lemma="foment">
     <roleset id="foment.01" name="encourage revolution">
       <roles>
-        <role descr="encourager" f="PAG" n="0"/>
-        <role descr="revolution" f="PPT" n="1"/>
+        <role descr="encourager" f="pag" n="0"/>
+        <role descr="revolution" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

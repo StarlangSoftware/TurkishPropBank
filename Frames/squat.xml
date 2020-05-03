@@ -3,13 +3,13 @@
     <roleset id="squat.01" name="sit ungracefully">
       <roles>
         <role descr="thing sitting, squatting" f="ppt" n="1"/>
-        <role descr="location" f="LOC" n="2"/>
+        <role descr="location" f="loc" n="2"/>
       </roles>
     </roleset>
     <roleset id="squat.02" name="occupy a building illegally">
       <roles>
-        <role descr="occupier" f="PAG" n="0"/>
-        <role descr="occupied" f="PPT" n="1"/>
+        <role descr="occupier" f="pag" n="0"/>
+        <role descr="occupied" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

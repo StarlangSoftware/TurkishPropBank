@@ -2,8 +2,8 @@
   <predicate lemma="succumb">
     <roleset id="succumb.01" name="to give up or give in">
       <roles>
-        <role descr="entity giving in" f="PAG" n="0"/>
-        <role descr="succumbed to" f="PPT" n="1"/>
+        <role descr="entity giving in" f="pag" n="0"/>
+        <role descr="succumbed to" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

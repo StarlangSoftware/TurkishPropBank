@@ -2,7 +2,7 @@
   <predicate lemma="pension">
     <roleset id="pension.01" name="grant/pay a retirement benefit to">
       <roles>
-        <role descr="pension giver" f="PAG" n="0"/>
+        <role descr="pension giver" f="pag" n="0"/>
         <role descr="pension recipient" f="gol" n="1"/>
         <role descr="the pension itself" f="ppt" n="2"/>
       </roles>
@@ -11,7 +11,7 @@
   <predicate lemma="pension_off">
     <roleset id="pension_off.02" name="let go from employment with an attractive pension">
       <roles>
-        <role descr="pension giver" f="PAG" n="0"/>
+        <role descr="pension giver" f="pag" n="0"/>
         <role descr="pension recipient" f="gol" n="1"/>
         <role descr="the pension" f="ppt" n="2"/>
       </roles>

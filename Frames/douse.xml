@@ -2,9 +2,9 @@
   <predicate lemma="douse">
     <roleset id="douse.01" name="cover with a liquid">
       <roles>
-        <role descr="douser" f="PAG" n="0"/>
-        <role descr="thing doused" f="GOL" n="1"/>
-        <role descr="liquid, doused with what?" f="PPT" n="2"/>
+        <role descr="douser" f="pag" n="0"/>
+        <role descr="thing doused" f="gol" n="1"/>
+        <role descr="liquid, doused with what?" f="ppt" n="2"/>
       </roles>
     </roleset>
   </predicate>

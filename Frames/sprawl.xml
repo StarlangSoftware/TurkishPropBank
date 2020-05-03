@@ -2,9 +2,9 @@
   <predicate lemma="sprawl">
     <roleset id="sprawl.01" name="extend horizontally and ungracefully">
       <roles>
-        <role descr="causer" f="PAG" n="0"/>
+        <role descr="causer" f="pag" n="0"/>
         <role descr="thing in sprawling mode" f="ppt" n="1"/>
-        <role descr="location" f="LOC" n="2"/>
+        <role descr="location" f="loc" n="2"/>
       </roles>
     </roleset>
   </predicate>

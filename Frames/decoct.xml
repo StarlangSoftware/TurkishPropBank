@@ -2,9 +2,9 @@
   <predicate lemma="decoct">
     <roleset id="decoct.01" name="distill into liquid by boiling">
       <roles>
-        <role descr="agent, entity doing the decocting" f="PAG" n="0"/>
-        <role descr="first or all ingredients" f="PPT" n="1"/>
-        <role descr="additional ingredients, water" f="PPT" n="2"/>
+        <role descr="agent, entity doing the decocting" f="pag" n="0"/>
+        <role descr="first or all ingredients" f="ppt" n="1"/>
+        <role descr="additional ingredients, water" f="ppt" n="2"/>
         <role descr="end state" f="prd" n="3"/>
       </roles>
     </roleset>

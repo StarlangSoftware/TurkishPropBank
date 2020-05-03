@@ -2,17 +2,17 @@
   <predicate lemma="scout_out">
     <roleset id="scout_out.01" name="search for, to completion">
       <roles>
-        <role descr="searcher" f="PAG" n="0"/>
-        <role descr="searched for" f="PPT" n="1"/>
+        <role descr="searcher" f="pag" n="0"/>
+        <role descr="searched for" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>
   <predicate lemma="scout">
     <roleset id="scout.02" name="look for, recruit">
       <roles>
-        <role descr="The scout" f="PAG" n="0"/>
-        <role descr="locale scouted" f="LOC" n="1"/>
-        <role descr="thing looked for" f="PPT" n="2"/>
+        <role descr="The scout" f="pag" n="0"/>
+        <role descr="locale scouted" f="loc" n="1"/>
+        <role descr="thing looked for" f="ppt" n="2"/>
       </roles>
     </roleset>
   </predicate>

@@ -2,8 +2,8 @@
   <predicate lemma="replete">
     <roleset id="replete.01" name="fill to abundancy">
       <roles>
-        <role descr="agent, causer of refilling" f="PAG" n="0"/>
-        <role descr="thing replenished" f="PPT" n="1"/>
+        <role descr="agent, causer of refilling" f="pag" n="0"/>
+        <role descr="thing replenished" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

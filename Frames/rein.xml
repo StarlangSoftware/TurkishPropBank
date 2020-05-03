@@ -2,8 +2,8 @@
   <predicate lemma="rein_in">
     <roleset id="rein_in.01" name="to stop, slow up or control">
       <roles>
-        <role descr="slower, stopper, agent" f="PAG" n="0"/>
-        <role descr="entity reined " f="PPT" n="1"/>
+        <role descr="slower, stopper, agent" f="pag" n="0"/>
+        <role descr="entity reined " f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

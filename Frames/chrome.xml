@@ -2,9 +2,9 @@
   <predicate lemma="chrome">
     <roleset id="chrome.01" name="cover with chrome">
       <roles>
-        <role descr="applier of chrome" f="PAG" n="0"/>
-        <role descr="thing made chrome" f="GOL" n="1"/>
-        <role descr="Chrome itself, type of chrome" f="PPT" n="2"/>
+        <role descr="applier of chrome" f="pag" n="0"/>
+        <role descr="thing made chrome" f="gol" n="1"/>
+        <role descr="Chrome itself, type of chrome" f="ppt" n="2"/>
       </roles>
     </roleset>
   </predicate>

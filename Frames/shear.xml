@@ -2,10 +2,10 @@
   <predicate lemma="shear">
     <roleset id="shear.01" name="slice off, as with scissors">
       <roles>
-        <role descr="agent of cutting" f="PAG" n="0"/>
-        <role descr="thing cut, smaller piece" f="PPT" n="1"/>
-        <role descr="whole, source" f="DIR" n="2"/>
-        <role descr="instrument" f="MNR" n="3"/>
+        <role descr="agent of cutting" f="pag" n="0"/>
+        <role descr="thing cut, smaller piece" f="ppt" n="1"/>
+        <role descr="whole, source" f="dir" n="2"/>
+        <role descr="instrument" f="mnr" n="3"/>
       </roles>
     </roleset>
   </predicate>

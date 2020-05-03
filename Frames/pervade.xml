@@ -2,8 +2,8 @@
   <predicate lemma="pervade">
     <roleset id="pervade.01" name="to spread or diffuse">
       <roles>
-        <role descr="entity spreading" f="PAG" n="0"/>
-        <role descr="entity spread through" f="PPT" n="1"/>
+        <role descr="entity spreading" f="pag" n="0"/>
+        <role descr="entity spread through" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

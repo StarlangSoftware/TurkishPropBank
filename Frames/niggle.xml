@@ -2,8 +2,8 @@
   <predicate lemma="niggle">
     <roleset id="niggle.01" name="worry">
       <roles>
-        <role descr="thing that causes worry" f="PAG" n="1"/>
-        <role descr="worrying entity" f="PPT" n="2"/>
+        <role descr="thing that causes worry" f="pag" n="1"/>
+        <role descr="worrying entity" f="ppt" n="2"/>
       </roles>
     </roleset>
   </predicate>

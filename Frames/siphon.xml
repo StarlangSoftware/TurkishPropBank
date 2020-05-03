@@ -2,17 +2,17 @@
   <predicate lemma="siphon">
     <roleset id="siphon.01" name="to convey through or as if through a siphon">
       <roles>
-        <role descr="conveyor" f="PAG" n="0"/>
-        <role descr="entity siphoned" f="PPT" n="1"/>
-        <role descr="siphoned from" f="DIR" n="2"/>
+        <role descr="conveyor" f="pag" n="0"/>
+        <role descr="entity siphoned" f="ppt" n="1"/>
+        <role descr="siphoned from" f="dir" n="2"/>
       </roles>
     </roleset>
   </predicate>
   <predicate lemma="siphon_off">
     <roleset id="siphon_off.02" name="to convey through or as if through a siphon">
       <roles>
-        <role descr="conveyor, agent" f="PAG" n="0"/>
-        <role descr="entity siphoned" f="PPT" n="1"/>
+        <role descr="conveyor, agent" f="pag" n="0"/>
+        <role descr="entity siphoned" f="ppt" n="1"/>
         <role descr="siphoned from" f="dir" n="2"/>
       </roles>
     </roleset>

@@ -2,8 +2,8 @@
   <predicate lemma="countenance">
     <roleset id="countenance.01" name="to approve, condone">
       <roles>
-        <role descr="agent, causer" f="PAG" n="0"/>
-        <role descr="thing approved" f="PPT" n="1"/>
+        <role descr="agent, causer" f="pag" n="0"/>
+        <role descr="thing approved" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

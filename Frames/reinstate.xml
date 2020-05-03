@@ -2,9 +2,9 @@
   <predicate lemma="reinstate">
     <roleset id="reinstate.01" name="put (back) into some role">
       <roles>
-        <role descr="namer, assigner of a role" f="PAG" n="0"/>
-        <role descr="entity playing the role" f="PPT" n="1"/>
-        <role descr="attribute, role" f="PRD" n="2"/>
+        <role descr="namer, assigner of a role" f="pag" n="0"/>
+        <role descr="entity playing the role" f="ppt" n="1"/>
+        <role descr="attribute, role" f="prd" n="2"/>
       </roles>
     </roleset>
   </predicate>

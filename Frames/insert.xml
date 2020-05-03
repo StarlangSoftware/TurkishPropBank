@@ -2,9 +2,9 @@
   <predicate lemma="insert">
     <roleset id="insert.01" name="to put or set into, between, or among, putting into/between">
       <roles>
-        <role descr="inserter" f="PAG" n="0"/>
-        <role descr="entity inserted" f="PPT" n="1"/>
-        <role descr="inserted where" f="GOL" n="2"/>
+        <role descr="inserter" f="pag" n="0"/>
+        <role descr="entity inserted" f="ppt" n="1"/>
+        <role descr="inserted where" f="gol" n="2"/>
       </roles>
     </roleset>
   </predicate>

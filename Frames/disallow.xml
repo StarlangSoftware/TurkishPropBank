@@ -2,8 +2,8 @@
   <predicate lemma="disallow">
     <roleset id="disallow.01" name="forbid, prohibit">
       <roles>
-        <role descr="entity to set boundaries, agent" f="PAG" n="0"/>
-        <role descr="forbidden action or thing" f="PPT" n="1"/>
+        <role descr="entity to set boundaries, agent" f="pag" n="0"/>
+        <role descr="forbidden action or thing" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

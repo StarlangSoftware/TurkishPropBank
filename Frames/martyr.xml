@@ -2,8 +2,8 @@
   <predicate lemma="martyr">
     <roleset id="martyr.01" name="kill for belief">
       <roles>
-        <role descr="authority, killer" f="PAG" n="0"/>
-        <role descr="martyred" f="PPT" n="1"/>
+        <role descr="authority, killer" f="pag" n="0"/>
+        <role descr="martyred" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

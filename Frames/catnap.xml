@@ -2,8 +2,8 @@
   <predicate lemma="catnap">
     <roleset id="catnap.01" name="take a short nap">
       <roles>
-        <role descr="Napper" f="PAG" n="0"/>
-        <role descr="Cognate object, mention of sleep itself (probably rare)" f="PPT" n="1"/>
+        <role descr="Napper" f="pag" n="0"/>
+        <role descr="Cognate object, mention of sleep itself (probably rare)" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

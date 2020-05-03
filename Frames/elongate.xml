@@ -2,8 +2,8 @@
   <predicate lemma="elongate">
     <roleset id="elongate.01" name="(make/be) longer">
       <roles>
-        <role descr="causer, agent" f="PAG" n="0"/>
-        <role descr="thing getting longer" f="PPT" n="1"/>
+        <role descr="causer, agent" f="pag" n="0"/>
+        <role descr="thing getting longer" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

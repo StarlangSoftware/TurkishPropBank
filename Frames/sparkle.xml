@@ -2,7 +2,7 @@
   <predicate lemma="sparkle">
     <roleset id="sparkle.01" name="emit light, sparkle">
       <roles>
-        <role descr="source of light" f="PPT" n="1"/>
+        <role descr="source of light" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

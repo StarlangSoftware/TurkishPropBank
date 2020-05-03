@@ -2,14 +2,14 @@
   <predicate lemma="overreach">
     <roleset id="overreach.01" name="cause to be strained beyond means">
       <roles>
-        <role descr="agent, cause" f="PAG" n="0"/>
-        <role descr="thing straining beyond means" f="PPT" n="1"/>
+        <role descr="agent, cause" f="pag" n="0"/>
+        <role descr="thing straining beyond means" f="ppt" n="1"/>
       </roles>
     </roleset>
     <roleset id="overreach.02" name="outwit,outdo (as in a race)">
       <roles>
-        <role descr="thing outdoing" f="PPT" n="0"/>
-        <role descr="thing outdone" f="PPT" n="1"/>
+        <role descr="thing outdoing" f="ppt" n="0"/>
+        <role descr="thing outdone" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

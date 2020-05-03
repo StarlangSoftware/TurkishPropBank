@@ -2,8 +2,8 @@
   <predicate lemma="recognize">
     <roleset id="recognize.01" name="applaud/give accolades to">
       <roles>
-        <role descr="applauder" f="PAG" n="0"/>
-        <role descr="entity applauded" f="PPT" n="1"/>
+        <role descr="applauder" f="pag" n="0"/>
+        <role descr="entity applauded" f="ppt" n="1"/>
         <role descr="recognized for/ because of" f="cau" n="2"/>
         <role descr="recognized as" f="prd" n="3"/>
       </roles>

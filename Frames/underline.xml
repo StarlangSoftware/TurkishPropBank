@@ -2,8 +2,8 @@
   <predicate lemma="underline">
     <roleset id="underline.01" name="to draw a line under or emphasize">
       <roles>
-        <role descr="drawer of line, emphasizer, agent" f="PAG" n="0"/>
-        <role descr="entity underlined" f="PPT" n="1"/>
+        <role descr="drawer of line, emphasizer, agent" f="pag" n="0"/>
+        <role descr="entity underlined" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

@@ -2,8 +2,8 @@
   <predicate lemma="clench">
     <roleset id="clench.01" name="hold together very tightly">
       <roles>
-        <role descr="holder" f="PAG" n="0"/>
-        <role descr="clenched thing" f="PPT" n="1"/>
+        <role descr="holder" f="pag" n="0"/>
+        <role descr="clenched thing" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

@@ -2,8 +2,8 @@
   <predicate lemma="reflate">
     <roleset id="reflate.01" name="inflate again">
       <roles>
-        <role descr="inflator" f="PAG" n="0"/>
-        <role descr="thing reflated" f="PPT" n="1"/>
+        <role descr="inflator" f="pag" n="0"/>
+        <role descr="thing reflated" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

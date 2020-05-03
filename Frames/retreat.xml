@@ -10,7 +10,7 @@
     <roleset id="retreat.02" name="quantifiable downward movement, quantifiable (inanimate) downward motion">
       <roles>
         <role descr="thing moving downward" f="ppt" n="1"/>
-        <role descr="EXT" f="ext" n="2"/>
+        <role descr="ext" f="ext" n="2"/>
         <role descr="start point" f="dir" n="3"/>
         <role descr="end point" f="gol" n="4"/>
         <role descr="attribute of arg1 actually in decline (if in addition to arg1)" f="vsp" n="5"/>

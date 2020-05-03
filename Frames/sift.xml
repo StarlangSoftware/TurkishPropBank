@@ -2,8 +2,8 @@
   <predicate lemma="sift">
     <roleset id="sift.01" name="to distinguish and separate out">
       <roles>
-        <role descr="filter, discerning agent" f="PAG" n="0"/>
-        <role descr="entity sifted or sifted through" f="PPT" n="1"/>
+        <role descr="filter, discerning agent" f="pag" n="0"/>
+        <role descr="entity sifted or sifted through" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

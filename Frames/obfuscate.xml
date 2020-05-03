@@ -2,8 +2,8 @@
   <predicate lemma="obfuscate">
     <roleset id="obfuscate.01" name="make confusing, obscuring, causing to be confusing">
       <roles>
-        <role descr="causer of confusion" f="PAG" n="0"/>
-        <role descr="thing confusing" f="PPT" n="1"/>
+        <role descr="causer of confusion" f="pag" n="0"/>
+        <role descr="thing confusing" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

@@ -2,8 +2,8 @@
   <predicate lemma="prearrange">
     <roleset id="prearrange.01" name="arrange in advance">
       <roles>
-        <role descr="arranger" f="PAG" n="0"/>
-        <role descr="thing arranged" f="PPT" n="1"/>
+        <role descr="arranger" f="pag" n="0"/>
+        <role descr="thing arranged" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

@@ -2,8 +2,8 @@
   <predicate lemma="sequester">
     <roleset id="sequester.01" name="to isolate, isolating">
       <roles>
-        <role descr="cause of isolation" f="PAG" n="0"/>
-        <role descr="entity sequestered" f="PPT" n="1"/>
+        <role descr="cause of isolation" f="pag" n="0"/>
+        <role descr="entity sequestered" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

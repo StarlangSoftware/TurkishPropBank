@@ -2,8 +2,8 @@
   <predicate lemma="heft">
     <roleset id="heft.01" name="to hoist of heave">
       <roles>
-        <role descr="hefter" f="PAG" n="0"/>
-        <role descr="thing hefted" f="PPT" n="1"/>
+        <role descr="hefter" f="pag" n="0"/>
+        <role descr="thing hefted" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

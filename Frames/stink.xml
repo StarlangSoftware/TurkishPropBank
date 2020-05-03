@@ -2,7 +2,7 @@
   <predicate lemma="stink">
     <roleset id="stink.01" name="to emit a strong odor">
       <roles>
-        <role descr="entity stinking" f="PPT" n="1"/>
+        <role descr="entity stinking" f="ppt" n="1"/>
       </roles>
     </roleset>
     <roleset id="stink.02" name="be very bad at">

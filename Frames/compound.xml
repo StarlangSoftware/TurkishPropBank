@@ -2,8 +2,8 @@
   <predicate lemma="compound">
     <roleset id="compound.01" name="to combine or increase">
       <roles>
-        <role descr="increaser, agent" f="PAG" n="0"/>
-        <role descr="thing increasing, theme" f="PPT" n="1"/>
+        <role descr="increaser, agent" f="pag" n="0"/>
+        <role descr="thing increasing, theme" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

@@ -2,9 +2,9 @@
   <predicate lemma="indurate">
     <roleset id="indurate.01" name="make or become harder, hardened">
       <roles>
-        <role descr="Cause of hardening" f="PAG" n="0"/>
-        <role descr="Entity hardened" f="PPT" n="1"/>
-        <role descr="Instrument" f="MNR" n="2"/>
+        <role descr="Cause of hardening" f="pag" n="0"/>
+        <role descr="Entity hardened" f="ppt" n="1"/>
+        <role descr="Instrument" f="mnr" n="2"/>
       </roles>
     </roleset>
   </predicate>

@@ -2,22 +2,22 @@
   <predicate lemma="tug">
     <roleset id="tug.01" name="carry by tugging">
       <roles>
-        <role descr="dragger" f="PAG" n="0"/>
-        <role descr="thing dragged" f="PPT" n="1"/>
-        <role descr="direction, destination" f="GOL" n="2"/>
+        <role descr="dragger" f="pag" n="0"/>
+        <role descr="thing dragged" f="ppt" n="1"/>
+        <role descr="direction, destination" f="gol" n="2"/>
       </roles>
     </roleset>
     <roleset id="tug.02" name="pull (on)">
       <roles>
-        <role descr="puller" f="PAG" n="0"/>
-        <role descr="thing pulled" f="PPT" n="1"/>
+        <role descr="puller" f="pag" n="0"/>
+        <role descr="thing pulled" f="ppt" n="1"/>
       </roles>
     </roleset>
     <roleset id="tug.03" name="pull with end result">
       <roles>
-        <role descr="puller, tugger" f="PAG" n="0"/>
-        <role descr="thing tugged" f="PPT" n="1"/>
-        <role descr="other thing tugged or secondary attribute, result of arg1" f="PPT" n="2"/>
+        <role descr="puller, tugger" f="pag" n="0"/>
+        <role descr="thing tugged" f="ppt" n="1"/>
+        <role descr="other thing tugged or secondary attribute, result of arg1" f="ppt" n="2"/>
       </roles>
     </roleset>
   </predicate>

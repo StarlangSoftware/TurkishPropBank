@@ -2,9 +2,9 @@
   <predicate lemma="atomize">
     <roleset id="atomize.01" name="to cause to be dispersed">
       <roles>
-        <role descr="agent, causing the dispersion" f="PAG" n="0"/>
-        <role descr="thing dispersing" f="PPT" n="1"/>
-        <role descr="instrument" f="MNR" n="2"/>
+        <role descr="agent, causing the dispersion" f="pag" n="0"/>
+        <role descr="thing dispersing" f="ppt" n="1"/>
+        <role descr="instrument" f="mnr" n="2"/>
       </roles>
     </roleset>
   </predicate>

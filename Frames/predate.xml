@@ -15,7 +15,7 @@
     </roleset>
     <roleset id="predate.03" name="mark with a previous date">
       <roles>
-        <role descr="agent-- entity assigning a date" f="PAG" n="0"/>
+        <role descr="agent-- entity assigning a date" f="pag" n="0"/>
         <role descr="thing assigned a date" f="ppt" n="1"/>
         <role descr="date assigned, value or extent" f="ext" n="2"/>
       </roles>

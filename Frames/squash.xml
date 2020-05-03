@@ -2,8 +2,8 @@
   <predicate lemma="squash">
     <roleset id="squash.01" name="compress violently">
       <roles>
-        <role descr="agent of compression" f="PAG" n="0"/>
-        <role descr="patient of compression" f="PPT" n="1"/>
+        <role descr="agent of compression" f="pag" n="0"/>
+        <role descr="patient of compression" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

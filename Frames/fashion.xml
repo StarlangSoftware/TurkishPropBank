@@ -2,8 +2,8 @@
   <predicate lemma="fashion">
     <roleset id="fashion.01" name="to make out of components">
       <roles>
-        <role descr="maker, agent" f="PAG" n="0"/>
-        <role descr="entity fashioned" f="PRD" n="1"/>
+        <role descr="maker, agent" f="pag" n="0"/>
+        <role descr="entity fashioned" f="prd" n="1"/>
       </roles>
     </roleset>
   </predicate>

@@ -2,16 +2,16 @@
   <predicate lemma="nullify">
     <roleset id="nullify.01" name="cause to not exist, be void">
       <roles>
-        <role descr="cause, agent" f="PAG" n="0"/>
-        <role descr="thing going poof" f="PPT" n="1"/>
+        <role descr="cause, agent" f="pag" n="0"/>
+        <role descr="thing going poof" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>
   <predicate lemma="null">
     <roleset id="null.02" name="cause to not exist, not vaild, not in effect">
       <roles>
-        <role descr="cause, agent" f="PAG" n="0"/>
-        <role descr="thing going poof" f="PPT" n="1"/>
+        <role descr="cause, agent" f="pag" n="0"/>
+        <role descr="thing going poof" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

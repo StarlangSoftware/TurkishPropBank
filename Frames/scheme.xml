@@ -2,9 +2,9 @@
   <predicate lemma="scheme">
     <roleset id="scheme.01" name="work together for nefarious purposes">
       <roles>
-        <role descr="schemer" f="PAG" n="0"/>
+        <role descr="schemer" f="pag" n="0"/>
         <role descr="job, project" f="ppt" n="1"/>
-        <role descr="co-schemer" f="COM" n="2"/>
+        <role descr="co-schemer" f="com" n="2"/>
       </roles>
     </roleset>
   </predicate>

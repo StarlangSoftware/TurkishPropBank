@@ -9,7 +9,7 @@
   <predicate lemma="cave_in">
     <roleset id="cave_in.02" name="collapse, phrasal">
       <roles>
-        <role descr="thing caving in" f="PPT" n="1"/>
+        <role descr="thing caving in" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

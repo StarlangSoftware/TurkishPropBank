@@ -9,7 +9,7 @@
     </roleset>
     <roleset id="claim.02" name="seize">
       <roles>
-        <role descr="claim staker" f="PAG" n="0"/>
+        <role descr="claim staker" f="pag" n="0"/>
         <role descr="property" f="ppt" n="1"/>
         <role descr="beneficiary" f="gol" n="2"/>
       </roles>

@@ -2,8 +2,8 @@
   <predicate lemma="wallop">
     <roleset id="wallop.01" name="wallop">
       <roles>
-        <role descr="walloper" f="PAG" n="0"/>
-        <role descr="thing walloped" f="PPT" n="1"/>
+        <role descr="walloper" f="pag" n="0"/>
+        <role descr="thing walloped" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

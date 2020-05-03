@@ -2,8 +2,8 @@
   <predicate lemma="reassess">
     <roleset id="reassess.01" name="think about again, evaluate again">
       <roles>
-        <role descr="thinker" f="PAG" n="0"/>
-        <role descr="subject of thought" f="PPT" n="1"/>
+        <role descr="thinker" f="pag" n="0"/>
+        <role descr="subject of thought" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

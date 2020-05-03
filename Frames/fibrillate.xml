@@ -3,7 +3,7 @@
     <roleset id="fibrillate.01" name="contracting rapidly, irregularly">
       <roles>
         <role descr="Entity fibrillating (heart)" f="ppt" n="1"/>
-        <role descr="EXT" f="ext" n="2"/>
+        <role descr="ext" f="ext" n="2"/>
       </roles>
     </roleset>
   </predicate>

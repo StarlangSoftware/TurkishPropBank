@@ -3,7 +3,7 @@
     <roleset id="zoom.01" name="move quickly">
       <roles>
         <role descr="entity moved" f="ppt" n="1"/>
-        <role descr="EXT" f="ext" n="2"/>
+        <role descr="ext" f="ext" n="2"/>
         <role descr="start point" f="dir" n="3"/>
         <role descr="end point" f="loc" n="4"/>
         <role descr="medium" f="mnr" n="m"/>

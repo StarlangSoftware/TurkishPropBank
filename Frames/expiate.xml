@@ -2,8 +2,8 @@
   <predicate lemma="expiate">
     <roleset id="expiate.01" name="atone for">
       <roles>
-        <role descr="sinner" f="PAG" n="0"/>
-        <role descr="sin" f="PPT" n="1"/>
+        <role descr="sinner" f="pag" n="0"/>
+        <role descr="sin" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

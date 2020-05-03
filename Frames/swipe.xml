@@ -9,9 +9,9 @@
     </roleset>
     <roleset id="swipe.02" name="steal">
       <roles>
-        <role descr="thief" f="PAG" n="0"/>
-        <role descr="goods" f="PPT" n="1"/>
-        <role descr="source, swiped from whom?" f="DIR" n="2"/>
+        <role descr="thief" f="pag" n="0"/>
+        <role descr="goods" f="ppt" n="1"/>
+        <role descr="source, swiped from whom?" f="dir" n="2"/>
       </roles>
     </roleset>
   </predicate>

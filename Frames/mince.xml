@@ -2,15 +2,15 @@
   <predicate lemma="mince">
     <roleset id="mince.01" name="walk like a girl (sorry)">
       <roles>
-        <role descr="entity in motion" f="PPT" n="0"/>
-        <role descr="path" f="LOC" n="1"/>
+        <role descr="entity in motion" f="ppt" n="0"/>
+        <role descr="path" f="loc" n="1"/>
       </roles>
     </roleset>
     <roleset id="mince.02" name="chop finely">
       <roles>
-        <role descr="cook" f="PAG" n="0"/>
-        <role descr="ingredient" f="PPT" n="1"/>
-        <role descr="knife" f="MNR" n="2"/>
+        <role descr="cook" f="pag" n="0"/>
+        <role descr="ingredient" f="ppt" n="1"/>
+        <role descr="knife" f="mnr" n="2"/>
       </roles>
     </roleset>
   </predicate>

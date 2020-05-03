@@ -2,14 +2,14 @@
   <predicate lemma="crucify">
     <roleset id="crucify.01" name="kill by means of mounting on cross">
       <roles>
-        <role descr="agent, crucifier" f="PAG" n="0"/>
-        <role descr="person being crucified" f="PPT" n="1"/>
+        <role descr="agent, crucifier" f="pag" n="0"/>
+        <role descr="person being crucified" f="ppt" n="1"/>
       </roles>
     </roleset>
     <roleset id="crucify.02" name="treat cruelly">
       <roles>
-        <role descr="agent, mistreater" f="PAG" n="0"/>
-        <role descr="person being mistreated" f="PPT" n="1"/>
+        <role descr="agent, mistreater" f="pag" n="0"/>
+        <role descr="person being mistreated" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

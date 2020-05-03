@@ -2,8 +2,8 @@
   <predicate lemma="defuse">
     <roleset id="defuse.01" name="render a bomb safe">
       <roles>
-        <role descr="defuser" f="PAG" n="0"/>
-        <role descr="bomb" f="PPT" n="1"/>
+        <role descr="defuser" f="pag" n="0"/>
+        <role descr="bomb" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

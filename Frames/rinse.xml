@@ -2,8 +2,8 @@
   <predicate lemma="rinse">
     <roleset id="rinse.01" name="clean, remove dirt">
       <roles>
-        <role descr="entity rinsing" f="PAG" n="0"/>
-        <role descr="dirt; thing being removed to make clean" f="PPT" n="1"/>
+        <role descr="entity rinsing" f="pag" n="0"/>
+        <role descr="dirt; thing being removed to make clean" f="ppt" n="1"/>
         <role descr="thing being rinsed" f="dir" n="2"/>
       </roles>
     </roleset>

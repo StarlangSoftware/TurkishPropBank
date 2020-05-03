@@ -2,9 +2,9 @@
   <predicate lemma="evict">
     <roleset id="evict.01" name="to put out a tenant by legal process">
       <roles>
-        <role descr="landlord" f="PAG" n="0"/>
-        <role descr="tennant" f="PPT" n="1"/>
-        <role descr="domicile" f="DIR" n="2"/>
+        <role descr="landlord" f="pag" n="0"/>
+        <role descr="tennant" f="ppt" n="1"/>
+        <role descr="domicile" f="dir" n="2"/>
       </roles>
     </roleset>
   </predicate>

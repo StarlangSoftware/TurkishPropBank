@@ -2,16 +2,16 @@
   <predicate lemma="solidify">
     <roleset id="solidify.01" name="(cause to) become solid, strong, or united, hard, dense, sturdy, reliable">
       <roles>
-        <role descr="cause of solidification" f="PAG" n="0"/>
-        <role descr="entity made strong" f="PPT" n="1"/>
+        <role descr="cause of solidification" f="pag" n="0"/>
+        <role descr="entity made strong" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>
   <predicate lemma="solid">
     <roleset id="solid.02" name="be in a solid state, strong, united, hard, dense, sturdy, reliable">
       <roles>
-        <role descr="causer of solidity" f="PAG" n="0"/>
-        <role descr="solid entity" f="PPT" n="1"/>
+        <role descr="causer of solidity" f="pag" n="0"/>
+        <role descr="solid entity" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

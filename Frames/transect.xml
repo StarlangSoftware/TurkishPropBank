@@ -2,8 +2,8 @@
   <predicate lemma="transect">
     <roleset id="transect.01" name="cut transversly, dividing by cutting transversely">
       <roles>
-        <role descr="Causer of transection" f="PAG" n="0"/>
-        <role descr="tissues or entity transected" f="PPT" n="1"/>
+        <role descr="Causer of transection" f="pag" n="0"/>
+        <role descr="tissues or entity transected" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

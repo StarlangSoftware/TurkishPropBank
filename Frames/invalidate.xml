@@ -2,8 +2,8 @@
   <predicate lemma="invalidate">
     <roleset id="invalidate.01" name="cause to be/show to be invalid">
       <roles>
-        <role descr="demonstrator of invalidity" f="PAG" n="0"/>
-        <role descr="invalid thing" f="PPT" n="1"/>
+        <role descr="demonstrator of invalidity" f="pag" n="0"/>
+        <role descr="invalid thing" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

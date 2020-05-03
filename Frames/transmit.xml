@@ -2,9 +2,9 @@
   <predicate lemma="transmit">
     <roleset id="transmit.01" name="send (electronically), send or pass on">
       <roles>
-        <role descr="sender" f="PAG" n="0"/>
-        <role descr="sent" f="PPT" n="1"/>
-        <role descr="sent-to" f="GOL" n="2"/>
+        <role descr="sender" f="pag" n="0"/>
+        <role descr="sent" f="ppt" n="1"/>
+        <role descr="sent-to" f="gol" n="2"/>
       </roles>
     </roleset>
   </predicate>

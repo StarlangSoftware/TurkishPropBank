@@ -2,7 +2,7 @@
   <predicate lemma="sputter">
     <roleset id="sputter.01" name="make sounds like a motorboat">
       <roles>
-        <role descr="maker of sounds" f="PAG" n="0"/>
+        <role descr="maker of sounds" f="pag" n="0"/>
       </roles>
     </roleset>
   </predicate>

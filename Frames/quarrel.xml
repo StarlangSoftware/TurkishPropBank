@@ -3,7 +3,7 @@
     <roleset id="quarrel.01" name="disagree">
       <roles>
         <role descr="a person engaged in a quarrel" f="pag" n="0"/>
-        <role descr="other person quarreling" f="COM" n="1"/>
+        <role descr="other person quarreling" f="com" n="1"/>
         <role descr="topic" f="ppt" n="2"/>
       </roles>
     </roleset>

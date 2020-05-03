@@ -2,16 +2,16 @@
   <predicate lemma="forge">
     <roleset id="forge.01" name="create a counterfeit">
       <roles>
-        <role descr="counterfeiter" f="PAG" n="0"/>
-        <role descr="copied" f="PPT" n="1"/>
+        <role descr="counterfeiter" f="pag" n="0"/>
+        <role descr="copied" f="ppt" n="1"/>
       </roles>
     </roleset>
     <roleset id="forge.02" name="make, create">
       <roles>
-        <role descr="builder" f="PAG" n="0"/>
-        <role descr="construction" f="PRD" n="1"/>
-        <role descr="material, start state" f="VSP" n="2"/>
-        <role descr="end state" f="PRD" n="4"/>
+        <role descr="builder" f="pag" n="0"/>
+        <role descr="construction" f="prd" n="1"/>
+        <role descr="material, start state" f="vsp" n="2"/>
+        <role descr="end state" f="prd" n="4"/>
       </roles>
     </roleset>
   </predicate>

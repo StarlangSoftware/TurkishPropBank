@@ -2,33 +2,33 @@
   <predicate lemma="belt">
     <roleset id="belt.01" name="sing loudly and forcefully">
       <roles>
-        <role descr="loud singer" f="PAG" n="0"/>
-        <role descr="song" f="PPT" n="1"/>
-        <role descr="audience" f="GOL" n="2"/>
+        <role descr="loud singer" f="pag" n="0"/>
+        <role descr="song" f="ppt" n="1"/>
+        <role descr="audience" f="gol" n="2"/>
       </roles>
     </roleset>
     <roleset id="belt.02" name="deliver a blow to, possibly with a belt">
       <roles>
-        <role descr="agent hitter" f="PAG" n="0"/>
-        <role descr="patient, entity hit" f="PPT" n="1"/>
-        <role descr="instrument" f="MNR" n="2"/>
+        <role descr="agent hitter" f="pag" n="0"/>
+        <role descr="patient, entity hit" f="ppt" n="1"/>
+        <role descr="instrument" f="mnr" n="2"/>
       </roles>
     </roleset>
     <roleset id="belt.03" name="fasten with a belt">
       <roles>
-        <role descr="agent, person fastening the belt" f="PAG" n="0"/>
+        <role descr="agent, person fastening the belt" f="pag" n="0"/>
         <role descr="first (or all) thing(s) fastened with a belt" f="ppt" n="1"/>
         <role descr="additional thing(s), destination" f="ppt" n="2"/>
-        <role descr="instrument, thing acting as a belt" f="MNR" n="3"/>
+        <role descr="instrument, thing acting as a belt" f="mnr" n="3"/>
       </roles>
     </roleset>
   </predicate>
   <predicate lemma="belt_out">
     <roleset id="belt_out.05" name="belt_out">
       <roles>
-        <role descr="loud singer" f="PAG" n="0"/>
-        <role descr="song" f="PPT" n="1"/>
-        <role descr="audience" f="GOL" n="2"/>
+        <role descr="loud singer" f="pag" n="0"/>
+        <role descr="song" f="ppt" n="1"/>
+        <role descr="audience" f="gol" n="2"/>
       </roles>
     </roleset>
   </predicate>

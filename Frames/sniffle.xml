@@ -2,7 +2,7 @@
   <predicate lemma="sniffle">
     <roleset id="sniffle.01" name="sniffle">
       <roles>
-        <role descr="sniffler, agent" f="PAG" n="0"/>
+        <role descr="sniffler, agent" f="pag" n="0"/>
       </roles>
     </roleset>
   </predicate>

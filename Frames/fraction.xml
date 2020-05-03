@@ -2,8 +2,8 @@
   <predicate lemma="fraction">
     <roleset id="fraction.01" name="turn a whole into many small   pieces">
       <roles>
-        <role descr="causer, agent" f="PAG" n="0"/>
-        <role descr="whole" f="PPT" n="1"/>
+        <role descr="causer, agent" f="pag" n="0"/>
+        <role descr="whole" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

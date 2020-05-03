@@ -2,7 +2,7 @@
   <predicate lemma="salvation">
     <roleset id="salvation.01" name="deliver from mortal or immortal danger/destruction">
       <roles>
-        <role descr="savior" f="PAG" n="0"/>
+        <role descr="savior" f="pag" n="0"/>
         <role descr="entity saved" f="ppt" n="1"/>
         <role descr="saved from" f="vsp" n="2"/>
       </roles>

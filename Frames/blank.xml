@@ -2,7 +2,7 @@
   <predicate lemma="blank">
     <roleset id="blank.01" name="intentially ignore social interaction">
       <roles>
-        <role descr="intentional ignorer" f="PAG" n="0"/>
+        <role descr="intentional ignorer" f="pag" n="0"/>
         <role descr="ignored" f="ppt" n="1"/>
       </roles>
     </roleset>

@@ -8,8 +8,8 @@
     <roleset id="seed.02" name="plant seeds (or 'seeds')">
       <roles>
         
-        <role descr="the farmer" f="PAG" n="0"/>
-        <role descr="the ground" f="GOL" n="1"/>
+        <role descr="the farmer" f="pag" n="0"/>
+        <role descr="the ground" f="gol" n="1"/>
         <role descr="the seeds" f="ppt" n="2"/>
       </roles>
     </roleset>

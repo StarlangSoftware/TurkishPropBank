@@ -2,7 +2,7 @@
   <predicate lemma="smut">
     <roleset id="smut.01" name="make obscene">
       <roles>
-        <role descr="cause of obsceneness" f="PAG" n="0"/>
+        <role descr="cause of obsceneness" f="pag" n="0"/>
         <role descr="affected entity" f="ppt" n="1"/>
       </roles>
     </roleset>
@@ -13,9 +13,9 @@
     </roleset>
     <roleset id="smut.03" name="stain with a dirty substance">
       <roles>
-        <role descr="causer of stain" f="PAG" n="0"/>
-        <role descr="dirt" f="PPT" n="1"/>
-        <role descr="stained item" f="GOL" n="2"/>
+        <role descr="causer of stain" f="pag" n="0"/>
+        <role descr="dirt" f="ppt" n="1"/>
+        <role descr="stained item" f="gol" n="2"/>
       </roles>
     </roleset>
   </predicate>

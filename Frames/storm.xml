@@ -2,12 +2,12 @@
   <predicate lemma="storm">
     <roleset id="storm.01" name="bad weather">
       <roles>
-        <role descr="Cognate object, entity stormed e.g. cats and dogs, golf balls, rain itself" f="PPT" n="1"/>
+        <role descr="Cognate object, entity stormed e.g. cats and dogs, golf balls, rain itself" f="ppt" n="1"/>
       </roles>
     </roleset>
     <roleset id="storm.02" name="move violently">
       <roles>
-        <role descr="entity in motion" f="PAG" n="0"/>
+        <role descr="entity in motion" f="pag" n="0"/>
         <role descr="path" f="dir" n="1"/>
       </roles>
     </roleset>

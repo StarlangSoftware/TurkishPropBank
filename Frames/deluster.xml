@@ -2,8 +2,8 @@
   <predicate lemma="deluster">
     <roleset id="deluster.01" name="remove the sheen">
       <roles>
-        <role descr="remover" f="PAG" n="0"/>
-        <role descr="thing delustered" f="DIR" n="1"/>
+        <role descr="remover" f="pag" n="0"/>
+        <role descr="thing delustered" f="dir" n="1"/>
       </roles>
     </roleset>
   </predicate>

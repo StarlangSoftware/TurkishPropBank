@@ -2,8 +2,8 @@
   <predicate lemma="circumcise">
     <roleset id="circumcise.01" name="perform circumcision, surgical removal of foreskin">
       <roles>
-        <role descr="agent, cause" f="PAG" n="0"/>
-        <role descr="thing circumcised" f="PPT" n="1"/>
+        <role descr="agent, cause" f="pag" n="0"/>
+        <role descr="thing circumcised" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

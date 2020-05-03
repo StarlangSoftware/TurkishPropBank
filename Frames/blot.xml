@@ -2,8 +2,8 @@
   <predicate lemma="blot_out">
     <roleset id="blot_out.01" name="to obliterate, obscure">
       <roles>
-        <role descr="blotter, agent" f="PAG" n="0"/>
-        <role descr="entity blotted" f="PPT" n="1"/>
+        <role descr="blotter, agent" f="pag" n="0"/>
+        <role descr="entity blotted" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

@@ -2,8 +2,8 @@
   <predicate lemma="haunt">
     <roleset id="haunt.01" name="act like a ghost">
       <roles>
-        <role descr="ghost" f="PAG" n="0"/>
-        <role descr="haunted house (eg)" f="PPT" n="1"/>
+        <role descr="ghost" f="pag" n="0"/>
+        <role descr="haunted house (eg)" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

@@ -2,8 +2,8 @@
   <predicate lemma="motorize">
     <roleset id="motorize.01" name="attach a motor to, have a motor">
       <roles>
-        <role descr="attacher of motor" f="PAG" n="0"/>
-        <role descr="thing with motor" f="PPT" n="1"/>
+        <role descr="attacher of motor" f="pag" n="0"/>
+        <role descr="thing with motor" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

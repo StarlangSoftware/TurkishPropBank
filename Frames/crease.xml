@@ -2,8 +2,8 @@
   <predicate lemma="crease">
     <roleset id="crease.01" name="become wrinkled, folded">
       <roles>
-        <role descr="agent, causer of creasing" f="PAG" n="0"/>
-        <role descr="entity being creased" f="PPT" n="1"/>
+        <role descr="agent, causer of creasing" f="pag" n="0"/>
+        <role descr="entity being creased" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

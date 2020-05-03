@@ -2,8 +2,8 @@
   <predicate lemma="catholicize">
     <roleset id="catholicize.01" name="make catholic">
       <roles>
-        <role descr="agent, catholicizing entity" f="PAG" n="0"/>
-        <role descr="entity catholicized" f="PPT" n="1"/>
+        <role descr="agent, catholicizing entity" f="pag" n="0"/>
+        <role descr="entity catholicized" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

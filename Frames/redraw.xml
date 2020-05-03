@@ -2,9 +2,9 @@
   <predicate lemma="redraw">
     <roleset id="redraw.01" name="redraw">
       <roles>
-        <role descr="redrawer, agent" f="PAG" n="0"/>
-        <role descr="thing redrawn, theme" f="PPT" n="1"/>
-        <role descr="redrawn as what, predicate" f="PRD" n="2"/>
+        <role descr="redrawer, agent" f="pag" n="0"/>
+        <role descr="thing redrawn, theme" f="ppt" n="1"/>
+        <role descr="redrawn as what, predicate" f="prd" n="2"/>
       </roles>
     </roleset>
   </predicate>

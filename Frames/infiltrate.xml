@@ -2,8 +2,8 @@
   <predicate lemma="infiltrate">
     <roleset id="infiltrate.01" name="get in, sneakily">
       <roles>
-        <role descr="infiltrator, agent" f="PAG" n="0"/>
-        <role descr="into what" f="PPT" n="1"/>
+        <role descr="infiltrator, agent" f="pag" n="0"/>
+        <role descr="into what" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

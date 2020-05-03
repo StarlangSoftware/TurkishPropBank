@@ -2,8 +2,8 @@
   <predicate lemma="tango">
     <roleset id="tango.01" name="style of dance">
       <roles>
-        <role descr="two" f="PPT" n="0"/>
-        <role descr="explicit mention of dance itself (rare), or path" f="LOC" n="1"/>
+        <role descr="two" f="ppt" n="0"/>
+        <role descr="explicit mention of dance itself (rare), or path" f="loc" n="1"/>
       </roles>
     </roleset>
   </predicate>

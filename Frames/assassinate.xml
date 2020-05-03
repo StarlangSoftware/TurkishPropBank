@@ -2,8 +2,8 @@
   <predicate lemma="assassinate">
     <roleset id="assassinate.01" name="to murder">
       <roles>
-        <role descr="assassin, agent" f="PAG" n="0"/>
-        <role descr="person assassinated" f="PPT" n="1"/>
+        <role descr="assassin, agent" f="pag" n="0"/>
+        <role descr="person assassinated" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

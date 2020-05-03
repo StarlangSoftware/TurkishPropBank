@@ -2,8 +2,8 @@
   <predicate lemma="undo">
     <roleset id="undo.01" name="to reverse or annul">
       <roles>
-        <role descr="doer of deed, agent" f="PAG" n="0"/>
-        <role descr="entity undone" f="PPT" n="1"/>
+        <role descr="doer of deed, agent" f="pag" n="0"/>
+        <role descr="entity undone" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

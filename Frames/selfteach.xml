@@ -2,7 +2,7 @@
   <predicate lemma="selfteach">
     <roleset id="selfteach.01" name="teach oneself">
       <roles>
-        <role descr="teacher" f="PAG" n="0"/>
+        <role descr="teacher" f="pag" n="0"/>
         <role descr="subject" f="ppt" n="1"/>
         <role descr="student (self, obviously)" f="gol" n="2"/>
       </roles>

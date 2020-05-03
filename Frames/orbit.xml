@@ -2,8 +2,8 @@
   <predicate lemma="orbit">
     <roleset id="orbit.01" name="revolve around a central point">
       <roles>
-        <role descr="revolving entity" f="PAG" n="0"/>
-        <role descr="point orbited" f="PPT" n="1"/>
+        <role descr="revolving entity" f="pag" n="0"/>
+        <role descr="point orbited" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

@@ -2,8 +2,8 @@
   <predicate lemma="hardboil">
     <roleset id="hardboil.01" name="boil">
       <roles>
-        <role descr="cook" f="PAG" n="0"/>
-        <role descr="food" f="PPT" n="1"/>
+        <role descr="cook" f="pag" n="0"/>
+        <role descr="food" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

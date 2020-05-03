@@ -2,17 +2,17 @@
   <predicate lemma="store">
     <roleset id="store.01" name="store, keeping for later use">
       <roles>
-        <role descr="storer" f="PAG" n="0"/>
-        <role descr="commodity" f="PPT" n="1"/>
-        <role descr="location" f="LOC" n="2"/>
+        <role descr="storer" f="pag" n="0"/>
+        <role descr="commodity" f="ppt" n="1"/>
+        <role descr="location" f="loc" n="2"/>
       </roles>
     </roleset>
   </predicate>
   <predicate lemma="store_up">
     <roleset id="store_up.02" name="store up: same as store.01">
       <roles>
-        <role descr="storer" f="PAG" n="0"/>
-        <role descr="commodity" f="PPT" n="1"/>
+        <role descr="storer" f="pag" n="0"/>
+        <role descr="commodity" f="ppt" n="1"/>
         <role descr="benefactive" f="gol" n="2"/>
       </roles>
     </roleset>

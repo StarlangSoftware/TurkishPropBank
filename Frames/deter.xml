@@ -3,7 +3,7 @@
     <roleset id="deter.01" name="deter, scare away">
       <roles>
         <role descr="agent, deterer" f="pag" n="0"/>
-        <role descr="patient, entity deterred" f="GOL" n="1"/>
+        <role descr="patient, entity deterred" f="gol" n="1"/>
         <role descr="secondary action (deter from X)" f="ppt" n="2"/>
         <role descr="instrument, if separate from arg0" f="mnr" n="3"/>
       </roles>

@@ -2,8 +2,8 @@
   <predicate lemma="epitomize">
     <roleset id="epitomize.01" name="to be typical of or sum up">
       <roles>
-        <role descr="entity epitomizing" f="PAG" n="0"/>
-        <role descr="entity epitomized" f="PPT" n="1"/>
+        <role descr="entity epitomizing" f="pag" n="0"/>
+        <role descr="entity epitomized" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

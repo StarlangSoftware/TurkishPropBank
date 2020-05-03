@@ -2,8 +2,8 @@
   <predicate lemma="patient">
     <roleset id="patient.01" name="patient">
       <roles>
-        <role descr="patient entity" f="PPT" n="1"/>
-        <role descr="patient with/about what/whom?" f="PPT" n="2"/>
+        <role descr="patient entity" f="ppt" n="1"/>
+        <role descr="patient with/about what/whom?" f="ppt" n="2"/>
       </roles>
     </roleset>
   </predicate>

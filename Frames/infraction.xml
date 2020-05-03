@@ -2,7 +2,7 @@
   <predicate lemma="infraction">
     <roleset id="infraction.01" name="violation">
       <roles>
-        <role descr="violator" f="PAG" n="0"/>
+        <role descr="violator" f="pag" n="0"/>
         <role descr="thing violated" f="ppt" n="1"/>
       </roles>
     </roleset>

@@ -2,9 +2,9 @@
   <predicate lemma="devote">
     <roleset id="devote.01" name="make a strong connection with">
       <roles>
-        <role descr="causer of devotion" f="PAG" n="0"/>
-        <role descr="thing devoted" f="PPT" n="1"/>
-        <role descr="devoted to" f="GOL" n="2"/>
+        <role descr="causer of devotion" f="pag" n="0"/>
+        <role descr="thing devoted" f="ppt" n="1"/>
+        <role descr="devoted to" f="gol" n="2"/>
       </roles>
     </roleset>
   </predicate>

@@ -3,7 +3,7 @@
     <roleset id="involve.01" name="include, connected, associated, wrapped up in">
       <roles>
         
-        <role descr="causer of inclusion" f="PAG" n="0"/>
+        <role descr="causer of inclusion" f="pag" n="0"/>
         <role descr="theme, thing being included into a group" f="ppt" n="1"/>
         <role descr="group" f="ppt" n="2"/>
       </roles>

@@ -18,7 +18,7 @@
       <roles>
         <role descr="trapper" f="pag" n="0"/>
         <role descr="trapped" f="ppt" n="1"/>
-        <role descr="trap, either place or instrument" f="MNR" n="2"/>
+        <role descr="trap, either place or instrument" f="mnr" n="2"/>
       </roles>
     </roleset>
   </predicate>

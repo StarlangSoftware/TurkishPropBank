@@ -2,18 +2,18 @@
   <predicate lemma="loosen">
     <roleset id="loosen.01" name="(cause to) become loose">
       <roles>
-        <role descr="causer of loosening" f="PAG" n="0"/>
-        <role descr="thing becoming loose" f="PPT" n="1"/>
-        <role descr="instrument, if separate from arg0" f="MNR" n="2"/>
+        <role descr="causer of loosening" f="pag" n="0"/>
+        <role descr="thing becoming loose" f="ppt" n="1"/>
+        <role descr="instrument, if separate from arg0" f="mnr" n="2"/>
       </roles>
     </roleset>
   </predicate>
   <predicate lemma="loosen_up">
     <roleset id="loosen_up.02" name="make loose">
       <roles>
-        <role descr="causer of loosening" f="PAG" n="0"/>
-        <role descr="thing becoming loose" f="PPT" n="1"/>
-        <role descr="instrument, if separate from arg0" f="MNR" n="2"/>
+        <role descr="causer of loosening" f="pag" n="0"/>
+        <role descr="thing becoming loose" f="ppt" n="1"/>
+        <role descr="instrument, if separate from arg0" f="mnr" n="2"/>
       </roles>
     </roleset>
   </predicate>
@@ -33,9 +33,9 @@
     </roleset>
     <roleset id="loose.05" name="free; release from captivity, particularly with intent to harm another">
       <roles>
-        <role descr="releaser" f="PAG" n="0"/>
-        <role descr="thing released" f="PPT" n="1"/>
-        <role descr="released upon; maleficiary" f="GOL" n="2"/>
+        <role descr="releaser" f="pag" n="0"/>
+        <role descr="thing released" f="ppt" n="1"/>
+        <role descr="released upon; maleficiary" f="gol" n="2"/>
       </roles>
     </roleset>
   </predicate>

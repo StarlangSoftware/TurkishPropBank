@@ -2,8 +2,8 @@
   <predicate lemma="mobilize">
     <roleset id="mobilize.01" name="cause to be in motion, summon to arms, be in motion">
       <roles>
-        <role descr="mobilizer" f="PAG" n="0"/>
-        <role descr="thing mobilized" f="PPT" n="1"/>
+        <role descr="mobilizer" f="pag" n="0"/>
+        <role descr="thing mobilized" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

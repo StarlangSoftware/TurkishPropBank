@@ -2,8 +2,8 @@
   <predicate lemma="tramp">
     <roleset id="tramp.01" name="mode of motion">
       <roles>
-        <role descr="entity in motion" f="PPT" n="0"/>
-        <role descr="path" f="LOC" n="1"/>
+        <role descr="entity in motion" f="ppt" n="0"/>
+        <role descr="path" f="loc" n="1"/>
       </roles>
     </roleset>
   </predicate>

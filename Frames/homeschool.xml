@@ -2,8 +2,8 @@
   <predicate lemma="homeschool">
     <roleset id="homeschool.01" name="attend school at home">
       <roles>
-        <role descr="teacher" f="PAG" n="0"/>
-        <role descr="student" f="PPT" n="1"/>
+        <role descr="teacher" f="pag" n="0"/>
+        <role descr="student" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

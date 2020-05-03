@@ -2,9 +2,9 @@
   <predicate lemma="depart">
     <roleset id="depart.01" name="to go away, leave">
       <roles>
-        <role descr="entity leaving, agent" f="PAG" n="0"/>
-        <role descr="departed from" f="DIR" n="1"/>
-        <role descr="departed for, destination" f="GOL" n="2"/>
+        <role descr="entity leaving, agent" f="pag" n="0"/>
+        <role descr="departed from" f="dir" n="1"/>
+        <role descr="departed for, destination" f="gol" n="2"/>
       </roles>
     </roleset>
   </predicate>

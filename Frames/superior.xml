@@ -2,9 +2,9 @@
   <predicate lemma="superior">
     <roleset id="superior.01" name="superior">
       <roles>
-        <role descr="superior entity" f="PPT" n="1"/>
-        <role descr="superior to what/whom?" f="VSP" n="2"/>
-        <role descr="domain of superiority" f="ADV" n="3"/>
+        <role descr="superior entity" f="ppt" n="1"/>
+        <role descr="superior to what/whom?" f="vsp" n="2"/>
+        <role descr="domain of superiority" f="adv" n="3"/>
       </roles>
     </roleset>
   </predicate>

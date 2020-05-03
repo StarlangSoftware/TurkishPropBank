@@ -2,9 +2,9 @@
   <predicate lemma="bronze">
     <roleset id="bronze.01" name="to face, cover with bronze, resulting in a bronze sculpture">
       <roles>
-        <role descr="metalsmith, bronzer" f="PAG" n="0"/>
-        <role descr="location, entity being bronzed" f="GOL" n="1"/>
-        <role descr="bronze itself, material used to cover" f="PPT" n="2"/>
+        <role descr="metalsmith, bronzer" f="pag" n="0"/>
+        <role descr="location, entity being bronzed" f="gol" n="1"/>
+        <role descr="bronze itself, material used to cover" f="ppt" n="2"/>
       </roles>
     </roleset>
     <roleset id="bronze.02" name="give the skin a ruddy/sun-kissed glow">

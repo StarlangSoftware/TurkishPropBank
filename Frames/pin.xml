@@ -2,20 +2,20 @@
   <predicate lemma="pin">
     <roleset id="pin.01" name="attach with a pin">
       <roles>
-        <role descr="agent, entity causing two objects to be attached" f="PAG" n="0"/>
+        <role descr="agent, entity causing two objects to be attached" f="pag" n="0"/>
         <role descr="first thing being pinned" f="ppt" n="1"/>
         <role descr="second thing, pinned to what" f="ppt" n="2"/>
-        <role descr="instrument, pin" f="MNR" n="3"/>
+        <role descr="instrument, pin" f="mnr" n="3"/>
       </roles>
     </roleset>
   </predicate>
   <predicate lemma="pin_down">
     <roleset id="pin_down.02" name="lock or establish clearly">
       <roles>
-        <role descr="agent, entity causing two objects to be attached" f="PAG" n="0"/>
+        <role descr="agent, entity causing two objects to be attached" f="pag" n="0"/>
         <role descr="first thing being pinned" f="ppt" n="1"/>
         <role descr="second thing, pinned to what" f="ppt" n="2"/>
-        <role descr="instrument" f="MNR" n="3"/>
+        <role descr="instrument" f="mnr" n="3"/>
       </roles>
     </roleset>
   </predicate>

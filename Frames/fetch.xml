@@ -2,11 +2,11 @@
   <predicate lemma="fetch">
     <roleset id="fetch.01" name="bring (back)">
       <roles>
-        <role descr="bringer" f="PAG" n="0"/>
-        <role descr="thing brought" f="PPT" n="1"/>
-        <role descr="benefactive, brought-for, brought-to" f="GOL" n="2"/>
-        <role descr="attribute" f="VSP" n="3"/>
-        <role descr="ablative, brought-from" f="DIR" n="4"/>
+        <role descr="bringer" f="pag" n="0"/>
+        <role descr="thing brought" f="ppt" n="1"/>
+        <role descr="benefactive, brought-for, brought-to" f="gol" n="2"/>
+        <role descr="attribute" f="vsp" n="3"/>
+        <role descr="ablative, brought-from" f="dir" n="4"/>
       </roles>
     </roleset>
   </predicate>

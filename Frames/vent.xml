@@ -2,8 +2,8 @@
   <predicate lemma="vent">
     <roleset id="vent.01" name="to release through an opening">
       <roles>
-        <role descr="releaser" f="PAG" n="0"/>
-        <role descr="thing vented" f="PPT" n="1"/>
+        <role descr="releaser" f="pag" n="0"/>
+        <role descr="thing vented" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

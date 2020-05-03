@@ -2,16 +2,16 @@
   <predicate lemma="bone">
     <roleset id="bone.01" name="remove bones">
       <roles>
-        <role descr="remover" f="PAG" n="0"/>
-        <role descr="thing which used to have bones" f="DIR" n="1"/>
+        <role descr="remover" f="pag" n="0"/>
+        <role descr="thing which used to have bones" f="dir" n="1"/>
       </roles>
     </roleset>
   </predicate>
   <predicate lemma="bone_up">
     <roleset id="bone_up.02" name="become more proficient">
       <roles>
-        <role descr="boner up" f="PAG" n="0"/>
-        <role descr="subject" f="PPT" n="1"/>
+        <role descr="boner up" f="pag" n="0"/>
+        <role descr="subject" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

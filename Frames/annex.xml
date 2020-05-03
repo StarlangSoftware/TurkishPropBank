@@ -2,9 +2,9 @@
   <predicate lemma="annex">
     <roleset id="annex.01" name="to take or appropriate, especially without permission">
       <roles>
-        <role descr="annexer, agent" f="PAG" n="0"/>
-        <role descr="thing annexed" f="PPT" n="1"/>
-        <role descr="annexed from" f="DIR" n="2"/>
+        <role descr="annexer, agent" f="pag" n="0"/>
+        <role descr="thing annexed" f="ppt" n="1"/>
+        <role descr="annexed from" f="dir" n="2"/>
       </roles>
     </roleset>
   </predicate>

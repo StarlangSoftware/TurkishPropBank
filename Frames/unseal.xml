@@ -2,8 +2,8 @@
   <predicate lemma="unseal">
     <roleset id="unseal.01" name="to remove a seal">
       <roles>
-        <role descr="agent, causer" f="PAG" n="0"/>
-        <role descr="entity unsealed" f="PPT" n="1"/>
+        <role descr="agent, causer" f="pag" n="0"/>
+        <role descr="entity unsealed" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

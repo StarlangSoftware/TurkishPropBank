@@ -2,8 +2,8 @@
   <predicate lemma="detail">
     <roleset id="detail.01" name="describe in detail">
       <roles>
-        <role descr="describer" f="PAG" n="0"/>
-        <role descr="details" f="PPT" n="1"/>
+        <role descr="describer" f="pag" n="0"/>
+        <role descr="details" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

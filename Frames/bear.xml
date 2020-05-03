@@ -60,7 +60,7 @@
     <roleset id="bore.07" name="create a hole">
       <roles>
         <role descr="creator of hole, agent" f="pag" n="0"/>
-        <role descr="hole" f="PPT" n="1"/>
+        <role descr="hole" f="ppt" n="1"/>
         <role descr="location of hole" f="ppt" n="2"/>
         <role descr="instrument" f="mnr" n="3"/>
       </roles>

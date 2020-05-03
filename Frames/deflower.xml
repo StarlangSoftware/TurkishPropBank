@@ -2,9 +2,9 @@
   <predicate lemma="deflower">
     <roleset id="deflower.01" name="remove flower,beauty,innocence">
       <roles>
-        <role descr="remover" f="PAG" n="0"/>
-        <role descr="victim" f="DIR" n="1"/>
-        <role descr="flower, thing removed" f="DIR" n="2"/>
+        <role descr="remover" f="pag" n="0"/>
+        <role descr="victim" f="dir" n="1"/>
+        <role descr="flower, thing removed" f="dir" n="2"/>
       </roles>
     </roleset>
   </predicate>

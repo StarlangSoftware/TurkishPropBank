@@ -2,13 +2,13 @@
   <predicate lemma="stalk">
     <roleset id="stalk.01" name="walk stiffly">
       <roles>
-        <role descr="walker" f="PAG" n="0"/>
+        <role descr="walker" f="pag" n="0"/>
       </roles>
     </roleset>
     <roleset id="stalk.02" name="follow stealthily">
       <roles>
-        <role descr="thing following" f="PAG" n="0"/>
-        <role descr="thing followed" f="PPT" n="1"/>
+        <role descr="thing following" f="pag" n="0"/>
+        <role descr="thing followed" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

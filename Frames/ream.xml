@@ -2,15 +2,15 @@
   <predicate lemma="ream">
     <roleset id="ream.01" name="remove by making a hole">
       <roles>
-        <role descr="Reamer" f="PAG" n="0"/>
-        <role descr="thing reamed" f="DIR" n="1"/>
-        <role descr="thing removed" f="PPT" n="2"/>
+        <role descr="Reamer" f="pag" n="0"/>
+        <role descr="thing reamed" f="dir" n="1"/>
+        <role descr="thing removed" f="ppt" n="2"/>
         <role descr="instrument" f="mnr" n="3"/>
       </roles>
     </roleset>
     <roleset id="ream.02" name="enlarge a hole with a reamer">
       <roles>
-        <role descr="reamer" f="PAG" n="0"/>
+        <role descr="reamer" f="pag" n="0"/>
         <role descr="thing reamed" f="ppt" n="1"/>
       </roles>
     </roleset>

@@ -2,8 +2,8 @@
   <predicate lemma="spy">
     <roleset id="spy.01" name="to investigate intensively  or discover by close observation, clandestine observation">
       <roles>
-        <role descr="secret agent" f="PPT" n="0"/>
-        <role descr="entity spied/seen" f="PAG" n="1"/>
+        <role descr="secret agent" f="ppt" n="0"/>
+        <role descr="entity spied/seen" f="pag" n="1"/>
       </roles>
     </roleset>
   </predicate>

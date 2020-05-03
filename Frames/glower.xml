@@ -2,8 +2,8 @@
   <predicate lemma="glower">
     <roleset id="glower.01" name="give a dirty look">
       <roles>
-        <role descr="glowerer" f="PAG" n="0"/>
-        <role descr="target of unapproval" f="GOL" n="1"/>
+        <role descr="glowerer" f="pag" n="0"/>
+        <role descr="target of unapproval" f="gol" n="1"/>
       </roles>
     </roleset>
   </predicate>

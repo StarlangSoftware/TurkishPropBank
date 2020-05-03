@@ -2,15 +2,15 @@
   <predicate lemma="fire">
     <roleset id="fire.01" name="fire a gun">
       <roles>
-        <role descr="shooter" f="PAG" n="0"/>
-        <role descr="gun/projectile" f="PPT" n="1"/>
+        <role descr="shooter" f="pag" n="0"/>
+        <role descr="gun/projectile" f="ppt" n="1"/>
       </roles>
     </roleset>
     <roleset id="fire.02" name="cause to cease employment">
       <roles>
-        <role descr="employer" f="PAG" n="0"/>
-        <role descr="ex-employee" f="PPT" n="1"/>
-        <role descr="job" f="DIR" n="2"/>
+        <role descr="employer" f="pag" n="0"/>
+        <role descr="ex-employee" f="ppt" n="1"/>
+        <role descr="job" f="dir" n="2"/>
       </roles>
     </roleset>
     <roleset id="fire.03" name="cause to burn or bake">
@@ -21,7 +21,7 @@
     </roleset>
     <roleset id="fire.04" name="fuel or ignite">
       <roles>
-        <role descr="ignitor, agent" f="PAG" n="0"/>
+        <role descr="ignitor, agent" f="pag" n="0"/>
         <role descr="thing ignited" f="ppt" n="1"/>
       </roles>
     </roleset>

@@ -2,8 +2,8 @@
   <predicate lemma="recontact">
     <roleset id="recontact.01" name="to bring or come into contact again">
       <roles>
-        <role descr="Contactor, agent" f="PAG" n="0"/>
-        <role descr="Entity contacted" f="PPT" n="1"/>
+        <role descr="Contactor, agent" f="pag" n="0"/>
+        <role descr="Entity contacted" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

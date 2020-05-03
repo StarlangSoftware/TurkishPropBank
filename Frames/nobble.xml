@@ -2,10 +2,10 @@
   <predicate lemma="nobble">
     <roleset id="nobble.01" name="to convince by fraudulent methods, defraud">
       <roles>
-        <role descr="nobbler" f="PAG" n="0"/>
-        <role descr="thing nobbled" f="PPT" n="1"/>
-        <role descr="nobbled from" f="DIR" n="2"/>
-        <role descr="nobbled for" f="GOL" n="3"/>
+        <role descr="nobbler" f="pag" n="0"/>
+        <role descr="thing nobbled" f="ppt" n="1"/>
+        <role descr="nobbled from" f="dir" n="2"/>
+        <role descr="nobbled for" f="gol" n="3"/>
       </roles>
     </roleset>
   </predicate>

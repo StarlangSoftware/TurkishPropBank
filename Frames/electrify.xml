@@ -2,8 +2,8 @@
   <predicate lemma="electrify">
     <roleset id="electrify.01" name="apply electricity to, excite">
       <roles>
-        <role descr="entity adding electricity, agent" f="PAG" n="0"/>
-        <role descr="electrified entity" f="PPT" n="1"/>
+        <role descr="entity adding electricity, agent" f="pag" n="0"/>
+        <role descr="electrified entity" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

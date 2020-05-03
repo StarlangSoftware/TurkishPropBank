@@ -2,9 +2,9 @@
   <predicate lemma="woof">
     <roleset id="woof.01" name="make the noise 'woof'">
       <roles>
-        <role descr="woofer" f="PAG" n="0"/>
-        <role descr="the woof or its subject-matter" f="PPT" n="1"/>
-        <role descr="hearer" f="GOL" n="2"/>
+        <role descr="woofer" f="pag" n="0"/>
+        <role descr="the woof or its subject-matter" f="ppt" n="1"/>
+        <role descr="hearer" f="gol" n="2"/>
       </roles>
     </roleset>
   </predicate>

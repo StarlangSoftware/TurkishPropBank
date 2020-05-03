@@ -3,7 +3,7 @@
     <roleset id="contract.01" name="get smaller, drawing together, shortening">
       <roles>
         <role descr="thing getting smaller" f="ppt" n="1"/>
-        <role descr="EXT" f="ext" n="2"/>
+        <role descr="ext" f="ext" n="2"/>
         <role descr="start point" f="dir" n="3"/>
         <role descr="end point" f="gol" n="4"/>
       </roles>

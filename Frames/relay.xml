@@ -2,9 +2,9 @@
   <predicate lemma="relay">
     <roleset id="relay.01" name="send along, transmit">
       <roles>
-        <role descr="sender, agent" f="PAG" n="0"/>
-        <role descr="thing sent" f="PPT" n="1"/>
-        <role descr="sent to" f="GOL" n="2"/>
+        <role descr="sender, agent" f="pag" n="0"/>
+        <role descr="thing sent" f="ppt" n="1"/>
+        <role descr="sent to" f="gol" n="2"/>
       </roles>
     </roleset>
     <roleset id="relay.02" name="relay race">

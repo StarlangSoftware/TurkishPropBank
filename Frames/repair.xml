@@ -2,8 +2,8 @@
   <predicate lemma="repair">
     <roleset id="repair.01" name="to restore after damage or injury">
       <roles>
-        <role descr="repairer, agent" f="PAG" n="0"/>
-        <role descr="entity repaired" f="PPT" n="1"/>
+        <role descr="repairer, agent" f="pag" n="0"/>
+        <role descr="entity repaired" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

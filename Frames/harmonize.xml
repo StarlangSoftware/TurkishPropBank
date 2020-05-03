@@ -2,9 +2,9 @@
   <predicate lemma="harmonize">
     <roleset id="harmonize.01" name="bring into harmony">
       <roles>
-        <role descr="Agent, cause of harmonizing" f="PAG" n="0"/>
+        <role descr="Agent, cause of harmonizing" f="pag" n="0"/>
         <role descr="First or all things (when one constituent) brought into harmony; or harmonious agreement" f="ppt" n="1"/>
-        <role descr="Second thing brought into harmony, arg1 in harmony with what?" f="PPT" n="2"/>
+        <role descr="Second thing brought into harmony, arg1 in harmony with what?" f="ppt" n="2"/>
       </roles>
     </roleset>
   </predicate>

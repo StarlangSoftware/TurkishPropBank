@@ -2,8 +2,8 @@
   <predicate lemma="natter">
     <roleset id="natter.01" name="to engage in or spread gossip">
       <roles>
-        <role descr="gossiper(s)" f="PAG" n="0"/>
-        <role descr="gossip about" f="PPT" n="1"/>
+        <role descr="gossiper(s)" f="pag" n="0"/>
+        <role descr="gossip about" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

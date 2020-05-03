@@ -2,8 +2,8 @@
   <predicate lemma="pamper">
     <roleset id="pamper.01" name="indulge, treat (excessively?) nicely">
       <roles>
-        <role descr="pamperer" f="PAG" n="0"/>
-        <role descr="pampered" f="PPT" n="1"/>
+        <role descr="pamperer" f="pag" n="0"/>
+        <role descr="pampered" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

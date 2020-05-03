@@ -2,7 +2,7 @@
   <predicate lemma="low">
     <roleset id="low.01" name="make the characteristic noise of a cow">
       <roles>
-        <role descr="low-er" f="PAG" n="0"/>
+        <role descr="low-er" f="pag" n="0"/>
       </roles>
     </roleset>
     <roleset id="low.02" name="be depressed, in poor spirits">

@@ -2,21 +2,21 @@
   <predicate lemma="gobble">
     <roleset id="gobble.01" name="eat voraciously">
       <roles>
-        <role descr="eater" f="PAG" n="0"/>
-        <role descr="food" f="PPT" n="1"/>
+        <role descr="eater" f="pag" n="0"/>
+        <role descr="food" f="ppt" n="1"/>
       </roles>
     </roleset>
     <roleset id="gobble.02" name="make like a turkey">
       <roles>
-        <role descr="turkey" f="PAG" n="0"/>
+        <role descr="turkey" f="pag" n="0"/>
       </roles>
     </roleset>
   </predicate>
   <predicate lemma="gobble_up">
     <roleset id="gobble_up.03" name="eat voraciously and completely">
       <roles>
-        <role descr="eater" f="PAG" n="0"/>
-        <role descr="food" f="PPT" n="1"/>
+        <role descr="eater" f="pag" n="0"/>
+        <role descr="food" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

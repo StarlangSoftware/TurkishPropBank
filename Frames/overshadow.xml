@@ -2,8 +2,8 @@
   <predicate lemma="overshadow">
     <roleset id="overshadow.01" name="to dominate, make insignificant by comparison">
       <roles>
-        <role descr="entity dominating" f="PAG" n="0"/>
-        <role descr="entity overshadowed" f="PPT" n="1"/>
+        <role descr="entity dominating" f="pag" n="0"/>
+        <role descr="entity overshadowed" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

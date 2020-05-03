@@ -2,9 +2,9 @@
   <predicate lemma="recannulate">
     <roleset id="recannulate.01" name="use a cannula agin, or re-insert a tube">
       <roles>
-        <role descr="Agent" f="PAG" n="0"/>
-        <role descr="Entity tube or cannula is reinserted into" f="PPT" n="1"/>
-        <role descr="the cannula" f="MNR" n="2"/>
+        <role descr="Agent" f="pag" n="0"/>
+        <role descr="Entity tube or cannula is reinserted into" f="ppt" n="1"/>
+        <role descr="the cannula" f="mnr" n="2"/>
       </roles>
     </roleset>
   </predicate>

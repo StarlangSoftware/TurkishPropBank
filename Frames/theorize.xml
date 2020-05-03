@@ -2,8 +2,8 @@
   <predicate lemma="theorize">
     <roleset id="theorize.01" name="to formulate a theory,  speculate">
       <roles>
-        <role descr="theorist" f="PAG" n="0"/>
-        <role descr="theory" f="PPT" n="1"/>
+        <role descr="theorist" f="pag" n="0"/>
+        <role descr="theory" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

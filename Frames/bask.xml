@@ -2,8 +2,8 @@
   <predicate lemma="bask">
     <roleset id="bask.01" name="take pleasure in">
       <roles>
-        <role descr="basker" f="PPT" n="0"/>
-        <role descr="basking in, cause of pleasure" f="PAG" n="1"/>
+        <role descr="basker" f="ppt" n="0"/>
+        <role descr="basking in, cause of pleasure" f="pag" n="1"/>
       </roles>
     </roleset>
   </predicate>

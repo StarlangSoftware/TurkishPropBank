@@ -2,7 +2,7 @@
   <predicate lemma="line">
     <roleset id="line.01" name="provide a lining, accompany in line-like fashion">
       <roles>
-        <role descr="agent only!" f="PAG" n="0"/>
+        <role descr="agent only!" f="pag" n="0"/>
         <role descr="thing lined" f="gol" n="1"/>
         <role descr="instrument, lining proper" f="ppt" n="2"/>
       </roles>

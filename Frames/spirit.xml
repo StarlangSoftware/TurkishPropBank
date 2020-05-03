@@ -2,7 +2,7 @@
   <predicate lemma="spirited">
     <roleset id="spirited.01" name="passionate, lively">
       <roles>
-        <role descr="entity with high spirits" f="PPT" n="1"/>
+        <role descr="entity with high spirits" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

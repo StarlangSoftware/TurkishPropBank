@@ -2,8 +2,8 @@
   <predicate lemma="dement">
     <roleset id="dement.01" name="to (cause to) deteriorate mentally">
       <roles>
-        <role descr="Agent (rare)" f="PAG" n="0"/>
-        <role descr="Patient of mental deterioration" f="PPT" n="1"/>
+        <role descr="Agent (rare)" f="pag" n="0"/>
+        <role descr="Patient of mental deterioration" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

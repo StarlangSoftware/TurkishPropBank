@@ -2,8 +2,8 @@
   <predicate lemma="catechize">
     <roleset id="catechize.01" name="question systematically">
       <roles>
-        <role descr="questioner" f="PAG" n="0"/>
-        <role descr="one being questioned" f="PPT" n="1"/>
+        <role descr="questioner" f="pag" n="0"/>
+        <role descr="one being questioned" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

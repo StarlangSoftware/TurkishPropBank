@@ -2,15 +2,15 @@
   <predicate lemma="powder">
     <roleset id="powder.01" name="make into a powder">
       <roles>
-        <role descr="agent" f="PAG" n="0"/>
-        <role descr="thing made into powdered" f="PPT" n="1"/>
+        <role descr="agent" f="pag" n="0"/>
+        <role descr="thing made into powdered" f="ppt" n="1"/>
       </roles>
     </roleset>
     <roleset id="powder.02" name="put powder on something">
       <roles>
-        <role descr="agent" f="PAG" n="0"/>
-        <role descr="thing sprinkled with powder" f="GOL" n="1"/>
-        <role descr="powder" f="PPT" n="2"/>
+        <role descr="agent" f="pag" n="0"/>
+        <role descr="thing sprinkled with powder" f="gol" n="1"/>
+        <role descr="powder" f="ppt" n="2"/>
       </roles>
     </roleset>
   </predicate>

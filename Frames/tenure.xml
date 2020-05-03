@@ -2,7 +2,7 @@
   <predicate lemma="tenure">
     <roleset id="tenure.01" name="give lifetime employment to">
       <roles>
-        <role descr="agent giving the tenure" f="PAG" n="0"/>
+        <role descr="agent giving the tenure" f="pag" n="0"/>
         <role descr="entity receiving tenure" f="ppt" n="1"/>
       </roles>
     </roleset>

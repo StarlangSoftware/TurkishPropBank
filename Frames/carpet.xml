@@ -2,8 +2,8 @@
   <predicate lemma="carpet">
     <roleset id="carpet.01" name="cover with shag">
       <roles>
-        <role descr="coverer, agent" f="PAG" n="0"/>
-        <role descr="bare floor" f="GOL" n="1"/>
+        <role descr="coverer, agent" f="pag" n="0"/>
+        <role descr="bare floor" f="gol" n="1"/>
       </roles>
     </roleset>
   </predicate>

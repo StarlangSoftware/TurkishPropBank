@@ -2,9 +2,9 @@
   <predicate lemma="granulate">
     <roleset id="granulate.01" name="form into granules">
       <roles>
-        <role descr="agent,cause" f="PAG" n="0"/>
-        <role descr="thing granulated" f="PPT" n="1"/>
-        <role descr="instrument" f="MNR" n="2"/>
+        <role descr="agent,cause" f="pag" n="0"/>
+        <role descr="thing granulated" f="ppt" n="1"/>
+        <role descr="instrument" f="mnr" n="2"/>
       </roles>
     </roleset>
   </predicate>

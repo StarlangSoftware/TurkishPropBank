@@ -2,8 +2,8 @@
   <predicate lemma="clink">
     <roleset id="clink.01" name="make a high tinny sound">
       <roles>
-        <role descr="emitter of sound" f="PPT" n="1"/>
-        <role descr="causal agent" f="PAG" n="0"/>
+        <role descr="emitter of sound" f="ppt" n="1"/>
+        <role descr="causal agent" f="pag" n="0"/>
       </roles>
     </roleset>
   </predicate>

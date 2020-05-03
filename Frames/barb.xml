@@ -2,8 +2,8 @@
   <predicate lemma="barb">
     <roleset id="barb.01" name="cause to have barbs">
       <roles>
-        <role descr="causer of barbedness" f="PAG" n="0"/>
-        <role descr="barbed thing" f="PPT" n="1"/>
+        <role descr="causer of barbedness" f="pag" n="0"/>
+        <role descr="barbed thing" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

@@ -2,9 +2,9 @@
   <predicate lemma="still">
     <roleset id="still.01" name="cause to be still">
       <roles>
-        <role descr="agent, stiller" f="PAG" n="0"/>
-        <role descr="patient, thing becoming still" f="PPT" n="1"/>
-        <role descr="instrument of stillness" f="MNR" n="2"/>
+        <role descr="agent, stiller" f="pag" n="0"/>
+        <role descr="patient, thing becoming still" f="ppt" n="1"/>
+        <role descr="instrument of stillness" f="mnr" n="2"/>
       </roles>
     </roleset>
   </predicate>

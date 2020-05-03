@@ -2,8 +2,8 @@
   <predicate lemma="counterbalance">
     <roleset id="counterbalance.01" name="to oppose with an equal force">
       <roles>
-        <role descr="opposer" f="PAG" n="0"/>
-        <role descr="entity counterbalanced" f="PPT" n="1"/>
+        <role descr="opposer" f="pag" n="0"/>
+        <role descr="entity counterbalanced" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

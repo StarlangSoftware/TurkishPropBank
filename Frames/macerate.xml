@@ -2,9 +2,9 @@
   <predicate lemma="macerate">
     <roleset id="macerate.01" name="(cause to) break down, wither away, causing to break down or wither away">
       <roles>
-        <role descr="cause of maceration" f="PAG" n="0"/>
-        <role descr="thing undergoing maceration" f="PPT" n="1"/>
-        <role descr="Instrument or manner if separate from arg 0" f="MNR" n="2"/>
+        <role descr="cause of maceration" f="pag" n="0"/>
+        <role descr="thing undergoing maceration" f="ppt" n="1"/>
+        <role descr="Instrument or manner if separate from arg 0" f="mnr" n="2"/>
       </roles>
     </roleset>
   </predicate>

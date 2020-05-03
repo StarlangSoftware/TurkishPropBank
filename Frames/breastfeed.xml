@@ -2,9 +2,9 @@
   <predicate lemma="breastfeed">
     <roleset id="breastfeed.01" name="feed with breast, by breast">
       <roles>
-        <role descr="feeder" f="PAG" n="0"/>
-        <role descr="milk (we hope...)" f="PPT" n="1"/>
-        <role descr="baby, recipient" f="GOL" n="2"/>
+        <role descr="feeder" f="pag" n="0"/>
+        <role descr="milk (we hope...)" f="ppt" n="1"/>
+        <role descr="baby, recipient" f="gol" n="2"/>
       </roles>
     </roleset>
   </predicate>

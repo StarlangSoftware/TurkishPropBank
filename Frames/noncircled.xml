@@ -2,7 +2,7 @@
   <predicate lemma="noncircled">
     <roleset id="noncircled.01" name="not form a circle; not be enclosed">
       <roles>
-        <role descr="causer" f="PAG" n="0"/>
+        <role descr="causer" f="pag" n="0"/>
         <role descr="entity within a circle" f="ppt" n="1"/>
       </roles>
     </roleset>

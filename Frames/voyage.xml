@@ -2,8 +2,8 @@
   <predicate lemma="voyage">
     <roleset id="voyage.01" name="(make a) long journey">
       <roles>
-        <role descr="causal agent, voyager" f="PAG" n="0"/>
-        <role descr="destination" f="PPT" n="1"/>
+        <role descr="causal agent, voyager" f="pag" n="0"/>
+        <role descr="destination" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

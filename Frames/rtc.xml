@@ -2,7 +2,7 @@
   <predicate lemma="rtc">
     <roleset id="rtc.101" name="return to clinic (acronym)">
       <roles>
-        <role descr="Entity returning to clinic" f="PAG" n="0"/>
+        <role descr="Entity returning to clinic" f="pag" n="0"/>
       </roles>
     </roleset>
   </predicate>

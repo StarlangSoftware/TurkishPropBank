@@ -2,7 +2,7 @@
   <predicate lemma="notify">
     <roleset id="notify.01" name="tell, alert">
       <roles>
-        <role descr="notifier, teller" f="PAG" n="0"/>
+        <role descr="notifier, teller" f="pag" n="0"/>
         <role descr="entity notified, told" f="gol" n="1"/>
         <role descr="utterance" f="ppt" n="2"/>
       </roles>

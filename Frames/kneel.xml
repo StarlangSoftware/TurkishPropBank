@@ -2,7 +2,7 @@
   <predicate lemma="kneel">
     <roleset id="kneel.01" name="on bended knee">
       <roles>
-        <role descr="kneeler" f="PAG" n="0"/>
+        <role descr="kneeler" f="pag" n="0"/>
       </roles>
     </roleset>
   </predicate>

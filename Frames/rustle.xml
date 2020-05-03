@@ -2,13 +2,13 @@
   <predicate lemma="rustle">
     <roleset id="rustle.01" name="emit dry random noise">
       <roles>
-        <role descr="emitter of noise" f="PPT" n="1"/>
+        <role descr="emitter of noise" f="ppt" n="1"/>
       </roles>
     </roleset>
     <roleset id="rustle.02" name="steal">
       <roles>
-        <role descr="thief" f="PAG" n="0"/>
-        <role descr="livestock, usually" f="PPT" n="1"/>
+        <role descr="thief" f="pag" n="0"/>
+        <role descr="livestock, usually" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

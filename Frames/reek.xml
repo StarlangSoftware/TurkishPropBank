@@ -2,8 +2,8 @@
   <predicate lemma="reek">
     <roleset id="reek.01" name="to emit a strong odor or be extremely bad">
       <roles>
-        <role descr="thing reeking" f="PAG" n="0"/>
-        <role descr="reeking of what" f="PPT" n="1"/>
+        <role descr="thing reeking" f="pag" n="0"/>
+        <role descr="reeking of what" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

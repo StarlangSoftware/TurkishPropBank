@@ -2,8 +2,8 @@
   <predicate lemma="stumble">
     <roleset id="stumble.01" name="to miss a step while walking, to make an error">
       <roles>
-        <role descr="agent, entity stumbling" f="PPT" n="0"/>
-        <role descr="stumble over" f="LOC" n="1"/>
+        <role descr="agent, entity stumbling" f="ppt" n="0"/>
+        <role descr="stumble over" f="loc" n="1"/>
       </roles>
     </roleset>
   </predicate>

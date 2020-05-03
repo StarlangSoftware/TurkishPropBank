@@ -2,9 +2,9 @@
   <predicate lemma="slump">
     <roleset id="slump.01" name="decline">
       <roles>
-        <role descr="is an agent possible?" f="PAG" n="0"/>
-        <role descr="thing slumping" f="PPT" n="1"/>
-        <role descr="EXT" f="ext" n="2"/>
+        <role descr="is an agent possible?" f="pag" n="0"/>
+        <role descr="thing slumping" f="ppt" n="1"/>
+        <role descr="ext" f="ext" n="2"/>
         <role descr="start point" f="dir" n="3"/>
         <role descr="end point" f="gol" n="4"/>
       </roles>

@@ -2,7 +2,7 @@
   <predicate lemma="precise">
     <roleset id="precise.01" name="exact and reproducible">
       <roles>
-        <role descr="precise entity" f="PPT" n="0"/>
+        <role descr="precise entity" f="ppt" n="0"/>
         <role descr="secondary action" f="prd" n="1"/>
       </roles>
     </roleset>

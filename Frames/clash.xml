@@ -10,8 +10,8 @@
     <roleset id="clash.02" name="(cause to) emit a clashing noise, or cause discord between two non-agentive things">
       <roles>
         <role descr="agent, one causing a clashing noise" f="pag" n="0"/>
-        <role descr="theme, thing clashing into something" f="PPT" n="1"/>
-        <role descr="location, thing that the theme clashes against" f="LOC" n="2"/>
+        <role descr="theme, thing clashing into something" f="ppt" n="1"/>
+        <role descr="location, thing that the theme clashes against" f="loc" n="2"/>
       </roles>
     </roleset>
   </predicate>

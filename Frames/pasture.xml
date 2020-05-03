@@ -2,9 +2,9 @@
   <predicate lemma="pasture">
     <roleset id="pasture.01" name="to put out to graze">
       <roles>
-        <role descr="pasture-er" f="PAG" n="0"/>
-        <role descr="thing pastured" f="PPT" n="1"/>
-        <role descr="pasture, location" f="GOL" n="2"/>
+        <role descr="pasture-er" f="pag" n="0"/>
+        <role descr="thing pastured" f="ppt" n="1"/>
+        <role descr="pasture, location" f="gol" n="2"/>
       </roles>
     </roleset>
   </predicate>

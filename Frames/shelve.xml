@@ -2,8 +2,8 @@
   <predicate lemma="shelve">
     <roleset id="shelve.01" name="to place on a shelf">
       <roles>
-        <role descr="placer, agent" f="PAG" n="0"/>
-        <role descr="entity shelved" f="PPT" n="1"/>
+        <role descr="placer, agent" f="pag" n="0"/>
+        <role descr="entity shelved" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

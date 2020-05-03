@@ -2,7 +2,7 @@
   <predicate lemma="jaundice">
     <roleset id="jaundice.01" name="become jaundice, turn yellow">
       <roles>
-        <role descr="entity turning yellow" f="PPT" n="1"/>
+        <role descr="entity turning yellow" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

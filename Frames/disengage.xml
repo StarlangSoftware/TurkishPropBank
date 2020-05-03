@@ -2,9 +2,9 @@
   <predicate lemma="disengage">
     <roleset id="disengage.01" name="remove, take out of or off">
       <roles>
-        <role descr="remover, agent" f="PAG" n="0"/>
-        <role descr="thing removed, disengaged" f="PPT" n="1"/>
-        <role descr="from what" f="DIR" n="2"/>
+        <role descr="remover, agent" f="pag" n="0"/>
+        <role descr="thing removed, disengaged" f="ppt" n="1"/>
+        <role descr="from what" f="dir" n="2"/>
       </roles>
     </roleset>
   </predicate>

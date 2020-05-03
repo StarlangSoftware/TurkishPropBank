@@ -2,8 +2,8 @@
   <predicate lemma="chasten">
     <roleset id="chasten.01" name="admonish, scold">
       <roles>
-        <role descr="admonisher, agent" f="PAG" n="0"/>
-        <role descr="entity become chaste (really)" f="PPT" n="1"/>
+        <role descr="admonisher, agent" f="pag" n="0"/>
+        <role descr="entity become chaste (really)" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

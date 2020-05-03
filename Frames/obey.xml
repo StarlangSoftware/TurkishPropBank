@@ -2,8 +2,8 @@
   <predicate lemma="obey">
     <roleset id="obey.01" name="obey, follow the rules, follow commands">
       <roles>
-        <role descr="obeyer" f="PAG" n="0"/>
-        <role descr="rule or rule-giver" f="PPT" n="1"/>
+        <role descr="obeyer" f="pag" n="0"/>
+        <role descr="rule or rule-giver" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

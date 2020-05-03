@@ -2,9 +2,9 @@
   <predicate lemma="telephone">
     <roleset id="telephone.01" name="call">
       <roles>
-        <role descr="caller" f="PAG" n="0"/>
-        <role descr="called" f="GOL" n="1"/>
-        <role descr="message" f="PPT" n="2"/>
+        <role descr="caller" f="pag" n="0"/>
+        <role descr="called" f="gol" n="1"/>
+        <role descr="message" f="ppt" n="2"/>
       </roles>
     </roleset>
   </predicate>

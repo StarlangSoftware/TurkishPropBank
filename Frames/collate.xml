@@ -2,9 +2,9 @@
   <predicate lemma="collate">
     <roleset id="collate.01" name="put papers into systematic order">
       <roles>
-        <role descr="organizer" f="PAG" n="0"/>
-        <role descr="thing organized" f="PPT" n="1"/>
-        <role descr="end state, collated into what, if separate from arg 1" f="PPT" n="2"/>
+        <role descr="organizer" f="pag" n="0"/>
+        <role descr="thing organized" f="ppt" n="1"/>
+        <role descr="end state, collated into what, if separate from arg 1" f="ppt" n="2"/>
       </roles>
     </roleset>
   </predicate>

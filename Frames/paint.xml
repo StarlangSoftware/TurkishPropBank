@@ -11,14 +11,14 @@
       <roles>
         <role descr="artist" f="pag" n="0"/>
         <role descr="art" f="ppt" n="1"/>
-        <role descr="benefactive" f="GOL" n="2"/>
+        <role descr="benefactive" f="gol" n="2"/>
       </roles>
     </roleset>
     <roleset id="paint.03" name="depict, describe">
       <roles>
-        <role descr="describer" f="PAG" n="0"/>
-        <role descr="thing described" f="PPT" n="1"/>
-        <role descr="secondary attribute, described-as" f="PRD" n="2"/>
+        <role descr="describer" f="pag" n="0"/>
+        <role descr="thing described" f="ppt" n="1"/>
+        <role descr="secondary attribute, described-as" f="prd" n="2"/>
       </roles>
     </roleset>
   </predicate>

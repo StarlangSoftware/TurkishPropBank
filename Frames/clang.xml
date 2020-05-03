@@ -2,8 +2,8 @@
   <predicate lemma="clang">
     <roleset id="clang.01" name="to make a clang">
       <roles>
-        <role descr="agent, causer" f="PAG" n="0"/>
-        <role descr="entity clanging" f="PPT" n="1"/>
+        <role descr="agent, causer" f="pag" n="0"/>
+        <role descr="entity clanging" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

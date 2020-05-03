@@ -2,13 +2,13 @@
   <predicate lemma="scollop">
     <roleset id="scollop.01" name="cut, shape, or form scallops">
       <roles>
-        <role descr="carver" f="PAG" n="0"/>
-        <role descr="thing cut or shaped" f="PPT" n="1"/>
+        <role descr="carver" f="pag" n="0"/>
+        <role descr="thing cut or shaped" f="ppt" n="1"/>
       </roles>
     </roleset>
     <roleset id="scollop.02" name="fish for scallops">
       <roles>
-        <role descr="fisherman" f="PAG" n="0"/>
+        <role descr="fisherman" f="pag" n="0"/>
       </roles>
     </roleset>
   </predicate>

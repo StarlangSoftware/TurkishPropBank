@@ -2,8 +2,8 @@
   <predicate lemma="attest">
     <roleset id="attest.01" name="to affirm to be correct, indicate">
       <roles>
-        <role descr="attestor, agent" f="PAG" n="0"/>
-        <role descr="thing attested" f="PPT" n="1"/>
+        <role descr="attestor, agent" f="pag" n="0"/>
+        <role descr="thing attested" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

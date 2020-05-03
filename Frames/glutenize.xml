@@ -2,8 +2,8 @@
   <predicate lemma="glutenize">
     <roleset id="glutenize.01" name="make gluten like">
       <roles>
-        <role descr="agent, cause" f="PAG" n="0"/>
-        <role descr="glutenized entity" f="PPT" n="1"/>
+        <role descr="agent, cause" f="pag" n="0"/>
+        <role descr="glutenized entity" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

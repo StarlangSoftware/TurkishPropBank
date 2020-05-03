@@ -2,9 +2,9 @@
   <predicate lemma="wink">
     <roleset id="wink.01" name="close one eye">
       <roles>
-        <role descr="winker" f="PAG" n="0"/>
-        <role descr="eye" f="PPT" n="1"/>
-        <role descr="winked at" f="GOL" n="2"/>
+        <role descr="winker" f="pag" n="0"/>
+        <role descr="eye" f="ppt" n="1"/>
+        <role descr="winked at" f="gol" n="2"/>
       </roles>
     </roleset>
   </predicate>

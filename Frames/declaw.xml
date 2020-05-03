@@ -2,9 +2,9 @@
   <predicate lemma="declaw">
     <roleset id="declaw.01" name="remove claw">
       <roles>
-        <role descr="remover" f="PAG" n="0"/>
-        <role descr="victim" f="DIR" n="1"/>
-        <role descr="claw, thing removed" f="PPT" n="2"/>
+        <role descr="remover" f="pag" n="0"/>
+        <role descr="victim" f="dir" n="1"/>
+        <role descr="claw, thing removed" f="ppt" n="2"/>
       </roles>
     </roleset>
   </predicate>

@@ -2,8 +2,8 @@
   <predicate lemma="amputate">
     <roleset id="amputate.01" name="amputate, removal of a part of an entity/body">
       <roles>
-        <role descr="amputator, agent" f="PAG" n="0"/>
-        <role descr="part of body amputated" f="PPT" n="1"/>
+        <role descr="amputator, agent" f="pag" n="0"/>
+        <role descr="part of body amputated" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

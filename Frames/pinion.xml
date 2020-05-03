@@ -2,8 +2,8 @@
   <predicate lemma="pinion">
     <roleset id="pinion.01" name="bind or restrain">
       <roles>
-        <role descr="binder" f="PAG" n="0"/>
-        <role descr="entity being bound" f="PPT" n="1"/>
+        <role descr="binder" f="pag" n="0"/>
+        <role descr="entity being bound" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

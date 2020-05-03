@@ -2,8 +2,8 @@
   <predicate lemma="waft">
     <roleset id="waft.01" name="(cause to) float lightly">
       <roles>
-        <role descr="cause or agent" f="PAG" n="0"/>
-        <role descr="thing floating" f="PPT" n="1"/>
+        <role descr="cause or agent" f="pag" n="0"/>
+        <role descr="thing floating" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

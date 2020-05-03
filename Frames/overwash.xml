@@ -2,7 +2,7 @@
   <predicate lemma="overwash">
     <roleset id="overwash.01" name="wash too frequently">
       <roles>
-        <role descr="washer" f="PAG" n="0"/>
+        <role descr="washer" f="pag" n="0"/>
         <role descr="thing washed too often" f="ppt" n="1"/>
       </roles>
     </roleset>

@@ -2,8 +2,8 @@
   <predicate lemma="sketch">
     <roleset id="sketch.01" name="draw roughly">
       <roles>
-        <role descr="artist" f="PAG" n="0"/>
-        <role descr="art" f="PPT" n="1"/>
+        <role descr="artist" f="pag" n="0"/>
+        <role descr="art" f="ppt" n="1"/>
         <role descr="benefactive" f="gol" n="2"/>
       </roles>
     </roleset>
@@ -11,8 +11,8 @@
   <predicate lemma="sketch_out">
     <roleset id="sketch_out.02" name="describe roughly">
       <roles>
-        <role descr="describer" f="PAG" n="0"/>
-        <role descr="thing described" f="PPT" n="1"/>
+        <role descr="describer" f="pag" n="0"/>
+        <role descr="thing described" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

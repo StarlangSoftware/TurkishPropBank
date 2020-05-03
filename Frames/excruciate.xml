@@ -2,8 +2,8 @@
   <predicate lemma="excruciate">
     <roleset id="excruciate.01" name="torture">
       <roles>
-        <role descr="Torturer" f="PAG" n="0"/>
-        <role descr="Entity Tormented" f="PPT" n="1"/>
+        <role descr="Torturer" f="pag" n="0"/>
+        <role descr="Entity Tormented" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

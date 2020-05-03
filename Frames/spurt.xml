@@ -9,7 +9,7 @@
     <roleset id="spurt.02" name="move (upward) suddenly">
       <roles>
         <role descr="thing in motion" f="ppt" n="1"/>
-        <role descr="EXT" f="ext" n="2"/>
+        <role descr="ext" f="ext" n="2"/>
         <role descr="start point" f="dir" n="3"/>
         <role descr="end point" f="gol" n="4"/>
       </roles>

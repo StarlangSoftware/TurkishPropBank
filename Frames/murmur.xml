@@ -2,9 +2,9 @@
   <predicate lemma="murmur">
     <roleset id="murmur.01" name="speak in soft low tones">
       <roles>
-        <role descr="speaker" f="PAG" n="0"/>
-        <role descr="utterance" f="PPT" n="1"/>
-        <role descr="listener" f="GOL" n="2"/>
+        <role descr="speaker" f="pag" n="0"/>
+        <role descr="utterance" f="ppt" n="1"/>
+        <role descr="listener" f="gol" n="2"/>
       </roles>
     </roleset>
   </predicate>

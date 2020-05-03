@@ -20,7 +20,7 @@
   <predicate lemma="step_up">
     <roleset id="step_up.03" name="increase incrementally">
       <roles>
-        <role descr="cause of increase" f="PAG" n="0"/>
+        <role descr="cause of increase" f="pag" n="0"/>
         <role descr="thing increasing" f="ppt" n="1"/>
       </roles>
     </roleset>
@@ -28,7 +28,7 @@
   <predicate lemma="step_down">
     <roleset id="step_down.04" name="resign">
       <roles>
-        <role descr="resigner" f="PAG" n="0"/>
+        <role descr="resigner" f="pag" n="0"/>
         <role descr="position resigned" f="dir" n="1"/>
       </roles>
     </roleset>
@@ -36,7 +36,7 @@
   <predicate lemma="step_aside">
     <roleset id="step_aside.05" name="resign">
       <roles>
-        <role descr="resigner" f="PAG" n="0"/>
+        <role descr="resigner" f="pag" n="0"/>
         <role descr="job/position" f="ppt" n="1"/>
       </roles>
     </roleset>

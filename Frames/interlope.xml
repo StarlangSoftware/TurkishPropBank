@@ -2,7 +2,7 @@
   <predicate lemma="interlope">
     <roleset id="interlope.01" name="trespass">
       <roles>
-        <role descr="trespasser" f="PAG" n="0"/>
+        <role descr="trespasser" f="pag" n="0"/>
       </roles>
     </roleset>
   </predicate>

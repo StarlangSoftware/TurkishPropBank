@@ -2,7 +2,7 @@
   <predicate lemma="overnight">
     <roleset id="overnight.01" name="spend a night">
       <roles>
-        <role descr="alive entity" f="PPT" n="0"/>
+        <role descr="alive entity" f="ppt" n="0"/>
       </roles>
     </roleset>
     <roleset id="overnight.02" name="send by overnight mail">

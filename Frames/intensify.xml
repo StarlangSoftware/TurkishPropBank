@@ -2,9 +2,9 @@
   <predicate lemma="intensify">
     <roleset id="intensify.01" name="make more intense">
       <roles>
-        <role descr="causer of intensity" f="PAG" n="0"/>
-        <role descr="thing becoming intense" f="PPT" n="1"/>
-        <role descr="instrument, if separate from agent" f="MNR" n="2"/>
+        <role descr="causer of intensity" f="pag" n="0"/>
+        <role descr="thing becoming intense" f="ppt" n="1"/>
+        <role descr="instrument, if separate from agent" f="mnr" n="2"/>
       </roles>
     </roleset>
   </predicate>

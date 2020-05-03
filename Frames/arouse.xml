@@ -2,8 +2,8 @@
   <predicate lemma="arouse">
     <roleset id="arouse.01" name="to provoke, stir up">
       <roles>
-        <role descr="causer" f="PAG" n="0"/>
-        <role descr="entity aroused" f="PPT" n="1"/>
+        <role descr="causer" f="pag" n="0"/>
+        <role descr="entity aroused" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

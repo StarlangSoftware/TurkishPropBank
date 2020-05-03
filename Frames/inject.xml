@@ -2,9 +2,9 @@
   <predicate lemma="inject">
     <roleset id="inject.01" name="put or reput x into y, putting x into y with a syringe">
       <roles>
-        <role descr="injector" f="PAG" n="0"/>
-        <role descr="stuff being put in" f="PPT" n="1"/>
-        <role descr="injected into what?" f="GOL" n="2"/>
+        <role descr="injector" f="pag" n="0"/>
+        <role descr="stuff being put in" f="ppt" n="1"/>
+        <role descr="injected into what?" f="gol" n="2"/>
       </roles>
     </roleset>
   </predicate>

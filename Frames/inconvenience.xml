@@ -2,14 +2,14 @@
   <predicate lemma="inconvenience">
     <roleset id="inconvenience.01" name="(cause to) become inconvenienced">
       <roles>
-        <role descr="cause/agent" f="PAG" n="0"/>
+        <role descr="cause/agent" f="pag" n="0"/>
         <role descr="experiencer of inconvenience" f="ppt" n="1"/>
         <role descr="thing that is inconvenient; (about what) (if separate from arg0)" f="vsp" n="2"/>
       </roles>
     </roleset>
     <roleset id="inconvenience.02" name="put out, not suited to comfort/needs">
       <roles>
-        <role descr="cause/agent" f="PAG" n="0"/>
+        <role descr="cause/agent" f="pag" n="0"/>
         <role descr="experiencer of inconvenience" f="ppt" n="1"/>
         <role descr="thing that is inconvenient; (about what) (if separate from arg0)" f="vsp" n="2"/>
       </roles>

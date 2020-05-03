@@ -2,7 +2,7 @@
   <predicate lemma="furrow">
     <roleset id="furrow.01" name="become wrinkled">
       <roles>
-        <role descr="brow, usually" f="PPT" n="1"/>
+        <role descr="brow, usually" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

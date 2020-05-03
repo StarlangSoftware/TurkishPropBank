@@ -2,7 +2,7 @@
   <predicate lemma="transact">
     <roleset id="transact.01" name="perform a transaction">
       <roles>
-        <role descr="entity performing the transaction" f="PAG" n="0"/>
+        <role descr="entity performing the transaction" f="pag" n="0"/>
         <role descr="thing transacted or theme" f="ppt" n="1"/>
         <role descr="co-transactor" f="com" n="2"/>
         <role descr="value of transaction" f="vsp" n="3"/>

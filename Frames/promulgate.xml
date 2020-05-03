@@ -2,8 +2,8 @@
   <predicate lemma="promulgate">
     <roleset id="promulgate.01" name="preach the powers of">
       <roles>
-        <role descr="preacher" f="PAG" n="0"/>
-        <role descr="wonderful thing" f="PPT" n="1"/>
+        <role descr="preacher" f="pag" n="0"/>
+        <role descr="wonderful thing" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

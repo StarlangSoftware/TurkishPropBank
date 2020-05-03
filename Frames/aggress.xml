@@ -2,13 +2,13 @@
   <predicate lemma="aggress">
     <roleset id="aggress.01" name="hostile behavior, actively hostile">
       <roles>
-        <role descr="aggressor" f="PAG" n="0"/>
+        <role descr="aggressor" f="pag" n="0"/>
         <role descr="entity aggression is directed toward" f="gol" n="1"/>
       </roles>
     </roleset>
     <roleset id="aggress.02" name="fast-growing">
       <roles>
-        <role descr="fast-growing thing" f="PAG" n="0"/>
+        <role descr="fast-growing thing" f="pag" n="0"/>
       </roles>
     </roleset>
   </predicate>

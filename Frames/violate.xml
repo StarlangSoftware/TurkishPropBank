@@ -2,8 +2,8 @@
   <predicate lemma="violate">
     <roleset id="violate.01" name="break some rule">
       <roles>
-        <role descr="violator" f="PAG" n="0"/>
-        <role descr="thing violated, usually a rule" f="PPT" n="1"/>
+        <role descr="violator" f="pag" n="0"/>
+        <role descr="thing violated, usually a rule" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

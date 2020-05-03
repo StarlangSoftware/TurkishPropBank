@@ -2,8 +2,8 @@
   <predicate lemma="tee_off">
     <roleset id="tee_off.01" name="use tee to place golf ball for stricking">
       <roles>
-        <role descr="golfer, agent" f="PAG" n="0"/>
-        <role descr="golf ball" f="PPT" n="1"/>
+        <role descr="golfer, agent" f="pag" n="0"/>
+        <role descr="golf ball" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

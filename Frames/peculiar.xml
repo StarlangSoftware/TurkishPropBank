@@ -2,8 +2,8 @@
   <predicate lemma="peculiar">
     <roleset id="peculiar.01" name="peculiar">
       <roles>
-        <role descr="peculiar thing" f="PPT" n="1"/>
-        <role descr="peculiar to whom?" f="PPT" n="2"/>
+        <role descr="peculiar thing" f="ppt" n="1"/>
+        <role descr="peculiar to whom?" f="ppt" n="2"/>
       </roles>
     </roleset>
   </predicate>

@@ -10,7 +10,7 @@
   <predicate lemma="gaming">
     <roleset id="gaming.02" name="playing games">
       <roles>
-        <role descr="gamer" f="PAG" n="0"/>
+        <role descr="gamer" f="pag" n="0"/>
         <role descr="type of game" f="adj" n="1"/>
       </roles>
     </roleset>

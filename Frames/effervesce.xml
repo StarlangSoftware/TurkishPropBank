@@ -2,7 +2,7 @@
   <predicate lemma="effervesce">
     <roleset id="effervesce.01" name="bubble">
       <roles>
-        <role descr="patient, thing effervescing" f="PPT" n="1"/>
+        <role descr="patient, thing effervescing" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

@@ -2,8 +2,8 @@
   <predicate lemma="carbonify">
     <roleset id="carbonify.01" name="to make to convert to carbon">
       <roles>
-        <role descr="Agent, cause of conversion" f="PAG" n="0"/>
-        <role descr="entity now Carbon" f="PPT" n="1"/>
+        <role descr="Agent, cause of conversion" f="pag" n="0"/>
+        <role descr="entity now Carbon" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

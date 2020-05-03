@@ -2,9 +2,9 @@
   <predicate lemma="gull">
     <roleset id="gull.01" name="make a fool of">
       <roles>
-        <role descr="trickster" f="PAG" n="0"/>
-        <role descr="tricked entity" f="PPT" n="1"/>
-        <role descr="trick" f="DIR" n="2"/>
+        <role descr="trickster" f="pag" n="0"/>
+        <role descr="tricked entity" f="ppt" n="1"/>
+        <role descr="trick" f="dir" n="2"/>
       </roles>
     </roleset>
   </predicate>

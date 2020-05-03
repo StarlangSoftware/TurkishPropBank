@@ -8,8 +8,8 @@
     </roleset>
     <roleset id="subside.02" name="ground sinkage">
       <roles>
-        <role descr="causer of ground sinking" f="PAG" n="0"/>
-        <role descr="the ground" f="PPT" n="1"/>
+        <role descr="causer of ground sinking" f="pag" n="0"/>
+        <role descr="the ground" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

@@ -2,8 +2,8 @@
   <predicate lemma="discriminate">
     <roleset id="discriminate.01" name="tell the difference among, discerning">
       <roles>
-        <role descr="agent, person with keen taste" f="PAG" n="0"/>
-        <role descr="choices" f="PPT" n="1"/>
+        <role descr="agent, person with keen taste" f="pag" n="0"/>
+        <role descr="choices" f="ppt" n="1"/>
       </roles>
     </roleset>
     <roleset id="discriminate.02" name="illegal preferences, using unethical bias, unfairly giving favor to one group over another">

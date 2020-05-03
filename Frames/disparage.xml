@@ -2,8 +2,8 @@
   <predicate lemma="disparage">
     <roleset id="disparage.01" name="talk trash">
       <roles>
-        <role descr="talker, agent" f="PAG" n="0"/>
-        <role descr="victim" f="PPT" n="1"/>
+        <role descr="talker, agent" f="pag" n="0"/>
+        <role descr="victim" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

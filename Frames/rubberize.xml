@@ -2,8 +2,8 @@
   <predicate lemma="rubberize">
     <roleset id="rubberize.01" name="make composition that of rubber">
       <roles>
-        <role descr="agent, causer" f="PAG" n="0"/>
-        <role descr="patient" f="PPT" n="1"/>
+        <role descr="agent, causer" f="pag" n="0"/>
+        <role descr="patient" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

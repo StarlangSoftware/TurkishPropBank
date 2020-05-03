@@ -2,10 +2,10 @@
   <predicate lemma="earn">
     <roleset id="earn.01" name="wages">
       <roles>
-        <role descr="earner" f="PAG" n="0"/>
-        <role descr="wages" f="PPT" n="1"/>
-        <role descr="benefactive" f="GOL" n="2"/>
-        <role descr="source" f="DIR" n="3"/>
+        <role descr="earner" f="pag" n="0"/>
+        <role descr="wages" f="ppt" n="1"/>
+        <role descr="benefactive" f="gol" n="2"/>
+        <role descr="source" f="dir" n="3"/>
       </roles>
     </roleset>
   </predicate>

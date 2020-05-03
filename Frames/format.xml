@@ -2,7 +2,7 @@
   <predicate lemma="format">
     <roleset id="format.01" name="editing the layout of text/data">
       <roles>
-        <role descr="agent" f="PAG" n="0"/>
+        <role descr="agent" f="pag" n="0"/>
         <role descr="text/data formatted" f="ppt" n="1"/>
         <role descr="the format" f="mnr" n="2"/>
       </roles>

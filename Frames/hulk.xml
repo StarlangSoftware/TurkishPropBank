@@ -2,7 +2,7 @@
   <predicate lemma="hulk">
     <roleset id="hulk.01" name="be impressively large">
       <roles>
-        <role descr="large thing" f="PPT" n="1"/>
+        <role descr="large thing" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

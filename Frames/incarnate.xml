@@ -2,7 +2,7 @@
   <predicate lemma="incarnate">
     <roleset id="incarnate.01" name="giving/taking on bodily form">
       <roles>
-        <role descr="agent, entity creating/concieving of arg1" f="PAG" n="0"/>
+        <role descr="agent, entity creating/concieving of arg1" f="pag" n="0"/>
         <role descr="entity becoming carnate" f="ppt" n="1"/>
         <role descr="the bodily form itself" f="prd" n="2"/>
       </roles>

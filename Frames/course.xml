@@ -2,8 +2,8 @@
   <predicate lemma="course">
     <roleset id="course.01" name="move swiftly like water">
       <roles>
-        <role descr="liquid" f="PAG" n="0"/>
-        <role descr="channel" f="PPT" n="1"/>
+        <role descr="liquid" f="pag" n="0"/>
+        <role descr="channel" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

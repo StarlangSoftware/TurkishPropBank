@@ -2,9 +2,9 @@
   <predicate lemma="semaphore">
     <roleset id="semaphore.01" name="semaphore">
       <roles>
-        <role descr="sender, agent" f="PAG" n="0"/>
-        <role descr="entity semaphored, message sent" f="PPT" n="1"/>
-        <role descr="sent to, recipient" f="GOL" n="2"/>
+        <role descr="sender, agent" f="pag" n="0"/>
+        <role descr="entity semaphored, message sent" f="ppt" n="1"/>
+        <role descr="sent to, recipient" f="gol" n="2"/>
       </roles>
     </roleset>
   </predicate>

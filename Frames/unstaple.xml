@@ -2,9 +2,9 @@
   <predicate lemma="unstaple">
     <roleset id="unstaple.01" name="unstaple">
       <roles>
-        <role descr="entity unstapling, agent" f="PAG" n="0"/>
-        <role descr="thing unstapled, patient" f="PPT" n="1"/>
-        <role descr="unstapled from, source" f="PPT" n="2"/>
+        <role descr="entity unstapling, agent" f="pag" n="0"/>
+        <role descr="thing unstapled, patient" f="ppt" n="1"/>
+        <role descr="unstapled from, source" f="ppt" n="2"/>
       </roles>
     </roleset>
   </predicate>

@@ -2,22 +2,22 @@
   <predicate lemma="whitewash">
     <roleset id="whitewash.01" name="paint with whitewash">
       <roles>
-        <role descr="painter" f="PAG" n="0"/>
-        <role descr="thing painted" f="GOL" n="1"/>
-        <role descr="the whitewash" f="PPT" n="2"/>
+        <role descr="painter" f="pag" n="0"/>
+        <role descr="thing painted" f="gol" n="1"/>
+        <role descr="the whitewash" f="ppt" n="2"/>
       </roles>
     </roleset>
     <roleset id="whitewash.02" name="exonerate, perhaps in a shady way, ">
       <roles>
-        <role descr="Agent or organization doing the whitewashing" f="PAG" n="0"/>
-        <role descr="entity being exonerated" f="DIR" n="1"/>
-        <role descr="crimes" f="PPT" n="2"/>
+        <role descr="Agent or organization doing the whitewashing" f="pag" n="0"/>
+        <role descr="entity being exonerated" f="dir" n="1"/>
+        <role descr="crimes" f="ppt" n="2"/>
       </roles>
     </roleset>
     <roleset id="whitewash.03" name="cover up a misdemeanor, fault, or error">
       <roles>
-        <role descr="Entity doing the covering up" f="PAG" n="0"/>
-        <role descr="Thing being covered up" f="PPT" n="1"/>
+        <role descr="Entity doing the covering up" f="pag" n="0"/>
+        <role descr="Thing being covered up" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

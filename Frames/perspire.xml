@@ -2,8 +2,8 @@
   <predicate lemma="perspire">
     <roleset id="perspire.01" name="sweat">
       <roles>
-        <role descr="sweater" f="PAG" n="0"/>
-        <role descr="the sweat itself" f="PPT" n="1"/>
+        <role descr="sweater" f="pag" n="0"/>
+        <role descr="the sweat itself" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

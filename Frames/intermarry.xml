@@ -2,9 +2,9 @@
   <predicate lemma="intermarry">
     <roleset id="intermarry.01" name="marry to a member of same/different group">
       <roles>
-        <role descr="causer (if available)" f="PAG" n="0"/>
-        <role descr="one half" f="PPT" n="1"/>
-        <role descr="second half" f="PPT" n="2"/>
+        <role descr="causer (if available)" f="pag" n="0"/>
+        <role descr="one half" f="ppt" n="1"/>
+        <role descr="second half" f="ppt" n="2"/>
       </roles>
     </roleset>
   </predicate>

@@ -2,7 +2,7 @@
   <predicate lemma="racialize">
     <roleset id="racialize.01" name="cause to become about race">
       <roles>
-        <role descr="agent" f="PAG" n="0"/>
+        <role descr="agent" f="pag" n="0"/>
         <role descr="thing becoming about race" f="ppt" n="1"/>
       </roles>
     </roleset>

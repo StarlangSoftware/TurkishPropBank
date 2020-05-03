@@ -2,8 +2,8 @@
   <predicate lemma="climb">
     <roleset id="climb.01" name="intentional climber">
       <roles>
-        <role descr="climber" f="PPT" n="0"/>
-        <role descr="thing climbed (clomb?)" f="PPT" n="1"/>
+        <role descr="climber" f="ppt" n="0"/>
+        <role descr="thing climbed (clomb?)" f="ppt" n="1"/>
       </roles>
     </roleset>
     <roleset id="climb.02" name="non-intentional climber; cf rise">

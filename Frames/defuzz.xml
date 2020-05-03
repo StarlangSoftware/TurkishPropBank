@@ -2,9 +2,9 @@
   <predicate lemma="defuzz">
     <roleset id="defuzz.01" name="remove fuzz">
       <roles>
-        <role descr="remover" f="PAG" n="0"/>
-        <role descr="thing defuzzed" f="DIR" n="1"/>
-        <role descr="fuzz, thing removed" f="PPT" n="2"/>
+        <role descr="remover" f="pag" n="0"/>
+        <role descr="thing defuzzed" f="dir" n="1"/>
+        <role descr="fuzz, thing removed" f="ppt" n="2"/>
       </roles>
     </roleset>
   </predicate>

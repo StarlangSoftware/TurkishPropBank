@@ -2,8 +2,8 @@
   <predicate lemma="contain">
     <roleset id="contain.01" name="hold inside">
       <roles>
-        <role descr="container" f="LOC" n="0"/>
-        <role descr="contents" f="PPT" n="1"/>
+        <role descr="container" f="loc" n="0"/>
+        <role descr="contents" f="ppt" n="1"/>
       </roles>
     </roleset>
     <roleset id="contain.02" name="restrain, halt the spread of">

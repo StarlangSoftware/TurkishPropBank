@@ -2,8 +2,8 @@
   <predicate lemma="interconnect">
     <roleset id="interconnect.01" name="connect back and forth">
       <roles>
-        <role descr="agent" f="PAG" n="0"/>
-        <role descr="things connected" f="PPT" n="1"/>
+        <role descr="agent" f="pag" n="0"/>
+        <role descr="things connected" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

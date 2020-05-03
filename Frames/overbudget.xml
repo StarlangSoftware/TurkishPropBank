@@ -2,7 +2,7 @@
   <predicate lemma="overbudget">
     <roleset id="overbudget.01" name="allocate too much money to some purpose">
       <roles>
-        <role descr="agent" f="PAG" n="0"/>
+        <role descr="agent" f="pag" n="0"/>
         <role descr="amount of money overbudgeted" f="ext" n="1"/>
         <role descr="project receiving money" f="ppt" n="2"/>
       </roles>

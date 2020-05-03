@@ -2,8 +2,8 @@
   <predicate lemma="atone">
     <roleset id="atone.01" name="to make amends">
       <roles>
-        <role descr="atoner, sinner, agent" f="PAG" n="0"/>
-        <role descr="sins" f="PPT" n="1"/>
+        <role descr="atoner, sinner, agent" f="pag" n="0"/>
+        <role descr="sins" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

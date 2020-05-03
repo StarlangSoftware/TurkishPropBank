@@ -2,14 +2,14 @@
   <predicate lemma="snitch">
     <roleset id="snitch.01" name="to commit theft">
       <roles>
-        <role descr="thief, agent" f="PAG" n="0"/>
-        <role descr="thing stolen" f="PPT" n="1"/>
+        <role descr="thief, agent" f="pag" n="0"/>
+        <role descr="thing stolen" f="ppt" n="1"/>
         <role descr="stolen from" f="dir" n="2"/>
       </roles>
     </roleset>
     <roleset id="snitch.02" name="inform on someone, tattle">
       <roles>
-        <role descr="tattle tale" f="PAG" n="0"/>
+        <role descr="tattle tale" f="pag" n="0"/>
         <role descr="entity being ratted out" f="ppt" n="1"/>
         <role descr="for what offense" f="cau" n="2"/>
         <role descr="authority being told" f="gol" n="3"/>

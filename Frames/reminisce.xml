@@ -2,7 +2,7 @@
   <predicate lemma="reminisce">
     <roleset id="reminisce.01" name="recall past">
       <roles>
-        <role descr="recaller" f="PAG" n="0"/>
+        <role descr="recaller" f="pag" n="0"/>
         <role descr="memory" f="ppt" n="1"/>
       </roles>
     </roleset>

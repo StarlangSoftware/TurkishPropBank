@@ -2,8 +2,8 @@
   <predicate lemma="dispel">
     <roleset id="dispel.01" name="force to go away">
       <roles>
-        <role descr="agent, causer" f="PAG" n="0"/>
-        <role descr="entity dispelled" f="PPT" n="1"/>
+        <role descr="agent, causer" f="pag" n="0"/>
+        <role descr="entity dispelled" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

@@ -2,8 +2,8 @@
   <predicate lemma="neutralize">
     <roleset id="neutralize.01" name="to make neutral">
       <roles>
-        <role descr="causer" f="PAG" n="0"/>
-        <role descr="entity neutralized" f="PPT" n="1"/>
+        <role descr="causer" f="pag" n="0"/>
+        <role descr="entity neutralized" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

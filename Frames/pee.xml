@@ -2,8 +2,8 @@
   <predicate lemma="pee">
     <roleset id="pee.01" name="to urinate">
       <roles>
-        <role descr="person urinating" f="PAG" n="0"/>
-        <role descr="cognate object, hopefully urine and unspecified" f="PPT" n="1"/>
+        <role descr="person urinating" f="pag" n="0"/>
+        <role descr="cognate object, hopefully urine and unspecified" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

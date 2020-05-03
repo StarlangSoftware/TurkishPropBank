@@ -2,8 +2,8 @@
   <predicate lemma="copyright">
     <roleset id="copyright.01" name="acquire exclusive rights to printed material">
       <roles>
-        <role descr="copyrighter" f="PAG" n="0"/>
-        <role descr="printed material" f="PPT" n="1"/>
+        <role descr="copyrighter" f="pag" n="0"/>
+        <role descr="printed material" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

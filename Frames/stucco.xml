@@ -2,9 +2,9 @@
   <predicate lemma="stucco">
     <roleset id="stucco.01" name="cover, fill with stucco">
       <roles>
-        <role descr="Agent, person placing stucco" f="PAG" n="0"/>
-        <role descr="Location/entity covered with stucco" f="GOL" n="1"/>
-        <role descr="Stucco itself, what kind of stucco" f="PPT" n="2"/>
+        <role descr="Agent, person placing stucco" f="pag" n="0"/>
+        <role descr="Location/entity covered with stucco" f="gol" n="1"/>
+        <role descr="Stucco itself, what kind of stucco" f="ppt" n="2"/>
       </roles>
     </roleset>
   </predicate>

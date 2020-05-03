@@ -4,7 +4,7 @@
       <roles>
         <role descr="agent" f="pag" n="0"/>
         <role descr="military presence arg2 is equiped with (troops, weapons, etc.)" f="ppt" n="1"/>
-        <role descr="entity/location equiped" f="GOL" n="2"/>
+        <role descr="entity/location equiped" f="gol" n="2"/>
       </roles>
     </roleset>
   </predicate>

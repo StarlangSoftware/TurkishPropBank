@@ -2,7 +2,7 @@
   <predicate lemma="crap">
     <roleset id="crap.01" name="defecate slangily">
       <roles>
-        <role descr="Agent of crapping" f="PAG" n="0"/>
+        <role descr="Agent of crapping" f="pag" n="0"/>
         <role descr="the crap itself" f="ppt" n="1"/>
       </roles>
     </roleset>

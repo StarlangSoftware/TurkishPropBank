@@ -2,9 +2,9 @@
   <predicate lemma="prattle">
     <roleset id="prattle.01" name="chatter">
       <roles>
-        <role descr="speaker" f="PAG" n="0"/>
-        <role descr="utterance,sound" f="PPT" n="1"/>
-        <role descr="listener,recipient" f="GOL" n="2"/>
+        <role descr="speaker" f="pag" n="0"/>
+        <role descr="utterance,sound" f="ppt" n="1"/>
+        <role descr="listener,recipient" f="gol" n="2"/>
       </roles>
     </roleset>
   </predicate>

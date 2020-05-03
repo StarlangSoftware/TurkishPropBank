@@ -2,16 +2,16 @@
   <predicate lemma="fatten">
     <roleset id="fatten.01" name="make fatter">
       <roles>
-        <role descr="causal agent" f="PAG" n="0"/>
-        <role descr="thing getting fatter" f="PPT" n="1"/>
+        <role descr="causal agent" f="pag" n="0"/>
+        <role descr="thing getting fatter" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>
   <predicate lemma="fatten_up">
     <roleset id="fatten_up.02" name="fatten to a fully fat state">
       <roles>
-        <role descr="Wicked witch in a candy house" f="PAG" n="0"/>
-        <role descr="Hansel and/or Gretel" f="PPT" n="1"/>
+        <role descr="Wicked witch in a candy house" f="pag" n="0"/>
+        <role descr="Hansel and/or Gretel" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

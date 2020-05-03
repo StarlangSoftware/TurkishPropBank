@@ -2,8 +2,8 @@
   <predicate lemma="spurn">
     <roleset id="spurn.01" name="rebuff, reject">
       <roles>
-        <role descr="rejecter" f="PAG" n="0"/>
-        <role descr="thing rejected" f="PPT" n="1"/>
+        <role descr="rejecter" f="pag" n="0"/>
+        <role descr="thing rejected" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

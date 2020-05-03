@@ -2,8 +2,8 @@
   <predicate lemma="shirk">
     <roleset id="shirk.01" name="to avoid or neglect">
       <roles>
-        <role descr="avoider, agent" f="PAG" n="0"/>
-        <role descr="entity avoided" f="PPT" n="1"/>
+        <role descr="avoider, agent" f="pag" n="0"/>
+        <role descr="entity avoided" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

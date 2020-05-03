@@ -2,8 +2,8 @@
   <predicate lemma="outrace">
     <roleset id="outrace.01" name="outdo">
       <roles>
-        <role descr="thing outdoing" f="PPT" n="0"/>
-        <role descr="thing outdone" f="PPT" n="1"/>
+        <role descr="thing outdoing" f="ppt" n="0"/>
+        <role descr="thing outdone" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

@@ -2,8 +2,8 @@
   <predicate lemma="canter">
     <roleset id="canter.01" name="go or ride at a canter">
       <roles>
-        <role descr="rider" f="PAG" n="0"/>
-        <role descr="steed (entity actually running)" f="PPT" n="1"/>
+        <role descr="rider" f="pag" n="0"/>
+        <role descr="steed (entity actually running)" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

@@ -2,9 +2,9 @@
   <predicate lemma="gurgle">
     <roleset id="gurgle.01" name="make bubbling noise">
       <roles>
-        <role descr="noise maker" f="PAG" n="0"/>
+        <role descr="noise maker" f="pag" n="0"/>
         <role descr="utterance,sound" f="ppt" n="1"/>
-        <role descr="listener,recipient" f="GOL" n="2"/>
+        <role descr="listener,recipient" f="gol" n="2"/>
       </roles>
     </roleset>
   </predicate>

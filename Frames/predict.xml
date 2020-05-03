@@ -2,8 +2,8 @@
   <predicate lemma="predict">
     <roleset id="predict.01" name="tell the future">
       <roles>
-        <role descr="fortune teller" f="CAU" n="0"/>
-        <role descr="prediction" f="PPT" n="1"/>
+        <role descr="fortune teller" f="cau" n="0"/>
+        <role descr="prediction" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

@@ -4,7 +4,7 @@
       <roles>
         <role descr="understander" f="pag" n="0"/>
         <role descr="thing understood" f="ppt" n="1"/>
-        <role descr="attribute of arg1" f="PRD" n="2"/>
+        <role descr="attribute of arg1" f="prd" n="2"/>
       </roles>
     </roleset>
   </predicate>

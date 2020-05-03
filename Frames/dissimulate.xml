@@ -2,8 +2,8 @@
   <predicate lemma="dissimulate">
     <roleset id="dissimulate.01" name="to hide feelings/motives by pretense">
       <roles>
-        <role descr="person feigning" f="PAG" n="0"/>
-        <role descr="motives, feelings, etc. hidden by arg 0" f="PPT" n="1"/>
+        <role descr="person feigning" f="pag" n="0"/>
+        <role descr="motives, feelings, etc. hidden by arg 0" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

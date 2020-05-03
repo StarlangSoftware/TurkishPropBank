@@ -2,8 +2,8 @@
   <predicate lemma="overrun">
     <roleset id="overrun.01" name="swarm over destructively">
       <roles>
-        <role descr="destructive hordes" f="PAG" n="0"/>
-        <role descr="unlucky victim" f="PPT" n="1"/>
+        <role descr="destructive hordes" f="pag" n="0"/>
+        <role descr="unlucky victim" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

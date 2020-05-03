@@ -2,8 +2,8 @@
   <predicate lemma="prosecute">
     <roleset id="prosecute.01" name="try a case, offensively">
       <roles>
-        <role descr="prosecutor" f="PAG" n="0"/>
-        <role descr="entity being prosecuted (defendant or case)" f="PPT" n="1"/>
+        <role descr="prosecutor" f="pag" n="0"/>
+        <role descr="entity being prosecuted (defendant or case)" f="ppt" n="1"/>
         <role descr="for what crime" f="prd" n="2"/>
         <role descr="law against the crime" f="mnr" n="3"/>
       </roles>

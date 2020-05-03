@@ -2,9 +2,9 @@
   <predicate lemma="shoo">
     <roleset id="shoo.01" name="to force or drive out, to discharge from">
       <roles>
-        <role descr="expeller, agent" f="PAG" n="0"/>
-        <role descr="entity expelled" f="PPT" n="1"/>
-        <role descr="expelled from" f="DIR" n="2"/>
+        <role descr="expeller, agent" f="pag" n="0"/>
+        <role descr="entity expelled" f="ppt" n="1"/>
+        <role descr="expelled from" f="dir" n="2"/>
       </roles>
     </roleset>
   </predicate>

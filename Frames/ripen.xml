@@ -2,8 +2,8 @@
   <predicate lemma="ripen">
     <roleset id="ripen.01" name="(make) become ripe, becoming ripe">
       <roles>
-        <role descr="causer of ripening" f="PAG" n="0"/>
-        <role descr="thing becoming ripe" f="PPT" n="1"/>
+        <role descr="causer of ripening" f="pag" n="0"/>
+        <role descr="thing becoming ripe" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

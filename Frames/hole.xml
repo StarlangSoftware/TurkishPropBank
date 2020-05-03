@@ -2,8 +2,8 @@
   <predicate lemma="hole_up">
     <roleset id="hole_up.01" name="take shelter">
       <roles>
-        <role descr="entity needing shelter" f="PAG" n="0"/>
-        <role descr="shelter" f="PPT" n="1"/>
+        <role descr="entity needing shelter" f="pag" n="0"/>
+        <role descr="shelter" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

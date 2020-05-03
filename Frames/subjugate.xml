@@ -2,9 +2,9 @@
   <predicate lemma="subjugate">
     <roleset id="subjugate.01" name="repress">
       <roles>
-        <role descr="subjugator" f="PAG" n="0"/>
-        <role descr="subjugated" f="PPT" n="1"/>
-        <role descr="instrument" f="MNR" n="2"/>
+        <role descr="subjugator" f="pag" n="0"/>
+        <role descr="subjugated" f="ppt" n="1"/>
+        <role descr="instrument" f="mnr" n="2"/>
       </roles>
     </roleset>
   </predicate>

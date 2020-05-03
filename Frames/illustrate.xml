@@ -2,15 +2,15 @@
   <predicate lemma="illustrate">
     <roleset id="illustrate.01" name="explain, explain visually, metaphorically, or with examples">
       <roles>
-        <role descr="illustrator" f="PAG" n="0"/>
-        <role descr="item being explained" f="PPT" n="1"/>
+        <role descr="illustrator" f="pag" n="0"/>
+        <role descr="item being explained" f="ppt" n="1"/>
         <role descr="explained to" f="gol" n="2"/>
       </roles>
     </roleset>
     <roleset id="illustrate.02" name="draw, paint, make a picture">
       <roles>
-        <role descr="artist" f="PAG" n="0"/>
-        <role descr="art" f="PPT" n="1"/>
+        <role descr="artist" f="pag" n="0"/>
+        <role descr="art" f="ppt" n="1"/>
         <role descr="benefactive" f="gol" n="2"/>
       </roles>
     </roleset>

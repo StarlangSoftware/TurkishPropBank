@@ -2,9 +2,9 @@
   <predicate lemma="dent">
     <roleset id="dent.01" name="make a dent in">
       <roles>
-        <role descr="debter, agent" f="PAG" n="0"/>
-        <role descr="thing dented, patient" f="PPT" n="1"/>
-        <role descr="instrument" f="MNR" n="2"/>
+        <role descr="debter, agent" f="pag" n="0"/>
+        <role descr="thing dented, patient" f="ppt" n="1"/>
+        <role descr="instrument" f="mnr" n="2"/>
       </roles>
     </roleset>
   </predicate>

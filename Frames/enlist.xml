@@ -2,9 +2,9 @@
   <predicate lemma="enlist">
     <roleset id="enlist.01" name="sign up to do something">
       <roles>
-        <role descr="signer" f="PAG" n="0"/>
-        <role descr="impelled agent (often subsumed into arg0" f="PPT" n="1"/>
-        <role descr="impelled action" f="PRD" n="2"/>
+        <role descr="signer" f="pag" n="0"/>
+        <role descr="impelled agent (often subsumed into arg0" f="ppt" n="1"/>
+        <role descr="impelled action" f="prd" n="2"/>
       </roles>
     </roleset>
   </predicate>

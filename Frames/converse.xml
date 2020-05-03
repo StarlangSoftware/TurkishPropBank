@@ -2,9 +2,9 @@
   <predicate lemma="converse">
     <roleset id="converse.01" name="make conversation, conversing, talking">
       <roles>
-        <role descr="talker" f="PAG" n="0"/>
-        <role descr="subject or language" f="PPT" n="1"/>
-        <role descr="hearer" f="COM" n="2"/>
+        <role descr="talker" f="pag" n="0"/>
+        <role descr="subject or language" f="ppt" n="1"/>
+        <role descr="hearer" f="com" n="2"/>
       </roles>
     </roleset>
   </predicate>

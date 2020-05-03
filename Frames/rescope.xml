@@ -2,7 +2,7 @@
   <predicate lemma="rescope">
     <roleset id="rescope.01" name="re-examine using some kind of scoping tool">
       <roles>
-        <role descr="examiner" f="PAG" n="0"/>
+        <role descr="examiner" f="pag" n="0"/>
         <role descr="examined" f="ppt" n="1"/>
         <role descr="thing examined for" f="prp" n="2"/>
       </roles>

@@ -2,20 +2,20 @@
   <predicate lemma="snuffle">
     <roleset id="snuffle.01" name="snort mucus back up nose">
       <roles>
-        <role descr="Person with a runny nose" f="PAG" n="0"/>
+        <role descr="Person with a runny nose" f="pag" n="0"/>
         <role descr="mucus" f="ppt" n="1"/>
       </roles>
     </roleset>
     <roleset id="snuffle.02" name="sniff at inquiringly">
       <roles>
-        <role descr="Sniffer" f="PAG" n="0"/>
+        <role descr="Sniffer" f="pag" n="0"/>
         <role descr="Thing smelled" f="ppt" n="1"/>
       </roles>
     </roleset>
     <roleset id="snuffle.03" name="snivel, cry, or whine with sniffling">
       <roles>
-        <role descr="Crier" f="PAG" n="0"/>
-        <role descr="utterance" f="PPT" n="1"/>
+        <role descr="Crier" f="pag" n="0"/>
+        <role descr="utterance" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

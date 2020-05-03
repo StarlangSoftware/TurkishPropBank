@@ -2,8 +2,8 @@
   <predicate lemma="delint">
     <roleset id="delint.01" name="remove lint">
       <roles>
-        <role descr="remover" f="PAG" n="0"/>
-        <role descr="thing delinted" f="DIR" n="1"/>
+        <role descr="remover" f="pag" n="0"/>
+        <role descr="thing delinted" f="dir" n="1"/>
       </roles>
     </roleset>
   </predicate>

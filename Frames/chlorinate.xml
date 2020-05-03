@@ -2,9 +2,9 @@
   <predicate lemma="chlorinate">
     <roleset id="chlorinate.01" name="treat with chlorine">
       <roles>
-        <role descr="agent, cause" f="PAG" n="0"/>
-        <role descr="thing chlorinated" f="PPT" n="1"/>
-        <role descr="chlorine" f="MNR" n="2"/>
+        <role descr="agent, cause" f="pag" n="0"/>
+        <role descr="thing chlorinated" f="ppt" n="1"/>
+        <role descr="chlorine" f="mnr" n="2"/>
       </roles>
     </roleset>
   </predicate>

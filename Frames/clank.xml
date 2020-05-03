@@ -2,13 +2,13 @@
   <predicate lemma="clank">
     <roleset id="clank.01" name="emit clanking noises">
       <roles>
-        <role descr="emitter of noise" f="PPT" n="1"/>
+        <role descr="emitter of noise" f="ppt" n="1"/>
       </roles>
     </roleset>
     <roleset id="clank.02" name="move while making clanking noises">
       <roles>
-        <role descr="entity in motion" f="PAG" n="0"/>
-        <role descr="path" f="PPT" n="1"/>
+        <role descr="entity in motion" f="pag" n="0"/>
+        <role descr="path" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

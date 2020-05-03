@@ -2,9 +2,9 @@
   <predicate lemma="visualize">
     <roleset id="visualize.01" name="see, imagine">
       <roles>
-        <role descr="visionary" f="PAG" n="0"/>
-        <role descr="thing seen" f="PPT" n="1"/>
-        <role descr="attribute" f="PRD" n="2"/>
+        <role descr="visionary" f="pag" n="0"/>
+        <role descr="thing seen" f="ppt" n="1"/>
+        <role descr="attribute" f="prd" n="2"/>
       </roles>
     </roleset>
   </predicate>

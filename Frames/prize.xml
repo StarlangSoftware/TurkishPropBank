@@ -2,9 +2,9 @@
   <predicate lemma="prize">
     <roleset id="prize.01" name="to value highly, appreciate">
       <roles>
-        <role descr="assigner of value" f="PPT" n="0"/>
-        <role descr="entity prized" f="PAG" n="1"/>
-        <role descr="prized for what" f="PRD" n="2"/>
+        <role descr="assigner of value" f="ppt" n="0"/>
+        <role descr="entity prized" f="pag" n="1"/>
+        <role descr="prized for what" f="prd" n="2"/>
       </roles>
     </roleset>
   </predicate>

@@ -2,8 +2,8 @@
   <predicate lemma="discern">
     <roleset id="discern.01" name="to perceive">
       <roles>
-        <role descr="perceiver" f="PPT" n="0"/>
-        <role descr="entity perceived" f="PAG" n="1"/>
+        <role descr="perceiver" f="ppt" n="0"/>
+        <role descr="entity perceived" f="pag" n="1"/>
       </roles>
     </roleset>
   </predicate>

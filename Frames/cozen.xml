@@ -2,16 +2,16 @@
   <predicate lemma="cozen">
     <roleset id="cozen.01" name="to cheat, trick out of something">
       <roles>
-        <role descr="Cheater, deceiver" f="PAG" n="0"/>
-        <role descr="Theme, money or possession being taken through trickery" f="PPT" n="1"/>
-        <role descr="Entity tricked, person/source of thing taken" f="DIR" n="2"/>
+        <role descr="Cheater, deceiver" f="pag" n="0"/>
+        <role descr="Theme, money or possession being taken through trickery" f="ppt" n="1"/>
+        <role descr="Entity tricked, person/source of thing taken" f="dir" n="2"/>
       </roles>
     </roleset>
     <roleset id="cozen.02" name="to deceive, potentially doop into doing something">
       <roles>
-        <role descr="Deceiver" f="PAG" n="0"/>
-        <role descr="Person deceived" f="PPT" n="1"/>
-        <role descr="Arg1 is deceived into doing, thinking what?" f="PRD" n="2"/>
+        <role descr="Deceiver" f="pag" n="0"/>
+        <role descr="Person deceived" f="ppt" n="1"/>
+        <role descr="Arg1 is deceived into doing, thinking what?" f="prd" n="2"/>
       </roles>
     </roleset>
   </predicate>

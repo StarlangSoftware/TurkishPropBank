@@ -2,8 +2,8 @@
   <predicate lemma="withstand">
     <roleset id="withstand.01" name="to oppose or resist">
       <roles>
-        <role descr="entity withstanding" f="PAG" n="0"/>
-        <role descr="entity opposed" f="PPT" n="1"/>
+        <role descr="entity withstanding" f="pag" n="0"/>
+        <role descr="entity opposed" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

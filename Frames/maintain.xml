@@ -2,9 +2,9 @@
   <predicate lemma="maintain">
     <roleset id="maintain.01" name="keep (up)">
       <roles>
-        <role descr="maintainer" f="PAG" n="0"/>
-        <role descr="thing maintained" f="PPT" n="1"/>
-        <role descr="benefactive/attribute of Arg1" f="PRD" n="2"/>
+        <role descr="maintainer" f="pag" n="0"/>
+        <role descr="thing maintained" f="ppt" n="1"/>
+        <role descr="benefactive/attribute of Arg1" f="prd" n="2"/>
       </roles>
     </roleset>
   </predicate>

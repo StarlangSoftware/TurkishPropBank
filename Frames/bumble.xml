@@ -2,8 +2,8 @@
   <predicate lemma="bumble">
     <roleset id="bumble.01" name="to speak or move in a confused way">
       <roles>
-        <role descr="confused mover" f="PAG" n="0"/>
-        <role descr="path" f="PPT" n="1"/>
+        <role descr="confused mover" f="pag" n="0"/>
+        <role descr="path" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

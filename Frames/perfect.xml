@@ -2,8 +2,8 @@
   <predicate lemma="perfect">
     <roleset id="perfect.01" name="to bring to perfection">
       <roles>
-        <role descr="cause of perfection, agent" f="PAG" n="0"/>
-        <role descr="entity perfected" f="PPT" n="1"/>
+        <role descr="cause of perfection, agent" f="pag" n="0"/>
+        <role descr="entity perfected" f="ppt" n="1"/>
       </roles>
     </roleset>
     <roleset id="perfect.02" name="flawless, exactly suited for">

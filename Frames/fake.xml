@@ -2,8 +2,8 @@
   <predicate lemma="fake">
     <roleset id="fake.01" name="to counterfeit">
       <roles>
-        <role descr="faker, agent" f="PAG" n="0"/>
-        <role descr="entity faked" f="PPT" n="1"/>
+        <role descr="faker, agent" f="pag" n="0"/>
+        <role descr="entity faked" f="ppt" n="1"/>
       </roles>
     </roleset>
     <roleset id="fake.02" name="counterfeit">

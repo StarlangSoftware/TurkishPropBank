@@ -2,7 +2,7 @@
   <predicate lemma="cackle">
     <roleset id="cackle.01" name="make the noise of a hen/witch">
       <roles>
-        <role descr="cackler" f="PAG" n="0"/>
+        <role descr="cackler" f="pag" n="0"/>
         <role descr="utterance" f="ppt" n="1"/>
         <role descr="hearer" f="gol" n="2"/>
       </roles>

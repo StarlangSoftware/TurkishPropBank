@@ -2,8 +2,8 @@
   <predicate lemma="enunciate">
     <roleset id="enunciate.01" name="vocalize">
       <roles>
-        <role descr="person speaking" f="PAG" n="0"/>
-        <role descr="speech" f="PPT" n="1"/>
+        <role descr="person speaking" f="pag" n="0"/>
+        <role descr="speech" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

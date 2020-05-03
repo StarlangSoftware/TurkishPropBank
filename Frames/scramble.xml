@@ -2,14 +2,14 @@
   <predicate lemma="scramble">
     <roleset id="scramble.01" name="try, attempt desperately">
       <roles>
-        <role descr="attempter" f="PAG" n="0"/>
-        <role descr="thing attempted" f="PPT" n="1"/>
+        <role descr="attempter" f="pag" n="0"/>
+        <role descr="thing attempted" f="ppt" n="1"/>
       </roles>
     </roleset>
     <roleset id="scramble.02" name="mix together into random order">
       <roles>
-        <role descr="scrambler" f="PAG" n="0"/>
-        <role descr="thing being randomized, mixed" f="PPT" n="1"/>
+        <role descr="scrambler" f="pag" n="0"/>
+        <role descr="thing being randomized, mixed" f="ppt" n="1"/>
         <role descr="benefactive" f="gol" n="3"/>
       </roles>
     </roleset>

@@ -2,15 +2,15 @@
   <predicate lemma="coal">
     <roleset id="coal.01" name="burn to coal">
       <roles>
-        <role descr="agent or cause of transformation" f="PAG" n="0"/>
+        <role descr="agent or cause of transformation" f="pag" n="0"/>
         <role descr="thing becomeing coal" f="ppt" n="1"/>
       </roles>
     </roleset>
     <roleset id="coal.02" name="supply with coal">
       <roles>
-        <role descr="Agent, entity supplying the coal" f="PAG" n="0"/>
-        <role descr="Vessel taking on coal" f="GOL" n="1"/>
-        <role descr="the coal" f="PPT" n="2"/>
+        <role descr="Agent, entity supplying the coal" f="pag" n="0"/>
+        <role descr="Vessel taking on coal" f="gol" n="1"/>
+        <role descr="the coal" f="ppt" n="2"/>
       </roles>
     </roleset>
   </predicate>

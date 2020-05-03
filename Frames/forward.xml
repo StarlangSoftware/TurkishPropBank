@@ -2,9 +2,9 @@
   <predicate lemma="forward">
     <roleset id="forward.01" name="to send on">
       <roles>
-        <role descr="sender, agent" f="PAG" n="0"/>
-        <role descr="entity forwarded" f="PPT" n="1"/>
-        <role descr="destination" f="GOL" n="2"/>
+        <role descr="sender, agent" f="pag" n="0"/>
+        <role descr="entity forwarded" f="ppt" n="1"/>
+        <role descr="destination" f="gol" n="2"/>
       </roles>
     </roleset>
   </predicate>

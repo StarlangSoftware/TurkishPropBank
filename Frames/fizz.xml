@@ -2,7 +2,7 @@
   <predicate lemma="fizz">
     <roleset id="fizz.01" name="emit bubbles rapidly,   make noise while doing so">
       <roles>
-        <role descr="fizzy thing" f="PPT" n="0"/>
+        <role descr="fizzy thing" f="ppt" n="0"/>
       </roles>
     </roleset>
   </predicate>

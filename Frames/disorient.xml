@@ -2,7 +2,7 @@
   <predicate lemma="disorient">
     <roleset id="disorient.01" name="cause to lose bearings, causing to lose bearings or get lost">
       <roles>
-        <role descr="Causer" f="PAG" n="0"/>
+        <role descr="Causer" f="pag" n="0"/>
         <role descr="entity disoriented" f="ppt" n="1"/>
       </roles>
     </roleset>

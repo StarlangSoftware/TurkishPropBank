@@ -4,7 +4,7 @@
       <roles>
         <role descr="causer" f="pag" n="0"/>
         <role descr="thing getting lighter" f="ppt" n="1"/>
-        <role descr="EXT" f="ext" n="2"/>
+        <role descr="ext" f="ext" n="2"/>
         <role descr="start point" f="vsp" n="3"/>
         <role descr="end point" f="prd" n="4"/>
       </roles>
@@ -15,7 +15,7 @@
       <roles>
         <role descr="causer" f="pag" n="0"/>
         <role descr="thing getting lighter" f="ppt" n="1"/>
-        <role descr="EXT" f="ext" n="2"/>
+        <role descr="ext" f="ext" n="2"/>
       </roles>
     </roleset>
     <roleset id="lighten_up.03" name="become easier">
@@ -35,8 +35,8 @@
   <predicate lemma="light">
     <roleset id="light.04" name="to set on fire or make lighter">
       <roles>
-        <role descr="setter of fire, increaser of illumination, agent" f="PAG" n="0"/>
-        <role descr="entity lit" f="PPT" n="1"/>
+        <role descr="setter of fire, increaser of illumination, agent" f="pag" n="0"/>
+        <role descr="entity lit" f="ppt" n="1"/>
       </roles>
     </roleset>
     <roleset id="light.05" name="light-hearted">
@@ -61,8 +61,8 @@
   <predicate lemma="light_up">
     <roleset id="light_up.08" name="to illuminate">
       <roles>
-        <role descr="causer of illumination or fire, agent" f="PAG" n="0"/>
-        <role descr="entity lit" f="PPT" n="1"/>
+        <role descr="causer of illumination or fire, agent" f="pag" n="0"/>
+        <role descr="entity lit" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

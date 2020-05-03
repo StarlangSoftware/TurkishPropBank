@@ -3,7 +3,7 @@
     <roleset id="corroborate.01" name="confirm truth of a statement">
       <roles>
         <role descr="confirmation of truth, supporting evidence" f="cau" n="0"/>
-        <role descr="statement" f="PPT" n="1"/>
+        <role descr="statement" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

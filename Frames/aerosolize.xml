@@ -2,8 +2,8 @@
   <predicate lemma="aerosolize">
     <roleset id="aerosolize.01" name="to disperse as an aerosol">
       <roles>
-        <role descr="Agent, disperser" f="PAG" n="0"/>
-        <role descr="Substance being aerosolized" f="PPT" n="1"/>
+        <role descr="Agent, disperser" f="pag" n="0"/>
+        <role descr="Substance being aerosolized" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

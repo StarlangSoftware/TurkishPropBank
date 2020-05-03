@@ -2,9 +2,9 @@
   <predicate lemma="decry">
     <roleset id="decry.01" name="publicly express low opinion of">
       <roles>
-        <role descr="agent, decrier" f="PAG" n="0"/>
-        <role descr="thing with low value" f="PPT" n="1"/>
-        <role descr="reason" f="PRD" n="2"/>
+        <role descr="agent, decrier" f="pag" n="0"/>
+        <role descr="thing with low value" f="ppt" n="1"/>
+        <role descr="reason" f="prd" n="2"/>
       </roles>
     </roleset>
   </predicate>

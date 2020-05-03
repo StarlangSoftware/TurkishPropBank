@@ -2,17 +2,17 @@
   <predicate lemma="link">
     <roleset id="link.01" name="attach">
       <roles>
-        <role descr="agent, entity doing the tying" f="PAG" n="0"/>
+        <role descr="agent, entity doing the tying" f="pag" n="0"/>
         <role descr="first or all things being tied" f="ppt" n="1"/>
         <role descr="second thing, linked to what" f="ppt" n="2"/>
-        <role descr="instrument, string" f="MNR" n="3"/>
+        <role descr="instrument, string" f="mnr" n="3"/>
       </roles>
     </roleset>
   </predicate>
   <predicate lemma="link_up">
     <roleset id="link_up.02" name="join">
       <roles>
-        <role descr="agent, entity doing the tying" f="PAG" n="0"/>
+        <role descr="agent, entity doing the tying" f="pag" n="0"/>
         <role descr="first or all things being tied" f="ppt" n="1"/>
         <role descr="second thing, linked to what" f="ppt" n="2"/>
         <role descr="instrument, string" f="mnr" n="3"/>

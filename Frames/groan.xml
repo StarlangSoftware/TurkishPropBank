@@ -2,9 +2,9 @@
   <predicate lemma="groan">
     <roleset id="groan.01" name="to utter with a groan">
       <roles>
-        <role descr="groaner" f="PAG" n="0"/>
-        <role descr="groaned utterance" f="PPT" n="1"/>
-        <role descr="groan at" f="GOL" n="2"/>
+        <role descr="groaner" f="pag" n="0"/>
+        <role descr="groaned utterance" f="ppt" n="1"/>
+        <role descr="groan at" f="gol" n="2"/>
       </roles>
     </roleset>
   </predicate>

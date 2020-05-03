@@ -2,9 +2,9 @@
   <predicate lemma="apprentice">
     <roleset id="apprentice.01" name="to bind or place with an employer or   craftsman for instruction in trade">
       <roles>
-        <role descr="apprentice" f="PPT" n="0"/>
-        <role descr="skill" f="VSP" n="1"/>
-        <role descr="employer or craftsman" f="PAG" n="2"/>
+        <role descr="apprentice" f="ppt" n="0"/>
+        <role descr="skill" f="vsp" n="1"/>
+        <role descr="employer or craftsman" f="pag" n="2"/>
       </roles>
     </roleset>
   </predicate>

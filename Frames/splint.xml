@@ -2,8 +2,8 @@
   <predicate lemma="splint">
     <roleset id="splint.01" name="support with or as if with a splint">
       <roles>
-        <role descr="doctor" f="PAG" n="0"/>
-        <role descr="patient or broken limb" f="PPT" n="1"/>
+        <role descr="doctor" f="pag" n="0"/>
+        <role descr="patient or broken limb" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

@@ -2,8 +2,8 @@
   <predicate lemma="fuss">
     <roleset id="fuss.01" name="to worry or overprotect, crying, worrying, making a big deal over">
       <roles>
-        <role descr="fusser, agent" f="PAG" n="0"/>
-        <role descr="fussed over, target of emotion" f="PPT" n="1"/>
+        <role descr="fusser, agent" f="pag" n="0"/>
+        <role descr="fussed over, target of emotion" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

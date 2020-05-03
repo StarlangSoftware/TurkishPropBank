@@ -2,13 +2,13 @@
   <predicate lemma="beetle">
     <roleset id="beetle.01" name="to pound with a beetle -- no, really!">
       <roles>
-        <role descr="Agent, pounder" f="PAG" n="0"/>
-        <role descr="Entity pounded with beetle" f="PPT" n="1"/>
+        <role descr="Agent, pounder" f="pag" n="0"/>
+        <role descr="Entity pounded with beetle" f="ppt" n="1"/>
       </roles>
     </roleset>
     <roleset id="beetle.02" name="to move, travel like a beetle">
       <roles>
-        <role descr="Entity in motion" f="PPT" n="1"/>
+        <role descr="Entity in motion" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

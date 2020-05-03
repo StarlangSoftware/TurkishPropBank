@@ -2,8 +2,8 @@
   <predicate lemma="privatize">
     <roleset id="privatize.01" name="sell off government property, selling off gov't property to the private sector">
       <roles>
-        <role descr="government, usually" f="PAG" n="0"/>
-        <role descr="property, usually industry" f="PPT" n="1"/>
+        <role descr="government, usually" f="pag" n="0"/>
+        <role descr="property, usually industry" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

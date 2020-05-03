@@ -3,7 +3,7 @@
     <roleset id="pain.01" name="cause hurt to">
       <roles>
         <role descr="entity causing pain, cause" f="pag" n="0"/>
-        <role descr="entity experiencing hurt/damage" f="PPT" n="1"/>
+        <role descr="entity experiencing hurt/damage" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

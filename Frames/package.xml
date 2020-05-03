@@ -2,9 +2,9 @@
   <predicate lemma="package">
     <roleset id="package.01" name="to place into a package">
       <roles>
-        <role descr="packager, agent" f="PAG" n="0"/>
-        <role descr="entity packaged" f="PPT" n="1"/>
-        <role descr="packing material/ package" f="PPT" n="2"/>
+        <role descr="packager, agent" f="pag" n="0"/>
+        <role descr="entity packaged" f="ppt" n="1"/>
+        <role descr="packing material/ package" f="ppt" n="2"/>
         <role descr="instrument" f="mnr" n="3"/>
       </roles>
     </roleset>

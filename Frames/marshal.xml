@@ -2,8 +2,8 @@
   <predicate lemma="marshal">
     <roleset id="marshal.01" name="gather together">
       <roles>
-        <role descr="gatherer" f="PAG" n="0"/>
-        <role descr="thing gathered" f="PPT" n="1"/>
+        <role descr="gatherer" f="pag" n="0"/>
+        <role descr="thing gathered" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

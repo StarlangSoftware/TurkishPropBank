@@ -2,8 +2,8 @@
   <predicate lemma="renew">
     <roleset id="renew.01" name="make like new">
       <roles>
-        <role descr="agent, causer of renewal" f="PAG" n="0"/>
-        <role descr="thing becoming newish" f="PPT" n="1"/>
+        <role descr="agent, causer of renewal" f="pag" n="0"/>
+        <role descr="thing becoming newish" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

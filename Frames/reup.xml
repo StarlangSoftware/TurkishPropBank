@@ -2,8 +2,8 @@
   <predicate lemma="reup">
     <roleset id="reup.01" name="up again">
       <roles>
-        <role descr="causer" f="PAG" n="0"/>
-        <role descr="thing re-upped" f="PPT" n="1"/>
+        <role descr="causer" f="pag" n="0"/>
+        <role descr="thing re-upped" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

@@ -2,8 +2,8 @@
   <predicate lemma="osculate">
     <roleset id="osculate.01" name="kiss by pressing lips together">
       <roles>
-        <role descr="couple, or first kisser" f="PAG" n="0"/>
-        <role descr="other half of the couple if listed separately" f="PPT" n="1"/>
+        <role descr="couple, or first kisser" f="pag" n="0"/>
+        <role descr="other half of the couple if listed separately" f="ppt" n="1"/>
       </roles>
     </roleset>
     <roleset id="osculate.02" name="share at least three common points">

@@ -23,7 +23,7 @@
         <role descr="agent/causer" f="pag" n="0"/>
         <role descr="entity who is protected" f="ppt" n="1"/>
         <role descr="specific domain in which arg1 is safe" f="vsp" n="2"/>
-        <role descr="potential danger" f="GOL" n="3"/>
+        <role descr="potential danger" f="gol" n="3"/>
       </roles>
     </roleset>
   </predicate>

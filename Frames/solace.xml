@@ -2,8 +2,8 @@
   <predicate lemma="solace">
     <roleset id="solace.01" name="cause to be comfortable, at ease">
       <roles>
-        <role descr="comforter" f="PAG" n="0"/>
-        <role descr="patient, made comfortable" f="PPT" n="1"/>
+        <role descr="comforter" f="pag" n="0"/>
+        <role descr="patient, made comfortable" f="ppt" n="1"/>
         <role descr="instrument or manner, only when separate  from agent" f="mnr" n="2"/>
       </roles>
     </roleset>

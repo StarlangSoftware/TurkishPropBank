@@ -2,18 +2,18 @@
   <predicate lemma="risk">
     <roleset id="risk.01" name="risk, attempt, try">
       <roles>
-        <role descr="entity risking something" f="PAG" n="0"/>
-        <role descr="risky action undertaken" f="PPT" n="1"/>
-        <role descr="thing in jeopardy, asset that could be lost, or negative outcome risked" f="PPT" n="2"/>
+        <role descr="entity risking something" f="pag" n="0"/>
+        <role descr="risky action undertaken" f="ppt" n="1"/>
+        <role descr="thing in jeopardy, asset that could be lost, or negative outcome risked" f="ppt" n="2"/>
       </roles>
     </roleset>
   </predicate>
   <predicate lemma="risky">
     <roleset id="risky.02" name="risk, attempt, try">
       <roles>
-        <role descr="entity risking something" f="PAG" n="0"/>
-        <role descr="risky action undertaken" f="PPT" n="1"/>
-        <role descr="thing in jeopardy, asset that could be lost, or negative outcome risked" f="PPT" n="2"/>
+        <role descr="entity risking something" f="pag" n="0"/>
+        <role descr="risky action undertaken" f="ppt" n="1"/>
+        <role descr="thing in jeopardy, asset that could be lost, or negative outcome risked" f="ppt" n="2"/>
       </roles>
     </roleset>
   </predicate>

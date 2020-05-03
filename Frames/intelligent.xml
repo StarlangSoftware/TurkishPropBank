@@ -2,8 +2,8 @@
   <predicate lemma="intelligent">
     <roleset id="intelligent.01" name="intelligent">
       <roles>
-        <role descr="smartie, intelligent entity" f="PPT" n="1"/>
-        <role descr="skill, intelligent in/at what?" f="PPT" n="2"/>
+        <role descr="smartie, intelligent entity" f="ppt" n="1"/>
+        <role descr="skill, intelligent in/at what?" f="ppt" n="2"/>
       </roles>
     </roleset>
   </predicate>

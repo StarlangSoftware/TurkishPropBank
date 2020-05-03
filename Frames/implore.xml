@@ -2,9 +2,9 @@
   <predicate lemma="implore">
     <roleset id="implore.01" name="to ask, beg">
       <roles>
-        <role descr="asker, agent" f="PAG" n="0"/>
-        <role descr="thing asked for" f="PPT" n="1"/>
-        <role descr="hearer" f="PPT" n="2"/>
+        <role descr="asker, agent" f="pag" n="0"/>
+        <role descr="thing asked for" f="ppt" n="1"/>
+        <role descr="hearer" f="ppt" n="2"/>
       </roles>
     </roleset>
   </predicate>

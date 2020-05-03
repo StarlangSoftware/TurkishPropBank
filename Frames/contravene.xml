@@ -2,8 +2,8 @@
   <predicate lemma="contravene">
     <roleset id="contravene.01" name="break the rules">
       <roles>
-        <role descr="breaker of rules" f="PAG" n="0"/>
-        <role descr="rules" f="PPT" n="1"/>
+        <role descr="breaker of rules" f="pag" n="0"/>
+        <role descr="rules" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

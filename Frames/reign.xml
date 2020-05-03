@@ -2,8 +2,8 @@
   <predicate lemma="reign">
     <roleset id="reign.01" name="to exercise sovereign power, dominate">
       <roles>
-        <role descr="entity reigning" f="PAG" n="0"/>
-        <role descr="empire" f="PPT" n="1"/>
+        <role descr="entity reigning" f="pag" n="0"/>
+        <role descr="empire" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

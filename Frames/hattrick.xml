@@ -2,7 +2,7 @@
   <predicate lemma="hattrick">
     <roleset id="hattrick.01" name="scoring 3 goals in one game">
       <roles>
-        <role descr="player scoring goals" f="PAG" n="0"/>
+        <role descr="player scoring goals" f="pag" n="0"/>
         <role descr="opponent" f="gol" n="1"/>
       </roles>
     </roleset>

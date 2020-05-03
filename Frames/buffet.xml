@@ -2,9 +2,9 @@
   <predicate lemma="buffet">
     <roleset id="buffet.01" name="pelt, throw lots of things at someone">
       <roles>
-        <role descr="thrower" f="PAG" n="0"/>
-        <role descr="victim" f="GOL" n="1"/>
-        <role descr="things thrown" f="PPT" n="2"/>
+        <role descr="thrower" f="pag" n="0"/>
+        <role descr="victim" f="gol" n="1"/>
+        <role descr="things thrown" f="ppt" n="2"/>
       </roles>
     </roleset>
   </predicate>

@@ -2,8 +2,8 @@
   <predicate lemma="interfere">
     <roleset id="interfere.01" name="to meddle, intervene unasked">
       <roles>
-        <role descr="agent" f="PAG" n="0"/>
-        <role descr="interfere with/in" f="PPT" n="1"/>
+        <role descr="agent" f="pag" n="0"/>
+        <role descr="interfere with/in" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

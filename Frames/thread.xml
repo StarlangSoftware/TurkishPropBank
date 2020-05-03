@@ -2,9 +2,9 @@
   <predicate lemma="thread">
     <roleset id="thread.01" name="move or cause to move in a non-linear fashion">
       <roles>
-        <role descr="causer of motion" f="PAG" n="0"/>
-        <role descr="thing in motion" f="PPT" n="1"/>
-        <role descr="medium of threading" f="PPT" n="2"/>
+        <role descr="causer of motion" f="pag" n="0"/>
+        <role descr="thing in motion" f="ppt" n="1"/>
+        <role descr="medium of threading" f="ppt" n="2"/>
       </roles>
     </roleset>
   </predicate>

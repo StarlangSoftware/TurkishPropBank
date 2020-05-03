@@ -2,7 +2,7 @@
   <predicate lemma="retrograde">
     <roleset id="retrograde.01" name="move backwards or in the opposite direction, literally or to slip in quality">
       <roles>
-        <role descr="thing moving backwards" f="PPT" n="1"/>
+        <role descr="thing moving backwards" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

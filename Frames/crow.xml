@@ -2,8 +2,8 @@
   <predicate lemma="crow">
     <roleset id="crow.01" name="to gloat or boast">
       <roles>
-        <role descr="gloater, agent" f="PAG" n="0"/>
-        <role descr="entity crowed about" f="PPT" n="1"/>
+        <role descr="gloater, agent" f="pag" n="0"/>
+        <role descr="entity crowed about" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

@@ -2,8 +2,8 @@
   <predicate lemma="rewrite">
     <roleset id="rewrite.01" name="to write again, revise">
       <roles>
-        <role descr="writer" f="PAG" n="0"/>
-        <role descr="thing written" f="PPT" n="1"/>
+        <role descr="writer" f="pag" n="0"/>
+        <role descr="thing written" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

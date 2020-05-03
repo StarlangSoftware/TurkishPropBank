@@ -2,8 +2,8 @@
   <predicate lemma="beget">
     <roleset id="beget.01" name="bring into existence">
       <roles>
-        <role descr="begetter" f="CAU" n="0"/>
-        <role descr="begotten?" f="PPT" n="1"/>
+        <role descr="begetter" f="cau" n="0"/>
+        <role descr="begotten?" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

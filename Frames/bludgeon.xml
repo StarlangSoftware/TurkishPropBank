@@ -2,9 +2,9 @@
   <predicate lemma="bludgeon">
     <roleset id="bludgeon.01" name="hit hard">
       <roles>
-        <role descr="agent, hitter - animate only!" f="PAG" n="0"/>
-        <role descr="thing hit" f="PPT" n="1"/>
-        <role descr="instrument, thing hit by or with" f="MNR" n="2"/>
+        <role descr="agent, hitter - animate only!" f="pag" n="0"/>
+        <role descr="thing hit" f="ppt" n="1"/>
+        <role descr="instrument, thing hit by or with" f="mnr" n="2"/>
       </roles>
     </roleset>
   </predicate>

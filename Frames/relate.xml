@@ -36,9 +36,9 @@
   <predicate lemma="relative">
     <roleset id="relative.05" name="relative">
       <roles>
-        <role descr="entity being compared" f="PPT" n="1"/>
-        <role descr="quality" f="EXT" n="2"/>
-        <role descr="point of comparison, relative to what/whom?" f="VSP" n="3"/>
+        <role descr="entity being compared" f="ppt" n="1"/>
+        <role descr="quality" f="ext" n="2"/>
+        <role descr="point of comparison, relative to what/whom?" f="vsp" n="3"/>
       </roles>
     </roleset>
   </predicate>

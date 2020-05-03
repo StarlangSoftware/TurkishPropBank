@@ -2,7 +2,7 @@
   <predicate lemma="comanage">
     <roleset id="comanage.01" name="supervise, control, with a partner">
       <roles>
-        <role descr="co-manager(s)" f="PAG" n="0"/>
+        <role descr="co-manager(s)" f="pag" n="0"/>
         <role descr="thing managed" f="ppt" n="1"/>
       </roles>
     </roleset>

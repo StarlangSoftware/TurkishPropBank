@@ -2,9 +2,9 @@
   <predicate lemma="situate">
     <roleset id="situate.01" name="(cause to) be located">
       <roles>
-        <role descr="cause of situation, agent" f="PAG" n="0"/>
-        <role descr="thing situated" f="PPT" n="1"/>
-        <role descr="place" f="GOL" n="2"/>
+        <role descr="cause of situation, agent" f="pag" n="0"/>
+        <role descr="thing situated" f="ppt" n="1"/>
+        <role descr="place" f="gol" n="2"/>
       </roles>
     </roleset>
   </predicate>

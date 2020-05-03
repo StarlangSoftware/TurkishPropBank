@@ -2,8 +2,8 @@
   <predicate lemma="feign">
     <roleset id="feign.01" name="to make a false show of, simulate">
       <roles>
-        <role descr="pretender, agent" f="PAG" n="0"/>
-        <role descr="entity faked, simulated" f="PPT" n="1"/>
+        <role descr="pretender, agent" f="pag" n="0"/>
+        <role descr="entity faked, simulated" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

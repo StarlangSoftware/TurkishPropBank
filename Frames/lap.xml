@@ -2,8 +2,8 @@
   <predicate lemma="lap">
     <roleset id="lap.01" name="apply the tongue to gently">
       <roles>
-        <role descr="agent, lapper" f="PAG" n="0"/>
-        <role descr="thing lapped (at)" f="PPT" n="1"/>
+        <role descr="agent, lapper" f="pag" n="0"/>
+        <role descr="thing lapped (at)" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

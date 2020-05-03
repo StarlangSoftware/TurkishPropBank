@@ -3,7 +3,7 @@
     <roleset id="skew.01" name="to distort">
       <roles>
         <role descr="causer" f="cau" n="0"/>
-        <role descr="entity skewed" f="PPT" n="1"/>
+        <role descr="entity skewed" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

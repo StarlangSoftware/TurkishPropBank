@@ -2,7 +2,7 @@
   <predicate lemma="binge">
     <roleset id="binge.01" name="consuming excessively, uncontrolledly">
       <roles>
-        <role descr="consumer" f="PAG" n="0"/>
+        <role descr="consumer" f="pag" n="0"/>
         <role descr="consumed" f="ppt" n="1"/>
       </roles>
     </roleset>

@@ -2,8 +2,8 @@
   <predicate lemma="jig">
     <roleset id="jig.01" name="tango">
       <roles>
-        <role descr="dancers" f="PPT" n="0"/>
-        <role descr="explicit mention of dance itself (rare), or path" f="LOC" n="1"/>
+        <role descr="dancers" f="ppt" n="0"/>
+        <role descr="explicit mention of dance itself (rare), or path" f="loc" n="1"/>
       </roles>
     </roleset>
   </predicate>

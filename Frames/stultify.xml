@@ -2,9 +2,9 @@
   <predicate lemma="stultify">
     <roleset id="stultify.01" name="to cause to appear foolish or ridiculous">
       <roles>
-        <role descr="causer of appearance" f="PAG" n="0"/>
-        <role descr="entity appearing foolish" f="PPT" n="1"/>
-        <role descr="instrument, fooling manner" f="MNR" n="2"/>
+        <role descr="causer of appearance" f="pag" n="0"/>
+        <role descr="entity appearing foolish" f="ppt" n="1"/>
+        <role descr="instrument, fooling manner" f="mnr" n="2"/>
       </roles>
     </roleset>
   </predicate>

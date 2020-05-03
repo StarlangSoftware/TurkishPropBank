@@ -2,8 +2,8 @@
   <predicate lemma="evince">
     <roleset id="evince.01" name="to show clearly">
       <roles>
-        <role descr="shower, agent" f="PAG" n="0"/>
-        <role descr="thing shown" f="PPT" n="1"/>
+        <role descr="shower, agent" f="pag" n="0"/>
+        <role descr="thing shown" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

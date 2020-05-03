@@ -12,7 +12,7 @@
   <predicate lemma="lock_in">
     <roleset id="lock_in.02" name="establish surely">
       <roles>
-        <role descr="agent, fixer" f="PAG" n="0"/>
+        <role descr="agent, fixer" f="pag" n="0"/>
         <role descr="thing made" f="ppt" n="1"/>
         <role descr="benefactive" f="gol" n="2"/>
       </roles>
@@ -21,7 +21,7 @@
   <predicate lemma="lock_up">
     <roleset id="lock_up.03" name="throw in jail">
       <roles>
-        <role descr="officer of the court" f="PAG" n="0"/>
+        <role descr="officer of the court" f="pag" n="0"/>
         <role descr="criminal" f="ppt" n="1"/>
         <role descr="secondary predication" f="prd" n="2"/>
       </roles>
@@ -36,7 +36,7 @@
   <predicate lemma="lock_out">
     <roleset id="lock_out.05" name="exclude, locked _out">
       <roles>
-        <role descr="agent, entity being excluding" f="PAG" n="0"/>
+        <role descr="agent, entity being excluding" f="pag" n="0"/>
         <role descr="thing excluded" f="ppt" n="1"/>
         <role descr="excluded from" f="dir" n="2"/>
       </roles>

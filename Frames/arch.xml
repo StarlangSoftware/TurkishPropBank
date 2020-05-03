@@ -2,8 +2,8 @@
   <predicate lemma="arch">
     <roleset id="arch.01" name="be in arch-like configuration">
       <roles>
-        <role descr="causer of arching motion/state" f="PAG" n="0"/>
-        <role descr="thing in arch-like configuration" f="PPT" n="1"/>
+        <role descr="causer of arching motion/state" f="pag" n="0"/>
+        <role descr="thing in arch-like configuration" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

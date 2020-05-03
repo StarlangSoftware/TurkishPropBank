@@ -2,16 +2,16 @@
   <predicate lemma="project">
     <roleset id="project.01" name="(cause to) stick out">
       <roles>
-        <role descr="causer of projection" f="PAG" n="0"/>
-        <role descr="thing projected/projecting" f="PPT" n="1"/>
-        <role descr="into/onto" f="LOC" n="2"/>
+        <role descr="causer of projection" f="pag" n="0"/>
+        <role descr="thing projected/projecting" f="ppt" n="1"/>
+        <role descr="into/onto" f="loc" n="2"/>
       </roles>
     </roleset>
     <roleset id="project.02" name="tell the future">
       <roles>
-        <role descr="fortune teller" f="PAG" n="0"/>
-        <role descr="prediction, subject matter of prediction" f="PPT" n="1"/>
-        <role descr="attribute, arg1 predicted to have what characteristic?" f="VSP" n="2"/>
+        <role descr="fortune teller" f="pag" n="0"/>
+        <role descr="prediction, subject matter of prediction" f="ppt" n="1"/>
+        <role descr="attribute, arg1 predicted to have what characteristic?" f="vsp" n="2"/>
       </roles>
     </roleset>
   </predicate>

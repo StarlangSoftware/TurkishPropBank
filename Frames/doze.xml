@@ -2,14 +2,14 @@
   <predicate lemma="doze">
     <roleset id="doze.01" name="sleep lightly">
       <roles>
-        <role descr="sleeper" f="PAG" n="0"/>
+        <role descr="sleeper" f="pag" n="0"/>
       </roles>
     </roleset>
   </predicate>
   <predicate lemma="doze_off">
     <roleset id="doze_off.02" name="fall into a light sleep">
       <roles>
-        <role descr="sleeper" f="PAG" n="0"/>
+        <role descr="sleeper" f="pag" n="0"/>
       </roles>
     </roleset>
   </predicate>

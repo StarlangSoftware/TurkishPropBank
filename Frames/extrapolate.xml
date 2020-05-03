@@ -2,9 +2,9 @@
   <predicate lemma="extrapolate">
     <roleset id="extrapolate.01" name="estimate by extending known information">
       <roles>
-        <role descr="thinker, agent" f="PAG" n="0"/>
-        <role descr="known information" f="PPT" n="1"/>
-        <role descr="new information" f="PPT" n="2"/>
+        <role descr="thinker, agent" f="pag" n="0"/>
+        <role descr="known information" f="ppt" n="1"/>
+        <role descr="new information" f="ppt" n="2"/>
       </roles>
     </roleset>
   </predicate>

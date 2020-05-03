@@ -2,15 +2,15 @@
   <predicate lemma="desire">
     <roleset id="desire.01" name="want, crave, desire">
       <roles>
-        <role descr="wanter" f="PAG" n="0"/>
-        <role descr="wanted" f="PPT" n="1"/>
+        <role descr="wanter" f="pag" n="0"/>
+        <role descr="wanted" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>
   <predicate lemma="desirable">
     <roleset id="desirable.02" name="worthy of wanting">
       <roles>
-        <role descr="wanter" f="PAG" n="0"/>
+        <role descr="wanter" f="pag" n="0"/>
         <role descr="wanted" f="ppt" n="1"/>
       </roles>
     </roleset>

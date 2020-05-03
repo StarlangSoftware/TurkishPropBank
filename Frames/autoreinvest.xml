@@ -2,7 +2,7 @@
   <predicate lemma="autoreinvest">
     <roleset id="autoreinvest.01" name="put $ into an investment, again, automatically">
       <roles>
-        <role descr="investor" f="PAG" n="0"/>
+        <role descr="investor" f="pag" n="0"/>
         <role descr="invested" f="ppt" n="1"/>
         <role descr="invested in what" f="gol" n="2"/>
       </roles>

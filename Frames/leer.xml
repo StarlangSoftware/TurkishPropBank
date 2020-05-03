@@ -2,8 +2,8 @@
   <predicate lemma="leer">
     <roleset id="leer.01" name="look lasciviously">
       <roles>
-        <role descr="looker, pervert" f="PPT" n="0"/>
-        <role descr="sight" f="PAG" n="1"/>
+        <role descr="looker, pervert" f="ppt" n="0"/>
+        <role descr="sight" f="pag" n="1"/>
       </roles>
     </roleset>
   </predicate>

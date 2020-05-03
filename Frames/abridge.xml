@@ -2,8 +2,8 @@
   <predicate lemma="abridge">
     <roleset id="abridge.01" name="to cut short">
       <roles>
-        <role descr="causer" f="PAG" n="0"/>
-        <role descr="thing abridged" f="PPT" n="1"/>
+        <role descr="causer" f="pag" n="0"/>
+        <role descr="thing abridged" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

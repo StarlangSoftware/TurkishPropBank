@@ -2,9 +2,9 @@
   <predicate lemma="sole">
     <roleset id="sole.01" name="put a sole on">
       <roles>
-        <role descr="Shoemaker, agent" f="PAG" n="0"/>
-        <role descr="Shoe, location/entity covered with sole" f="GOL" n="1"/>
-        <role descr="Sole itself, type of sole" f="PPT" n="2"/>
+        <role descr="Shoemaker, agent" f="pag" n="0"/>
+        <role descr="Shoe, location/entity covered with sole" f="gol" n="1"/>
+        <role descr="Sole itself, type of sole" f="ppt" n="2"/>
       </roles>
     </roleset>
   </predicate>

@@ -2,14 +2,14 @@
   <predicate lemma="jab">
     <roleset id="jab.01" name="hit sharply, hit sharply or metaphorically: insult">
       <roles>
-        <role descr="hitter" f="PAG" n="0"/>
-        <role descr="thing hit" f="PPT" n="1"/>
-        <role descr="instrument of hitting" f="MNR" n="2"/>
+        <role descr="hitter" f="pag" n="0"/>
+        <role descr="thing hit" f="ppt" n="1"/>
+        <role descr="instrument of hitting" f="mnr" n="2"/>
       </roles>
     </roleset>
     <roleset id="jab.02" name="move with jabbing motion">
       <roles>
-        <role descr="cause of motion" f="PAG" n="0"/>
+        <role descr="cause of motion" f="pag" n="0"/>
         <role descr="entity in motion" f="ppt" n="1"/>
         <role descr="path" f="dir" n="2"/>
       </roles>

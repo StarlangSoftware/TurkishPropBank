@@ -13,7 +13,7 @@
   <predicate lemma="ramification">
     <roleset id="ramification.02" name="effect">
       <roles>
-        <role descr="thing affecting" f="PAG" n="0"/>
+        <role descr="thing affecting" f="pag" n="0"/>
         <role descr="thing affected" f="ppt" n="1"/>
         <role descr="the effect itself" f="vsp" n="2"/>
       </roles>

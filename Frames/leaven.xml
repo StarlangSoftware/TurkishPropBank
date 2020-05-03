@@ -2,9 +2,9 @@
   <predicate lemma="leaven">
     <roleset id="leaven.01" name="make rise by adding leaven, permeate with something to cause a change">
       <roles>
-        <role descr="baker, agent adding leaven or other ingredient" f="PAG" n="0"/>
-        <role descr="bread, thing receiving leaven or being permeated" f="GOL" n="1"/>
-        <role descr="leaven itself, type of leaven, thing added to permeate" f="PPT" n="2"/>
+        <role descr="baker, agent adding leaven or other ingredient" f="pag" n="0"/>
+        <role descr="bread, thing receiving leaven or being permeated" f="gol" n="1"/>
+        <role descr="leaven itself, type of leaven, thing added to permeate" f="ppt" n="2"/>
       </roles>
     </roleset>
   </predicate>

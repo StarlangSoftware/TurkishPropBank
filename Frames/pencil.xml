@@ -2,9 +2,9 @@
   <predicate lemma="pencil">
     <roleset id="pencil.01" name="write">
       <roles>
-        <role descr="writer" f="PAG" n="0"/>
-        <role descr="thing penciled" f="PPT" n="1"/>
-        <role descr="destination" f="GOL" n="2"/>
+        <role descr="writer" f="pag" n="0"/>
+        <role descr="thing penciled" f="ppt" n="1"/>
+        <role descr="destination" f="gol" n="2"/>
       </roles>
     </roleset>
   </predicate>

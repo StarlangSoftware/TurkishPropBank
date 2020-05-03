@@ -2,22 +2,22 @@
   <predicate lemma="crumb">
     <roleset id="crumb.01" name="coat with breadcrumbs">
       <roles>
-        <role descr="Chef, coater" f="PAG" n="0"/>
-        <role descr="Meat, entity coated in bread crumbs" f="GOL" n="1"/>
-        <role descr="Bread crumbs themselves, usually specifies type of crumb" f="PPT" n="2"/>
+        <role descr="Chef, coater" f="pag" n="0"/>
+        <role descr="Meat, entity coated in bread crumbs" f="gol" n="1"/>
+        <role descr="Bread crumbs themselves, usually specifies type of crumb" f="ppt" n="2"/>
       </roles>
     </roleset>
     <roleset id="crumb.02" name="break up into crumbs">
       <roles>
-        <role descr="Volitional agent breaking up arg1" f="PAG" n="0"/>
-        <role descr="bread, entity broken up into crumbs" f="PPT" n="1"/>
-        <role descr="Instrument" f="MNR" n="2"/>
+        <role descr="Volitional agent breaking up arg1" f="pag" n="0"/>
+        <role descr="bread, entity broken up into crumbs" f="ppt" n="1"/>
+        <role descr="Instrument" f="mnr" n="2"/>
       </roles>
     </roleset>
     <roleset id="crumb.03" name="remove, clean crumbs from a table">
       <roles>
-        <role descr="Waiter, busboy cleaning crumbs" f="PAG" n="0"/>
-        <role descr="table" f="PPT" n="1"/>
+        <role descr="Waiter, busboy cleaning crumbs" f="pag" n="0"/>
+        <role descr="table" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

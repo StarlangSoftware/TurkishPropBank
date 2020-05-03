@@ -2,8 +2,8 @@
   <predicate lemma="reanimate">
     <roleset id="reanimate.01" name="give new life">
       <roles>
-        <role descr="animator" f="PAG" n="0"/>
-        <role descr="animated" f="PPT" n="1"/>
+        <role descr="animator" f="pag" n="0"/>
+        <role descr="animated" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

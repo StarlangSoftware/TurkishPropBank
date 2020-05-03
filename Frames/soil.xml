@@ -2,8 +2,8 @@
   <predicate lemma="soil">
     <roleset id="soil.01" name="to make dirty">
       <roles>
-        <role descr="causer" f="PAG" n="0"/>
-        <role descr="entity soiled" f="GOL" n="1"/>
+        <role descr="causer" f="pag" n="0"/>
+        <role descr="entity soiled" f="gol" n="1"/>
       </roles>
     </roleset>
   </predicate>

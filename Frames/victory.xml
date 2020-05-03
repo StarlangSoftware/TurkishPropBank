@@ -2,7 +2,7 @@
   <predicate lemma="victory">
     <roleset id="victory.01" name="triumph, win">
       <roles>
-        <role descr="the victor" f="PAG" n="0"/>
+        <role descr="the victor" f="pag" n="0"/>
         <role descr="the loser" f="vsp" n="1"/>
         <role descr="the competition" f="ppt" n="2"/>
         <role descr="spoils/margin of victory" f="ext" n="3"/>

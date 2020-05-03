@@ -2,7 +2,7 @@
   <predicate lemma="jell">
     <roleset id="jell.01" name="set into jell">
       <roles>
-        <role descr="thing becoming jelly-like" f="PPT" n="1"/>
+        <role descr="thing becoming jelly-like" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

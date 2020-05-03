@@ -2,9 +2,9 @@
   <predicate lemma="telegraph">
     <roleset id="telegraph.01" name="send a message via telegraph">
       <roles>
-        <role descr="sender" f="PAG" n="0"/>
-        <role descr="receiver" f="PPT" n="1"/>
-        <role descr="message" f="GOL" n="2"/>
+        <role descr="sender" f="pag" n="0"/>
+        <role descr="receiver" f="ppt" n="1"/>
+        <role descr="message" f="gol" n="2"/>
       </roles>
     </roleset>
   </predicate>

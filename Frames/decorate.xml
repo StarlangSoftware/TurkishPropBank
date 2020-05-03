@@ -2,9 +2,9 @@
   <predicate lemma="decorate">
     <roleset id="decorate.01" name="put on decorations, putting decorations on something">
       <roles>
-        <role descr="decorator" f="PAG" n="0"/>
-        <role descr="thing decorated" f="GOL" n="1"/>
-        <role descr="decorations" f="PPT" n="2"/>
+        <role descr="decorator" f="pag" n="0"/>
+        <role descr="thing decorated" f="gol" n="1"/>
+        <role descr="decorations" f="ppt" n="2"/>
       </roles>
     </roleset>
   </predicate>

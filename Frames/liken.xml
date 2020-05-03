@@ -8,8 +8,8 @@
     </roleset>
     <roleset id="like.02" name="would like, wish, want (polite)">
       <roles>
-        <role descr="subject" f="PAG" n="0"/>
-        <role descr="phrasal complement" f="PPT" n="1"/>
+        <role descr="subject" f="pag" n="0"/>
+        <role descr="phrasal complement" f="ppt" n="1"/>
       </roles>
     </roleset>
     <roleset id="like.04" name="similar">

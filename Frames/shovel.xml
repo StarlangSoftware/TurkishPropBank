@@ -2,7 +2,7 @@
   <predicate lemma="shovel">
     <roleset id="shovel.01" name="throw out, as with a shovel">
       <roles>
-        <role descr="agent, shoveler" f="PAG" n="0"/>
+        <role descr="agent, shoveler" f="pag" n="0"/>
         <role descr="theme, thing being shoveled" f="ppt" n="1"/>
       </roles>
     </roleset>

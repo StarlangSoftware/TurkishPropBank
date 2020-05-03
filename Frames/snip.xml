@@ -2,10 +2,10 @@
   <predicate lemma="snip">
     <roleset id="snip.01" name="snip">
       <roles>
-        <role descr="snipper, agent" f="PAG" n="0"/>
-        <role descr="thing snipped, patient" f="PPT" n="1"/>
-        <role descr="instrument of snipping" f="MNR" n="2"/>
-        <role descr="snipped from, source" f="DIR" n="3"/>
+        <role descr="snipper, agent" f="pag" n="0"/>
+        <role descr="thing snipped, patient" f="ppt" n="1"/>
+        <role descr="instrument of snipping" f="mnr" n="2"/>
+        <role descr="snipped from, source" f="dir" n="3"/>
       </roles>
     </roleset>
   </predicate>

@@ -2,8 +2,8 @@
   <predicate lemma="recess">
     <roleset id="recess.01" name="put into a lower position">
       <roles>
-        <role descr="placer, putter, agent" f="PAG" n="0"/>
-        <role descr="thing in lower position" f="PPT" n="1"/>
+        <role descr="placer, putter, agent" f="pag" n="0"/>
+        <role descr="thing in lower position" f="ppt" n="1"/>
       </roles>
     </roleset>
     <roleset id="recess.02" name="take a break">

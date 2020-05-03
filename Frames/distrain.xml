@@ -2,8 +2,8 @@
   <predicate lemma="distrain">
     <roleset id="distrain.01" name="confiscate by distress or legally take in exchange for debt">
       <roles>
-        <role descr="agent, confiscator" f="PAG" n="0"/>
-        <role descr="Commodity taken" f="PPT" n="1"/>
+        <role descr="agent, confiscator" f="pag" n="0"/>
+        <role descr="Commodity taken" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

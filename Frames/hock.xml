@@ -2,8 +2,8 @@
   <predicate lemma="hock">
     <roleset id="hock.01" name="pawn">
       <roles>
-        <role descr="person pawning items" f="PAG" n="0"/>
-        <role descr="items being pawned" f="PPT" n="1"/>
+        <role descr="person pawning items" f="pag" n="0"/>
+        <role descr="items being pawned" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

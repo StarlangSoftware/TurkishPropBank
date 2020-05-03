@@ -2,8 +2,8 @@
   <predicate lemma="delouse">
     <roleset id="delouse.01" name="remove lice from">
       <roles>
-        <role descr="remover of lice, agent" f="PAG" n="0"/>
-        <role descr="lousy thing" f="DIR" n="1"/>
+        <role descr="remover of lice, agent" f="pag" n="0"/>
+        <role descr="lousy thing" f="dir" n="1"/>
       </roles>
     </roleset>
   </predicate>

@@ -2,7 +2,7 @@
   <predicate lemma="missell">
     <roleset id="missell.01" name="sell misleadingly or fraudulently">
       <roles>
-        <role descr="seller" f="PAG" n="0"/>
+        <role descr="seller" f="pag" n="0"/>
         <role descr="thing sold" f="ppt" n="1"/>
         <role descr="buyer" f="gol" n="2"/>
         <role descr="price paid" f="prp" n="3"/>

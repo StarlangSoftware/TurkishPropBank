@@ -2,10 +2,10 @@
   <predicate lemma="arrive">
     <roleset id="arrive.01" name="move, come to">
       <roles>
-        <role descr="entity in motion / 'comer'" f="PPT" n="1"/>
+        <role descr="entity in motion / 'comer'" f="ppt" n="1"/>
         <role descr="extent -- rare)" f="ext" n="2"/>
         <role descr="start point -- also rare)" f="dir" n="3"/>
-        <role descr="end point, destination" f="LOC" n="4"/>
+        <role descr="end point, destination" f="loc" n="4"/>
       </roles>
     </roleset>
   </predicate>

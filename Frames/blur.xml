@@ -2,8 +2,8 @@
   <predicate lemma="blur">
     <roleset id="blur.01" name="to make indistinct, not sharply in focus">
       <roles>
-        <role descr="causer of blurriness, agent" f="PAG" n="0"/>
-        <role descr="entity blurred" f="PPT" n="1"/>
+        <role descr="causer of blurriness, agent" f="pag" n="0"/>
+        <role descr="entity blurred" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

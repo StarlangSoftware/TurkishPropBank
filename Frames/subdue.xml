@@ -2,8 +2,8 @@
   <predicate lemma="subdue">
     <roleset id="subdue.01" name="to defeat">
       <roles>
-        <role descr="defeater, victor, agent" f="PAG" n="0"/>
-        <role descr="entity subdued" f="PPT" n="1"/>
+        <role descr="defeater, victor, agent" f="pag" n="0"/>
+        <role descr="entity subdued" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

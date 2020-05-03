@@ -2,8 +2,8 @@
   <predicate lemma="resurrect">
     <roleset id="resurrect.01" name="bring back to life">
       <roles>
-        <role descr="Dr. Frankenstein" f="PAG" n="0"/>
-        <role descr="former corpse" f="PPT" n="1"/>
+        <role descr="Dr. Frankenstein" f="pag" n="0"/>
+        <role descr="former corpse" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

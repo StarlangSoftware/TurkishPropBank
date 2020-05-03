@@ -2,9 +2,9 @@
   <predicate lemma="sully">
     <roleset id="sully.01" name="corrupt or taint">
       <roles>
-        <role descr="cause/source of defilement" f="PAG" n="0"/>
-        <role descr="thing becoming defiled" f="GOL" n="1"/>
-        <role descr="instrument if separate from ARG 0" f="PPT" n="2"/>
+        <role descr="cause/source of defilement" f="pag" n="0"/>
+        <role descr="thing becoming defiled" f="gol" n="1"/>
+        <role descr="instrument if separate from ARG 0" f="ppt" n="2"/>
       </roles>
     </roleset>
   </predicate>

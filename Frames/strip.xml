@@ -2,8 +2,8 @@
   <predicate lemma="strip">
     <roleset id="strip.01" name="remove">
       <roles>
-        <role descr="remover" f="PAG" n="0"/>
-        <role descr="thing removed" f="PPT" n="1"/>
+        <role descr="remover" f="pag" n="0"/>
+        <role descr="thing removed" f="ppt" n="1"/>
         <role descr="source" f="dir" n="2"/>
       </roles>
     </roleset>
@@ -11,8 +11,8 @@
   <predicate lemma="strip_away">
     <roleset id="strip_away.02" name="remove">
       <roles>
-        <role descr="remover" f="PAG" n="0"/>
-        <role descr="thing removed" f="PPT" n="1"/>
+        <role descr="remover" f="pag" n="0"/>
+        <role descr="thing removed" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

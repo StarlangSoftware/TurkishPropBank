@@ -2,9 +2,9 @@
   <predicate lemma="drench">
     <roleset id="drench.01" name="to make wet all over">
       <roles>
-        <role descr="agent, causer of drenching" f="PAG" n="0"/>
-        <role descr="entity drenched" f="GOL" n="1"/>
-        <role descr="liquid, drenched with what?" f="PPT" n="2"/>
+        <role descr="agent, causer of drenching" f="pag" n="0"/>
+        <role descr="entity drenched" f="gol" n="1"/>
+        <role descr="liquid, drenched with what?" f="ppt" n="2"/>
       </roles>
     </roleset>
   </predicate>

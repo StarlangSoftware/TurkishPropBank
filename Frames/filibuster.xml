@@ -2,8 +2,8 @@
   <predicate lemma="filibuster">
     <roleset id="filibuster.01" name="obstruct or delay (legislation)">
       <roles>
-        <role descr="blocker, agent" f="PAG" n="0"/>
-        <role descr="thing blocked, legislation" f="PPT" n="1"/>
+        <role descr="blocker, agent" f="pag" n="0"/>
+        <role descr="thing blocked, legislation" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

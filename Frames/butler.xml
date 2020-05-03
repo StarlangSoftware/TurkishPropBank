@@ -2,8 +2,8 @@
   <predicate lemma="butler">
     <roleset id="butler.01" name="act as a butler for someone">
       <roles>
-        <role descr="Butler" f="PAG" n="0"/>
-        <role descr="Lucky person, org, event, with butler's services" f="GOL" n="1"/>
+        <role descr="Butler" f="pag" n="0"/>
+        <role descr="Lucky person, org, event, with butler's services" f="gol" n="1"/>
       </roles>
     </roleset>
   </predicate>

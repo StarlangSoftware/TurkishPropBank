@@ -2,9 +2,9 @@
   <predicate lemma="slipcover">
     <roleset id="slipcover.01" name="place a slipcover on something">
       <roles>
-        <role descr="Interior decorator, agent" f="PAG" n="0"/>
-        <role descr="the couch" f="GOL" n="1"/>
-        <role descr="Slipcover itself, what kind of slipcover" f="PPT" n="2"/>
+        <role descr="Interior decorator, agent" f="pag" n="0"/>
+        <role descr="the couch" f="gol" n="1"/>
+        <role descr="Slipcover itself, what kind of slipcover" f="ppt" n="2"/>
       </roles>
     </roleset>
   </predicate>

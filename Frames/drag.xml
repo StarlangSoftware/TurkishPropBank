@@ -2,8 +2,8 @@
   <predicate lemma="drag">
     <roleset id="drag.01" name="(try to) cause motion, pulling on">
       <roles>
-        <role descr="dragger" f="PAG" n="0"/>
-        <role descr="thing dragged" f="PPT" n="1"/>
+        <role descr="dragger" f="pag" n="0"/>
+        <role descr="thing dragged" f="ppt" n="1"/>
         <role descr="direction" f="dir" n="2"/>
       </roles>
     </roleset>
@@ -11,8 +11,8 @@
   <predicate lemma="drag_on">
     <roleset id="drag_on.02" name="drag continuously over a span of time">
       <roles>
-        <role descr="dragger" f="PAG" n="0"/>
-        <role descr="thing dragged" f="PPT" n="1"/>
+        <role descr="dragger" f="pag" n="0"/>
+        <role descr="thing dragged" f="ppt" n="1"/>
         <role descr="direction or path" f="dir" n="2"/>
       </roles>
     </roleset>

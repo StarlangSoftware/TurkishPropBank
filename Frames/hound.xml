@@ -2,8 +2,8 @@
   <predicate lemma="hound">
     <roleset id="hound.01" name="to harass or nag">
       <roles>
-        <role descr="harasser" f="PAG" n="0"/>
-        <role descr="entity hounded" f="PPT" n="1"/>
+        <role descr="harasser" f="pag" n="0"/>
+        <role descr="entity hounded" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

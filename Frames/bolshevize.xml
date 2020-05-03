@@ -2,8 +2,8 @@
   <predicate lemma="bolshevize">
     <roleset id="bolshevize.01" name="make bolshevist">
       <roles>
-        <role descr="agent, bolshevizing entity" f="PAG" n="0"/>
-        <role descr="entity bolshevized" f="PPT" n="1"/>
+        <role descr="agent, bolshevizing entity" f="pag" n="0"/>
+        <role descr="entity bolshevized" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

@@ -2,8 +2,8 @@
   <predicate lemma="shadow">
     <roleset id="shadow.01" name="follow or mimic">
       <roles>
-        <role descr="mimic, follower" f="PAG" n="0"/>
-        <role descr="entity followed" f="PPT" n="1"/>
+        <role descr="mimic, follower" f="pag" n="0"/>
+        <role descr="entity followed" f="ppt" n="1"/>
       </roles>
     </roleset>
     <roleset id="shadow.02" name="cast a shadow over">

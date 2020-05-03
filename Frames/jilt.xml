@@ -2,9 +2,9 @@
   <predicate lemma="jilt">
     <roleset id="jilt.01" name="reject lover for another">
       <roles>
-        <role descr="rejecter" f="PAG" n="0"/>
-        <role descr="rejected lover" f="PPT" n="1"/>
-        <role descr="new lover" f="PPT" n="3"/>
+        <role descr="rejecter" f="pag" n="0"/>
+        <role descr="rejected lover" f="ppt" n="1"/>
+        <role descr="new lover" f="ppt" n="3"/>
       </roles>
     </roleset>
   </predicate>

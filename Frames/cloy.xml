@@ -2,8 +2,8 @@
   <predicate lemma="cloy">
     <roleset id="cloy.01" name="satiate to the point of loathing">
       <roles>
-        <role descr="causer of cloying sensation" f="PAG" n="0"/>
-        <role descr="experiencer of cloying sensation" f="PPT" n="1"/>
+        <role descr="causer of cloying sensation" f="pag" n="0"/>
+        <role descr="experiencer of cloying sensation" f="ppt" n="1"/>
         <role descr="instrument, when separate from arg0" f="mnr" n="2"/>
       </roles>
     </roleset>

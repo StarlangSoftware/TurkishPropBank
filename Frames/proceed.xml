@@ -2,8 +2,8 @@
   <predicate lemma="proceed">
     <roleset id="proceed.01" name="keep on, continuing on">
       <roles>
-        <role descr="causer of continuing event" f="PAG" n="0"/>
-        <role descr="thing continuing" f="PPT" n="1"/>
+        <role descr="causer of continuing event" f="pag" n="0"/>
+        <role descr="thing continuing" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

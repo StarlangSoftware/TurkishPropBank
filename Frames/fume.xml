@@ -2,14 +2,14 @@
   <predicate lemma="fume">
     <roleset id="fume.01" name="be angry">
       <roles>
-        <role descr="angry entity" f="PPT" n="0"/>
+        <role descr="angry entity" f="ppt" n="0"/>
         <role descr="source of anger" f="cau" n="1"/>
       </roles>
     </roleset>
     <roleset id="fume.02" name="mode of speaking">
       <roles>
-        <role descr="speaker" f="PAG" n="0"/>
-        <role descr="utterance" f="PPT" n="1"/>
+        <role descr="speaker" f="pag" n="0"/>
+        <role descr="utterance" f="ppt" n="1"/>
         <role descr="hearer" f="gol" n="2"/>
       </roles>
     </roleset>

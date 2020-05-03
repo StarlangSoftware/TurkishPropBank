@@ -2,7 +2,7 @@
   <predicate lemma="transverse">
     <roleset id="transverse.01" name="move across or through">
       <roles>
-        <role descr="walker" f="PAG" n="0"/>
+        <role descr="walker" f="pag" n="0"/>
         <role descr="area crossed" f="ppt" n="1"/>
       </roles>
     </roleset>

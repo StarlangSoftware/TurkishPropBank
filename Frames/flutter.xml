@@ -2,8 +2,8 @@
   <predicate lemma="flutter">
     <roleset id="flutter.01" name="move like a butterfly">
       <roles>
-        <role descr="butterflyish entity" f="PAG" n="0"/>
-        <role descr="path" f="LOC" n="1"/>
+        <role descr="butterflyish entity" f="pag" n="0"/>
+        <role descr="path" f="loc" n="1"/>
       </roles>
     </roleset>
   </predicate>

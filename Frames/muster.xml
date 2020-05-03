@@ -2,8 +2,8 @@
   <predicate lemma="muster">
     <roleset id="muster.01" name="to gather or bring together">
       <roles>
-        <role descr="collector, causer of grouping, agent" f="PAG" n="0"/>
-        <role descr="thing mustered" f="PPT" n="1"/>
+        <role descr="collector, causer of grouping, agent" f="pag" n="0"/>
+        <role descr="thing mustered" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

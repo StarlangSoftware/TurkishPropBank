@@ -2,7 +2,7 @@
   <predicate lemma="zing">
     <roleset id="zing.01" name="zing">
       <roles>
-        <role descr="Thing Zinging/Zinger" f="PPT" n="0"/>
+        <role descr="Thing Zinging/Zinger" f="ppt" n="0"/>
       </roles>
     </roleset>
   </predicate>

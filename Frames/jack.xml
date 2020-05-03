@@ -2,8 +2,8 @@
   <predicate lemma="jack_up">
     <roleset id="jack_up.01" name="to raise, lift">
       <roles>
-        <role descr="raiser, agent" f="PAG" n="0"/>
-        <role descr="entity raised" f="PPT" n="1"/>
+        <role descr="raiser, agent" f="pag" n="0"/>
+        <role descr="entity raised" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

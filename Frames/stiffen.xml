@@ -2,8 +2,8 @@
   <predicate lemma="stiffen">
     <roleset id="stiffen.01" name="(make) become stiff, becoming or causing to become stiff">
       <roles>
-        <role descr="cause of stiffness" f="PAG" n="0"/>
-        <role descr="newly-stiff thing" f="PPT" n="1"/>
+        <role descr="cause of stiffness" f="pag" n="0"/>
+        <role descr="newly-stiff thing" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

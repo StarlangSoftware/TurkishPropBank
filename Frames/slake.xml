@@ -2,11 +2,11 @@
   <predicate lemma="slake">
     <roleset id="slake.01" name="make less intense; satisfy">
       <roles>
-        <role descr="drinker/ causer of satisfaction" f="PAG" n="0">
+        <role descr="drinker/ causer of satisfaction" f="pag" n="0">
 				</role>
-        <role descr="thirst/ thing lessened" f="PPT" n="1">
+        <role descr="thirst/ thing lessened" f="ppt" n="1">
 				</role>
-        <role descr="drink/ instrument" f="MNR" n="2">
+        <role descr="drink/ instrument" f="mnr" n="2">
 				</role>
       </roles>
     </roleset>
@@ -14,7 +14,7 @@
     <roleset id="slake.02"
 			name="cause to heat and crumble by treatment with water">
       <roles>
-        <role descr="causer of heating and crumbling" f="PAG" n="0" />
+        <role descr="causer of heating and crumbling" f="pag" n="0" />
         <role descr="crumbled thing" f="ppt" n="1" />
         <role descr="instrument" f="mnr" n="2" />
       </roles>

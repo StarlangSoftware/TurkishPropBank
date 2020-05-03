@@ -2,8 +2,8 @@
   <predicate lemma="eye">
     <roleset id="eye.01" name="to watch closely">
       <roles>
-        <role descr="watcher" f="PPT" n="0"/>
-        <role descr="entity eyed" f="PAG" n="1"/>
+        <role descr="watcher" f="ppt" n="0"/>
+        <role descr="entity eyed" f="pag" n="1"/>
       </roles>
     </roleset>
   </predicate>

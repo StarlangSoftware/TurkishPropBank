@@ -2,8 +2,8 @@
   <predicate lemma="expound">
     <roleset id="expound.01" name="explain, talk about">
       <roles>
-        <role descr="expounder, speaker" f="PAG" n="0"/>
-        <role descr="thing explained, topic" f="PPT" n="1"/>
+        <role descr="expounder, speaker" f="pag" n="0"/>
+        <role descr="thing explained, topic" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

@@ -2,8 +2,8 @@
   <predicate lemma="peal">
     <roleset id="peal.01" name="(cause to) emit sound like a bell">
       <roles>
-        <role descr="bellringer" f="PAG" n="0"/>
-        <role descr="bell" f="PPT" n="1"/>
+        <role descr="bellringer" f="pag" n="0"/>
+        <role descr="bell" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

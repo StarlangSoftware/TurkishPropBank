@@ -2,9 +2,9 @@
   <predicate lemma="buttonhole">
     <roleset id="buttonhole.01" name="detain a person against will">
       <roles>
-        <role descr="agent" f="PAG" n="0"/>
-        <role descr="entity detained" f="GOL" n="1"/>
-        <role descr="purpose of detainment" f="PPT" n="2"/>
+        <role descr="agent" f="pag" n="0"/>
+        <role descr="entity detained" f="gol" n="1"/>
+        <role descr="purpose of detainment" f="ppt" n="2"/>
       </roles>
     </roleset>
   </predicate>

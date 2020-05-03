@@ -2,9 +2,9 @@
   <predicate lemma="regain">
     <roleset id="regain.01" name="get back">
       <roles>
-        <role descr="recoverer" f="PAG" n="0"/>
-        <role descr="thing regained" f="PPT" n="1"/>
-        <role descr="who had it before" f="DIR" n="2"/>
+        <role descr="recoverer" f="pag" n="0"/>
+        <role descr="thing regained" f="ppt" n="1"/>
+        <role descr="who had it before" f="dir" n="2"/>
       </roles>
     </roleset>
   </predicate>

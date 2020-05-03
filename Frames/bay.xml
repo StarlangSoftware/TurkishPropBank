@@ -2,7 +2,7 @@
   <predicate lemma="bay">
     <roleset id="bay.01" name="the deep howl as that of a dog on the hunt">
       <roles>
-        <role descr="bay-er" f="PAG" n="0"/>
+        <role descr="bay-er" f="pag" n="0"/>
       </roles>
     </roleset>
   </predicate>

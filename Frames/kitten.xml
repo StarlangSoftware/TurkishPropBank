@@ -2,8 +2,8 @@
   <predicate lemma="kitten">
     <roleset id="kitten.01" name="bear kittens">
       <roles>
-        <role descr="mother" f="PAG" n="0"/>
-        <role descr="kitten" f="PPT" n="1"/>
+        <role descr="mother" f="pag" n="0"/>
+        <role descr="kitten" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

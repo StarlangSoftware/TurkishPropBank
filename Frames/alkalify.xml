@@ -2,9 +2,9 @@
   <predicate lemma="alkalify">
     <roleset id="alkalify.01" name="make alkaline">
       <roles>
-        <role descr="agent, cause" f="PAG" n="0"/>
-        <role descr="thing becoming alkaline" f="PPT" n="1"/>
-        <role descr="instrument or  method" f="MNR" n="2"/>
+        <role descr="agent, cause" f="pag" n="0"/>
+        <role descr="thing becoming alkaline" f="ppt" n="1"/>
+        <role descr="instrument or  method" f="mnr" n="2"/>
       </roles>
     </roleset>
   </predicate>

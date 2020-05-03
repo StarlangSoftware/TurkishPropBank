@@ -2,8 +2,8 @@
   <predicate lemma="revamp">
     <roleset id="revamp.01" name="to revise, renovate">
       <roles>
-        <role descr="agent, causer" f="PAG" n="0"/>
-        <role descr="thing revamping" f="PPT" n="1"/>
+        <role descr="agent, causer" f="pag" n="0"/>
+        <role descr="thing revamping" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

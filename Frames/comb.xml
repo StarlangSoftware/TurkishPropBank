@@ -2,15 +2,15 @@
   <predicate lemma="comb">
     <roleset id="comb.01" name="to search, look through">
       <roles>
-        <role descr="searcher, agent" f="PAG" n="0"/>
-        <role descr="area searched, combed through" f="LOC" n="1"/>
-        <role descr="combed for" f="PPT" n="2"/>
+        <role descr="searcher, agent" f="pag" n="0"/>
+        <role descr="area searched, combed through" f="loc" n="1"/>
+        <role descr="combed for" f="ppt" n="2"/>
       </roles>
     </roleset>
     <roleset id="comb.02" name="to straighten with a comb">
       <roles>
-        <role descr="comber, agent" f="PAG" n="0"/>
-        <role descr="hair" f="PPT" n="1"/>
+        <role descr="comber, agent" f="pag" n="0"/>
+        <role descr="hair" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

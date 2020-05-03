@@ -2,9 +2,9 @@
   <predicate lemma="hurl">
     <roleset id="hurl.01" name="to throw">
       <roles>
-        <role descr="hurler" f="PAG" n="0"/>
-        <role descr="entity hurled" f="PPT" n="1"/>
-        <role descr="entity hurled at" f="GOL" n="2"/>
+        <role descr="hurler" f="pag" n="0"/>
+        <role descr="entity hurled" f="ppt" n="1"/>
+        <role descr="entity hurled at" f="gol" n="2"/>
       </roles>
     </roleset>
   </predicate>

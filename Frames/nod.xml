@@ -2,15 +2,15 @@
   <predicate lemma="nod">
     <roleset id="nod.01" name="to lower and raise the head or to express by nodding">
       <roles>
-        <role descr="entity with a bobbing head, agent" f="PAG" n="0"/>
-        <role descr="thing expressed by nodding" f="PPT" n="1"/>
+        <role descr="entity with a bobbing head, agent" f="pag" n="0"/>
+        <role descr="thing expressed by nodding" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>
   <predicate lemma="nod_off">
     <roleset id="nod_off.02" name="fall asleep">
       <roles>
-        <role descr="entity falling asleep" f="PAG" n="0"/>
+        <role descr="entity falling asleep" f="pag" n="0"/>
       </roles>
     </roleset>
   </predicate>

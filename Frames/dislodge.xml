@@ -2,9 +2,9 @@
   <predicate lemma="dislodge">
     <roleset id="dislodge.01" name="force out of a secure or settled position">
       <roles>
-        <role descr="agent or cause" f="PAG" n="0"/>
-        <role descr="theme" f="PPT" n="1"/>
-        <role descr="source, place dislodged from" f="DIR" n="2"/>
+        <role descr="agent or cause" f="pag" n="0"/>
+        <role descr="theme" f="ppt" n="1"/>
+        <role descr="source, place dislodged from" f="dir" n="2"/>
       </roles>
     </roleset>
   </predicate>

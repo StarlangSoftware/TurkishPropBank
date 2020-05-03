@@ -2,8 +2,8 @@
   <predicate lemma="initial">
     <roleset id="initial.01" name="sign using just a couple letters">
       <roles>
-        <role descr="signer, initialler" f="PAG" n="0"/>
-        <role descr="document" f="PPT" n="1"/>
+        <role descr="signer, initialler" f="pag" n="0"/>
+        <role descr="document" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

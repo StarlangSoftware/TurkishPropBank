@@ -2,9 +2,9 @@
   <predicate lemma="perforate">
     <roleset id="perforate.01" name="perforate, puncturing">
       <roles>
-        <role descr="agent, perforator(s)" f="PAG" n="0"/>
-        <role descr="thing(s) being perforated, patient" f="PPT" n="1"/>
-        <role descr="instrument of perforation" f="MNR" n="2"/>
+        <role descr="agent, perforator(s)" f="pag" n="0"/>
+        <role descr="thing(s) being perforated, patient" f="ppt" n="1"/>
+        <role descr="instrument of perforation" f="mnr" n="2"/>
       </roles>
     </roleset>
   </predicate>

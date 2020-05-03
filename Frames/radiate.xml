@@ -2,8 +2,8 @@
   <predicate lemma="radiate">
     <roleset id="radiate.01" name="emit or project">
       <roles>
-        <role descr="entity emitting" f="DIR" n="0"/>
-        <role descr="thing emitted" f="PPT" n="1"/>
+        <role descr="entity emitting" f="dir" n="0"/>
+        <role descr="thing emitted" f="ppt" n="1"/>
       </roles>
     </roleset>
     <roleset id="radiate.02" name="hit with radiation; irradiate">

@@ -2,8 +2,8 @@
   <predicate lemma="requisition">
     <roleset id="requisition.01" name="to demand, take">
       <roles>
-        <role descr="demander, agent" f="PAG" n="0"/>
-        <role descr="entity requisitioned" f="PPT" n="1"/>
+        <role descr="demander, agent" f="pag" n="0"/>
+        <role descr="entity requisitioned" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

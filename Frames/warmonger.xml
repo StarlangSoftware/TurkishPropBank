@@ -2,7 +2,7 @@
   <predicate lemma="warmonger">
     <roleset id="warmonger.01" name="agitate for war">
       <roles>
-        <role descr="agitator" f="PAG" n="0"/>
+        <role descr="agitator" f="pag" n="0"/>
       </roles>
     </roleset>
   </predicate>

@@ -2,9 +2,9 @@
   <predicate lemma="tame">
     <roleset id="tame.01" name="cause to be tame">
       <roles>
-        <role descr="tamer" f="PAG" n="0"/>
-        <role descr="formerly wild beast" f="PPT" n="1"/>
-        <role descr="instrument" f="MNR" n="2"/>
+        <role descr="tamer" f="pag" n="0"/>
+        <role descr="formerly wild beast" f="ppt" n="1"/>
+        <role descr="instrument" f="mnr" n="2"/>
       </roles>
     </roleset>
   </predicate>

@@ -2,8 +2,8 @@
   <predicate lemma="calumniate">
     <roleset id="calumniate.01" name="to make false and malicious statements">
       <roles>
-        <role descr="false statement maker, agent" f="PAG" n="0"/>
-        <role descr="entity calumniated" f="PPT" n="1"/>
+        <role descr="false statement maker, agent" f="pag" n="0"/>
+        <role descr="entity calumniated" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

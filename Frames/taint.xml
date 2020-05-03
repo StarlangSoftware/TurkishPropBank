@@ -2,9 +2,9 @@
   <predicate lemma="taint">
     <roleset id="taint.01" name="contaminate">
       <roles>
-        <role descr="cause/source of contamination" f="PAG" n="0"/>
-        <role descr="thing becoming contaminated" f="GOL" n="1"/>
-        <role descr="contaminant" f="PPT" n="2"/>
+        <role descr="cause/source of contamination" f="pag" n="0"/>
+        <role descr="thing becoming contaminated" f="gol" n="1"/>
+        <role descr="contaminant" f="ppt" n="2"/>
       </roles>
     </roleset>
   </predicate>

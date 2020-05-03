@@ -2,8 +2,8 @@
   <predicate lemma="contradict">
     <roleset id="contradict.01" name="to deny, negate, or oppose, deny, negate or oppose">
       <roles>
-        <role descr="entity contradicting" f="PAG" n="0"/>
-        <role descr="entity denied or opposed to" f="PPT" n="1"/>
+        <role descr="entity contradicting" f="pag" n="0"/>
+        <role descr="entity denied or opposed to" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

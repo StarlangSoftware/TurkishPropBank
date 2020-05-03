@@ -2,9 +2,9 @@
   <predicate lemma="navigate">
     <roleset id="navigate.01" name="steer">
       <roles>
-        <role descr="steerer" f="PAG" n="0"/>
-        <role descr="thing steered" f="PPT" n="1"/>
-        <role descr="path" f="LOC" n="2"/>
+        <role descr="steerer" f="pag" n="0"/>
+        <role descr="thing steered" f="ppt" n="1"/>
+        <role descr="path" f="loc" n="2"/>
       </roles>
     </roleset>
   </predicate>

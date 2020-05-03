@@ -2,8 +2,8 @@
   <predicate lemma="echo">
     <roleset id="echo.01" name="repeat a sound, repetition">
       <roles>
-        <role descr="repeater, imitator" f="PPT" n="0"/>
-        <role descr="original" f="PPT" n="1"/>
+        <role descr="repeater, imitator" f="ppt" n="0"/>
+        <role descr="original" f="ppt" n="1"/>
       </roles>
     </roleset>
     <roleset id="echo.02" name="sonogram of the heart">

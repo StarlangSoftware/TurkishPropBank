@@ -2,9 +2,9 @@
   <predicate lemma="thatch">
     <roleset id="thatch.01" name="cover roof">
       <roles>
-        <role descr="applier" f="PAG" n="0"/>
-        <role descr="location thatched" f="GOL" n="1"/>
-        <role descr="loofing material" f="PPT" n="2"/>
+        <role descr="applier" f="pag" n="0"/>
+        <role descr="location thatched" f="gol" n="1"/>
+        <role descr="loofing material" f="ppt" n="2"/>
       </roles>
     </roleset>
   </predicate>

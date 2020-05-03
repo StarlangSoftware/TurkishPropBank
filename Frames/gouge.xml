@@ -2,13 +2,13 @@
   <predicate lemma="gouge">
     <roleset id="gouge.01" name="put deep grooves or scratches into a surface">
       <roles>
-        <role descr="causer of gouges" f="PAG" n="0"/>
-        <role descr="surface" f="PPT" n="1"/>
+        <role descr="causer of gouges" f="pag" n="0"/>
+        <role descr="surface" f="ppt" n="1"/>
       </roles>
     </roleset>
     <roleset id="gouge.02" name="extort money, swindle">
       <roles>
-        <role descr="petty crook" f="PAG" n="0"/>
+        <role descr="petty crook" f="pag" n="0"/>
         <role descr="money" f="ppt" n="1"/>
         <role descr="source" f="dir" n="2"/>
       </roles>

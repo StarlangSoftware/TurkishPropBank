@@ -2,9 +2,9 @@
   <predicate lemma="whistle">
     <roleset id="whistle.01" name="make a   whistling noise">
       <roles>
-        <role descr="maker of noise" f="PAG" n="0"/>
-        <role descr="noise itself, tune, utterance" f="PPT" n="1"/>
-        <role descr="hearer" f="GOL" n="2"/>
+        <role descr="maker of noise" f="pag" n="0"/>
+        <role descr="noise itself, tune, utterance" f="ppt" n="1"/>
+        <role descr="hearer" f="gol" n="2"/>
       </roles>
     </roleset>
   </predicate>

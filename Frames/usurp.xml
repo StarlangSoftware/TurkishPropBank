@@ -2,8 +2,8 @@
   <predicate lemma="usurp">
     <roleset id="usurp.01" name="to seize, take over">
       <roles>
-        <role descr="usurper, new holder" f="PAG" n="0"/>
-        <role descr="role usurped" f="PPT" n="1"/>
+        <role descr="usurper, new holder" f="pag" n="0"/>
+        <role descr="role usurped" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

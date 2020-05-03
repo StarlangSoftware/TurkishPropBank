@@ -2,9 +2,9 @@
   <predicate lemma="admix">
     <roleset id="admix.01" name="to mingle or add to something else">
       <roles>
-        <role descr="agent, mixer" f="PAG" n="0"/>
-        <role descr="ingredient one" f="PPT" n="1"/>
-        <role descr="ingredient two (if separate)" f="PPT" n="2"/>
+        <role descr="agent, mixer" f="pag" n="0"/>
+        <role descr="ingredient one" f="ppt" n="1"/>
+        <role descr="ingredient two (if separate)" f="ppt" n="2"/>
         <role descr="end product" f="prd" n="3"/>
       </roles>
     </roleset>

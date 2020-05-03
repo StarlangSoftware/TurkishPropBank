@@ -2,7 +2,7 @@
   <predicate lemma="remaster">
     <roleset id="remaster.01" name="produce a new master recorder to improve quality">
       <roles>
-        <role descr="mix master" f="PAG" n="0"/>
+        <role descr="mix master" f="pag" n="0"/>
         <role descr="media remastered" f="ppt" n="1"/>
       </roles>
     </roleset>

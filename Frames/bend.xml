@@ -2,14 +2,14 @@
   <predicate lemma="bend">
     <roleset id="bend.01" name="(cause to) form a curve, forced into a non-straight configuration">
       <roles>
-        <role descr="bender" f="PAG" n="0"/>
-        <role descr="thing forming a curve" f="PPT" n="1"/>
+        <role descr="bender" f="pag" n="0"/>
+        <role descr="thing forming a curve" f="ppt" n="1"/>
       </roles>
     </roleset>
     <roleset id="bend.02" name="yield, give way">
       <roles>
-        <role descr="thing giving way" f="PAG" n="0"/>
-        <role descr="thing that succeeded" f="PPT" n="1"/>
+        <role descr="thing giving way" f="pag" n="0"/>
+        <role descr="thing that succeeded" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

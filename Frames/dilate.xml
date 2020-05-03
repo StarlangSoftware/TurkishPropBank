@@ -2,8 +2,8 @@
   <predicate lemma="dilate">
     <roleset id="dilate.01" name="cause to be very wide, causing to widen (legitimate alternate sp. of 'dilation'), (cause to) widen">
       <roles>
-        <role descr="cause" f="PAG" n="0"/>
-        <role descr="wide thing (usually eyes)" f="PPT" n="1"/>
+        <role descr="cause" f="pag" n="0"/>
+        <role descr="wide thing (usually eyes)" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

@@ -2,8 +2,8 @@
   <predicate lemma="ski">
     <roleset id="ski.01" name="slide over snow, probably on skis">
       <roles>
-        <role descr="skier" f="PAG" n="0"/>
-        <role descr="slope, trail" f="LOC" n="1"/>
+        <role descr="skier" f="pag" n="0"/>
+        <role descr="slope, trail" f="loc" n="1"/>
       </roles>
     </roleset>
   </predicate>

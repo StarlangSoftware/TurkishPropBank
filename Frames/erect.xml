@@ -2,8 +2,8 @@
   <predicate lemma="erect">
     <roleset id="erect.01" name="to construct, set up">
       <roles>
-        <role descr="constructor, agent" f="PAG" n="0"/>
-        <role descr="entity erected" f="PRD" n="1"/>
+        <role descr="constructor, agent" f="pag" n="0"/>
+        <role descr="entity erected" f="prd" n="1"/>
       </roles>
     </roleset>
   </predicate>

@@ -2,7 +2,7 @@
   <predicate lemma="whup">
     <roleset id="whup.01" name="beat">
       <roles>
-        <role descr="agent: entity giving a beating = winner" f="PAG" n="0"/>
+        <role descr="agent: entity giving a beating = winner" f="pag" n="0"/>
         <role descr="victim = loser" f="ppt" n="1"/>
         <role descr="domain in which the beating occurs (competition)" f="vsp" n="2"/>
         <role descr="instrument" f="mnr" n="3"/>

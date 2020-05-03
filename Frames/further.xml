@@ -2,8 +2,8 @@
   <predicate lemma="further">
     <roleset id="further.01" name="to advance">
       <roles>
-        <role descr="causer of advancement, agent" f="PAG" n="0"/>
-        <role descr="entity furthered" f="PPT" n="1"/>
+        <role descr="causer of advancement, agent" f="pag" n="0"/>
+        <role descr="entity furthered" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

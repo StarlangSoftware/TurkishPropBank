@@ -2,7 +2,7 @@
   <predicate lemma="journey">
     <roleset id="journey.01" name="travel">
       <roles>
-        <role descr="traveller" f="PAG" n="0"/>
+        <role descr="traveller" f="pag" n="0"/>
       </roles>
     </roleset>
   </predicate>

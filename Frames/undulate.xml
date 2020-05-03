@@ -2,8 +2,8 @@
   <predicate lemma="undulate">
     <roleset id="undulate.01" name="to move in a wavy pattern">
       <roles>
-        <role descr="cause of motion, agent" f="PAG" n="0"/>
-        <role descr="entity in motion" f="PPT" n="1"/>
+        <role descr="cause of motion, agent" f="pag" n="0"/>
+        <role descr="entity in motion" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

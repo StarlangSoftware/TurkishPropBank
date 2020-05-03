@@ -2,9 +2,9 @@
   <predicate lemma="knife">
     <roleset id="knife.01" name="stab (sometimes repeatedly)">
       <roles>
-        <role descr="agent, stabber - animate only!" f="PAG" n="0"/>
-        <role descr="thing knifed" f="PPT" n="1"/>
-        <role descr="instrument, knife, very rare" f="MNR" n="2"/>
+        <role descr="agent, stabber - animate only!" f="pag" n="0"/>
+        <role descr="thing knifed" f="ppt" n="1"/>
+        <role descr="instrument, knife, very rare" f="mnr" n="2"/>
       </roles>
     </roleset>
   </predicate>

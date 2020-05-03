@@ -2,8 +2,8 @@
   <predicate lemma="flaunt">
     <roleset id="flaunt.01" name="to show or exhibit">
       <roles>
-        <role descr="shower, exhibitor, agent" f="PAG" n="0"/>
-        <role descr="entity flaunted" f="PPT" n="1"/>
+        <role descr="shower, exhibitor, agent" f="pag" n="0"/>
+        <role descr="entity flaunted" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

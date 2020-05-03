@@ -2,22 +2,22 @@
   <predicate lemma="stipple">
     <roleset id="stipple.01" name="apply paint or ink in small dot like strokes">
       <roles>
-        <role descr="Artist" f="PAG" n="0"/>
-        <role descr="thing stippled" f="GOL" n="1"/>
-        <role descr="Paint or ink" f="PPT" n="2"/>
+        <role descr="Artist" f="pag" n="0"/>
+        <role descr="thing stippled" f="gol" n="1"/>
+        <role descr="Paint or ink" f="ppt" n="2"/>
       </roles>
     </roleset>
     <roleset id="stipple.02" name="engrave by means of dots">
       <roles>
-        <role descr="Engraver" f="PAG" n="0"/>
-        <role descr="Thing or inscription engraved" f="PPT" n="1"/>
-        <role descr="Engraved into or onto" f="GOL" n="2"/>
+        <role descr="Engraver" f="pag" n="0"/>
+        <role descr="Thing or inscription engraved" f="ppt" n="1"/>
+        <role descr="Engraved into or onto" f="gol" n="2"/>
       </roles>
     </roleset>
     <roleset id="stipple.03" name="mottle">
       <roles>
-        <role descr="Cause of mottled effect" f="PAG" n="0"/>
-        <role descr="Thing mottled" f="PPT" n="1"/>
+        <role descr="Cause of mottled effect" f="pag" n="0"/>
+        <role descr="Thing mottled" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

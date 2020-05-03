@@ -2,8 +2,8 @@
   <predicate lemma="unionize">
     <roleset id="unionize.01" name="to organize or join a labor union">
       <roles>
-        <role descr="agent, causer" f="PAG" n="0"/>
-        <role descr="entity joining a union" f="PPT" n="1"/>
+        <role descr="agent, causer" f="pag" n="0"/>
+        <role descr="entity joining a union" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

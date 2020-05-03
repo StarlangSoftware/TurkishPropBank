@@ -2,7 +2,7 @@
   <predicate lemma="bulk">
     <roleset id="bulk.01" name="loom">
       <roles>
-        <role descr="theme, loomig thing" f="PPT" n="1"/>
+        <role descr="theme, loomig thing" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

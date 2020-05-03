@@ -2,8 +2,8 @@
   <predicate lemma="chafe">
     <roleset id="chafe.01" name="to feel irritated">
       <roles>
-        <role descr="experiencer" f="PAG" n="0"/>
-        <role descr="target of emotion" f="PPT" n="1"/>
+        <role descr="experiencer" f="pag" n="0"/>
+        <role descr="target of emotion" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

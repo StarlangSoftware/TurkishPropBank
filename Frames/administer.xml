@@ -2,9 +2,9 @@
   <predicate lemma="administer">
     <roleset id="administer.01" name="to manage, distribute, or apply">
       <roles>
-        <role descr="administrator, agent" f="PAG" n="0"/>
-        <role descr="entity administered" f="PPT" n="1"/>
-        <role descr="administered to/upon" f="GOL" n="2"/>
+        <role descr="administrator, agent" f="pag" n="0"/>
+        <role descr="entity administered" f="ppt" n="1"/>
+        <role descr="administered to/upon" f="gol" n="2"/>
       </roles>
     </roleset>
   </predicate>

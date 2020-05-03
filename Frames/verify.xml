@@ -2,8 +2,8 @@
   <predicate lemma="verify">
     <roleset id="verify.01" name="determine truth of a proposition">
       <roles>
-        <role descr="verifier" f="PAG" n="0"/>
-        <role descr="verified" f="PPT" n="1"/>
+        <role descr="verifier" f="pag" n="0"/>
+        <role descr="verified" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

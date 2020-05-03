@@ -2,14 +2,14 @@
   <predicate lemma="animate">
     <roleset id="animate.01" name="cartoons">
       <roles>
-        <role descr="animator (prob. rare)" f="PAG" n="0"/>
-        <role descr="cartoon" f="PPT" n="1"/>
+        <role descr="animator (prob. rare)" f="pag" n="0"/>
+        <role descr="cartoon" f="ppt" n="1"/>
       </roles>
     </roleset>
     <roleset id="animate.02" name="be lively">
       <roles>
-        <role descr="cause, emotion" f="PAG" n="0"/>
-        <role descr="lively thing" f="PPT" n="1"/>
+        <role descr="cause, emotion" f="pag" n="0"/>
+        <role descr="lively thing" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

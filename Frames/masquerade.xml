@@ -2,8 +2,8 @@
   <predicate lemma="masquerade">
     <roleset id="masquerade.01" name="to have a deceptive appearance">
       <roles>
-        <role descr="disguised thing" f="PAG" n="0"/>
-        <role descr="disguise, secondary predicate" f="PRD" n="1"/>
+        <role descr="disguised thing" f="pag" n="0"/>
+        <role descr="disguise, secondary predicate" f="prd" n="1"/>
       </roles>
     </roleset>
   </predicate>

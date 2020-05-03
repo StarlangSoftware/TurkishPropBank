@@ -3,14 +3,14 @@
     <roleset id="drool.01" name="emit saliva">
       <roles>
         <role descr="drooler" f="pag" n="0"/>
-        <role descr="drool (cognate object)" f="PPT" n="1"/>
+        <role descr="drool (cognate object)" f="ppt" n="1"/>
         <role descr="destination of drool" f="loc" n="2"/>
       </roles>
     </roleset>
     <roleset id="drool.02" name="lust after heartily">
       <roles>
-        <role descr="drooler" f="PAG" n="0"/>
-        <role descr="thing lusted after" f="PPT" n="1"/>
+        <role descr="drooler" f="pag" n="0"/>
+        <role descr="thing lusted after" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

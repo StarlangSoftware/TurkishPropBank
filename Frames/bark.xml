@@ -2,16 +2,16 @@
   <predicate lemma="bark">
     <roleset id="bark.01" name="like a dog">
       <roles>
-        <role descr="barker" f="PAG" n="0"/>
-        <role descr="utterance" f="PPT" n="1"/>
-        <role descr="hearer" f="GOL" n="2"/>
+        <role descr="barker" f="pag" n="0"/>
+        <role descr="utterance" f="ppt" n="1"/>
+        <role descr="hearer" f="gol" n="2"/>
       </roles>
     </roleset>
   </predicate>
   <predicate lemma="bark_up_the_wrong_tree">
     <roleset id="bark_up_the_wrong_tree.02" name="follow the wrong lead">
       <roles>
-        <role descr="barker" f="PAG" n="0"/>
+        <role descr="barker" f="pag" n="0"/>
       </roles>
     </roleset>
   </predicate>

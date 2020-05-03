@@ -2,9 +2,9 @@
   <predicate lemma="destress">
     <roleset id="destress.01" name="remove stress">
       <roles>
-        <role descr="remover" f="PAG" n="0"/>
-        <role descr="thing destressed" f="DIR" n="1"/>
-        <role descr="stress, thing removed" f="PPT" n="2"/>
+        <role descr="remover" f="pag" n="0"/>
+        <role descr="thing destressed" f="dir" n="1"/>
+        <role descr="stress, thing removed" f="ppt" n="2"/>
       </roles>
     </roleset>
   </predicate>

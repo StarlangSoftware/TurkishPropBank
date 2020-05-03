@@ -2,7 +2,7 @@
   <predicate lemma="spite">
     <roleset id="spite.01" name="act against with malicious ill will">
       <roles>
-        <role descr="spiteful one" f="PAG" n="0"/>
+        <role descr="spiteful one" f="pag" n="0"/>
         <role descr="entity spited" f="ppt" n="1"/>
         <role descr="for what" f="cau" n="2"/>
       </roles>

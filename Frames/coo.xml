@@ -2,9 +2,9 @@
   <predicate lemma="coo">
     <roleset id="coo.01" name="make a noise like a dove">
       <roles>
-        <role descr="cooer (dove, perhaps)" f="PAG" n="0"/>
-        <role descr="utterance" f="PPT" n="1"/>
-        <role descr="listener, cooed-to" f="GOL" n="2"/>
+        <role descr="cooer (dove, perhaps)" f="pag" n="0"/>
+        <role descr="utterance" f="ppt" n="1"/>
+        <role descr="listener, cooed-to" f="gol" n="2"/>
       </roles>
     </roleset>
   </predicate>

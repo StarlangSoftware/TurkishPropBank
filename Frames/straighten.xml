@@ -2,16 +2,16 @@
   <predicate lemma="straighten">
     <roleset id="straighten.01" name="(cause to) become straight">
       <roles>
-        <role descr="cause of straightness, agent" f="PAG" n="0"/>
-        <role descr="thing becoming straight" f="PPT" n="1"/>
-        <role descr="instrument, when separate from arg0" f="MNR" n="2"/>
+        <role descr="cause of straightness, agent" f="pag" n="0"/>
+        <role descr="thing becoming straight" f="ppt" n="1"/>
+        <role descr="instrument, when separate from arg0" f="mnr" n="2"/>
       </roles>
     </roleset>
   </predicate>
   <predicate lemma="straighten_out">
     <roleset id="straighten_out.02" name="make right">
       <roles>
-        <role descr="cause of rightness, agent" f="PAG" n="0"/>
+        <role descr="cause of rightness, agent" f="pag" n="0"/>
         <role descr="wrong to right" f="ppt" n="1"/>
       </roles>
     </roleset>
@@ -19,7 +19,7 @@
   <predicate lemma="straighten_up">
     <roleset id="straighten_up.03" name="make straight/neat, completive">
       <roles>
-        <role descr="straightener" f="PAG" n="0"/>
+        <role descr="straightener" f="pag" n="0"/>
         <role descr="thing made straight/neat" f="ppt" n="1"/>
       </roles>
     </roleset>

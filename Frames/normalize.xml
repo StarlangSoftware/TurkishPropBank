@@ -2,8 +2,8 @@
   <predicate lemma="normalize">
     <roleset id="normalize.01" name="to make normal, standard, or consistent">
       <roles>
-        <role descr="agent, causer" f="PAG" n="0"/>
-        <role descr="entity normalized" f="PPT" n="1"/>
+        <role descr="agent, causer" f="pag" n="0"/>
+        <role descr="entity normalized" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

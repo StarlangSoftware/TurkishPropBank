@@ -2,8 +2,8 @@
   <predicate lemma="enquire">
     <roleset id="enquire.01" name="inquire, as about">
       <roles>
-        <role descr="Inquirer" f="PAG" n="0"/>
-        <role descr="Topic asked about" f="PPT" n="1"/>
+        <role descr="Inquirer" f="pag" n="0"/>
+        <role descr="Topic asked about" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

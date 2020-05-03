@@ -30,7 +30,7 @@
   <predicate lemma="bleed_out">
     <roleset id="bleed_out.05" name="bleed to death">
       <roles>
-        <role descr="one who is bleeding" f="PPT" n="1"/>
+        <role descr="one who is bleeding" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

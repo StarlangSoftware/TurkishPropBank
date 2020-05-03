@@ -2,8 +2,8 @@
   <predicate lemma="fracture">
     <roleset id="fracture.01" name="break">
       <roles>
-        <role descr="breaker" f="PAG" n="0"/>
-        <role descr="broken" f="PPT" n="1"/>
+        <role descr="breaker" f="pag" n="0"/>
+        <role descr="broken" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

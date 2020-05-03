@@ -2,8 +2,8 @@
   <predicate lemma="billow">
     <roleset id="billow.01" name="to spread over a large area">
       <roles>
-        <role descr="entity billowing" f="PPT" n="1"/>
-        <role descr="direction" f="LOC" n="2"/>
+        <role descr="entity billowing" f="ppt" n="1"/>
+        <role descr="direction" f="loc" n="2"/>
       </roles>
     </roleset>
   </predicate>

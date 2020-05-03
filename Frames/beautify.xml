@@ -2,9 +2,9 @@
   <predicate lemma="beautify">
     <roleset id="beautify.01" name="make beautiful">
       <roles>
-        <role descr="decorator, agent" f="PAG" n="0"/>
-        <role descr="entity adorned" f="PPT" n="1"/>
-        <role descr="decoration;instrument" f="MNR" n="2"/>
+        <role descr="decorator, agent" f="pag" n="0"/>
+        <role descr="entity adorned" f="ppt" n="1"/>
+        <role descr="decoration;instrument" f="mnr" n="2"/>
       </roles>
     </roleset>
   </predicate>

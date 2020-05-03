@@ -2,8 +2,8 @@
   <predicate lemma="capture">
     <roleset id="capture.01" name="get">
       <roles>
-        <role descr="getter" f="PAG" n="0"/>
-        <role descr="thing gotten" f="PPT" n="1"/>
+        <role descr="getter" f="pag" n="0"/>
+        <role descr="thing gotten" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

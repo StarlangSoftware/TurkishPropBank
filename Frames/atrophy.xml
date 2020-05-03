@@ -2,7 +2,7 @@
   <predicate lemma="atrophy">
     <roleset id="atrophy.01" name="become weakened">
       <roles>
-        <role descr="thing weakened" f="PPT" n="1"/>
+        <role descr="thing weakened" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

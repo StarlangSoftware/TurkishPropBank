@@ -2,9 +2,9 @@
   <predicate lemma="thieve">
     <roleset id="thieve.01" name="steal, be a thief">
       <roles>
-        <role descr="thief" f="PAG" n="0"/>
-        <role descr="thing stolen" f="PPT" n="1"/>
-        <role descr="source" f="DIR" n="2"/>
+        <role descr="thief" f="pag" n="0"/>
+        <role descr="thing stolen" f="ppt" n="1"/>
+        <role descr="source" f="dir" n="2"/>
       </roles>
     </roleset>
   </predicate>

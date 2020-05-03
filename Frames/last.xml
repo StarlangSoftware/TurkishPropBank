@@ -2,8 +2,8 @@
   <predicate lemma="last">
     <roleset id="last.01" name="extend for some period of time; duration">
       <roles>
-        <role descr="thing that lasts" f="PPT" n="1"/>
-        <role descr="period of time" f="VSP" n="2"/>
+        <role descr="thing that lasts" f="ppt" n="1"/>
+        <role descr="period of time" f="vsp" n="2"/>
       </roles>
     </roleset>
     <roleset id="last.02" name="later than/behind all other entities">

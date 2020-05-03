@@ -2,8 +2,8 @@
   <predicate lemma="hoard">
     <roleset id="hoard.01" name="to accumulate a hoard">
       <roles>
-        <role descr="entity accumulating" f="PAG" n="0"/>
-        <role descr="substance accumulated" f="PPT" n="1"/>
+        <role descr="entity accumulating" f="pag" n="0"/>
+        <role descr="substance accumulated" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

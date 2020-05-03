@@ -2,7 +2,7 @@
   <predicate lemma="smooth">
     <roleset id="smooth.01" name="make smooth">
       <roles>
-        <role descr="agent, entity causing smoothness" f="PAG" n="0"/>
+        <role descr="agent, entity causing smoothness" f="pag" n="0"/>
         <role descr="thing becoming smooth" f="ppt" n="1"/>
         <role descr="explicit instrument" f="mnr" n="2"/>
       </roles>
@@ -21,15 +21,15 @@
   <predicate lemma="smoothen">
     <roleset id="smoothen.05" name="make or become smooth">
       <roles>
-        <role descr="Thing causing the smoothening" f="PAG" n="0"/>
-        <role descr="Entity smoothened" f="PPT" n="1"/>
+        <role descr="Thing causing the smoothening" f="pag" n="0"/>
+        <role descr="Entity smoothened" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>
   <predicate lemma="smooth_out">
     <roleset id="smooth_out.02" name="smooth out: make smooth">
       <roles>
-        <role descr="agent, entity causing smoothness" f="PAG" n="0"/>
+        <role descr="agent, entity causing smoothness" f="pag" n="0"/>
         <role descr="thing becoming smooth" f="ppt" n="1"/>
         <role descr="explicit instrument" f="mnr" n="2"/>
       </roles>
@@ -38,7 +38,7 @@
   <predicate lemma="smooth_over">
     <roleset id="smooth_over.03" name="smooth over: sooth difficulties">
       <roles>
-        <role descr="soother" f="PAG" n="0"/>
+        <role descr="soother" f="pag" n="0"/>
         <role descr="hurts, difficulties" f="ppt" n="1"/>
       </roles>
     </roleset>

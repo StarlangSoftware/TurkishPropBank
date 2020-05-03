@@ -2,9 +2,9 @@
   <predicate lemma="enclose">
     <roleset id="enclose.01" name="(cause to) be around">
       <roles>
-        <role descr="causative agent" f="PAG" n="0"/>
-        <role descr="thing surrounding" f="PPT" n="1"/>
-        <role descr="thing surrounded" f="PPT" n="2"/>
+        <role descr="causative agent" f="pag" n="0"/>
+        <role descr="thing surrounding" f="ppt" n="1"/>
+        <role descr="thing surrounded" f="ppt" n="2"/>
       </roles>
     </roleset>
   </predicate>

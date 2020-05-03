@@ -2,9 +2,9 @@
   <predicate lemma="intersperse">
     <roleset id="intersperse.01" name="to place at intervals">
       <roles>
-        <role descr="arranger, placer" f="PAG" n="0"/>
-        <role descr="entity interspersed" f="PPT" n="1"/>
-        <role descr="entity interspersed with" f="PPT" n="2"/>
+        <role descr="arranger, placer" f="pag" n="0"/>
+        <role descr="entity interspersed" f="ppt" n="1"/>
+        <role descr="entity interspersed with" f="ppt" n="2"/>
       </roles>
     </roleset>
   </predicate>

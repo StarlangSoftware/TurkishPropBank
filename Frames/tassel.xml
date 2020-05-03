@@ -2,9 +2,9 @@
   <predicate lemma="tassel">
     <roleset id="tassel.01" name="to adorn with tassels">
       <roles>
-        <role descr="tassler" f="PAG" n="0"/>
-        <role descr="thing tassled" f="PPT" n="1"/>
-        <role descr="craft shop, location" f="GOL" n="2"/>
+        <role descr="tassler" f="pag" n="0"/>
+        <role descr="thing tassled" f="ppt" n="1"/>
+        <role descr="craft shop, location" f="gol" n="2"/>
       </roles>
     </roleset>
   </predicate>

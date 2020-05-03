@@ -2,15 +2,15 @@
   <predicate lemma="bail_out">
     <roleset id="bail_out.01" name="abandon a project">
       <roles>
-        <role descr="abadoner, agent" f="PAG" n="0"/>
-        <role descr="project or enterprise" f="PPT" n="1"/>
+        <role descr="abadoner, agent" f="pag" n="0"/>
+        <role descr="project or enterprise" f="ppt" n="1"/>
       </roles>
     </roleset>
     <roleset id="bail_out.02" name="extricate from a difficult situation">
       <roles>
-        <role descr="agent, causer" f="PAG" n="0"/>
-        <role descr="entity extricated" f="PPT" n="1"/>
-        <role descr="situation extricated from" f="DIR" n="2"/>
+        <role descr="agent, causer" f="pag" n="0"/>
+        <role descr="entity extricated" f="ppt" n="1"/>
+        <role descr="situation extricated from" f="dir" n="2"/>
       </roles>
     </roleset>
   </predicate>

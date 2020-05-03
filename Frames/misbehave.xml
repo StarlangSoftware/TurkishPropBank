@@ -2,8 +2,8 @@
   <predicate lemma="misbehave">
     <roleset id="misbehave.01" name="to conduct (oneself) in an unacceptable manner">
       <roles>
-        <role descr="agent, entity behaving" f="PAG" n="0"/>
-        <role descr="manner, unlikely argument as &quot;badly&quot; is understood" f="PPT" n="1"/>
+        <role descr="agent, entity behaving" f="pag" n="0"/>
+        <role descr="manner, unlikely argument as &quot;badly&quot; is understood" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

@@ -2,7 +2,7 @@
   <predicate lemma="snipe">
     <roleset id="snipe.01" name="shoot at sporadically">
       <roles>
-        <role descr="sniper" f="PAG" n="0"/>
+        <role descr="sniper" f="pag" n="0"/>
         <role descr="sniped at, target" f="gol" n="1"/>
       </roles>
     </roleset>

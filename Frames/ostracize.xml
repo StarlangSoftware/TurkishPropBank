@@ -2,9 +2,9 @@
   <predicate lemma="ostracize">
     <roleset id="ostracize.01" name="to exclude from society, friendship,   privileges, etc">
       <roles>
-        <role descr="ostracizers, agent" f="PAG" n="0"/>
-        <role descr="ostracized" f="PPT" n="1"/>
-        <role descr="ostracized from" f="DIR" n="2"/>
+        <role descr="ostracizers, agent" f="pag" n="0"/>
+        <role descr="ostracized" f="ppt" n="1"/>
+        <role descr="ostracized from" f="dir" n="2"/>
       </roles>
     </roleset>
   </predicate>

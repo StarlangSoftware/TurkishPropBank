@@ -2,9 +2,9 @@
   <predicate lemma="compute">
     <roleset id="compute.01" name="to calculate">
       <roles>
-        <role descr="calculator, agent" f="PAG" n="0"/>
-        <role descr="entity calculated" f="PRD" n="1"/>
-        <role descr="value" f="VSP" n="2"/>
+        <role descr="calculator, agent" f="pag" n="0"/>
+        <role descr="entity calculated" f="prd" n="1"/>
+        <role descr="value" f="vsp" n="2"/>
       </roles>
     </roleset>
   </predicate>

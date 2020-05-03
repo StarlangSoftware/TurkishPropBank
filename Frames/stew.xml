@@ -2,14 +2,14 @@
   <predicate lemma="stew">
     <roleset id="stew.01" name="cook for a long time in thick   liquid">
       <roles>
-        <role descr="cook" f="PAG" n="0"/>
-        <role descr="thing stewing" f="PPT" n="1"/>
+        <role descr="cook" f="pag" n="0"/>
+        <role descr="thing stewing" f="ppt" n="1"/>
       </roles>
     </roleset>
     <roleset id="stew.02" name="worry about, fret over">
       <roles>
-        <role descr="worrier, stewer" f="PPT" n="0"/>
-        <role descr="cause" f="PAG" n="1"/>
+        <role descr="worrier, stewer" f="ppt" n="0"/>
+        <role descr="cause" f="pag" n="1"/>
       </roles>
     </roleset>
   </predicate>

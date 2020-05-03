@@ -2,7 +2,7 @@
   <predicate lemma="repack">
     <roleset id="repack.01" name="pack again">
       <roles>
-        <role descr="packer" f="PAG" n="0"/>
+        <role descr="packer" f="pag" n="0"/>
         <role descr="contents" f="ppt" n="1"/>
         <role descr="container" f="gol" n="2"/>
       </roles>

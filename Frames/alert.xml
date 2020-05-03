@@ -2,14 +2,14 @@
   <predicate lemma="alert">
     <roleset id="alert.01" name="alert, warn">
       <roles>
-        <role descr="entity giving warning" f="PAG" n="0"/>
-        <role descr="entity getting warning" f="GOL" n="1"/>
-        <role descr="warning" f="PPT" n="2"/>
+        <role descr="entity giving warning" f="pag" n="0"/>
+        <role descr="entity getting warning" f="gol" n="1"/>
+        <role descr="warning" f="ppt" n="2"/>
       </roles>
     </roleset>
     <roleset id="alert.02" name="be alive; awake and watchful">
       <roles>
-        <role descr="watchful entity" f="PAG" n="0"/>
+        <role descr="watchful entity" f="pag" n="0"/>
       </roles>
     </roleset>
   </predicate>

@@ -2,8 +2,8 @@
   <predicate lemma="advertise">
     <roleset id="advertise.01" name="make a commercial pitch">
       <roles>
-        <role descr="advertiser" f="PAG" n="0"/>
-        <role descr="thing being pitched, advertised" f="PPT" n="1"/>
+        <role descr="advertiser" f="pag" n="0"/>
+        <role descr="thing being pitched, advertised" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

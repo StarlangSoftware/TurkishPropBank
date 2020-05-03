@@ -2,8 +2,8 @@
   <predicate lemma="polite">
     <roleset id="polite.01" name="polite">
       <roles>
-        <role descr="polite entity or action" f="PPT" n="1"/>
-        <role descr="polite to whom?" f="GOL" n="2"/>
+        <role descr="polite entity or action" f="ppt" n="1"/>
+        <role descr="polite to whom?" f="gol" n="2"/>
       </roles>
     </roleset>
   </predicate>

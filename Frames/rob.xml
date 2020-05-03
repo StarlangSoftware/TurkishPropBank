@@ -2,9 +2,9 @@
   <predicate lemma="rob">
     <roleset id="rob.01" name="to engage in or commit robbery">
       <roles>
-        <role descr="robber, thief" f="PAG" n="0"/>
-        <role descr="person robbed" f="DIR" n="1"/>
-        <role descr="money or valuables, thing taken" f="PPT" n="2"/>
+        <role descr="robber, thief" f="pag" n="0"/>
+        <role descr="person robbed" f="dir" n="1"/>
+        <role descr="money or valuables, thing taken" f="ppt" n="2"/>
       </roles>
     </roleset>
   </predicate>

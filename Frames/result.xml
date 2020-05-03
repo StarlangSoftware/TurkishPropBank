@@ -2,8 +2,8 @@
   <predicate lemma="result">
     <roleset id="result.01" name="come about, become, come about from a prior condition">
       <roles>
-        <role descr="Theme, prior condition" f="PPT" n="1"/>
-        <role descr="Goal, end condition" f="LOC" n="2"/>
+        <role descr="Theme, prior condition" f="ppt" n="1"/>
+        <role descr="Goal, end condition" f="loc" n="2"/>
       </roles>
     </roleset>
   </predicate>

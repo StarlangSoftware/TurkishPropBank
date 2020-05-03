@@ -2,9 +2,9 @@
   <predicate lemma="hoodwink">
     <roleset id="hoodwink.01" name="to deceive">
       <roles>
-        <role descr="agent, causer" f="PAG" n="0"/>
-        <role descr="entity decieved" f="PPT" n="1"/>
-        <role descr="action deceived into" f="PRD" n="2"/>
+        <role descr="agent, causer" f="pag" n="0"/>
+        <role descr="entity decieved" f="ppt" n="1"/>
+        <role descr="action deceived into" f="prd" n="2"/>
       </roles>
     </roleset>
   </predicate>

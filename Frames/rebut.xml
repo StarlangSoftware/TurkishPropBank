@@ -9,8 +9,8 @@
     </roleset>
     <roleset id="rebut.02" name="say as a rebuttal">
       <roles>
-        <role descr="speaker" f="PAG" n="0"/>
-        <role descr="spoken words" f="PPT" n="1"/>
+        <role descr="speaker" f="pag" n="0"/>
+        <role descr="spoken words" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

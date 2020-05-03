@@ -2,8 +2,8 @@
   <predicate lemma="vaporize">
     <roleset id="vaporize.01" name="convert into vapor">
       <roles>
-        <role descr="cause" f="PAG" n="0"/>
-        <role descr="entity turned into vapor" f="PPT" n="1"/>
+        <role descr="cause" f="pag" n="0"/>
+        <role descr="entity turned into vapor" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

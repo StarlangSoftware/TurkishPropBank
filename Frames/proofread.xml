@@ -2,8 +2,8 @@
   <predicate lemma="proofread">
     <roleset id="proofread.01" name="check for errors">
       <roles>
-        <role descr="proofreader" f="PAG" n="0"/>
-        <role descr="document" f="PPT" n="1"/>
+        <role descr="proofreader" f="pag" n="0"/>
+        <role descr="document" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

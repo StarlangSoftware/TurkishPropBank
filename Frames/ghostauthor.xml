@@ -2,7 +2,7 @@
   <predicate lemma="ghostauthor">
     <roleset id="ghostauthor.01" name="write anonymously for another credited author">
       <roles>
-        <role descr="ghost writer" f="PAG" n="0"/>
+        <role descr="ghost writer" f="pag" n="0"/>
         <role descr="written work" f="ppt" n="1"/>
         <role descr="supposed author (the person whose name is on arg1)" f="gol" n="2"/>
       </roles>

@@ -2,8 +2,8 @@
   <predicate lemma="magnetize">
     <roleset id="magnetize.01" name="cause to have magnetic properties">
       <roles>
-        <role descr="causer of magnetism, agent" f="PAG" n="0"/>
-        <role descr="patient, thing getting magnetized" f="PPT" n="1"/>
+        <role descr="causer of magnetism, agent" f="pag" n="0"/>
+        <role descr="patient, thing getting magnetized" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

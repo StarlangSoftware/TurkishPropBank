@@ -2,8 +2,8 @@
   <predicate lemma="encompass">
     <roleset id="encompass.01" name="to constitute or include">
       <roles>
-        <role descr="entity encompassing" f="PPT" n="0"/>
-        <role descr="entity encompassed" f="PPT" n="1"/>
+        <role descr="entity encompassing" f="ppt" n="0"/>
+        <role descr="entity encompassed" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

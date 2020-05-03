@@ -2,7 +2,7 @@
   <predicate lemma="rofl">
     <roleset id="rofl.01" name="roll on the floor laughing">
       <roles>
-        <role descr="rolly-laugher" f="PAG" n="0"/>
+        <role descr="rolly-laugher" f="pag" n="0"/>
         <role descr="stimulus" f="cau" n="1"/>
       </roles>
     </roleset>

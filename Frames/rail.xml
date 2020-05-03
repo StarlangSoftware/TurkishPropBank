@@ -2,8 +2,8 @@
   <predicate lemma="rail">
     <roleset id="rail.01" name="raise an objection, diatribe">
       <roles>
-        <role descr="agent, speaker" f="PAG" n="0"/>
-        <role descr="thing objected to" f="PPT" n="1"/>
+        <role descr="agent, speaker" f="pag" n="0"/>
+        <role descr="thing objected to" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

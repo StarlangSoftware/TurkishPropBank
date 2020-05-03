@@ -2,7 +2,7 @@
   <predicate lemma="reaffirm">
     <roleset id="reaffirm.01" name="to affirm or assert again">
       <roles>
-        <role descr="affirmer, agent" f="PAG" n="0"/>
+        <role descr="affirmer, agent" f="pag" n="0"/>
         <role descr="thing reaffirmed" f="ppt" n="1"/>
       </roles>
     </roleset>

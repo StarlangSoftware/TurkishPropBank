@@ -2,14 +2,14 @@
   <predicate lemma="camp_out">
     <roleset id="camp_out.01" name="to live in or as if in a camp">
       <roles>
-        <role descr="camper, agent" f="PPT" n="0"/>
+        <role descr="camper, agent" f="ppt" n="0"/>
       </roles>
     </roleset>
   </predicate>
   <predicate lemma="camp">
     <roleset id="camp.02" name="camp (non-phrasal), lving temporarily in a tent">
       <roles>
-        <role descr="camper" f="PPT" n="0"/>
+        <role descr="camper" f="ppt" n="0"/>
         <role descr="location" f="loc" n="1"/>
       </roles>
     </roleset>

@@ -2,14 +2,14 @@
   <predicate lemma="scrap">
     <roleset id="scrap.01" name="discard, throw away, dismantling for scraps">
       <roles>
-        <role descr="scrapper" f="PAG" n="0"/>
-        <role descr="garbage" f="PPT" n="1"/>
+        <role descr="scrapper" f="pag" n="0"/>
+        <role descr="garbage" f="ppt" n="1"/>
       </roles>
     </roleset>
     <roleset id="scrap.02" name="fight">
       <roles>
-        <role descr="one fighter" f="PAG" n="0"/>
-        <role descr="the other" f="PPT" n="1"/>
+        <role descr="one fighter" f="pag" n="0"/>
+        <role descr="the other" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

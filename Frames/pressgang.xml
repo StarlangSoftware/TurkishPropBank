@@ -2,7 +2,7 @@
   <predicate lemma="pressgang">
     <roleset id="pressgang.01" name="force/coerce (often into military/naval service)">
       <roles>
-        <role descr="agent, forcer" f="PAG" n="0"/>
+        <role descr="agent, forcer" f="pag" n="0"/>
         <role descr="entity forced" f="ppt" n="1"/>
         <role descr="forced into/to do what" f="prd" n="2"/>
       </roles>

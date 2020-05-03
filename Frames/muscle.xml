@@ -2,9 +2,9 @@
   <predicate lemma="muscle">
     <roleset id="muscle.01" name="(try to) cause motion">
       <roles>
-        <role descr="pusher" f="PAG" n="0"/>
-        <role descr="thing pushed" f="PPT" n="1"/>
-        <role descr="direction" f="DIR" n="2"/>
+        <role descr="pusher" f="pag" n="0"/>
+        <role descr="thing pushed" f="ppt" n="1"/>
+        <role descr="direction" f="dir" n="2"/>
       </roles>
     </roleset>
   </predicate>

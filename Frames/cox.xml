@@ -2,8 +2,8 @@
   <predicate lemma="cox">
     <roleset id="cox.01" name="to act as a coxswain (helmsman) for a ship">
       <roles>
-        <role descr="coxswain" f="PAG" n="0"/>
-        <role descr="ship, crew" f="GOL" n="1"/>
+        <role descr="coxswain" f="pag" n="0"/>
+        <role descr="ship, crew" f="gol" n="1"/>
       </roles>
     </roleset>
   </predicate>

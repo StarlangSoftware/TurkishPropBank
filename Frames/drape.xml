@@ -2,9 +2,9 @@
   <predicate lemma="drape">
     <roleset id="drape.01" name="place loosely over">
       <roles>
-        <role descr="draper" f="PAG" n="0"/>
-        <role descr="draped, thing covered" f="GOL" n="1"/>
-        <role descr="drapes, cloth" f="PPT" n="2"/>
+        <role descr="draper" f="pag" n="0"/>
+        <role descr="draped, thing covered" f="gol" n="1"/>
+        <role descr="drapes, cloth" f="ppt" n="2"/>
       </roles>
     </roleset>
   </predicate>

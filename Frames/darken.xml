@@ -2,8 +2,8 @@
   <predicate lemma="darken">
     <roleset id="darken.01" name="(cause to) become dark">
       <roles>
-        <role descr="causer of darkening" f="PAG" n="0"/>
-        <role descr="thing becoming dark" f="PPT" n="1"/>
+        <role descr="causer of darkening" f="pag" n="0"/>
+        <role descr="thing becoming dark" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

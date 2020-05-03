@@ -54,9 +54,9 @@
   <predicate lemma="signal">
     <roleset id="signal.07" name="show, cause to see, communicate by signaling, message">
       <roles>
-        <role descr="shower" f="PAG" n="0"/>
-        <role descr="thing seen/shown" f="PPT" n="1"/>
-        <role descr="seer" f="GOL" n="2"/>
+        <role descr="shower" f="pag" n="0"/>
+        <role descr="thing seen/shown" f="ppt" n="1"/>
+        <role descr="seer" f="gol" n="2"/>
         <role descr="subject-matter of the signals (what they relate to)" f="vsp" n="3"/>
       </roles>
     </roleset>

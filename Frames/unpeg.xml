@@ -2,9 +2,9 @@
   <predicate lemma="unpeg">
     <roleset id="unpeg.01" name="unpeg">
       <roles>
-        <role descr="entity unpegging, agent" f="PAG" n="0"/>
-        <role descr="thing unpegged" f="PPT" n="1"/>
-        <role descr="unpegged from, source" f="PPT" n="2"/>
+        <role descr="entity unpegging, agent" f="pag" n="0"/>
+        <role descr="thing unpegged" f="ppt" n="1"/>
+        <role descr="unpegged from, source" f="ppt" n="2"/>
       </roles>
     </roleset>
   </predicate>

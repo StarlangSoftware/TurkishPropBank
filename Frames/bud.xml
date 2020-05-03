@@ -2,7 +2,7 @@
   <predicate lemma="bud">
     <roleset id="bud.01" name="start up, begin anew">
       <roles>
-        <role descr="thing starting" f="PPT" n="1"/>
+        <role descr="thing starting" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

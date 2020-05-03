@@ -2,8 +2,8 @@
   <predicate lemma="party">
     <roleset id="party.01" name="to work together, act festively together">
       <roles>
-        <role descr="focussed party, agent" f="PAG" n="0"/>
-        <role descr="second party" f="PPT" n="1"/>
+        <role descr="focussed party, agent" f="pag" n="0"/>
+        <role descr="second party" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

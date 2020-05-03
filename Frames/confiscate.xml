@@ -2,9 +2,9 @@
   <predicate lemma="confiscate">
     <roleset id="confiscate.01" name="take away">
       <roles>
-        <role descr="Taker" f="PAG" n="0"/>
-        <role descr="thing taken" f="PPT" n="1"/>
-        <role descr="entity taken from" f="DIR" n="2"/>
+        <role descr="Taker" f="pag" n="0"/>
+        <role descr="thing taken" f="ppt" n="1"/>
+        <role descr="entity taken from" f="dir" n="2"/>
       </roles>
     </roleset>
   </predicate>

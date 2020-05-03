@@ -2,9 +2,9 @@
   <predicate lemma="outbid">
     <roleset id="outbid.01" name="bid more than">
       <roles>
-        <role descr="bidder" f="PPT" n="0"/>
-        <role descr="other, lesser bidder" f="PPT" n="1"/>
-        <role descr="goods" f="PRD" n="2"/>
+        <role descr="bidder" f="ppt" n="0"/>
+        <role descr="other, lesser bidder" f="ppt" n="1"/>
+        <role descr="goods" f="prd" n="2"/>
       </roles>
     </roleset>
   </predicate>

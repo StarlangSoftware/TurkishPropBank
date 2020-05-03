@@ -2,8 +2,8 @@
   <predicate lemma="cuckold">
     <roleset id="cuckold.01" name="an unfaithful wife who thereby makes a   cuckold of her husband">
       <roles>
-        <role descr="unfaithful wife, agent" f="PAG" n="0"/>
-        <role descr="husband" f="PPT" n="1"/>
+        <role descr="unfaithful wife, agent" f="pag" n="0"/>
+        <role descr="husband" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

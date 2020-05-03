@@ -2,9 +2,9 @@
   <predicate lemma="blindfold">
     <roleset id="blindfold.01" name="cover the eyes">
       <roles>
-        <role descr="coverer, agent" f="PAG" n="0"/>
-        <role descr="entity with covered eyes" f="GOL" n="1"/>
-        <role descr="explicit mention of blindfold" f="PPT" n="2"/>
+        <role descr="coverer, agent" f="pag" n="0"/>
+        <role descr="entity with covered eyes" f="gol" n="1"/>
+        <role descr="explicit mention of blindfold" f="ppt" n="2"/>
       </roles>
     </roleset>
   </predicate>

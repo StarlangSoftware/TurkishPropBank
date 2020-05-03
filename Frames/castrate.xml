@@ -2,20 +2,20 @@
   <predicate lemma="castrate">
     <roleset id="castrate.01" name="make weak">
       <roles>
-        <role descr="causer of weakening" f="PAG" n="0"/>
-        <role descr="thing weakened" f="PPT" n="1"/>
+        <role descr="causer of weakening" f="pag" n="0"/>
+        <role descr="thing weakened" f="ppt" n="1"/>
       </roles>
     </roleset>
     <roleset id="castrate.02" name="edit to change indelicate parts">
       <roles>
-        <role descr="editor" f="PAG" n="0"/>
-        <role descr="Thing edited" f="PPT" n="1"/>
+        <role descr="editor" f="pag" n="0"/>
+        <role descr="Thing edited" f="ppt" n="1"/>
       </roles>
     </roleset>
     <roleset id="castrate.03" name="literally remove overies or testicles.">
       <roles>
-        <role descr="Castrator" f="PAG" n="0"/>
-        <role descr="Spayed/neutered entity" f="PPT" n="1"/>
+        <role descr="Castrator" f="pag" n="0"/>
+        <role descr="Spayed/neutered entity" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

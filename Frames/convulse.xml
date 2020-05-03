@@ -2,8 +2,8 @@
   <predicate lemma="convulse">
     <roleset id="convulse.01" name="body movement, ">
       <roles>
-        <role descr="cause of convulsion" f="PAG" n="0"/>
-        <role descr="entity convulsing" f="PPT" n="1"/>
+        <role descr="cause of convulsion" f="pag" n="0"/>
+        <role descr="entity convulsing" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

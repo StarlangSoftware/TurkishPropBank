@@ -4,7 +4,7 @@
       <roles>
         <role descr="causer of motion" f="pag" n="0"/>
         <role descr="entity in motion" f="ppt" n="1"/>
-        <role descr="EXT" f="ext" n="2"/>
+        <role descr="ext" f="ext" n="2"/>
         <role descr="start point" f="dir" n="3"/>
         <role descr="end point" f="loc" n="4"/>
         <role descr="direction" f="loc" n="5"/>

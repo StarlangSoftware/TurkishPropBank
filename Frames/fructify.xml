@@ -3,7 +3,7 @@
     <roleset id="fructify.01" name="be productive or fruitful">
       <roles>
         <role descr="cause of fruitfulness" f="pag" n="1"/>
-        <role descr="fruitful thing" f="PPT" n="2"/>
+        <role descr="fruitful thing" f="ppt" n="2"/>
       </roles>
     </roleset>
   </predicate>

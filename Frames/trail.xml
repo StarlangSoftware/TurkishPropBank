@@ -2,21 +2,21 @@
   <predicate lemma="trail">
     <roleset id="trail.01" name="be subsequent, temporally or spatially, or less than">
       <roles>
-        <role descr="thing following" f="PAG" n="0"/>
-        <role descr="thing followed" f="PPT" n="1"/>
+        <role descr="thing following" f="pag" n="0"/>
+        <role descr="thing followed" f="ppt" n="1"/>
       </roles>
     </roleset>
     <roleset id="trail.03" name="drag, draw, trail">
       <roles>
-        <role descr="dragger, drawer" f="PAG" n="0"/>
-        <role descr="trailer" f="PPT" n="1"/>
+        <role descr="dragger, drawer" f="pag" n="0"/>
+        <role descr="trailer" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>
   <predicate lemma="trail_off">
     <roleset id="trail_off.02" name="trail off: come to an end">
       <roles>
-        <role descr="thing ending" f="PPT" n="1"/>
+        <role descr="thing ending" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

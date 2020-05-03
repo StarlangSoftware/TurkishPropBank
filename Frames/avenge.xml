@@ -2,8 +2,8 @@
   <predicate lemma="avenge">
     <roleset id="avenge.01" name="to take revenge for a perceived wrong">
       <roles>
-        <role descr="avenger, agent" f="PAG" n="0"/>
-        <role descr="a perceived wrong" f="PPT" n="1"/>
+        <role descr="avenger, agent" f="pag" n="0"/>
+        <role descr="a perceived wrong" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

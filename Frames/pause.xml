@@ -2,7 +2,7 @@
   <predicate lemma="pause">
     <roleset id="pause.01" name="to suspend an action, to hesitate">
       <roles>
-        <role descr="thing pausing, agent or action" f="PAG" n="0"/>
+        <role descr="thing pausing, agent or action" f="pag" n="0"/>
       </roles>
     </roleset>
   </predicate>

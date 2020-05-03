@@ -2,14 +2,14 @@
   <predicate lemma="grin">
     <roleset id="grin.01" name="smile broadly">
       <roles>
-        <role descr="grinner" f="PAG" n="0"/>
+        <role descr="grinner" f="pag" n="0"/>
       </roles>
     </roleset>
     <roleset id="grin.02" name="speak while grinning">
       <roles>
-        <role descr="grinner" f="PAG" n="0"/>
-        <role descr="utterance" f="PPT" n="1"/>
-        <role descr="listener" f="GOL" n="2"/>
+        <role descr="grinner" f="pag" n="0"/>
+        <role descr="utterance" f="ppt" n="1"/>
+        <role descr="listener" f="gol" n="2"/>
       </roles>
     </roleset>
   </predicate>

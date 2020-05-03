@@ -2,8 +2,8 @@
   <predicate lemma="subsidize">
     <roleset id="subsidize.01" name="to assist or support with a subsidy">
       <roles>
-        <role descr="assister, agent" f="PAG" n="0"/>
-        <role descr="entity subsidized" f="PPT" n="1"/>
+        <role descr="assister, agent" f="pag" n="0"/>
+        <role descr="entity subsidized" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

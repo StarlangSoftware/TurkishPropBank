@@ -2,8 +2,8 @@
   <predicate lemma="spiritualize">
     <roleset id="spiritualize.01" name="give spiritual meaning to; elevate or cleanse in allusion to christ">
       <roles>
-        <role descr="one assigning spiritual meaning" f="PAG" n="0"/>
-        <role descr="thing spiritualized" f="PPT" n="1"/>
+        <role descr="one assigning spiritual meaning" f="pag" n="0"/>
+        <role descr="thing spiritualized" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

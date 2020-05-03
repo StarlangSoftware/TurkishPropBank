@@ -2,8 +2,8 @@
   <predicate lemma="picture">
     <roleset id="picture.01" name="display in a picture">
       <roles>
-        <role descr="displayer, agent" f="PAG" n="0"/>
-        <role descr="thing pictured" f="PPT" n="1"/>
+        <role descr="displayer, agent" f="pag" n="0"/>
+        <role descr="thing pictured" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

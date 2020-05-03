@@ -2,8 +2,8 @@
   <predicate lemma="vitrify">
     <roleset id="vitrify.01" name="make into glass">
       <roles>
-        <role descr="agent, vitrifier" f="PAG" n="0"/>
-        <role descr="thing vitrified" f="PPT" n="1"/>
+        <role descr="agent, vitrifier" f="pag" n="0"/>
+        <role descr="thing vitrified" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

@@ -2,8 +2,8 @@
   <predicate lemma="secondguess">
     <roleset id="secondguess.01" name="criticize, usually">
       <roles>
-        <role descr="critic" f="PAG" n="0"/>
-        <role descr="criticized" f="PPT" n="1"/>
+        <role descr="critic" f="pag" n="0"/>
+        <role descr="criticized" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

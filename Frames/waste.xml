@@ -3,7 +3,7 @@
     <roleset id="waste.01" name="destroy, use up needlessly, needless use">
       <roles>
         
-        <role descr="destroyer" f="PAG" n="0"/>
+        <role descr="destroyer" f="pag" n="0"/>
         <role descr="thing wasted" f="ppt" n="1"/>
         <role descr="instrument of wasting/ destruction, wasted on/doing what (if separate from arg0)" f="mnr" n="2"/>
       </roles>
@@ -12,7 +12,7 @@
   <predicate lemma="wasteful">
     <roleset id="wasteful.02" name="destroy, use up needlessly">
       <roles>
-        <role descr="destroyer" f="PAG" n="0"/>
+        <role descr="destroyer" f="pag" n="0"/>
         <role descr="thing wasted" f="ppt" n="1"/>
         <role descr="instrument of wasting/ destruction, wasted on/doing what (if separate from arg0)" f="mnr" n="2"/>
       </roles>

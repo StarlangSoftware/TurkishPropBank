@@ -2,9 +2,9 @@
   <predicate lemma="spindle">
     <roleset id="spindle.01" name="to cover or coat with tin">
       <roles>
-        <role descr="seamstress" f="PAG" n="0"/>
-        <role descr="thing spindled" f="PPT" n="1"/>
-        <role descr="spindle, location" f="GOL" n="2"/>
+        <role descr="seamstress" f="pag" n="0"/>
+        <role descr="thing spindled" f="ppt" n="1"/>
+        <role descr="spindle, location" f="gol" n="2"/>
       </roles>
     </roleset>
   </predicate>

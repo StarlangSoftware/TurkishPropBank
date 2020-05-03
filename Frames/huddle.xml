@@ -2,13 +2,13 @@
   <predicate lemma="huddle">
     <roleset id="huddle.01" name="bend over">
       <roles>
-        <role descr="huddler" f="PAG" n="0"/>
+        <role descr="huddler" f="pag" n="0"/>
       </roles>
     </roleset>
     <roleset id="huddle.02" name="meet with football analogy">
       <roles>
-        <role descr="one party" f="PAG" n="0"/>
-        <role descr="other party" f="PPT" n="1"/>
+        <role descr="one party" f="pag" n="0"/>
+        <role descr="other party" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

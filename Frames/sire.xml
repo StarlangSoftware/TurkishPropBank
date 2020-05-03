@@ -2,8 +2,8 @@
   <predicate lemma="sire">
     <roleset id="sire.01" name="bring forth, generate">
       <roles>
-        <role descr="sire" f="CAU" n="0"/>
-        <role descr="children" f="PPT" n="1"/>
+        <role descr="sire" f="cau" n="0"/>
+        <role descr="children" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

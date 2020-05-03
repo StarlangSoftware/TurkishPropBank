@@ -2,13 +2,13 @@
   <predicate lemma="adjourn">
     <roleset id="adjourn.01" name="(bring to a) close">
       <roles>
-        <role descr="closer, adjourner" f="PAG" n="0"/>
+        <role descr="closer, adjourner" f="pag" n="0"/>
         <role descr="thing closed" f="ppt" n="1"/>
       </roles>
     </roleset>
     <roleset id="adjourn.02" name="go from one location to another">
       <roles>
-        <role descr="entity in motion" f="PAG" n="0"/>
+        <role descr="entity in motion" f="pag" n="0"/>
         <role descr="destination" f="gol" n="1"/>
       </roles>
     </roleset>

@@ -2,9 +2,9 @@
   <predicate lemma="stemmer">
     <roleset id="stemmer.01" name="stemmer">
       <roles>
-        <role descr="stemmerer, agent" f="PAG" n="0"/>
-        <role descr="stemmered about what, topic" f="PPT" n="1"/>
-        <role descr="stemmered to whom, recipient" f="GOL" n="2"/>
+        <role descr="stemmerer, agent" f="pag" n="0"/>
+        <role descr="stemmered about what, topic" f="ppt" n="1"/>
+        <role descr="stemmered to whom, recipient" f="gol" n="2"/>
       </roles>
     </roleset>
   </predicate>

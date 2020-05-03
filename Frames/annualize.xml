@@ -2,7 +2,7 @@
   <predicate lemma="annualize">
     <roleset id="annualize.01" name="convert to a yearly basis">
       <roles>
-        <role descr="agent" f="PAG" n="0"/>
+        <role descr="agent" f="pag" n="0"/>
         <role descr="thing annualized" f="ppt" n="1"/>
         <role descr="term, length of time annualized over" f="tmp" n="2"/>
       </roles>

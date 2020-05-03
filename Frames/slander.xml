@@ -2,8 +2,8 @@
   <predicate lemma="slander">
     <roleset id="slander.01" name="to defame">
       <roles>
-        <role descr="defamer, agent" f="PAG" n="0"/>
-        <role descr="entity defamed" f="PPT" n="1"/>
+        <role descr="defamer, agent" f="pag" n="0"/>
+        <role descr="entity defamed" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

@@ -2,8 +2,8 @@
   <predicate lemma="corral">
     <roleset id="corral.01" name="put into a corral, pen">
       <roles>
-        <role descr="cowboy, agent" f="PAG" n="0"/>
-        <role descr="animal" f="PPT" n="1"/>
+        <role descr="cowboy, agent" f="pag" n="0"/>
+        <role descr="animal" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

@@ -2,8 +2,8 @@
   <predicate lemma="bloody">
     <roleset id="bloody.01" name="to stain with or as if with a blood">
       <roles>
-        <role descr="causer" f="PAG" n="0"/>
-        <role descr="entity bloodied" f="PPT" n="1"/>
+        <role descr="causer" f="pag" n="0"/>
+        <role descr="entity bloodied" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

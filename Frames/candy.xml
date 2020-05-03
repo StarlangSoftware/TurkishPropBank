@@ -2,8 +2,8 @@
   <predicate lemma="candy">
     <roleset id="candy.01" name="coat with candy shell">
       <roles>
-        <role descr="coater, agent" f="PAG" n="0"/>
-        <role descr="thing now candy-coated" f="PPT" n="1"/>
+        <role descr="coater, agent" f="pag" n="0"/>
+        <role descr="thing now candy-coated" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

@@ -2,21 +2,21 @@
   <predicate lemma="prompt">
     <roleset id="prompt.01" name="cause an event">
       <roles>
-        <role descr="causer, prompter" f="PAG" n="0"/>
-        <role descr="event" f="PPT" n="1"/>
+        <role descr="causer, prompter" f="pag" n="0"/>
+        <role descr="event" f="ppt" n="1"/>
       </roles>
     </roleset>
     <roleset id="prompt.02" name="bring about, cause">
       <roles>
-        <role descr="causer, prompter" f="PAG" n="0"/>
-        <role descr="impelled agent" f="PPT" n="1"/>
-        <role descr="impelled action" f="PRD" n="2"/>
+        <role descr="causer, prompter" f="pag" n="0"/>
+        <role descr="impelled agent" f="ppt" n="1"/>
+        <role descr="impelled action" f="prd" n="2"/>
       </roles>
     </roleset>
     <roleset id="prompt.03" name="give the next line">
       <roles>
-        <role descr="(tele)prompter" f="PAG" n="0"/>
-        <role descr="speaker" f="PPT" n="1"/>
+        <role descr="(tele)prompter" f="pag" n="0"/>
+        <role descr="speaker" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

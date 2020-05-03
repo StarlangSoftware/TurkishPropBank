@@ -2,21 +2,21 @@
   <predicate lemma="render">
     <roleset id="render.01" name="to cause to become">
       <roles>
-        <role descr="cause, agent" f="PAG" n="0"/>
+        <role descr="cause, agent" f="pag" n="0"/>
         <role descr="entity rendered" f="ppt" n="1"/>
         <role descr="secondary predicate on arg1" f="prd" n="2"/>
       </roles>
     </roleset>
     <roleset id="render.02" name="to give, provide, giving">
       <roles>
-        <role descr="giver" f="PAG" n="0"/>
-        <role descr="entity rendered" f="PPT" n="1"/>
-        <role descr="entity receiving" f="GOL" n="2"/>
+        <role descr="giver" f="pag" n="0"/>
+        <role descr="entity rendered" f="ppt" n="1"/>
+        <role descr="entity receiving" f="gol" n="2"/>
       </roles>
     </roleset>
     <roleset id="render.03" name="to translate">
       <roles>
-        <role descr="translator, artist" f="PAG" n="0"/>
+        <role descr="translator, artist" f="pag" n="0"/>
         <role descr="entity rendered" f="ppt" n="1"/>
         <role descr="rendered into (end state)" f="prd" n="2"/>
       </roles>

@@ -2,8 +2,8 @@
   <predicate lemma="peer">
     <roleset id="peer.01" name="to look searchingly">
       <roles>
-        <role descr="looker, searcher, agent" f="PPT" n="0"/>
-        <role descr="entity peered into/at/over..." f="PAG" n="1"/>
+        <role descr="looker, searcher, agent" f="ppt" n="0"/>
+        <role descr="entity peered into/at/over..." f="pag" n="1"/>
       </roles>
     </roleset>
   </predicate>

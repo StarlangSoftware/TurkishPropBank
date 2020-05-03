@@ -2,17 +2,17 @@
   <predicate lemma="burglarize">
     <roleset id="burglarize.01" name="steal from">
       <roles>
-        <role descr="thief, burglar" f="PAG" n="0"/>
-        <role descr="thing/place stolen from" f="PPT" n="1"/>
+        <role descr="thief, burglar" f="pag" n="0"/>
+        <role descr="thing/place stolen from" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>
   <predicate lemma="burgle">
     <roleset id="burgle.02" name="to engage in or commit robbery">
       <roles>
-        <role descr="robber, thief" f="PAG" n="0"/>
-        <role descr="person, entity burgled" f="DIR" n="1"/>
-        <role descr="money or valuables, thing taken" f="PPT" n="2"/>
+        <role descr="robber, thief" f="pag" n="0"/>
+        <role descr="person, entity burgled" f="dir" n="1"/>
+        <role descr="money or valuables, thing taken" f="ppt" n="2"/>
       </roles>
     </roleset>
   </predicate>

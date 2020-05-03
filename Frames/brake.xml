@@ -2,8 +2,8 @@
   <predicate lemma="brake">
     <roleset id="brake.01" name="slow a car via brakes">
       <roles>
-        <role descr="causer of slowing" f="PAG" n="0"/>
-        <role descr="vehicle" f="PPT" n="1"/>
+        <role descr="causer of slowing" f="pag" n="0"/>
+        <role descr="vehicle" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

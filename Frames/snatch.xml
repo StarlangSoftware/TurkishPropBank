@@ -2,19 +2,19 @@
   <predicate lemma="snatch">
     <roleset id="snatch.01" name="grab quickly">
       <roles>
-        <role descr="snatched" f="PAG" n="0"/>
-        <role descr="snatched" f="PPT" n="1"/>
-        <role descr="source" f="DIR" n="2"/>
+        <role descr="snatched" f="pag" n="0"/>
+        <role descr="snatched" f="ppt" n="1"/>
+        <role descr="source" f="dir" n="2"/>
       </roles>
     </roleset>
   </predicate>
   <predicate lemma="snatch_away">
     <roleset id="snatch_away.02" name="grab quickly away from someone">
       <roles>
-        <role descr="snatcher" f="PAG" n="0"/>
-        <role descr="thing snatched" f="PPT" n="1"/>
-        <role descr="snatched from" f="DIR" n="2"/>
-        <role descr="snatched for" f="GOL" n="3"/>
+        <role descr="snatcher" f="pag" n="0"/>
+        <role descr="thing snatched" f="ppt" n="1"/>
+        <role descr="snatched from" f="dir" n="2"/>
+        <role descr="snatched for" f="gol" n="3"/>
       </roles>
     </roleset>
   </predicate>

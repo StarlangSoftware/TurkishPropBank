@@ -2,8 +2,8 @@
   <predicate lemma="blare">
     <roleset id="blare.01" name="make a loud noise">
       <roles>
-        <role descr="causer, agent" f="PAG" n="0"/>
-        <role descr="source of loud noise" f="LOC" n="1"/>
+        <role descr="causer, agent" f="pag" n="0"/>
+        <role descr="source of loud noise" f="loc" n="1"/>
       </roles>
     </roleset>
   </predicate>

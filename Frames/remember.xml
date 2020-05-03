@@ -2,7 +2,7 @@
   <predicate lemma="remember">
     <roleset id="remember.01" name="default, to recall">
       <roles>
-        <role descr="rememberer" f="PAG" n="0"/>
+        <role descr="rememberer" f="pag" n="0"/>
         <role descr="memory" f="ppt" n="1"/>
         <role descr="secondary attribute" f="prd" n="2"/>
       </roles>

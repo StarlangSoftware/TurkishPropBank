@@ -2,8 +2,8 @@
   <predicate lemma="beatify">
     <roleset id="beatify.01" name="elevate in status">
       <roles>
-        <role descr="causer of elevation" f="PAG" n="0"/>
-        <role descr="entity being elevated" f="PPT" n="1"/>
+        <role descr="causer of elevation" f="pag" n="0"/>
+        <role descr="entity being elevated" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

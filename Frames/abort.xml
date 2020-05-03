@@ -2,8 +2,8 @@
   <predicate lemma="abort">
     <roleset id="abort.01" name="to terminate">
       <roles>
-        <role descr="causer, agent" f="PAG" n="0"/>
-        <role descr="entity aborted" f="PPT" n="1"/>
+        <role descr="causer, agent" f="pag" n="0"/>
+        <role descr="entity aborted" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

@@ -2,7 +2,7 @@
   <predicate lemma="overextend">
     <roleset id="overextend.01" name="extend too far">
       <roles>
-        <role descr="agent of overextension" f="PAG" n="0"/>
+        <role descr="agent of overextension" f="pag" n="0"/>
         <role descr="entity overextended" f="ppt" n="1"/>
       </roles>
     </roleset>

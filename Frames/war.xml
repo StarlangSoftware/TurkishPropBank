@@ -2,9 +2,9 @@
   <predicate lemma="war">
     <roleset id="war.01" name="to carry on warfare, wage war">
       <roles>
-        <role descr="warmonger, agent" f="PAG" n="0"/>
-        <role descr="war against/with, other entity warring with agent." f="COM" n="1"/>
-        <role descr="topic, war over what?" f="PPT" n="2"/>
+        <role descr="warmonger, agent" f="pag" n="0"/>
+        <role descr="war against/with, other entity warring with agent." f="com" n="1"/>
+        <role descr="topic, war over what?" f="ppt" n="2"/>
       </roles>
     </roleset>
   </predicate>

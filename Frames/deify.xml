@@ -2,8 +2,8 @@
   <predicate lemma="deify">
     <roleset id="deify.01" name="to exalto to the rank of a deity">
       <roles>
-        <role descr="deifier" f="PPT" n="0"/>
-        <role descr="deified" f="PAG" n="1"/>
+        <role descr="deifier" f="ppt" n="0"/>
+        <role descr="deified" f="pag" n="1"/>
       </roles>
     </roleset>
   </predicate>

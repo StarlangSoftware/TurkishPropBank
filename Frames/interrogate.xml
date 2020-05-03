@@ -2,9 +2,9 @@
   <predicate lemma="interrogate">
     <roleset id="interrogate.01" name="question closely">
       <roles>
-        <role descr="asker" f="PAG" n="0"/>
-        <role descr="question or thing in doubt" f="PPT" n="1"/>
-        <role descr="entity asked, hearer" f="GOL" n="2"/>
+        <role descr="asker" f="pag" n="0"/>
+        <role descr="question or thing in doubt" f="ppt" n="1"/>
+        <role descr="entity asked, hearer" f="gol" n="2"/>
       </roles>
     </roleset>
   </predicate>

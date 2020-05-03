@@ -2,9 +2,9 @@
   <predicate lemma="bridle">
     <roleset id="bridle.01" name="constrain by bridle">
       <roles>
-        <role descr="Equestrian, causer of bridling" f="PAG" n="0"/>
-        <role descr="Horse, entity constrained, bridled" f="GOL" n="1"/>
-        <role descr="Bridle itself, headstall" f="PPT" n="2"/>
+        <role descr="Equestrian, causer of bridling" f="pag" n="0"/>
+        <role descr="Horse, entity constrained, bridled" f="gol" n="1"/>
+        <role descr="Bridle itself, headstall" f="ppt" n="2"/>
       </roles>
     </roleset>
   </predicate>

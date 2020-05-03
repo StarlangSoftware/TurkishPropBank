@@ -2,8 +2,8 @@
   <predicate lemma="eradicate">
     <roleset id="eradicate.01" name="eliminate completely">
       <roles>
-        <role descr="eliminator, agent" f="PAG" n="0"/>
-        <role descr="thing eliminate" f="PPT" n="1"/>
+        <role descr="eliminator, agent" f="pag" n="0"/>
+        <role descr="thing eliminate" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

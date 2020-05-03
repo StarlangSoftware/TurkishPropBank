@@ -2,7 +2,7 @@
   <predicate lemma="program">
     <roleset id="program.01" name="to design a program">
       <roles>
-        <role descr="programmer, agent" f="PAG" n="0"/>
+        <role descr="programmer, agent" f="pag" n="0"/>
         <role descr="entity  programmed" f="ppt" n="1"/>
         <role descr="attribute" f="prd" n="2"/>
       </roles>

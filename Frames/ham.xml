@@ -2,8 +2,8 @@
   <predicate lemma="ham_up">
     <roleset id="ham_up.01" name="be a ham, overact">
       <roles>
-        <role descr="overactor" f="PAG" n="0"/>
-        <role descr="fixed: it" f="PPT" n="1"/>
+        <role descr="overactor" f="pag" n="0"/>
+        <role descr="fixed: it" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

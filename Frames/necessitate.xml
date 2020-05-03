@@ -2,8 +2,8 @@
   <predicate lemma="necessitate">
     <roleset id="necessitate.01" name="require">
       <roles>
-        <role descr="requirer" f="PAG" n="0"/>
-        <role descr="thing required" f="PPT" n="1"/>
+        <role descr="requirer" f="pag" n="0"/>
+        <role descr="thing required" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

@@ -2,8 +2,8 @@
   <predicate lemma="overuse">
     <roleset id="overuse.01" name="use too much">
       <roles>
-        <role descr="user" f="PAG" n="0"/>
-        <role descr="thing used" f="PPT" n="1"/>
+        <role descr="user" f="pag" n="0"/>
+        <role descr="thing used" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

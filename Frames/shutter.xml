@@ -2,8 +2,8 @@
   <predicate lemma="shutter">
     <roleset id="shutter.01" name="to close down">
       <roles>
-        <role descr="closer, agent" f="PAG" n="0"/>
-        <role descr="entity shuttered" f="GOL" n="1"/>
+        <role descr="closer, agent" f="pag" n="0"/>
+        <role descr="entity shuttered" f="gol" n="1"/>
       </roles>
     </roleset>
   </predicate>

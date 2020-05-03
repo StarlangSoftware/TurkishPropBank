@@ -2,7 +2,7 @@
   <predicate lemma="directmessage">
     <roleset id="directmessage.02" name="send a direct message on twitter">
       <roles>
-        <role descr="person communicating a message, agent" f="PAG" n="0"/>
+        <role descr="person communicating a message, agent" f="pag" n="0"/>
         <role descr="message itself" f="ppt" n="1"/>
         <role descr="receiver, recipient of message" f="gol" n="2"/>
       </roles>

@@ -2,7 +2,7 @@
   <predicate lemma="desist">
     <roleset id="desist.01" name="stop it, already">
       <roles>
-        <role descr="stopper" f="PAG" n="0"/>
+        <role descr="stopper" f="pag" n="0"/>
       </roles>
     </roleset>
   </predicate>

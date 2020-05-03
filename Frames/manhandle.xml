@@ -2,8 +2,8 @@
   <predicate lemma="manhandle">
     <roleset id="manhandle.01" name="handle roughly">
       <roles>
-        <role descr="handler" f="PAG" n="0"/>
-        <role descr="thing handled" f="PPT" n="1"/>
+        <role descr="handler" f="pag" n="0"/>
+        <role descr="thing handled" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

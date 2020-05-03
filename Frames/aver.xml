@@ -2,8 +2,8 @@
   <predicate lemma="aver">
     <roleset id="aver.01" name="assert to be true">
       <roles>
-        <role descr="agent, speaker" f="PAG" n="0"/>
-        <role descr="proposition held to be true" f="PPT" n="1"/>
+        <role descr="agent, speaker" f="pag" n="0"/>
+        <role descr="proposition held to be true" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

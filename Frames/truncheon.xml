@@ -2,9 +2,9 @@
   <predicate lemma="truncheon">
     <roleset id="truncheon.01" name="truncheon">
       <roles>
-        <role descr="hitter, agent, truncheoner(s)" f="PAG" n="0"/>
-        <role descr="victim, patient" f="PPT" n="1"/>
-        <role descr="instrument, truncheoned with what" f="MNR" n="2"/>
+        <role descr="hitter, agent, truncheoner(s)" f="pag" n="0"/>
+        <role descr="victim, patient" f="ppt" n="1"/>
+        <role descr="instrument, truncheoned with what" f="mnr" n="2"/>
       </roles>
     </roleset>
   </predicate>

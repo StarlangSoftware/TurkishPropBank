@@ -2,9 +2,9 @@
   <predicate lemma="moisten">
     <roleset id="moisten.01" name="(cause to) become moist">
       <roles>
-        <role descr="causer of moistening, agent" f="PAG" n="0"/>
-        <role descr="thing becoming moist" f="PPT" n="1"/>
-        <role descr="mention of liquid that moistens" f="MNR" n="2"/>
+        <role descr="causer of moistening, agent" f="pag" n="0"/>
+        <role descr="thing becoming moist" f="ppt" n="1"/>
+        <role descr="mention of liquid that moistens" f="mnr" n="2"/>
       </roles>
     </roleset>
   </predicate>

@@ -2,13 +2,13 @@
   <predicate lemma="itch">
     <roleset id="itch.01" name="feeling agitated and in need of scratching">
       <roles>
-        <role descr="itchy thing" f="PPT" n="1"/>
+        <role descr="itchy thing" f="ppt" n="1"/>
       </roles>
     </roleset>
     <roleset id="itch.02" name="want badly to do something">
       <roles>
-        <role descr="wanter" f="PAG" n="0"/>
-        <role descr="desired action" f="PPT" n="1"/>
+        <role descr="wanter" f="pag" n="0"/>
+        <role descr="desired action" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

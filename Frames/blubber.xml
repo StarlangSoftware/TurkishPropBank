@@ -2,8 +2,8 @@
   <predicate lemma="blubber">
     <roleset id="blubber.01" name="to cry in a noisy and childish way">
       <roles>
-        <role descr="crier/child" f="PAG" n="0"/>
-        <role descr="tears" f="PPT" n="1"/>
+        <role descr="crier/child" f="pag" n="0"/>
+        <role descr="tears" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

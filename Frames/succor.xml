@@ -2,9 +2,9 @@
   <predicate lemma="succor">
     <roleset id="succor.01" name="succor">
       <roles>
-        <role descr="agent, helper, succorer" f="PAG" n="0"/>
-        <role descr="benefactive, succored" f="GOL" n="1"/>
-        <role descr="helped with what, theme" f="PPT" n="2"/>
+        <role descr="agent, helper, succorer" f="pag" n="0"/>
+        <role descr="benefactive, succored" f="gol" n="1"/>
+        <role descr="helped with what, theme" f="ppt" n="2"/>
       </roles>
     </roleset>
   </predicate>

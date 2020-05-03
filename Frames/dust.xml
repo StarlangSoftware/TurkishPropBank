@@ -2,23 +2,23 @@
   <predicate lemma="dust">
     <roleset id="dust.01" name="sprinkle lightly">
       <roles>
-        <role descr="agent, sprinkler" f="PAG" n="0"/>
-        <role descr="dustlike substance" f="PPT" n="1"/>
-        <role descr="sprinkled-upon" f="GOL" n="2"/>
+        <role descr="agent, sprinkler" f="pag" n="0"/>
+        <role descr="dustlike substance" f="ppt" n="1"/>
+        <role descr="sprinkled-upon" f="gol" n="2"/>
       </roles>
     </roleset>
     <roleset id="dust.02" name="remove dust from surfaces">
       <roles>
-        <role descr="remover of dust, agent" f="PAG" n="0"/>
-        <role descr="surface" f="DIR" n="1"/>
+        <role descr="remover of dust, agent" f="pag" n="0"/>
+        <role descr="surface" f="dir" n="1"/>
       </roles>
     </roleset>
   </predicate>
   <predicate lemma="dust_off">
     <roleset id="dust_off.03" name="remove dust, metaphorical/phrasal variant">
       <roles>
-        <role descr="agent" f="PAG" n="0"/>
-        <role descr="surface" f="PPT" n="1"/>
+        <role descr="agent" f="pag" n="0"/>
+        <role descr="surface" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

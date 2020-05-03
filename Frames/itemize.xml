@@ -2,8 +2,8 @@
   <predicate lemma="itemize">
     <roleset id="itemize.01" name="list each member of a group">
       <roles>
-        <role descr="lister" f="PAG" n="0"/>
-        <role descr="items" f="PPT" n="1"/>
+        <role descr="lister" f="pag" n="0"/>
+        <role descr="items" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

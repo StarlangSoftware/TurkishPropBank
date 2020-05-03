@@ -2,9 +2,9 @@
   <predicate lemma="encrust">
     <roleset id="encrust.01" name="cause to have a crust">
       <roles>
-        <role descr="entity adding crust, agent" f="PAG" n="0"/>
-        <role descr="thing with crust" f="GOL" n="1"/>
-        <role descr="crust" f="PPT" n="2"/>
+        <role descr="entity adding crust, agent" f="pag" n="0"/>
+        <role descr="thing with crust" f="gol" n="1"/>
+        <role descr="crust" f="ppt" n="2"/>
       </roles>
     </roleset>
   </predicate>

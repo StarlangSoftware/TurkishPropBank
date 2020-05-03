@@ -2,8 +2,8 @@
   <predicate lemma="array">
     <roleset id="array.01" name="arrange in a line/orderly fashion">
       <roles>
-        <role descr="agent" f="PAG" n="0"/>
-        <role descr="thing aligned" f="PPT" n="1"/>
+        <role descr="agent" f="pag" n="0"/>
+        <role descr="thing aligned" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

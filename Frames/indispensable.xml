@@ -2,8 +2,8 @@
   <predicate lemma="indispensable">
     <roleset id="indispensable.01" name="indispensable">
       <roles>
-        <role descr="needed entity, indispensible thing" f="PPT" n="1"/>
-        <role descr="beneficiary, indispensible to/for whom or what?" f="GOL" n="2"/>
+        <role descr="needed entity, indispensible thing" f="ppt" n="1"/>
+        <role descr="beneficiary, indispensible to/for whom or what?" f="gol" n="2"/>
       </roles>
     </roleset>
   </predicate>

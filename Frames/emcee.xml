@@ -2,8 +2,8 @@
   <predicate lemma="emcee">
     <roleset id="emcee.01" name="serve as master of ceremonies">
       <roles>
-        <role descr="MC" f="PAG" n="0"/>
-        <role descr="ceremony" f="GOL" n="1"/>
+        <role descr="MC" f="pag" n="0"/>
+        <role descr="ceremony" f="gol" n="1"/>
       </roles>
     </roleset>
   </predicate>

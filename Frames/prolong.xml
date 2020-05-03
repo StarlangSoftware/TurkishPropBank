@@ -4,7 +4,7 @@
       <roles>
         <role descr="cause, agent" f="pag" n="0"/>
         <role descr="thing getting longer" f="ppt" n="1"/>
-        <role descr="EXT" f="ext" n="2"/>
+        <role descr="ext" f="ext" n="2"/>
         <role descr="start point" f="dir" n="3"/>
         <role descr="end point" f="prd" n="4"/>
       </roles>

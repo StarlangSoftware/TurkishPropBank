@@ -2,8 +2,8 @@
   <predicate lemma="cannulate">
     <roleset id="cannulate.01" name="to use a cannula, insert a tube">
       <roles>
-        <role descr="Agent, cannulator" f="PAG" n="0"/>
-        <role descr="Entity tube or cannula is inserted into" f="PPT" n="1"/>
+        <role descr="Agent, cannulator" f="pag" n="0"/>
+        <role descr="Entity tube or cannula is inserted into" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

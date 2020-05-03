@@ -2,9 +2,9 @@
   <predicate lemma="crayon">
     <roleset id="crayon.01" name="draw with crayon">
       <roles>
-        <role descr="artist" f="PAG" n="0"/>
-        <role descr="thing drawn" f="PPT" n="1"/>
-        <role descr="destination" f="GOL" n="2"/>
+        <role descr="artist" f="pag" n="0"/>
+        <role descr="thing drawn" f="ppt" n="1"/>
+        <role descr="destination" f="gol" n="2"/>
       </roles>
     </roleset>
   </predicate>

@@ -2,16 +2,16 @@
   <predicate lemma="clutch">
     <roleset id="clutch.01" name="to grasp and hold tightly">
       <roles>
-        <role descr="grasper, agent" f="PAG" n="0"/>
-        <role descr="entity clutched" f="PPT" n="1"/>
+        <role descr="grasper, agent" f="pag" n="0"/>
+        <role descr="entity clutched" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>
   <predicate lemma="clutch_on">
     <roleset id="clutch_on.02" name="to grasp and hold tightly">
       <roles>
-        <role descr="grasper, agent" f="PAG" n="0"/>
-        <role descr="entity clutched" f="PPT" n="1"/>
+        <role descr="grasper, agent" f="pag" n="0"/>
+        <role descr="entity clutched" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

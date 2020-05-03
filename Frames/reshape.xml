@@ -2,8 +2,8 @@
   <predicate lemma="reshape">
     <roleset id="reshape.01" name="shape again">
       <roles>
-        <role descr="shaper" f="PAG" n="0"/>
-        <role descr="thing worked on" f="PPT" n="1"/>
+        <role descr="shaper" f="pag" n="0"/>
+        <role descr="thing worked on" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

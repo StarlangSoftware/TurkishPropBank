@@ -4,7 +4,7 @@
       <roles>
         <role descr="causer" f="pag" n="0"/>
         <role descr="one half" f="ppt" n="1"/>
-        <role descr="second half" f="PPT" n="2"/>
+        <role descr="second half" f="ppt" n="2"/>
       </roles>
     </roleset>
   </predicate>

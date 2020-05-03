@@ -2,8 +2,8 @@
   <predicate lemma="outlast">
     <roleset id="outlast.01" name="last longer than">
       <roles>
-        <role descr="longer lasting" f="PAG" n="0"/>
-        <role descr="shorter lasting" f="PPT" n="1"/>
+        <role descr="longer lasting" f="pag" n="0"/>
+        <role descr="shorter lasting" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

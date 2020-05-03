@@ -2,8 +2,8 @@
   <predicate lemma="ensnare">
     <roleset id="ensnare.01" name="involve or capture">
       <roles>
-        <role descr="catcher, agent" f="PAG" n="0"/>
-        <role descr="captured entity" f="PPT" n="1"/>
+        <role descr="catcher, agent" f="pag" n="0"/>
+        <role descr="captured entity" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

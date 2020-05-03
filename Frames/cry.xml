@@ -24,7 +24,7 @@
     </roleset>
     <roleset id="cry_out.05" name="fixed: cry (one's) eyes out">
       <roles>
-        <role descr="crier" f="PAG" n="0"/>
+        <role descr="crier" f="pag" n="0"/>
         <role descr="fixed: arg0's 'eyes'" f="ppt" n="1"/>
         <role descr="over what" f="vsp" n="2"/>
         <role descr="to whom" f="gol" n="3"/>
@@ -34,7 +34,7 @@
   <predicate lemma="cry_down">
     <roleset id="cry_down.04" name="decry, express low opinion of">
       <roles>
-        <role descr="agent, decrier" f="PAG" n="0"/>
+        <role descr="agent, decrier" f="pag" n="0"/>
         <role descr="devalued entity" f="ppt" n="1"/>
         <role descr="reason for low opinion" f="cau" n="2"/>
       </roles>

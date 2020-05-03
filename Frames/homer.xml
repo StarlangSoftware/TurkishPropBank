@@ -2,7 +2,7 @@
   <predicate lemma="homer">
     <roleset id="homer.01" name="to hit a home run">
       <roles>
-        <role descr="baseball player, slugger" f="PAG" n="0"/>
+        <role descr="baseball player, slugger" f="pag" n="0"/>
       </roles>
     </roleset>
   </predicate>

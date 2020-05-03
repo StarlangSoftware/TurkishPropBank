@@ -2,8 +2,8 @@
   <predicate lemma="merit">
     <roleset id="merit.01" name="be worthy of">
       <roles>
-        <role descr="thing worthy" f="PAG" n="0"/>
-        <role descr="thing worthy of" f="PPT" n="1"/>
+        <role descr="thing worthy" f="pag" n="0"/>
+        <role descr="thing worthy of" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

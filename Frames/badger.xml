@@ -2,9 +2,9 @@
   <predicate lemma="badger">
     <roleset id="badger.01" name="to harass or urge persistently">
       <roles>
-        <role descr="harasser" f="PAG" n="0"/>
-        <role descr="harrassed" f="GOL" n="1"/>
-        <role descr="harassed for" f="PPT" n="2"/>
+        <role descr="harasser" f="pag" n="0"/>
+        <role descr="harrassed" f="gol" n="1"/>
+        <role descr="harassed for" f="ppt" n="2"/>
       </roles>
     </roleset>
   </predicate>

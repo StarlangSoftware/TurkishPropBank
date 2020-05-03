@@ -2,9 +2,9 @@
   <predicate lemma="winkle">
     <roleset id="winkle.01" name="to pry, extract, or force from a   position">
       <roles>
-        <role descr="agent, pry-er" f="PAG" n="0"/>
-        <role descr="thing pried" f="PPT" n="1"/>
-        <role descr="pried from" f="DIR" n="2"/>
+        <role descr="agent, pry-er" f="pag" n="0"/>
+        <role descr="thing pried" f="ppt" n="1"/>
+        <role descr="pried from" f="dir" n="2"/>
       </roles>
     </roleset>
   </predicate>

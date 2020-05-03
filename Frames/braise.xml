@@ -2,9 +2,9 @@
   <predicate lemma="braise">
     <roleset id="braise.01" name="stew in a tightly-closed pan">
       <roles>
-        <role descr="cooker, agent" f="PAG" n="0"/>
-        <role descr="patient, thing braised" f="PPT" n="1"/>
-        <role descr="braising liquid" f="MNR" n="2"/>
+        <role descr="cooker, agent" f="pag" n="0"/>
+        <role descr="patient, thing braised" f="ppt" n="1"/>
+        <role descr="braising liquid" f="mnr" n="2"/>
       </roles>
     </roleset>
   </predicate>

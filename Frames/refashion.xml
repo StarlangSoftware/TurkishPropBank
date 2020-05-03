@@ -2,8 +2,8 @@
   <predicate lemma="refashion">
     <roleset id="refashion.01" name="fashion again">
       <roles>
-        <role descr="builder, agent" f="PAG" n="0"/>
-        <role descr="entity refashioned" f="PRD" n="1"/>
+        <role descr="builder, agent" f="pag" n="0"/>
+        <role descr="entity refashioned" f="prd" n="1"/>
       </roles>
     </roleset>
   </predicate>

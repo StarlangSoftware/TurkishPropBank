@@ -2,8 +2,8 @@
   <predicate lemma="foot">
     <roleset id="foot.01" name="idiomatic: pay for">
       <roles>
-        <role descr="payer" f="PAG" n="0"/>
-        <role descr="some variation on 'the bill'" f="PPT" n="1"/>
+        <role descr="payer" f="pag" n="0"/>
+        <role descr="some variation on 'the bill'" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

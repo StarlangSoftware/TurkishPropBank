@@ -2,8 +2,8 @@
   <predicate lemma="plod">
     <roleset id="plod.01" name="walk slowly">
       <roles>
-        <role descr="walker, plodder" f="PAG" n="0"/>
-        <role descr="path" f="PPT" n="1"/>
+        <role descr="walker, plodder" f="pag" n="0"/>
+        <role descr="path" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

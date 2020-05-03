@@ -4,7 +4,7 @@
       <roles>
         <role descr="causer of speed-up" f="pag" n="0"/>
         <role descr="thing becoming faster" f="ppt" n="1"/>
-        <role descr="EXT" f="ext" n="2"/>
+        <role descr="ext" f="ext" n="2"/>
         <role descr="old speed" f="dir" n="3"/>
         <role descr="new speed" f="prd" n="4"/>
       </roles>

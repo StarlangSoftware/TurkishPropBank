@@ -2,10 +2,10 @@
   <predicate lemma="shanghai">
     <roleset id="shanghai.01" name="kidnap for compulsory service">
       <roles>
-        <role descr="shanghai-er, agent" f="PAG" n="0"/>
-        <role descr="thing shanghaied" f="PPT" n="1"/>
-        <role descr="source, shanghaied from what" f="DIR" n="2"/>
-        <role descr="destination of shanghai-ing" f="GOL" n="3"/>
+        <role descr="shanghai-er, agent" f="pag" n="0"/>
+        <role descr="thing shanghaied" f="ppt" n="1"/>
+        <role descr="source, shanghaied from what" f="dir" n="2"/>
+        <role descr="destination of shanghai-ing" f="gol" n="3"/>
       </roles>
     </roleset>
   </predicate>

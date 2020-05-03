@@ -2,8 +2,8 @@
   <predicate lemma="unthaw">
     <roleset id="unthaw.01" name="defrost">
       <roles>
-        <role descr="causer of defrosting" f="PAG" n="0"/>
-        <role descr="item losing its frost" f="PPT" n="1"/>
+        <role descr="causer of defrosting" f="pag" n="0"/>
+        <role descr="item losing its frost" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

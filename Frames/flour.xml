@@ -2,9 +2,9 @@
   <predicate lemma="flour">
     <roleset id="flour.01" name="coat with flour">
       <roles>
-        <role descr="chef, entity causing coating" f="PAG" n="0"/>
-        <role descr="meat, entity coated in flour" f="GOL" n="1"/>
-        <role descr="flour itself, type of flour" f="PPT" n="2"/>
+        <role descr="chef, entity causing coating" f="pag" n="0"/>
+        <role descr="meat, entity coated in flour" f="gol" n="1"/>
+        <role descr="flour itself, type of flour" f="ppt" n="2"/>
       </roles>
     </roleset>
   </predicate>

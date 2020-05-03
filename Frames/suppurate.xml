@@ -2,7 +2,7 @@
   <predicate lemma="suppurate">
     <roleset id="suppurate.01" name="discharge pus">
       <roles>
-        <role descr="patient, thing suppurating" f="PPT" n="1"/>
+        <role descr="patient, thing suppurating" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

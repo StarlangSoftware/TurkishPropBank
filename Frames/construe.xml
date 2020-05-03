@@ -2,8 +2,8 @@
   <predicate lemma="construe">
     <roleset id="construe.01" name="to interpret">
       <roles>
-        <role descr="interpreter, agent" f="PAG" n="0"/>
-        <role descr="entity construed" f="PPT" n="1"/>
+        <role descr="interpreter, agent" f="pag" n="0"/>
+        <role descr="entity construed" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

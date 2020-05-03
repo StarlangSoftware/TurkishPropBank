@@ -2,8 +2,8 @@
   <predicate lemma="click">
     <roleset id="click.01" name="(cause to) emit clicking sound">
       <roles>
-        <role descr="causer of clicking noise" f="PAG" n="0"/>
-        <role descr="thing emitting clicks" f="PPT" n="1"/>
+        <role descr="causer of clicking noise" f="pag" n="0"/>
+        <role descr="thing emitting clicks" f="ppt" n="1"/>
       </roles>
     </roleset>
     <roleset id="click.02" name="have good relations">

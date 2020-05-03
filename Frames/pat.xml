@@ -2,8 +2,8 @@
   <predicate lemma="pat">
     <roleset id="pat.01" name="touch lightly, friendlily with the hand">
       <roles>
-        <role descr="patter" f="PAG" n="0"/>
-        <role descr="patted" f="PPT" n="1"/>
+        <role descr="patter" f="pag" n="0"/>
+        <role descr="patted" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

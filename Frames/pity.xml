@@ -2,8 +2,8 @@
   <predicate lemma="pity">
     <roleset id="pity.01" name="to feel compassion; be sorry for">
       <roles>
-        <role descr="pitier" f="PPT" n="0"/>
-        <role descr="thing pitied" f="PAG" n="1"/>
+        <role descr="pitier" f="ppt" n="0"/>
+        <role descr="thing pitied" f="pag" n="1"/>
       </roles>
     </roleset>
   </predicate>

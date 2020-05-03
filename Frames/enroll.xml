@@ -2,9 +2,9 @@
   <predicate lemma="enroll">
     <roleset id="enroll.01" name="register membership in">
       <roles>
-        <role descr="causer of enrollment, agent" f="PAG" n="0"/>
-        <role descr="entity enrolled" f="PPT" n="1"/>
-        <role descr="enrolled in what" f="GOL" n="2"/>
+        <role descr="causer of enrollment, agent" f="pag" n="0"/>
+        <role descr="entity enrolled" f="ppt" n="1"/>
+        <role descr="enrolled in what" f="gol" n="2"/>
       </roles>
     </roleset>
   </predicate>

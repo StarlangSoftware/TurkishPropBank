@@ -2,8 +2,8 @@
   <predicate lemma="misuse">
     <roleset id="misuse.01" name="use wrongly">
       <roles>
-        <role descr="User" f="PAG" n="0"/>
-        <role descr="thing used" f="PPT" n="1"/>
+        <role descr="User" f="pag" n="0"/>
+        <role descr="thing used" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

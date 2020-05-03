@@ -2,8 +2,8 @@
   <predicate lemma="reignite">
     <roleset id="reignite.01" name="to ignite anew">
       <roles>
-        <role descr="firestarter, agent" f="PAG" n="0"/>
-        <role descr="entity reignited" f="PPT" n="1"/>
+        <role descr="firestarter, agent" f="pag" n="0"/>
+        <role descr="entity reignited" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

@@ -2,7 +2,7 @@
   <predicate lemma="slither">
     <roleset id="slither.01" name="to glide or slide">
       <roles>
-        <role descr="entity slithering" f="PPT" n="0"/>
+        <role descr="entity slithering" f="ppt" n="0"/>
       </roles>
     </roleset>
   </predicate>

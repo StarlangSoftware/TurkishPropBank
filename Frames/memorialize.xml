@@ -2,8 +2,8 @@
   <predicate lemma="memorialize">
     <roleset id="memorialize.01" name="make a memorial to">
       <roles>
-        <role descr="maker of memorial, memorial itself, or agent" f="PAG" n="0"/>
-        <role descr="entity remembered" f="PPT" n="1"/>
+        <role descr="maker of memorial, memorial itself, or agent" f="pag" n="0"/>
+        <role descr="entity remembered" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

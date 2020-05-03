@@ -2,8 +2,8 @@
   <predicate lemma="toast">
     <roleset id="toast.01" name="to propose a toast to">
       <roles>
-        <role descr="toaster, agent" f="PAG" n="0"/>
-        <role descr="entity honored" f="PPT" n="1"/>
+        <role descr="toaster, agent" f="pag" n="0"/>
+        <role descr="entity honored" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

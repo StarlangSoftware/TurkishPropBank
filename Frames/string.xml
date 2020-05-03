@@ -2,7 +2,7 @@
   <predicate lemma="string">
     <roleset id="string.01" name="to arrange in a string, stretch out">
       <roles>
-        <role descr="arranger, agent" f="PAG" n="0"/>
+        <role descr="arranger, agent" f="pag" n="0"/>
         <role descr="entity stretched" f="ppt" n="1"/>
       </roles>
     </roleset>

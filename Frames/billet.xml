@@ -2,9 +2,9 @@
   <predicate lemma="billet">
     <roleset id="billet.01" name="lodge, provide military quarters">
       <roles>
-        <role descr="provider of housing" f="PAG" n="0"/>
-        <role descr="entity housed" f="PPT" n="1"/>
-        <role descr="location" f="GOL" n="2"/>
+        <role descr="provider of housing" f="pag" n="0"/>
+        <role descr="entity housed" f="ppt" n="1"/>
+        <role descr="location" f="gol" n="2"/>
       </roles>
     </roleset>
   </predicate>

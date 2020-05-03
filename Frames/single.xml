@@ -2,8 +2,8 @@
   <predicate lemma="single_out">
     <roleset id="single_out.01" name="pick just one">
       <roles>
-        <role descr="picker" f="PAG" n="0"/>
-        <role descr="the one" f="PPT" n="1"/>
+        <role descr="picker" f="pag" n="0"/>
+        <role descr="the one" f="ppt" n="1"/>
         <role descr="group" f="dir" n="2"/>
         <role descr="attribute" f="prd" n="3"/>
       </roles>

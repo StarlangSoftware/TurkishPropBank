@@ -2,9 +2,9 @@
   <predicate lemma="reinscribe">
     <roleset id="reinscribe.01" name="engrave again">
       <roles>
-        <role descr="Agent, engraver" f="PAG" n="0"/>
-        <role descr="surface" f="GOL" n="1"/>
-        <role descr="message" f="PPT" n="2"/>
+        <role descr="Agent, engraver" f="pag" n="0"/>
+        <role descr="surface" f="gol" n="1"/>
+        <role descr="message" f="ppt" n="2"/>
       </roles>
     </roleset>
   </predicate>

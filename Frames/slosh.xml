@@ -2,9 +2,9 @@
   <predicate lemma="slosh">
     <roleset id="slosh.01" name="to spill or splash">
       <roles>
-        <role descr="spiller" f="PAG" n="0"/>
-        <role descr="substance" f="PPT" n="1"/>
-        <role descr="destination" f="GOL" n="2"/>
+        <role descr="spiller" f="pag" n="0"/>
+        <role descr="substance" f="ppt" n="1"/>
+        <role descr="destination" f="gol" n="2"/>
       </roles>
     </roleset>
   </predicate>

@@ -2,8 +2,8 @@
   <predicate lemma="adsorb">
     <roleset id="adsorb.01" name="to accumulate on a surface">
       <roles>
-        <role descr="Adsorbed substance; thing accumulating" f="PPT" n="1"/>
-        <role descr="Surface on which substance is accumulating" f="LOC" n="2"/>
+        <role descr="Adsorbed substance; thing accumulating" f="ppt" n="1"/>
+        <role descr="Surface on which substance is accumulating" f="loc" n="2"/>
       </roles>
     </roleset>
   </predicate>

@@ -2,9 +2,9 @@
   <predicate lemma="reincarnate">
     <roleset id="reincarnate.01" name="bring back to body">
       <roles>
-        <role descr="The Reanimator" f="PAG" n="0"/>
-        <role descr="thing brought back to body" f="PPT" n="1"/>
-        <role descr="the new body" f="PPT" n="2"/>
+        <role descr="The Reanimator" f="pag" n="0"/>
+        <role descr="thing brought back to body" f="ppt" n="1"/>
+        <role descr="the new body" f="ppt" n="2"/>
       </roles>
     </roleset>
   </predicate>

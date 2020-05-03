@@ -2,9 +2,9 @@
   <predicate lemma="maim">
     <roleset id="maim.01" name="to deprive of the use of some body part by   wounding, cripple, injured, hindered via bodily injury">
       <roles>
-        <role descr="agent, causer" f="PAG" n="0"/>
-        <role descr="entity maimed" f="PPT" n="1"/>
-        <role descr="instrument" f="MNR" n="2"/>
+        <role descr="agent, causer" f="pag" n="0"/>
+        <role descr="entity maimed" f="ppt" n="1"/>
+        <role descr="instrument" f="mnr" n="2"/>
       </roles>
     </roleset>
   </predicate>

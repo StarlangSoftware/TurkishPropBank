@@ -2,8 +2,8 @@
   <predicate lemma="attain">
     <roleset id="attain.01" name="to reach or achieve, achievment/acquisition">
       <roles>
-        <role descr="reacher, agent" f="PAG" n="0"/>
-        <role descr="entity attained" f="PPT" n="1"/>
+        <role descr="reacher, agent" f="pag" n="0"/>
+        <role descr="entity attained" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

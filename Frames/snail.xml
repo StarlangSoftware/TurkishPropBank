@@ -2,8 +2,8 @@
   <predicate lemma="snail">
     <roleset id="snail.01" name="snail">
       <roles>
-        <role descr="snail-catcher, agent" f="PAG" n="0"/>
-        <role descr="snail itself" f="PPT" n="1"/>
+        <role descr="snail-catcher, agent" f="pag" n="0"/>
+        <role descr="snail itself" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

@@ -2,8 +2,8 @@
   <predicate lemma="disown">
     <roleset id="disown.01" name="disclaim relationship to">
       <roles>
-        <role descr="agent, disowner" f="PAG" n="0"/>
-        <role descr="theme, thing disowned" f="PPT" n="1"/>
+        <role descr="agent, disowner" f="pag" n="0"/>
+        <role descr="theme, thing disowned" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

@@ -2,24 +2,24 @@
   <predicate lemma="quieten">
     <roleset id="quieten.01" name="to cause to become quiet">
       <roles>
-        <role descr="cause,agent" f="PAG" n="0"/>
-        <role descr="entity becoming quiet" f="PPT" n="1"/>
+        <role descr="cause,agent" f="pag" n="0"/>
+        <role descr="entity becoming quiet" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>
   <predicate lemma="quieten_down">
     <roleset id="quieten_down.02" name="to cause to become quiet">
       <roles>
-        <role descr="cause, agent" f="PAG" n="0"/>
-        <role descr="entity becoming quiet" f="PPT" n="1"/>
+        <role descr="cause, agent" f="pag" n="0"/>
+        <role descr="entity becoming quiet" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>
   <predicate lemma="quiet">
     <roleset id="quiet.03" name="to cause to become quiet">
       <roles>
-        <role descr="cause,agent" f="PAG" n="0"/>
-        <role descr="entity becoming quiet" f="PPT" n="1"/>
+        <role descr="cause,agent" f="pag" n="0"/>
+        <role descr="entity becoming quiet" f="ppt" n="1"/>
       </roles>
     </roleset>
     <roleset id="quiet.04" name="quiet">
@@ -32,8 +32,8 @@
   <predicate lemma="quiet_down">
     <roleset id="quiet_down.05" name="to cause to become quiet">
       <roles>
-        <role descr="cause, agent" f="PAG" n="0"/>
-        <role descr="entity becoming quiet" f="PPT" n="1"/>
+        <role descr="cause, agent" f="pag" n="0"/>
+        <role descr="entity becoming quiet" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

@@ -2,8 +2,8 @@
   <predicate lemma="hypertrophy">
     <roleset id="hypertrophy.01" name="increasing in size of an organ or tissue">
       <roles>
-        <role descr="Causer of enlargement" f="PAG" n="0"/>
-        <role descr="Thing enlarged" f="PPT" n="1"/>
+        <role descr="Causer of enlargement" f="pag" n="0"/>
+        <role descr="Thing enlarged" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

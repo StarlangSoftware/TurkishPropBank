@@ -2,8 +2,8 @@
   <predicate lemma="behave">
     <roleset id="behave.01" name="to conduct (oneself) in a specified way">
       <roles>
-        <role descr="agent, entity behaving" f="PAG" n="0"/>
-        <role descr="manner" f="PRD" n="1"/>
+        <role descr="agent, entity behaving" f="pag" n="0"/>
+        <role descr="manner" f="prd" n="1"/>
       </roles>
     </roleset>
   </predicate>

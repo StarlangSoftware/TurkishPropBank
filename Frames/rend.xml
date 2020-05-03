@@ -2,7 +2,7 @@
   <predicate lemma="rend">
     <roleset id="rend.01" name="tear">
       <roles>
-        <role descr="rend-er" f="PAG" n="0"/>
+        <role descr="rend-er" f="pag" n="0"/>
         <role descr="thing torn, rent" f="ppt" n="1"/>
       </roles>
     </roleset>

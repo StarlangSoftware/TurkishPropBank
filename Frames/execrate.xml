@@ -2,8 +2,8 @@
   <predicate lemma="execrate">
     <roleset id="execrate.01" name="to detest utterly">
       <roles>
-        <role descr="hater" f="PPT" n="0"/>
-        <role descr="thing hated" f="PAG" n="1"/>
+        <role descr="hater" f="ppt" n="0"/>
+        <role descr="thing hated" f="pag" n="1"/>
       </roles>
     </roleset>
   </predicate>

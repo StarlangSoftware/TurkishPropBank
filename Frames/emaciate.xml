@@ -2,9 +2,9 @@
   <predicate lemma="emaciate">
     <roleset id="emaciate.01" name="(cause to) become abnormally lean">
       <roles>
-        <role descr="Causer of starvation, agent" f="PAG" n="0"/>
-        <role descr="thing starving" f="PPT" n="1"/>
-        <role descr="instrument or manner if separate from arg 0" f="MNR" n="2"/>
+        <role descr="Causer of starvation, agent" f="pag" n="0"/>
+        <role descr="thing starving" f="ppt" n="1"/>
+        <role descr="instrument or manner if separate from arg 0" f="mnr" n="2"/>
       </roles>
     </roleset>
   </predicate>

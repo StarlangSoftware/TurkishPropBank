@@ -2,8 +2,8 @@
   <predicate lemma="destruct">
     <roleset id="destruct.01" name="implode, become no more">
       <roles>
-        <role descr="agent (predicted but not observed)" f="PAG" n="0"/>
-        <role descr="thing being destroyed" f="PPT" n="1"/>
+        <role descr="agent (predicted but not observed)" f="pag" n="0"/>
+        <role descr="thing being destroyed" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

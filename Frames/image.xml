@@ -2,8 +2,8 @@
   <predicate lemma="image">
     <roleset id="image.101" name="to record an image of (using mri, x-ray, cat scan, ultrasound, etc.), recording an image of">
       <roles>
-        <role descr="Doctor" f="PAG" n="0"/>
-        <role descr="Patient/ Anatomical part" f="PPT" n="1"/>
+        <role descr="Doctor" f="pag" n="0"/>
+        <role descr="Patient/ Anatomical part" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

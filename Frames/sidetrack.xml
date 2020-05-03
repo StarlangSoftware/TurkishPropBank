@@ -3,7 +3,7 @@
     <roleset id="sidetrack.01" name="to divert from a main issue">
       <roles>
         <role descr="cause of diversion, agent" f="cau" n="0"/>
-        <role descr="entity diverted" f="PPT" n="1"/>
+        <role descr="entity diverted" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

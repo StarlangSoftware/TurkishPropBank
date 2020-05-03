@@ -3,7 +3,7 @@
     <roleset id="shrink.01" name="become or make smaller">
       <roles>
         <role descr="Agent, cause of shrinkage" f="cau" n="0"/>
-        <role descr="Logical subject, patient, thing falling" f="PPT" n="1"/>
+        <role descr="Logical subject, patient, thing falling" f="ppt" n="1"/>
         <role descr="EXT, amount fallen" f="ext" n="2"/>
         <role descr="Start point" f="dir" n="3"/>
         <role descr="End point, end state of arg1" f="gol" n="4"/>

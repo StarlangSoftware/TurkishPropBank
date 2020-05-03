@@ -2,8 +2,8 @@
   <predicate lemma="dyke">
     <roleset id="dyke.01" name="enclose with a dyke/dike">
       <roles>
-        <role descr="causative agent, digger of dyke" f="PAG" n="0"/>
-        <role descr="thing enclosed by dyke" f="PPT" n="1"/>
+        <role descr="causative agent, digger of dyke" f="pag" n="0"/>
+        <role descr="thing enclosed by dyke" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

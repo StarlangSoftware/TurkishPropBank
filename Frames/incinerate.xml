@@ -2,8 +2,8 @@
   <predicate lemma="incinerate">
     <roleset id="incinerate.01" name="(cause to) burn up">
       <roles>
-        <role descr="pyromaniac" f="PAG" n="0"/>
-        <role descr="thing burnt" f="PPT" n="1"/>
+        <role descr="pyromaniac" f="pag" n="0"/>
+        <role descr="thing burnt" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

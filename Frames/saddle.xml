@@ -2,9 +2,9 @@
   <predicate lemma="saddle">
     <roleset id="saddle.01" name="to load or burden">
       <roles>
-        <role descr="saddler" f="PAG" n="0"/>
-        <role descr="entity saddled" f="GOL" n="1"/>
-        <role descr="burden" f="PPT" n="2"/>
+        <role descr="saddler" f="pag" n="0"/>
+        <role descr="entity saddled" f="gol" n="1"/>
+        <role descr="burden" f="ppt" n="2"/>
       </roles>
     </roleset>
   </predicate>

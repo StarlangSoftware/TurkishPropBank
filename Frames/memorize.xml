@@ -2,8 +2,8 @@
   <predicate lemma="memorize">
     <roleset id="memorize.01" name="commit to memory">
       <roles>
-        <role descr="memorizer" f="PAG" n="0"/>
-        <role descr="thing memorized" f="PPT" n="1"/>
+        <role descr="memorizer" f="pag" n="0"/>
+        <role descr="thing memorized" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

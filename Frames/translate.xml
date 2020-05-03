@@ -2,17 +2,17 @@
   <predicate lemma="translate">
     <roleset id="translate.01" name="change (language)">
       <roles>
-        <role descr="causer of transformation" f="PAG" n="0"/>
-        <role descr="thing changing" f="PPT" n="1"/>
-        <role descr="end state" f="PRD" n="2"/>
-        <role descr="start state" f="VSP" n="3"/>
+        <role descr="causer of transformation" f="pag" n="0"/>
+        <role descr="thing changing" f="ppt" n="1"/>
+        <role descr="end state" f="prd" n="2"/>
+        <role descr="start state" f="vsp" n="3"/>
       </roles>
     </roleset>
     <roleset id="translate.02" name="biology: mRNA to protein">
       <roles>
-        <role descr="intentional agent of translation (e.g. scientist)" f="PAG" n="0" />
-        <role descr="thing translated (messenger RNA)" f="PPT" n="1" />
-        <role descr="product of translation (protein)" f="PRD" n="2" />
+        <role descr="intentional agent of translation (e.g. scientist)" f="pag" n="0" />
+        <role descr="thing translated (messenger RNA)" f="ppt" n="1" />
+        <role descr="product of translation (protein)" f="prd" n="2" />
       </roles>
     </roleset>
   </predicate>

@@ -2,8 +2,8 @@
   <predicate lemma="bayonet">
     <roleset id="bayonet.01" name="stab, kill with a bayonet">
       <roles>
-        <role descr="stabber" f="PAG" n="0"/>
-        <role descr="victim" f="PPT" n="1"/>
+        <role descr="stabber" f="pag" n="0"/>
+        <role descr="victim" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

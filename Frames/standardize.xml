@@ -2,8 +2,8 @@
   <predicate lemma="standardize">
     <roleset id="standardize.01" name="to cause to conform to a standard">
       <roles>
-        <role descr="cause, agent" f="PAG" n="0"/>
-        <role descr="entity standardized" f="PPT" n="1"/>
+        <role descr="cause, agent" f="pag" n="0"/>
+        <role descr="entity standardized" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

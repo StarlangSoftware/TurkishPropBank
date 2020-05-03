@@ -2,8 +2,8 @@
   <predicate lemma="desert">
     <roleset id="desert.01" name="to abandon">
       <roles>
-        <role descr="entity leaving" f="PPT" n="0"/>
-        <role descr="entity deserted" f="DIR" n="1"/>
+        <role descr="entity leaving" f="ppt" n="0"/>
+        <role descr="entity deserted" f="dir" n="1"/>
       </roles>
     </roleset>
   </predicate>

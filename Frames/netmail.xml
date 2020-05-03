@@ -2,9 +2,9 @@
   <predicate lemma="netmail">
     <roleset id="netmail.01" name="send by netmail">
       <roles>
-        <role descr="sender, agent" f="PAG" n="0"/>
-        <role descr="entity sent" f="PPT" n="1"/>
-        <role descr="sent to, recipient" f="GOL" n="2"/>
+        <role descr="sender, agent" f="pag" n="0"/>
+        <role descr="entity sent" f="ppt" n="1"/>
+        <role descr="sent to, recipient" f="gol" n="2"/>
       </roles>
     </roleset>
   </predicate>

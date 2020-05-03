@@ -2,9 +2,9 @@
   <predicate lemma="tisk">
     <roleset id="tisk.01" name="tisk">
       <roles>
-        <role descr="tisker, agent" f="PAG" n="0"/>
-        <role descr="a complaint, or topic of the complaint" f="PPT" n="1"/>
-        <role descr="recipient, tisked to/at" f="GOL" n="2"/>
+        <role descr="tisker, agent" f="pag" n="0"/>
+        <role descr="a complaint, or topic of the complaint" f="ppt" n="1"/>
+        <role descr="recipient, tisked to/at" f="gol" n="2"/>
       </roles>
     </roleset>
   </predicate>

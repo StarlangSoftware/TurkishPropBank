@@ -2,8 +2,8 @@
   <predicate lemma="diffuse">
     <roleset id="diffuse.01" name="spread thinly, dispersing or spreading thinly">
       <roles>
-        <role descr="agent or cause" f="PAG" n="0"/>
-        <role descr="theme, thing diffused" f="PPT" n="1"/>
+        <role descr="agent or cause" f="pag" n="0"/>
+        <role descr="theme, thing diffused" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

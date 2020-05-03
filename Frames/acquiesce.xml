@@ -2,8 +2,8 @@
   <predicate lemma="acquiesce">
     <roleset id="acquiesce.01" name="comply passively">
       <roles>
-        <role descr="acquiescer, complier" f="PAG" n="0"/>
-        <role descr="thing complied to, in, or with" f="COM" n="1"/>
+        <role descr="acquiescer, complier" f="pag" n="0"/>
+        <role descr="thing complied to, in, or with" f="com" n="1"/>
       </roles>
     </roleset>
   </predicate>

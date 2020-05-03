@@ -2,8 +2,8 @@
   <predicate lemma="trespass">
     <roleset id="trespass.01" name="to intrude,  take advantage, overstep, enter without permission">
       <roles>
-        <role descr="trespasser, agent" f="PAG" n="0"/>
-        <role descr="entity trespassed on" f="PPT" n="1"/>
+        <role descr="trespasser, agent" f="pag" n="0"/>
+        <role descr="entity trespassed on" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

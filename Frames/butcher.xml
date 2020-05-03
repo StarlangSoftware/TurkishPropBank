@@ -2,8 +2,8 @@
   <predicate lemma="butcher">
     <roleset id="butcher.01" name="cut up meat for sale">
       <roles>
-        <role descr="killer" f="PAG" n="0"/>
-        <role descr="corpse(s)" f="PPT" n="1"/>
+        <role descr="killer" f="pag" n="0"/>
+        <role descr="corpse(s)" f="ppt" n="1"/>
         <role descr="instrument, butcher knife" f="mnr" n="2"/>
       </roles>
     </roleset>

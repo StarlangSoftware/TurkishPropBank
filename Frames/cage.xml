@@ -2,9 +2,9 @@
   <predicate lemma="cage">
     <roleset id="cage.01" name="to put in or confine in a cage">
       <roles>
-        <role descr="cager" f="PAG" n="0"/>
-        <role descr="thing caged" f="PPT" n="1"/>
-        <role descr="cage, location" f="GOL" n="2"/>
+        <role descr="cager" f="pag" n="0"/>
+        <role descr="thing caged" f="ppt" n="1"/>
+        <role descr="cage, location" f="gol" n="2"/>
       </roles>
     </roleset>
   </predicate>

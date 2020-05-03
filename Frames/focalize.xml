@@ -2,9 +2,9 @@
   <predicate lemma="focalize">
     <roleset id="focalize.01" name="focus, localize, concentrate on">
       <roles>
-        <role descr="agent, causer of focussing" f="PAG" n="0"/>
-        <role descr="experiencer of focussing, thing focussed" f="PPT" n="1"/>
-        <role descr="thing focussed-on" f="PPT" n="2"/>
+        <role descr="agent, causer of focussing" f="pag" n="0"/>
+        <role descr="experiencer of focussing, thing focussed" f="ppt" n="1"/>
+        <role descr="thing focussed-on" f="ppt" n="2"/>
       </roles>
     </roleset>
   </predicate>

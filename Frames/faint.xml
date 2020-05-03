@@ -2,7 +2,7 @@
   <predicate lemma="faint">
     <roleset id="faint.01" name="faint, pass out">
       <roles>
-        <role descr="fainter" f="PPT" n="0"/>
+        <role descr="fainter" f="ppt" n="0"/>
       </roles>
     </roleset>
     <roleset id="faint.02" name="feeling weak, perhaps as precedes a loss of consciousness">

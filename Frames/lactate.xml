@@ -2,7 +2,7 @@
   <predicate lemma="lactate">
     <roleset id="lactate.01" name="to secrete or produce milk, producing milk">
       <roles>
-        <role descr="Lactator (whether framed as 'new mother' or 'breasts')" f="PAG" n="0"/>
+        <role descr="Lactator (whether framed as 'new mother' or 'breasts')" f="pag" n="0"/>
       </roles>
     </roleset>
   </predicate>

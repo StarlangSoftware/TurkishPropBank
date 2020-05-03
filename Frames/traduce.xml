@@ -2,8 +2,8 @@
   <predicate lemma="traduce">
     <roleset id="traduce.01" name="to badmouth, malign">
       <roles>
-        <role descr="speaker, agent" f="PAG" n="0"/>
-        <role descr="entity traduced" f="PPT" n="1"/>
+        <role descr="speaker, agent" f="pag" n="0"/>
+        <role descr="entity traduced" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

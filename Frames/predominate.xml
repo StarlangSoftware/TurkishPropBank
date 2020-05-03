@@ -2,8 +2,8 @@
   <predicate lemma="predominate">
     <roleset id="predominate.01" name="predominate">
       <roles>
-        <role descr="thing predominating, theme" f="PPT" n="1"/>
-        <role descr="predominate what?" f="LOC" n="2"/>
+        <role descr="thing predominating, theme" f="ppt" n="1"/>
+        <role descr="predominate what?" f="loc" n="2"/>
       </roles>
     </roleset>
   </predicate>

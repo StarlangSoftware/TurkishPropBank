@@ -2,9 +2,9 @@
   <predicate lemma="warn">
     <roleset id="warn.01" name="give a warning">
       <roles>
-        <role descr="entity giving warning" f="PAG" n="0"/>
-        <role descr="warning, impelled action" f="PPT" n="1"/>
-        <role descr="entity getting warning, impelled agent" f="GOL" n="2"/>
+        <role descr="entity giving warning" f="pag" n="0"/>
+        <role descr="warning, impelled action" f="ppt" n="1"/>
+        <role descr="entity getting warning, impelled agent" f="gol" n="2"/>
       </roles>
     </roleset>
   </predicate>

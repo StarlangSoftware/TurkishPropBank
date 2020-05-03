@@ -2,7 +2,7 @@
   <predicate lemma="ballot">
     <roleset id="ballot.01" name="taking a vote (not the piece of paper! that is not eventive!)">
       <roles>
-        <role descr="voters" f="PAG" n="0"/>
+        <role descr="voters" f="pag" n="0"/>
         <role descr="candidate/issue voted on" f="ppt" n="1"/>
         <role descr="numerical count of vote, margin" f="ext" n="2"/>
       </roles>

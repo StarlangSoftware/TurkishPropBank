@@ -2,8 +2,8 @@
   <predicate lemma="enjoy">
     <roleset id="enjoy.01" name="take pleasure from">
       <roles>
-        <role descr="enjoyer" f="PPT" n="0"/>
-        <role descr="thing enjoyed" f="PAG" n="1"/>
+        <role descr="enjoyer" f="ppt" n="0"/>
+        <role descr="thing enjoyed" f="pag" n="1"/>
       </roles>
     </roleset>
   </predicate>

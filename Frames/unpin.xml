@@ -2,9 +2,9 @@
   <predicate lemma="unpin">
     <roleset id="unpin.01" name="unpin">
       <roles>
-        <role descr="entity unpinning, agent" f="PAG" n="0"/>
-        <role descr="thing unpinned, patient" f="PPT" n="1"/>
-        <role descr="unpinned from, source" f="PPT" n="2"/>
+        <role descr="entity unpinning, agent" f="pag" n="0"/>
+        <role descr="thing unpinned, patient" f="ppt" n="1"/>
+        <role descr="unpinned from, source" f="ppt" n="2"/>
       </roles>
     </roleset>
   </predicate>

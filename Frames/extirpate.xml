@@ -2,9 +2,9 @@
   <predicate lemma="extirpate">
     <roleset id="extirpate.01" name="remove or destroy totally">
       <roles>
-        <role descr="destroyer, agent" f="PAG" n="0"/>
-        <role descr="thing destoryed" f="PPT" n="1"/>
-        <role descr="destroyed from" f="DIR" n="2"/>
+        <role descr="destroyer, agent" f="pag" n="0"/>
+        <role descr="thing destoryed" f="ppt" n="1"/>
+        <role descr="destroyed from" f="dir" n="2"/>
       </roles>
     </roleset>
   </predicate>

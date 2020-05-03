@@ -2,8 +2,8 @@
   <predicate lemma="embargo">
     <roleset id="embargo.01" name="block trade to">
       <roles>
-        <role descr="blocker" f="PAG" n="0"/>
-        <role descr="foiled (destination of) trade" f="PPT" n="1"/>
+        <role descr="blocker" f="pag" n="0"/>
+        <role descr="foiled (destination of) trade" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

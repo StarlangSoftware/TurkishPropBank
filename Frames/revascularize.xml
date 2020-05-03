@@ -2,8 +2,8 @@
   <predicate lemma="revascularize">
     <roleset id="revascularize.01" name="re-supply with vessels to conduct fluid">
       <roles>
-        <role descr="Agent, surgeon" f="PAG" n="0"/>
-        <role descr="Patient, person or body part undergoing revascularization" f="PPT" n="1"/>
+        <role descr="Agent, surgeon" f="pag" n="0"/>
+        <role descr="Patient, person or body part undergoing revascularization" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

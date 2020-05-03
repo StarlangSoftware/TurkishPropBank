@@ -2,8 +2,8 @@
   <predicate lemma="redistribute">
     <roleset id="redistribute.01" name="to distribute again in a different way">
       <roles>
-        <role descr="distributor, agent" f="PAG" n="0"/>
-        <role descr="entity redistributed" f="PPT" n="1"/>
+        <role descr="distributor, agent" f="pag" n="0"/>
+        <role descr="entity redistributed" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

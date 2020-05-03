@@ -2,13 +2,13 @@
   <predicate lemma="frown">
     <roleset id="frown.01" name="an upside-down smile">
       <roles>
-        <role descr="frowner" f="PAG" n="0"/>
+        <role descr="frowner" f="pag" n="0"/>
       </roles>
     </roleset>
     <roleset id="frown.02" name="disapprove of">
       <roles>
-        <role descr="disapprover" f="PAG" n="0"/>
-        <role descr="disapproved action" f="PPT" n="1"/>
+        <role descr="disapprover" f="pag" n="0"/>
+        <role descr="disapproved action" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

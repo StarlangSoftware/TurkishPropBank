@@ -2,8 +2,8 @@
   <predicate lemma="hinge">
     <roleset id="hinge.01" name="depend, like a door on a hinge">
       <roles>
-        <role descr="thing dependent, hinging" f="PPT" n="1"/>
-        <role descr="dependent on, hinged on" f="PPT" n="2"/>
+        <role descr="thing dependent, hinging" f="ppt" n="1"/>
+        <role descr="dependent on, hinged on" f="ppt" n="2"/>
       </roles>
     </roleset>
   </predicate>

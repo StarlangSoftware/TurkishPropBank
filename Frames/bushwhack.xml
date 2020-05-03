@@ -2,14 +2,14 @@
   <predicate lemma="bushwhack">
     <roleset id="bushwhack.01" name="ambush">
       <roles>
-        <role descr="bushwhacker" f="PAG" n="0"/>
-        <role descr="entity being bushwhacked" f="PPT" n="1"/>
-        <role descr="weapon" f="MNR" n="2"/>
+        <role descr="bushwhacker" f="pag" n="0"/>
+        <role descr="entity being bushwhacked" f="ppt" n="1"/>
+        <role descr="weapon" f="mnr" n="2"/>
       </roles>
     </roleset>
     <roleset id="bushwhack.02" name="cut one's way through thick woods or bushes">
       <roles>
-        <role descr="bush-whacker" f="PAG" n="0"/>
+        <role descr="bush-whacker" f="pag" n="0"/>
         <role descr="&quot;his/her/their way&quot;" f="ppt" n="1"/>
         <role descr="direction, location" f="loc" n="2"/>
       </roles>

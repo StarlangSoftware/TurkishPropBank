@@ -2,9 +2,9 @@
   <predicate lemma="tile">
     <roleset id="tile.01" name="cover a surface in tiles">
       <roles>
-        <role descr="applier" f="PAG" n="0"/>
-        <role descr="location tiled" f="GOL" n="1"/>
-        <role descr="material, stuff tiled with" f="PPT" n="2"/>
+        <role descr="applier" f="pag" n="0"/>
+        <role descr="location tiled" f="gol" n="1"/>
+        <role descr="material, stuff tiled with" f="ppt" n="2"/>
       </roles>
     </roleset>
   </predicate>

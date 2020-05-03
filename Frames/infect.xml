@@ -2,9 +2,9 @@
   <predicate lemma="infect">
     <roleset id="infect.01" name="cause something to have an infection, causing to become infected, have an infection">
       <roles>
-        <role descr="causer of infection, but not germ" f="PAG" n="0"/>
-        <role descr="thing becoming infected" f="GOL" n="1"/>
-        <role descr="infectant, germ" f="PPT" n="2"/>
+        <role descr="causer of infection, but not germ" f="pag" n="0"/>
+        <role descr="thing becoming infected" f="gol" n="1"/>
+        <role descr="infectant, germ" f="ppt" n="2"/>
       </roles>
     </roleset>
   </predicate>

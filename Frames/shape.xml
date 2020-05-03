@@ -17,8 +17,8 @@
     </roleset>
     <roleset id="shape_up.03" name="reform behavior">
       <roles>
-        <role descr="reformer" f="PAG" n="0"/>
-        <role descr="entity acting out, thing reformed" f="PPT" n="1"/>
+        <role descr="reformer" f="pag" n="0"/>
+        <role descr="entity acting out, thing reformed" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

@@ -2,9 +2,9 @@
   <predicate lemma="pomade">
     <roleset id="pomade.01" name="cover with pomade">
       <roles>
-        <role descr="applier of pomade, agent" f="PAG" n="0"/>
-        <role descr="hair, surface pomaded" f="GOL" n="1"/>
-        <role descr="pomade itself, type of pomade" f="PPT" n="2"/>
+        <role descr="applier of pomade, agent" f="pag" n="0"/>
+        <role descr="hair, surface pomaded" f="gol" n="1"/>
+        <role descr="pomade itself, type of pomade" f="ppt" n="2"/>
       </roles>
     </roleset>
   </predicate>

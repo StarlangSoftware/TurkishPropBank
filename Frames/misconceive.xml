@@ -2,7 +2,7 @@
   <predicate lemma="misconceive">
     <roleset id="misconceive.01" name="thinking of/understanding something incorrectly">
       <roles>
-        <role descr="thinker" f="PAG" n="0"/>
+        <role descr="thinker" f="pag" n="0"/>
         <role descr="thought" f="ppt" n="1"/>
         <role descr="attribute of arg1" f="prd" n="2"/>
       </roles>

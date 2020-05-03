@@ -3,7 +3,7 @@
     <roleset id="appreciate.01" name="increase in value">
       <roles>
         <role descr="thing increasing" f="ppt" n="1"/>
-        <role descr="EXT" f="ext" n="2"/>
+        <role descr="ext" f="ext" n="2"/>
         <role descr="start point" f="dir" n="3"/>
         <role descr="end point" f="prd" n="4"/>
       </roles>

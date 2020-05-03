@@ -2,22 +2,22 @@
   <predicate lemma="caulk">
     <roleset id="caulk.01" name="to seal with caulk">
       <roles>
-        <role descr="Handyman, caulker" f="PAG" n="0"/>
-        <role descr="Location, entity being caulked" f="GOL" n="1"/>
-        <role descr="Caulk itself" f="PPT" n="2"/>
+        <role descr="Handyman, caulker" f="pag" n="0"/>
+        <role descr="Location, entity being caulked" f="gol" n="1"/>
+        <role descr="Caulk itself" f="ppt" n="2"/>
       </roles>
     </roleset>
   </predicate>
   <predicate lemma="calk">
     <roleset id="calk.02" name="install metal cleats (calks) on horseshoes">
       <roles>
-        <role descr="Blacksmith" f="PAG" n="0"/>
-        <role descr="horseshoe" f="GOL" n="1"/>
+        <role descr="Blacksmith" f="pag" n="0"/>
+        <role descr="horseshoe" f="gol" n="1"/>
       </roles>
     </roleset>
     <roleset id="calk.03" name="injure, usually with the metal cleat on a horse shoe">
       <roles>
-        <role descr="Assailant" f="PAG" n="0"/>
+        <role descr="Assailant" f="pag" n="0"/>
         <role descr="Victim" f="ppt" n="1"/>
         <role descr="Weapon" f="mnr" n="2"/>
       </roles>

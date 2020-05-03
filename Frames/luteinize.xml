@@ -2,8 +2,8 @@
   <predicate lemma="luteinize">
     <roleset id="luteinize.101" name="cause the production of a corpus luteum">
       <roles>
-        <role descr="Causer of luteinization" f="PAG" n="0"/>
-        <role descr="Thing becoming part of the luteum" f="PPT" n="1"/>
+        <role descr="Causer of luteinization" f="pag" n="0"/>
+        <role descr="Thing becoming part of the luteum" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

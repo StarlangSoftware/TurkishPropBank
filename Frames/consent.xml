@@ -2,8 +2,8 @@
   <predicate lemma="consent">
     <roleset id="consent.01" name="agree (to), agreed upon by both parties">
       <roles>
-        <role descr="agreer, consenter" f="PAG" n="0"/>
-        <role descr="thing consented to" f="GOL" n="1"/>
+        <role descr="agreer, consenter" f="pag" n="0"/>
+        <role descr="thing consented to" f="gol" n="1"/>
       </roles>
     </roleset>
   </predicate>

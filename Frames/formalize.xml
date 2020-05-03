@@ -2,8 +2,8 @@
   <predicate lemma="formalize">
     <roleset id="formalize.01" name="to make formal">
       <roles>
-        <role descr="causer of formalization, agent" f="PAG" n="0"/>
-        <role descr="entity formalized" f="PPT" n="1"/>
+        <role descr="causer of formalization, agent" f="pag" n="0"/>
+        <role descr="entity formalized" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

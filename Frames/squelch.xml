@@ -2,8 +2,8 @@
   <predicate lemma="squelch">
     <roleset id="squelch.01" name="stifle, suppress">
       <roles>
-        <role descr="squelcher, agent" f="PAG" n="0"/>
-        <role descr="thing squelched" f="PPT" n="1"/>
+        <role descr="squelcher, agent" f="pag" n="0"/>
+        <role descr="thing squelched" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

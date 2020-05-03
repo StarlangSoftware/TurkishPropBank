@@ -2,8 +2,8 @@
   <predicate lemma="cosponsor">
     <roleset id="cosponsor.01" name="to sponsor together with another sponsor">
       <roles>
-        <role descr="additional sponsor" f="PAG" n="0"/>
-        <role descr="entity sponsored" f="PPT" n="1"/>
+        <role descr="additional sponsor" f="pag" n="0"/>
+        <role descr="entity sponsored" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

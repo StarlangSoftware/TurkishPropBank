@@ -2,9 +2,9 @@
   <predicate lemma="forest">
     <roleset id="forest.01" name="cover in forest">
       <roles>
-        <role descr="Gardener, cause of forestation" f="PAG" n="0"/>
-        <role descr="area covered in forest" f="GOL" n="1"/>
-        <role descr="trees, forest itself, type of forest" f="PPT" n="2"/>
+        <role descr="Gardener, cause of forestation" f="pag" n="0"/>
+        <role descr="area covered in forest" f="gol" n="1"/>
+        <role descr="trees, forest itself, type of forest" f="ppt" n="2"/>
       </roles>
     </roleset>
   </predicate>

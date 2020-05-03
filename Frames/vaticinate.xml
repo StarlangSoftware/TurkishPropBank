@@ -2,9 +2,9 @@
   <predicate lemma="vaticinate">
     <roleset id="vaticinate.01" name="vaticinate">
       <roles>
-        <role descr="agent, prophet, vaticinator" f="PAG" n="0"/>
-        <role descr="prophecy" f="PPT" n="1"/>
-        <role descr="attributive" f="PRD" n="2"/>
+        <role descr="agent, prophet, vaticinator" f="pag" n="0"/>
+        <role descr="prophecy" f="ppt" n="1"/>
+        <role descr="attributive" f="prd" n="2"/>
       </roles>
     </roleset>
   </predicate>

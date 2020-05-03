@@ -2,9 +2,9 @@
   <predicate lemma="explicate">
     <roleset id="explicate.01" name="make clear or explicit">
       <roles>
-        <role descr="causer of clarification" f="PAG" n="0"/>
-        <role descr="thing becoming clearer" f="PPT" n="1"/>
-        <role descr="explained to" f="GOL" n="2"/>
+        <role descr="causer of clarification" f="pag" n="0"/>
+        <role descr="thing becoming clearer" f="ppt" n="1"/>
+        <role descr="explained to" f="gol" n="2"/>
       </roles>
     </roleset>
   </predicate>

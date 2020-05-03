@@ -2,20 +2,20 @@
   <predicate lemma="board">
     <roleset id="board.01" name="board, get on a vehicle">
       <roles>
-        <role descr="passenger" f="PPT" n="0"/>
-        <role descr="vehicle" f="LOC" n="1"/>
+        <role descr="passenger" f="ppt" n="0"/>
+        <role descr="vehicle" f="loc" n="1"/>
       </roles>
     </roleset>
     <roleset id="board.02" name="live temporarily at some location">
       <roles>
-        <role descr="boarder" f="PPT" n="0"/>
-        <role descr="location, house" f="LOC" n="1"/>
+        <role descr="boarder" f="ppt" n="0"/>
+        <role descr="location, house" f="loc" n="1"/>
       </roles>
     </roleset>
     <roleset id="board.03" name="place a board over something (usually a         window)">
       <roles>
-        <role descr="person placing board" f="PAG" n="0"/>
-        <role descr="object getting attached to board" f="PPT" n="1"/>
+        <role descr="person placing board" f="pag" n="0"/>
+        <role descr="object getting attached to board" f="ppt" n="1"/>
       </roles>
     </roleset>
     <roleset id="board.05" name="move by board (skate, snow, etc)">
@@ -28,8 +28,8 @@
   <predicate lemma="board_up">
     <roleset id="board_up.04" name="board_up: place boards over something       extensively">
       <roles>
-        <role descr="person placing board" f="PAG" n="0"/>
-        <role descr="object getting attached to board" f="PPT" n="1"/>
+        <role descr="person placing board" f="pag" n="0"/>
+        <role descr="object getting attached to board" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

@@ -2,9 +2,9 @@
   <predicate lemma="opacify">
     <roleset id="opacify.01" name="make or become opaque, becoming opaque">
       <roles>
-        <role descr="Agent, cause" f="PAG" n="0"/>
-        <role descr="Entity becoming opaque" f="PPT" n="1"/>
-        <role descr="Instrument" f="MNR" n="2"/>
+        <role descr="Agent, cause" f="pag" n="0"/>
+        <role descr="Entity becoming opaque" f="ppt" n="1"/>
+        <role descr="Instrument" f="mnr" n="2"/>
       </roles>
     </roleset>
   </predicate>

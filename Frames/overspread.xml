@@ -2,8 +2,8 @@
   <predicate lemma="overspread">
     <roleset id="overspread.01" name="covering beyond intention">
       <roles>
-        <role descr="thing overspreading" f="PPT" n="1"/>
-        <role descr="overspread what" f="LOC" n="2"/>
+        <role descr="thing overspreading" f="ppt" n="1"/>
+        <role descr="overspread what" f="loc" n="2"/>
       </roles>
     </roleset>
   </predicate>

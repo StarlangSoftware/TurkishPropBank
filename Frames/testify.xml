@@ -2,9 +2,9 @@
   <predicate lemma="testify">
     <roleset id="testify.01" name="give testimony, provide evidence, provide evidence in form of testifying">
       <roles>
-        <role descr="witness, agent" f="PAG" n="0"/>
-        <role descr="testimony, evidence for" f="PPT" n="1"/>
-        <role descr="person testified for/against" f="GOL" n="2"/>
+        <role descr="witness, agent" f="pag" n="0"/>
+        <role descr="testimony, evidence for" f="ppt" n="1"/>
+        <role descr="person testified for/against" f="gol" n="2"/>
       </roles>
     </roleset>
   </predicate>

@@ -2,8 +2,8 @@
   <predicate lemma="compact">
     <roleset id="compact.01" name="make compact, compress">
       <roles>
-        <role descr="causer of compaction" f="PAG" n="0"/>
-        <role descr="thing getting compacted" f="PPT" n="1"/>
+        <role descr="causer of compaction" f="pag" n="0"/>
+        <role descr="thing getting compacted" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

@@ -2,9 +2,9 @@
   <predicate lemma="famish">
     <roleset id="famish.01" name="to make very hungry">
       <roles>
-        <role descr="Causer of starvation, agent" f="PAG" n="0"/>
-        <role descr="thing starving" f="PPT" n="1"/>
-        <role descr="starved for/of what" f="MNR" n="2"/>
+        <role descr="Causer of starvation, agent" f="pag" n="0"/>
+        <role descr="thing starving" f="ppt" n="1"/>
+        <role descr="starved for/of what" f="mnr" n="2"/>
       </roles>
     </roleset>
   </predicate>

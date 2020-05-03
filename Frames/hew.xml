@@ -2,15 +2,15 @@
   <predicate lemma="hew">
     <roleset id="hew.01" name="chop wood">
       <roles>
-        <role descr="chopper" f="PAG" n="0"/>
-        <role descr="wood" f="PPT" n="1"/>
-        <role descr="instrument (eg axe)" f="MNR" n="2"/>
+        <role descr="chopper" f="pag" n="0"/>
+        <role descr="wood" f="ppt" n="1"/>
+        <role descr="instrument (eg axe)" f="mnr" n="2"/>
       </roles>
     </roleset>
     <roleset id="hew.02" name="adhere to">
       <roles>
-        <role descr="adherer" f="PAG" n="0"/>
-        <role descr="thing adhered to" f="PPT" n="1"/>
+        <role descr="adherer" f="pag" n="0"/>
+        <role descr="thing adhered to" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

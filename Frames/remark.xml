@@ -2,7 +2,7 @@
   <predicate lemma="remark">
     <roleset id="remark.01" name="to express briefly">
       <roles>
-        <role descr="speaker" f="PAG" n="0"/>
+        <role descr="speaker" f="pag" n="0"/>
         <role descr="utterance" f="ppt" n="1"/>
         <role descr="hearer" f="gol" n="2"/>
       </roles>

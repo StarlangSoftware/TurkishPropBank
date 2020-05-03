@@ -2,17 +2,17 @@
   <predicate lemma="sock">
     <roleset id="sock.01" name="manner of hitting">
       <roles>
-        <role descr="hitter" f="PAG" n="0"/>
-        <role descr="hit" f="PPT" n="1"/>
-        <role descr="hit with" f="MNR" n="2"/>
+        <role descr="hitter" f="pag" n="0"/>
+        <role descr="hit" f="ppt" n="1"/>
+        <role descr="hit with" f="mnr" n="2"/>
       </roles>
     </roleset>
   </predicate>
   <predicate lemma="sock_away">
     <roleset id="sock_away.02" name="put, save">
       <roles>
-        <role descr="putter" f="PAG" n="0"/>
-        <role descr="thing put" f="PPT" n="1"/>
+        <role descr="putter" f="pag" n="0"/>
+        <role descr="thing put" f="ppt" n="1"/>
         <role descr="put where" f="loc" n="2"/>
       </roles>
     </roleset>

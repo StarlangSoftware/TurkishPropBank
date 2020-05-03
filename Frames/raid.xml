@@ -2,8 +2,8 @@
   <predicate lemma="raid">
     <roleset id="raid.01" name="enter suddenly">
       <roles>
-        <role descr="raider" f="PAG" n="0"/>
-        <role descr="raided" f="LOC" n="1"/>
+        <role descr="raider" f="pag" n="0"/>
+        <role descr="raided" f="loc" n="1"/>
       </roles>
     </roleset>
   </predicate>

@@ -2,7 +2,7 @@
   <predicate lemma="fail">
     <roleset id="fail.01" name="not succeed">
       <roles>
-        <role descr="assessor of not failing" f="CAU" n="0"/>
+        <role descr="assessor of not failing" f="cau" n="0"/>
         <role descr="thing failing" f="pag" n="1"/>
         <role descr="task" f="ppt" n="2"/>
         <role descr="benefactive" f="gol" n="3"/>

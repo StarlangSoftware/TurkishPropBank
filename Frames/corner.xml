@@ -2,8 +2,8 @@
   <predicate lemma="corner">
     <roleset id="corner.01" name="have a monopoly on, having a monopoly (watch out for non-events!)">
       <roles>
-        <role descr="monopolist" f="PAG" n="0"/>
-        <role descr="thing monopolized" f="PPT" n="1"/>
+        <role descr="monopolist" f="pag" n="0"/>
+        <role descr="thing monopolized" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

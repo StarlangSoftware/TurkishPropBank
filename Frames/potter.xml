@@ -2,8 +2,8 @@
   <predicate lemma="potter">
     <roleset id="potter.01" name="not be prompt, dawdle, saunter">
       <roles>
-        <role descr="potterer" f="PAG" n="0"/>
-        <role descr="thing pottered over" f="PPT" n="1"/>
+        <role descr="potterer" f="pag" n="0"/>
+        <role descr="thing pottered over" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

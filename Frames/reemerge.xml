@@ -2,14 +2,14 @@
   <predicate lemma="reemerge">
     <roleset id="reemerge.01" name="exit again">
       <roles>
-        <role descr="thing exiting" f="PAG" n="0"/>
-        <role descr="thing/place exited from" f="PPT" n="1"/>
+        <role descr="thing exiting" f="pag" n="0"/>
+        <role descr="thing/place exited from" f="ppt" n="1"/>
       </roles>
     </roleset>
     <roleset id="reemerge.02" name="come to be seen as (again)">
       <roles>
-        <role descr="thing emerging" f="PAG" n="0"/>
-        <role descr="as what" f="PPT" n="1"/>
+        <role descr="thing emerging" f="pag" n="0"/>
+        <role descr="as what" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

@@ -2,9 +2,9 @@
   <predicate lemma="bullet">
     <roleset id="bullet.01" name="shoot">
       <roles>
-        <role descr="shooter" f="PAG" n="0"/>
-        <role descr="projectile" f="MNR" n="1"/>
-        <role descr="target" f="PPT" n="2"/>
+        <role descr="shooter" f="pag" n="0"/>
+        <role descr="projectile" f="mnr" n="1"/>
+        <role descr="target" f="ppt" n="2"/>
       </roles>
     </roleset>
   </predicate>

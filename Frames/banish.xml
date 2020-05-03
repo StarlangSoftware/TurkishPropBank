@@ -2,9 +2,9 @@
   <predicate lemma="banish">
     <roleset id="banish.01" name="send away, expel">
       <roles>
-        <role descr="banisher, agent" f="PAG" n="0"/>
-        <role descr="entity expelled" f="PPT" n="1"/>
-        <role descr="expelled from" f="DIR" n="2"/>
+        <role descr="banisher, agent" f="pag" n="0"/>
+        <role descr="entity expelled" f="ppt" n="1"/>
+        <role descr="expelled from" f="dir" n="2"/>
       </roles>
     </roleset>
   </predicate>

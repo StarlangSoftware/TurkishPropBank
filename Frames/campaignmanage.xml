@@ -2,8 +2,8 @@
   <predicate lemma="campaignmanage">
     <roleset id="campaignmanage.01" name="manage a campaign">
       <roles>
-        <role descr="campgaign manager" f="PAG" n="0"/>
-        <role descr="benefactive" f="PPT" n="1"/>
+        <role descr="campgaign manager" f="pag" n="0"/>
+        <role descr="benefactive" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

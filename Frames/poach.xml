@@ -2,20 +2,20 @@
   <predicate lemma="poach">
     <roleset id="poach.01" name="cook in water">
       <roles>
-        <role descr="cook" f="PAG" n="0">
+        <role descr="cook" f="pag" n="0">
 				</role>
         <role descr="food cooked" f="ppt" n="1">
 				</role>
-        <role descr="water" f="MNR" n="2">
+        <role descr="water" f="mnr" n="2">
 				</role>
       </roles>
     </roleset>
 		
     <roleset id="poach.02" name="hunt illegally">
       <roles>
-        <role descr="hunter" f="PAG" n="0">
+        <role descr="hunter" f="pag" n="0">
 				</role>
-        <role descr="prey" f="PPT" n="1">
+        <role descr="prey" f="ppt" n="1">
 				</role>
       </roles>
     </roleset>

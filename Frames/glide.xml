@@ -2,13 +2,13 @@
   <predicate lemma="glide">
     <roleset id="glide.01" name="to move">
       <roles>
-        <role descr="entity gliding" f="PPT" n="0"/>
+        <role descr="entity gliding" f="ppt" n="0"/>
       </roles>
     </roleset>
     <roleset id="glide.02" name="fly a glider or fly a plane by gliding">
       <roles>
-        <role descr="Pilot" f="PAG" n="0"/>
-        <role descr="Plane" f="PPT" n="1"/>
+        <role descr="Pilot" f="pag" n="0"/>
+        <role descr="Plane" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

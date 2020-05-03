@@ -2,23 +2,23 @@
   <predicate lemma="wharf">
     <roleset id="wharf.01" name="shore up a river bank">
       <roles>
-        <role descr="agent, entity building or deciding to build a wharf" f="PAG" n="0"/>
-        <role descr="the shore/bank" f="GOL" n="1"/>
-        <role descr="wharf structure or materials" f="PPT" n="2"/>
+        <role descr="agent, entity building or deciding to build a wharf" f="pag" n="0"/>
+        <role descr="the shore/bank" f="gol" n="1"/>
+        <role descr="wharf structure or materials" f="ppt" n="2"/>
       </roles>
     </roleset>
     <roleset id="wharf.02" name="leave at a wharf">
       <roles>
-        <role descr="agent, entity dropping off the goods" f="PAG" n="0"/>
-        <role descr="the goods" f="PPT" n="1"/>
-        <role descr="the wharf itself" f="GOL" n="2"/>
+        <role descr="agent, entity dropping off the goods" f="pag" n="0"/>
+        <role descr="the goods" f="ppt" n="1"/>
+        <role descr="the wharf itself" f="gol" n="2"/>
       </roles>
     </roleset>
     <roleset id="wharf.03" name="dock at a wharf">
       <roles>
-        <role descr="The crew" f="PAG" n="0"/>
-        <role descr="the ship" f="PPT" n="1"/>
-        <role descr="location" f="GOL" n="2"/>
+        <role descr="The crew" f="pag" n="0"/>
+        <role descr="the ship" f="ppt" n="1"/>
+        <role descr="location" f="gol" n="2"/>
       </roles>
     </roleset>
   </predicate>

@@ -2,8 +2,8 @@
   <predicate lemma="mismanage">
     <roleset id="mismanage.01" name="manage poorly">
       <roles>
-        <role descr="manager" f="PAG" n="0"/>
-        <role descr="thing mismanaged" f="PPT" n="1"/>
+        <role descr="manager" f="pag" n="0"/>
+        <role descr="thing mismanaged" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

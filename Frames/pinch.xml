@@ -2,22 +2,22 @@
   <predicate lemma="pinch">
     <roleset id="pinch.01" name="squeeze tightly to cause pain">
       <roles>
-        <role descr="pincher, agent" f="PAG" n="0"/>
-        <role descr="thing touched" f="PPT" n="1"/>
-        <role descr="touched with, if separate from agent" f="MNR" n="2"/>
+        <role descr="pincher, agent" f="pag" n="0"/>
+        <role descr="thing touched" f="ppt" n="1"/>
+        <role descr="touched with, if separate from agent" f="mnr" n="2"/>
       </roles>
     </roleset>
     <roleset id="pinch.02" name="slangy steal">
       <roles>
-        <role descr="thief, agent" f="PAG" n="0"/>
-        <role descr="thing stolen" f="PPT" n="1"/>
-        <role descr="stolen from" f="DIR" n="2"/>
+        <role descr="thief, agent" f="pag" n="0"/>
+        <role descr="thing stolen" f="ppt" n="1"/>
+        <role descr="stolen from" f="dir" n="2"/>
       </roles>
     </roleset>
     <roleset id="pinch.03" name="various idioms">
       <roles>
-        <role descr="agent" f="PAG" n="0"/>
-        <role descr="thing pinched" f="PPT" n="1"/>
+        <role descr="agent" f="pag" n="0"/>
+        <role descr="thing pinched" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

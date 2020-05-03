@@ -2,9 +2,9 @@
   <predicate lemma="acetify">
     <roleset id="acetify.01" name="(cause to) become acid">
       <roles>
-        <role descr="cause of transformation" f="PAG" n="0"/>
-        <role descr="entity made into silica" f="PPT" n="1"/>
-        <role descr="instrument or manner if separate from arg 0" f="MNR" n="2"/>
+        <role descr="cause of transformation" f="pag" n="0"/>
+        <role descr="entity made into silica" f="ppt" n="1"/>
+        <role descr="instrument or manner if separate from arg 0" f="mnr" n="2"/>
       </roles>
     </roleset>
   </predicate>

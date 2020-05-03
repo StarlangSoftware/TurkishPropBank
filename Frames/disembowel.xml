@@ -2,10 +2,10 @@
   <predicate lemma="disembowel">
     <roleset id="disembowel.01" name="eviscerate">
       <roles>
-        <role descr="remover" f="PAG" n="0"/>
+        <role descr="remover" f="pag" n="0"/>
         <role descr="victim" f="ppt" n="1"/>
-        <role descr="bowel, thing removed" f="PPT" n="2"/>
-        <role descr="instrument" f="MNR" n="3"/>
+        <role descr="bowel, thing removed" f="ppt" n="2"/>
+        <role descr="instrument" f="mnr" n="3"/>
       </roles>
     </roleset>
   </predicate>

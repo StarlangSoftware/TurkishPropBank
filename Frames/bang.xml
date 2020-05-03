@@ -14,7 +14,7 @@
     </roleset>
     <roleset id="bang.04" name="have sexual relations">
       <roles>
-        <role descr="first party" f="PAG" n="0"/>
+        <role descr="first party" f="pag" n="0"/>
         <role descr="second party" f="ppt" n="1"/>
       </roles>
     </roleset>

@@ -2,9 +2,9 @@
   <predicate lemma="turf">
     <roleset id="turf.01" name="turf">
       <roles>
-        <role descr="turfer, agent" f="PAG" n="0"/>
-        <role descr="turf itself, theme" f="PPT" n="1"/>
-        <role descr="thing turfed, destination" f="GOL" n="2"/>
+        <role descr="turfer, agent" f="pag" n="0"/>
+        <role descr="turf itself, theme" f="ppt" n="1"/>
+        <role descr="thing turfed, destination" f="gol" n="2"/>
       </roles>
     </roleset>
   </predicate>

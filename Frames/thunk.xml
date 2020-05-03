@@ -2,9 +2,9 @@
   <predicate lemma="thunk">
     <roleset id="thunk.01" name="thunk">
       <roles>
-        <role descr="thunker, agent (transitive subject)" f="PAG" n="0"/>
-        <role descr="thing emitting noise, theme, (intransitive subject, transitive object)" f="PPT" n="1"/>
-        <role descr="location of thunking" f="LOC" n="2"/>
+        <role descr="thunker, agent (transitive subject)" f="pag" n="0"/>
+        <role descr="thing emitting noise, theme, (intransitive subject, transitive object)" f="ppt" n="1"/>
+        <role descr="location of thunking" f="loc" n="2"/>
       </roles>
     </roleset>
   </predicate>

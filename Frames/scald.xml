@@ -3,8 +3,8 @@
     <roleset id="scald.01" name="burn with hot liquid">
       <roles>
         <role descr="agent, scalder" f="pag" n="0"/>
-        <role descr="patient, thing scalded" f="PPT" n="1"/>
-        <role descr="instrument (i.e. hot water, oil, latex)" f="MNR" n="2"/>
+        <role descr="patient, thing scalded" f="ppt" n="1"/>
+        <role descr="instrument (i.e. hot water, oil, latex)" f="mnr" n="2"/>
       </roles>
     </roleset>
   </predicate>

@@ -2,7 +2,7 @@
   <predicate lemma="positive">
     <roleset id="positive.01" name="certain">
       <roles>
-        <role descr="entity who is certain" f="PPT" n="0"/>
+        <role descr="entity who is certain" f="ppt" n="0"/>
         <role descr="about what" f="ppt" n="1"/>
       </roles>
     </roleset>

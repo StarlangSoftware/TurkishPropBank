@@ -2,9 +2,9 @@
   <predicate lemma="dispatch">
     <roleset id="dispatch.01" name="to send">
       <roles>
-        <role descr="sender, agent" f="PAG" n="0"/>
-        <role descr="entity dispatched" f="PPT" n="1"/>
-        <role descr="dispatched to" f="GOL" n="2"/>
+        <role descr="sender, agent" f="pag" n="0"/>
+        <role descr="entity dispatched" f="ppt" n="1"/>
+        <role descr="dispatched to" f="gol" n="2"/>
       </roles>
     </roleset>
   </predicate>

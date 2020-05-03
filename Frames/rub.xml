@@ -2,10 +2,10 @@
   <predicate lemma="rub">
     <roleset id="rub.01" name="apply pressure to a surface">
       <roles>
-        <role descr="rubber, agent" f="PAG" n="0"/>
+        <role descr="rubber, agent" f="pag" n="0"/>
         <role descr="thing rubbed, core argument" f="ppt" n="1"/>
         <role descr="destination, if separate from arg1" f="gol" n="2"/>
-        <role descr="rubbed with, if separate from agent" f="MNR" n="3"/>
+        <role descr="rubbed with, if separate from agent" f="mnr" n="3"/>
       </roles>
     </roleset>
   </predicate>

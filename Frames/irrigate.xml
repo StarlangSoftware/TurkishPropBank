@@ -2,8 +2,8 @@
   <predicate lemma="irrigate">
     <roleset id="irrigate.01" name="provide water for farming, clean out with liquid">
       <roles>
-        <role descr="provider of water" f="PAG" n="0"/>
-        <role descr="recipient of water" f="PPT" n="1"/>
+        <role descr="provider of water" f="pag" n="0"/>
+        <role descr="recipient of water" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

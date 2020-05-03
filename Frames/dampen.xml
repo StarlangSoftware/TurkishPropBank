@@ -23,8 +23,8 @@
     </roleset>
     <roleset id="damp.04" name="to restrain or weaken">
       <roles>
-        <role descr="restrainer, agent" f="PAG" n="0"/>
-        <role descr="thing damped" f="PPT" n="1"/>
+        <role descr="restrainer, agent" f="pag" n="0"/>
+        <role descr="thing damped" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

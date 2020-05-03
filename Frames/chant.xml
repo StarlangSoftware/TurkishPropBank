@@ -2,7 +2,7 @@
   <predicate lemma="chant">
     <roleset id="chant.01" name="to recite as a chant, intone">
       <roles>
-        <role descr="reciter, agent" f="PAG" n="0"/>
+        <role descr="reciter, agent" f="pag" n="0"/>
         <role descr="utterance" f="ppt" n="1"/>
       </roles>
     </roleset>

@@ -2,7 +2,7 @@
   <predicate lemma="acquit">
     <roleset id="acquit.01" name="relieve of guilt">
       <roles>
-        <role descr="remover of guilt" f="CAU" n="0"/>
+        <role descr="remover of guilt" f="cau" n="0"/>
         <role descr="(un)guilty party" f="dir" n="1"/>
         <role descr="explicit mention of guilt" f="ppt" n="2"/>
       </roles>

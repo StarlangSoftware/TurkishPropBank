@@ -3,7 +3,7 @@
     <roleset id="squirm.01" name="mode of motion">
       <roles>
         <role descr="squirmer" f="pag" n="0"/>
-        <role descr="path" f="PPT" n="1"/>
+        <role descr="path" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

@@ -2,8 +2,8 @@
   <predicate lemma="illuminate">
     <roleset id="illuminate.01" name="to provide with light, clarify, shining a light on">
       <roles>
-        <role descr="causer" f="PAG" n="0"/>
-        <role descr="entity illuminated" f="GOL" n="1"/>
+        <role descr="causer" f="pag" n="0"/>
+        <role descr="entity illuminated" f="gol" n="1"/>
       </roles>
     </roleset>
   </predicate>

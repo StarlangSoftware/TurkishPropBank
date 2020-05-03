@@ -2,8 +2,8 @@
   <predicate lemma="guffaw">
     <roleset id="guffaw.01" name="laugh">
       <roles>
-        <role descr="laugh-er" f="PAG" n="0"/>
-        <role descr="laughed at" f="GOL" n="1"/>
+        <role descr="laugh-er" f="pag" n="0"/>
+        <role descr="laughed at" f="gol" n="1"/>
       </roles>
     </roleset>
   </predicate>

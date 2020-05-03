@@ -9,13 +9,13 @@
   <predicate lemma="flare">
     <roleset id="flare.02" name="burn suddenly bright or intense">
       <roles>
-        <role descr="agent of flaring (sometimes a speaker)" f="PAG" n="0"/>
-        <role descr="thing burning/thing said/anger" f="PPT" n="1"/>
+        <role descr="agent of flaring (sometimes a speaker)" f="pag" n="0"/>
+        <role descr="thing burning/thing said/anger" f="ppt" n="1"/>
       </roles>
     </roleset>
     <roleset id="flare.03" name="widen">
       <roles>
-        <role descr="Causer of flaring" f="PAG" n="0"/>
+        <role descr="Causer of flaring" f="pag" n="0"/>
         <role descr="Thing flared" f="ppt" n="1"/>
       </roles>
     </roleset>

@@ -2,8 +2,8 @@
   <predicate lemma="mine">
     <roleset id="mine.01" name="extract (ore or minerals) from the earth">
       <roles>
-        <role descr="miner, agent" f="PAG" n="0"/>
-        <role descr="thing extracted" f="PPT" n="1"/>
+        <role descr="miner, agent" f="pag" n="0"/>
+        <role descr="thing extracted" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

@@ -2,8 +2,8 @@
   <predicate lemma="fathom">
     <roleset id="fathom.01" name="understand completely">
       <roles>
-        <role descr="understander" f="PPT" n="0"/>
-        <role descr="understood" f="PAG" n="1"/>
+        <role descr="understander" f="ppt" n="0"/>
+        <role descr="understood" f="pag" n="1"/>
       </roles>
     </roleset>
   </predicate>

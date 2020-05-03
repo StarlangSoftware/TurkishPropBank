@@ -2,8 +2,8 @@
   <predicate lemma="disapprove">
     <roleset id="disapprove.01" name="dissent to">
       <roles>
-        <role descr="disapprover" f="PPT" n="0"/>
-        <role descr="thing disapproved" f="PAG" n="1"/>
+        <role descr="disapprover" f="ppt" n="0"/>
+        <role descr="thing disapproved" f="pag" n="1"/>
       </roles>
     </roleset>
   </predicate>

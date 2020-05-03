@@ -2,9 +2,9 @@
   <predicate lemma="shawl">
     <roleset id="shawl.01" name="cover with a shawl">
       <roles>
-        <role descr="agent, person placing shawl" f="PAG" n="0"/>
-        <role descr="location/entity draped in the shawl" f="GOL" n="1"/>
-        <role descr="shawl itself, type of shawl" f="PPT" n="2"/>
+        <role descr="agent, person placing shawl" f="pag" n="0"/>
+        <role descr="location/entity draped in the shawl" f="gol" n="1"/>
+        <role descr="shawl itself, type of shawl" f="ppt" n="2"/>
       </roles>
     </roleset>
   </predicate>

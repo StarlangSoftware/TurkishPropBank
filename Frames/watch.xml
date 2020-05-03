@@ -8,16 +8,16 @@
     </roleset>
     <roleset id="watch.03" name="guard, be on the lookout">
       <roles>
-        <role descr="guardian" f="PAG" n="0"/>
-        <role descr="entity being guarded" f="PPT" n="1"/>
+        <role descr="guardian" f="pag" n="0"/>
+        <role descr="entity being guarded" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>
   <predicate lemma="watch_out">
     <roleset id="watch_out.02" name="erwarten sich">
       <roles>
-        <role descr="watcher out" f="PAG" n="0"/>
-        <role descr="thing watched out for" f="PPT" n="1"/>
+        <role descr="watcher out" f="pag" n="0"/>
+        <role descr="thing watched out for" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

@@ -2,8 +2,8 @@
   <predicate lemma="nucleate">
     <roleset id="nucleate.01" name="cause to form a nucleus">
       <roles>
-        <role descr="Causer of nuclei formation (rare, only for explicit creation)" f="PAG" n="0"/>
-        <role descr="cell/entity where nuclei is formed" f="PPT" n="1"/>
+        <role descr="Causer of nuclei formation (rare, only for explicit creation)" f="pag" n="0"/>
+        <role descr="cell/entity where nuclei is formed" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

@@ -2,15 +2,15 @@
   <predicate lemma="roar">
     <roleset id="roar.01" name="like a lion">
       <roles>
-        <role descr="roarer" f="PAG" n="0"/>
-        <role descr="utterance, roar itself" f="PPT" n="1"/>
-        <role descr="listener" f="GOL" n="2"/>
+        <role descr="roarer" f="pag" n="0"/>
+        <role descr="utterance, roar itself" f="ppt" n="1"/>
+        <role descr="listener" f="gol" n="2"/>
       </roles>
     </roleset>
     <roleset id="roar.02" name="move fast and noisily">
       <roles>
-        <role descr="entity in motion" f="PAG" n="0"/>
-        <role descr="path" f="PPT" n="1"/>
+        <role descr="entity in motion" f="pag" n="0"/>
+        <role descr="path" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

@@ -2,8 +2,8 @@
   <predicate lemma="ding">
     <roleset id="ding.01" name="make dinging sound or dent">
       <roles>
-        <role descr="one who dings" f="PAG" n="0"/>
-        <role descr="the dinged thing" f="PPT" n="1"/>
+        <role descr="one who dings" f="pag" n="0"/>
+        <role descr="the dinged thing" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

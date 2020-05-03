@@ -2,9 +2,9 @@
   <predicate lemma="teach">
     <roleset id="teach.01" name="(try to) make learn, causing to learn">
       <roles>
-        <role descr="teacher" f="PAG" n="0"/>
-        <role descr="subject" f="PPT" n="1"/>
-        <role descr="student(s)" f="GOL" n="2"/>
+        <role descr="teacher" f="pag" n="0"/>
+        <role descr="subject" f="ppt" n="1"/>
+        <role descr="student(s)" f="gol" n="2"/>
       </roles>
     </roleset>
   </predicate>

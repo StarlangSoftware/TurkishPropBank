@@ -2,8 +2,8 @@
   <predicate lemma="smuggle">
     <roleset id="smuggle.01" name="move clandestinely">
       <roles>
-        <role descr="thief" f="PAG" n="0"/>
-        <role descr="stolen object" f="PPT" n="1"/>
+        <role descr="thief" f="pag" n="0"/>
+        <role descr="stolen object" f="ppt" n="1"/>
         <role descr="stolen-from" f="dir" n="2"/>
         <role descr="destination" f="gol" n="3"/>
       </roles>

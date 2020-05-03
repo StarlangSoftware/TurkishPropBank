@@ -2,8 +2,8 @@
   <predicate lemma="palpate">
     <roleset id="palpate.01" name="physically feel or handle">
       <roles>
-        <role descr="Palpator" f="PAG" n="0"/>
-        <role descr="Entity palpated" f="PPT" n="1"/>
+        <role descr="Palpator" f="pag" n="0"/>
+        <role descr="Entity palpated" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

@@ -2,8 +2,8 @@
   <predicate lemma="rediscover">
     <roleset id="rediscover.01" name="discover again">
       <roles>
-        <role descr="finder, discoverer" f="PAG" n="0"/>
-        <role descr="thing found, discovery" f="PPT" n="1"/>
+        <role descr="finder, discoverer" f="pag" n="0"/>
+        <role descr="thing found, discovery" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

@@ -4,7 +4,7 @@
       <roles>
         <role descr="cause of loss of sensitivity, agent" f="pag" n="0"/>
         <role descr="patient, thing becoming less sensitive" f="ppt" n="1"/>
-        <role descr="becoming less sensitive to what? stimulus of arg 1" f="GOL" n="2"/>
+        <role descr="becoming less sensitive to what? stimulus of arg 1" f="gol" n="2"/>
       </roles>
     </roleset>
   </predicate>

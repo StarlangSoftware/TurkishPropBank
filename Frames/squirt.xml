@@ -2,9 +2,9 @@
   <predicate lemma="squirt">
     <roleset id="squirt.01" name="apply thin liquid to surface">
       <roles>
-        <role descr="applier" f="PAG" n="0"/>
-        <role descr="liquid, substance" f="PPT" n="1"/>
-        <role descr="surface" f="GOL" n="2"/>
+        <role descr="applier" f="pag" n="0"/>
+        <role descr="liquid, substance" f="ppt" n="1"/>
+        <role descr="surface" f="gol" n="2"/>
       </roles>
     </roleset>
   </predicate>

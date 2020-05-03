@@ -2,9 +2,9 @@
   <predicate lemma="hat">
     <roleset id="hat.01" name="put a hat on">
       <roles>
-        <role descr="entity placing the hat" f="PAG" n="0"/>
-        <role descr="destination of the hat" f="GOL" n="1"/>
-        <role descr="the hat" f="PPT" n="2"/>
+        <role descr="entity placing the hat" f="pag" n="0"/>
+        <role descr="destination of the hat" f="gol" n="1"/>
+        <role descr="the hat" f="ppt" n="2"/>
       </roles>
     </roleset>
   </predicate>

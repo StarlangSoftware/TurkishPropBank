@@ -2,9 +2,9 @@
   <predicate lemma="urge">
     <roleset id="urge.01" name="impelled action">
       <roles>
-        <role descr="urger" f="PAG" n="0"/>
-        <role descr="impelled agent" f="PPT" n="1"/>
-        <role descr="impelled action" f="PPT" n="2"/>
+        <role descr="urger" f="pag" n="0"/>
+        <role descr="impelled agent" f="ppt" n="1"/>
+        <role descr="impelled action" f="ppt" n="2"/>
       </roles>
     </roleset>
   </predicate>

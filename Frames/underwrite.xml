@@ -2,8 +2,8 @@
   <predicate lemma="underwrite">
     <roleset id="underwrite.01" name="provide money">
       <roles>
-        <role descr="financ(i)er" f="PAG" n="0"/>
-        <role descr="thing financed" f="PPT" n="1"/>
+        <role descr="financ(i)er" f="pag" n="0"/>
+        <role descr="thing financed" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

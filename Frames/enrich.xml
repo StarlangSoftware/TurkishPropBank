@@ -2,9 +2,9 @@
   <predicate lemma="enrich">
     <roleset id="enrich.01" name="add value">
       <roles>
-        <role descr="entity adding value, agent" f="PAG" n="0"/>
-        <role descr="thing becoming enriched" f="GOL" n="1"/>
-        <role descr="vitamins (eg)" f="PPT" n="2"/>
+        <role descr="entity adding value, agent" f="pag" n="0"/>
+        <role descr="thing becoming enriched" f="gol" n="1"/>
+        <role descr="vitamins (eg)" f="ppt" n="2"/>
       </roles>
     </roleset>
   </predicate>

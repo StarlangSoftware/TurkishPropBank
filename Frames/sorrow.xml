@@ -2,8 +2,8 @@
   <predicate lemma="sorrow">
     <roleset id="sorrow.01" name="sorrow">
       <roles>
-        <role descr="entity experiencing sorrow" f="PPT" n="0"/>
-        <role descr="cause of sorrow" f="PAG" n="1"/>
+        <role descr="entity experiencing sorrow" f="ppt" n="0"/>
+        <role descr="cause of sorrow" f="pag" n="1"/>
       </roles>
     </roleset>
   </predicate>

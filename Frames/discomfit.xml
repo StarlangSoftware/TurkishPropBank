@@ -2,8 +2,8 @@
   <predicate lemma="discomfit">
     <roleset id="discomfit.01" name="cause discomfort">
       <roles>
-        <role descr="Stimulus" f="PAG" n="0"/>
-        <role descr="discomforted entity" f="PPT" n="1"/>
+        <role descr="Stimulus" f="pag" n="0"/>
+        <role descr="discomforted entity" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

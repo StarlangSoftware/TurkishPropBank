@@ -2,8 +2,8 @@
   <predicate lemma="toot">
     <roleset id="toot.01" name="make whistle noises">
       <roles>
-        <role descr="cause, agent" f="PAG" n="0"/>
-        <role descr="musical (?) instrument" f="PPT" n="1"/>
+        <role descr="cause, agent" f="pag" n="0"/>
+        <role descr="musical (?) instrument" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

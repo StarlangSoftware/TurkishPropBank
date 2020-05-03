@@ -2,9 +2,9 @@
   <predicate lemma="graft">
     <roleset id="graft.01" name="attach">
       <roles>
-        <role descr="attacher, agent" f="PAG" n="0"/>
-        <role descr="thing attached" f="PPT" n="1"/>
-        <role descr="attached to" f="PPT" n="2"/>
+        <role descr="attacher, agent" f="pag" n="0"/>
+        <role descr="thing attached" f="ppt" n="1"/>
+        <role descr="attached to" f="ppt" n="2"/>
       </roles>
     </roleset>
   </predicate>

@@ -2,8 +2,8 @@
   <predicate lemma="tidy_up">
     <roleset id="tidy_up.01" name="to make clean or orderly">
       <roles>
-        <role descr="organizer, agent" f="PAG" n="0"/>
-        <role descr="thing/place organized" f="PPT" n="1"/>
+        <role descr="organizer, agent" f="pag" n="0"/>
+        <role descr="thing/place organized" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

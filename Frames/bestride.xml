@@ -2,7 +2,7 @@
   <predicate lemma="bestride">
     <roleset id="bestride.01" name="to sit on, mount, or straddle">
       <roles>
-        <role descr="Straddler" f="PPT" n="0"/>
+        <role descr="Straddler" f="ppt" n="0"/>
         <role descr="thing mounted, straddled" f="ppt" n="1"/>
       </roles>
     </roleset>

@@ -2,9 +2,9 @@
   <predicate lemma="energize">
     <roleset id="energize.01" name="give energy to">
       <roles>
-        <role descr="giver of energy" f="PAG" n="0"/>
-        <role descr="recipient" f="PPT" n="1"/>
-        <role descr="source of energy" f="MNR" n="2"/>
+        <role descr="giver of energy" f="pag" n="0"/>
+        <role descr="recipient" f="ppt" n="1"/>
+        <role descr="source of energy" f="mnr" n="2"/>
       </roles>
     </roleset>
   </predicate>

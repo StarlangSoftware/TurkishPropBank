@@ -2,24 +2,24 @@
   <predicate lemma="find">
     <roleset id="find.01" name="discovery">
       <roles>
-        <role descr="finder" f="PAG" n="0"/>
-        <role descr="thing found" f="PPT" n="1"/>
-        <role descr="benefactive, found for" f="GOL" n="2"/>
+        <role descr="finder" f="pag" n="0"/>
+        <role descr="thing found" f="ppt" n="1"/>
+        <role descr="benefactive, found for" f="gol" n="2"/>
       </roles>
     </roleset>
     <roleset id="find.02" name="adjudge">
       <roles>
-        <role descr="finder" f="PAG" n="0"/>
-        <role descr="thing found" f="PPT" n="1"/>
+        <role descr="finder" f="pag" n="0"/>
+        <role descr="thing found" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>
   <predicate lemma="find_out">
     <roleset id="find_out.03" name="discovery">
       <roles>
-        <role descr="finder" f="PAG" n="0"/>
-        <role descr="thing found" f="PPT" n="1"/>
-        <role descr="source" f="DIR" n="2"/>
+        <role descr="finder" f="pag" n="0"/>
+        <role descr="thing found" f="ppt" n="1"/>
+        <role descr="source" f="dir" n="2"/>
       </roles>
     </roleset>
   </predicate>

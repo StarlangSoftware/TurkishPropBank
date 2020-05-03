@@ -2,7 +2,7 @@
   <predicate lemma="voodoo">
     <roleset id="voodoo.01" name="curse or bewitch">
       <roles>
-        <role descr="witch" f="PAG" n="0"/>
+        <role descr="witch" f="pag" n="0"/>
         <role descr="cursee / recipient" f="gol" n="1"/>
       </roles>
     </roleset>

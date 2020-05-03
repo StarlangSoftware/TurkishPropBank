@@ -2,7 +2,7 @@
   <predicate lemma="tremor">
     <roleset id="tremor.01" name="shake">
       <roles>
-        <role descr="thing trembling" f="PPT" n="1"/>
+        <role descr="thing trembling" f="ppt" n="1"/>
       </roles>
     </roleset>
     <roleset id="tremor.02" name="natural disaster: minor earthquake">

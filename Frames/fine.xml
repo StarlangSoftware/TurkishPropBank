@@ -2,10 +2,10 @@
   <predicate lemma="fine">
     <roleset id="fine.01" name="extract money because of misdeed">
       <roles>
-        <role descr="finer, receiver of money" f="PAG" n="0"/>
-        <role descr="fine, money" f="VSP" n="1"/>
-        <role descr="fined, giver of money" f="GOL" n="2"/>
-        <role descr="cause, misdeed" f="CAU" n="3"/>
+        <role descr="finer, receiver of money" f="pag" n="0"/>
+        <role descr="fine, money" f="vsp" n="1"/>
+        <role descr="fined, giver of money" f="gol" n="2"/>
+        <role descr="cause, misdeed" f="cau" n="3"/>
       </roles>
     </roleset>
     <roleset id="fine.02" name="small in terms of particle size, diameter">
@@ -16,7 +16,7 @@
     </roleset>
     <roleset id="fine.03" name="elegant, high quality, attractive">
       <roles>
-        <role descr="elegant thing" f="PPT" n="1"/>
+        <role descr="elegant thing" f="ppt" n="1"/>
       </roles>
     </roleset>
     <roleset id="fine.04" name="alright, ok">

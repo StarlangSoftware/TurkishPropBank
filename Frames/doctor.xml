@@ -2,8 +2,8 @@
   <predicate lemma="doctor">
     <roleset id="doctor.01" name="to falsify or alter">
       <roles>
-        <role descr="causer of change, agent" f="PAG" n="0"/>
-        <role descr="entity doctored" f="GOL" n="1"/>
+        <role descr="causer of change, agent" f="pag" n="0"/>
+        <role descr="entity doctored" f="gol" n="1"/>
       </roles>
     </roleset>
   </predicate>

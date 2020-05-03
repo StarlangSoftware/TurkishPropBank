@@ -2,8 +2,8 @@
   <predicate lemma="overcome">
     <roleset id="overcome.01" name="conquer, get past">
       <roles>
-        <role descr="overcomer" f="PPT" n="0"/>
-        <role descr="difficulty" f="PPT" n="1"/>
+        <role descr="overcomer" f="ppt" n="0"/>
+        <role descr="difficulty" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

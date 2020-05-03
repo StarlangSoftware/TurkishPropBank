@@ -2,9 +2,9 @@
   <predicate lemma="correlate">
     <roleset id="correlate.01" name="to be mutually related">
       <roles>
-        <role descr="causer of relation" f="PAG" n="0"/>
-        <role descr="topic, first entity in relation" f="PPT" n="1"/>
-        <role descr="with what? second entity in relation" f="PPT" n="2"/>
+        <role descr="causer of relation" f="pag" n="0"/>
+        <role descr="topic, first entity in relation" f="ppt" n="1"/>
+        <role descr="with what? second entity in relation" f="ppt" n="2"/>
       </roles>
     </roleset>
   </predicate>

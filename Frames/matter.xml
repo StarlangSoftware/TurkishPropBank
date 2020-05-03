@@ -2,8 +2,8 @@
   <predicate lemma="matter">
     <roleset id="matter.01" name="be of importance">
       <roles>
-        <role descr="thing that matters" f="PPT" n="1"/>
-        <role descr="matters to whom" f="PAG" n="2"/>
+        <role descr="thing that matters" f="ppt" n="1"/>
+        <role descr="matters to whom" f="pag" n="2"/>
       </roles>
     </roleset>
     <roleset id="matter.02" name="subject matter: not eventive, do not use. Select .YY">

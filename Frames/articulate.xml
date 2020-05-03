@@ -2,9 +2,9 @@
   <predicate lemma="articulate">
     <roleset id="articulate.01" name="speak clearly, move articularors to pronuonce and enunciate">
       <roles>
-        <role descr="speaker" f="PAG" n="0"/>
-        <role descr="utterance" f="PPT" n="1"/>
-        <role descr="hearer (in theory possible)" f="GOL" n="2"/>
+        <role descr="speaker" f="pag" n="0"/>
+        <role descr="utterance" f="ppt" n="1"/>
+        <role descr="hearer (in theory possible)" f="gol" n="2"/>
       </roles>
     </roleset>
     <roleset id="articulate.02" name="using/capable of clear, effective language">

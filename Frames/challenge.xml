@@ -2,9 +2,9 @@
   <predicate lemma="challenge">
     <roleset id="challenge.01" name="challenge, nom/nomadj-challenging">
       <roles>
-        <role descr="challenger" f="PAG" n="0"/>
-        <role descr="challenged (champion?)" f="PPT" n="1"/>
-        <role descr="challenged-to, heroic task" f="PRD" n="2"/>
+        <role descr="challenger" f="pag" n="0"/>
+        <role descr="challenged (champion?)" f="ppt" n="1"/>
+        <role descr="challenged-to, heroic task" f="prd" n="2"/>
       </roles>
     </roleset>
   </predicate>

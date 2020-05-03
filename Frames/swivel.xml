@@ -2,8 +2,8 @@
   <predicate lemma="swivel">
     <roleset id="swivel.01" name="to turn or rotate">
       <roles>
-        <role descr="cause, agent" f="PAG" n="0"/>
-        <role descr="thing swiveled" f="PPT" n="1"/>
+        <role descr="cause, agent" f="pag" n="0"/>
+        <role descr="thing swiveled" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

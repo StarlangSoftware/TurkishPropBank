@@ -2,8 +2,8 @@
   <predicate lemma="nasalize">
     <roleset id="nasalize.01" name="pronounce normally oral sounds as nasal">
       <roles>
-        <role descr="causer, agent" f="PAG" n="0"/>
-        <role descr="sound nasalized" f="PPT" n="1"/>
+        <role descr="causer, agent" f="pag" n="0"/>
+        <role descr="sound nasalized" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

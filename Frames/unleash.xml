@@ -2,8 +2,8 @@
   <predicate lemma="unleash">
     <roleset id="unleash.01" name="let loose">
       <roles>
-        <role descr="letter loose" f="PAG" n="0"/>
-        <role descr="loose thing" f="PPT" n="1"/>
+        <role descr="letter loose" f="pag" n="0"/>
+        <role descr="loose thing" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

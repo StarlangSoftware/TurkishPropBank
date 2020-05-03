@@ -3,7 +3,7 @@
     <roleset id="prove.01" name="establish the truth">
       <roles>
         <role descr="prover" f="pag" n="0"/>
-        <role descr="proposition" f="PPT" n="1"/>
+        <role descr="proposition" f="ppt" n="1"/>
         <role descr="benefactive, proved-to" f="gol" n="2"/>
       </roles>
     </roleset>

@@ -2,9 +2,9 @@
   <predicate lemma="vie">
     <roleset id="vie.01" name="compete">
       <roles>
-        <role descr="competitor" f="PAG" n="0"/>
-        <role descr="opponent" f="COM" n="1"/>
-        <role descr="prize, battled over" f="PPT" n="2"/>
+        <role descr="competitor" f="pag" n="0"/>
+        <role descr="opponent" f="com" n="1"/>
+        <role descr="prize, battled over" f="ppt" n="2"/>
       </roles>
     </roleset>
   </predicate>

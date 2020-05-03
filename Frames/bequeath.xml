@@ -2,9 +2,9 @@
   <predicate lemma="bequeath">
     <roleset id="bequeath.01" name="to leave by will, hand down">
       <roles>
-        <role descr="giver, agent" f="PAG" n="0"/>
-        <role descr="entity bequeathed" f="PPT" n="1"/>
-        <role descr="recipient" f="GOL" n="2"/>
+        <role descr="giver, agent" f="pag" n="0"/>
+        <role descr="entity bequeathed" f="ppt" n="1"/>
+        <role descr="recipient" f="gol" n="2"/>
       </roles>
     </roleset>
   </predicate>

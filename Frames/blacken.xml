@@ -41,7 +41,7 @@
     </roleset>
     <roleset id="black.07" name="illegal">
       <roles>
-        <role descr="thing that is illegal" f="PPT" n="1"/>
+        <role descr="thing that is illegal" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

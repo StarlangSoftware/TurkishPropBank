@@ -11,7 +11,7 @@
   <predicate lemma="arm_up">
     <roleset id="arm_up.02" name="arm_up">
       <roles>
-        <role descr="equiper, provider, agent" f="PAG" n="0"/>
+        <role descr="equiper, provider, agent" f="pag" n="0"/>
         <role descr="entity armed" f="gol" n="1"/>
         <role descr="equipment" f="ppt" n="2"/>
       </roles>

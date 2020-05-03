@@ -2,8 +2,8 @@
   <predicate lemma="shoulder">
     <roleset id="shoulder.01" name="to carry a burden">
       <roles>
-        <role descr="carrier, agent" f="PAG" n="0"/>
-        <role descr="burden" f="PPT" n="1"/>
+        <role descr="carrier, agent" f="pag" n="0"/>
+        <role descr="burden" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

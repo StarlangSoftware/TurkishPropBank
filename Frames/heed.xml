@@ -2,8 +2,8 @@
   <predicate lemma="heed">
     <roleset id="heed.01" name="to pay attention to, consider">
       <roles>
-        <role descr="attentive entity" f="PAG" n="0"/>
-        <role descr="entity considered" f="PPT" n="1"/>
+        <role descr="attentive entity" f="pag" n="0"/>
+        <role descr="entity considered" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

@@ -2,7 +2,7 @@
   <predicate lemma="fungate">
     <roleset id="fungate.01" name="become like a fungus">
       <roles>
-        <role descr="Entity becoming like a fungus" f="PPT" n="1"/>
+        <role descr="Entity becoming like a fungus" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

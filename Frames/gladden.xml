@@ -2,9 +2,9 @@
   <predicate lemma="gladden">
     <roleset id="gladden.01" name="(cause to) become glad">
       <roles>
-        <role descr="agent, pleaser" f="PAG" n="0"/>
+        <role descr="agent, pleaser" f="pag" n="0"/>
         <role descr="patient, entity pleased" f="ppt" n="1"/>
-        <role descr="instrumental" f="MNR" n="2"/>
+        <role descr="instrumental" f="mnr" n="2"/>
       </roles>
     </roleset>
   </predicate>

@@ -3,7 +3,7 @@
     <roleset id="range.01" name="move randomly across some scale">
       <roles>
         <role descr="thing moving" f="ppt" n="1"/>
-        <role descr="EXT" f="ext" n="2"/>
+        <role descr="ext" f="ext" n="2"/>
         <role descr="start or low point" f="dir" n="3"/>
         <role descr="end or high point" f="gol" n="4"/>
         <role descr="medium/range" f="prd" n="5"/>

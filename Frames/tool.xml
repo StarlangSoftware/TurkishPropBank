@@ -16,7 +16,7 @@
     </roleset>
     <roleset id="tool.03" name="work material with a tool">
       <roles>
-        <role descr="agent, artisan" f="PAG" n="0"/>
+        <role descr="agent, artisan" f="pag" n="0"/>
         <role descr="material, surface tooled" f="ppt" n="1"/>
         <role descr="design/end product" f="ppt" n="2"/>
         <role descr="instrument" f="mnr" n="3"/>

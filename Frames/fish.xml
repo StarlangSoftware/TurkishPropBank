@@ -2,8 +2,8 @@
   <predicate lemma="fish">
     <roleset id="fish.01" name="to catch or try to catch fish, catching fish on a line">
       <roles>
-        <role descr="fisherman, agent" f="PAG" n="0"/>
-        <role descr="fish" f="PPT" n="1"/>
+        <role descr="fisherman, agent" f="pag" n="0"/>
+        <role descr="fish" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

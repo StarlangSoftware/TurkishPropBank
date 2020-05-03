@@ -2,9 +2,9 @@
   <predicate lemma="decouple">
     <roleset id="decouple.01" name="take apart, separate">
       <roles>
-        <role descr="Agent, cause of separation" f="PAG" n="0"/>
-        <role descr="First or all (where one constituent) things being separated" f="PPT" n="1"/>
-        <role descr="Thing being separated from (when separate constituent)" f="PPT" n="2"/>
+        <role descr="Agent, cause of separation" f="pag" n="0"/>
+        <role descr="First or all (where one constituent) things being separated" f="ppt" n="1"/>
+        <role descr="Thing being separated from (when separate constituent)" f="ppt" n="2"/>
       </roles>
     </roleset>
   </predicate>

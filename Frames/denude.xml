@@ -2,9 +2,9 @@
   <predicate lemma="denude">
     <roleset id="denude.01" name="remove covering">
       <roles>
-        <role descr="uncoverer, agent" f="PAG" n="0"/>
-        <role descr="thing now uncovered" f="DIR" n="1"/>
-        <role descr="covering" f="PPT" n="2"/>
+        <role descr="uncoverer, agent" f="pag" n="0"/>
+        <role descr="thing now uncovered" f="dir" n="1"/>
+        <role descr="covering" f="ppt" n="2"/>
       </roles>
     </roleset>
   </predicate>

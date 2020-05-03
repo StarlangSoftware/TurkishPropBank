@@ -2,19 +2,19 @@
   <predicate lemma="back">
     <roleset id="back.01" name="support">
       <roles>
-        <role descr="supporter" f="PAG" n="0"/>
+        <role descr="supporter" f="pag" n="0"/>
         <role descr="thing being supported" f="ppt" n="1"/>
       </roles>
     </roleset>
     <roleset id="back.02" name="move backwards">
       <roles>
-        <role descr="causer of backwards motion" f="PAG" n="0"/>
+        <role descr="causer of backwards motion" f="pag" n="0"/>
         <role descr="entity in motion" f="ppt" n="1"/>
       </roles>
     </roleset>
     <roleset id="back.03" name="face backwards">
       <roles>
-        <role descr="looker, facer" f="PAG" n="0"/>
+        <role descr="looker, facer" f="pag" n="0"/>
         <role descr="looked at, faced" f="gol" n="1"/>
       </roles>
     </roleset>
@@ -22,25 +22,25 @@
   <predicate lemma="back_up">
     <roleset id="back_up.04" name="back up: support">
       <roles>
-        <role descr="supporter" f="PAG" n="0"/>
+        <role descr="supporter" f="pag" n="0"/>
         <role descr="thing being supported" f="ppt" n="1"/>
       </roles>
     </roleset>
     <roleset id="back_up.06" name="back up: move backwards">
       <roles>
-        <role descr="causer of backwards motion" f="PAG" n="0"/>
+        <role descr="causer of backwards motion" f="pag" n="0"/>
         <role descr="entity in motion" f="ppt" n="1"/>
       </roles>
     </roleset>
     <roleset id="back_up.08" name="back up: face backwards">
       <roles>
-        <role descr="looker, facer" f="PAG" n="0"/>
+        <role descr="looker, facer" f="pag" n="0"/>
         <role descr="looked at, faced" f="gol" n="1"/>
       </roles>
     </roleset>
     <roleset id="back_up.09" name="back up: preserve data">
       <roles>
-        <role descr="preserver, agent" f="PAG" n="0"/>
+        <role descr="preserver, agent" f="pag" n="0"/>
         <role descr="data" f="ppt" n="1"/>
         <role descr="permanent storage device" f="gol" n="2"/>
       </roles>
@@ -54,7 +54,7 @@
   <predicate lemma="back_off">
     <roleset id="back_off.11" name="back off: to retreat from">
       <roles>
-        <role descr="retreator" f="PAG" n="0"/>
+        <role descr="retreator" f="pag" n="0"/>
         <role descr="location or thing retreating from" f="loc" n="1"/>
       </roles>
     </roleset>

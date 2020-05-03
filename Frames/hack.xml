@@ -2,28 +2,28 @@
   <predicate lemma="hack">
     <roleset id="hack.01" name="chop sloppily">
       <roles>
-        <role descr="chopper" f="PAG" n="0"/>
-        <role descr="chopped" f="PPT" n="1"/>
-        <role descr="instrument (ax, etc)" f="MNR" n="2"/>
+        <role descr="chopper" f="pag" n="0"/>
+        <role descr="chopped" f="ppt" n="1"/>
+        <role descr="instrument (ax, etc)" f="mnr" n="2"/>
       </roles>
     </roleset>
     <roleset id="hack.03" name="remove pieces">
       <roles>
-        <role descr="cutter" f="PAG" n="0"/>
-        <role descr="thing cut" f="PPT" n="1"/>
-        <role descr="medium, source" f="PPT" n="2"/>
-        <role descr="instrument" f="MNR" n="3"/>
+        <role descr="cutter" f="pag" n="0"/>
+        <role descr="thing cut" f="ppt" n="1"/>
+        <role descr="medium, source" f="ppt" n="2"/>
+        <role descr="instrument" f="mnr" n="3"/>
       </roles>
     </roleset>
     <roleset id="hack.04" name="computer work, breaking into, as on a computer">
       <roles>
-        <role descr="hacker" f="PAG" n="0"/>
-        <role descr="target or project" f="PPT" n="1"/>
+        <role descr="hacker" f="pag" n="0"/>
+        <role descr="target or project" f="ppt" n="1"/>
       </roles>
     </roleset>
     <roleset id="hack.05" name="cough">
       <roles>
-        <role descr="cougher" f="PAG" n="0"/>
+        <role descr="cougher" f="pag" n="0"/>
       </roles>
     </roleset>
     <roleset id="hack.06" name="succeed, manage">
@@ -43,9 +43,9 @@
   <predicate lemma="hack_away">
     <roleset id="hack_away.02" name="phrasal chop sloppily">
       <roles>
-        <role descr="chopper" f="PAG" n="0"/>
-        <role descr="chopped" f="PPT" n="1"/>
-        <role descr="instrument (ax, etc)" f="MNR" n="2"/>
+        <role descr="chopper" f="pag" n="0"/>
+        <role descr="chopped" f="ppt" n="1"/>
+        <role descr="instrument (ax, etc)" f="mnr" n="2"/>
       </roles>
     </roleset>
   </predicate>

@@ -2,8 +2,8 @@
   <predicate lemma="regularize">
     <roleset id="regularize.01" name="to make regular">
       <roles>
-        <role descr="agent, cause of regularization" f="PAG" n="0"/>
-        <role descr="entity regularized" f="PPT" n="1"/>
+        <role descr="agent, cause of regularization" f="pag" n="0"/>
+        <role descr="entity regularized" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

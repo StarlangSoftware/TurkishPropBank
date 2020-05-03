@@ -2,9 +2,9 @@
   <predicate lemma="obtain">
     <roleset id="obtain.01" name="get">
       <roles>
-        <role descr="receiver" f="PAG" n="0"/>
-        <role descr="thing gotten" f="PPT" n="1"/>
-        <role descr="received from" f="DIR" n="2"/>
+        <role descr="receiver" f="pag" n="0"/>
+        <role descr="thing gotten" f="ppt" n="1"/>
+        <role descr="received from" f="dir" n="2"/>
       </roles>
     </roleset>
   </predicate>

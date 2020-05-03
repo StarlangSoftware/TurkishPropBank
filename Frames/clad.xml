@@ -2,9 +2,9 @@
   <predicate lemma="clad">
     <roleset id="clad.01" name="robe">
       <roles>
-        <role descr="person putting on clothes" f="PAG" n="0"/>
-        <role descr="person wearing clothes, when separate from agent" f="PPT" n="1"/>
-        <role descr="clothes themselves" f="PPT" n="2"/>
+        <role descr="person putting on clothes" f="pag" n="0"/>
+        <role descr="person wearing clothes, when separate from agent" f="ppt" n="1"/>
+        <role descr="clothes themselves" f="ppt" n="2"/>
       </roles>
     </roleset>
   </predicate>

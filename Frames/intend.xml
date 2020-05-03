@@ -2,7 +2,7 @@
   <predicate lemma="intend">
     <roleset id="intend.01" name="intend, plan, on purpose, intent">
       <roles>
-        <role descr="planner" f="PAG" n="0"/>
+        <role descr="planner" f="pag" n="0"/>
         <role descr="intent, thing planned" f="ppt" n="1"/>
       </roles>
     </roleset>

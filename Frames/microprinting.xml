@@ -2,7 +2,7 @@
   <predicate lemma="microprinting">
     <roleset id="microprinting.01" name="printing text too small to be seen by the naked eye">
       <roles>
-        <role descr="printer" f="PAG" n="0"/>
+        <role descr="printer" f="pag" n="0"/>
         <role descr="print" f="ppt" n="1"/>
         <role descr="destination" f="gol" n="2"/>
       </roles>

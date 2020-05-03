@@ -2,9 +2,9 @@
   <predicate lemma="greet">
     <roleset id="greet.01" name="welcome, receive with a   specific reaction">
       <roles>
-        <role descr="greeter" f="PAG" n="0"/>
-        <role descr="thing greeted" f="PPT" n="1"/>
-        <role descr="secondary attribute, greeted as" f="CAU" n="2"/>
+        <role descr="greeter" f="pag" n="0"/>
+        <role descr="thing greeted" f="ppt" n="1"/>
+        <role descr="secondary attribute, greeted as" f="cau" n="2"/>
         <role descr="specific reaction" f="mnr" n="3"/>
       </roles>
     </roleset>

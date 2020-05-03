@@ -2,8 +2,8 @@
   <predicate lemma="pyramid">
     <roleset id="pyramid.01" name="build up">
       <roles>
-        <role descr="builder, agent" f="PAG" n="0"/>
-        <role descr="thing built (pyramid)" f="PPT" n="1"/>
+        <role descr="builder, agent" f="pag" n="0"/>
+        <role descr="thing built (pyramid)" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

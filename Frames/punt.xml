@@ -2,24 +2,24 @@
   <predicate lemma="punt">
     <roleset id="punt.01" name="kick a ball">
       <roles>
-        <role descr="kicker" f="PAG" n="0"/>
-        <role descr="the ball" f="PPT" n="1"/>
-        <role descr="source" f="DIR" n="2"/>
-        <role descr="destination" f="GOL" n="3"/>
+        <role descr="kicker" f="pag" n="0"/>
+        <role descr="the ball" f="ppt" n="1"/>
+        <role descr="source" f="dir" n="2"/>
+        <role descr="destination" f="gol" n="3"/>
       </roles>
     </roleset>
     <roleset id="punt.02" name="propel (a boat) using a pole">
       <roles>
-        <role descr="Gondolier (person propelling the boat)" f="PAG" n="0"/>
-        <role descr="the boat" f="PPT" n="1"/>
-        <role descr="destination/location of the boat." f="LOC" n="2"/>
+        <role descr="Gondolier (person propelling the boat)" f="pag" n="0"/>
+        <role descr="the boat" f="ppt" n="1"/>
+        <role descr="destination/location of the boat." f="loc" n="2"/>
       </roles>
     </roleset>
     <roleset id="punt.03" name="place a bet on (or against">
       <roles>
-        <role descr="gambler" f="PAG" n="0"/>
-        <role descr="monetary (or other) bet" f="PPT" n="1"/>
-        <role descr="the thing being bet on" f="PPT" n="2"/>
+        <role descr="gambler" f="pag" n="0"/>
+        <role descr="monetary (or other) bet" f="ppt" n="1"/>
+        <role descr="the thing being bet on" f="ppt" n="2"/>
       </roles>
     </roleset>
   </predicate>

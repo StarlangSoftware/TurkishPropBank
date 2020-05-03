@@ -2,8 +2,8 @@
   <predicate lemma="glow">
     <roleset id="glow.01" name="to shine brightly and steadily, to be radiant">
       <roles>
-        <role descr="entity glowing" f="PPT" n="0"/>
-        <role descr="fixed phrase: in the dark" f="PPT" n="1"/>
+        <role descr="entity glowing" f="ppt" n="0"/>
+        <role descr="fixed phrase: in the dark" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

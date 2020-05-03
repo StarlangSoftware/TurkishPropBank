@@ -4,7 +4,7 @@
       <roles>
         <role descr="entity removing" f="pag" n="0"/>
         <role descr="thing being withdrawn (often understood as 'self')" f="ppt" n="1"/>
-        <role descr="removed from" f="DIR" n="2"/>
+        <role descr="removed from" f="dir" n="2"/>
       </roles>
     </roleset>
   </predicate>

@@ -2,7 +2,7 @@
   <predicate lemma="drone">
     <roleset id="drone.01" name="dull, continued, low, monotonous sound">
       <roles>
-        <role descr="droner" f="PAG" n="0"/>
+        <role descr="droner" f="pag" n="0"/>
       </roles>
     </roleset>
   </predicate>

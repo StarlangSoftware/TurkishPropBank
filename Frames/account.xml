@@ -11,9 +11,9 @@
   <predicate lemma="accountable">
     <roleset id="accountable.02" name="accountable">
       <roles>
-        <role descr="perpetrator, accountable person" f="PAG" n="0"/>
-        <role descr="role or crime, accountable for what?" f="PPT" n="1"/>
-        <role descr="judge" f="PAG" n="2"/>
+        <role descr="perpetrator, accountable person" f="pag" n="0"/>
+        <role descr="role or crime, accountable for what?" f="ppt" n="1"/>
+        <role descr="judge" f="pag" n="2"/>
       </roles>
     </roleset>
   </predicate>

@@ -2,9 +2,9 @@
   <predicate lemma="toddle">
     <roleset id="toddle.01" name="toddle">
       <roles>
-        <role descr="agent, transitive subject" f="PAG" n="0"/>
-        <role descr="theme, intransitive subject, transitive object" f="PPT" n="1"/>
-        <role descr="path" f="LOC" n="2"/>
+        <role descr="agent, transitive subject" f="pag" n="0"/>
+        <role descr="theme, intransitive subject, transitive object" f="ppt" n="1"/>
+        <role descr="path" f="loc" n="2"/>
         <role descr="start point" f="dir" n="3"/>
         <role descr="end point" f="gol" n="4"/>
       </roles>

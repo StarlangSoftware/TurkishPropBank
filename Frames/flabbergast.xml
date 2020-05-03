@@ -2,8 +2,8 @@
   <predicate lemma="flabbergast">
     <roleset id="flabbergast.01" name="to surpise">
       <roles>
-        <role descr="Stimulus" f="PAG" n="0"/>
-        <role descr="experiencer" f="PPT" n="1"/>
+        <role descr="Stimulus" f="pag" n="0"/>
+        <role descr="experiencer" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

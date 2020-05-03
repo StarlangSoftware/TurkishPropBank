@@ -2,9 +2,9 @@
   <predicate lemma="capacitate">
     <roleset id="capacitate.01" name="make capable">
       <roles>
-        <role descr="causal agent" f="PAG" n="0"/>
-        <role descr="thing capacitated" f="PPT" n="1"/>
-        <role descr="instrument" f="MNR" n="2"/>
+        <role descr="causal agent" f="pag" n="0"/>
+        <role descr="thing capacitated" f="ppt" n="1"/>
+        <role descr="instrument" f="mnr" n="2"/>
       </roles>
     </roleset>
   </predicate>

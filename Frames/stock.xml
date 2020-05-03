@@ -2,7 +2,7 @@
   <predicate lemma="stock">
     <roleset id="stock.01" name="store">
       <roles>
-        <role descr="agent, storer" f="PAG" n="0"/>
+        <role descr="agent, storer" f="pag" n="0"/>
         <role descr="commodity" f="ppt" n="1"/>
         <role descr="location or destination" f="gol" n="2"/>
       </roles>
@@ -11,7 +11,7 @@
   <predicate lemma="stock_up">
     <roleset id="stock_up.02" name="store">
       <roles>
-        <role descr="agent, storer" f="PAG" n="0"/>
+        <role descr="agent, storer" f="pag" n="0"/>
         <role descr="commodity" f="ppt" n="1"/>
       </roles>
     </roleset>

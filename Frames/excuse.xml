@@ -2,9 +2,9 @@
   <predicate lemma="excuse">
     <roleset id="excuse.01" name="relieve of guilt">
       <roles>
-        <role descr="excuser" f="PAG" n="0"/>
-        <role descr="excused" f="PPT" n="1"/>
-        <role descr="crime" f="PRD" n="2"/>
+        <role descr="excuser" f="pag" n="0"/>
+        <role descr="excused" f="ppt" n="1"/>
+        <role descr="crime" f="prd" n="2"/>
       </roles>
     </roleset>
     <roleset id="excuse.02" name="explanation offered to obtain foregiveness, justify">

@@ -2,8 +2,8 @@
   <predicate lemma="object">
     <roleset id="object.01" name="complain about">
       <roles>
-        <role descr="complainer" f="PAG" n="0"/>
-        <role descr="thing objected to" f="PPT" n="1"/>
+        <role descr="complainer" f="pag" n="0"/>
+        <role descr="thing objected to" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

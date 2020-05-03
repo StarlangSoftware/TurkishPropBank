@@ -2,8 +2,8 @@
   <predicate lemma="descale">
     <roleset id="descale.01" name="remove scale">
       <roles>
-        <role descr="remover" f="PAG" n="0"/>
-        <role descr="victim" f="DIR" n="1"/>
+        <role descr="remover" f="pag" n="0"/>
+        <role descr="victim" f="dir" n="1"/>
       </roles>
     </roleset>
   </predicate>

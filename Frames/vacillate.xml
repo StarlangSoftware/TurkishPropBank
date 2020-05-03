@@ -2,8 +2,8 @@
   <predicate lemma="vacillate">
     <roleset id="vacillate.01" name="not make up ones mind">
       <roles>
-        <role descr="undecided entity" f="PAG" n="0"/>
-        <role descr="topic, question" f="PPT" n="1"/>
+        <role descr="undecided entity" f="pag" n="0"/>
+        <role descr="topic, question" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

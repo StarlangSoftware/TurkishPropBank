@@ -2,9 +2,9 @@
   <predicate lemma="evacuate">
     <roleset id="evacuate.01" name="cause to be empty (of people), empty">
       <roles>
-        <role descr="causer of emptiness" f="PAG" n="0"/>
-        <role descr="enclosure, building, etc" f="DIR" n="1"/>
-        <role descr="people" f="PPT" n="2"/>
+        <role descr="causer of emptiness" f="pag" n="0"/>
+        <role descr="enclosure, building, etc" f="dir" n="1"/>
+        <role descr="people" f="ppt" n="2"/>
       </roles>
     </roleset>
   </predicate>

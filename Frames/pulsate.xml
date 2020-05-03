@@ -2,7 +2,7 @@
   <predicate lemma="pulsate">
     <roleset id="pulsate.01" name="expand or contract rhythmically">
       <roles>
-        <role descr="thing pulsating" f="PPT" n="1"/>
+        <role descr="thing pulsating" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

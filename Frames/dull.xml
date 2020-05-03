@@ -2,8 +2,8 @@
   <predicate lemma="dull">
     <roleset id="dull.01" name="(cause to) lose shininess">
       <roles>
-        <role descr="causer of dullness" f="PAG" n="0"/>
-        <role descr="thing getting dull" f="PPT" n="1"/>
+        <role descr="causer of dullness" f="pag" n="0"/>
+        <role descr="thing getting dull" f="ppt" n="1"/>
       </roles>
     </roleset>
     <roleset id="dull.02" name="boring, not interesting">

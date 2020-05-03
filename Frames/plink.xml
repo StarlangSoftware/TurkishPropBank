@@ -2,9 +2,9 @@
   <predicate lemma="plink">
     <roleset id="plink.01" name="plink">
       <roles>
-        <role descr="agent, causer of plinking (transitive subject only)" f="PAG" n="0"/>
-        <role descr="thing emitting plinking sound, theme" f="PPT" n="1"/>
-        <role descr="location of plinking" f="LOC" n="2"/>
+        <role descr="agent, causer of plinking (transitive subject only)" f="pag" n="0"/>
+        <role descr="thing emitting plinking sound, theme" f="ppt" n="1"/>
+        <role descr="location of plinking" f="loc" n="2"/>
       </roles>
     </roleset>
   </predicate>

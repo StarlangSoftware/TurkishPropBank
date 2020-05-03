@@ -2,8 +2,8 @@
   <predicate lemma="bop">
     <roleset id="bop.01" name="dance in a boppy way">
       <roles>
-        <role descr="agent, dancer" f="PAG" n="0"/>
-        <role descr="partner, body part made to dance, or explicit mention of dance itself" f="PPT" n="1"/>
+        <role descr="agent, dancer" f="pag" n="0"/>
+        <role descr="partner, body part made to dance, or explicit mention of dance itself" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

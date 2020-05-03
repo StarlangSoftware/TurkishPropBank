@@ -2,16 +2,16 @@
   <predicate lemma="fudge">
     <roleset id="fudge.01" name="falsify slightly">
       <roles>
-        <role descr="fudger" f="PAG" n="0"/>
-        <role descr="thing fudged (on)" f="PPT" n="1"/>
+        <role descr="fudger" f="pag" n="0"/>
+        <role descr="thing fudged (on)" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>
   <predicate lemma="fudge_over">
     <roleset id="fudge_over.02" name="conceal by fudging">
       <roles>
-        <role descr="concealer, agent" f="PAG" n="0"/>
-        <role descr="thing concealed" f="PPT" n="1"/>
+        <role descr="concealer, agent" f="pag" n="0"/>
+        <role descr="thing concealed" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

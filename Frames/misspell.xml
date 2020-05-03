@@ -2,9 +2,9 @@
   <predicate lemma="misspell">
     <roleset id="misspell.01" name="hand-typo">
       <roles>
-        <role descr="misspeller" f="PAG" n="0"/>
-        <role descr="misspelled thing" f="PPT" n="1"/>
-        <role descr="destination" f="GOL" n="2"/>
+        <role descr="misspeller" f="pag" n="0"/>
+        <role descr="misspelled thing" f="ppt" n="1"/>
+        <role descr="destination" f="gol" n="2"/>
       </roles>
     </roleset>
   </predicate>

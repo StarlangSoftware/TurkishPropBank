@@ -2,7 +2,7 @@
   <predicate lemma="butt_in">
     <roleset id="butt_in.01" name="to interfere in other people's affairs">
       <roles>
-        <role descr="nosy individual, agent" f="PAG" n="0"/>
+        <role descr="nosy individual, agent" f="pag" n="0"/>
       </roles>
     </roleset>
   </predicate>

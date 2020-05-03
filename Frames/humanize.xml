@@ -2,8 +2,8 @@
   <predicate lemma="humanize">
     <roleset id="humanize.01" name="make seem human or fit for humans">
       <roles>
-        <role descr="causer of kinder gentler thing" f="PAG" n="0"/>
-        <role descr="thing now seeming (fit for) human(s)" f="PPT" n="1"/>
+        <role descr="causer of kinder gentler thing" f="pag" n="0"/>
+        <role descr="thing now seeming (fit for) human(s)" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

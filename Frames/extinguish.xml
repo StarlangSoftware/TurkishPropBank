@@ -2,10 +2,10 @@
   <predicate lemma="extinguish">
     <roleset id="extinguish.01" name="put out, like a fire">
       <roles>
-        <role descr="extinguisher, agent" f="PAG" n="0"/>
-        <role descr="fire" f="PPT" n="1"/>
-        <role descr="instrument, if separate from arg0" f="MNR" n="2"/>
-        <role descr="location of the former flame" f="DIR" n="3"/>
+        <role descr="extinguisher, agent" f="pag" n="0"/>
+        <role descr="fire" f="ppt" n="1"/>
+        <role descr="instrument, if separate from arg0" f="mnr" n="2"/>
+        <role descr="location of the former flame" f="dir" n="3"/>
       </roles>
     </roleset>
   </predicate>

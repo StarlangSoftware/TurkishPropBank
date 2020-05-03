@@ -2,9 +2,9 @@
   <predicate lemma="secularize">
     <roleset id="secularize.01" name="(cause to) become more secular, less religious">
       <roles>
-        <role descr="causer, agent" f="PAG" n="0"/>
-        <role descr="entity made more secular, less religious" f="PPT" n="1"/>
-        <role descr="instrument" f="MNR" n="2"/>
+        <role descr="causer, agent" f="pag" n="0"/>
+        <role descr="entity made more secular, less religious" f="ppt" n="1"/>
+        <role descr="instrument" f="mnr" n="2"/>
       </roles>
     </roleset>
   </predicate>

@@ -2,14 +2,14 @@
   <predicate lemma="retire">
     <roleset id="retire.01" name="stop working">
       <roles>
-        <role descr="retiree" f="PAG" n="0"/>
-        <role descr="former job" f="DIR" n="1"/>
+        <role descr="retiree" f="pag" n="0"/>
+        <role descr="former job" f="dir" n="1"/>
       </roles>
     </roleset>
     <roleset id="retire.02" name="cease, end, as of debt">
       <roles>
-        <role descr="cause, payer-off of debt" f="PAG" n="0"/>
-        <role descr="thing (eg debt) being retired" f="PPT" n="1"/>
+        <role descr="cause, payer-off of debt" f="pag" n="0"/>
+        <role descr="thing (eg debt) being retired" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

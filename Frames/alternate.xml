@@ -2,7 +2,7 @@
   <predicate lemma="alternate">
     <roleset id="alternate.01" name="switch between   two possibilities">
       <roles>
-        <role descr="causer of switch" f="PAG" n="0"/>
+        <role descr="causer of switch" f="pag" n="0"/>
         <role descr="first or all things switching" f="ppt" n="1"/>
         <role descr="secondary possibilities" f="ppt" n="2"/>
       </roles>

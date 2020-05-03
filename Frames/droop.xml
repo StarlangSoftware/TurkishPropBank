@@ -2,8 +2,8 @@
   <predicate lemma="droop">
     <roleset id="droop.01" name="hang downward">
       <roles>
-        <role descr="agent, causer (predicted)" f="PAG" n="0"/>
-        <role descr="theme" f="PPT" n="1"/>
+        <role descr="agent, causer (predicted)" f="pag" n="0"/>
+        <role descr="theme" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

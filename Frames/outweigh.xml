@@ -2,8 +2,8 @@
   <predicate lemma="outweigh">
     <roleset id="outweigh.01" name="to weigh more,  be more significant than">
       <roles>
-        <role descr="entity weighed" f="PPT" n="0"/>
-        <role descr="entity compared to" f="PPT" n="1"/>
+        <role descr="entity weighed" f="ppt" n="0"/>
+        <role descr="entity compared to" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

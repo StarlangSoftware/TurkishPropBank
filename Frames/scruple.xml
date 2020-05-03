@@ -2,8 +2,8 @@
   <predicate lemma="scruple">
     <roleset id="scruple.01" name="hesitate or doubt on moral grounds">
       <roles>
-        <role descr="hesitator" f="PAG" n="0"/>
-        <role descr="hesitating over" f="PPT" n="1"/>
+        <role descr="hesitator" f="pag" n="0"/>
+        <role descr="hesitating over" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

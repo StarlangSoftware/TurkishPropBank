@@ -2,9 +2,9 @@
   <predicate lemma="rush">
     <roleset id="rush.01" name="move quickly, quick movement, hurried">
       <roles>
-        <role descr="causer of motion" f="PAG" n="0"/>
-        <role descr="entity in motion" f="PPT" n="1"/>
-        <role descr="path or secondary action of arg1" f="LOC" n="2"/>
+        <role descr="causer of motion" f="pag" n="0"/>
+        <role descr="entity in motion" f="ppt" n="1"/>
+        <role descr="path or secondary action of arg1" f="loc" n="2"/>
       </roles>
     </roleset>
   </predicate>

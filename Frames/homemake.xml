@@ -2,7 +2,7 @@
   <predicate lemma="homemake">
     <roleset id="homemake.01" name="create at home">
       <roles>
-        <role descr="maker" f="PAG" n="0"/>
+        <role descr="maker" f="pag" n="0"/>
         <role descr="creation" f="ppt" n="1"/>
         <role descr="materials" f="mnr" n="2"/>
         <role descr="benefactive" f="gol" n="3"/>
@@ -12,7 +12,7 @@
   <predicate lemma="homemaking">
     <roleset id="homemaking.02" name="managing of a household">
       <roles>
-        <role descr="Homemaker" f="PAG" n="0"/>
+        <role descr="Homemaker" f="pag" n="0"/>
       </roles>
     </roleset>
   </predicate>

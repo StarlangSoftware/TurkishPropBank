@@ -2,8 +2,8 @@
   <predicate lemma="ignore">
     <roleset id="ignore.01" name="not pay attention to">
       <roles>
-        <role descr="ignorer" f="PAG" n="0"/>
-        <role descr="thing ignored" f="PPT" n="1"/>
+        <role descr="ignorer" f="pag" n="0"/>
+        <role descr="thing ignored" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

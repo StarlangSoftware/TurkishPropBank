@@ -4,7 +4,7 @@
       <roles>
         <role descr="examiner" f="pag" n="0"/>
         <role descr="entity inspected" f="ppt" n="1"/>
-        <role descr="inspected for what?" f="PPT" n="2"/>
+        <role descr="inspected for what?" f="ppt" n="2"/>
       </roles>
     </roleset>
   </predicate>

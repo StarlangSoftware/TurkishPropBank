@@ -2,9 +2,9 @@
   <predicate lemma="stopper">
     <roleset id="stopper.01" name="put a stopper on">
       <roles>
-        <role descr="agent, person placing stopper" f="PAG" n="0"/>
-        <role descr="bottle, location/entity stopped-up" f="GOL" n="1"/>
-        <role descr="stopper itself" f="PPT" n="2"/>
+        <role descr="agent, person placing stopper" f="pag" n="0"/>
+        <role descr="bottle, location/entity stopped-up" f="gol" n="1"/>
+        <role descr="stopper itself" f="ppt" n="2"/>
       </roles>
     </roleset>
   </predicate>

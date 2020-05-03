@@ -2,8 +2,8 @@
   <predicate lemma="whipsaw">
     <roleset id="whipsaw.01" name="move back and forth violently?">
       <roles>
-        <role descr="mover" f="PAG" n="0"/>
-        <role descr="thing moved" f="PPT" n="1"/>
+        <role descr="mover" f="pag" n="0"/>
+        <role descr="thing moved" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

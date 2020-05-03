@@ -2,8 +2,8 @@
   <predicate lemma="deepen">
     <roleset id="deepen.01" name="make/become deeper">
       <roles>
-        <role descr="agent, causer of deepening" f="PAG" n="0"/>
-        <role descr="thing getting deeper" f="PPT" n="1"/>
+        <role descr="agent, causer of deepening" f="pag" n="0"/>
+        <role descr="thing getting deeper" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

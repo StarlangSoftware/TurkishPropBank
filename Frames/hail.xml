@@ -3,7 +3,7 @@
     <roleset id="hail.01" name="weather phenomenon">
 			
       <roles>
-        <role descr="the hail itself" f="PPT" n="1">
+        <role descr="the hail itself" f="ppt" n="1">
 				</role>
       </roles>
     </roleset>
@@ -11,7 +11,7 @@
     <roleset id="hail.02" name="recognize and honor">
 			
       <roles>
-        <role descr="entity giving recognition" f="PAG" n="0">
+        <role descr="entity giving recognition" f="pag" n="0">
 				</role>
         <role descr="entity being recognized" f="ppt" n="1">
 				</role>
@@ -22,7 +22,7 @@
     <roleset id="hail.04" name="come from">
 			
       <roles>
-        <role descr="person in question" f="PAG" n="0" />
+        <role descr="person in question" f="pag" n="0" />
         <role descr="source, home" f="dir" n="1" />
       </roles>
     </roleset>
@@ -30,11 +30,11 @@
     <roleset id="hail.05" name="summon">
 			
       <roles>
-        <role descr="summoner" f="PAG" n="0">
+        <role descr="summoner" f="pag" n="0">
 				</role>
-        <role descr="entity being summoned" f="GOL" n="1">
+        <role descr="entity being summoned" f="gol" n="1">
 				</role>
-        <role descr="hailed to do what (proposition not destination)" f="PPT" n="2">
+        <role descr="hailed to do what (proposition not destination)" f="ppt" n="2">
 				</role>
       </roles>
     </roleset>

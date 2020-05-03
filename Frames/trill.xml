@@ -3,8 +3,8 @@
     <roleset id="trill.01" name="to sing or play with a vibratory or quavering effect">
       <roles>
         <role descr="trill-er" f="pag" n="0"/>
-        <role descr="utterance, trill" f="PPT" n="1"/>
-        <role descr="hearer" f="GOL" n="2"/>
+        <role descr="utterance, trill" f="ppt" n="1"/>
+        <role descr="hearer" f="gol" n="2"/>
       </roles>
     </roleset>
   </predicate>

@@ -2,7 +2,7 @@
   <predicate lemma="witter">
     <roleset id="witter.01" name="drone on about something trivial">
       <roles>
-        <role descr="speaker" f="PAG" n="0"/>
+        <role descr="speaker" f="pag" n="0"/>
         <role descr="utterance" f="ppt" n="1"/>
         <role descr="hearer" f="gol" n="2"/>
       </roles>

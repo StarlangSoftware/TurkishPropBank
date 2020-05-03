@@ -2,8 +2,8 @@
   <predicate lemma="underuse">
     <roleset id="underuse.01" name="to not put to use effectively">
       <roles>
-        <role descr="underuser, agent" f="PAG" n="0"/>
-        <role descr="entity underused" f="PPT" n="1"/>
+        <role descr="underuser, agent" f="pag" n="0"/>
+        <role descr="entity underused" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

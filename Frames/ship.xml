@@ -2,10 +2,10 @@
   <predicate lemma="ship">
     <roleset id="ship.01" name="send a package">
       <roles>
-        <role descr="sender" f="PAG" n="0"/>
-        <role descr="package" f="PPT" n="1"/>
-        <role descr="recipient" f="GOL" n="2"/>
-        <role descr="source" f="DIR" n="3"/>
+        <role descr="sender" f="pag" n="0"/>
+        <role descr="package" f="ppt" n="1"/>
+        <role descr="recipient" f="gol" n="2"/>
+        <role descr="source" f="dir" n="3"/>
       </roles>
     </roleset>
   </predicate>

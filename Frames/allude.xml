@@ -2,8 +2,8 @@
   <predicate lemma="allude">
     <roleset id="allude.01" name="to make an indirect reference">
       <roles>
-        <role descr="alluder, agent" f="PAG" n="0"/>
-        <role descr="entity alluded to" f="PPT" n="1"/>
+        <role descr="alluder, agent" f="pag" n="0"/>
+        <role descr="entity alluded to" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

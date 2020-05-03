@@ -2,8 +2,8 @@
   <predicate lemma="hyalinize">
     <roleset id="hyalinize.01" name="to undergo hyaline degeneration or become hyaline">
       <roles>
-        <role descr="Agent, cause of hyalinization" f="PAG" n="0"/>
-        <role descr="Entity hyalinized" f="PPT" n="1"/>
+        <role descr="Agent, cause of hyalinization" f="pag" n="0"/>
+        <role descr="Entity hyalinized" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

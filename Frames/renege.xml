@@ -2,8 +2,8 @@
   <predicate lemma="renege">
     <roleset id="renege.01" name="to fail to carry out">
       <roles>
-        <role descr="entities failing" f="PAG" n="0"/>
-        <role descr="renege on" f="PPT" n="1"/>
+        <role descr="entities failing" f="pag" n="0"/>
+        <role descr="renege on" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

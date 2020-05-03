@@ -2,8 +2,8 @@
   <predicate lemma="kowtow">
     <roleset id="kowtow.01" name="to kneel or fawn">
       <roles>
-        <role descr="subservient entity" f="PAG" n="0"/>
-        <role descr="entity kowtowed to" f="PPT" n="1"/>
+        <role descr="subservient entity" f="pag" n="0"/>
+        <role descr="entity kowtowed to" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

@@ -2,8 +2,8 @@
   <predicate lemma="snivel">
     <roleset id="snivel.01" name="have a drippy nose">
       <roles>
-        <role descr="sniveller" f="PAG" n="0"/>
-        <role descr="the snivel itself, utterance" f="PPT" n="1"/>
+        <role descr="sniveller" f="pag" n="0"/>
+        <role descr="the snivel itself, utterance" f="ppt" n="1"/>
         <role descr="sniveled at" f="cau" n="2"/>
       </roles>
     </roleset>

@@ -2,8 +2,8 @@
   <predicate lemma="uplift">
     <roleset id="uplift.01" name="cause increase in elevation">
       <roles>
-        <role descr="elevator, Agent" f="PAG" n="0"/>
-        <role descr="Logical subject, patient, thing rising" f="PPT" n="1"/>
+        <role descr="elevator, Agent" f="pag" n="0"/>
+        <role descr="Logical subject, patient, thing rising" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

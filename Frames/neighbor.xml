@@ -2,8 +2,8 @@
   <predicate lemma="neighbor">
     <roleset id="neighbor.01" name="be next to">
       <roles>
-        <role descr="first neighboring entity" f="PPT" n="1"/>
-        <role descr="second neighbor, neighbors what/whom" f="LOC" n="2"/>
+        <role descr="first neighboring entity" f="ppt" n="1"/>
+        <role descr="second neighbor, neighbors what/whom" f="loc" n="2"/>
       </roles>
     </roleset>
   </predicate>

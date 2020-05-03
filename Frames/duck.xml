@@ -2,8 +2,8 @@
   <predicate lemma="duck">
     <roleset id="duck.01" name="to evade a responsibility or an object">
       <roles>
-        <role descr="evader" f="PAG" n="0"/>
-        <role descr="responsibility" f="PPT" n="1"/>
+        <role descr="evader" f="pag" n="0"/>
+        <role descr="responsibility" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

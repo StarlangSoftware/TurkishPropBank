@@ -2,9 +2,9 @@
   <predicate lemma="cleanse">
     <roleset id="cleanse.01" name="make clean, empty">
       <roles>
-        <role descr="agent, cleaner" f="PAG" n="0"/>
-        <role descr="dirt" f="PPT" n="1"/>
-        <role descr="dirty thing, now clean" f="DIR" n="2"/>
+        <role descr="agent, cleaner" f="pag" n="0"/>
+        <role descr="dirt" f="ppt" n="1"/>
+        <role descr="dirty thing, now clean" f="dir" n="2"/>
       </roles>
     </roleset>
   </predicate>

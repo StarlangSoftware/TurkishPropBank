@@ -2,8 +2,8 @@
   <predicate lemma="eclipse">
     <roleset id="eclipse.01" name="be greater than">
       <roles>
-        <role descr="eclipser" f="PAG" n="0"/>
-        <role descr="eclipsed" f="PPT" n="1"/>
+        <role descr="eclipser" f="pag" n="0"/>
+        <role descr="eclipsed" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

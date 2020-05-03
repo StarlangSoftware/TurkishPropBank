@@ -2,8 +2,8 @@
   <predicate lemma="supervene">
     <roleset id="supervene.01" name="supervene">
       <roles>
-        <role descr="thing appearing, supervening" f="PPT" n="0"/>
-        <role descr="location of appearance" f="LOC" n="1"/>
+        <role descr="thing appearing, supervening" f="ppt" n="0"/>
+        <role descr="location of appearance" f="loc" n="1"/>
       </roles>
     </roleset>
   </predicate>

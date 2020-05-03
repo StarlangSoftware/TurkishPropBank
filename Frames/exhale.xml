@@ -2,8 +2,8 @@
   <predicate lemma="exhale">
     <roleset id="exhale.01" name="to emit air or vapor">
       <roles>
-        <role descr="emitter, agent" f="PAG" n="0"/>
-        <role descr="air or vapor exhaled" f="PPT" n="1"/>
+        <role descr="emitter, agent" f="pag" n="0"/>
+        <role descr="air or vapor exhaled" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

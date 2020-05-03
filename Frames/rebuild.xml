@@ -2,8 +2,8 @@
   <predicate lemma="rebuild">
     <roleset id="rebuild.01" name="to build again">
       <roles>
-        <role descr="builder" f="PAG" n="0"/>
-        <role descr="construction" f="PRD" n="1"/>
+        <role descr="builder" f="pag" n="0"/>
+        <role descr="construction" f="prd" n="1"/>
       </roles>
     </roleset>
   </predicate>

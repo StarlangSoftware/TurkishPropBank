@@ -2,8 +2,8 @@
   <predicate lemma="innovate">
     <roleset id="innovate.01" name="come up with a new idea">
       <roles>
-        <role descr="thinker" f="PAG" n="0"/>
-        <role descr="new idea" f="PPT" n="1"/>
+        <role descr="thinker" f="pag" n="0"/>
+        <role descr="new idea" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

@@ -2,8 +2,8 @@
   <predicate lemma="solarize">
     <roleset id="solarize.01" name="expose or overexpose to light">
       <roles>
-        <role descr="Agent/ causer of exposure" f="PAG" n="0"/>
-        <role descr="light sensitive entity" f="PPT" n="1"/>
+        <role descr="Agent/ causer of exposure" f="pag" n="0"/>
+        <role descr="light sensitive entity" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

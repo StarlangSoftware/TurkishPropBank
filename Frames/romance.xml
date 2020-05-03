@@ -2,8 +2,8 @@
   <predicate lemma="romance">
     <roleset id="romance.01" name="woo">
       <roles>
-        <role descr="romancer" f="PAG" n="0"/>
-        <role descr="romanced" f="PPT" n="1"/>
+        <role descr="romancer" f="pag" n="0"/>
+        <role descr="romanced" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>
@@ -24,7 +24,7 @@
   <predicate lemma="romanticize">
     <roleset id="romanticize.04" name="fit to a romantic ideal">
       <roles>
-        <role descr="romantic fool" f="PAG" n="0"/>
+        <role descr="romantic fool" f="pag" n="0"/>
         <role descr="romanticized thing" f="ppt" n="1"/>
       </roles>
     </roleset>

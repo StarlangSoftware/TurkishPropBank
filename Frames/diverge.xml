@@ -2,7 +2,7 @@
   <predicate lemma="diverge">
     <roleset id="diverge.01" name="to branch out">
       <roles>
-        <role descr="entities diverging" f="PPT" n="0"/>
+        <role descr="entities diverging" f="ppt" n="0"/>
         <role descr="second entity, diverged from" f="ppt" n="1"/>
       </roles>
     </roleset>

@@ -2,8 +2,8 @@
   <predicate lemma="crimp">
     <roleset id="crimp.01" name="to have an obstructive effect">
       <roles>
-        <role descr="agent, causer" f="PAG" n="0"/>
-        <role descr="thing crimped" f="PPT" n="1"/>
+        <role descr="agent, causer" f="pag" n="0"/>
+        <role descr="thing crimped" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

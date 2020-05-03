@@ -2,7 +2,7 @@
   <predicate lemma="playbyplay">
     <roleset id="playbyplay.01" name="describe in detail, spelling out each play">
       <roles>
-        <role descr="entity providing the play-by-play" f="PAG" n="0"/>
+        <role descr="entity providing the play-by-play" f="pag" n="0"/>
         <role descr="event described in this manner" f="ppt" n="1"/>
       </roles>
     </roleset>

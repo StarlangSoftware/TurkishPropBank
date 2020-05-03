@@ -2,9 +2,9 @@
   <predicate lemma="splutter">
     <roleset id="splutter.01" name="splutter (manner of speaking)">
       <roles>
-        <role descr="agent, splutterer" f="PAG" n="0"/>
-        <role descr="utterance, spluttered about what" f="PPT" n="1"/>
-        <role descr="spluttered to whom, recipient" f="GOL" n="2"/>
+        <role descr="agent, splutterer" f="pag" n="0"/>
+        <role descr="utterance, spluttered about what" f="ppt" n="1"/>
+        <role descr="spluttered to whom, recipient" f="gol" n="2"/>
       </roles>
     </roleset>
   </predicate>

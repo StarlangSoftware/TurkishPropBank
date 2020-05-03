@@ -2,9 +2,9 @@
   <predicate lemma="unfix">
     <roleset id="unfix.01" name="unfix">
       <roles>
-        <role descr="entity unfixing, agent" f="PAG" n="0"/>
-        <role descr="thing unfixed, patient" f="PPT" n="1"/>
-        <role descr="unfixed from, source" f="PPT" n="2"/>
+        <role descr="entity unfixing, agent" f="pag" n="0"/>
+        <role descr="thing unfixed, patient" f="ppt" n="1"/>
+        <role descr="unfixed from, source" f="ppt" n="2"/>
       </roles>
     </roleset>
   </predicate>

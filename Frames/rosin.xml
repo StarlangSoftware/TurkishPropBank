@@ -2,9 +2,9 @@
   <predicate lemma="rosin">
     <roleset id="rosin.01" name="to cover or rub with rosin">
       <roles>
-        <role descr="agent, person covering" f="PAG" n="0"/>
-        <role descr="location/entity covered in rosin" f="GOL" n="1"/>
-        <role descr="rosin, type of rosin itself" f="PPT" n="2"/>
+        <role descr="agent, person covering" f="pag" n="0"/>
+        <role descr="location/entity covered in rosin" f="gol" n="1"/>
+        <role descr="rosin, type of rosin itself" f="ppt" n="2"/>
       </roles>
     </roleset>
   </predicate>

@@ -2,8 +2,8 @@
   <predicate lemma="wrench">
     <roleset id="wrench.01" name="twist suddenly and violently">
       <roles>
-        <role descr="agent, entity/thing doing the wrenching" f="PAG" n="0"/>
-        <role descr="thing wrenched" f="PPT" n="1"/>
+        <role descr="agent, entity/thing doing the wrenching" f="pag" n="0"/>
+        <role descr="thing wrenched" f="ppt" n="1"/>
         <role descr="from where" f="dir" n="2"/>
       </roles>
     </roleset>

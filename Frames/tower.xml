@@ -2,8 +2,8 @@
   <predicate lemma="tower">
     <roleset id="tower.01" name="to rise, be preeminent">
       <roles>
-        <role descr="entity rising" f="PPT" n="0"/>
-        <role descr="entity towered over" f="LOC" n="1"/>
+        <role descr="entity rising" f="ppt" n="0"/>
+        <role descr="entity towered over" f="loc" n="1"/>
       </roles>
     </roleset>
   </predicate>

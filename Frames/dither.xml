@@ -2,7 +2,7 @@
   <predicate lemma="dither">
     <roleset id="dither.01" name="noisily do nothing">
       <roles>
-        <role descr="ditherer" f="PAG" n="0"/>
+        <role descr="ditherer" f="pag" n="0"/>
       </roles>
     </roleset>
   </predicate>

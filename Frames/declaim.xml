@@ -2,8 +2,8 @@
   <predicate lemma="declaim">
     <roleset id="declaim.01" name="to recite">
       <roles>
-        <role descr="speaker" f="PAG" n="0"/>
-        <role descr="utterance" f="PPT" n="1"/>
+        <role descr="speaker" f="pag" n="0"/>
+        <role descr="utterance" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

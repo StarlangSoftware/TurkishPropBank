@@ -2,7 +2,7 @@
   <predicate lemma="outgunned">
     <roleset id="outgunned.01" name="overwhelm with (military) force">
       <roles>
-        <role descr="winner" f="PAG" n="0"/>
+        <role descr="winner" f="pag" n="0"/>
         <role descr="loser" f="ppt" n="1"/>
         <role descr="weapon, instrument if in addition to arg0" f="mnr" n="2"/>
       </roles>

@@ -2,19 +2,19 @@
   <predicate lemma="ghost">
     <roleset id="ghost.01" name="move like a ghost">
       <roles>
-        <role descr="Moving entity" f="PPT" n="0"/>
-        <role descr="path or location" f="LOC" n="1"/>
+        <role descr="Moving entity" f="ppt" n="0"/>
+        <role descr="path or location" f="loc" n="1"/>
       </roles>
     </roleset>
     <roleset id="ghost.02" name="haunt or pursue">
       <roles>
-        <role descr="ghost" f="PAG" n="0"/>
+        <role descr="ghost" f="pag" n="0"/>
         <role descr="haunted entity" f="ppt" n="1"/>
       </roles>
     </roleset>
     <roleset id="ghost.03" name="write for someone else (ghost write)">
       <roles>
-        <role descr="ghost writer" f="PAG" n="0"/>
+        <role descr="ghost writer" f="pag" n="0"/>
         <role descr="story" f="ppt" n="1"/>
       </roles>
     </roleset>

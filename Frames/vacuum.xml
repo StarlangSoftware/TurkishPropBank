@@ -2,9 +2,9 @@
   <predicate lemma="vacuum">
     <roleset id="vacuum.01" name="to collect dirt with a vacuum cleaner">
       <roles>
-        <role descr="vacuumer, agent" f="PAG" n="0"/>
-        <role descr="dirt" f="PPT" n="1"/>
-        <role descr="location" f="DIR" n="2"/>
+        <role descr="vacuumer, agent" f="pag" n="0"/>
+        <role descr="dirt" f="ppt" n="1"/>
+        <role descr="location" f="dir" n="2"/>
       </roles>
     </roleset>
   </predicate>

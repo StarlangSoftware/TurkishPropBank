@@ -2,15 +2,15 @@
   <predicate lemma="groove">
     <roleset id="groove.01" name="put grooves into something">
       <roles>
-        <role descr="agent, person making grooves" f="PAG" n="0"/>
-        <role descr="material getting grooves" f="GOL" n="1"/>
-        <role descr="grooves themselves, type of groove" f="PPT" n="2"/>
+        <role descr="agent, person making grooves" f="pag" n="0"/>
+        <role descr="material getting grooves" f="gol" n="1"/>
+        <role descr="grooves themselves, type of groove" f="ppt" n="2"/>
       </roles>
     </roleset>
     <roleset id="groove.02" name="feelin' the groove">
       <roles>
-        <role descr="entity experiencing groovy feelings" f="PPT" n="0"/>
-        <role descr="cause of groovy feeling, what arg0 is &quot;grooving on&quot;" f="PAG" n="1"/>
+        <role descr="entity experiencing groovy feelings" f="ppt" n="0"/>
+        <role descr="cause of groovy feeling, what arg0 is &quot;grooving on&quot;" f="pag" n="1"/>
       </roles>
     </roleset>
   </predicate>

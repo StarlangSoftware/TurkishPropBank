@@ -2,8 +2,8 @@
   <predicate lemma="flout">
     <roleset id="flout.01" name="to show contempt for">
       <roles>
-        <role descr="contemptuous entity, agent" f="PAG" n="0"/>
-        <role descr="entity flouted" f="PPT" n="1"/>
+        <role descr="contemptuous entity, agent" f="pag" n="0"/>
+        <role descr="entity flouted" f="ppt" n="1"/>
       </roles>
     </roleset>
   </predicate>

@@ -2,8 +2,8 @@
   <predicate lemma="worm">
     <roleset id="worm.01" name="manner of motion">
       <roles>
-        <role descr="creeper" f="PPT" n="0"/>
-        <role descr="path" f="LOC" n="1"/>
+        <role descr="creeper" f="ppt" n="0"/>
+        <role descr="path" f="loc" n="1"/>
       </roles>
     </roleset>
   </predicate>

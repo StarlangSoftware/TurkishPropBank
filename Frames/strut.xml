@@ -2,9 +2,9 @@
   <predicate lemma="strut">
     <roleset id="strut.01" name="to walk proudly, like a peacock">
       <roles>
-        <role descr="agent, rider (use only if arg1 is present)" f="PAG" n="0"/>
-        <role descr="thing strutted, walker" f="PPT" n="1"/>
-        <role descr="path, thing  strutted up to" f="LOC" n="2"/>
+        <role descr="agent, rider (use only if arg1 is present)" f="pag" n="0"/>
+        <role descr="thing strutted, walker" f="ppt" n="1"/>
+        <role descr="path, thing  strutted up to" f="loc" n="2"/>
       </roles>
     </roleset>
   </predicate>

@@ -2,9 +2,9 @@
   <predicate lemma="calcify">
     <roleset id="calcify.01" name="make stone like through calcification, making stone-like">
       <roles>
-        <role descr="causal agent" f="PAG" n="0"/>
-        <role descr="thing calcifying" f="PPT" n="1"/>
-        <role descr="instrument or method" f="MNR" n="2"/>
+        <role descr="causal agent" f="pag" n="0"/>
+        <role descr="thing calcifying" f="ppt" n="1"/>
+        <role descr="instrument or method" f="mnr" n="2"/>
       </roles>
     </roleset>
   </predicate>

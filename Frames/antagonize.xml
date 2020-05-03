@@ -2,14 +2,14 @@
   <predicate lemma="antagonize">
     <roleset id="antagonize.01" name="be hostile towards, inciting hostility in the target">
       <roles>
-        <role descr="hostile entity" f="PAG" n="0"/>
-        <role descr="entity antagonized" f="PPT" n="1"/>
+        <role descr="hostile entity" f="pag" n="0"/>
+        <role descr="entity antagonized" f="ppt" n="1"/>
       </roles>
     </roleset>
     <roleset id="antagonize.02" name="diametrically oppose, neutralizing each other's effect">
       <roles>
         <role descr="neutralizing, opposing entity" f="ppt" n="1"/>
-        <role descr="neutralized, opposed entity" f="PPT" n="2"/>
+        <role descr="neutralized, opposed entity" f="ppt" n="2"/>
       </roles>
     </roleset>
   </predicate>

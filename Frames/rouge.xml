@@ -2,9 +2,9 @@
   <predicate lemma="rouge">
     <roleset id="rouge.01" name="put rouge on, cause to redden">
       <roles>
-        <role descr="agent, makeup artist" f="PAG" n="0"/>
+        <role descr="agent, makeup artist" f="pag" n="0"/>
         <role descr="Location/entity being covered in rouge" f="gol" n="1"/>
-        <role descr="Rouge itself, makeup type" f="PPT" n="2"/>
+        <role descr="Rouge itself, makeup type" f="ppt" n="2"/>
       </roles>
     </roleset>
   </predicate>
