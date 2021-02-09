@@ -163,3 +163,23 @@ Bir fiile ait olan Frameseti bulmak için
 Bir framesetin tüm argümanlarını bulmak için
 
 	List<FramesetArgument> getFramesetArguments()
+
+# Cite
+
+	@inproceedings{kara-etal-2020-tropbank,
+    	title = "{TR}op{B}ank: {T}urkish {P}rop{B}ank V2.0",
+    	author = {Kara, Neslihan  and
+      	Aslan, Deniz Baran  and
+      	Mar{\c{s}}an, B{\"u}{\c{s}}ra  and
+      	Bakay, {\"O}zge  and
+      	Ak, Koray  and
+      	Y{\i}ld{\i}z, Olcay Taner},
+    	booktitle = "Proceedings of the 12th Language Resources and Evaluation Conference",
+    	month = may,
+    	year = "2020",
+    	address = "Marseille, France",
+    	publisher = "European Language Resources Association",
+    	url = "https://www.aclweb.org/anthology/2020.lrec-1.336",
+    	pages = "2763--2772",
+    	ISBN = "979-10-95546-34-4",
+	}
