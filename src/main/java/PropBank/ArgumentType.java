@@ -14,7 +14,7 @@ public enum ArgumentType {
      * @return Type of the argument in {@link ArgumentType} form
      */
     public static ArgumentType getArguments(String argumentsType){
-        switch (argumentsType)
+        switch (argumentsType.toUpperCase())
         {
             case "ARG0":
                 return ArgumentType.ARG0;

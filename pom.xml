@@ -6,7 +6,7 @@
 
     <groupId>io.github.starlangsoftware</groupId>
     <artifactId>PropBank</artifactId>
-    <version>1.0.10</version>
+    <version>1.0.11</version>
     <packaging>jar</packaging>
 
     <name>NlpToolkit.PropBank</name>
