@@ -55,7 +55,7 @@ Each entry in the frame file is enclosed by <FRAMESET> and </FRAMESET> tags. id 
 For Developers
 ============
 
-You can also see [Python](https://github.com/starlangsoftware/TurkishPropBank-Py), [Cython](https://github.com/starlangsoftware/TurkishPropBank-Cy), [C++](https://github.com/starlangsoftware/TurkishPropBank-CPP), [Swift](https://github.com/starlangsoftware/TurkishPropBank-Swift), or [C#](https://github.com/starlangsoftware/TurkishPropBank-CS) repository.
+You can also see [Python](https://github.com/starlangsoftware/TurkishPropBank-Py), [Cython](https://github.com/starlangsoftware/TurkishPropBank-Cy), [C++](https://github.com/starlangsoftware/TurkishPropBank-CPP), [Swift](https://github.com/starlangsoftware/TurkishPropBank-Swift), [Js](https://github.com/starlangsoftware/TurkishPropBank-Js), or [C#](https://github.com/starlangsoftware/TurkishPropBank-CS) repository.
 
 ## Requirements
 
