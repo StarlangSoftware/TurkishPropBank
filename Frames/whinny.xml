@@ -1,9 +1,0 @@
-<frameset>
-  <predicate lemma="whinny">
-    <roleset id="whinny.01" name="the characteristic sound of a horse; neigh">
-      <roles>
-        <role descr="whinny-er" f="pag" n="0"/>
-      </roles>
-    </roleset>
-  </predicate>
-</frameset>

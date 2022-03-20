@@ -1,9 +1,0 @@
-<frameset>
-  <predicate lemma="yawn">
-    <roleset id="yawn.01" name="involuntarily open mouth wide">
-      <roles>
-        <role descr="person yawning" f="pag" n="0"/>
-      </roles>
-    </roleset>
-  </predicate>
-</frameset>

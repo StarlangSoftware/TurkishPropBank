@@ -1,9 +1,0 @@
-<frameset>
-  <predicate lemma="temporary">
-    <roleset id="temporary.01" name="of limited duration">
-      <roles>
-        <role descr="temporary entity" f="ppt" n="1"/>
-      </roles>
-    </roleset>
-  </predicate>
-</frameset>

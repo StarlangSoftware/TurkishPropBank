@@ -1,9 +1,0 @@
-<frameset>
-  <predicate lemma="tremble">
-    <roleset id="tremble.01" name="shake">
-      <roles>
-        <role descr="thing trembling" f="ppt" n="1"/>
-      </roles>
-    </roleset>
-  </predicate>
-</frameset>

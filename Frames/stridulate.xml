@@ -1,9 +1,0 @@
-<frameset>
-  <predicate lemma="stridulate">
-    <roleset id="stridulate.01" name="to produce a shrill grating sound, as a   cricket does">
-      <roles>
-        <role descr="stridulating insect" f="pag" n="0"/>
-      </roles>
-    </roleset>
-  </predicate>
-</frameset>

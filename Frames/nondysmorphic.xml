@@ -1,9 +1,0 @@
-<frameset>
-  <predicate lemma="nondysmorphic">
-    <roleset id="nondysmorphic.01" name="not malformed">
-      <roles>
-        <role descr="entity not malformed" f="ppt" n="1"/>
-      </roles>
-    </roleset>
-  </predicate>
-</frameset>

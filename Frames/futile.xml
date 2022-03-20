@@ -1,9 +1,0 @@
-<frameset>
-  <predicate lemma="futile">
-    <roleset id="futile.01" name="hopeless, pointless">
-      <roles>
-        <role descr="futile action" f="ppt" n="1"/>
-      </roles>
-    </roleset>
-  </predicate>
-</frameset>

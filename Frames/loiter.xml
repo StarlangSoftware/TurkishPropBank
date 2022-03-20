@@ -1,9 +1,0 @@
-<frameset>
-  <predicate lemma="loiter">
-    <roleset id="loiter.01" name="hang out, not be prompt">
-      <roles>
-        <role descr="loiterer" f="pag" n="0"/>
-      </roles>
-    </roleset>
-  </predicate>
-</frameset>

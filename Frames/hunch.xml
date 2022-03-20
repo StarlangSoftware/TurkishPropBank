@@ -1,9 +1,0 @@
-<frameset>
-  <predicate lemma="hunch">
-    <roleset id="hunch.01" name="curve the back">
-      <roles>
-        <role descr="huncher" f="pag" n="0"/>
-      </roles>
-    </roleset>
-  </predicate>
-</frameset>

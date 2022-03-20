@@ -1,9 +1,0 @@
-<frameset>
-  <predicate lemma="dusky">
-    <roleset id="dusky.01" name="dark">
-      <roles>
-        <role descr="dark entity" f="ppt" n="1"/>
-      </roles>
-    </roleset>
-  </predicate>
-</frameset>

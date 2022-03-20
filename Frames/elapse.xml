@@ -1,9 +1,0 @@
-<frameset>
-  <predicate lemma="elapse">
-    <roleset id="elapse.01" name="go by, as time">
-      <roles>
-        <role descr="time gone by" f="ppt" n="1"/>
-      </roles>
-    </roleset>
-  </predicate>
-</frameset>

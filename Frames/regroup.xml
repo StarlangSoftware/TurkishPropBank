@@ -1,9 +1,0 @@
-<frameset>
-  <predicate lemma="regroup">
-    <roleset id="regroup.01" name="collect onesself">
-      <roles>
-        <role descr="regrouper" f="pag" n="0"/>
-      </roles>
-    </roleset>
-  </predicate>
-</frameset>

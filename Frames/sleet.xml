@@ -1,9 +1,0 @@
-<frameset>
-  <predicate lemma="sleet">
-    <roleset id="sleet.01" name="sleet">
-      <roles>
-        <role descr="the precipitation (i.e. &quot;cats and dogs&quot;)" f="ppt" n="1"/>
-      </roles>
-    </roleset>
-  </predicate>
-</frameset>

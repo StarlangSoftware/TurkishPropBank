@@ -1,9 +1,0 @@
-<frameset>
-  <predicate lemma="gleam">
-    <roleset id="gleam.01" name="reflect light well">
-      <roles>
-        <role descr="gleaming thing" f="ppt" n="0"/>
-      </roles>
-    </roleset>
-  </predicate>
-</frameset>

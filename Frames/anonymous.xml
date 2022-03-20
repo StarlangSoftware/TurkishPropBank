@@ -1,9 +1,0 @@
-<frameset>
-  <predicate lemma="anonymous">
-    <roleset id="anonymous.01" name="unattributed, nameless">
-      <roles>
-        <role descr="anonymous entity" f="ppt" n="1"/>
-      </roles>
-    </roleset>
-  </predicate>
-</frameset>

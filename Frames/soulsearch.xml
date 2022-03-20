@@ -1,9 +1,0 @@
-<frameset>
-  <predicate lemma="soulsearch">
-    <roleset id="soulsearch.01" name="look inward, search for inspriation,   motivation, etc.">
-      <roles>
-        <role descr="soulsearcher" f="pag" n="0"/>
-      </roles>
-    </roleset>
-  </predicate>
-</frameset>

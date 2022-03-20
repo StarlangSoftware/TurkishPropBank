@@ -1,9 +1,0 @@
-<frameset>
-  <predicate lemma="blossom">
-    <roleset id="blossom.01" name="to develop, flourish">
-      <roles>
-        <role descr="entity blossoming" f="ppt" n="1"/>
-      </roles>
-    </roleset>
-  </predicate>
-</frameset>

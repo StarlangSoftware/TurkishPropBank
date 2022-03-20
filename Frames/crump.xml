@@ -1,9 +1,0 @@
-<frameset>
-  <predicate lemma="crump">
-    <roleset id="crump.01" name="to make a sound like an engine lacking lubrication">
-      <roles>
-        <role descr="engine, sound emitter" f="ppt" n="1"/>
-      </roles>
-    </roleset>
-  </predicate>
-</frameset>

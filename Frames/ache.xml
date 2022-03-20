@@ -1,9 +1,0 @@
-<frameset>
-  <predicate lemma="ache">
-    <roleset id="ache.01" name="to suffer a dull pain">
-      <roles>
-        <role descr="body part aching" f="ppt" n="0"/>
-      </roles>
-    </roleset>
-  </predicate>
-</frameset>

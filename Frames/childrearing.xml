@@ -1,9 +1,0 @@
-<frameset>
-  <predicate lemma="childrearing">
-    <roleset id="childrearing.01" name="parenting">
-      <roles>
-        <role descr="parent" f="pag" n="0"/>
-      </roles>
-    </roleset>
-  </predicate>
-</frameset>

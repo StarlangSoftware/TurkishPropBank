@@ -1,9 +1,0 @@
-<frameset>
-  <predicate lemma="fizzle">
-    <roleset id="fizzle.01" name="to fail or end weakly">
-      <roles>
-        <role descr="entity failed" f="ppt" n="1"/>
-      </roles>
-    </roleset>
-  </predicate>
-</frameset>

@@ -1,9 +1,0 @@
-<frameset>
-  <predicate lemma="clamber">
-    <roleset id="clamber.01" name="to climb awkwardly">
-      <roles>
-        <role descr="awkward climber, agent" f="ppt" n="0"/>
-      </roles>
-    </roleset>
-  </predicate>
-</frameset>

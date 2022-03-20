@@ -1,9 +1,0 @@
-<frameset>
-  <predicate lemma="urinate">
-    <roleset id="urinate.01" name="relieve one's bladder">
-      <roles>
-        <role descr="person in the bathroom" f="pag" n="0"/>
-      </roles>
-    </roleset>
-  </predicate>
-</frameset>

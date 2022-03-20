@@ -1,9 +1,0 @@
-<frameset>
-  <predicate lemma="pouch">
-    <roleset id="pouch.01" name="forming into a pouch">
-      <roles>
-        <role descr="Entity pouching" f="ppt" n="1"/>
-      </roles>
-    </roleset>
-  </predicate>
-</frameset>

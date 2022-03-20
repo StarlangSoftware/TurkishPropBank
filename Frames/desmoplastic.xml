@@ -1,9 +1,0 @@
-<frameset>
-  <predicate lemma="desmoplastic">
-    <roleset id="desmoplastic.01" name="suffering desmoplasia (growth of fibrous connective tissue)">
-      <roles>
-        <role descr="desmoplastic entity" f="ppt" n="1"/>
-      </roles>
-    </roleset>
-  </predicate>
-</frameset>

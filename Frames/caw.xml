@@ -1,9 +1,0 @@
-<frameset>
-  <predicate lemma="caw">
-    <roleset id="caw.01" name="make a sound like a gull">
-      <roles>
-        <role descr="cawer" f="pag" n="0"/>
-      </roles>
-    </roleset>
-  </predicate>
-</frameset>

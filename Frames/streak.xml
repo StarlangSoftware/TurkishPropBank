@@ -1,9 +1,0 @@
-<frameset>
-  <predicate lemma="streak">
-    <roleset id="streak.01" name="to move quickly">
-      <roles>
-        <role descr="entity in motion" f="ppt" n="0"/>
-      </roles>
-    </roleset>
-  </predicate>
-</frameset>

@@ -1,9 +1,0 @@
-<frameset>
-  <predicate lemma="plural">
-    <roleset id="plural.01" name="multiple">
-      <roles>
-        <role descr="plural entity" f="ppt" n="1"/>
-      </roles>
-    </roleset>
-  </predicate>
-</frameset>

@@ -1,9 +1,0 @@
-<frameset>
-  <predicate lemma="chirrup">
-    <roleset id="chirrup.01" name="to chirp">
-      <roles>
-        <role descr="chirrup-er" f="pag" n="0"/>
-      </roles>
-    </roleset>
-  </predicate>
-</frameset>

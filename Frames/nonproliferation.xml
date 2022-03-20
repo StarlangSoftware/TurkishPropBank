@@ -1,9 +1,0 @@
-<frameset>
-  <predicate lemma="nonproliferation">
-    <roleset id="nonproliferation.01" name="not allowing to become abundant">
-      <roles>
-        <role descr="thing not becoming abundant" f="pag" n="0"/>
-      </roles>
-    </roleset>
-  </predicate>
-</frameset>

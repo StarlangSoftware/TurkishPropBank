@@ -1,9 +1,0 @@
-<frameset>
-  <predicate lemma="logroll">
-    <roleset id="logroll.01" name="exchange political favors in order to pass legislation">
-      <roles>
-        <role descr="politicians" f="pag" n="0"/>
-      </roles>
-    </roleset>
-  </predicate>
-</frameset>

@@ -1,9 +1,0 @@
-<frameset>
-  <predicate lemma="menstruate">
-    <roleset id="menstruate.01" name="to undergo menstruation, menses">
-      <roles>
-        <role descr="Person undergoing menstruation" f="ppt" n="1"/>
-      </roles>
-    </roleset>
-  </predicate>
-</frameset>

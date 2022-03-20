@@ -1,9 +1,0 @@
-<frameset>
-  <predicate lemma="bottom_out">
-    <roleset id="bottom_out.01" name="reach the bottom">
-      <roles>
-        <role descr="thing reaching the bottom" f="pag" n="0"/>
-      </roles>
-    </roleset>
-  </predicate>
-</frameset>

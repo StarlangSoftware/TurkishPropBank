@@ -1,9 +1,0 @@
-<frameset>
-  <predicate lemma="farfetched">
-    <roleset id="farfetched.01" name="imaginitive and unlikely">
-      <roles>
-        <role descr="far-fetched entity" f="ppt" n="1"/>
-      </roles>
-    </roleset>
-  </predicate>
-</frameset>

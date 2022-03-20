@@ -1,9 +1,0 @@
-<frameset>
-  <predicate lemma="peacemake">
-    <roleset id="peacemake.01" name="to make peace">
-      <roles>
-        <role descr="peacemaker" f="pag" n="0"/>
-      </roles>
-    </roleset>
-  </predicate>
-</frameset>

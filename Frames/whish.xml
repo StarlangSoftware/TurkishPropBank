@@ -1,9 +1,0 @@
-<frameset>
-  <predicate lemma="whish">
-    <roleset id="whish.01" name="whish">
-      <roles>
-        <role descr="thing whishing (emitting a whishing sound)" f="ppt" n="0"/>
-      </roles>
-    </roleset>
-  </predicate>
-</frameset>

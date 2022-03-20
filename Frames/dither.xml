@@ -1,9 +1,0 @@
-<frameset>
-  <predicate lemma="dither">
-    <roleset id="dither.01" name="noisily do nothing">
-      <roles>
-        <role descr="ditherer" f="pag" n="0"/>
-      </roles>
-    </roleset>
-  </predicate>
-</frameset>

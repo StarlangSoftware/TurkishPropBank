@@ -1,9 +1,0 @@
-<frameset>
-  <predicate lemma="backslap">
-    <roleset id="backslap.01" name="slap on the back">
-      <roles>
-        <role descr="backslapper" f="pag" n="0"/>
-      </roles>
-    </roleset>
-  </predicate>
-</frameset>

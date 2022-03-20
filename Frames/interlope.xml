@@ -1,9 +1,0 @@
-<frameset>
-  <predicate lemma="interlope">
-    <roleset id="interlope.01" name="trespass">
-      <roles>
-        <role descr="trespasser" f="pag" n="0"/>
-      </roles>
-    </roleset>
-  </predicate>
-</frameset>

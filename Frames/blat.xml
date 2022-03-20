@@ -1,9 +1,0 @@
-<frameset>
-  <predicate lemma="blat">
-    <roleset id="blat.01" name="to bleat">
-      <roles>
-        <role descr="blat-er" f="pag" n="0"/>
-      </roles>
-    </roleset>
-  </predicate>
-</frameset>

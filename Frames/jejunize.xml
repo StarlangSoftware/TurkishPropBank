@@ -1,9 +1,0 @@
-<frameset>
-  <predicate lemma="jejunize">
-    <roleset id="jejunize.01" name="increase of folds in the ilium, becoming like the jejunum">
-      <roles>
-        <role descr="Entity jejunizing" f="ppt" n="1"/>
-      </roles>
-    </roleset>
-  </predicate>
-</frameset>

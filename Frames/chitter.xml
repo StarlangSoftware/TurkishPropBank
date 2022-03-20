@@ -1,9 +1,0 @@
-<frameset>
-  <predicate lemma="chitter">
-    <roleset id="chitter.01" name="to twitter">
-      <roles>
-        <role descr="chitter-er" f="pag" n="0"/>
-      </roles>
-    </roleset>
-  </predicate>
-</frameset>

@@ -1,9 +1,0 @@
-<frameset>
-  <predicate lemma="tenuous">
-    <roleset id="tenuous.01" name="thin, fragile">
-      <roles>
-        <role descr="thin, fragile thing" f="ppt" n="1"/>
-      </roles>
-    </roleset>
-  </predicate>
-</frameset>

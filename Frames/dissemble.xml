@@ -1,9 +1,0 @@
-<frameset>
-  <predicate lemma="dissemble">
-    <roleset id="dissemble.01" name="to feign; to disguise behind false appearance">
-      <roles>
-        <role descr="person feigning" f="pag" n="0"/>
-      </roles>
-    </roleset>
-  </predicate>
-</frameset>

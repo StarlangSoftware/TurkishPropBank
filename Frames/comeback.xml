@@ -1,9 +1,0 @@
-<frameset>
-  <predicate lemma="comeback">
-    <roleset id="comeback.01" name="turn around one's fortune">
-      <roles>
-        <role descr="entity making improvement" f="pag" n="0"/>
-      </roles>
-    </roleset>
-  </predicate>
-</frameset>

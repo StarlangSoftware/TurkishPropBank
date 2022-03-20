@@ -1,9 +1,0 @@
-<frameset>
-  <predicate lemma="nap">
-    <roleset id="nap.01" name="doze, briefly sleeping">
-      <roles>
-        <role descr="sleeper" f="pag" n="0"/>
-      </roles>
-    </roleset>
-  </predicate>
-</frameset>

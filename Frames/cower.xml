@@ -1,9 +1,0 @@
-<frameset>
-  <predicate lemma="cower">
-    <roleset id="cower.01" name="shrink away in fear, cringe">
-      <roles>
-        <role descr="afraid entity" f="ppt" n="0"/>
-      </roles>
-    </roleset>
-  </predicate>
-</frameset>

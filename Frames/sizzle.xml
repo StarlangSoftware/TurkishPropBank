@@ -1,9 +1,0 @@
-<frameset>
-  <predicate lemma="sizzle">
-    <roleset id="sizzle.01" name="emit sizzling sound">
-      <roles>
-        <role descr="sizzling thing" f="ppt" n="0"/>
-      </roles>
-    </roleset>
-  </predicate>
-</frameset>

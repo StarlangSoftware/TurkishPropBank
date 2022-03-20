@@ -1,9 +1,0 @@
-<frameset>
-  <predicate lemma="manicdepressive">
-    <roleset id="manicdepressive.01" name="suffering episodes of mania alternating with depression">
-      <roles>
-        <role descr="entity suffering manic depression" f="ppt" n="1"/>
-      </roles>
-    </roleset>
-  </predicate>
-</frameset>

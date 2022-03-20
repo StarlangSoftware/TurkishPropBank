@@ -1,9 +1,0 @@
-<frameset>
-  <predicate lemma="definite">
-    <roleset id="definite.01" name="certain, absolute">
-      <roles>
-        <role descr="definite entity" f="ppt" n="1"/>
-      </roles>
-    </roleset>
-  </predicate>
-</frameset>

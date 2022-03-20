@@ -1,9 +1,0 @@
-<frameset>
-  <predicate lemma="antiassad">
-    <roleset id="antiassad.01" name="politically opposed to bashar al-assad">
-      <roles>
-        <role descr="entity opposed to Assad" f="ppt" n="1"/>
-      </roles>
-    </roleset>
-  </predicate>
-</frameset>

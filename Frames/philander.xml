@@ -1,9 +1,0 @@
-<frameset>
-  <predicate lemma="philander">
-    <roleset id="philander.01" name="carry on flirtations, affairs insincerely,   esp with male subject">
-      <roles>
-        <role descr="philanderer" f="pag" n="0"/>
-      </roles>
-    </roleset>
-  </predicate>
-</frameset>

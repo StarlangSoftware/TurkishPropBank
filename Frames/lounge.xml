@@ -1,9 +1,0 @@
-<frameset>
-  <predicate lemma="lounge">
-    <roleset id="lounge.01" name="pass time idly, probably in a   semi-horizontal position">
-      <roles>
-        <role descr="layabout(s)" f="pag" n="0"/>
-      </roles>
-    </roleset>
-  </predicate>
-</frameset>

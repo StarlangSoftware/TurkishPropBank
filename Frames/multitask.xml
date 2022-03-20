@@ -1,9 +1,0 @@
-<frameset>
-  <predicate lemma="multitask">
-    <roleset id="multitask.01" name="work on more than one task at once">
-      <roles>
-        <role descr="multi-tasker, person doing more than one thing" f="pag" n="0"/>
-      </roles>
-    </roleset>
-  </predicate>
-</frameset>

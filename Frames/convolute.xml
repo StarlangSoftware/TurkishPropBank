@@ -1,9 +1,0 @@
-<frameset>
-  <predicate lemma="convolute">
-    <roleset id="convolute.01" name="complicate extraordinarily">
-      <roles>
-        <role descr="complicated thing" f="ppt" n="1"/>
-      </roles>
-    </roleset>
-  </predicate>
-</frameset>

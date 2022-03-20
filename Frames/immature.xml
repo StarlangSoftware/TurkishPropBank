@@ -1,9 +1,0 @@
-<frameset>
-  <predicate lemma="immature">
-    <roleset id="immature.01" name="not fully grown">
-      <roles>
-        <role descr="immature entity" f="ppt" n="1"/>
-      </roles>
-    </roleset>
-  </predicate>
-</frameset>

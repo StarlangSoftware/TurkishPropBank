@@ -1,9 +1,0 @@
-<frameset>
-  <predicate lemma="perish">
-    <roleset id="perish.01" name="die, expire, dead">
-      <roles>
-        <role descr="expiring entity" f="ppt" n="0"/>
-      </roles>
-    </roleset>
-  </predicate>
-</frameset>

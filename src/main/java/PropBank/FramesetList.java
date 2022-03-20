@@ -1,5 +1,8 @@
 package PropBank;
 
+import Xml.XmlDocument;
+import Xml.XmlElement;
+
 import java.io.*;
 import java.util.*;
 
@@ -14,10 +17,14 @@ public class FramesetList {
     public FramesetList(){
         frames = new ArrayList<Frameset>();
         ClassLoader classLoader = ClassLoader.getSystemClassLoader();
-        InputStream inputStream = classLoader.getResourceAsStream("files.txt");
-        Scanner scanner = new Scanner(inputStream);
-        while (scanner.hasNext()){
-            frames.add(new Frameset(classLoader.getResourceAsStream(scanner.next())));
+        InputStream inputStream = classLoader.getResourceAsStream("turkish-propbank.xml");
+        XmlDocument doc = new XmlDocument(inputStream);
+        doc.parse();
+        XmlElement framesNode = doc.getFirstChild();
+        XmlElement frameSetNode = framesNode.getFirstChild();
+        while (frameSetNode != null){
+            frames.add(new Frameset(frameSetNode));
+            frameSetNode = frameSetNode.getNextSibling();
         }
     }
 

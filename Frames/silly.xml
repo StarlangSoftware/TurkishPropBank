@@ -1,9 +1,0 @@
-<frameset>
-  <predicate lemma="silly">
-    <roleset id="silly.01" name="goofy, frivolous, foolish">
-      <roles>
-        <role descr="silly entity (may require concatenation)" f="ppt" n="1"/>
-      </roles>
-    </roleset>
-  </predicate>
-</frameset>

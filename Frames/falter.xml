@@ -1,9 +1,0 @@
-<frameset>
-  <predicate lemma="falter">
-    <roleset id="falter.01" name="misstep">
-      <roles>
-        <role descr="thing faltering" f="pag" n="1"/>
-      </roles>
-    </roleset>
-  </predicate>
-</frameset>

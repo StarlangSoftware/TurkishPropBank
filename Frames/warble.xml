@@ -1,9 +1,0 @@
-<frameset>
-  <predicate lemma="warble">
-    <roleset id="warble.01" name="to sing with trills, quavers, or melodic   embellishments">
-      <roles>
-        <role descr="warbler" f="pag" n="0"/>
-      </roles>
-    </roleset>
-  </predicate>
-</frameset>

@@ -1,9 +1,0 @@
-<frameset>
-  <predicate lemma="retrench">
-    <roleset id="retrench.01" name="(re)take a strong defensive position">
-      <roles>
-        <role descr="entity in defensive position" f="pag" n="0"/>
-      </roles>
-    </roleset>
-  </predicate>
-</frameset>

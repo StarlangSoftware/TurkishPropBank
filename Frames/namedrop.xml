@@ -1,9 +1,0 @@
-<frameset>
-  <predicate lemma="namedrop">
-    <roleset id="namedrop.01" name="insert names of famous people into conversation in order to seem more important">
-      <roles>
-        <role descr="insecure individual" f="pag" n="0"/>
-      </roles>
-    </roleset>
-  </predicate>
-</frameset>

@@ -1,9 +1,0 @@
-<frameset>
-  <predicate lemma="twitter">
-    <roleset id="twitter.01" name="to utter a succesion of small, tremulous sounds, as a bird">
-      <roles>
-        <role descr="twitter-er  (twit?)" f="pag" n="0"/>
-      </roles>
-    </roleset>
-  </predicate>
-</frameset>

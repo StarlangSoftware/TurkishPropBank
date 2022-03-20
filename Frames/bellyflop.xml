@@ -1,9 +1,0 @@
-<frameset>
-  <predicate lemma="bellyflop">
-    <roleset id="bellyflop.01" name="fail spectacularly">
-      <roles>
-        <role descr="thing failing" f="ppt" n="1"/>
-      </roles>
-    </roleset>
-  </predicate>
-</frameset>

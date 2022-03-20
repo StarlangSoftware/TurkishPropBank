@@ -1,9 +1,0 @@
-<frameset>
-  <predicate lemma="chir">
-    <roleset id="chir.01" name="make a chir sound">
-      <roles>
-        <role descr="thing making chir sound" f="ppt" n="0"/>
-      </roles>
-    </roleset>
-  </predicate>
-</frameset>

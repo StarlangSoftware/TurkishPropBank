@@ -1,9 +1,0 @@
-<frameset>
-  <predicate lemma="effervesce">
-    <roleset id="effervesce.01" name="bubble">
-      <roles>
-        <role descr="patient, thing effervescing" f="ppt" n="1"/>
-      </roles>
-    </roleset>
-  </predicate>
-</frameset>

@@ -1,9 +1,0 @@
-<frameset>
-  <predicate lemma="contraflow">
-    <roleset id="contraflow.01" name="flow in the opposite direction">
-      <roles>
-        <role descr="Substance, thing flowing" f="pag" n="0"/>
-      </roles>
-    </roleset>
-  </predicate>
-</frameset>

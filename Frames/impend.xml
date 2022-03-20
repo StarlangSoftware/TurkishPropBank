@@ -1,9 +1,0 @@
-<frameset>
-  <predicate lemma="impend">
-    <roleset id="impend.01" name="happen soon">
-      <roles>
-        <role descr="anticipated event" f="ppt" n="1"/>
-      </roles>
-    </roleset>
-  </predicate>
-</frameset>

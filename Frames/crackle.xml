@@ -1,9 +1,0 @@
-<frameset>
-  <predicate lemma="crackle">
-    <roleset id="crackle.01" name="make crackling noises">
-      <roles>
-        <role descr="thing crackling" f="ppt" n="0"/>
-      </roles>
-    </roleset>
-  </predicate>
-</frameset>

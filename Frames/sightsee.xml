@@ -1,9 +1,0 @@
-<frameset>
-  <predicate lemma="sightsee">
-    <roleset id="sightsee.01" name="travel about looking at sights of interest, be a tourist">
-      <roles>
-        <role descr="wanderer" f="pag" n="0"/>
-      </roles>
-    </roleset>
-  </predicate>
-</frameset>

@@ -1,9 +1,0 @@
-<frameset>
-  <predicate lemma="hoot">
-    <roleset id="hoot.01" name="make hooting sound">
-      <roles>
-        <role descr="emitter of hoot" f="pag" n="0"/>
-      </roles>
-    </roleset>
-  </predicate>
-</frameset>

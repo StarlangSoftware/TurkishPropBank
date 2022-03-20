@@ -1,9 +1,0 @@
-<frameset>
-  <predicate lemma="throb">
-    <roleset id="throb.01" name="pulse with increased pressure regularly">
-      <roles>
-        <role descr="throbbing thing" f="ppt" n="1"/>
-      </roles>
-    </roleset>
-  </predicate>
-</frameset>

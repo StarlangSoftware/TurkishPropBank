@@ -1,9 +1,0 @@
-<frameset>
-  <predicate lemma="glisten">
-    <roleset id="glisten.01" name="reflect light moistly">
-      <roles>
-        <role descr="thing glistening" f="ppt" n="0"/>
-      </roles>
-    </roleset>
-  </predicate>
-</frameset>

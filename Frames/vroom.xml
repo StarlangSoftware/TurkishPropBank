@@ -1,9 +1,0 @@
-<frameset>
-  <predicate lemma="vroom">
-    <roleset id="vroom.01" name="vroom">
-      <roles>
-        <role descr="thing vrooming" f="ppt" n="0"/>
-      </roles>
-    </roleset>
-  </predicate>
-</frameset>

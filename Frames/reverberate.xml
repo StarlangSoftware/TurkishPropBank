@@ -1,9 +1,0 @@
-<frameset>
-  <predicate lemma="reverberate">
-    <roleset id="reverberate.01" name="qualitative emission   of sound">
-      <roles>
-        <role descr="sound" f="ppt" n="1"/>
-      </roles>
-    </roleset>
-  </predicate>
-</frameset>

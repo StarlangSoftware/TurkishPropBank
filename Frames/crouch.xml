@@ -1,9 +1,0 @@
-<frameset>
-  <predicate lemma="crouch">
-    <roleset id="crouch.01" name="to bend forward">
-      <roles>
-        <role descr="entity crouching" f="pag" n="0"/>
-      </roles>
-    </roleset>
-  </predicate>
-</frameset>

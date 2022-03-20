@@ -1,9 +1,0 @@
-<frameset>
-  <predicate lemma="flounder">
-    <roleset id="flounder.01" name="like a fish on dry land">
-      <roles>
-        <role descr="thing like a fish" f="pag" n="0"/>
-      </roles>
-    </roleset>
-  </predicate>
-</frameset>

@@ -1,9 +1,0 @@
-<frameset>
-  <predicate lemma="baa">
-    <roleset id="baa.01" name="make the characteristic noise of a sheep">
-      <roles>
-        <role descr="baa-er" f="pag" n="0"/>
-      </roles>
-    </roleset>
-  </predicate>
-</frameset>

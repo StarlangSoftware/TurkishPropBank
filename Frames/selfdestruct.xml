@@ -1,9 +1,0 @@
-<frameset>
-  <predicate lemma="selfdestruct">
-    <roleset id="selfdestruct.01" name="destroy self">
-      <roles>
-        <role descr="destroyer and destroyed" f="pag" n="0"/>
-      </roles>
-    </roleset>
-  </predicate>
-</frameset>

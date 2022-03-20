@@ -1,9 +1,0 @@
-<frameset>
-  <predicate lemma="whimper">
-    <roleset id="whimper.01" name="to cry with low, plaintive sounds">
-      <roles>
-        <role descr="whimper-er" f="pag" n="0"/>
-      </roles>
-    </roleset>
-  </predicate>
-</frameset>

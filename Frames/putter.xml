@@ -1,9 +1,0 @@
-<frameset>
-  <predicate lemma="putter">
-    <roleset id="putter.01" name="to move slowly or aimlessly">
-      <roles>
-        <role descr="putterer" f="pag" n="0"/>
-      </roles>
-    </roleset>
-  </predicate>
-</frameset>

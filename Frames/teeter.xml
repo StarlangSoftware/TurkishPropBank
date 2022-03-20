@@ -1,9 +1,0 @@
-<frameset>
-  <predicate lemma="teeter">
-    <roleset id="teeter.01" name="stand unsteadily">
-      <roles>
-        <role descr="thing teetering" f="ppt" n="1"/>
-      </roles>
-    </roleset>
-  </predicate>
-</frameset>

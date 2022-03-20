@@ -1,9 +1,0 @@
-<frameset>
-  <predicate lemma="meow">
-    <roleset id="meow.01" name="make the characteristic noise of a cat, communicating like a cat">
-      <roles>
-        <role descr="meow-er" f="pag" n="0"/>
-      </roles>
-    </roleset>
-  </predicate>
-</frameset>

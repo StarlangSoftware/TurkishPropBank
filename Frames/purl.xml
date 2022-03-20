@@ -1,9 +1,0 @@
-<frameset>
-  <predicate lemma="purl">
-    <roleset id="purl.01" name="flow in a circular current">
-      <roles>
-        <role descr="thing purling" f="ppt" n="1"/>
-      </roles>
-    </roleset>
-  </predicate>
-</frameset>

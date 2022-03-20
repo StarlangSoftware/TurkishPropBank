@@ -1,9 +1,0 @@
-<frameset>
-  <predicate lemma="burgeon">
-    <roleset id="burgeon.01" name="increasing">
-      <roles>
-        <role descr="thing increasing" f="ppt" n="1"/>
-      </roles>
-    </roleset>
-  </predicate>
-</frameset>

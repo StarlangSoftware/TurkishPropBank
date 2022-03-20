@@ -6,7 +6,7 @@
 
     <groupId>io.github.starlangsoftware</groupId>
     <artifactId>PropBank</artifactId>
-    <version>1.0.11</version>
+    <version>1.0.12</version>
     <packaging>jar</packaging>
 
     <name>NlpToolkit.PropBank</name>
@@ -54,9 +54,9 @@
 
     <dependencies>
         <dependency>
-            <groupId>javax.xml.parsers</groupId>
-            <artifactId>jaxp-api</artifactId>
-            <version>1.4.5</version>
+            <groupId>io.github.starlangsoftware</groupId>
+            <artifactId>XmlParser</artifactId>
+            <version>1.0.1</version>
         </dependency>
         <dependency>
             <groupId>junit</groupId>

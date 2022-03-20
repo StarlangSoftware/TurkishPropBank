@@ -1,9 +1,0 @@
-<frameset>
-  <predicate lemma="bisexual">
-    <roleset id="bisexual.01" name="attracted to both sexes">
-      <roles>
-        <role descr="entity attracted to both sexes" f="pag" n="1"/>
-      </roles>
-    </roleset>
-  </predicate>
-</frameset>

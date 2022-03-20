@@ -1,9 +1,0 @@
-<frameset>
-  <predicate lemma="depreciate">
-    <roleset id="depreciate.01" name="lose value">
-      <roles>
-        <role descr="thing losing value" f="ppt" n="1"/>
-      </roles>
-    </roleset>
-  </predicate>
-</frameset>

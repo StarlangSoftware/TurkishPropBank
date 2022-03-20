@@ -1,9 +1,0 @@
-<frameset>
-  <predicate lemma="overarch">
-    <roleset id="overarch.01" name="extend over, as an arch">
-      <roles>
-        <role descr="arch" f="ppt" n="1"/>
-      </roles>
-    </roleset>
-  </predicate>
-</frameset>

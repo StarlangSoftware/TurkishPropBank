@@ -1,9 +1,0 @@
-<frameset>
-  <predicate lemma="immoral">
-    <roleset id="immoral.01" name="violating principles of right and wrong">
-      <roles>
-        <role descr="immoral entity" f="ppt" n="1"/>
-      </roles>
-    </roleset>
-  </predicate>
-</frameset>

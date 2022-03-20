@@ -1,14 +1,9 @@
 package PropBank;
 
-import org.w3c.dom.Document;
-import org.w3c.dom.Node;
-import org.xml.sax.SAXException;
+import Xml.XmlDocument;
+import Xml.XmlElement;
 
-import javax.xml.parsers.DocumentBuilder;
-import javax.xml.parsers.DocumentBuilderFactory;
-import javax.xml.parsers.ParserConfigurationException;
-import java.io.File;
-import java.io.IOException;
+import java.io.InputStream;
 import java.util.HashMap;
 import java.util.Set;
 
@@ -20,47 +15,37 @@ public class PredicateList {
      * file inside that folder, the constructor creates a Predicate and puts in inside the list {@link HashMap}.
      */
     public PredicateList(){
-        Document doc = null;
-        Node frameSetNode, predicateNode, roleSetNode, roleNode, rolesNode;
-        DocumentBuilder builder = null;
-        DocumentBuilderFactory factory = DocumentBuilderFactory.newInstance();
-        try {
-            builder = factory.newDocumentBuilder();
-        } catch (ParserConfigurationException e) {
-            e.printStackTrace();
-        }
+        ClassLoader classLoader = ClassLoader.getSystemClassLoader();
+        InputStream inputStream = classLoader.getResourceAsStream("english-propbank.xml");
+        XmlDocument doc = new XmlDocument(inputStream);
+        doc.parse();
+        XmlElement framesNode = doc.getFirstChild();
+        XmlElement frameSetNode = framesNode.getFirstChild();
         list = new HashMap<>();
-        File[] listOfFiles = new File("Frames").listFiles();
-        for (File file : listOfFiles){
-            try {
-                doc = builder.parse(file.getAbsolutePath());
-            } catch (SAXException | IOException e) {
-                e.printStackTrace();
-            }
-            frameSetNode = doc.getFirstChild();
-            predicateNode = frameSetNode.getFirstChild();
+        while (frameSetNode != null){
+            XmlElement predicateNode = frameSetNode.getFirstChild();
             while (predicateNode != null){
                 if (predicateNode.hasAttributes()){
-                    String lemma = predicateNode.getAttributes().getNamedItem("lemma").getNodeValue();
+                    String lemma = predicateNode.getAttributeValue("lemma");
                     Predicate newPredicate = new Predicate(lemma);
-                    roleSetNode = predicateNode.getFirstChild();
+                    XmlElement roleSetNode = predicateNode.getFirstChild();
                     while (roleSetNode != null){
                         if (roleSetNode.hasAttributes()){
-                            String id = roleSetNode.getAttributes().getNamedItem("id").getNodeValue();
-                            String name = roleSetNode.getAttributes().getNamedItem("name").getNodeValue();
+                            String id = roleSetNode.getAttributeValue("id");
+                            String name = roleSetNode.getAttributeValue("name");
                             RoleSet newRoleSet = new RoleSet(id, name);
-                            rolesNode = roleSetNode.getFirstChild();
+                            XmlElement rolesNode = roleSetNode.getFirstChild();
                             while (rolesNode != null && rolesNode.getFirstChild() == null){
                                 rolesNode = rolesNode.getNextSibling();
                             }
                             if (rolesNode != null){
-                                roleNode = rolesNode.getFirstChild();
+                                XmlElement roleNode = rolesNode.getFirstChild();
                                 while (roleNode != null){
                                     if (roleNode.hasAttributes()){
                                         String description, f, n;
-                                        description = roleNode.getAttributes().getNamedItem("descr").getNodeValue();
-                                        f = roleNode.getAttributes().getNamedItem("f").getNodeValue();
-                                        n = roleNode.getAttributes().getNamedItem("n").getNodeValue();
+                                        description = roleNode.getAttributeValue("descr");
+                                        f = roleNode.getAttributeValue("f");
+                                        n = roleNode.getAttributeValue("n");
                                         Role newRole = new Role(description, f, n);
                                         newRoleSet.addRole(newRole);
                                     }
@@ -75,6 +60,7 @@ public class PredicateList {
                 }
                 predicateNode = predicateNode.getNextSibling();
             }
+            frameSetNode = frameSetNode.getNextSibling();
         }
     }
 

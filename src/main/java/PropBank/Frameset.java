@@ -1,12 +1,6 @@
 package PropBank;
 
-import org.w3c.dom.Document;
-import org.w3c.dom.Element;
-import org.xml.sax.SAXException;
-
-import javax.xml.parsers.DocumentBuilder;
-import javax.xml.parsers.DocumentBuilderFactory;
-import javax.xml.parsers.ParserConfigurationException;
+import Xml.XmlElement;
 import java.io.*;
 import java.util.ArrayList;
 import java.util.List;
@@ -29,22 +23,15 @@ public class Frameset {
     /**
      * Another constructor of {@link Frameset} class which takes inputStream as input and reads the frameset
      *
-     * @param inputStream  inputStream to read frameset
+     * @param frameSetNode  XmlElement to read frameset
      */
-    public Frameset(InputStream inputStream){
-        DocumentBuilderFactory dbFactory = DocumentBuilderFactory.newInstance();
-        try {
-            DocumentBuilder dBuilder = dbFactory.newDocumentBuilder();
-            Document doc = dBuilder.parse(inputStream, "UTF-8");
-            Element eElement = doc.getDocumentElement();
-            id = eElement.getAttribute("id");
-            framesetArguments = new ArrayList<FramesetArgument>();
-            for (int i = 0; i < eElement.getElementsByTagName("ARG").getLength(); i++) {
-                Element argumentElement= ((Element) eElement.getElementsByTagName("ARG").item(i));
-                framesetArguments.add(new FramesetArgument(argumentElement.getAttribute("name"), argumentElement.getTextContent(), argumentElement.getAttribute("function")));
-            }
-        } catch (ParserConfigurationException | SAXException | IOException e) {
-            e.printStackTrace();
+    public Frameset(XmlElement frameSetNode){
+        id = frameSetNode.getAttributeValue("id");
+        framesetArguments = new ArrayList<FramesetArgument>();
+        XmlElement argNode = frameSetNode.getFirstChild();
+        while (argNode != null){
+            framesetArguments.add(new FramesetArgument(argNode.getAttributeValue("name"), argNode.getPcData(), argNode.getAttributeValue("function")));
+            argNode = argNode.getNextSibling();
         }
     }
 
@@ -69,6 +56,7 @@ public class Frameset {
      *
      * @param type  Type of the new {@link FramesetArgument}
      * @param definition Definition of the new {@link FramesetArgument}
+     * @param function Function of the new {@link FramesetArgument}
      */
     public void addArgument(String type, String definition, String function) {
         boolean check = false;

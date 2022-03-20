@@ -1,9 +1,0 @@
-<frameset>
-  <predicate lemma="resurge">
-    <roleset id="resurge.01" name="come back strongly">
-      <roles>
-        <role descr="thing resurging" f="pag" n="0"/>
-      </roles>
-    </roleset>
-  </predicate>
-</frameset>

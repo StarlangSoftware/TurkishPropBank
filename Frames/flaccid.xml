@@ -1,9 +1,0 @@
-<frameset>
-  <predicate lemma="flaccid">
-    <roleset id="flaccid.01" name="lifeless, limp, floppy">
-      <roles>
-        <role descr="flaccid entity" f="ppt" n="1"/>
-      </roles>
-    </roleset>
-  </predicate>
-</frameset>

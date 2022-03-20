@@ -1,9 +1,0 @@
-<frameset>
-  <predicate lemma="sigmoid">
-    <roleset id="sigmoid.01" name="in the sigmoid colon portion of the gi tract">
-      <roles>
-        <role descr="region described as sigmoid" f="ppt" n="1"/>
-      </roles>
-    </roleset>
-  </predicate>
-</frameset>

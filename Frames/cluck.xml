@@ -1,9 +1,0 @@
-<frameset>
-  <predicate lemma="cluck">
-    <roleset id="cluck.01" name="to utter the cry of a hen brooding or calling   her chicks">
-      <roles>
-        <role descr="cluck" f="pag" n="0"/>
-      </roles>
-    </roleset>
-  </predicate>
-</frameset>

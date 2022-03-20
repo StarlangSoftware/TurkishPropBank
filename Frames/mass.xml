@@ -1,9 +1,0 @@
-<frameset>
-  <predicate lemma="mass">
-    <roleset id="mass.01" name="to gather into a mass">
-      <roles>
-        <role descr="people gathered" f="ppt" n="0"/>
-      </roles>
-    </roleset>
-  </predicate>
-</frameset>

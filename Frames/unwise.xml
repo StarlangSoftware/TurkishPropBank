@@ -1,9 +1,0 @@
-<frameset>
-  <predicate lemma="unwise">
-    <roleset id="unwise.01" name="characterized as lacking wisdom">
-      <roles>
-        <role descr="entity lacking wisdom (may require concatenation" f="ppt" n="1"/>
-      </roles>
-    </roleset>
-  </predicate>
-</frameset>

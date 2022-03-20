@@ -1,9 +1,0 @@
-<frameset>
-  <predicate lemma="froth">
-    <roleset id="froth.01" name="to foam, become bubbly">
-      <roles>
-        <role descr="entity frothing" f="ppt" n="1"/>
-      </roles>
-    </roleset>
-  </predicate>
-</frameset>

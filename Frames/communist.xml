@@ -1,9 +1,0 @@
-<frameset>
-  <predicate lemma="communist">
-    <roleset id="communist.01" name="politically adhering to communism">
-      <roles>
-        <role descr="communist entity" f="pag" n="1"/>
-      </roles>
-    </roleset>
-  </predicate>
-</frameset>

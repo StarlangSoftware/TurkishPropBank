@@ -1,9 +1,0 @@
-<frameset>
-  <predicate lemma="sniffle">
-    <roleset id="sniffle.01" name="sniffle">
-      <roles>
-        <role descr="sniffler, agent" f="pag" n="0"/>
-      </roles>
-    </roleset>
-  </predicate>
-</frameset>

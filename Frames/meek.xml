@@ -1,9 +1,0 @@
-<frameset>
-  <predicate lemma="meek">
-    <roleset id="meek.01" name="gentle, passive">
-      <roles>
-        <role descr="meek entity" f="pag" n="1"/>
-      </roles>
-    </roleset>
-  </predicate>
-</frameset>

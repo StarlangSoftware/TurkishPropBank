@@ -1,9 +1,0 @@
-<frameset>
-  <predicate lemma="whir">
-    <roleset id="whir.01" name="make a soft swishing sound">
-      <roles>
-        <role descr="emitter of sound" f="ppt" n="1"/>
-      </roles>
-    </roleset>
-  </predicate>
-</frameset>

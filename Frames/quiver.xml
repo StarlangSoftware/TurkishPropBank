@@ -1,9 +1,0 @@
-<frameset>
-  <predicate lemma="quiver">
-    <roleset id="quiver.01" name="shake with rapid slight motion">
-      <roles>
-        <role descr="thing quivering" f="ppt" n="1"/>
-      </roles>
-    </roleset>
-  </predicate>
-</frameset>

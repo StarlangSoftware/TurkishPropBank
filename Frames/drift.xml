@@ -1,9 +1,0 @@
-<frameset>
-  <predicate lemma="drift">
-    <roleset id="drift.01" name="move aimlessly">
-      <roles>
-        <role descr="object in motion" f="ppt" n="1"/>
-      </roles>
-    </roleset>
-  </predicate>
-</frameset>
