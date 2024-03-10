@@ -8,14 +8,14 @@ import java.util.*;
 
 public class FramesetList {
 
-    private ArrayList<Frameset> frames;
+    private final ArrayList<Frameset> frames;
 
     /**
      * A constructor of {@link FramesetList} class which reads all frameset files inside the files.txt file. For each
      * filename inside that file, the constructor creates a Frameset and puts in inside the frames {@link ArrayList}.
      */
     public FramesetList(){
-        frames = new ArrayList<Frameset>();
+        frames = new ArrayList<>();
         ClassLoader classLoader = ClassLoader.getSystemClassLoader();
         InputStream inputStream = classLoader.getResourceAsStream("turkish-propbank.xml");
         XmlDocument doc = new XmlDocument(inputStream);
@@ -36,7 +36,7 @@ public class FramesetList {
      * @return an {@link HashMap} containing the arguments of the searched {@link Frameset}
      */
     public Map<ArgumentType, String> readFromXML(String synSetId) {
-        Map<ArgumentType, String> frameset = new HashMap<ArgumentType, String>();
+        Map<ArgumentType, String> frameset = new HashMap<>();
         for (Frameset f:frames){
             if (f.getId().equals(synSetId)){
                 for (int i = 0; i < f.getFramesetArguments().size(); i++){

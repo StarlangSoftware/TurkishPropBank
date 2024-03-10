@@ -1,9 +1,9 @@
 package PropBank;
 
 public class Role {
-    private String description;
-    private String f;
-    private String n;
+    private final String description;
+    private final String f;
+    private final String n;
 
     /**
      * A constructor of {@link Role} class which takes description, f, and n as inputs and initializes corresponding with these inputs.

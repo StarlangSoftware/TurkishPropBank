@@ -8,7 +8,7 @@ import java.util.HashMap;
 import java.util.Set;
 
 public class PredicateList {
-    private HashMap<String, Predicate> list;
+    private final HashMap<String, Predicate> list;
 
     /**
      * A constructor of {@link PredicateList} class which reads all predicate files inside the 'Frames' folder. For each

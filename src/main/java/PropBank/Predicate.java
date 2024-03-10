@@ -3,8 +3,8 @@ package PropBank;
 import java.util.ArrayList;
 
 public class Predicate {
-    private String lemma;
-    private ArrayList<RoleSet> roleSets;
+    private final String lemma;
+    private final ArrayList<RoleSet> roleSets;
 
     /**
      * A constructor of {@link Predicate} class which takes lemma as input and initializes lemma with this input.

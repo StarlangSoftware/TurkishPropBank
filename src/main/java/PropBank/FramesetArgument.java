@@ -2,7 +2,7 @@ package PropBank;
 
 public class FramesetArgument {
 
-    private String argumentType;
+    private final String argumentType;
     private String function;
     private String definition;
 

@@ -1,7 +1,7 @@
 package PropBank;
 
 public class Argument {
-    private String argumentType;
+    private final String argumentType;
     private String id;
 
     /**

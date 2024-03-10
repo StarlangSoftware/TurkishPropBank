@@ -2,12 +2,15 @@ package PropBank;
 
 import Xml.XmlElement;
 import java.io.*;
+import java.nio.charset.StandardCharsets;
+import java.nio.file.Files;
+import java.nio.file.Paths;
 import java.util.ArrayList;
 import java.util.List;
 
 public class Frameset {
 
-    private ArrayList<FramesetArgument> framesetArguments;
+    private final ArrayList<FramesetArgument> framesetArguments;
     private String id;
 
     /**
@@ -17,7 +20,7 @@ public class Frameset {
      */
     public Frameset(String id) {
         this.id = id;
-        this.framesetArguments = new ArrayList<FramesetArgument>();
+        this.framesetArguments = new ArrayList<>();
     }
 
     /**
@@ -27,7 +30,7 @@ public class Frameset {
      */
     public Frameset(XmlElement frameSetNode){
         id = frameSetNode.getAttributeValue("id");
-        framesetArguments = new ArrayList<FramesetArgument>();
+        framesetArguments = new ArrayList<>();
         XmlElement argNode = frameSetNode.getFirstChild();
         while (argNode != null){
             framesetArguments.add(new FramesetArgument(argNode.getAttributeValue("name"), argNode.getPcData(), argNode.getAttributeValue("function")));
@@ -121,7 +124,7 @@ public class Frameset {
      */
     public void saveAsXml(){
         try {
-            BufferedWriter fout = new BufferedWriter(new OutputStreamWriter(new FileOutputStream(id + ".xml"), "UTF-8"));
+            BufferedWriter fout = new BufferedWriter(new OutputStreamWriter(Files.newOutputStream(Paths.get(id + ".xml")), StandardCharsets.UTF_8));
             fout.write("\t<FRAMESET id=\"" + id + "\">\n");
             for (FramesetArgument framesetArgument : framesetArguments) {
                 fout.write("\t\t<ARG name=\"" + framesetArgument.getArgumentType() + "\" function=\"" +
@@ -129,7 +132,7 @@ public class Frameset {
             }
             fout.write("\t</FRAMESET>\n");
             fout.close();
-        } catch (IOException e){
+        } catch (IOException ignored){
         }
     }
 

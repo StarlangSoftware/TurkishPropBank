@@ -3,9 +3,9 @@ package PropBank;
 import java.util.ArrayList;
 
 public class RoleSet {
-    private String id;
-    private String name;
-    private ArrayList<Role> roles;
+    private final String id;
+    private final String name;
+    private final ArrayList<Role> roles;
 
     /**
      * A constructor of {@link RoleSet} class which takes id and name as inputs and initializes corresponding attributes
