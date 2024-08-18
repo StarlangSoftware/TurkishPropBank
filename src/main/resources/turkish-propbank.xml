@@ -65140,4 +65140,8 @@
 	<ARG name="ARG0" function="pag">ihtiyar eden kişi</ARG>
 	<ARG name="ARG1" function="ppt">ihtiyar edilen kişi</ARG>
 </FRAMESET>
+<FRAMESET id="TUR10-2900010">
+	<ARG name="ARG0" function="pag">memnun kalan kişi</ARG>
+	<ARG name="ARG1" function="ppt">memnun kaldığı şey</ARG>
+</FRAMESET>
 </FRAMES>
