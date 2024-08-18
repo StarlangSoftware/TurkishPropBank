@@ -17,7 +17,7 @@ public class FramesetListTest {
 
     @Test
     public void testFrames() {
-        assertEquals(17691, framesetList.size());
+        assertEquals(17692, framesetList.size());
     }
 
     @Test
@@ -26,7 +26,7 @@ public class FramesetListTest {
         for (int i = 0; i < framesetList.size(); i++){
             count += framesetList.getFrameSet(i).getFramesetArguments().size();
         }
-        assertEquals(29759, count);
+        assertEquals(29761, count);
     }
 
     @Test
@@ -41,8 +41,8 @@ public class FramesetListTest {
                 }
             }
         }
-        assertEquals(14668, (int) nameList.get("ARG0"));
-        assertEquals(13126, (int) nameList.get("ARG1"));
+        assertEquals(14669, (int) nameList.get("ARG0"));
+        assertEquals(13127, (int) nameList.get("ARG1"));
         assertEquals(1886, (int) nameList.get("ARG2"));
         assertEquals(78, (int) nameList.get("ARG3"));
         assertEquals(1, (int) nameList.get("ARG4"));
@@ -65,11 +65,11 @@ public class FramesetListTest {
         assertEquals(814, (int) functionList.get("loc"));
         assertEquals(198, (int) functionList.get("rec"));
         assertEquals(14, (int) functionList.get("pat"));
-        assertEquals(10687, (int) functionList.get("ppt"));
+        assertEquals(10688, (int) functionList.get("ppt"));
         assertEquals(605, (int) functionList.get("src"));
         assertEquals(801, (int) functionList.get("gol"));
         assertEquals(156, (int) functionList.get("tmp"));
-        assertEquals(14557, (int) functionList.get("pag"));
+        assertEquals(14558, (int) functionList.get("pag"));
         assertEquals(1432, (int) functionList.get("dir"));
     }
 
