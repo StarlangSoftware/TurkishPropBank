@@ -64,6 +64,33 @@ public class PredicateList {
         }
     }
 
+    public String toJson(){
+        StringBuilder jsonString = new StringBuilder("[\n");
+        for (String key : list.keySet()){
+            Predicate predicate = list.get(key);
+            jsonString.append("\t{\"lemma\": \"").append(predicate.getLemma()).append("\", \"rolesets\":[\n");
+            for (int i = 0; i < predicate.size(); i++){
+                RoleSet roleSet = predicate.getRoleSet(i);
+                jsonString.append("\t\t{\"id\":\"").append(roleSet.getId()).append("\", \"name\":\"").append(roleSet.getName()).append("\", \"roles\":[\n");
+                for (int j = 0; j < roleSet.size(); j++){
+                    Role role = roleSet.getRole(j);
+                    if (j != roleSet.size() - 1){
+                        jsonString.append("\t\t\t{\"descr\":\"").append(role.getDescription()).append("\", \"f\":\"").append(role.getF()).append("\", \"n\":\"").append(role.getN()).append("\"},\n");
+                    } else {
+                        jsonString.append("\t\t\t{\"descr\":\"").append(role.getDescription()).append("\", \"f\":\"").append(role.getF()).append("\", \"n\":\"").append(role.getN()).append("\"}\n");
+                    }
+                }
+                if (i != predicate.size() - 1){
+                    jsonString.append("\t\t\t]\n\t\t},\n");
+                } else {
+                    jsonString.append("\t\t\t]}\n");
+                }
+            }
+            jsonString.append("\t\t]\n\t},\n");
+        }
+        return jsonString + "\n]";
+    }
+
     /**
      * The size method returns the number of predicates inside the list.
      *
