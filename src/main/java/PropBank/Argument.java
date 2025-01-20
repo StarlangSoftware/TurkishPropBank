@@ -62,4 +62,13 @@ public class Argument {
             return argumentType + "$" + id;
         }
     }
+
+    /**
+     * Setter for the id
+     * @param id New id of the argument
+     */
+    public void setId(String id) {
+        this.id = id;
+    }
+
 }
