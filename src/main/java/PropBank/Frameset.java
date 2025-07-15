@@ -33,7 +33,7 @@ public class Frameset {
         framesetArguments = new ArrayList<>();
         XmlElement argNode = frameSetNode.getFirstChild();
         while (argNode != null){
-            framesetArguments.add(new FramesetArgument(argNode.getAttributeValue("name"), argNode.getPcData(), argNode.getAttributeValue("function")));
+            framesetArguments.add(new FramesetArgument(argNode.getAttributeValue("name"), argNode.getPcData(), argNode.getAttributeValue("function"), argNode.getAttributeValue("grammaticalCase")));
             argNode = argNode.getNextSibling();
         }
     }
@@ -61,7 +61,7 @@ public class Frameset {
      * @param definition Definition of the new {@link FramesetArgument}
      * @param function Function of the new {@link FramesetArgument}
      */
-    public void addArgument(String type, String definition, String function) {
+    public void addArgument(String type, String definition, String function, String grammaticalCase) {
         boolean check = false;
         for (FramesetArgument a : framesetArguments) {
             if (a.getArgumentType().equals(type)) {
@@ -71,7 +71,7 @@ public class Frameset {
             }
         }
         if (!check) {
-            FramesetArgument arg = new FramesetArgument(type, definition, function);
+            FramesetArgument arg = new FramesetArgument(type, definition, function, grammaticalCase);
             framesetArguments.add(arg);
         }
     }
@@ -122,16 +122,20 @@ public class Frameset {
     /**
      * Saves the {@link Frameset} in an xml file format.
      */
-    public void saveAsXml(){
+    public void saveAsXml(BufferedWriter fout){
         try {
-            BufferedWriter fout = new BufferedWriter(new OutputStreamWriter(Files.newOutputStream(Paths.get(id + ".xml")), StandardCharsets.UTF_8));
             fout.write("\t<FRAMESET id=\"" + id + "\">\n");
             for (FramesetArgument framesetArgument : framesetArguments) {
-                fout.write("\t\t<ARG name=\"" + framesetArgument.getArgumentType() + "\" function=\"" +
-                        framesetArgument.getFunction() + "\">" + framesetArgument.getDefinition() + "</ARG>\n");
+                if (framesetArgument.getGrammaticalCase() != null && !framesetArgument.getGrammaticalCase().isEmpty()){
+                    fout.write("\t\t<ARG name=\"" + framesetArgument.getArgumentType() + "\" function=\"" +
+                            framesetArgument.getFunction() + "\" grammaticalCase=\"" +
+                            framesetArgument.getGrammaticalCase() + "\">" + framesetArgument.getDefinition() + "</ARG>\n");
+                } else {
+                    fout.write("\t\t<ARG name=\"" + framesetArgument.getArgumentType() + "\" function=\"" +
+                            framesetArgument.getFunction() + "\">" + framesetArgument.getDefinition() + "</ARG>\n");
+                }
             }
             fout.write("\t</FRAMESET>\n");
-            fout.close();
         } catch (IOException ignored){
         }
     }

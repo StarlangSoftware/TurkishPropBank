@@ -4,6 +4,9 @@ import Xml.XmlDocument;
 import Xml.XmlElement;
 
 import java.io.*;
+import java.nio.charset.StandardCharsets;
+import java.nio.file.Files;
+import java.nio.file.Paths;
 import java.util.*;
 
 public class FramesetList {
@@ -105,4 +108,19 @@ public class FramesetList {
         return frames.size();
     }
 
+    /**
+     * Saves the {@link Frameset} in an xml file format.
+     */
+    public void saveAsXml(){
+        try {
+            BufferedWriter fout = new BufferedWriter(new OutputStreamWriter(Files.newOutputStream(Paths.get("turkish-propbank.xml")), StandardCharsets.UTF_8));
+            fout.write("<FRAMES>\n");
+            for (Frameset frameset : frames) {
+                frameset.saveAsXml(fout);
+            }
+            fout.write("</FRAMES>\n");
+            fout.close();
+        } catch (IOException ignored){
+        }
+    }
 }

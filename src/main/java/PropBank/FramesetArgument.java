@@ -5,6 +5,7 @@ public class FramesetArgument {
     private final String argumentType;
     private String function;
     private String definition;
+    private String grammaticalCase;
 
     /**
      * A constructor of {@link FramesetArgument} class which takes argumentType and definition as input and initializes corresponding attributes
@@ -13,10 +14,20 @@ public class FramesetArgument {
      * @param definition  Definition of the frameset argument
      * @param function  Function of the frameset argument
      */
-    public FramesetArgument(String argumentType, String definition, String function) {
+    public FramesetArgument(String argumentType, String definition, String function, String grammaticalCase) {
         this.argumentType = argumentType;
         this.definition = definition;
         this.function = function;
+        this.grammaticalCase = grammaticalCase;
+    }
+
+    /**
+     * Accessor for grammaticalCase.
+     *
+     * @return grammaticalCase.
+     */
+    public String getGrammaticalCase() {
+        return grammaticalCase;
     }
 
     /**
@@ -62,6 +73,15 @@ public class FramesetArgument {
      */
     public void setFunction(String function) {
         this.function = function;
+    }
+
+    /**
+     * Mutator for grammaticalCase.
+     *
+     * @param grammaticalCase to set.
+     */
+    public void setGrammaticalCase(String grammaticalCase) {
+        this.grammaticalCase = grammaticalCase;
     }
 
     /**

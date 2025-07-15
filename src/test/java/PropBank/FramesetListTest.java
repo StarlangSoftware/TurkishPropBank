@@ -29,16 +29,59 @@ public class FramesetListTest {
         assertEquals(29761, count);
     }
 
+    private void updateHashMap(HashMap<String, Integer> map, String value){
+        if (map.containsKey(value)){
+            map.put(value, map.get(value) + 1);
+        } else {
+            map.put(value, 1);
+        }
+    }
+
+    @Test
+    public void testCase() {
+        HashMap<String, Integer> caseList = new HashMap<>();
+        for (int i = 0; i < framesetList.size(); i++){
+            for (FramesetArgument argument : framesetList.getFrameSet(i).getFramesetArguments()){
+                if (!argument.getGrammaticalCase().isEmpty()){
+                    if (argument.getGrammaticalCase().contains("abl")){
+                        updateHashMap(caseList, "abl");
+                    }
+                    if (argument.getGrammaticalCase().contains("acc")){
+                        updateHashMap(caseList, "acc");
+                    }
+                    if (argument.getGrammaticalCase().contains("dat")){
+                        updateHashMap(caseList, "dat");
+                    }
+                    if (argument.getGrammaticalCase().contains("gen")){
+                        updateHashMap(caseList, "gen");
+                    }
+                    if (argument.getGrammaticalCase().contains("ins")){
+                        updateHashMap(caseList, "ins");
+                    }
+                    if (argument.getGrammaticalCase().contains("loc")){
+                        updateHashMap(caseList, "loc");
+                    }
+                    if (argument.getGrammaticalCase().contains("nom")){
+                        updateHashMap(caseList, "nom");
+                    }
+                }
+            }
+        }
+        assertEquals(422, (int) caseList.get("abl"));
+        assertEquals(4690, (int) caseList.get("acc"));
+        assertEquals(2423, (int) caseList.get("dat"));
+        assertEquals(880, (int) caseList.get("gen"));
+        assertEquals(459, (int) caseList.get("ins"));
+        assertEquals(673, (int) caseList.get("loc"));
+        assertEquals(2069, (int) caseList.get("nom"));
+    }
+
     @Test
     public void testArgName() {
         HashMap<String, Integer> nameList = new HashMap<>();
         for (int i = 0; i < framesetList.size(); i++){
             for (FramesetArgument argument : framesetList.getFrameSet(i).getFramesetArguments()){
-                if (nameList.containsKey(argument.getArgumentType())){
-                    nameList.put(argument.getArgumentType(), nameList.get(argument.getArgumentType()) + 1);
-                } else {
-                    nameList.put(argument.getArgumentType(), 1);
-                }
+                updateHashMap(nameList, argument.getArgumentType());
             }
         }
         assertEquals(14669, (int) nameList.get("ARG0"));
@@ -53,11 +96,7 @@ public class FramesetListTest {
         HashMap<String, Integer> functionList = new HashMap<>();
         for (int i = 0; i < framesetList.size(); i++){
             for (FramesetArgument argument : framesetList.getFrameSet(i).getFramesetArguments()){
-                if (functionList.containsKey(argument.getFunction())){
-                    functionList.put(argument.getFunction(), functionList.get(argument.getFunction()) + 1);
-                } else {
-                    functionList.put(argument.getFunction(), 1);
-                }
+                updateHashMap(functionList, argument.getFunction());
             }
         }
         assertEquals(481, (int) functionList.get("com"));
