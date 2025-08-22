@@ -17,7 +17,7 @@ public class FramesetListTest {
 
     @Test
     public void testFrames() {
-        assertEquals(17692, framesetList.size());
+        assertEquals(17531, framesetList.size());
     }
 
     @Test
@@ -26,7 +26,7 @@ public class FramesetListTest {
         for (int i = 0; i < framesetList.size(); i++){
             count += framesetList.getFrameSet(i).getFramesetArguments().size();
         }
-        assertEquals(29761, count);
+        assertEquals(29473, count);
     }
 
     private void updateHashMap(HashMap<String, Integer> map, String value){
@@ -67,13 +67,13 @@ public class FramesetListTest {
                 }
             }
         }
-        assertEquals(422, (int) caseList.get("abl"));
-        assertEquals(4690, (int) caseList.get("acc"));
-        assertEquals(2423, (int) caseList.get("dat"));
-        assertEquals(880, (int) caseList.get("gen"));
-        assertEquals(459, (int) caseList.get("ins"));
-        assertEquals(673, (int) caseList.get("loc"));
-        assertEquals(2069, (int) caseList.get("nom"));
+        assertEquals(418, (int) caseList.get("abl"));
+        assertEquals(4633, (int) caseList.get("acc"));
+        assertEquals(2402, (int) caseList.get("dat"));
+        assertEquals(870, (int) caseList.get("gen"));
+        assertEquals(451, (int) caseList.get("ins"));
+        assertEquals(666, (int) caseList.get("loc"));
+        assertEquals(2049, (int) caseList.get("nom"));
     }
 
     @Test
@@ -84,10 +84,10 @@ public class FramesetListTest {
                 updateHashMap(nameList, argument.getArgumentType());
             }
         }
-        assertEquals(14669, (int) nameList.get("ARG0"));
-        assertEquals(13127, (int) nameList.get("ARG1"));
-        assertEquals(1886, (int) nameList.get("ARG2"));
-        assertEquals(78, (int) nameList.get("ARG3"));
+        assertEquals(14535, (int) nameList.get("ARG0"));
+        assertEquals(12996, (int) nameList.get("ARG1"));
+        assertEquals(1865, (int) nameList.get("ARG2"));
+        assertEquals(76, (int) nameList.get("ARG3"));
         assertEquals(1, (int) nameList.get("ARG4"));
     }
 
@@ -99,17 +99,17 @@ public class FramesetListTest {
                 updateHashMap(functionList, argument.getFunction());
             }
         }
-        assertEquals(481, (int) functionList.get("com"));
+        assertEquals(475, (int) functionList.get("com"));
         assertEquals(14, (int) functionList.get("ext"));
-        assertEquals(814, (int) functionList.get("loc"));
-        assertEquals(198, (int) functionList.get("rec"));
-        assertEquals(14, (int) functionList.get("pat"));
-        assertEquals(10688, (int) functionList.get("ppt"));
-        assertEquals(605, (int) functionList.get("src"));
-        assertEquals(801, (int) functionList.get("gol"));
+        assertEquals(808, (int) functionList.get("loc"));
+        assertEquals(195, (int) functionList.get("rec"));
+        assertEquals(13, (int) functionList.get("pat"));
+        assertEquals(10579, (int) functionList.get("ppt"));
+        assertEquals(597, (int) functionList.get("src"));
+        assertEquals(794, (int) functionList.get("gol"));
         assertEquals(156, (int) functionList.get("tmp"));
-        assertEquals(14558, (int) functionList.get("pag"));
-        assertEquals(1432, (int) functionList.get("dir"));
+        assertEquals(14425, (int) functionList.get("pag"));
+        assertEquals(1417, (int) functionList.get("dir"));
     }
 
 }

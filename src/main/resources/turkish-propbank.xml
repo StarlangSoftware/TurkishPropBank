@@ -46,9 +46,6 @@
 	<FRAMESET id="TUR10-0001870">
 		<ARG name="ARG1" function="ppt">acarlaşan kişi, şey</ARG>
 	</FRAMESET>
-	<FRAMESET id="TUR10-0001960">
-		<ARG name="ARG1" function="ppt">yadırganan şey</ARG>
-	</FRAMESET>
 	<FRAMESET id="TUR10-0002260">
 		<ARG name="ARG1" function="ppt">bocalayan kişi</ARG>
 	</FRAMESET>
@@ -81,10 +78,6 @@
 		<ARG name="ARG1" function="ppt">acıyan şey</ARG>
 	</FRAMESET>
 	<FRAMESET id="TUR10-0003070">
-		<ARG name="ARG0" function="pag">acıyan kişi</ARG>
-		<ARG name="ARG1" function="dir" grammaticalCase="dat">acınan kişi</ARG>
-	</FRAMESET>
-	<FRAMESET id="TUR10-0003080">
 		<ARG name="ARG0" function="pag">acıyan kişi</ARG>
 		<ARG name="ARG1" function="dir" grammaticalCase="dat">acınan kişi</ARG>
 	</FRAMESET>
@@ -994,10 +987,6 @@
 		<ARG name="ARG0" function="pag">benzeyen şey</ARG>
 		<ARG name="ARG1" function="ppt" grammaticalCase="acc,dat">benzetilen şey</ARG>
 	</FRAMESET>
-	<FRAMESET id="TUR10-0036740">
-		<ARG name="ARG0" function="pag">hazırlayan kişi</ARG>
-		<ARG name="ARG1" function="ppt" grammaticalCase="acc">hazırlanan şey</ARG>
-	</FRAMESET>
 	<FRAMESET id="TUR10-0036760">
 		<ARG name="ARG1" function="ppt">hazırlanan kişi</ARG>
 	</FRAMESET>
@@ -1233,9 +1222,6 @@
 	<FRAMESET id="TUR10-0044710">
 		<ARG name="ARG1" function="ppt">arınan şey</ARG>
 	</FRAMESET>
-	<FRAMESET id="TUR10-0044720">
-		<ARG name="ARG1" function="ppt">rahatlayan kişi</ARG>
-	</FRAMESET>
 	<FRAMESET id="TUR10-0044850">
 		<ARG name="ARG0" function="pag">temizleyen</ARG>
 		<ARG name="ARG1" function="ppt" grammaticalCase="acc">temizlenen</ARG>
@@ -1307,11 +1293,6 @@
 	</FRAMESET>
 	<FRAMESET id="TUR10-0048030">
 		<ARG name="ARG1" function="ppt">değerlenen şey</ARG>
-	</FRAMESET>
-	<FRAMESET id="TUR10-0048290">
-		<ARG name="ARG0" function="pag">sunan kişi</ARG>
-		<ARG name="ARG1" function="ppt" grammaticalCase="acc,dat">sunulan şey</ARG>
-		<ARG name="ARG2" function="gol">şeyin sunulduğu kişi</ARG>
 	</FRAMESET>
 	<FRAMESET id="TUR10-0048300">
 		<ARG name="ARG0" function="pag">bildiren kişi</ARG>
@@ -2043,10 +2024,6 @@
 		<ARG name="ARG0" function="pag">İliştiren kişi</ARG>
 		<ARG name="ARG1" function="ppt" grammaticalCase="acc">iliştirilen şey</ARG>
 	</FRAMESET>
-	<FRAMESET id="TUR10-0069750">
-		<ARG name="ARG0" function="pag">düğümleyen kişi</ARG>
-		<ARG name="ARG1" function="ppt" grammaticalCase="acc,nom">düğümlenen şey</ARG>
-	</FRAMESET>
 	<FRAMESET id="TUR10-0069760">
 		<ARG name="ARG0" function="pag">yara saran kişi</ARG>
 		<ARG name="ARG1" function="ppt" grammaticalCase="acc">yara</ARG>
@@ -2479,9 +2456,6 @@
 	<FRAMESET id="TUR10-0085500">
 		<ARG name="ARG0" function="pag">kaybolan şey</ARG>
 	</FRAMESET>
-	<FRAMESET id="TUR10-0085510">
-		<ARG name="ARG0" function="pag">çöken şey</ARG>
-	</FRAMESET>
 	<FRAMESET id="TUR10-0085520">
 		<ARG name="ARG1" function="ppt">daha kötüleşen şey</ARG>
 	</FRAMESET>
@@ -2556,10 +2530,6 @@
 	<FRAMESET id="TUR10-0088280">
 		<ARG name="ARG1" function="ppt">bedavalaşan şey</ARG>
 	</FRAMESET>
-	<FRAMESET id="TUR10-0088330">
-		<ARG name="ARG0" function="pag">üzen kişi</ARG>
-		<ARG name="ARG1" function="ppt" grammaticalCase="acc,gen">üzülen kişi</ARG>
-	</FRAMESET>
 	<FRAMESET id="TUR10-0088380">
 		<ARG name="ARG0" function="pag">kötümser olan kişi</ARG>
 	</FRAMESET>
@@ -2591,10 +2561,6 @@
 	<FRAMESET id="TUR10-0089630">
 		<ARG name="ARG0" function="pag">bekleyen kişi</ARG>
 		<ARG name="ARG1" function="ppt" grammaticalCase="acc">beklenen şey</ARG>
-	</FRAMESET>
-	<FRAMESET id="TUR10-0089650">
-		<ARG name="ARG0" function="pag">uman kişi</ARG>
-		<ARG name="ARG1" function="ppt" grammaticalCase="acc,abl">umulan şey</ARG>
 	</FRAMESET>
 	<FRAMESET id="TUR10-0089660">
 		<ARG name="ARG0" function="pag">bekleyen kişi</ARG>
@@ -3038,10 +3004,6 @@
 		<ARG name="ARG0" function="pag">Sorumlu tutan kişi</ARG>
 		<ARG name="ARG1" function="ppt" grammaticalCase="acc">sorumlu tutulan kişi</ARG>
 		<ARG name="ARG2" function="ppt">sorumlu tutulduğu şey</ARG>
-	</FRAMESET>
-	<FRAMESET id="TUR10-0104570">
-		<ARG name="ARG0" function="pag">inanan kişi</ARG>
-		<ARG name="ARG1" function="ppt" grammaticalCase="acc">inanılan şey</ARG>
 	</FRAMESET>
 	<FRAMESET id="TUR10-0104580">
 		<ARG name="ARG1" function="ppt">işine gelen şey</ARG>
@@ -3821,10 +3783,6 @@
 		<ARG name="ARG0" function="pag">iplik eğiren kişi</ARG>
 		<ARG name="ARG1" function="ppt" grammaticalCase="nom">eğrilen iplik</ARG>
 	</FRAMESET>
-	<FRAMESET id="TUR10-0127610">
-		<ARG name="ARG0" function="pag">yönelen kişi</ARG>
-		<ARG name="ARG1" function="ppt" grammaticalCase="dat">yönelinen şey</ARG>
-	</FRAMESET>
 	<FRAMESET id="TUR10-0127740">
 		<ARG name="ARG0" function="pag">kıvranan kişi</ARG>
 	</FRAMESET>
@@ -4065,10 +4023,6 @@
 	</FRAMESET>
 	<FRAMESET id="TUR10-0138740">
 		<ARG name="ARG0" function="pag">cırlayan şey</ARG>
-	</FRAMESET>
-	<FRAMESET id="TUR10-0138800">
-		<ARG name="ARG0" function="pag">cırmayalan kişi</ARG>
-		<ARG name="ARG1" function="ppt" grammaticalCase="acc,nom">cırmalanan şey</ARG>
 	</FRAMESET>
 	<FRAMESET id="TUR10-0138900">
 		<ARG name="ARG1" function="ppt">cırtlayan şey</ARG>
@@ -4709,9 +4663,6 @@
 		<ARG name="ARG0" function="pag">çekilen kişi</ARG>
 		<ARG name="ARG1" function="dir" grammaticalCase="dat">çekildiği yön</ARG>
 	</FRAMESET>
-	<FRAMESET id="TUR10-0156310">
-		<ARG name="ARG1" function="ppt">azalan şey</ARG>
-	</FRAMESET>
 	<FRAMESET id="TUR10-0156330">
 		<ARG name="ARG0" function="pag">bir yere geçen kişi</ARG>
 		<ARG name="ARG1" function="loc" grammaticalCase="dat">geçilen yer</ARG>
@@ -4911,10 +4862,6 @@
 		<ARG name="ARG0" function="pag">çeviren kişi</ARG>
 		<ARG name="ARG1" function="ppt" grammaticalCase="acc,nom">çevrilen kişi</ARG>
 	</FRAMESET>
-	<FRAMESET id="TUR10-0161290">
-		<ARG name="ARG0" function="pag">çeviren kişi</ARG>
-		<ARG name="ARG1" function="ppt" grammaticalCase="acc,nom">çevrilen şey</ARG>
-	</FRAMESET>
 	<FRAMESET id="TUR10-0161300">
 		<ARG name="ARG0" function="pag">çeviren kişi</ARG>
 		<ARG name="ARG1" function="ppt" grammaticalCase="acc,nom">çevrilen şey</ARG>
@@ -4928,10 +4875,6 @@
 	<FRAMESET id="TUR10-0161330">
 		<ARG name="ARG0" function="pag">saran kişi</ARG>
 		<ARG name="ARG1" function="ppt" grammaticalCase="acc">sarılan şey</ARG>
-	</FRAMESET>
-	<FRAMESET id="TUR10-0161340">
-		<ARG name="ARG0" function="pag">dönüştüren kişi</ARG>
-		<ARG name="ARG1" function="ppt" grammaticalCase="acc,nom">dönüştürülen şey</ARG>
 	</FRAMESET>
 	<FRAMESET id="TUR10-0161350">
 		<ARG name="ARG0" function="pag">çeviren kişi</ARG>
@@ -5022,10 +4965,6 @@
 	<FRAMESET id="TUR10-0163040">
 		<ARG name="ARG0" function="pag">yapan kişi</ARG>
 		<ARG name="ARG1" function="ppt" grammaticalCase="nom">yapılan şey</ARG>
-	</FRAMESET>
-	<FRAMESET id="TUR10-0163060">
-		<ARG name="ARG0" function="pag">gösteren kişi</ARG>
-		<ARG name="ARG1" function="ppt" grammaticalCase="acc,nom">gösterilen şey</ARG>
 	</FRAMESET>
 	<FRAMESET id="TUR10-0163070">
 		<ARG name="ARG0" function="pag">örneğe göre yapan kişi</ARG>
@@ -5649,10 +5588,6 @@
 		<ARG name="ARG0" function="pag">dağlayan şey</ARG>
 		<ARG name="ARG1" function="ppt" grammaticalCase="acc,nom">dağlanan şey</ARG>
 	</FRAMESET>
-	<FRAMESET id="TUR10-0179120">
-		<ARG name="ARG0" function="pag">sataşan kişi</ARG>
-		<ARG name="ARG1" function="ppt">sataşılan kişi</ARG>
-	</FRAMESET>
 	<FRAMESET id="TUR10-0179130">
 		<ARG name="ARG0" function="pag">karışan kişi</ARG>
 		<ARG name="ARG1" function="dir" grammaticalCase="dat">karışılan kişi</ARG>
@@ -5760,9 +5695,6 @@
 	</FRAMESET>
 	<FRAMESET id="TUR10-0183300">
 		<ARG name="ARG0" function="pag">dans eden kişi, dansçı</ARG>
-	</FRAMESET>
-	<FRAMESET id="TUR10-0183650">
-		<ARG name="ARG1" function="ppt">daralan şey</ARG>
 	</FRAMESET>
 	<FRAMESET id="TUR10-0183670">
 		<ARG name="ARG1" function="ppt">zayıflayan kişi</ARG>
@@ -6141,10 +6073,6 @@
 		<ARG name="ARG0" function="pag">toplayan kişi</ARG>
 		<ARG name="ARG1" function="ppt" grammaticalCase="acc">toplanan şeyler</ARG>
 	</FRAMESET>
-	<FRAMESET id="TUR10-0195620">
-		<ARG name="ARG0" function="pag">yazan kişi, yazar</ARG>
-		<ARG name="ARG1" function="ppt" grammaticalCase="acc">yazılan şey</ARG>
-	</FRAMESET>
 	<FRAMESET id="TUR10-0195860">
 		<ARG name="ARG0" function="pag">dereceleyen kişi, şey</ARG>
 		<ARG name="ARG1" function="ppt" grammaticalCase="acc">derecelenen şey</ARG>
@@ -6282,10 +6210,6 @@
 	<FRAMESET id="TUR10-0202110">
 		<ARG name="ARG0" function="pag">görmezden gelen kişi</ARG>
 		<ARG name="ARG1" function="ppt" grammaticalCase="acc,nom">görmezden gelinen kişi</ARG>
-	</FRAMESET>
-	<FRAMESET id="TUR10-0202160">
-		<ARG name="ARG0" function="pag">belli eden kişi</ARG>
-		<ARG name="ARG1" function="ppt" grammaticalCase="acc">belli edilen şey</ARG>
 	</FRAMESET>
 	<FRAMESET id="TUR10-0202470">
 		<ARG name="ARG0" function="pag">dolandırıcı</ARG>
@@ -7036,11 +6960,6 @@
 	<FRAMESET id="TUR10-0220490">
 		<ARG name="ARG0" function="pag">dökülen şey</ARG>
 	</FRAMESET>
-	<FRAMESET id="TUR10-0220500">
-		<ARG name="ARG1" function="ppt">düşen kişi</ARG>
-		<ARG name="ARG2" function="src">düştüğü yer</ARG>
-		<ARG name="ARG3" function="dir">düşülen yer</ARG>
-	</FRAMESET>
 	<FRAMESET id="TUR10-0220510">
 		<ARG name="ARG1" function="ppt">meydana gelen şey</ARG>
 	</FRAMESET>
@@ -7413,10 +7332,6 @@
 	<FRAMESET id="TUR10-0231190">
 		<ARG name="ARG0" function="pag">düşünen kişi</ARG>
 		<ARG name="ARG1" function="ppt" grammaticalCase="acc,nom">düşünülen şey</ARG>
-	</FRAMESET>
-	<FRAMESET id="TUR10-0231200">
-		<ARG name="ARG0" function="pag">planlayan kişi</ARG>
-		<ARG name="ARG1" function="ppt" grammaticalCase="acc">planlanan şey</ARG>
 	</FRAMESET>
 	<FRAMESET id="TUR10-0231210">
 		<ARG name="ARG0" function="pag">tasalanan kişi</ARG>
@@ -7999,9 +7914,6 @@
 		<ARG name="ARG0" function="pag">eşleme işini yapan kişi</ARG>
 		<ARG name="ARG1" function="com" grammaticalCase="acc">ses, görüntü</ARG>
 	</FRAMESET>
-	<FRAMESET id="TUR10-0256420">
-		<ARG name="ARG0" function="rec">çiftleşen hayvanlar</ARG>
-	</FRAMESET>
 	<FRAMESET id="TUR10-0256490">
 		<ARG name="ARG0" function="pag">eşlik eden müzisyen</ARG>
 		<ARG name="ARG1" function="dir" grammaticalCase="dat">eşlik edilen müzisyen, orkestra</ARG>
@@ -8451,11 +8363,6 @@
 	<FRAMESET id="TUR10-0275810">
 		<ARG name="ARG0" function="pag">ateşleyen kişi</ARG>
 		<ARG name="ARG1" function="ppt" grammaticalCase="acc,nom">ateşlenen fişek, dinamit gibi maddeler</ARG>
-	</FRAMESET>
-	<FRAMESET id="TUR10-0275910">
-		<ARG name="ARG0" function="pag">kışkırtan kişi</ARG>
-		<ARG name="ARG1" function="ppt" grammaticalCase="acc">kışkırtılan kişi</ARG>
-		<ARG name="ARG2" function="dir">kendisine karşı kışkırtılan kişi</ARG>
 	</FRAMESET>
 	<FRAMESET id="TUR10-0276010">
 		<ARG name="ARG0" function="pag">gammazlayan kişi</ARG>
@@ -9643,9 +9550,6 @@
 		<ARG name="ARG0" function="pag">gözlemci</ARG>
 		<ARG name="ARG1" function="ppt" grammaticalCase="acc,nom">gözlemlenen şey</ARG>
 	</FRAMESET>
-	<FRAMESET id="TUR10-0310030">
-		<ARG name="ARG0" function="pag">görünen şey</ARG>
-	</FRAMESET>
 	<FRAMESET id="TUR10-0311020">
 		<ARG name="ARG0" function="pag">ayıran kişi</ARG>
 		<ARG name="ARG1" function="ppt" grammaticalCase="acc,nom">ayrılan şey</ARG>
@@ -10017,9 +9921,6 @@
 	<FRAMESET id="TUR10-0328250">
 		<ARG name="ARG0" function="pag">hareket eden kişi</ARG>
 	</FRAMESET>
-	<FRAMESET id="TUR10-0328260">
-		<ARG name="ARG0" function="pag">belli bir davranış sergileyen kişi</ARG>
-	</FRAMESET>
 	<FRAMESET id="TUR10-0328270">
 		<ARG name="ARG1" function="ppt">devinen şey</ARG>
 	</FRAMESET>
@@ -10038,10 +9939,6 @@
 	</FRAMESET>
 	<FRAMESET id="TUR10-0328740">
 		<ARG name="ARG1" function="ppt">yanan şey</ARG>
-	</FRAMESET>
-	<FRAMESET id="TUR10-0328750">
-		<ARG name="ARG0" function="pag">çalışan kişi</ARG>
-		<ARG name="ARG1" function="dir" grammaticalCase="dat,gen">çalışılan şey</ARG>
 	</FRAMESET>
 	<FRAMESET id="TUR10-0328950">
 		<ARG name="ARG1" function="ppt">hariç tutulan şey</ARG>
@@ -10412,9 +10309,6 @@
 		<ARG name="ARG0" function="pag">hidrojenleyen kişi</ARG>
 		<ARG name="ARG1" function="ppt" grammaticalCase="acc">hidrojenlenen şey</ARG>
 	</FRAMESET>
-	<FRAMESET id="TUR10-0344510">
-		<ARG name="ARG0" function="pag">anlatan kişi, anlatıcı</ARG>
-	</FRAMESET>
 	<FRAMESET id="TUR10-0344530">
 		<ARG name="ARG0" function="pag">hikayeleştiren kişi</ARG>
 		<ARG name="ARG1" function="ppt" grammaticalCase="acc">hikayeleştirilen şey</ARG>
@@ -10697,9 +10591,6 @@
 		<ARG name="ARG0" function="pag">bir işin yapılmasına, bırakılmasına, o işten vazgeçilmesini isteyen kiş</ARG>
 		<ARG name="ARG1" function="ppt" grammaticalCase="acc">istenen şey</ARG>
 		<ARG name="ARG2" function="src">istenilen kişi</ARG>
-	</FRAMESET>
-	<FRAMESET id="TUR10-0355190">
-		<ARG name="ARG1" function="ppt">ıssızlaşan yer</ARG>
 	</FRAMESET>
 	<FRAMESET id="TUR10-0355310">
 		<ARG name="ARG0" function="pag">ıstampalayan kişi</ARG>
@@ -11060,10 +10951,6 @@
 		<ARG name="ARG0" function="pag">indirgeyen kişi</ARG>
 		<ARG name="ARG1" function="ppt" grammaticalCase="acc">indirgenen şey</ARG>
 	</FRAMESET>
-	<FRAMESET id="TUR10-0374180">
-		<ARG name="ARG0" function="pag">kapayan kişi</ARG>
-		<ARG name="ARG1" function="ppt" grammaticalCase="acc">kapanan şey</ARG>
-	</FRAMESET>
 	<FRAMESET id="TUR10-0374190">
 		<ARG name="ARG1" function="ppt">bastıran yağmur</ARG>
 	</FRAMESET>
@@ -11184,9 +11071,6 @@
 	<FRAMESET id="TUR10-0378850">
 		<ARG name="ARG0" function="pag">irkilen şey</ARG>
 	</FRAMESET>
-	<FRAMESET id="TUR10-0378930">
-		<ARG name="ARG0" function="pag">biriken şey</ARG>
-	</FRAMESET>
 	<FRAMESET id="TUR10-0380510">
 		<ARG name="ARG1" function="ppt">müslüman olan kişi</ARG>
 	</FRAMESET>
@@ -11195,10 +11079,6 @@
 		<ARG name="ARG1" function="ppt" grammaticalCase="acc">islenen şey</ARG>
 	</FRAMESET>
 	<FRAMESET id="TUR10-0381030">
-		<ARG name="ARG0" function="pag">ispatlayan kişi</ARG>
-		<ARG name="ARG1" function="ppt" grammaticalCase="acc">ispatlanan şey</ARG>
-	</FRAMESET>
-	<FRAMESET id="TUR10-0381040">
 		<ARG name="ARG0" function="pag">ispatlayan kişi</ARG>
 		<ARG name="ARG1" function="ppt" grammaticalCase="acc">ispatlanan şey</ARG>
 	</FRAMESET>
@@ -11237,10 +11117,6 @@
 	<FRAMESET id="TUR10-0383300">
 		<ARG name="ARG0" function="pag">kamulaştıran kişi</ARG>
 		<ARG name="ARG1" function="ppt" grammaticalCase="acc">kamulaştırılan şey</ARG>
-	</FRAMESET>
-	<FRAMESET id="TUR10-0383500">
-		<ARG name="ARG0" function="pag">sonuç çıkaran kişi</ARG>
-		<ARG name="ARG1" function="src" grammaticalCase="nom">sonuç çıkarılan şey</ARG>
 	</FRAMESET>
 	<FRAMESET id="TUR10-0384230">
 		<ARG name="ARG0" function="pag">belirten kişi</ARG>
@@ -11577,10 +11453,6 @@
 	<FRAMESET id="TUR10-0395760">
 		<ARG name="ARG0" function="pag">ipi kopan şey</ARG>
 	</FRAMESET>
-	<FRAMESET id="TUR10-0395770">
-		<ARG name="ARG0" function="pag">giren şey</ARG>
-		<ARG name="ARG1" function="dir" grammaticalCase="dat">girdiği yer</ARG>
-	</FRAMESET>
 	<FRAMESET id="TUR10-0395780">
 		<ARG name="ARG1" function="ppt">Kaçan şey</ARG>
 	</FRAMESET>
@@ -11645,9 +11517,6 @@
 	</FRAMESET>
 	<FRAMESET id="TUR10-0398860">
 		<ARG name="ARG0" function="pag">hareket eden şey</ARG>
-	</FRAMESET>
-	<FRAMESET id="TUR10-0398870">
-		<ARG name="ARG0" function="pag">ihtiyarlayan kişi</ARG>
 	</FRAMESET>
 	<FRAMESET id="TUR10-0399190">
 		<ARG name="ARG1" function="ppt">kahpeleşen kişi</ARG>
@@ -12637,10 +12506,6 @@
 		<ARG name="ARG0" function="pag">zor duruma sokan kişi</ARG>
 		<ARG name="ARG1" function="ppt" grammaticalCase="acc">zor duruma soktuğu şey</ARG>
 	</FRAMESET>
-	<FRAMESET id="TUR10-0428950">
-		<ARG name="ARG0" function="pag">zarar veren kişi</ARG>
-		<ARG name="ARG1" function="ppt" grammaticalCase="acc">zarar verdiği şey</ARG>
-	</FRAMESET>
 	<FRAMESET id="TUR10-0429070">
 		<ARG name="ARG0" function="pag">katan kişi</ARG>
 		<ARG name="ARG1" function="ppt" grammaticalCase="nom">kattığı şey</ARG>
@@ -12724,10 +12589,6 @@
 		<ARG name="ARG0" function="pag">kavrayan kişi</ARG>
 		<ARG name="ARG1" function="ppt" grammaticalCase="acc">kavradığı şey</ARG>
 	</FRAMESET>
-	<FRAMESET id="TUR10-0431780">
-		<ARG name="ARG0" function="pag">koruyan kişi</ARG>
-		<ARG name="ARG1" function="gol" grammaticalCase="acc">koruduğu şey</ARG>
-	</FRAMESET>
 	<FRAMESET id="TUR10-0432100">
 		<ARG name="ARG0" function="pag">kayarlayan kişi</ARG>
 		<ARG name="ARG1" function="ppt" grammaticalCase="acc">kayarlanan şey</ARG>
@@ -12743,9 +12604,6 @@
 	<FRAMESET id="TUR10-0432250">
 		<ARG name="ARG0" function="pag">kaybeden kişi</ARG>
 		<ARG name="ARG1" function="ppt" grammaticalCase="acc">kaybettiği kişi</ARG>
-	</FRAMESET>
-	<FRAMESET id="TUR10-0432270">
-		<ARG name="ARG0" function="pag">kaybolan şey</ARG>
 	</FRAMESET>
 	<FRAMESET id="TUR10-0432280">
 		<ARG name="ARG0" function="pag">görünmez olan şey</ARG>
@@ -13532,10 +13390,6 @@
 		<ARG name="ARG0" function="pag">kıskaçlayan şey</ARG>
 		<ARG name="ARG1" function="ppt" grammaticalCase="acc">kıskaçladığı şey</ARG>
 	</FRAMESET>
-	<FRAMESET id="TUR10-0454390">
-		<ARG name="ARG0" function="pag">kıskanan kişi</ARG>
-		<ARG name="ARG1" function="ppt" grammaticalCase="acc">kıskandığı şey</ARG>
-	</FRAMESET>
 	<FRAMESET id="TUR10-0454460">
 		<ARG name="ARG0" function="pag">kıskanan kişi</ARG>
 		<ARG name="ARG1" function="ppt" grammaticalCase="acc">kıskandığı şey</ARG>
@@ -13733,10 +13587,6 @@
 		<ARG name="ARG0" function="pag">kızartan kişi</ARG>
 		<ARG name="ARG1" function="ppt" grammaticalCase="acc">kızarttığı şey</ARG>
 	</FRAMESET>
-	<FRAMESET id="TUR10-0458750">
-		<ARG name="ARG0" function="pag">kızartan kişi</ARG>
-		<ARG name="ARG1" function="ppt" grammaticalCase="acc">kızarttığı şey</ARG>
-	</FRAMESET>
 	<FRAMESET id="TUR10-0458840">
 		<ARG name="ARG0" function="pag">kızgınlaşan kişi</ARG>
 	</FRAMESET>
@@ -13746,16 +13596,10 @@
 	<FRAMESET id="TUR10-0459500">
 		<ARG name="ARG0" function="pag">kızışan şey</ARG>
 	</FRAMESET>
-	<FRAMESET id="TUR10-0459510">
-		<ARG name="ARG0" function="pag">kızışan şey</ARG>
-	</FRAMESET>
 	<FRAMESET id="TUR10-0459530">
 		<ARG name="ARG0" function="pag">kızışan şey</ARG>
 	</FRAMESET>
 	<FRAMESET id="TUR10-0459740">
-		<ARG name="ARG0" function="pag">kızan şey</ARG>
-	</FRAMESET>
-	<FRAMESET id="TUR10-0459750">
 		<ARG name="ARG0" function="pag">kızan şey</ARG>
 	</FRAMESET>
 	<FRAMESET id="TUR10-0459760">
@@ -14292,10 +14136,6 @@
 	<FRAMESET id="TUR10-0478760">
 		<ARG name="ARG0" function="pag">kovan kişi</ARG>
 		<ARG name="ARG1" function="ppt" grammaticalCase="acc">kovduğu kişi</ARG>
-	</FRAMESET>
-	<FRAMESET id="TUR10-0478770">
-		<ARG name="ARG0" function="pag">gözeten kişi</ARG>
-		<ARG name="ARG1" function="ppt" grammaticalCase="acc,nom">gözettiği kişi</ARG>
 	</FRAMESET>
 	<FRAMESET id="TUR10-0478990">
 		<ARG name="ARG0" function="pag">koyan kişi</ARG>
@@ -15461,9 +15301,6 @@
 		<ARG name="ARG0" function="pag">melezleşen şey</ARG>
 		<ARG name="ARG1" function="ppt" grammaticalCase="ins">melezleştiği şey</ARG>
 	</FRAMESET>
-	<FRAMESET id="TUR10-0533790">
-		<ARG name="ARG1" function="ppt">yabancılaşan kişi</ARG>
-	</FRAMESET>
 	<FRAMESET id="TUR10-0534970">
 		<ARG name="ARG0" function="pag">menevişleyen şey</ARG>
 	</FRAMESET>
@@ -15526,10 +15363,6 @@
 	</FRAMESET>
 	<FRAMESET id="TUR10-0541110">
 		<ARG name="ARG0" function="pag">mevzilenen kişi</ARG>
-	</FRAMESET>
-	<FRAMESET id="TUR10-0541650">
-		<ARG name="ARG0" function="pag">meyleden kişi</ARG>
-		<ARG name="ARG1" function="ppt" grammaticalCase="acc">meylettiği şey</ARG>
 	</FRAMESET>
 	<FRAMESET id="TUR10-0541660">
 		<ARG name="ARG0" function="pag">gönül veren kişi</ARG>
@@ -15680,10 +15513,6 @@
 	<FRAMESET id="TUR10-0553810">
 		<ARG name="ARG0" function="pag">muhatap olan kişi</ARG>
 		<ARG name="ARG1" function="dir" grammaticalCase="dat">muhatap olduğu kişi</ARG>
-	</FRAMESET>
-	<FRAMESET id="TUR10-0553820">
-		<ARG name="ARG0" function="pag">karşılaşan kişi</ARG>
-		<ARG name="ARG1" function="dir" grammaticalCase="ins">karşılaştığı kişi</ARG>
 	</FRAMESET>
 	<FRAMESET id="TUR10-0555580">
 		<ARG name="ARG0" function="pag">mumlayan kişi</ARG>
@@ -16163,10 +15992,6 @@
 	<FRAMESET id="TUR10-0584980">
 		<ARG name="ARG1" function="ppt">olağanlaşan şey</ARG>
 	</FRAMESET>
-	<FRAMESET id="TUR10-0585470">
-		<ARG name="ARG0" function="pag">olduran kişi</ARG>
-		<ARG name="ARG1" function="ppt" grammaticalCase="acc">oldurduğu şey</ARG>
-	</FRAMESET>
 	<FRAMESET id="TUR10-0585480">
 		<ARG name="ARG0" function="pag">pişiren kişi</ARG>
 		<ARG name="ARG1" function="ppt" grammaticalCase="acc">pişirdiği şey</ARG>
@@ -16352,10 +16177,6 @@
 	</FRAMESET>
 	<FRAMESET id="TUR10-0594930">
 		<ARG name="ARG0" function="pag">bir durumda kalan kişi</ARG>
-	</FRAMESET>
-	<FRAMESET id="TUR10-0594940">
-		<ARG name="ARG0" function="pag">mal olan şey</ARG>
-		<ARG name="ARG1" function="gol" grammaticalCase="dat">mal olduğu kişi</ARG>
 	</FRAMESET>
 	<FRAMESET id="TUR10-0595130">
 		<ARG name="ARG0" function="pag">yatışan şey</ARG>
@@ -16962,10 +16783,6 @@
 		<ARG name="ARG0" function="pag">özümleyen kişi</ARG>
 		<ARG name="ARG1" function="ppt" grammaticalCase="acc">özümlediği şey</ARG>
 	</FRAMESET>
-	<FRAMESET id="TUR10-0609780">
-		<ARG name="ARG0" function="pag">özümseyen kşi</ARG>
-		<ARG name="ARG1" function="ppt" grammaticalCase="acc">özümsediği şey</ARG>
-	</FRAMESET>
 	<FRAMESET id="TUR10-0610390">
 		<ARG name="ARG1" function="ppt">paçavralaşan şey</ARG>
 	</FRAMESET>
@@ -17022,10 +16839,6 @@
 	<FRAMESET id="TUR10-0613840">
 		<ARG name="ARG0" function="pag">paraflayan kişi</ARG>
 		<ARG name="ARG1" function="ppt" grammaticalCase="acc">parafladığı şey</ARG>
-	</FRAMESET>
-	<FRAMESET id="TUR10-0613980">
-		<ARG name="ARG0" function="pag">paralayan kişi</ARG>
-		<ARG name="ARG1" function="ppt" grammaticalCase="acc">paraladığı şey</ARG>
 	</FRAMESET>
 	<FRAMESET id="TUR10-0613990">
 		<ARG name="ARG0" function="pag">paralayan kişi</ARG>
@@ -17633,9 +17446,6 @@
 	<FRAMESET id="TUR10-0641260">
 		<ARG name="ARG1" function="ppt">rahatlayan </ARG>
 	</FRAMESET>
-	<FRAMESET id="TUR10-0641290">
-		<ARG name="ARG0" function="pag">Sakinleşen</ARG>
-	</FRAMESET>
 	<FRAMESET id="TUR10-0641340">
 		<ARG name="ARG1" function="ppt">rahat olan </ARG>
 	</FRAMESET>
@@ -17684,10 +17494,6 @@
 	<FRAMESET id="TUR10-0644000">
 		<ARG name="ARG0" function="pag">Yalanlayan</ARG>
 		<ARG name="ARG1" function="ppt" grammaticalCase="acc">Yalanlanan</ARG>
-	</FRAMESET>
-	<FRAMESET id="TUR10-0644020">
-		<ARG name="ARG0" function="pag">Kusan</ARG>
-		<ARG name="ARG1" function="ppt" grammaticalCase="acc,nom">Kusulan</ARG>
 	</FRAMESET>
 	<FRAMESET id="TUR10-0644250">
 		<ARG name="ARG0" function="pag">Eşlik eden </ARG>
@@ -18097,10 +17903,6 @@
 	<FRAMESET id="TUR10-0660740">
 		<ARG name="ARG0" function="pag">sallayan kişi</ARG>
 		<ARG name="ARG1" function="ppt" grammaticalCase="acc">salladığı şey</ARG>
-	</FRAMESET>
-	<FRAMESET id="TUR10-0660760">
-		<ARG name="ARG0" function="pag">sarsan kişi</ARG>
-		<ARG name="ARG1" function="ppt">sarstığı şey</ARG>
 	</FRAMESET>
 	<FRAMESET id="TUR10-0660770">
 		<ARG name="ARG0" function="pag">başaran kişi</ARG>
@@ -18600,9 +18402,6 @@
 	<FRAMESET id="TUR10-0676300">
 		<ARG name="ARG1" function="ppt">semizlenen kişi</ARG>
 	</FRAMESET>
-	<FRAMESET id="TUR10-0676320">
-		<ARG name="ARG1" function="ppt">semizleşen kişi</ARG>
-	</FRAMESET>
 	<FRAMESET id="TUR10-0676630">
 		<ARG name="ARG0" function="pag">sendeleyen kişi</ARG>
 		<ARG name="ARG1" function="loc" grammaticalCase="dat">sendelediği yer</ARG>
@@ -18778,10 +18577,6 @@
 		<ARG name="ARG0" function="pag">seven kişi</ARG>
 		<ARG name="ARG1" function="ppt">sevdiği kişi</ARG>
 	</FRAMESET>
-	<FRAMESET id="TUR10-0682570">
-		<ARG name="ARG0" function="pag">okşayan kişi</ARG>
-		<ARG name="ARG1" function="ppt" grammaticalCase="acc">okşadığı şey</ARG>
-	</FRAMESET>
 	<FRAMESET id="TUR10-0682580">
 		<ARG name="ARG0" function="pag">uygun bulan kişi</ARG>
 		<ARG name="ARG1" function="ppt" grammaticalCase="acc">uygun bulduğu şey</ARG>
@@ -18947,10 +18742,6 @@
 	<FRAMESET id="TUR10-0686280">
 		<ARG name="ARG0" function="pag">tutuşturan kişi</ARG>
 		<ARG name="ARG1" function="ppt" grammaticalCase="acc">tutuşturulan şey</ARG>
-	</FRAMESET>
-	<FRAMESET id="TUR10-0686300">
-		<ARG name="ARG0" function="pag">zorlayan kişi</ARG>
-		<ARG name="ARG1" function="ppt" grammaticalCase="acc,dat">zorladığı şey</ARG>
 	</FRAMESET>
 	<FRAMESET id="TUR10-0686390">
 		<ARG name="ARG1" function="ppt">sıklaşan şey</ARG>
@@ -19512,10 +19303,6 @@
 		<ARG name="ARG0" function="pag">sondalayan kişi</ARG>
 		<ARG name="ARG1" function="ppt" grammaticalCase="acc">sondaladığı şey</ARG>
 	</FRAMESET>
-	<FRAMESET id="TUR10-0702360">
-		<ARG name="ARG0" function="pag">sonlandıran kişi</ARG>
-		<ARG name="ARG1" function="ppt" grammaticalCase="acc">sonlandırdığı şey</ARG>
-	</FRAMESET>
 	<FRAMESET id="TUR10-0702700">
 		<ARG name="ARG1" function="ppt">ölümsüzleşen kişi</ARG>
 	</FRAMESET>
@@ -20069,10 +19856,6 @@
 		<ARG name="ARG0" function="pag">dolaşan gemi</ARG>
 		<ARG name="ARG1" function="loc" grammaticalCase="dat">dolaştığı yer</ARG>
 	</FRAMESET>
-	<FRAMESET id="TUR10-0718360">
-		<ARG name="ARG1" function="ppt">sürülen kişi</ARG>
-		<ARG name="ARG2" function="loc">sürüldüğü yer</ARG>
-	</FRAMESET>
 	<FRAMESET id="TUR10-0718420">
 		<ARG name="ARG0" function="pag">sürüyen kişi</ARG>
 		<ARG name="ARG1" function="ppt" grammaticalCase="acc">sürüdüğü şey</ARG>
@@ -20151,9 +19934,6 @@
 	<FRAMESET id="TUR10-0720430">
 		<ARG name="ARG0" function="pag">bakan kişi</ARG>
 		<ARG name="ARG1" function="dir" grammaticalCase="acc">baktığı şey</ARG>
-	</FRAMESET>
-	<FRAMESET id="TUR10-0720520">
-		<ARG name="ARG1" function="ppt">süzülen şey</ARG>
 	</FRAMESET>
 	<FRAMESET id="TUR10-0720530">
 		<ARG name="ARG0" function="pag">süzülen kuş</ARG>
@@ -21783,9 +21563,6 @@
 	<FRAMESET id="TUR10-0778110">
 		<ARG name="ARG0" function="pag">titizlenen kişi</ARG>
 	</FRAMESET>
-	<FRAMESET id="TUR10-0778140">
-		<ARG name="ARG0" function="pag">titizlenen kişi</ARG>
-	</FRAMESET>
 	<FRAMESET id="TUR10-0778210">
 		<ARG name="ARG1" function="ppt">titrekleşen kişi</ARG>
 	</FRAMESET>
@@ -22002,9 +21779,6 @@
 	<FRAMESET id="TUR10-0783610">
 		<ARG name="ARG0" function="pag">torpilleyen kişi</ARG>
 		<ARG name="ARG1" function="ppt" grammaticalCase="acc">torpillediği şey</ARG>
-	</FRAMESET>
-	<FRAMESET id="TUR10-0783620">
-		<ARG name="ARG0" function="pag">sınıfta kalan kişi</ARG>
 	</FRAMESET>
 	<FRAMESET id="TUR10-0783700">
 		<ARG name="ARG1" function="ppt">tortop olan şey</ARG>
@@ -22543,10 +22317,6 @@
 	<FRAMESET id="TUR10-0794870">
 		<ARG name="ARG0" function="pag">para sahibi olan kişi</ARG>
 	</FRAMESET>
-	<FRAMESET id="TUR10-0794930">
-		<ARG name="ARG0" function="pag">kaçan kişi</ARG>
-		<ARG name="ARG1" function="src" grammaticalCase="abl">kaçılan yer</ARG>
-	</FRAMESET>
 	<FRAMESET id="TUR10-0795290">
 		<ARG name="ARG1" function="ppt">ucuzlayan şey</ARG>
 	</FRAMESET>
@@ -22994,10 +22764,6 @@
 		<ARG name="ARG1" function="ppt" grammaticalCase="acc,dat">uzattığı şey</ARG>
 		<ARG name="ARG2" function="gol">uzatılan kişi</ARG>
 	</FRAMESET>
-	<FRAMESET id="TUR10-0804750">
-		<ARG name="ARG0" function="pag">geren kişi</ARG>
-		<ARG name="ARG1" function="ppt" grammaticalCase="acc,nom">gerdiği şey</ARG>
-	</FRAMESET>
 	<FRAMESET id="TUR10-0804760">
 		<ARG name="ARG0" function="pag">uzatan kişi</ARG>
 	</FRAMESET>
@@ -23090,10 +22856,6 @@
 	<FRAMESET id="TUR10-0808910">
 		<ARG name="ARG1" function="ppt">ürken ağaç</ARG>
 	</FRAMESET>
-	<FRAMESET id="TUR10-0808920">
-		<ARG name="ARG0" function="pag">ürken kişi</ARG>
-		<ARG name="ARG1" function="ppt" grammaticalCase="abl">ürktüğü şey</ARG>
-	</FRAMESET>
 	<FRAMESET id="TUR10-0809020">
 		<ARG name="ARG0" function="pag">ürküten kişi</ARG>
 		<ARG name="ARG1" function="ppt" grammaticalCase="acc,dat">ürkütülen kişi</ARG>
@@ -23105,10 +22867,6 @@
 	<FRAMESET id="TUR10-0809180">
 		<ARG name="ARG0" function="pag">ürperen kişi</ARG>
 		<ARG name="ARG1" function="ppt" grammaticalCase="nom,abl">ürperdiği şey</ARG>
-	</FRAMESET>
-	<FRAMESET id="TUR10-0809190">
-		<ARG name="ARG0" function="pag">korkan kişi</ARG>
-		<ARG name="ARG1" function="src" grammaticalCase="nom,ins">korktuğu şey</ARG>
 	</FRAMESET>
 	<FRAMESET id="TUR10-0809270">
 		<ARG name="ARG0" function="pag">havlayan köpek</ARG>
@@ -23609,10 +23367,6 @@
 	</FRAMESET>
 	<FRAMESET id="TUR10-0825120">
 		<ARG name="ARG1" function="ppt">üst üste gelen şey</ARG>
-	</FRAMESET>
-	<FRAMESET id="TUR10-0825140">
-		<ARG name="ARG0" function="pag">yağma eden kişi</ARG>
-		<ARG name="ARG1" function="ppt" grammaticalCase="acc">yağma edilen şey</ARG>
 	</FRAMESET>
 	<FRAMESET id="TUR10-0825160">
 		<ARG name="ARG1" function="ppt">yağmalanan şey</ARG>
@@ -24178,10 +23932,6 @@
 	<FRAMESET id="TUR10-0839570">
 		<ARG name="ARG0" function="pag">Yaşayan kişi</ARG>
 	</FRAMESET>
-	<FRAMESET id="TUR10-0839600">
-		<ARG name="ARG0" function="pag">Geçinen kişi</ARG>
-		<ARG name="ARG1" function="com" grammaticalCase="ins">geçindiği para</ARG>
-	</FRAMESET>
 	<FRAMESET id="TUR10-0839610">
 		<ARG name="ARG1" function="ppt">Herhangi bir durumda olan kişi</ARG>
 	</FRAMESET>
@@ -24456,10 +24206,6 @@
 	</FRAMESET>
 	<FRAMESET id="TUR10-0846240">
 		<ARG name="ARG1" function="ppt">yeğinleşen kişi</ARG>
-	</FRAMESET>
-	<FRAMESET id="TUR10-0846380">
-		<ARG name="ARG0" function="pag">hafifleyen kişi</ARG>
-		<ARG name="ARG1" function="ppt">hafiflediği alan</ARG>
 	</FRAMESET>
 	<FRAMESET id="TUR10-0846520">
 		<ARG name="ARG0" function="pag">davranan kişi</ARG>
@@ -24749,10 +24495,6 @@
 	<FRAMESET id="TUR10-0853140">
 		<ARG name="ARG0" function="pag">kendine yeten kişi</ARG>
 		<ARG name="ARG1" function="ppt" grammaticalCase="loc">kendine yettiği konu</ARG>
-	</FRAMESET>
-	<FRAMESET id="TUR10-0853160">
-		<ARG name="ARG0" function="pag">olgunlaşan kişi</ARG>
-		<ARG name="ARG1" function="ppt" grammaticalCase="nom,loc">olgunlaştığı konu</ARG>
 	</FRAMESET>
 	<FRAMESET id="TUR10-0853620">
 		<ARG name="ARG0" function="pag">yığılan kişi</ARG>
@@ -25559,9 +25301,6 @@
 	<FRAMESET id="TUR10-0875000">
 		<ARG name="ARG0" function="pag">zırıldayan kişi</ARG>
 	</FRAMESET>
-	<FRAMESET id="TUR10-0875100">
-		<ARG name="ARG0" function="pag">zırlayan kişi</ARG>
-	</FRAMESET>
 	<FRAMESET id="TUR10-0875320">
 		<ARG name="ARG0" function="pag">zıtlaşan kişi</ARG>
 		<ARG name="ARG1" function="rec" grammaticalCase="ins">zıtlaştığı kişi</ARG>
@@ -25628,9 +25367,6 @@
 	</FRAMESET>
 	<FRAMESET id="TUR10-0877980">
 		<ARG name="ARG1" function="ppt">züğürtleyen kişi</ARG>
-	</FRAMESET>
-	<FRAMESET id="TUR10-0878000">
-		<ARG name="ARG1" function="ppt">züğürtleşen kişi</ARG>
 	</FRAMESET>
 	<FRAMESET id="TUR10-0878320">
 		<ARG name="ARG1" function="ppt">zümrütlenen şey</ARG>
@@ -26050,10 +25786,6 @@
 	<FRAMESET id="TUR10-0881170">
 		<ARG name="ARG0" function="pag">eksik kalan şey</ARG>
 		<ARG name="ARG1" function="src" grammaticalCase="abl">eksik kaldığı şey</ARG>
-	</FRAMESET>
-	<FRAMESET id="TUR10-0881180">
-		<ARG name="ARG0" function="pag">düşen şey</ARG>
-		<ARG name="ARG1" function="dir" grammaticalCase="dat">düştüğü oran</ARG>
 	</FRAMESET>
 	<FRAMESET id="TUR10-0881190">
 		<ARG name="ARG0" function="pag">sevgi gösteren kişi</ARG>
@@ -26728,11 +26460,6 @@
 	<FRAMESET id="TUR10-0886770">
 		<ARG name="ARG0" function="pag">boca eden kiiş</ARG>
 		<ARG name="ARG1" function="ppt" grammaticalCase="nom,acc">boca ettiği şey</ARG>
-	</FRAMESET>
-	<FRAMESET id="TUR10-0886780">
-		<ARG name="ARG0" function="pag">boy ölçüşen kişi</ARG>
-		<ARG name="ARG1" function="com" grammaticalCase="ins">boy ölçüştüğü kişi</ARG>
-		<ARG name="ARG2" function="loc">boy ölçüştükleri konu</ARG>
 	</FRAMESET>
 	<FRAMESET id="TUR10-0886790">
 		<ARG name="ARG0" function="pag">çok besili olan kişi</ARG>
@@ -27702,9 +27429,6 @@
 		<ARG name="ARG0" function="pag">çağ atlayan şey</ARG>
 		<ARG name="ARG1" function="loc" grammaticalCase="loc">çağ atladığı alan</ARG>
 	</FRAMESET>
-	<FRAMESET id="TUR10-0890620">
-		<ARG name="ARG1" function="ppt">eskiyen şey</ARG>
-	</FRAMESET>
 	<FRAMESET id="TUR10-0890630">
 		<ARG name="ARG0" function="pag">çağı yakalayan kişi</ARG>
 		<ARG name="ARG1" function="tmp" grammaticalCase="nom">çağı yakaladığı zaman</ARG>
@@ -28056,10 +27780,6 @@
 		<ARG name="ARG0" function="pag">çileye giren kişi</ARG>
 		<ARG name="ARG1" function="tmp" grammaticalCase="nom">çileye girdiği zaman</ARG>
 	</FRAMESET>
-	<FRAMESET id="TUR10-0892070">
-		<ARG name="ARG0" function="pag">çimdik atan kişi</ARG>
-		<ARG name="ARG1" function="dir" grammaticalCase="acc">çimdik attığı kişi</ARG>
-	</FRAMESET>
 	<FRAMESET id="TUR10-0892100">
 		<ARG name="ARG0" function="pag">çirkin kaçan şey</ARG>
 		<ARG name="ARG1" function="loc" grammaticalCase="dat">çirkin kaçtığı yer</ARG>
@@ -28306,12 +28026,6 @@
 		<ARG name="ARG0" function="pag">elini kolunu bağlayan şey</ARG>
 		<ARG name="ARG1" function="ppt" grammaticalCase="abl">elini kolunu bağladığı kişi</ARG>
 	</FRAMESET>
-	<FRAMESET id="TUR10-0893160">
-		<ARG name="ARG0" function="pag">dilenen kişi</ARG>
-		<ARG name="ARG1" function="ppt" grammaticalCase="dat">dilendiği şey</ARG>
-		<ARG name="ARG2" function="src">dilenilen kişi</ARG>
-		<ARG name="ARG3" function="loc">dilendiği yer</ARG>
-	</FRAMESET>
 	<FRAMESET id="TUR10-0893170">
 		<ARG name="ARG0" function="pag">el alan kişi</ARG>
 		<ARG name="ARG1" function="src" grammaticalCase="abl">elini aldığı kişi</ARG>
@@ -28464,11 +28178,6 @@
 	<FRAMESET id="TUR10-0893840">
 		<ARG name="ARG0" function="pag">ele bakan kişi</ARG>
 		<ARG name="ARG1" function="dir" grammaticalCase="gen">baktığı el </ARG>
-	</FRAMESET>
-	<FRAMESET id="TUR10-0893890">
-		<ARG name="ARG0" function="pag">eleyen kişi</ARG>
-		<ARG name="ARG1" function="ppt" grammaticalCase="acc">elediği şey</ARG>
-		<ARG name="ARG2" function="com">elenilen şey</ARG>
 	</FRAMESET>
 	<FRAMESET id="TUR10-0893900">
 		<ARG name="ARG0" function="pag">elektriği kesen kişi</ARG>
@@ -30480,9 +30189,6 @@
 		<ARG name="ARG0" function="pag">yol gösteren kişi</ARG>
 		<ARG name="ARG1" function="gol" grammaticalCase="dat">yol gösterdiği kişi</ARG>
 	</FRAMESET>
-	<FRAMESET id="TUR10-0901600">
-		<ARG name="ARG1" function="ppt">parlayan şey</ARG>
-	</FRAMESET>
 	<FRAMESET id="TUR10-0901610">
 		<ARG name="ARG0" function="pag">kahrolan kişi</ARG>
 	</FRAMESET>
@@ -30686,10 +30392,6 @@
 		<ARG name="ARG0" function="pag">sorun eden kişi</ARG>
 		<ARG name="ARG1" function="ppt" grammaticalCase="acc">sorun edilen şey</ARG>
 	</FRAMESET>
-	<FRAMESET id="TUR10-0902220">
-		<ARG name="ARG0" function="pag">iğrenen kişi</ARG>
-		<ARG name="ARG1" function="src" grammaticalCase="nom">iğrenilen şey</ARG>
-	</FRAMESET>
 	<FRAMESET id="TUR10-0902223">
 		<ARG name="ARG1" function="ppt">ağlayacak kişi</ARG>
 	</FRAMESET>
@@ -30791,10 +30493,6 @@
 	</FRAMESET>
 	<FRAMESET id="TUR10-0902500">
 		<ARG name="ARG0" function="pag">sıkıntı yaşayan kişi</ARG>
-	</FRAMESET>
-	<FRAMESET id="TUR10-0902510">
-		<ARG name="ARG0" function="pag">soluyan kişi</ARG>
-		<ARG name="ARG1" function="ppt" grammaticalCase="acc">solunan şey</ARG>
 	</FRAMESET>
 	<FRAMESET id="TUR10-0902520">
 		<ARG name="ARG1" function="ppt">üzen şey</ARG>
@@ -30981,10 +30679,6 @@
 	<FRAMESET id="TUR10-0903160">
 		<ARG name="ARG0" function="pag">bağlantı kuran kişi</ARG>
 		<ARG name="ARG1" function="com" grammaticalCase="ins">bağlantı kurulan kişi</ARG>
-	</FRAMESET>
-	<FRAMESET id="TUR10-0903163">
-		<ARG name="ARG0" function="pag">yaklaşan kişi</ARG>
-		<ARG name="ARG1" function="rec" grammaticalCase="ins">yaklaşılan kişi</ARG>
 	</FRAMESET>
 	<FRAMESET id="TUR10-0903170">
 		<ARG name="ARG0" function="pag">ilan veren kişi</ARG>
@@ -32085,9 +31779,6 @@
 	<FRAMESET id="TUR10-0906900">
 		<ARG name="ARG1" function="ppt">ayılan kişi</ARG>
 	</FRAMESET>
-	<FRAMESET id="TUR10-0906903">
-		<ARG name="ARG0" function="pag">kendine gelen kişi</ARG>
-	</FRAMESET>
 	<FRAMESET id="TUR10-0906910">
 		<ARG name="ARG0" function="pag">intihar eden kişi</ARG>
 	</FRAMESET>
@@ -32369,11 +32060,6 @@
 		<ARG name="ARG1" function="ppt" grammaticalCase="acc">öldürdüğü kişi</ARG>
 		<ARG name="ARG2" function="com" grammaticalCase="ins">öldürdüğü alet</ARG>
 	</FRAMESET>
-	<FRAMESET id="TUR10-0907850">
-		<ARG name="ARG0" function="pag">övünen kişi</ARG>
-		<ARG name="ARG1" function="src" grammaticalCase="ins">övündüğü şey</ARG>
-		<ARG name="ARG2" function="dir" grammaticalCase="gen">övünülen kişi</ARG>
-	</FRAMESET>
 	<FRAMESET id="TUR10-0907855">
 		<ARG name="ARG0" function="pag">sevinen kişi</ARG>
 	</FRAMESET>
@@ -32432,11 +32118,6 @@
 		<ARG name="ARG0" function="pag">kibarlık taslayan kişi</ARG>
 		<ARG name="ARG1" function="dir" grammaticalCase="dat">kibarlık tasladığı kişi</ARG>
 		<ARG name="ARG2" function="src" grammaticalCase="loc">kibarlık tasladığı konu</ARG>
-	</FRAMESET>
-	<FRAMESET id="TUR10-0908010">
-		<ARG name="ARG0" function="pag">kilitleyen kişi</ARG>
-		<ARG name="ARG1" function="ppt" grammaticalCase="acc">kilitlediği şey</ARG>
-		<ARG name="ARG2" function="com">kilitlediği alet</ARG>
 	</FRAMESET>
 	<FRAMESET id="TUR10-0908030">
 		<ARG name="ARG1" function="ppt">zayıflayan kişi</ARG>
@@ -32500,10 +32181,6 @@
 	</FRAMESET>
 	<FRAMESET id="TUR10-0908250">
 		<ARG name="ARG0" function="pag">kol gezen kişi</ARG>
-	</FRAMESET>
-	<FRAMESET id="TUR10-0908253">
-		<ARG name="ARG0" function="pag">dolaşan kişi</ARG>
-		<ARG name="ARG1" function="loc" grammaticalCase="loc">dolaştığı yer</ARG>
 	</FRAMESET>
 	<FRAMESET id="TUR10-0908257">
 		<ARG name="ARG0" function="pag">çokça olan şey</ARG>
@@ -33355,9 +33032,6 @@
 	</FRAMESET>
 	<FRAMESET id="TUR10-0911300">
 		<ARG name="ARG0" function="pag">oh çeken kişi</ARG>
-	</FRAMESET>
-	<FRAMESET id="TUR10-0911310">
-		<ARG name="ARG0" function="pag">oh diyen kişi</ARG>
 	</FRAMESET>
 	<FRAMESET id="TUR10-0911330">
 		<ARG name="ARG0" function="pag">ad çeken kişi</ARG>
@@ -34442,9 +34116,6 @@
 		<ARG name="ARG0" function="pag">zaman kollayan kişi</ARG>
 		<ARG name="ARG1" function="ppt" grammaticalCase="gen">zaman kolladığı şey</ARG>
 	</FRAMESET>
-	<FRAMESET id="TUR10-0915310">
-		<ARG name="ARG1" function="ppt">zarara uğrayan kişi</ARG>
-	</FRAMESET>
 	<FRAMESET id="TUR10-0915320">
 		<ARG name="ARG0" function="pag">kötülük gelen kişi</ARG>
 		<ARG name="ARG1" function="ppt" grammaticalCase="dat">gelen kötülük </ARG>
@@ -35268,10 +34939,6 @@
 		<ARG name="ARG0" function="pag">ağır şeyler söylemeye başlayan kişi</ARG>
 		<ARG name="ARG1" function="dir" grammaticalCase="dat">ağır sözler söylediği kişi</ARG>
 	</FRAMESET>
-	<FRAMESET id="TUR10-0922910">
-		<ARG name="ARG0" function="pag">azarlayan kişi</ARG>
-		<ARG name="ARG1" function="ppt" grammaticalCase="acc,dat">azarladığı kişi</ARG>
-	</FRAMESET>
 	<FRAMESET id="TUR10-0922920">
 		<ARG name="ARG0" function="pag">boş boş bakan kişi</ARG>
 		<ARG name="ARG1" function="dir" grammaticalCase="dat">boş boş baktığı kişi</ARG>
@@ -35991,10 +35658,6 @@
 		<ARG name="ARG0" function="pag">aklından çıkarmayan kişi</ARG>
 		<ARG name="ARG1" function="ppt" grammaticalCase="acc">aklından çıkarmadığı şey</ARG>
 	</FRAMESET>
-	<FRAMESET id="TUR10-0927830">
-		<ARG name="ARG1" function="ppt">unuttuğu şey</ARG>
-		<ARG name="ARG2" function="ppt">unutan kişi</ARG>
-	</FRAMESET>
 	<FRAMESET id="TUR10-0927860">
 		<ARG name="ARG0" function="pag">aklından zoru olan kişi</ARG>
 	</FRAMESET>
@@ -36299,10 +35962,6 @@
 		<ARG name="ARG0" function="pag">karşı durum alan şey</ARG>
 		<ARG name="ARG1" function="dir" grammaticalCase="gen">karşı durum aldığı şey</ARG>
 	</FRAMESET>
-	<FRAMESET id="TUR10-0930890">
-		<ARG name="ARG0" function="pag">çekiştiren kişi</ARG>
-		<ARG name="ARG1" function="ppt" grammaticalCase="gen">çekiştirdiği şey</ARG>
-	</FRAMESET>
 	<FRAMESET id="TUR10-0930900">
 		<ARG name="ARG0" function="pag">aleyhinde olan şey</ARG>
 		<ARG name="ARG1" function="dir" grammaticalCase="gen">aleyhinde olduğu kişi</ARG>
@@ -36549,11 +36208,6 @@
 	<FRAMESET id="TUR10-0934330">
 		<ARG name="ARG0" function="pag">halleden kişi</ARG>
 		<ARG name="ARG1" function="ppt" grammaticalCase="gen">hallettiği şey</ARG>
-	</FRAMESET>
-	<FRAMESET id="TUR10-0934340">
-		<ARG name="ARG0" function="pag">karıştıran kişi</ARG>
-		<ARG name="ARG1" function="ppt" grammaticalCase="gen">karıştırdığı şey</ARG>
-		<ARG name="ARG2" function="com">karıştırdığı araç</ARG>
 	</FRAMESET>
 	<FRAMESET id="TUR10-0934350">
 		<ARG name="ARG0" function="pag">başaramayan kişi</ARG>
@@ -37220,9 +36874,6 @@
 	<FRAMESET id="TUR10-0940320">
 		<ARG name="ARG1" function="ppt">durdurulan şey</ARG>
 	</FRAMESET>
-	<FRAMESET id="TUR10-0940340">
-		<ARG name="ARG1" function="ppt">sonlanan şey</ARG>
-	</FRAMESET>
 	<FRAMESET id="TUR10-0940350">
 		<ARG name="ARG0" function="pag">giden kişi</ARG>
 		<ARG name="ARG1" function="src" grammaticalCase="abl">terk edilen yer</ARG>
@@ -37234,10 +36885,6 @@
 	<FRAMESET id="TUR10-0940380">
 		<ARG name="ARG1" function="ppt">desteklenen kişi</ARG>
 		<ARG name="ARG2" function="src">destekleyen kişi</ARG>
-	</FRAMESET>
-	<FRAMESET id="TUR10-0940390">
-		<ARG name="ARG0" function="pag">çalışan kişi</ARG>
-		<ARG name="ARG1" function="dir" grammaticalCase="gen">üzerinde çalışılan iş</ARG>
 	</FRAMESET>
 	<FRAMESET id="TUR10-0940400">
 		<ARG name="ARG0" function="pag">takip eden</ARG>
@@ -37310,11 +36957,6 @@
 	</FRAMESET>
 	<FRAMESET id="TUR10-0940630">
 		<ARG name="ARG0" function="pag">sarsılmayan, sağlam</ARG>
-	</FRAMESET>
-	<FRAMESET id="TUR10-0940640">
-		<ARG name="ARG0" function="pag">destek veren kişi</ARG>
-		<ARG name="ARG1" function="dir" grammaticalCase="dat">destek verilen kişi</ARG>
-		<ARG name="ARG2" function="loc" grammaticalCase="loc">desteğe konu durum</ARG>
 	</FRAMESET>
 	<FRAMESET id="TUR10-0940650">
 		<ARG name="ARG0" function="pag">dayanan</ARG>
@@ -37757,10 +37399,6 @@
 	</FRAMESET>
 	<FRAMESET id="TUR10-0946210">
 		<ARG name="ARG0" function="pag">yola çıkan kişi</ARG>
-	</FRAMESET>
-	<FRAMESET id="TUR10-0946220">
-		<ARG name="ARG0" function="pag">asi</ARG>
-		<ARG name="ARG1" function="gol" grammaticalCase="loc">isyan ettiği şey</ARG>
 	</FRAMESET>
 	<FRAMESET id="TUR10-0946230">
 		<ARG name="ARG0" function="pag">heyecanlanan kişi</ARG>
@@ -40113,11 +39751,6 @@
 	<FRAMESET id="TUR10-0968750">
 		<ARG name="ARG1" function="ppt">her istediği yapılan kişi</ARG>
 	</FRAMESET>
-	<FRAMESET id="TUR10-0968770">
-		<ARG name="ARG0" function="pag">her istenileni yapan kişi</ARG>
-		<ARG name="ARG1" function="ppt" grammaticalCase="loc">yaptığı şey</ARG>
-		<ARG name="ARG2" function="pat">istediği yapılan kişi</ARG>
-	</FRAMESET>
 	<FRAMESET id="TUR10-0968830">
 		<ARG name="ARG0" function="pag">hiçbir şeyi olmayan kişi</ARG>
 	</FRAMESET>
@@ -40615,11 +40248,6 @@
 		<ARG name="ARG1" function="ppt">borçlu olduğu şey</ARG>
 		<ARG name="ARG2" function="dir">borçlu olduğu kişi</ARG>
 	</FRAMESET>
-	<FRAMESET id="TUR10-0973570">
-		<ARG name="ARG0" function="pag">borçlanan kişi</ARG>
-		<ARG name="ARG1" function="ppt">borçlandığı şey</ARG>
-		<ARG name="ARG2" function="dir">borçlandığı kişi</ARG>
-	</FRAMESET>
 	<FRAMESET id="TUR10-0973580">
 		<ARG name="ARG0" function="pag">borç yiyen kişi</ARG>
 	</FRAMESET>
@@ -40725,16 +40353,8 @@
 	<FRAMESET id="TUR10-0974810">
 		<ARG name="ARG0" function="pag">solan boya </ARG>
 	</FRAMESET>
-	<FRAMESET id="TUR10-0974900">
-		<ARG name="ARG1" function="ppt">boylanan kişi</ARG>
-	</FRAMESET>
 	<FRAMESET id="TUR10-0974930">
 		<ARG name="ARG0" function="pag">boya tutan şey</ARG>
-	</FRAMESET>
-	<FRAMESET id="TUR10-0974940">
-		<ARG name="ARG0" function="pag">boyayan kişi</ARG>
-		<ARG name="ARG1" function="ppt" grammaticalCase="dat">boyadığı şey</ARG>
-		<ARG name="ARG2" function="com">boyadığı alet</ARG>
 	</FRAMESET>
 	<FRAMESET id="TUR10-0975130">
 		<ARG name="ARG0" function="pag">boyna eden kişi</ARG>
@@ -40934,10 +40554,6 @@
 	</FRAMESET>
 	<FRAMESET id="TUR10-0979450">
 		<ARG name="ARG0" function="pag">konuşan kişi</ARG>
-	</FRAMESET>
-	<FRAMESET id="TUR10-0979460">
-		<ARG name="ARG0" function="pag">itiraf eden kişi</ARG>
-		<ARG name="ARG1" function="ppt" grammaticalCase="acc">itiraf ettiği şey</ARG>
 	</FRAMESET>
 	<FRAMESET id="TUR10-0979470">
 		<ARG name="ARG0" function="pag">konuşan kişi</ARG>
@@ -43080,11 +42696,6 @@
 	<FRAMESET id="TUR10-1011210">
 		<ARG name="ARG0" function="pag">dokunulmazlığını kaldıran kişi</ARG>
 	</FRAMESET>
-	<FRAMESET id="TUR10-1011650">
-		<ARG name="ARG0" function="pag">dolduran kişi</ARG>
-		<ARG name="ARG1" function="ppt" grammaticalCase="dat">doldurduğu şey</ARG>
-		<ARG name="ARG2" function="dir" grammaticalCase="ins">doldurulan şey</ARG>
-	</FRAMESET>
 	<FRAMESET id="TUR10-1011660">
 		<ARG name="ARG0" function="pag">dolgu yapan kişi</ARG>
 		<ARG name="ARG1" function="ppt" grammaticalCase="dat">dolgu yaptığı diş</ARG>
@@ -43166,10 +42777,6 @@
 	<FRAMESET id="TUR10-1013190">
 		<ARG name="ARG0" function="pag">umursamayan kişi</ARG>
 		<ARG name="ARG1" function="ppt" grammaticalCase="dat">umursamadığı şey</ARG>
-	</FRAMESET>
-	<FRAMESET id="TUR10-1013220">
-		<ARG name="ARG0" function="pag">öpüşen kişi</ARG>
-		<ARG name="ARG1" function="rec" grammaticalCase="ins">öpüştüğü kişi</ARG>
 	</FRAMESET>
 	<FRAMESET id="TUR10-1013240">
 		<ARG name="ARG0" function="pag">şaşkınlığa düşen kişi</ARG>
@@ -43454,10 +43061,6 @@
 		<ARG name="ARG0" function="pag">ilgisiz duruma gelen kişi</ARG>
 		<ARG name="ARG1" function="ppt" grammaticalCase="gen">ilgisiz duruma geldiği şey</ARG>
 	</FRAMESET>
-	<FRAMESET id="TUR10-1015330">
-		<ARG name="ARG0" function="pag">doğuran kişi</ARG>
-		<ARG name="ARG1" function="ppt" grammaticalCase="acc">doğurduğu kişi</ARG>
-	</FRAMESET>
 	<FRAMESET id="TUR10-1015360">
 		<ARG name="ARG0" function="pag">uzun ömürlü olan kişi</ARG>
 	</FRAMESET>
@@ -43619,11 +43222,6 @@
 		<ARG name="ARG0" function="pag">eğitim veren kişi</ARG>
 		<ARG name="ARG1" function="ppt" grammaticalCase="acc,nom">verdiği eğitim </ARG>
 		<ARG name="ARG2" function="dir">eğitim verdiği kişi</ARG>
-	</FRAMESET>
-	<FRAMESET id="TUR10-1017670">
-		<ARG name="ARG0" function="pag">ödünçleyen kişi</ARG>
-		<ARG name="ARG1" function="ppt" grammaticalCase="dat">ödünçlediği şey</ARG>
-		<ARG name="ARG2" function="gol" grammaticalCase="abl">ödünçlediği kişi</ARG>
 	</FRAMESET>
 	<FRAMESET id="TUR10-1017710">
 		<ARG name="ARG0" function="pag">eğreti olarak yapan kişi</ARG>
@@ -44618,10 +44216,6 @@
 		<ARG name="ARG0" function="pag">görüntü elde eden kişi</ARG>
 		<ARG name="ARG1" function="com" grammaticalCase="ins">görüntü elde ettiği alet</ARG>
 	</FRAMESET>
-	<FRAMESET id="TUR10-1028360">
-		<ARG name="ARG0" function="pag">odaklanan kişi</ARG>
-		<ARG name="ARG1" function="ppt" grammaticalCase="dat">odaklandığı şey</ARG>
-	</FRAMESET>
 	<FRAMESET id="TUR10-1028470">
 		<ARG name="ARG0" function="pag">çözüm bulan kişi</ARG>
 		<ARG name="ARG1" function="gol" grammaticalCase="dat">çözüm bulduğu şey</ARG>
@@ -44682,9 +44276,6 @@
 	<FRAMESET id="TUR10-1029110">
 		<ARG name="ARG0" function="pag">gargara yapan kişi</ARG>
 		<ARG name="ARG1" function="com" grammaticalCase="ins">gargara yaptığı şey</ARG>
-	</FRAMESET>
-	<FRAMESET id="TUR10-1029150">
-		<ARG name="ARG0" function="pag">kusan kişi</ARG>
 	</FRAMESET>
 	<FRAMESET id="TUR10-1029200">
 		<ARG name="ARG0" function="pag">kendine zararlı olan bir iş yapan kişi</ARG>
@@ -45614,9 +45205,6 @@
 	<FRAMESET id="TUR10-1037410">
 		<ARG name="ARG0" function="pag">gözü açılan kişi</ARG>
 	</FRAMESET>
-	<FRAMESET id="TUR10-1037420">
-		<ARG name="ARG0" function="pag">uyanan kişi</ARG>
-	</FRAMESET>
 	<FRAMESET id="TUR10-1037430">
 		<ARG name="ARG0" function="pag">kör olan kişi</ARG>
 	</FRAMESET>
@@ -46423,10 +46011,6 @@
 	<FRAMESET id="TUR10-1043500">
 		<ARG name="ARG1" function="ppt">bozulan şey</ARG>
 	</FRAMESET>
-	<FRAMESET id="TUR10-1043570">
-		<ARG name="ARG0" function="pag">halini soran kişi</ARG>
-		<ARG name="ARG1" function="ppt" grammaticalCase="gen">halini sorduğu kişi</ARG>
-	</FRAMESET>
 	<FRAMESET id="TUR10-1043580">
 		<ARG name="ARG0" function="pag">gözden uzak eden kişi</ARG>
 		<ARG name="ARG1" function="ppt" grammaticalCase="acc,nom">gözden uzak ettiği şey</ARG>
@@ -46475,10 +46059,6 @@
 	<FRAMESET id="TUR10-1044070">
 		<ARG name="ARG0" function="pag">taşıyan kişi</ARG>
 		<ARG name="ARG1" function="ppt">taşıdığı şey</ARG>
-	</FRAMESET>
-	<FRAMESET id="TUR10-1044100">
-		<ARG name="ARG0" function="pag">atılan kişi</ARG>
-		<ARG name="ARG1" function="loc" grammaticalCase="dat">atıldığı şey</ARG>
 	</FRAMESET>
 	<FRAMESET id="TUR10-1044110">
 		<ARG name="ARG0" function="pag">çaba harcayan kişi</ARG>
@@ -46954,11 +46534,6 @@
 		<ARG name="ARG0" function="pag">kötü işte yardımcı olan kişi</ARG>
 		<ARG name="ARG1" function="ppt" grammaticalCase="nom,acc">yardımcı olduğu kötü iş</ARG>
 		<ARG name="ARG2" function="gol">yardımcı olunan kişi</ARG>
-	</FRAMESET>
-	<FRAMESET id="TUR10-1049420">
-		<ARG name="ARG0" function="pag">çalan kişi</ARG>
-		<ARG name="ARG1" function="ppt" grammaticalCase="nom,acc">çaldığı şey</ARG>
-		<ARG name="ARG2" function="src">çalınan kişi</ARG>
 	</FRAMESET>
 	<FRAMESET id="TUR10-1049480">
 		<ARG name="ARG0" function="pag">giyinen kişi</ARG>
@@ -47724,10 +47299,6 @@
 		<ARG name="ARG0" function="pag">sığınan</ARG>
 		<ARG name="ARG1" function="loc" grammaticalCase="dat">sığınılan yer</ARG>
 	</FRAMESET>
-	<FRAMESET id="TUR10-1056780">
-		<ARG name="ARG0" function="pag">kayıran</ARG>
-		<ARG name="ARG1" function="gol" grammaticalCase="dat">kayırılan</ARG>
-	</FRAMESET>
 	<FRAMESET id="TUR10-1056790">
 		<ARG name="ARG1" function="ppt">kayırıcısı olan</ARG>
 	</FRAMESET>
@@ -47784,10 +47355,6 @@
 		<ARG name="ARG0" function="pag">imar eden</ARG>
 		<ARG name="ARG1" function="ppt" grammaticalCase="acc">imar edilen</ARG>
 	</FRAMESET>
-	<FRAMESET id="TUR10-1057110">
-		<ARG name="ARG0" function="pag">damıtan</ARG>
-		<ARG name="ARG1" function="ppt" grammaticalCase="acc">damıtılan</ARG>
-	</FRAMESET>
 	<FRAMESET id="TUR10-1057130">
 		<ARG name="ARG0" function="pag">yardım eden</ARG>
 		<ARG name="ARG1" function="gol" grammaticalCase="gen">yardım edilen</ARG>
@@ -47820,10 +47387,6 @@
 	<FRAMESET id="TUR10-1057380">
 		<ARG name="ARG0" function="pag">uyan</ARG>
 		<ARG name="ARG1" function="ppt" grammaticalCase="dat">uyulan</ARG>
-	</FRAMESET>
-	<FRAMESET id="TUR10-1057550">
-		<ARG name="ARG0" function="pag">imzalayan</ARG>
-		<ARG name="ARG1" function="ppt" grammaticalCase="dat">imzalanan</ARG>
 	</FRAMESET>
 	<FRAMESET id="TUR10-1057570">
 		<ARG name="ARG0" function="pag">inatçı olan</ARG>
@@ -47884,9 +47447,6 @@
 	<FRAMESET id="TUR10-1058430">
 		<ARG name="ARG1" function="ppt">açılan</ARG>
 	</FRAMESET>
-	<FRAMESET id="TUR10-1058440">
-		<ARG name="ARG1" function="ppt">sapan</ARG>
-	</FRAMESET>
 	<FRAMESET id="TUR10-1058450">
 		<ARG name="ARG0" function="pag">tekeline alan</ARG>
 		<ARG name="ARG1" function="ppt" grammaticalCase="acc">tekeline alınan</ARG>
@@ -47924,9 +47484,6 @@
 	</FRAMESET>
 	<FRAMESET id="TUR10-1058840">
 		<ARG name="ARG1" function="ppt">kararsızlığa yol açan</ARG>
-	</FRAMESET>
-	<FRAMESET id="TUR10-1058900">
-		<ARG name="ARG0" function="pag">dedikodu yapan</ARG>
 	</FRAMESET>
 	<FRAMESET id="TUR10-1059200">
 		<ARG name="ARG1" function="ppt">ferahlayan</ARG>
@@ -48202,10 +47759,6 @@
 		<ARG name="ARG0" function="pag">istismar eden</ARG>
 		<ARG name="ARG1" function="ppt" grammaticalCase="acc">istismar edilen</ARG>
 	</FRAMESET>
-	<FRAMESET id="TUR10-1061370">
-		<ARG name="ARG0" function="pag">sömüren</ARG>
-		<ARG name="ARG1" function="ppt" grammaticalCase="acc">sömürülen</ARG>
-	</FRAMESET>
 	<FRAMESET id="TUR10-1061430">
 		<ARG name="ARG0" function="pag">bilgi isteyen</ARG>
 		<ARG name="ARG1" function="src" grammaticalCase="acc">bilgi istenen</ARG>
@@ -48214,10 +47767,6 @@
 		<ARG name="ARG0" function="pag">izin isteyen</ARG>
 		<ARG name="ARG1" function="gol" grammaticalCase="abl">izin istenen</ARG>
 		<ARG name="ARG2" function="ppt">izin konusu</ARG>
-	</FRAMESET>
-	<FRAMESET id="TUR10-1061480">
-		<ARG name="ARG0" function="pag">isyan eden</ARG>
-		<ARG name="ARG1" function="ppt" grammaticalCase="dat">isyan edilen</ARG>
 	</FRAMESET>
 	<FRAMESET id="TUR10-1061500">
 		<ARG name="ARG0" function="pag">isyan eden</ARG>
@@ -48872,9 +48421,6 @@
 		<ARG name="ARG0" function="pag">delik deşik eden</ARG>
 		<ARG name="ARG1" function="ppt">delik deşik edilen</ARG>
 	</FRAMESET>
-	<FRAMESET id="TUR10-1067440">
-		<ARG name="ARG1" function="ppt">delik deşik olan</ARG>
-	</FRAMESET>
 	<FRAMESET id="TUR10-1067450">
 		<ARG name="ARG0" function="pag">eleyen</ARG>
 		<ARG name="ARG1" function="ppt" grammaticalCase="acc">elenen</ARG>
@@ -49125,9 +48671,6 @@
 	</FRAMESET>
 	<FRAMESET id="TUR10-1069410">
 		<ARG name="ARG0" function="pag">öcü alınan kişi</ARG>
-	</FRAMESET>
-	<FRAMESET id="TUR10-1069460">
-		<ARG name="ARG0" function="pag">kanan kişi</ARG>
 	</FRAMESET>
 	<FRAMESET id="TUR10-1069470">
 		<ARG name="ARG0" function="pag">kanıya varan</ARG>
@@ -49994,10 +49537,6 @@
 		<ARG name="ARG0" function="pag">zorbalık eden</ARG>
 		<ARG name="ARG1" function="ppt" grammaticalCase="acc">zorbalığa uğrayan</ARG>
 	</FRAMESET>
-	<FRAMESET id="TUR10-1078720">
-		<ARG name="ARG0" function="pag">dolandıran</ARG>
-		<ARG name="ARG1" function="ppt" grammaticalCase="acc">dolandırılan</ARG>
-	</FRAMESET>
 	<FRAMESET id="TUR10-1078740">
 	</FRAMESET>
 	<FRAMESET id="TUR10-1078750">
@@ -50136,10 +49675,6 @@
 	</FRAMESET>
 	<FRAMESET id="TUR10-1080410">
 		<ARG name="ARG0" function="pag">tasarruf eden</ARG>
-	</FRAMESET>
-	<FRAMESET id="TUR10-1080420">
-		<ARG name="ARG0" function="pag">azaltan</ARG>
-		<ARG name="ARG1" function="ppt" grammaticalCase="loc,acc,nom">azaltılan</ARG>
 	</FRAMESET>
 	<FRAMESET id="TUR10-1080430">
 		<ARG name="ARG0" function="pag">kısıtlayan</ARG>
@@ -50819,10 +50354,6 @@
 		<ARG name="ARG0" function="pag">duyan kişi</ARG>
 		<ARG name="ARG1" function="ppt" grammaticalCase="nom">duyulan şey</ARG>
 	</FRAMESET>
-	<FRAMESET id="TUR10-1088100">
-		<ARG name="ARG0" function="pag">duyan kişi</ARG>
-		<ARG name="ARG1" function="ppt" grammaticalCase="nom">duyulan şey</ARG>
-	</FRAMESET>
 	<FRAMESET id="TUR10-1088110">
 		<ARG name="ARG0" function="pag">anlamayan kişi</ARG>
 		<ARG name="ARG1" function="ppt" grammaticalCase="nom">anlaşılmayan şey</ARG>
@@ -50929,10 +50460,6 @@
 	<FRAMESET id="TUR10-1088690">
 		<ARG name="ARG0" function="pag">ağrıyan yeri ovan</ARG>
 		<ARG name="ARG1" function="ppt">ovulan yer</ARG>
-	</FRAMESET>
-	<FRAMESET id="TUR10-1088730">
-		<ARG name="ARG0" function="pag">yöneten</ARG>
-		<ARG name="ARG1" function="ppt" grammaticalCase="acc">yönetilen</ARG>
 	</FRAMESET>
 	<FRAMESET id="TUR10-1088780">
 		<ARG name="ARG0" function="pag">fırsat kaçıran</ARG>
@@ -51165,9 +50692,6 @@
 	</FRAMESET>
 	<FRAMESET id="TUR10-1091240">
 		<ARG name="ARG0" function="pag">kumarbaz</ARG>
-	</FRAMESET>
-	<FRAMESET id="TUR10-1091310">
-		<ARG name="ARG1" function="ppt">küflenen</ARG>
 	</FRAMESET>
 	<FRAMESET id="TUR10-1091330">
 		<ARG name="ARG1" function="ppt">biten, kalmayan</ARG>
@@ -53254,9 +52778,6 @@
 		<ARG name="ARG0" function="pag">nükte yapan</ARG>
 		<ARG name="ARG1" function="gol" grammaticalCase="dat">nükte yapılan</ARG>
 	</FRAMESET>
-	<FRAMESET id="TUR10-1107920">
-		<ARG name="ARG1" function="ppt">felçli</ARG>
-	</FRAMESET>
 	<FRAMESET id="TUR10-1108010">
 		<ARG name="ARG0" function="pag">soyu tükenen</ARG>
 	</FRAMESET>
@@ -53859,9 +53380,6 @@
 		<ARG name="ARG0" function="pag">pala çeken</ARG>
 		<ARG name="ARG1" function="ppt" grammaticalCase="dat">pala çekilen</ARG>
 	</FRAMESET>
-	<FRAMESET id="TUR10-1115980">
-		<ARG name="ARG0" function="pag">kaçan</ARG>
-	</FRAMESET>
 	<FRAMESET id="TUR10-1115990">
 		<ARG name="ARG0" function="pag">palan vuran</ARG>
 		<ARG name="ARG1" function="ppt" grammaticalCase="dat">binek hayvanı</ARG>
@@ -53956,9 +53474,6 @@
 	</FRAMESET>
 	<FRAMESET id="TUR10-1116600">
 		<ARG name="ARG1" function="ppt">işe yaramayan</ARG>
-	</FRAMESET>
-	<FRAMESET id="TUR10-1116650">
-		<ARG name="ARG0" function="pag">darphane, para basan</ARG>
 	</FRAMESET>
 	<FRAMESET id="TUR10-1116660">
 		<ARG name="ARG0" function="pag">para kazanan</ARG>
@@ -54311,9 +53826,6 @@
 	<FRAMESET id="TUR10-1119330">
 		<ARG name="ARG0" function="pag">hizmet isteğini gösteren</ARG>
 		<ARG name="ARG1" function="gol" grammaticalCase="dat">kendisine karşı hizmet isteği gösterilen</ARG>
-	</FRAMESET>
-	<FRAMESET id="TUR10-1119360">
-		<ARG name="ARG1" function="ppt">uçan</ARG>
 	</FRAMESET>
 	<FRAMESET id="TUR10-1119390">
 		<ARG name="ARG0" function="pag">konuşan</ARG>
@@ -54788,9 +54300,6 @@
 	<FRAMESET id="TUR10-1123210">
 		<ARG name="ARG0" function="pag">incinen</ARG>
 	</FRAMESET>
-	<FRAMESET id="TUR10-1123220">
-		<ARG name="ARG1" function="ppt">solan</ARG>
-	</FRAMESET>
 	<FRAMESET id="TUR10-1123240">
 		<ARG name="ARG1" function="ppt">renk kazanan</ARG>
 	</FRAMESET>
@@ -54835,9 +54344,6 @@
 		<ARG name="ARG0" function="pag">reva gören</ARG>
 		<ARG name="ARG1" function="ppt" grammaticalCase="acc">reva görülen şey</ARG>
 		<ARG name="ARG2" function="gol" grammaticalCase="dat">kendisi için reva görülen</ARG>
-	</FRAMESET>
-	<FRAMESET id="TUR10-1123590">
-		<ARG name="ARG0" function="pag">yola çıkan</ARG>
 	</FRAMESET>
 	<FRAMESET id="TUR10-1123600">
 		<ARG name="ARG0" function="pag">hoşluk katan</ARG>
@@ -54955,9 +54461,6 @@
 	</FRAMESET>
 	<FRAMESET id="TUR10-1124630">
 		<ARG name="ARG1" function="ppt">ölü</ARG>
-	</FRAMESET>
-	<FRAMESET id="TUR10-1124650">
-		<ARG name="ARG0" function="pag">sabahlayan</ARG>
 	</FRAMESET>
 	<FRAMESET id="TUR10-1124670">
 		<ARG name="ARG0" function="pag">sabahı sabırsızlıkla bekleyen</ARG>
@@ -55233,10 +54736,6 @@
 		<ARG name="ARG0" function="pag">tavsiye eden kişi</ARG>
 		<ARG name="ARG1" function="gol" grammaticalCase="dat">tavsiye verilen kişi</ARG>
 	</FRAMESET>
-	<FRAMESET id="TUR10-1127320">
-		<ARG name="ARG0" function="pag">haber veren</ARG>
-		<ARG name="ARG1" function="gol" grammaticalCase="dat">haber verilen</ARG>
-	</FRAMESET>
 	<FRAMESET id="TUR10-1127400">
 		<ARG name="ARG0" function="pag">ciddiye almayan</ARG>
 		<ARG name="ARG1" function="ppt" grammaticalCase="acc,nom">ciddiye alınmayan</ARG>
@@ -55401,9 +54900,6 @@
 	<FRAMESET id="TUR10-1129560">
 		<ARG name="ARG1" function="ppt">ortada bırakılan</ARG>
 	</FRAMESET>
-	<FRAMESET id="TUR10-1129570">
-		<ARG name="ARG0" function="pag">satıcı</ARG>
-	</FRAMESET>
 	<FRAMESET id="TUR10-1129690">
 		<ARG name="ARG0" function="pag">savaş açan</ARG>
 		<ARG name="ARG1" function="ppt">savaş açılan</ARG>
@@ -55454,9 +54950,6 @@
 		<ARG name="ARG2" function="gol">dağıtıldığı kişi</ARG>
 	</FRAMESET>
 	<FRAMESET id="TUR10-1130570">
-		<ARG name="ARG0" function="pag">secde eden</ARG>
-	</FRAMESET>
-	<FRAMESET id="TUR10-1130590">
 		<ARG name="ARG0" function="pag">secde eden</ARG>
 	</FRAMESET>
 	<FRAMESET id="TUR10-1130650">
@@ -55938,10 +55431,6 @@
 	</FRAMESET>
 	<FRAMESET id="TUR10-1135260">
 		<ARG name="ARG0" function="pag">eziyet çeken</ARG>
-	</FRAMESET>
-	<FRAMESET id="TUR10-1135270">
-		<ARG name="ARG0" function="pag">sıralayan</ARG>
-		<ARG name="ARG1" function="ppt" grammaticalCase="acc">sıralanan</ARG>
 	</FRAMESET>
 	<FRAMESET id="TUR10-1135280">
 		<ARG name="ARG0" function="pag">herkese aynı biçimde davranan</ARG>
@@ -56457,10 +55946,6 @@
 		<ARG name="ARG0" function="pag">bitiremeyen kişi</ARG>
 		<ARG name="ARG1" function="ppt" grammaticalCase="gen">bitiremediği şey</ARG>
 	</FRAMESET>
-	<FRAMESET id="TUR10-1139350">
-		<ARG name="ARG0" function="pag">döven kişi</ARG>
-		<ARG name="ARG1" function="ppt" grammaticalCase="dat">dövdüğü kişi</ARG>
-	</FRAMESET>
 	<FRAMESET id="TUR10-1139530">
 		<ARG name="ARG0" function="pag">ifadesini alan kişi</ARG>
 		<ARG name="ARG1" function="src" grammaticalCase="acc,gen">ifadesini aldığı kişi</ARG>
@@ -56738,9 +56223,6 @@
 		<ARG name="ARG1" function="ppt" grammaticalCase="acc">uyduğu öğüt</ARG>
 		<ARG name="ARG2" function="src" grammaticalCase="gen">öğüdüne uyduğu kişi</ARG>
 	</FRAMESET>
-	<FRAMESET id="TUR10-1141590">
-		<ARG name="ARG0" function="pag">sözünü tutan kişi</ARG>
-	</FRAMESET>
 	<FRAMESET id="TUR10-1141660">
 		<ARG name="ARG0" function="pag">ölçülü konuşan kişi</ARG>
 	</FRAMESET>
@@ -56914,9 +56396,6 @@
 		<ARG name="ARG0" function="pag">öz evladı olan kişi</ARG>
 		<ARG name="ARG1" function="ppt" grammaticalCase="gen">öz evladı olduğu kişi</ARG>
 	</FRAMESET>
-	<FRAMESET id="TUR10-1142890">
-		<ARG name="ARG0" function="pag">sululaşan kişi</ARG>
-	</FRAMESET>
 	<FRAMESET id="TUR10-1143110">
 		<ARG name="ARG0" function="pag">öfkelenen kişi</ARG>
 	</FRAMESET>
@@ -56957,10 +56436,6 @@
 	</FRAMESET>
 	<FRAMESET id="TUR10-1143320">
 		<ARG name="ARG0" function="pag">kirli olan şey</ARG>
-	</FRAMESET>
-	<FRAMESET id="TUR10-1143340">
-		<ARG name="ARG0" function="pag">susturan kişi</ARG>
-		<ARG name="ARG1" function="ppt" grammaticalCase="acc,gen">susturduğu kişi</ARG>
 	</FRAMESET>
 	<FRAMESET id="TUR10-1143350">
 		<ARG name="ARG0" function="pag">susan kişi</ARG>
@@ -57051,9 +56526,6 @@
 	</FRAMESET>
 	<FRAMESET id="TUR10-1143840">
 		<ARG name="ARG1" function="ppt">suyunu çeken yemek </ARG>
-	</FRAMESET>
-	<FRAMESET id="TUR10-1143850">
-		<ARG name="ARG1" function="ppt">tükenen şey</ARG>
 	</FRAMESET>
 	<FRAMESET id="TUR10-1143870">
 		<ARG name="ARG1" function="ppt">suyu seli kalmayan şey</ARG>
@@ -57651,10 +57123,6 @@
 	<FRAMESET id="TUR10-1149330">
 		<ARG name="ARG1" function="ppt">eski zevki kalmayan şey</ARG>
 	</FRAMESET>
-	<FRAMESET id="TUR10-1149380">
-		<ARG name="ARG0" function="pag">değiştiren kişi</ARG>
-		<ARG name="ARG1" function="ppt" grammaticalCase="acc,nom">değiştirilen şey</ARG>
-	</FRAMESET>
 	<FRAMESET id="TUR10-1149410">
 		<ARG name="ARG0" function="pag">ayrıntılar üzerinde duran kişi</ARG>
 	</FRAMESET>
@@ -58028,11 +57496,6 @@
 	<FRAMESET id="TUR10-1152120">
 		<ARG name="ARG1" function="ppt">düzenlenen şey</ARG>
 	</FRAMESET>
-	<FRAMESET id="TUR10-1152130">
-		<ARG name="ARG0" function="pag">benzeten kişi</ARG>
-		<ARG name="ARG1" function="ppt">benzeyen şey</ARG>
-		<ARG name="ARG2" function="ppt">benzetilen şey</ARG>
-	</FRAMESET>
 	<FRAMESET id="TUR10-1152140">
 		<ARG name="ARG0" function="pag">benzer şiir yazan kişi</ARG>
 		<ARG name="ARG1" function="ppt" grammaticalCase="acc">benzeri yazılan şiir</ARG>
@@ -58136,10 +57599,6 @@
 		<ARG name="ARG0" function="pag">tasarlayan kişi</ARG>
 		<ARG name="ARG1" function="ppt" grammaticalCase="acc">tasarlanan şey</ARG>
 	</FRAMESET>
-	<FRAMESET id="TUR10-1153130">
-		<ARG name="ARG0" function="pag">onaylayan kişi</ARG>
-		<ARG name="ARG1" function="ppt" grammaticalCase="acc">onaylanan şey</ARG>
-	</FRAMESET>
 	<FRAMESET id="TUR10-1153300">
 		<ARG name="ARG0" function="pag">kapatan kişi</ARG>
 		<ARG name="ARG1" function="ppt" grammaticalCase="acc">kapatılan şey</ARG>
@@ -58162,10 +57621,6 @@
 	<FRAMESET id="TUR10-1153430">
 		<ARG name="ARG0" function="pag">belirten kişi</ARG>
 		<ARG name="ARG1" function="ppt" grammaticalCase="acc">belirtilen şey</ARG>
-	</FRAMESET>
-	<FRAMESET id="TUR10-1153450">
-		<ARG name="ARG0" function="pag">yazan kişi</ARG>
-		<ARG name="ARG1" function="ppt" grammaticalCase="acc">yazılan şey</ARG>
 	</FRAMESET>
 	<FRAMESET id="TUR10-1153460">
 		<ARG name="ARG0" function="pag">dizen kişi</ARG>
@@ -58457,11 +57912,6 @@
 	<FRAMESET id="TUR10-1155570">
 		<ARG name="ARG0" function="pag">bildiri yayımlayan kişi</ARG>
 		<ARG name="ARG1" function="ppt">yayımlanan bildiri</ARG>
-	</FRAMESET>
-	<FRAMESET id="TUR10-1155580">
-		<ARG name="ARG0" function="pag">bildiren kişi</ARG>
-		<ARG name="ARG1" function="ppt" grammaticalCase="acc,nom">bildirilen şey</ARG>
-		<ARG name="ARG2" function="dir">bildirilen kişi</ARG>
 	</FRAMESET>
 	<FRAMESET id="TUR10-1155600">
 		<ARG name="ARG0" function="pag">müjdeleyen kişi</ARG>
@@ -58760,10 +58210,6 @@
 		<ARG name="ARG0" function="pag">yazıyı çoğaltan kişi</ARG>
 		<ARG name="ARG1" function="ppt" grammaticalCase="acc">çoğaltılan yazı</ARG>
 	</FRAMESET>
-	<FRAMESET id="TUR10-1157200">
-		<ARG name="ARG0" function="pag">yaratan kişi</ARG>
-		<ARG name="ARG1" function="ppt" grammaticalCase="acc">yaratılan şey</ARG>
-	</FRAMESET>
 	<FRAMESET id="TUR10-1157220">
 		<ARG name="ARG0" function="pag">beraberce davranan kişi</ARG>
 		<ARG name="ARG1" function="com" grammaticalCase="ins">beraberce davranılan kişi</ARG>
@@ -58780,9 +58226,6 @@
 	<FRAMESET id="TUR10-1157300">
 		<ARG name="ARG1" function="ppt">kabul edilen şey</ARG>
 		<ARG name="ARG2" function="ppt">ne kabul edildiği</ARG>
-	</FRAMESET>
-	<FRAMESET id="TUR10-1157320">
-		<ARG name="ARG1" function="ppt">telaşlanan kişi</ARG>
 	</FRAMESET>
 	<FRAMESET id="TUR10-1157330">
 		<ARG name="ARG1" function="ppt">telaşa gelen iş</ARG>
@@ -58944,10 +58387,6 @@
 	<FRAMESET id="TUR10-1158150">
 		<ARG name="ARG0" function="pag">çözen kişi</ARG>
 		<ARG name="ARG1" function="ppt" grammaticalCase="acc,nom">çözülen şey</ARG>
-	</FRAMESET>
-	<FRAMESET id="TUR10-1158300">
-		<ARG name="ARG0" function="pag">temizleyen kişi</ARG>
-		<ARG name="ARG1" function="ppt" grammaticalCase="nom">temizlenen şey / yer</ARG>
 	</FRAMESET>
 	<FRAMESET id="TUR10-1158320">
 		<ARG name="ARG0" function="pag">zararlı şeyleri yok eden kişi</ARG>
@@ -59527,10 +58966,6 @@
 		<ARG name="ARG0" function="pag">kovculuk eden kişi</ARG>
 		<ARG name="ARG1" function="ppt" grammaticalCase="acc,nom">hakkında kovculuk edilen kişi</ARG>
 	</FRAMESET>
-	<FRAMESET id="TUR10-1161250">
-		<ARG name="ARG0" function="pag">aşağılayan kişi</ARG>
-		<ARG name="ARG1" function="ppt" grammaticalCase="acc,nom">aşağılanan kişi / şey</ARG>
-	</FRAMESET>
 	<FRAMESET id="TUR10-1161270">
 		<ARG name="ARG0" function="pag">süsleyen kişi</ARG>
 		<ARG name="ARG1" function="ppt" grammaticalCase="acc">süslenen şey</ARG>
@@ -59596,10 +59031,6 @@
 	</FRAMESET>
 	<FRAMESET id="TUR10-1161870">
 		<ARG name="ARG0" function="pag">etkisini yok eden kişi</ARG>
-	</FRAMESET>
-	<FRAMESET id="TUR10-1161890">
-		<ARG name="ARG0" function="pag">tırpanlayan kişi</ARG>
-		<ARG name="ARG1" function="ppt" grammaticalCase="acc">tırpanlanan şey</ARG>
 	</FRAMESET>
 	<FRAMESET id="TUR10-1161910">
 		<ARG name="ARG0" function="pag">süsleyen kişi</ARG>
@@ -59709,9 +59140,6 @@
 		<ARG name="ARG1" function="src" grammaticalCase="dat">toprağın alındığı yer</ARG>
 		<ARG name="ARG2" function="gol">toprağın götürüldüğü yer</ARG>
 	</FRAMESET>
-	<FRAMESET id="TUR10-1163380">
-		<ARG name="ARG1" function="ppt">ölen kişi</ARG>
-	</FRAMESET>
 	<FRAMESET id="TUR10-1163440">
 		<ARG name="ARG1" function="ppt">ölümü üzerinden çok zaman geçen kişi</ARG>
 	</FRAMESET>
@@ -59782,10 +59210,6 @@
 		<ARG name="ARG0" function="pag">temizleyen kişi</ARG>
 		<ARG name="ARG1" function="ppt" grammaticalCase="gen">temizlenen şey</ARG>
 		<ARG name="ARG2" function="com">alet</ARG>
-	</FRAMESET>
-	<FRAMESET id="TUR10-1163930">
-		<ARG name="ARG0" function="pag">döven kişi</ARG>
-		<ARG name="ARG1" function="ppt" grammaticalCase="gen">dövülen kişi</ARG>
 	</FRAMESET>
 	<FRAMESET id="TUR10-1163940">
 		<ARG name="ARG1" function="ppt">suç işlediği düşünülen kişi</ARG>
@@ -61882,10 +61306,6 @@
 		<ARG name="ARG0" function="pag">eski duruma döndüren kişi</ARG>
 		<ARG name="ARG1" function="ppt" grammaticalCase="acc">eski duruma döndürülen şey</ARG>
 	</FRAMESET>
-	<FRAMESET id="TUR10-1183070">
-		<ARG name="ARG0" function="pag">yapan kişi</ARG>
-		<ARG name="ARG1" function="ppt" grammaticalCase="acc">yapılan şey</ARG>
-	</FRAMESET>
 	<FRAMESET id="TUR10-1183110">
 		<ARG name="ARG1" function="ppt">iyi yerleşen şey</ARG>
 	</FRAMESET>
@@ -63126,9 +62546,6 @@
 		<ARG name="ARG0" function="pag">seven kişi</ARG>
 		<ARG name="ARG1" function="ppt" grammaticalCase="gen">sevilen kişi</ARG>
 	</FRAMESET>
-	<FRAMESET id="TUR10-1192380">
-		<ARG name="ARG0" function="pag">kuruntuya düşen kişi</ARG>
-	</FRAMESET>
 	<FRAMESET id="TUR10-1192400">
 		<ARG name="ARG0" function="pag">vesveseye kapılan kişi</ARG>
 	</FRAMESET>
@@ -63547,11 +62964,6 @@
 	<FRAMESET id="TUR10-1196510">
 		<ARG name="ARG1" function="ppt">boyu değişen şey</ARG>
 	</FRAMESET>
-	<FRAMESET id="TUR10-1196610">
-		<ARG name="ARG0" function="pag">dahil eden kişi</ARG>
-		<ARG name="ARG1" function="ppt" grammaticalCase="acc,nom">dahil edilen şey</ARG>
-		<ARG name="ARG2" function="dir">içine dahil edilen grup</ARG>
-	</FRAMESET>
 	<FRAMESET id="TUR10-1196720">
 		<ARG name="ARG0" function="pag">redakte eden kişi</ARG>
 		<ARG name="ARG1" function="ppt" grammaticalCase="acc">redakte edilen şey</ARG>
@@ -63745,10 +63157,6 @@
 		<ARG name="ARG0" function="pag">dahil etmeyen kişi</ARG>
 		<ARG name="ARG1" function="ppt" grammaticalCase="acc,nom">dahil edilmeyen şey / kişi</ARG>
 		<ARG name="ARG2" function="dir">içine dahil edilmeyen grup</ARG>
-	</FRAMESET>
-	<FRAMESET id="TUR10-1198430">
-		<ARG name="ARG0" function="pag">hata yapan kişi</ARG>
-		<ARG name="ARG1" function="ppt" grammaticalCase="loc">hata yapılan konu</ARG>
 	</FRAMESET>
 	<FRAMESET id="TUR10-1198450">
 		<ARG name="ARG0" function="pag">akıl karıştıran kişi / şey</ARG>
@@ -64226,10 +63634,6 @@
 		<ARG name="ARG0" function="pag">canlandıran kişi</ARG>
 		<ARG name="ARG1" function="ppt" grammaticalCase="acc">canlandırılan şey</ARG>
 	</FRAMESET>
-	<FRAMESET id="TUR10-1203120">
-		<ARG name="ARG0" function="pag">canlandıran kişi</ARG>
-		<ARG name="ARG1" function="ppt" grammaticalCase="acc">canlandırılan şey</ARG>
-	</FRAMESET>
 	<FRAMESET id="TUR10-1203160">
 		<ARG name="ARG0" function="pag">sevkeden şey</ARG>
 		<ARG name="ARG1" function="ppt" grammaticalCase="dat">sevkedilen kişi / şey</ARG>
@@ -64250,9 +63654,6 @@
 	<FRAMESET id="TUR10-1203450">
 		<ARG name="ARG0" function="pag">sahte davranan kişi</ARG>
 		<ARG name="ARG1" function="dir" grammaticalCase="dat">sahte davrandığı kişi</ARG>
-	</FRAMESET>
-	<FRAMESET id="TUR10-1203510">
-		<ARG name="ARG0" function="pag">doğaçlama yapan kişi</ARG>
 	</FRAMESET>
 	<FRAMESET id="TUR10-1203770">
 		<ARG name="ARG0" function="pag">rahatsız eden şey / kişi</ARG>
@@ -64279,9 +63680,6 @@
 	<FRAMESET id="TUR10-1203980">
 		<ARG name="ARG0" function="pag">umudunu kaybeden kişi</ARG>
 		<ARG name="ARG1" function="ppt">umut kaybedilen şey</ARG>
-	</FRAMESET>
-	<FRAMESET id="TUR10-1203990">
-		<ARG name="ARG1" function="ppt">umutlu kişi</ARG>
 	</FRAMESET>
 	<FRAMESET id="TUR10-1204020">
 		<ARG name="ARG0" function="pag">zevk veren şey</ARG>
@@ -64978,10 +64376,6 @@
 		<ARG name="ARG1" function="ppt">süren şey</ARG>
 		<ARG name="ARG2" function="tmp">süre</ARG>
 	</FRAMESET>
-	<FRAMESET id="TUR10-1242740">
-		<ARG name="ARG0" function="pag">tutan kişi</ARG>
-		<ARG name="ARG1" function="ppt" grammaticalCase="acc">tutulan şey</ARG>
-	</FRAMESET>
 	<FRAMESET id="TUR10-1242750">
 		<ARG name="ARG0" function="pag">telaşlanan kişi</ARG>
 	</FRAMESET>
@@ -65127,10 +64521,6 @@
 	<FRAMESET id="TUR10-1246130">
 		<ARG name="ARG0" function="pag">boğan kişi</ARG>
 		<ARG name="ARG1" function="ppt" grammaticalCase="acc,dat">boğulan şey</ARG>
-	</FRAMESET>
-	<FRAMESET id="TUR10-1246140">
-		<ARG name="ARG0" function="pag">seven kişi</ARG>
-		<ARG name="ARG1" function="ppt" grammaticalCase="gen">sevilen şey</ARG>
 	</FRAMESET>
 	<FRAMESET id="TUR10-1246150">
 		<ARG name="ARG0" function="pag">açığa çıkaran kişi</ARG>
