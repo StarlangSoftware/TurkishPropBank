@@ -52,6 +52,10 @@ The structure of a sample frameset is as follows:
 
 Each entry in the frame file is enclosed by <FRAMESET> and </FRAMESET> tags. id shows the unique identifier given to the frameset, which is the same ID in the synset file of the corresponding verb sense. <ARG> tags denote the semantic roles of the corresponding frame.
 
+Simple Web Interface
+============
+[Link 1](https://starlangsoftware.github.io/nlptoolkit-web-simple/turkish-propbank.html) [Link 2](http://104.247.163.162/nlptoolkit/turkish-propbank.html)
+
 Video Lectures
 ============
 
