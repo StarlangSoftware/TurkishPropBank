@@ -57,11 +57,6 @@ Video Lectures
 
 [<img src=video.jpg width="50%">](https://youtu.be/TeVnGaYuORQ)
 
-Class Diagram
-============
-
-<img src="classDiagram.png">
-
 For Developers
 ============
 
@@ -197,6 +192,10 @@ Bir framesetin tüm argümanlarını bulmak için
 
 For Contibutors
 ============
+
+### Class Diagram
+
+<img src="classDiagram.png">
 
 ### pom.xml file
 1. Standard setup for packaging is similar to:
