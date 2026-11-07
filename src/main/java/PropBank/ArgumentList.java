@@ -78,7 +78,7 @@ public class ArgumentList {
      */
     public boolean containsPredicate(){
         for (Argument argument : arguments) {
-            if (argument.getArgumentType().equals("PREDICATE")){
+            if (argument.getArgumentType() != null && argument.getArgumentType().equals("PREDICATE")){
                 return true;
             }
         }
@@ -92,11 +92,41 @@ public class ArgumentList {
      */
     public boolean containsPredicateWithId(String predicateId){
         for (Argument argument : arguments) {
-            if (argument.getArgumentType().equals("PREDICATE") && argument.getId().equals(predicateId)){
+            if (argument.getArgumentType() != null && argument.getArgumentType().equals("PREDICATE") && argument.getId() != null && argument.getId().equals(predicateId)){
                 return true;
             }
         }
         return false;
+    }
+
+    /**
+     * Returns the first argument with the specified predicate id.
+     *
+     * @param predicateId Id of the predicate argument to search for.
+     * @return Argument with the specified predicate id, or null if no matching argument exists.
+     */
+    public Argument getArgumentWithId(String predicateId){
+        for (Argument argument : arguments) {
+            if (argument.getId() != null && argument.getId().equals(predicateId)){
+                return argument;
+            }
+        }
+        return null;
+    }
+
+    /**
+     * Returns the first non-predicate argument with the specified predicate id.
+     *
+     * @param predicateId Id of the non-predicate argument to search for.
+     * @return Non-predicate argument with the specified id, or null if no matching argument exists.
+     */
+    public Argument getNonPredicateArgumentWithId(String predicateId){
+        for (Argument argument : arguments) {
+            if (argument.getArgumentType() != null && !argument.getArgumentType().equals("PREDICATE") && argument.getId() != null && argument.getId().equals(predicateId)){
+                return argument;
+            }
+        }
+        return null;
     }
 
     /**
